@@ -1,3 +1,21 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "en-gb"
+DefaultContentLanguage = "en"
+
+[languages]
+  [languages.en]
+    title = "The UK Web Archive"
+    weight = 1
+    [languages.en.params]
+      linkedin = "https://linkedin.com/whoever"
+  [languages.cy]
+    title = "TBC"
+    weight = 2
+    [languages.cy.params]
+      linkedin = "https://linkedin.com/fr/whoever"
+      [languages.fr.params.navigation]
+        help = "Aide"
+
+[params]
+  [params.navigation]
+    help = "Help"
