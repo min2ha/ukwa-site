@@ -2,52 +2,47 @@
 
 <html lang="en">
 <head>
-<base href="/" />
-<title>
-{{ .Params.title }}
-</title>
-    <meta charset="utf-8">
+<title>{{ .Params.title }}</title>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" href="img/icons/favicon.png" type="image/png"/>
+<link rel="icon" href="/img/icons/favicon.png" type="image/png"/>
 
 <!--[if (gt IE 9)|!(IE)]><!-->
-<link rel="stylesheet" href="includes/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet" href="/includes/bootstrap/css/bootstrap.min.css">
 <!--<![endif]-->
 <!--[if lt IE 10]>
-	<link rel="stylesheet" href="includes/bootstrap3/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/bootstrap3/css/bootstrap.min.css">
 <!--<![endif]--> 
-<link rel="stylesheet" href="includes/jqueryui/jquery-ui.min.css">
-<link rel="stylesheet" href="includes/jquery-lightbox/dist/simpleLightbox.min.css">
-<link rel="stylesheet" href="css/main.css">
+<link rel="stylesheet" href="/includes/jqueryui/jquery-ui.min.css">
+<link rel="stylesheet" href="/includes/jquery-lightbox/dist/simpleLightbox.min.css">
+<link rel="stylesheet" href="/css/main.css">
 <!--[if lt IE 10]>
-	<script src="includes/html5shiv/html5shiv.js"></script>
-	<script src="includes/respondjs/respond.min.js"></script>
+  <script src="includes/html5shiv/html5shiv.js"></script>
+  <script src="includes/respondjs/respond.min.js"></script>
     <script src="includes/jquery-1.12.4.min.js"></script>
     <script src="includes/bootstrap3/js/bootstrap.min.js"></script>
 <!--<![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!-->
-<script src="includes/jquery-3.2.1.min.js"></script>
+<script src="/includes/jquery-3.2.1.min.js"></script>
 <!--<![endif]-->
-<script src="includes/jquery.cookie.min.js"></script>
-<script src="includes/jqueryui/jquery-ui.min.js"></script>
-<script src="includes/jquery-preload/jquery.preload.min.js"></script>
-<script src="includes/jquery-number/jquery.number.min.js"></script>
+<script src="/includes/jquery.cookie.min.js"></script>
+<script src="/includes/jqueryui/jquery-ui.min.js"></script>
+<script src="/includes/jquery-preload/jquery.preload.min.js"></script>
+<script src="/includes/jquery-number/jquery.number.min.js"></script>
 
 <!--[if (gt IE 9)|!(IE)]><!-->
-<script src="includes/popperjs/umd/popper.min.js"></script>
-<script src="includes/tether/js/tether.min.js"></script>
-<script src="includes/bootstrap/js/bootstrap.min.js"></script>
+<script src="/includes/popperjs/umd/popper.min.js"></script>
+<script src="/includes/tether/js/tether.min.js"></script>
+<script src="/includes/bootstrap/js/bootstrap.min.js"></script>
 <!--<![endif]-->
 
-<script src="includes/match-height/dist/jquery.matchHeight-min.js" type="text/javascript"></script>
-<script src="includes/jquery-lightbox/dist/simpleLightbox.min.js"></script>
-<script src="includes/common.js"></script>
-
+<script src="/includes/match-height/dist/jquery.matchHeight-min.js" type="text/javascript"></script>
+<script src="/includes/jquery-lightbox/dist/simpleLightbox.min.js"></script>
+<script src="/includes/common.js"></script>
 
 </head>
 
 <body>
-
 <nav>
   <div class="main-menu-block"></div>
   <div class="main-menu">
@@ -71,20 +66,37 @@
     </div>
     </a>
     
-     <a href="/cy/ukwa/index?" title="Cymraeg" tabindex="-1">
+    
+    
+    
+     <a href="/cy/ukwa/collection?" title="Cymraeg" tabindex="-1">
       <div class="main-menu-item border-none"><span lang="cy">Cymraeg</span> </div>
       </a>
-     <a href="/gd/ukwa/index?" title="Gàidhlig" tabindex="-1">
+     <a href="/gd/ukwa/collection?" title="Gàidhlig" tabindex="-1">
       <div class="main-menu-item border-none"><span lang="gd">Gàidhlig</span></div>
       </a> 
   </div>
   </div>
 </nav>
 
-
-
 <div class="container-fluid">
-<header>
+  <header>
+  <!-- Modal -->
+<div class="modal fade" id="pleaseWaitDialog" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog" style="padding-top:15%" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h2 class="modal-title mobile-dialog text-center">Your search is in progress  Please wait...                    
+                </h2>
+            </div>
+            <div class="modal-body center pleasewait-modal-body-config">
+                <div class="center-block align-items-center" >
+                        <img src="/img/icons/gif4.gif">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 <!-- Top Line -->
 <div>
     <hr style="width: 100%; color: darkblue; height: 2px; background-color:royalblue; margin-bottom:1px !important;margin-top:1px !important;" />
@@ -92,28 +104,23 @@
 <div class="relative shadow-redesign" style="z-index: 1001">
 <!-- Language menu -->
 <div class="row  navbar-collapse justify-content-end">
-<div class="col-lg-3 col-md-12 padding-right-20 right">
+<div class="col-lg-3 col-md-4 col-sm-4 col-xs-12 padding-right-20 right">
         
         
         
         
-            <div class="header-menu-language-item margin-0"><a href="/cy/ukwa/index?" title="Cymraeg">
+            <div class="header-menu-language-item margin-0"><a href="/cy/ukwa/collection?" title="Cymraeg">
                 <span lang="cy">Cymraeg</span>
-            </a></div>
-        
-        
-            <div class="header-menu-language-item"><a href="/gd/ukwa/index?" title="Gàidhlig">
-                <span lang="gd">Gàidhlig</span>
             </a></div>
         
         
 </div>
 </div>
 <div id="header-menu" class="row center padding-left-60 padding-bottom-20 align-items-end">
-    <div class="col-sm-auto col-md-auto col-sm-auto">
-        <a href="index"><img src="img/ukwa-logo-60px.jpg" class="header-logo"></a>
+    <div class="col-auto">
+        <a href="index"><img src="/img/ukwa-2018-logo.png" class="header-logo"></a>
     </div>
-    <div class="col-lg-1 col-md-1 col-sm-1">&nbsp;</div>
+    <div class="col-lg-1 col-md-1 col-sm-1 d-none d-sm-block">&nbsp;</div>
 
   <div id="headermenu_index" class="col-sm-auto header-menu-item padding-bottom-10"><a href="index" title="Home">
     Home
@@ -132,3 +139,4 @@
     </a></div>
   </div>
 </div>
+  </header>
