@@ -1,18 +1,17 @@
 {{ define "content" }}
-<section>
-  <ul class="posts_listing">
-    {{ range where .Pages.ByDate.Reverse "Section" "post" }}
-    <li>
-      <div class="row" id="posts">
-        <div class="d-none d-sm-block col-sm-3 date-time-title">
-          <time>{{ .Date.Format "02 Jan 2006" }}</time>
+        <div class="row">
+    <div class="col-12 white main-search-input-new left background-settings-default">
+      <div class="main-heading-2-bold-redesign white">{{ .Params.Title }}</div>
+            </div>
         </div>
-        <div class="col-sm date-time-title post">
-          <a href="{{ .URL }}">{{ .Title }}</a>
-        </div>
-      </div>
-    </li>
-    {{ end }}
-  </ul>
-</section>
+  <main>
+      {{ .Content }}
+          <ul class="contents">
+          {{ range .Paginator.Pages }}
+              <li><span class="col-sm date-time-title post"><a href="{{ .URL }}">{{ .Title }}</a></span>
+              </li>
+          {{ end }}
+          </ul>
+      {{ template "_internal/pagination.html" . }}
+  </main>
 {{ end }}

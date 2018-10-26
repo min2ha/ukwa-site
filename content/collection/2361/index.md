@@ -1,0 +1,42 @@
+{
+  "startDate": 1114905600000, 
+  "endDate": null, 
+  "name": "Africa UK", 
+  "title": "Africa UK", 
+  "startDateText": "01-05-2005", 
+  "highlights": [], 
+  "description": "This is a representative collection of websites produced by African communities in the UK or by UK organisations with direct links to these communities and to the region. ", 
+  "id": 2361, 
+  "field_publish": true, 
+  "targetIds": [
+    7793, 
+    2087, 
+    2598, 
+    4972, 
+    5441, 
+    5442, 
+    5695, 
+    5999, 
+    6000, 
+    6001, 
+    6002, 
+    6003, 
+    6004, 
+    6405, 
+    6388, 
+    6427, 
+    6428, 
+    7551, 
+    74742
+  ], 
+  "updatedAt": 1538982575212, 
+  "ttype": "collections", 
+  "revision": null, 
+  "children": [], 
+  "createdAt": null, 
+  "endDateText": ""
+}
+
+# Africa UK
+
+This is a representative collection of websites produced by African communities in the UK or by UK organisations with direct links to these communities and to the region. 

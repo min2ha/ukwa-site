@@ -1,0 +1,48 @@
+{
+  "startDate": 1167609600000, 
+  "endDate": 1222819200000, 
+  "name": "Smoking Ban UK 2007", 
+  "title": "Smoking Ban UK 2007", 
+  "startDateText": "01-01-2007", 
+  "highlights": [], 
+  "description": "This collection was created to record events surrounding, and responses to, the ban on smoking in all public places across the UK.", 
+  "id": 2369, 
+  "field_publish": true, 
+  "targetIds": [
+    5958, 
+    6835, 
+    6838, 
+    6839, 
+    7416, 
+    7920, 
+    8207, 
+    3109, 
+    74512, 
+    75058, 
+    75221, 
+    75473, 
+    76264, 
+    80275, 
+    80279, 
+    80438, 
+    80464, 
+    80956, 
+    74079, 
+    74081, 
+    74141, 
+    74142, 
+    74146, 
+    74147, 
+    72386
+  ], 
+  "updatedAt": 1539089310910, 
+  "ttype": "collections", 
+  "revision": "", 
+  "children": [], 
+  "createdAt": null, 
+  "endDateText": "01-10-2008"
+}
+
+# Smoking Ban UK 2007
+
+This collection was created to record events surrounding, and responses to, the ban on smoking in all public places across the UK.

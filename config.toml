@@ -1,6 +1,9 @@
-baseURL = "http://example.org/"
+baseURL = "https://www.webarchive.org.uk"
 languageCode = "en-gb"
 DefaultContentLanguage = "en"
+
+rssLimit = 100
+Paginate = 100
 
 [languages]
   [languages.en]

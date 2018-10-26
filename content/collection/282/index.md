@@ -1,0 +1,50 @@
+{
+  "startDate": null, 
+  "endDate": null, 
+  "name": "UK relations with the Low Countries", 
+  "title": "UK relations with the Low Countries", 
+  "startDateText": "", 
+  "highlights": [], 
+  "description": "Websites published in the UK related to the Low Countries of Belgium, Luxembourg and the Netherlands. ", 
+  "id": 282, 
+  "field_publish": false, 
+  "targetIds": [
+    60956, 
+    2291, 
+    2519, 
+    8873, 
+    16168, 
+    16156, 
+    16173, 
+    75992, 
+    76372, 
+    77357, 
+    77666, 
+    77732, 
+    77849, 
+    78036, 
+    78054, 
+    78088, 
+    78250, 
+    78251, 
+    78256, 
+    78257, 
+    78258, 
+    78263, 
+    78264, 
+    78266, 
+    78267, 
+    78275, 
+    76686
+  ], 
+  "updatedAt": 1532605217297, 
+  "ttype": "collections", 
+  "revision": "", 
+  "children": [], 
+  "createdAt": 1423490843734, 
+  "endDateText": ""
+}
+
+# UK relations with the Low Countries
+
+Websites published in the UK related to the Low Countries of Belgium, Luxembourg and the Netherlands. 
