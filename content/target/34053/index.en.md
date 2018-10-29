@@ -1,0 +1,16 @@
+{
+  "date": "2018-10-29T11:24:58.149991", 
+  "open_access": false, 
+  "target_url": "http://www.c-r.org/", 
+  "description": "Conciliation Resources is an independent organisation working with people in conflict to prevent violence and build peace.", 
+  "end_date": null, 
+  "title": "Conciliation Resources ", 
+  "record_id": "20181029T112458/lW9a8alnhIHnVuUuox5htw==", 
+  "publisher": "c-r.org", 
+  "start_date": null, 
+  "subject": "Political Action and Communication"
+}
+
+# Conciliation Resources 
+
+Conciliation Resources is an independent organisation working with people in conflict to prevent violence and build peace.

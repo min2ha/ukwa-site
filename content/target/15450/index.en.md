@@ -1,0 +1,16 @@
+{
+  "date": "2018-10-29T11:25:10.630080", 
+  "open_access": false, 
+  "target_url": "http://insider.zurich.co.uk/expert-lab/ebola-outbreak-means-business-travel/", 
+  "description": null, 
+  "end_date": null, 
+  "title": "Zurich Insider: What the Ebola outbreak means for business travel", 
+  "record_id": "20181029T112510/4PQxuZrD1V8PA8AJBjIYrQ==", 
+  "publisher": "zurich.co.uk", 
+  "start_date": null, 
+  "subject": "Ebola Outbreak, West Africa 2014"
+}
+
+# Zurich Insider: What the Ebola outbreak means for business travel
+
+None

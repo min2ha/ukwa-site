@@ -1,0 +1,16 @@
+{
+  "date": "2015-04-13T13:00:00", 
+  "open_access": false, 
+  "target_url": "http://www.theguardian.com/politics/2015/mar/18/ed-miliband-uses-five-pmqs-attack-david-cameron-health-service", 
+  "description": null, 
+  "end_date": "2015-04-14T13:00:00Z", 
+  "title": " Guardian, The: Miliband uses pre-budget PMQs to attack Cameron over NHS record", 
+  "record_id": "20150413T130000/FRMwaOC5Tlp4WTlDFZlQiA==", 
+  "publisher": "theguardian.com", 
+  "start_date": "2015-04-13T13:00:00Z", 
+  "subject": "UK General Election 2015"
+}
+
+#  Guardian, The: Miliband uses pre-budget PMQs to attack Cameron over NHS record
+
+None

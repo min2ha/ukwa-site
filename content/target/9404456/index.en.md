@@ -1,0 +1,16 @@
+{
+  "date": "2013-10-14T10:00:00", 
+  "open_access": true, 
+  "target_url": "http://darwin-online.org.uk/", 
+  "description": null, 
+  "end_date": null, 
+  "title": "Complete Work of Charles Darwin Online, The", 
+  "record_id": "20131014T100000/ZROou0QbCC64QTUUtagBJw==", 
+  "publisher": "darwin-online.org.uk", 
+  "start_date": "2013-10-14T10:00:00Z", 
+  "subject": "Darwin 200"
+}
+
+# Complete Work of Charles Darwin Online, The
+
+None

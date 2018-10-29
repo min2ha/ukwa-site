@@ -1,0 +1,15 @@
+{
+  "date": "2018-06-14T09:00:00", 
+  "open_access": false, 
+  "target_url": "https://twitter.com/AylesburyRFC", 
+  "description": "", 
+  "end_date": null, 
+  "title": "Aylesbury Rugby Football Club", 
+  "record_id": "20180614T090000//NpEFCKeux/UxF8cBkckNQ==", 
+  "publisher": "twitter.com", 
+  "start_date": "2018-06-14T09:00:00Z", 
+  "subject": "Sport: Football"
+}
+
+# Aylesbury Rugby Football Club
+

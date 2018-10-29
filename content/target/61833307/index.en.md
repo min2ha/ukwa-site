@@ -1,0 +1,16 @@
+{
+  "date": "2013-10-14T10:00:00", 
+  "open_access": true, 
+  "target_url": "http://blog.lapetitefeministeanglaise.co.uk/", 
+  "description": null, 
+  "end_date": null, 
+  "title": "La Petite Feministe Anglaise", 
+  "record_id": "20131014T100000/iacJdi5KMC7KA+wBgg4hXQ==", 
+  "publisher": "lapetitefeministeanglaise.co.uk", 
+  "start_date": "2013-10-14T10:00:00Z", 
+  "subject": "Women's Issues"
+}
+
+# La Petite Feministe Anglaise
+
+None

@@ -1,0 +1,16 @@
+{
+  "date": "2013-10-14T10:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.catholic-womens-ordination.org.uk/", 
+  "description": null, 
+  "end_date": null, 
+  "title": "Catholic Women's Ordination", 
+  "record_id": "20131014T100000/2adOPBGd/hu5ffFIMeSqjQ==", 
+  "publisher": "catholic-womens-ordination.org.uk", 
+  "start_date": "2013-10-14T10:00:00Z", 
+  "subject": "Women's Issues"
+}
+
+# Catholic Women's Ordination
+
+None

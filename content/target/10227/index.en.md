@@ -1,0 +1,15 @@
+{
+  "date": "2014-05-02T00:00:00", 
+  "open_access": false, 
+  "target_url": "https://twitter.com/biondi4europe/", 
+  "description": "", 
+  "end_date": "2014-06-07T01:00:00Z", 
+  "title": "Andrea Biondi, Labour on Twitter", 
+  "record_id": "20140502T000000/5JuzlxFFfLcvFlRSkVB1nw==", 
+  "publisher": "twitter.com", 
+  "start_date": "2014-05-02T00:00:00Z", 
+  "subject": "European Parliament Elections 2014"
+}
+
+# Andrea Biondi, Labour on Twitter
+

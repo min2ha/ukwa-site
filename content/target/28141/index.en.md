@@ -1,0 +1,16 @@
+{
+  "date": "2015-06-18T09:00:00", 
+  "open_access": false, 
+  "target_url": "http://www.manchestercathedral.org/", 
+  "description": "Official website of the Manchester Cathedral.", 
+  "end_date": null, 
+  "title": "Manchester Cathedral", 
+  "record_id": "20150618T090000/SOKpvcVrnXoJebJrzRQjVA==", 
+  "publisher": "manchestercathedral.org", 
+  "start_date": "2015-06-18T09:00:00Z", 
+  "subject": "Religion/Theology"
+}
+
+# Manchester Cathedral
+
+Official website of the Manchester Cathedral.

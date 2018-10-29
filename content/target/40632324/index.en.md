@@ -1,0 +1,15 @@
+{
+  "date": "2018-10-29T11:24:21.554409", 
+  "open_access": true, 
+  "target_url": "http://news.bbc.co.uk/1/hi/uk/6259684.stm", 
+  "description": "", 
+  "end_date": null, 
+  "title": "BBC News: Johnson hails 'popular' smoke ban", 
+  "record_id": "20181029T112421/1MpYoM2qQFIdZ7qCZSshJA==", 
+  "publisher": "bbc.co.uk", 
+  "start_date": null, 
+  "subject": "Smoking Ban UK 2007"
+}
+
+# BBC News: Johnson hails 'popular' smoke ban
+

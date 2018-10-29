@@ -1,0 +1,15 @@
+{
+  "date": "2018-10-29T11:24:24.665479", 
+  "open_access": true, 
+  "target_url": "http://www.lydialeith.com/sick-bags/", 
+  "description": "", 
+  "end_date": null, 
+  "title": "Lydia Leith: Olympic and Diamond Jubilee Sick Bags", 
+  "record_id": "20181029T112424/N7o4dzACHEroK1l8rkTAqg==", 
+  "publisher": "lydialeith.com", 
+  "start_date": null, 
+  "subject": null
+}
+
+# Lydia Leith: Olympic and Diamond Jubilee Sick Bags
+

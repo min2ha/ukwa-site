@@ -1,0 +1,15 @@
+{
+  "date": "2015-03-28T01:00:00", 
+  "open_access": false, 
+  "target_url": "http://www.express.co.uk/news/uk/28941/Magna-Carta-auctioned-for-10-6m", 
+  "description": "", 
+  "end_date": "2015-03-28T02:00:00Z", 
+  "title": "Daily Express: Magna Carta auctioned for \u00a310.6m", 
+  "record_id": "20150328T010000/+ep0zl5l7SloJQ2YdR8A8w==", 
+  "publisher": "express.co.uk", 
+  "start_date": "2015-03-28T01:00:00Z", 
+  "subject": "Magna Carta 2015"
+}
+
+# Daily Express: Magna Carta auctioned for £10.6m
+

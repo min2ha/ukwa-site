@@ -1,0 +1,20 @@
+{
+  "date": "2018-08-31T09:00:00", 
+  "open_access": true, 
+  "target_url": "http://blockchain.cs.ucl.ac.uk/", 
+  "description": "The UCL Centre for Blockchain Technologies\r\n(CBT) provides a cross-sectoral platform, which\r\ndrives the adoption and integration of Blockchain\r\nand Distributed Ledger Technologies into our\r\nsocio-economic system.\r\n", 
+  "end_date": null, 
+  "title": "UCL Centre for Blockchain Technologies (UCL CBT)", 
+  "record_id": "20180831T090000/8FdZBFuwniSLs7d2YNBaZA==", 
+  "publisher": "ucl.ac.uk", 
+  "start_date": "2018-08-31T09:00:00Z", 
+  "subject": "IT Collection"
+}
+
+# UCL Centre for Blockchain Technologies (UCL CBT)
+
+The UCL Centre for Blockchain Technologies
+(CBT) provides a cross-sectoral platform, which
+drives the adoption and integration of Blockchain
+and Distributed Ledger Technologies into our
+socio-economic system.

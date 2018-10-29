@@ -1,0 +1,16 @@
+{
+  "date": "2013-10-14T10:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.blackwomenart.org.uk/", 
+  "description": null, 
+  "end_date": null, 
+  "title": "Black Women in the Arts (BWA)", 
+  "record_id": "20131014T100000/yrNC1wV8FfYhi0jgndr1Vw==", 
+  "publisher": "blackwomenart.org.uk", 
+  "start_date": "2013-10-14T10:00:00Z", 
+  "subject": "Women's Issues"
+}
+
+# Black Women in the Arts (BWA)
+
+None

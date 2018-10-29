@@ -1,0 +1,15 @@
+{
+  "date": "2018-07-18T09:00:00", 
+  "open_access": false, 
+  "target_url": "http://www.richardlochhead.org/", 
+  "description": "", 
+  "end_date": "2021-05-01T00:00:00Z", 
+  "title": "Richard Lochhead MSP for Moray, Scottish National Party Member in The Scottish Parliament", 
+  "record_id": "20180718T090000/TiCVROGz4Swn/24qZExrsQ==", 
+  "publisher": "richardlochhead.org", 
+  "start_date": "2018-07-18T09:00:00Z", 
+  "subject": "Scottish Parliament Election 2016"
+}
+
+# Richard Lochhead MSP for Moray, Scottish National Party Member in The Scottish Parliament
+

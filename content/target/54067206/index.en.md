@@ -1,0 +1,16 @@
+{
+  "date": "2013-10-14T10:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.smwa.org.uk/", 
+  "description": null, 
+  "end_date": null, 
+  "title": "Southwark Muslim Women's Association (SMWA)", 
+  "record_id": "20131014T100000/gUWHPzD5FFNlhOFUm/uyWw==", 
+  "publisher": "smwa.org.uk", 
+  "start_date": "2013-10-14T10:00:00Z", 
+  "subject": "Women's Issues"
+}
+
+# Southwark Muslim Women's Association (SMWA)
+
+None

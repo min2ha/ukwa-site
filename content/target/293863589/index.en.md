@@ -1,0 +1,16 @@
+{
+  "date": "2015-03-06T00:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.knowthescore.info/", 
+  "description": "Drugs information and advice for Scotland.\r\n", 
+  "end_date": null, 
+  "title": "Know the Score", 
+  "record_id": "20150306T000000/sRtTxXHXQ0FowaDNh1HE0A==", 
+  "publisher": "knowthescore.info", 
+  "start_date": "2015-03-06T00:00:00Z", 
+  "subject": "Scottish Government"
+}
+
+# Know the Score
+
+Drugs information and advice for Scotland.

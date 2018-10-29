@@ -1,0 +1,16 @@
+{
+  "date": "2015-05-15T18:00:00", 
+  "open_access": false, 
+  "target_url": "https://twitter.com/maajidnawaz/", 
+  "description": "Maajid Nawaz stood as Liberal Democrats candidate for Hampstead & Kilburn at the 2015 General Election but was not elected. ", 
+  "end_date": "2015-05-31T18:00:00Z", 
+  "title": "Maajid Nawaz (Liberal Democrats candidate for Hampstead & Kilburn) (@MaajidNawaz) on Twitter", 
+  "record_id": "20150515T180000/4NYNqY6uvLiGSYNmlrpAYg==", 
+  "publisher": "twitter.com", 
+  "start_date": "2015-05-15T18:00:00Z", 
+  "subject": null
+}
+
+# Maajid Nawaz (Liberal Democrats candidate for Hampstead & Kilburn) (@MaajidNawaz) on Twitter
+
+Maajid Nawaz stood as Liberal Democrats candidate for Hampstead & Kilburn at the 2015 General Election but was not elected. 

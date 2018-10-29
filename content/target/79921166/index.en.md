@@ -1,0 +1,16 @@
+{
+  "date": "2013-10-14T10:00:00", 
+  "open_access": true, 
+  "target_url": "http://richardpoynder.co.uk/", 
+  "description": null, 
+  "end_date": null, 
+  "title": "Richard Poynder - Independent Journalist", 
+  "record_id": "20131014T100000/ogt7pGx6wk4b3M+FvMPYXw==", 
+  "publisher": "richardpoynder.co.uk", 
+  "start_date": "2013-10-14T10:00:00Z", 
+  "subject": null
+}
+
+# Richard Poynder - Independent Journalist
+
+None

@@ -1,0 +1,16 @@
+{
+  "date": "2014-09-18T07:00:00", 
+  "open_access": false, 
+  "target_url": "http://www.chathamhouse.org/expert/comment/15729", 
+  "description": null, 
+  "end_date": "2014-09-22T07:00:00Z", 
+  "title": "Chatham House: The Costs of Dis-Union for a UK Without Scotland", 
+  "record_id": "20140918T070000/N6UtscQGuLKoQzPEjKRuLw==", 
+  "publisher": "chathamhouse.org", 
+  "start_date": "2014-09-18T07:00:00Z", 
+  "subject": "Scottish Independence Referendum"
+}
+
+# Chatham House: The Costs of Dis-Union for a UK Without Scotland
+
+None

@@ -1,0 +1,15 @@
+{
+  "date": "2011-09-07T00:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.lancsquakers.org.uk/", 
+  "description": "", 
+  "end_date": "2013-04-30T23:59:59Z", 
+  "title": "Lancashire Quakers", 
+  "record_id": "20110907T000000/i7NRY4QrckmMI0ZWZxhcDw==", 
+  "publisher": "lancsquakers.org.uk", 
+  "start_date": "2011-09-07T00:00:00Z", 
+  "subject": null
+}
+
+# Lancashire Quakers
+

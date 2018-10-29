@@ -1,0 +1,16 @@
+{
+  "date": "2016-02-19T09:00:00", 
+  "open_access": false, 
+  "target_url": "http://www.gtmc.org/wp-content/uploads/documents/948_gtmc-2015-manifesto.pdf", 
+  "description": "GTMC is the representative body for TMCs and the business travel community, the needs and expectations of the business travel community are at the heart of everything they do. They represent over 80% of managed business travel in the UK. They have direct access to the views of thousands of business travellers. Their nationally representative research give them a statistically robust understanding of business travel issues, trends and opportunities in the UK business travel industry.", 
+  "end_date": "2016-02-23T23:59:00Z", 
+  "title": "Guild of Travel Management Companies (GTMC): GTMC 2015 Manifesto", 
+  "record_id": "20160219T090000/iuJpM3iv9Nc2vqf7UFYvog==", 
+  "publisher": "gtmc.org", 
+  "start_date": "2016-02-19T09:00:00Z", 
+  "subject": "UK General Election 2015"
+}
+
+# Guild of Travel Management Companies (GTMC): GTMC 2015 Manifesto
+
+GTMC is the representative body for TMCs and the business travel community, the needs and expectations of the business travel community are at the heart of everything they do. They represent over 80% of managed business travel in the UK. They have direct access to the views of thousands of business travellers. Their nationally representative research give them a statistically robust understanding of business travel issues, trends and opportunities in the UK business travel industry.

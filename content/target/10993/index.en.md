@@ -1,0 +1,16 @@
+{
+  "date": "2018-10-29T11:25:12.868933", 
+  "open_access": false, 
+  "target_url": "http://www.telegraph.co.uk/news/politics/ukip/10836159/Nigel-Farage-in-car-crash-interview-as-he-faces-Ukip-racism-claims.html", 
+  "description": null, 
+  "end_date": null, 
+  "title": "Daily Telegraph: Nigel Farage in car-crash interview as he faces Ukip racism claims", 
+  "record_id": "20181029T112512/UC4Xk8uFT5yIV4+sAT4Nrw==", 
+  "publisher": "telegraph.co.uk", 
+  "start_date": null, 
+  "subject": "European Parliament Elections 2014"
+}
+
+# Daily Telegraph: Nigel Farage in car-crash interview as he faces Ukip racism claims
+
+None

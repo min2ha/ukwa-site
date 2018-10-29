@@ -1,0 +1,15 @@
+{
+  "date": "2018-10-29T11:24:52.216699", 
+  "open_access": false, 
+  "target_url": "http://denniscooper-theweaklings.blogspot.co.uk/", 
+  "description": "The official blog of the american author Dennis Cooper.", 
+  "end_date": null, 
+  "title": "DC\u2019s Blog", 
+  "record_id": "20181029T112452/cjIrs1SraOfPWq/gkZ/cAg==", 
+  "publisher": "blogspot.co.uk", 
+  "start_date": null
+}
+
+# DC’s Blog
+
+The official blog of the american author Dennis Cooper.

@@ -1,0 +1,14 @@
+{
+  "date": "2010-03-31T00:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.annwiddecombemp.com/", 
+  "description": "", 
+  "end_date": "2010-12-12T00:00:00Z", 
+  "title": "Ann Widdecombe MP", 
+  "record_id": "20100331T000000/CjlQu1senQbKolEECOIyvw==", 
+  "publisher": "annwiddecombemp.com", 
+  "start_date": "2010-03-31T00:00:00Z"
+}
+
+# Ann Widdecombe MP
+

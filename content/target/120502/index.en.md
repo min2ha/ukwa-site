@@ -1,0 +1,16 @@
+{
+  "date": "2013-10-14T10:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.oneparentfamilies.org.uk/", 
+  "description": null, 
+  "end_date": null, 
+  "title": "One Parent Families", 
+  "record_id": "20131014T100000/Nx4c/ooh/j31kJdcZRVhfQ==", 
+  "publisher": "oneparentfamilies.org.uk", 
+  "start_date": "2013-10-14T10:00:00Z", 
+  "subject": "Women's Issues"
+}
+
+# One Parent Families
+
+None

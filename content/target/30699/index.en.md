@@ -1,0 +1,16 @@
+{
+  "date": "2015-09-19T10:00:00", 
+  "open_access": false, 
+  "target_url": "http://www.lcbmc.co.uk/", 
+  "description": "Official website of the London College of\r\nBusiness Management and Computing Studies.", 
+  "end_date": null, 
+  "title": "London College of Business Management and Computing Studies (LCBMCS)", 
+  "record_id": "20150919T100000/LO7wdgCM5uXgwprkpsfC9g==", 
+  "publisher": "lcbmc.co.uk", 
+  "start_date": "2015-09-19T10:00:00Z"
+}
+
+# London College of Business Management and Computing Studies (LCBMCS)
+
+Official website of the London College of
+Business Management and Computing Studies.

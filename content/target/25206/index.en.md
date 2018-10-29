@@ -1,0 +1,16 @@
+{
+  "date": "2015-05-15T18:00:00", 
+  "open_access": false, 
+  "target_url": "http://www.mirror.co.uk/news/uk-news/ukip-election-candidate-graham-whitehead-5534308", 
+  "description": null, 
+  "end_date": "2015-05-15T20:00:00Z", 
+  "title": "Daily Mirror: UKIP election candidate Graham Whitehead caught up in 'racism' storm over alleged Facebook posts", 
+  "record_id": "20150515T180000/e7raGEtgEi+NyS2iu6aOWQ==", 
+  "publisher": "mirror.co.uk", 
+  "start_date": "2015-05-15T18:00:00Z", 
+  "subject": "UK General Election 2015"
+}
+
+# Daily Mirror: UKIP election candidate Graham Whitehead caught up in 'racism' storm over alleged Facebook posts
+
+None

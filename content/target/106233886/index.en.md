@@ -1,0 +1,15 @@
+{
+  "date": "2018-10-29T11:24:24.962886", 
+  "open_access": true, 
+  "target_url": "http://news.bbc.co.uk/1/hi/in_depth/uk/2000/newsmakers/1685071.stm", 
+  "description": "", 
+  "end_date": null, 
+  "title": "BBC News: Alice: Through a looking-glass darkly", 
+  "record_id": "20181029T112424/R37cRGE3pqNPpErcFgtxaA==", 
+  "publisher": "bbc.co.uk", 
+  "start_date": null, 
+  "subject": "19th Century English Literature"
+}
+
+# BBC News: Alice: Through a looking-glass darkly
+

@@ -1,0 +1,16 @@
+{
+  "date": "2015-06-18T09:00:00", 
+  "open_access": false, 
+  "target_url": "http://www.bradfordcathedral.org/", 
+  "description": "Official website of the Bradford Cathedral.", 
+  "end_date": null, 
+  "title": "Bradford Cathedral", 
+  "record_id": "20150618T090000/psCo9pDHb/KlNUw1a5M5oQ==", 
+  "publisher": "bradfordcathedral.org", 
+  "start_date": "2015-06-18T09:00:00Z", 
+  "subject": "Religion/Theology"
+}
+
+# Bradford Cathedral
+
+Official website of the Bradford Cathedral.

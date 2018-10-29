@@ -1,0 +1,14 @@
+{
+  "date": "2018-10-29T11:24:24.567773", 
+  "open_access": true, 
+  "target_url": "http://www.apotropaios.co.uk/", 
+  "description": "", 
+  "end_date": null, 
+  "title": "Apotropaios", 
+  "record_id": "20181029T112424/+NgNNJZ/m710XGvmWyNvGw==", 
+  "publisher": "apotropaios.co.uk", 
+  "start_date": null
+}
+
+# Apotropaios
+

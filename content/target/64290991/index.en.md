@@ -1,0 +1,15 @@
+{
+  "date": "2016-01-27T09:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.grosmont.org/", 
+  "description": "A site exploring the village of Grosmont is in Monmouthshire. ", 
+  "end_date": null, 
+  "title": "Grosmont Village", 
+  "record_id": "20160127T090000/CftJ3uNHxYQhAhQVUu+7lw==", 
+  "publisher": "grosmont.org", 
+  "start_date": "2016-01-27T09:00:00Z"
+}
+
+# Grosmont Village
+
+A site exploring the village of Grosmont is in Monmouthshire. 

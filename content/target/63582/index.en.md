@@ -1,0 +1,16 @@
+{
+  "date": "2018-10-29T11:24:33.938796", 
+  "open_access": false, 
+  "target_url": "https://twitter.com/AledDavies2012/", 
+  "description": "Twitter profile of Aled Davies MBE, who competed in the discus event for Team Wales at the Glasgow 2014 Commonwealth Games. ", 
+  "end_date": null, 
+  "title": "Aled Davies MBE (AledDavies2012) on Twitter", 
+  "record_id": "20181029T112433/53V5n20JK7U8S7+52T/nyg==", 
+  "publisher": "twitter.com", 
+  "start_date": null, 
+  "subject": null
+}
+
+# Aled Davies MBE (AledDavies2012) on Twitter
+
+Twitter profile of Aled Davies MBE, who competed in the discus event for Team Wales at the Glasgow 2014 Commonwealth Games. 

@@ -1,0 +1,16 @@
+{
+  "date": "2016-04-05T10:00:00", 
+  "open_access": false, 
+  "target_url": "https://twitter.com/JNHanvey/", 
+  "description": "Twitter profile of Neale Hanvey, the Scottish National Party list candidate for Mid Scotland & Fife region in the 2016 Scottish Parliamentary election.", 
+  "end_date": "2016-05-07T01:00:00Z", 
+  "title": "Neale Hanvey (@JNHanvey) on Twitter", 
+  "record_id": "20160405T100000/WAf0r6AO7rKmRBnSdjnYbQ==", 
+  "publisher": "twitter.com", 
+  "start_date": "2016-04-05T10:00:00Z", 
+  "subject": "Scottish Parliament Election 2016"
+}
+
+# Neale Hanvey (@JNHanvey) on Twitter
+
+Twitter profile of Neale Hanvey, the Scottish National Party list candidate for Mid Scotland & Fife region in the 2016 Scottish Parliamentary election.

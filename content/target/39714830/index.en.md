@@ -1,0 +1,14 @@
+{
+  "date": "2010-03-31T00:00:00", 
+  "open_access": true, 
+  "target_url": "http://www.epolitix.com/mpwebsites/mpwebsitepage/mpsite/sir-patrick-cormack-fsa/", 
+  "description": "", 
+  "end_date": "2010-12-12T00:00:00Z", 
+  "title": "Sir Patrick Cormack MP", 
+  "record_id": "20100331T000000/5X56JMz2olSHNOBIwslQlQ==", 
+  "publisher": "epolitix.com", 
+  "start_date": "2010-03-31T00:00:00Z"
+}
+
+# Sir Patrick Cormack MP
+

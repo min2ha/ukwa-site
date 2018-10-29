@@ -4,6 +4,7 @@ DefaultContentLanguage = "en"
 
 rssLimit = 100
 Paginate = 100
+theme = "ukwa"
 
 [languages]
   [languages.en]

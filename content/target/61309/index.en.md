@@ -1,0 +1,17 @@
+{
+  "date": "2018-02-15T09:00:00", 
+  "open_access": false, 
+  "target_url": "https://www.pontcymru.org/", 
+  "description": "PONT is a not-for-profit organisation which exists to encourage and\r\nfacilitate grazing for the benefit of the wildlife, landscape and\r\ncultural heritage of Wales.", 
+  "end_date": null, 
+  "title": "  PONT, Pori, Natur a Threftadaeth | Grazing, Nature and Heritage", 
+  "record_id": "20180215T090000/kgPxS2NlCTcb+WwBq3Yi6g==", 
+  "publisher": "pontcymru.org", 
+  "start_date": "2018-02-15T09:00:00Z"
+}
+
+#   PONT, Pori, Natur a Threftadaeth | Grazing, Nature and Heritage
+
+PONT is a not-for-profit organisation which exists to encourage and
+facilitate grazing for the benefit of the wildlife, landscape and
+cultural heritage of Wales.

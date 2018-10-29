@@ -1,0 +1,15 @@
+{
+  "date": "2018-10-29T11:24:21.404019", 
+  "open_access": true, 
+  "target_url": "http://www.londonstockexchange.com/", 
+  "description": "", 
+  "end_date": null, 
+  "title": "London Stock Exchange", 
+  "record_id": "20181029T112421/Ltpxoj6/DliEN2eKzRb+nA==", 
+  "publisher": "londonstockexchange.com", 
+  "start_date": null, 
+  "subject": "Credit Crunch"
+}
+
+# London Stock Exchange
+

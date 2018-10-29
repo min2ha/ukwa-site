@@ -1,0 +1,15 @@
+{
+  "date": "2018-10-29T11:24:21.702856", 
+  "open_access": true, 
+  "target_url": "http://www.kingsfund.org.uk/press/press_releases/data_briefing.html", 
+  "description": "", 
+  "end_date": null, 
+  "title": "Kings Fund, The: Hospital waiting times highest for three years as financial strain on the NHS begins to show", 
+  "record_id": "20181029T112421/hwLwUQAQN/LZrUBC2+bqJQ==", 
+  "publisher": "kingsfund.org.uk", 
+  "start_date": null, 
+  "subject": "Spending Cuts 2010: Impact on Social Welfare"
+}
+
+# Kings Fund, The: Hospital waiting times highest for three years as financial strain on the NHS begins to show
+
