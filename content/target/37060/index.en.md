@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Express: Boris Johnson hits out at 'hypocrite' Obama over EU referendum intervention
-

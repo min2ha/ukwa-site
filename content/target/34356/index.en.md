@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Campsie Local History Group
-
 Local history site focussing on the Parish of Campsie located in East Dumbartonshire Scotland

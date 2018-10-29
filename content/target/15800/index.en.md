@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Anthony Howell
-
 <p>Anthony Howell (born 1945) is an English poet, novelist and performance artist. He was a founder of the performance company The Theatre of Mistakes, in the 1970s and 1980s.</p>

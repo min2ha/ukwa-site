@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Peaceful Progress
-
 Peaceful Progress is a professional Graffiti Arts organisation based in Cardiff. 

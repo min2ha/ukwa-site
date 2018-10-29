@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Wind of Change
-
 None

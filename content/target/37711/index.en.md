@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Dear President Obama, please stay out of the EU referendum
-

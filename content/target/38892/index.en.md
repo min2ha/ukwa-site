@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Nigel Farage calls for end to Brexit campaign infighting
-
 Guardian, The

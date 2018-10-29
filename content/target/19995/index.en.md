@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Doughty, MP for Cardiff North and Penarth on Facebook
-
 Labour and Co-operative MP for Cardiff South and Penarth

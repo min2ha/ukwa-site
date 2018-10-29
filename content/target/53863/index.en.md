@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mhairi Black MP | Paisley & Renfrewshire South
-
 Mhairi Black, Scottish National Party candidate for Paisley and Renfrewshire South in the 2017 general election.

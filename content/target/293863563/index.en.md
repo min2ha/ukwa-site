@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Afan Counts - Blog for Plaid Cymru Afan PPC Duncan Higgitt
-
 <p>Plaid Cymru candidate for Aberavon constituency.</p>

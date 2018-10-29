@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lydstep Races
-
 Lydstep races is a horse racing track near tenby.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lib Dem dodgy donations: Police asked to investigate potentially illegal contributions
-
 None

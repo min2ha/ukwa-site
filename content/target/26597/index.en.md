@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: I may be a prosecco socialist, but at least I went out to protest
-
 None

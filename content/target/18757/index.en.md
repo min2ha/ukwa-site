@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: Events: Freeborn English Liberties: The Early Modern Invention of the Magna Carta, 1508-1762 
-

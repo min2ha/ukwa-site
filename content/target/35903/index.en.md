@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Eilidh MacDonald (@MadameEilidhMac) on Twitter
-
 The Twitter profile of Eilidh MacDonald, the Scottish Labour candidate for the Lothian list in the 2016 Scottish Parliament election.

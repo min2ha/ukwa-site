@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Lodge Greenock Kilwinning No. XII
-
 Site of a masonic lodge located in Greenock, Inverclyde (Refrewshire) and affiliated with the Grand Lodge of Scotland.

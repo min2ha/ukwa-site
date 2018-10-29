@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Reformed Presbyterian Church of Scotland
-
 We are a small but growing church in Scotland with four well established congregations, and a new church-plant in Edinburgh.

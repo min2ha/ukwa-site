@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour promises stamp duty reprieve for first-time buyers on homes worth up to £300,000
-
 None

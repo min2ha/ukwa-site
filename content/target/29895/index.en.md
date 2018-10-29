@@ -10,6 +10,4 @@
   "start_date": "2015-08-19T11:00:00Z"
 }
 
-# Dance Base Edinburgh on Facebook
-
 Facebook for Dance Base, Scotland's National Centre for Dance based in Edinburgh.

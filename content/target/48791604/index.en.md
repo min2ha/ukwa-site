@@ -10,6 +10,4 @@
   "start_date": "2017-08-01T09:00:00Z"
 }
 
-# Romani Cultural and Arts Company
-
 Romani Cultural and Arts Company raises funds to take community development and educational projects onto Gypsy, Roma and Traveller sites and into Gorjer and ‘country-folk’ communities across Wales.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Better Nation on Facebook
-
 Facebook for Better Nation, a blog on Scottish politics, with an emphasis on debate about how politicians can build a better Scotland.

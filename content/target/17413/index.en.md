@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Rachel Reeves: 'Good' businesses will welcome month-long paternity leave
-
 None

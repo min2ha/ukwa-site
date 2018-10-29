@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Magna Carta copies to go on display at British Library in historic exhibition
-

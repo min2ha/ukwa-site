@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Remain and reform is wishful thinking – the left should vote leave 
-
 Guardian, The

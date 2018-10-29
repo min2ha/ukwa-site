@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Has David Cameron coaxed out Britain's shy Tory Europhiles? 
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newburgh Thistle Junior Football Club
-
 Site of a Scottish junior football club based in Newburgh, Aberdeenshire, Scotland

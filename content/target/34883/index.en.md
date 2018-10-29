@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Rising Stars
-
 Rising Stars is an educational publishing company.

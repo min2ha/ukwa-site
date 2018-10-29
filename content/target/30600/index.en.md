@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Newman University
-
 Official website of the Newman University, Birmingham. 

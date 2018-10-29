@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evidence Adoption Centre
-
 None

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Independent: Church to mark the real centenary of the start of First World War 
-
 None

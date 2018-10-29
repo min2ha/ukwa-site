@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Cenin Renewables
-
 Cenin Renewables is based at Parc Stormy near Bridgend. Cenin Renewables invests in wind, photovoltaic PV and anaerobic digestion. Cenin Renewables have collaborated with Cardiff University to build at Parc Stormy Wales's first energy-positive test home.

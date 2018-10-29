@@ -10,6 +10,4 @@
   "start_date": "2017-06-24T09:00:00Z"
 }
 
-# St David’s Children Society | Cymdeithas Plant Dewi Sant
-
 St David’s Children Society is the longest serving adoption agency in Wales.

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Rover And Out (@roverandout) on Twitter
-
 Tranmere Rovers LGBT+ fan group

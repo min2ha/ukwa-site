@@ -10,8 +10,6 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# BBC News: Brexiteers send customs 'ultimatum' to Theresa May
-
 Senior Brexiteer MPs delivered an "ultimatum" demanding Theresa May drop one of the government's preferred post-Brexit customs options. A 30-page document passed to the BBC said a "customs partnership" would make meaningful trade deals "impossible" and render the International Trade Department "obsolete".
 
 

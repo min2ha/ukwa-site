@@ -10,5 +10,3 @@
   "start_date": "2015-07-30T11:00:00Z"
 }
 
-# Cyngor Ffoaduriaid Cymru | Welsh Refugee Council
-

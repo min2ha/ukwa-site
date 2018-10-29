@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Capital Sci-Fi Con
-
 Site of a science fiction and pop culture convention held annually in Edinburgh.

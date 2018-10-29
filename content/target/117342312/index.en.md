@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# Research Information
-
 Online version of the magazine for publishers, librarians and researchers.

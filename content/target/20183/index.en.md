@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Vauxhall Lib Dems
-

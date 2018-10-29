@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shaldon Village
-
 The Shaldon Village, Devon, official website created by Shaldon Tourism, a voluntary group committed to supporting local businesses by promoting the villages of Shaldon and Ringmore and providing local and tourist information. The Shaldon Village website also hosts reports of the work carried out by Shaldon Parish Council which deals with civic matters in the village.

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Turner Syndrome Support Society
-
 The Society provides accurate and up to date information on Turner Syndrome and the many aspects of living with the condition on a daily basis.

@@ -10,6 +10,4 @@
   "start_date": "2015-08-17T10:00:00Z"
 }
 
-# Wee c, The
-
 Scottish Government information site about improvements in the treatment of cancer.

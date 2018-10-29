@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Venue 40 - Quaker Meeting House
-
 Quaker Meeting house is a meeting space for Edinburgh's Quaker community as well as a small Edinburgh Fringe Festival venue.

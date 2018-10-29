@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for the Study of Financial Innovaton: The City and Brexit The City and Brexit A CSFI survey of the financial services sector’s views on Britain and the EU
-
 The CSFI is an independent forum where financial services professionals and observers can share ideas about the challenges and opportunities facing the sector.

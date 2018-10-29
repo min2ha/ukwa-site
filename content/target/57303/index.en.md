@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Berkeley Group Holdings (The) plc
-
 The Berkeley Group Holdings plc is a British property developer, they build homes and neighbourhoods focusing in London and the South of England.  The Berkeley Group is made up of six autonomous companies: St George, St James, Berkeley, St Edward, St William and St Joseph.

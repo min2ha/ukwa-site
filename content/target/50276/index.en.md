@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Ardeer Thistle Football Club
-
 Site for a Scottish junior football club based in Stevenston, Ayrshire.

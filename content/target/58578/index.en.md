@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sonic-a
-
 Site of a year-round programme of events dedicated to world-class visual sonic arts, punctuated by a biennial autumn festival in Glasgow.

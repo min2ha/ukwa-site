@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Zeppelins over London
-
 ‘Zeppelins over London’ is an educational and creative media project on the impact of Zeppelin bombing of London during the First World War.

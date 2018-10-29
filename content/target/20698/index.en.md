@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alastair Redman on Facebook
-
 The Facebook page of Alastair Redman, the Conservative and Unionist candidate for Argyll and Bute at the 2015 UK General Election.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Compass: The causes and cures of Brexit
-
 The Brexit vote was the biggest single democratic revolution the UK has experienced in decades. In hindsight everyone saw it coming, but at the time the news when it trickled through in the early hours after the close of polling was a seismic shock. It still is. That was because the reasons were so deep and the distance between sections of our country a now obvious chasm. Complexity plus complacency were the causes of a Brexit tsunami that was decades in the making. The essays in this publication investigate many, but not all, of the causes of the Brexit vote.

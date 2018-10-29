@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Dorset RFC
-
 The official website of North Dorset Rugby Football Club.

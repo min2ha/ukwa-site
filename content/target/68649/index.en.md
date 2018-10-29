@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 4th July 2018: Sustainable fisheries
-
 Michael gove's statement introducing the White paper on fishing policy after Brexit, followed by a debate

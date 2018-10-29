@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Horrible Histories cover Magna Carta for 800th anniversary
-

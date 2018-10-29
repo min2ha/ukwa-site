@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Cardiff Comedy Festival
-
 Website for the Cardiff Comedy Festival, established since 2009.

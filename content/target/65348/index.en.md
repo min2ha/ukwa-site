@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Birnie & Pluscarden Church of Scotland
-
 Site of two Church of Scotland parish churches at Birnie and Pluscarden, Moray.

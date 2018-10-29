@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# RGU Students' Union
-
 Site of a students' representative organisation based at Robert Gordon University, Aberdeen.

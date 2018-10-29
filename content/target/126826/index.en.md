@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# International Institute for Environment and Development (IIED)
-
 The International Institute for Environment and Development (IIED) is an independent policy research institute (think tank) whose stated mission is to "build a fairer, more sustainable world, using evidence, action and influence in partnership with others."

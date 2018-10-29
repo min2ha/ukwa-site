@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Magna Carta set to be displayed at the House of Lords
-

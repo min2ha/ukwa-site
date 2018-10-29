@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Aviation Enthusiasts Society
-
 A website to assist aviation enthusiasts in pursuing their personal goal of enjoying the large variety of aviation facilities and activities around the world.

@@ -11,5 +11,3 @@
   "subject": "Italy UK"
 }
 
-# Italian Academies 1525-1700, The
-

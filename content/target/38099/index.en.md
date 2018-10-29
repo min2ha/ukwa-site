@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Up Helly Aa
-
 Site of a the annual Shetland community festival celebrating Viking heritage.

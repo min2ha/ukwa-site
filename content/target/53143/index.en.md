@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Virginia Crosbie (@VirginiaCrosbie) on Twitter
-
 Virginia Crosbie is the Conservative candidate for the Rhondda at the 2017 General Election.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit Repeal Bill faces opposition
-
 Shadow Brexit Secretary Sir Keir Starmer said it was "highly likely" Labour would seek to amend the Repeal Bill, which aims to convert EU legislation into British law. The SNP, Lib Dems and Green MP Caroline Lucas were also likely to press for changes.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Cycling Edinburgh Info
-
 None

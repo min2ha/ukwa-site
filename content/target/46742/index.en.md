@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Llyr Gruffydd AC/AM
-
 Llyr Gruffydd is the AM for North Wales.

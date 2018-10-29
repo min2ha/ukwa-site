@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU Referendum
-
 Section on the BBC News website about the EU Referendum

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Humza Yousaf (@HumzaYousaf) on Twitter
-
 The twitter profile of Humza Yousaf, Scottish National Party Member of the Scottish Parliament for Glasgow and Scottish Goverment Minister for External Affairs and International Development.

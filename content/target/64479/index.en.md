@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# London Ear on RTÉ2XM (@TheLondonEar) on Twitter
-
 Music/arts/culture radio show for the Irish community in LDN on @rte2xm presented by @nessymon Saturday 1300

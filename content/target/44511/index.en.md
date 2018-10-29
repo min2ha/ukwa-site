@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Versa: Oxford Students react to leave vote
-
 Article discussing Oxford Students' reaction to the leave vote

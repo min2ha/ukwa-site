@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stockport County F.C.
-
 Stockport County Football Club is a semi-professional football club in Stockport, Greater Manchester, England. Formed in 1883 as Heaton Norris Rovers, the team adopted their name in 1890 after the County Borough of Stockport.

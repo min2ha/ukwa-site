@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Northern Ireland has our only EU border. Theresa May ignores it at her peril
-

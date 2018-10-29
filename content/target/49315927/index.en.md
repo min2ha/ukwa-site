@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Rubbish Diet, The
-
 None

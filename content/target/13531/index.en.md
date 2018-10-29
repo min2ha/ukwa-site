@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Any nationalist sugar rush from the Commonwealth Games is unlikely to last long
-
 <p>Article by Michael Silk on how the XX Commonwealth Games might influence the Scottish Independence Referendum. From “The Conversation” an independent source of news and views, sourced from the academic and research community.</p>

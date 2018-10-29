@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'You're like gangsters!' MEPs ramp up war of words with David Davis as he scrambles to defuse spat over Irish border vow amid warnings that EU could HALT trade talks
-

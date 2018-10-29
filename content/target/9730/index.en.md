@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Geoffrey Van Orden (Conservative MEP for the East of England)
-
 First elected as a Conservative MEP in 1999, Geoffrey represents the East of England. He has consistently opposed European political integration, in particular EU meddling in defence, and taken a tough stance on immigration.

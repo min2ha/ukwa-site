@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Britain better off out… just ask a true entrepreneur, says STEPHEN POLLARD
-
 Comment by Stephen Pollard

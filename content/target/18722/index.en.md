@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Four copies of Magna Carta to be shown together for first time
-

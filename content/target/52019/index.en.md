@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael and All Angels, South Westoe
-
 St Michael’s is a resolution ABC Forward in Faith parish in the Diocese of Durham under the Episcopal Care of the Bishop of Beverley and served by a priest of the Society of the Holy Cross. The church has been at the centre of this community since the Parish was created in 1878 and the Church opened in 1882 .

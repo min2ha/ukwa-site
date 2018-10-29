@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Faversham.org: Faversham Magna Carta 800 Celebrations
-

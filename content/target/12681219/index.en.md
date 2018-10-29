@@ -11,5 +11,3 @@
   "subject": "Latin America UK"
 }
 
-# British Presence in Southern Patagonia, The
-

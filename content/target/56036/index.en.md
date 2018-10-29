@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard:  13th July 2017: EU Exit: July Negotiating Round
-
 Written statement by David Davis, Secretary of State for Exiting the EU, on the UK's negotiating stance at the second round of talks,

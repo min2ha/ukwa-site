@@ -11,5 +11,3 @@
   "subject": "Aging"
 }
 
-# Department for Work and Pensions (DWP): Ageing Society
-

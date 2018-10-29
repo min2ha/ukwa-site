@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election photo highlights: beer, dogs and rosettes on day three
-
 None

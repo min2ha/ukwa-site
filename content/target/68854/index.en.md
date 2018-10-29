@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Belfast Photo Festival
-
 Website for the Belfast Photo Festival

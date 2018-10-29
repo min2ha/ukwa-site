@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Rebecca Evans (Labour Assembly Member for Mid and West Wales)
-

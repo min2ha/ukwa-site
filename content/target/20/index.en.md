@@ -10,6 +10,4 @@
   "start_date": "2015-08-04T10:00:00Z"
 }
 
-# Crelos Consulting
-
 Crelos consult in organisational development and change. They work in partnership with clients to understand their strategic business agendas and develop solutions that achieve improved business performance.

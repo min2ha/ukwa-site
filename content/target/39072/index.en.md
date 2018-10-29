@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dan Boucher (@DansBoucher) on Twitter 
-
 Dan Boucher is the Conservative candidate for South Wales West at the 2016 National Assembly Elections and Swansea East at the 2017 General Election.

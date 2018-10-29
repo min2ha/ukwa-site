@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Association of Muslim Social Scientists UK
-
 The Association of Muslim Social Scientists (AMSS UK) is an Association based in London committed to the development of Islamic thought through research, scholarship and publications. The AMSS (UK) aims to keep scholars informed about current conceptual, methodological, and analytical developments and promote greater inter-disciplinary co-operation, in an effort towards generating informed, critical and creative views and opinions on topical and emerging issues of relevance to community relations and social cohesion.

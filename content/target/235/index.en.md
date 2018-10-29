@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wrightington, Wigan and Leigh NHS Foundation Trust
-
 None

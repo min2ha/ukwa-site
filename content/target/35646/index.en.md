@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Laurence Robertson (Conservative)
-
 Conservative MP for Tewkesbury

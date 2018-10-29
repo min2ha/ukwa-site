@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# National Audit Office: HM Treasury’s economic analysis in the lead-up to the referendum on European Union membership
-
 This review looks at the Treasury’s processes and procedures for forecasting the economic impact of leaving the European Union. It compares the HM Treasury analysis to other studies using publicly available information.

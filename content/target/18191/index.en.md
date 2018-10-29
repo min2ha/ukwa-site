@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Speakers for Schools launch General Election project
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Edinburgh United Football Club
-
 Site page for a Scottish junior football club based in Edinburgh.

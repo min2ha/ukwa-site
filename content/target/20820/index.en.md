@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Phyl Meyer (@PhylMeyer) on Twitter
-
 The Twitter profile of Phyl Meyer, the Scottish Green Party candidate for Edinburgh South in the UK General Election on the 7th May 2015.

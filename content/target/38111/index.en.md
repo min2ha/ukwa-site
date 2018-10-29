@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ken Gowans (@KenGowansSNP) on Twitter
-
 Twitter profile of Ken Gowans, the Scottish National party list candidate for Highlands & Islands region in the 2016 Scottish Parliament election.

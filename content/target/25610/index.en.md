@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Has the anti-Miliband rhetoric peaked too soon?
-
 None

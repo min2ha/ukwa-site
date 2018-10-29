@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Historic tapestry will mark 800th anniversary of the Magna Carta
-

@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# British Coffee Association (BCA), The
-
 The British Coffee Association (BCA) provides the representative voice for the UK coffee industry and promotes and safeguards members’ interests in all matters relating to the growth, preparation, shipment, warehousing, transport, insurance, manufacturing, distribution and consumption of coffee.

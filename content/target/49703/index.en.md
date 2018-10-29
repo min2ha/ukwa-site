@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Lochgelly and District Amateur Musical Association on Facebook
-
 Facebook page for an amateur musical theatre association located in Lochgelly, Fife.

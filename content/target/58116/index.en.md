@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lochaber District Gaelic Choir /  Coisir Ghàidhlig Loch Abar on  Facebook
-
 Facebook page of a Gaelic choir located at Fort William.

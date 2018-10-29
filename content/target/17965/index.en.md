@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Red: The General Election 2015
-
 Red Magazine's online newsletter on the 2015 UK General Election.

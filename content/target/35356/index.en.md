@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum: The Europe debate in numbers
-

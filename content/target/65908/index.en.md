@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# M60FootballProgrammes (@m60footballprog) on Twitter
-
 M60 Programmes are official programme and memorabilia sellers for many football clubs and memorabilia brands.

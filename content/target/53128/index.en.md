@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# MEND - Muslim Engagement and Development (@mendcommunity  ) on Twitter
-
 Twitter feed of MEND, which empowers and encourages British Muslims within local communities to be more actively involved in British media and politics.

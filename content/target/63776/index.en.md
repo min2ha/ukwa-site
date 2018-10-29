@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# East Staffordshire Borough Council
-
 Website of East Staffordshire Borough Council provides access to news and information about services. It also gives access to planning consultations and policy, and plans, committee papers, and information about budgets and spending, 

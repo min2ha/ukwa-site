@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# IT Pro Portal
-
 ITProPortal.com is a technology website launched in the UK in 1999 focuses on the technology information resources.

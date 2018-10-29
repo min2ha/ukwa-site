@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Kerfoots
-
 Kerfoots is a department store based in Porthmadog established in 1874 and closed in 2018.

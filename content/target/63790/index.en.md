@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Both Lives Matter (@BothLivesMatter) on Twitter
-
 Both Lives Matter is a collaborative movement of individuals & organisations that campaign against abortion. This is their official Twitter account.

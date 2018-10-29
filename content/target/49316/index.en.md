@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Scotland Against Trump on Facebook
-
 "Scotland Against Trump" Facebook page; organising demonstrations against Donald Trump's visit to Scotland.

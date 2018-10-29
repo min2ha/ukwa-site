@@ -10,5 +10,3 @@
   "start_date": "2006-09-08T00:00:00Z"
 }
 
-# Public Whip
-

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: We want our Rights not Magna Bollocks
-

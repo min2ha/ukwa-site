@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great War Britain Norfolk
-
 The blog Norfolk Remembering 1914-1918 by Steve Smith,  battlefield guide, military researcher and author of two books.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit divisions - Commons votes on the European Union (Withdrawal) Bill
-
 This briefing paper provides information on the House of Commons divisions during the passage of the European Union (Withdrawal) Bill during its Second Reading, Report Stage and Third Reading in the Commons.

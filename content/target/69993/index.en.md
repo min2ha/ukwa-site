@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Lisa Parry Playwright
-
 Lisa Parry is a Playwright based in Cardiff. Her work staged by leading new writing theatre companies including: National Theatre Wales, Dirty Protest, The Miniaturists, PopUp Theatrics (NYC), The Internationalists (NYC), Sherman Cymru and Agent 160 Theatre. She also co-founded Illumine Theatre, a collaboration with award-winning director Zoë Waterman.

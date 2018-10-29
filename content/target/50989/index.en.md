@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Levantine Heritage Foundation
-
 The Levantine Heritage Foundation is an association which promotes research, preservation and education in the heritage, arts and culture of the communities of the Levant region encompassed by the former Ottoman Empire between the 17th and 20th centuries. 

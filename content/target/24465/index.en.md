@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Campaign centres on English MP votes
-
 None

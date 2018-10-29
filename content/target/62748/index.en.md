@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Lodge Hozier Douglas Water 912
-
 Site of a masonic lodge located in Douglas Water, Lanarkshire and affiliated with the Grand Lodge of Scotland.

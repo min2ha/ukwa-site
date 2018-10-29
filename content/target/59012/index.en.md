@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Manchester Birding
-
 An online enthusiast website concerned with bird watching in Lancashire. The website is home to forums, photo galleries, articles, sound bites and various other related content. 

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Lilywhites (@SpursLGBT) onTwitter
-
 The official @SpursOfficial LGBT+ Supporters' Association.

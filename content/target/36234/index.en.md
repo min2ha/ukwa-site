@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# German Marshall Fund, The
-
 The German Marshall Fund of the United States (GMF) strengthens transatlantic cooperation on regional, national, and global challenges and opportunities in the spirit of the Marshall Plan.

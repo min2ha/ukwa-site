@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Crockart
-
 This is the website of Mike Crockart, the Liberal Democrats candidate for Edinburgh West in the UK General Election on the 7th May 2015.

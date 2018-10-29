@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# madeline perry
-
 <p>The website of squash player Madeline Perry, member of Team Northern Ireland for the Glasgow 2014 Commonwealth Games.</p>

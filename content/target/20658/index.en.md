@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Collective on Facebook
-
 Facebook account for National Collective, an organisation that features artists, writers and activists campaigning for a Yes vote through local groups, events, social media, published word and art. 

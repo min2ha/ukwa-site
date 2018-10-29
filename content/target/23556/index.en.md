@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Geoff Garbett on Facebook (Green party candidate for Camborne and Redruth)
-

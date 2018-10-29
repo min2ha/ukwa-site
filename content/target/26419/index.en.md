@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: If the Tories are the largest party, will Cameron claim the rights to No 10?
-
 None

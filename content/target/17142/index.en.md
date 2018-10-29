@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Young people are neglected by politicians - and this is why
-

@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Harper Music Publications
-
 Harper Music Publications, founded in 2009, publishes the music of Philip Harper.

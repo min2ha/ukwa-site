@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Electoral Reform Society: Democracy Max
-
 None

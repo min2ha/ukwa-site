@@ -10,6 +10,4 @@
   "start_date": "2018-04-29T09:00:00Z"
 }
 
-# Hang-Up Gallery
-
 Contemporary art gallery based in Stoke Newington, London.

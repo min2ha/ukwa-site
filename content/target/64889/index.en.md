@@ -10,6 +10,4 @@
   "start_date": "2018-04-27T09:00:00Z"
 }
 
-# TheHSRAA (@TheHSRAA) on Twitter
-
 The Health Sciences Records and Archives Assoc (HSRAA) is for archivists and records managers working in pharma and other scientific sectors. This is their official Twitter account.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lisa Cameron SNP
-
 Website of Dr. Lisa Cameron, SNP Candidate for East Kilbride, Strathaven & Lesmahagow in the 7th May 2015 UK General Elections.

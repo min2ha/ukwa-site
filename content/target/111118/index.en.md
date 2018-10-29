@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Jane Austen Society
-
 Society aims to promote study and understanding of the life and work of Jane Austen and her family.

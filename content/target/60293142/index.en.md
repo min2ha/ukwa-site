@@ -11,5 +11,3 @@
   "subject": "Welsh devolution referendum 2011"
 }
 
-# Blog to the Future
-

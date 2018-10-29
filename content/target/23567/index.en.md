@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Ebola-affected countries suffered over 10,000 extra malaria deaths in 2014
-
 Article on malaria in Ebola-affected countries 

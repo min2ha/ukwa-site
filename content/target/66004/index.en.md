@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Scottish Needle Exchange Directory
-
 Site of a directory listing all the services that provide injecting equipment in Scotland.

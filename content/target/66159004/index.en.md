@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aled Davies MBE - Athlete – Discus & Shot Put
-
 <p>The official website of Aled Davies MBE; shot put thrower and Paralympian, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

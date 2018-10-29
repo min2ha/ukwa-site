@@ -10,6 +10,4 @@
   "start_date": "2016-06-15T10:00:00Z"
 }
 
-# LJK Records - Linton Kwesi Johnson
-
 The official website of Linton Kwesi Johnson (aka LKJ), world-renowned reggae poet and recording artist. As well as information on LKJ himself, here’s the place to find out about LKJ Records, Johnson’s record label, and the artists on it. 

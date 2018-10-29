@@ -10,5 +10,3 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Misneachd aig a' Mhòd - Misneachd at the Mòd, a Politics, Community Crowdfunding Project in Sandbank, Argyll and Bute, Scotland on Crowdfunder
-

@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Seavington Web Museum
-
 The Seavington History Project was developed to formally documment the local history. It was not their intention to do a definitive history but rather create a collecting point for the social history of the villages.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Banned Books Week UK
-
 The official website of Banned Books Week UK which, runs from the 23 - 29 September each year.

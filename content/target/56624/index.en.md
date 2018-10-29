@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: My country must come before my party if Theresa May sides with the hardliners
-
 Pro-remain Tory Anna Soubry indicates that she would be prepared to join with politicians from other parties to prevent a "hard Brexit" 

@@ -10,6 +10,4 @@
   "start_date": "2017-01-17T09:00:00Z"
 }
 
-# Rosyth Community & Heritage Development Project
-
 Site of a renovation project that aims to restore Rosyth Parish Chuch (Church of Scotland) in the two nof Rosyth, Fife.

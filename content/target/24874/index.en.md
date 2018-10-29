@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Pete Kennedy (@PeteKennedyGP) on Twitter (Green Party candidate for Doncaster North)
-

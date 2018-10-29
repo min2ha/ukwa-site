@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Hatred, hysteria and lies
-
 Comments on rancorous article written by leading novelist Julian Barnes for the London Review of books in which he strongly criticises citizens who voted to leave the EU.

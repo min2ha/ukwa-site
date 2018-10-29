@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: Events: Authority and Resistance in the Age of Magna Carta
-

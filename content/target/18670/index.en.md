@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Conversation, The: Thoughts about Magna Carta, inspired by Horrible Histories
-

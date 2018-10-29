@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# UK squatting archive
-
 Archive of meetings and actions of squatters groups in London, on personal website of activist 'Weed'.

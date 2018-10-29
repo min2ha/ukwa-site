@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Chatham House: What's United about This Kingdom?
-
 <p>Record of a lunchtime meeting held at the Royal Institute of International Affairs at Chatham House, 3 July 2014. Speakers were Professor Linda Colley, Sir Simon Jenkins and Ben Page, and Chair was Jon Snow. The discussion covered issues relating to EU membership and the Scottish independence referendum, and discussed whether Britain is facing a crisis of identity.</p>

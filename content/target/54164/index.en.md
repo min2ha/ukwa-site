@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Centre for Economic Policy Research: Post-Brexit trade and development policy
-
 This short thought-piece suggests that the time is ripe for the UK government to embrace a new trade and development agenda which demonstrates that
 post-Brexit Britain is an outward-looking country, ready to play a key role on the world stage.

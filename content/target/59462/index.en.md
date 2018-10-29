@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Children seeking mental health advice on internet
-
 News article about school children using the internet for mental health advice, information and support instead of or before they turn to a GP or school nurse.

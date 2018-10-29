@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Clark Contracts Limited
-
 Website of a company specialising in construction, refurbishment and maintenance. 

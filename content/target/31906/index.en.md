@@ -10,5 +10,3 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# The Islands Book Trust | For everyone interested in the history and culture of Scottish islands
-

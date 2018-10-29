@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# BBC News: 1916 commemoration: Royal presence in Dublin unlikely
-

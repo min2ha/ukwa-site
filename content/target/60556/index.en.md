@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church in North Gower, The | Eglwys yng Ngogledd Gower
-
 This is the website for the Church in Wales churches of North Gower, St Rhydian and St Illtyd's, Llanrhidian; St Gwynour's, Penclawdd; and St David's, Wernffrwd. 

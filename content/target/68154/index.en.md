@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crewkerne Rugby Club
-
 Crewkerne RFC is a friendly environment with two sides catered for all skill levels.

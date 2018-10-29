@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view on David Cameron’s departure plans: a foolish fantasy
-
 None

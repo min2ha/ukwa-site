@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# YouthLink Scotland
-
 YouthLink Scotland is Scotland's national agency for youth work.

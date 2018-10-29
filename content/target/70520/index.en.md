@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Peedie Kirk
-
 Site of a Scottish United Reformed church located in Kirkwall, Orkney.

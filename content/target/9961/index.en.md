@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Hynd's Blog: EU Politics
-
 None

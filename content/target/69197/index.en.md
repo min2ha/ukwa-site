@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# OUTing The Past
-
 Website for Outing the Past, a festival to celebrate LGBT history

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Church Times: Archbishop of Cantebury believes the EU could do more to address the migrant crisis
-
 Archbishop of Canterbury has stepped into the debate on the European Union Referendum, expressing concern that the UK is not addressing the “visionary” questions of migration, resettlement, and its place on the world stage.

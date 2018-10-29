@@ -10,6 +10,4 @@
   "start_date": "2016-07-14T10:00:00Z"
 }
 
-# George Monbiot
-
 Personal blog of Guardian columnist George Monbiot

@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Piscatorial Society, The
-
 They are a private society with 195 fishing members. They have fisheries on the upper Test, Itchen, Avon and Wylye. Their management of these waters aims to preserve their natural beauty and to provide a habitat where the natural recruitment of wild fish can take place.

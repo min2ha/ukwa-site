@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Llwyd Owen
-
 Llwyd Owen is a Welsh novelist and translator.

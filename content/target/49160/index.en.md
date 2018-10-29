@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Anti-Racism Cardiff
-
 A news media site on all things anti-racism in Cardiff. It is written by Ciara Cohen-Ennis 

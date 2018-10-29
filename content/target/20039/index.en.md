@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Neil Mcevoy (@neiljmcevoy) on Twitter (Plaid Cymru AM for South Wales Central)
-
 Neil Mcevoy is the Plaid Cymru candidate for Cardiff West and South Wales Central at the 2016 National Assembly Elections and 2015 Westminster General Election.

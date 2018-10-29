@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Nigel Farage declares himself a 'commoner', his sympathy for Ed Miliband - and claims Ukip were 'right' on racism row councillor  
-
 None

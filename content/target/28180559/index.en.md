@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Poets in a Lens by Jeremy James
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Lost Garden of Penicuik
-
 Site of a community garden project in Penicuik, Midlothian, Scotland, a local food production initiative in the Penicuik Estate Walled Garden.

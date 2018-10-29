@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Pentland MSP | Motherwell & Wishaw
-
 John Pentland was Scottish Labour Member of the Scottish Parliament for Central Scotland frpm 2011 to 2016.

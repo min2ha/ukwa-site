@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Shetland Arts
-
 Site of an organisation based in Lerwick, Shetland, that runs venues throughout the islands and promotes a year round programme of music, craft, theatre, literature, visual arts, dance and film events.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mari O'Connell (@merioconnell) on Twitter (Liberal Democrats Politician)
-
 Mari O'Coneel stood as Liberal Democrat candidate for Reading West in the General Election but was not elected.

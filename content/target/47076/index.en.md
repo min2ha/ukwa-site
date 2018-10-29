@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanes y Tair Llan 
-
 A history society for the villages of Llandwrog, Llanfaglan a Llanwnda in Gwynedd.

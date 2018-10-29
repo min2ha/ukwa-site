@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Extant
-
 Formed in 1997 Extant was the name chosen by a group of professional visually impaired artists, for the emergence of a new dynamic space, intended to redress their invisibility as artists and explore new creative territories.

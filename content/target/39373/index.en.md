@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bernard Harkins - Winning with Labour in Midlothian North and Musselburgh on Facebook
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Jeremy Hunt (Conservative politician)
-
 Website of Jeremy Hunt, MP for South West Surrey. Hunt was appointed Foreign Secretary after a long period as Health Secretary following the resignation of Boris Johnson in July 2018.

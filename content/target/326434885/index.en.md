@@ -10,5 +10,3 @@
   "start_date": "2015-07-10T10:00:00Z"
 }
 
-# John Metcalf
-

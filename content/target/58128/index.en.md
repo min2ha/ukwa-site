@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Children 1st
-
 Site of a Scottish national children’s charity helping Scotland’s families to put children first, with practical advice and with support in difficult times, while supporting the recovery of survivors of abuse, neglect, and other traumatic events in childhood.

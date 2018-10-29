@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Screen Machine : Scotland's Mobile Cinema
-
 Site of a mobile cinema which brings the latest films to remote and rural areas of Scotland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Welsh Labour Student (@LlafurMyfyrwyr) on Twitter
-
 This is a Twitter account for Welsh Labour Students.

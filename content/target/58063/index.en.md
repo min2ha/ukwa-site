@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-#  Shelter Cymru Welsh Art Auctions
-
 The Annual Welsh Art Auctions is a fundraising event for Shelter Cymru and Artists who are Welsh or based in Wales donate their Art and income raised from the auctions goes directly to Shelter Cymru.

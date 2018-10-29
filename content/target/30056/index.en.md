@@ -10,6 +10,4 @@
   "start_date": "2015-08-27T10:00:00Z"
 }
 
-# Narcotics Anonymous United Kingdom
-
 The 2005 version of the website which was hosted on the http://ukna.org/. It was temporarily put online by the webmaster to capture the old version.

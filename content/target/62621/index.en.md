@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Matthew Wood
-
 Matthew Wood is a Welsh painter trained at The School of Art, University of Wales. He has exhibited at Theatre Clwyd, John Moores 25, Walker Art Gallery, Liverpool and Oriel Plas Glyn-y-Weddw. 

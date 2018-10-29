@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# pitchblack (@pitchblackbook) on Twitter
-
 Pitchblack promotes the stories of black British footballers.

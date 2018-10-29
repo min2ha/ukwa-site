@@ -11,5 +11,3 @@
   "subject": "Latin America UK"
 }
 
-# London School of Capoeira
-

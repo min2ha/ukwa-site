@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eilidh Doyle (@EilidhChild) on Twitter
-
 The twitter profile of althete Eilidh Doyle, 400m hurdler.

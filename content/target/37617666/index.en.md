@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Jack Uttley Photo Library, The
-
 None

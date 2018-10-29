@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SA Mathieson: NHS specialised commissioning hubs and clinical senates mapped
-
 None

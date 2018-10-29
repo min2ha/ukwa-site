@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Cardiff University: Cardiff Digital Network
-
 Cardiff University’s Digital Cultures Network's objective is to build significant capacity in Digital Humanities (DH) practice at Cardiff University. 

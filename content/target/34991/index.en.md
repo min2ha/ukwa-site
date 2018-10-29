@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Lleisiau Rhyfel Mawr 
-
 This is an interactive timeline featuring videos, readings and press clippings from the S4C series produced by the Welsh Television Company, Cwmni Da.

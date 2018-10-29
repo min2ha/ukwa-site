@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Stuart Houghton (@stuart4ntmayor) on Twitter (UKIP Politician)
-
 Stuart William Houghtonstood as UK Independence Party (UKIP) candidate for Tynemouth in the 2017 General Election but was not elected.

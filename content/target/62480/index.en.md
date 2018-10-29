@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# SWWGL (@swwgl) on Twitter
-
 The South Wales Women's & Girls' League (SWWGL) is a female football league in Wales with a mission to develop the game for both girls and women all across South Wales. This is their official Twitter account.

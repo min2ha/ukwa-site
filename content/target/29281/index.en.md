@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Tyneside Irish Centre
-
 The Tyneside Irish Centre in Newcastle provides a meeting place for the Irish community, their friends and relations. It aims to be a source of help and advice for the Irish community seeking to promote Irish values and culture, and particularly through music, language and sport.

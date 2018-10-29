@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Government of the Pitcairn Islands, The
-
 The Pitcairn Islands group is a British Overseas Territory. It comprises the islands of Pitcairn, Henderson, Ducie and Oeno. Pitcairn, the only inhabited island, is a small volcanic outcrop situated in the South Pacific.

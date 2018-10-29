@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Mygov.scot: access to public services in Scotland
-

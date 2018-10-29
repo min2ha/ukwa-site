@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Silicon: ‘Tech Addiction’ Campaign To Wean Youngsters Off Smartphones
-
 Article about the additive nature of technology and a new campaign called ‘The Truth about Tech’. The campaign is the brainchild of a new organisation called ‘Center for Humane Technology’ (CHT), which has been created by two former employees of Facebook and Google

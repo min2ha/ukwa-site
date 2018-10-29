@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour general election candidate quits over benefits overpayment
-
 None

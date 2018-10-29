@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Five things charities need to know ahead of the general election
-
 None

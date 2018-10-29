@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Casper White
-
 Casper White is a Welsh artist from Bridgend.

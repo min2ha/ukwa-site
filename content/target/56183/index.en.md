@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# Inner Wheel District 15
-
 Inner Wheel is an international organisation closely linked to Rotary and is one of the largest women's voluntary service organisations in the world. District 15 covers covers the counties of Ceredigion and Pembrokeshire, part of Powys and across all of South Wales.

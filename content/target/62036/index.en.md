@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# DW Stadium
-
 Home of Wigan Athletic FC and Wigan Warriors RLFC, with function spaces and an Italian restaurant.

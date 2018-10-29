@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# Cognitive Function and Ageing Study (CFAS), The
-
 None

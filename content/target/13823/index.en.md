@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# David Cameron (David_Cameron) on Twitter
-

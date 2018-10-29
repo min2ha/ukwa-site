@@ -10,7 +10,5 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Cymru a'r Mor | Wales and the Sea
-
 The "Wales and the Sea" community brings together all the organisations and individuals involved in the rich maritime heritage of Wales. It is a project from
 Maritime Heritage Wales Ltd

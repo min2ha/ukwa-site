@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Surrey County Council: Royston Pike Lecture: Magna Carta Fact and Fiction
-

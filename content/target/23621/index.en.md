@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Wright (Liberal Democrat candidate for Norwich North)
-
 James Wright stood as Liberal Democrat candidate for Norwich North at the 2015 General Election but was not elected. 

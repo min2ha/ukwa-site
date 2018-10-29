@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Involve
-
 The Involve Foundation (known as Involve) is a leading UK based think tank and charity working on public participation.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hidden Door Festival
-
 Site of an annual arts festival based in Edinburgh, and taking place in late Spring.

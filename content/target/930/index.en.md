@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Cancer Action Team
-
 None

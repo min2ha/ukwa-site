@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Canterbury & Whitstable Labour
-
 Website of Canterbury & Whitstable Labour, providing information on representatives and candidates, press releases, campaign newsletters and local and national news updates.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Bradford City CCG
-
 None

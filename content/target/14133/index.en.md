@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Huffington Post: Gordon Brown, Scotland's Quarrel is with Globalization, Not the U.K.
-
 <p>Post written by former Prime Minister Gordon Brown, and published on 17 September 2014, the day before the Scottish Independence Referendum. Brown argues that the challenges facing Scotland in the 21st century require policies of interdependence rather than seeking independence.</p>

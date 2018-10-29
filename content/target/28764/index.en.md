@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# ARKive: Climate Change
-
 ARKive is brought to you by the wildlife charity Wildscreen. Their mission is to use the power of wildlife imagery to inspire the global community to discover, value and protect the natural world.

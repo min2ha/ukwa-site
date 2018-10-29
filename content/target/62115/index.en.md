@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hippocratic Post, The: "Social media and eating disorders"
-
 Web article on social media and eating disorders

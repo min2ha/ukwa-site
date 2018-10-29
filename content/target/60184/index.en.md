@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Pan Celtic Festival
-
 Site of an annual festival of Celtic music, language and dance, aiming to promote the and strengthen Celtic languages, culture, music, song and sport and to encourage inter-Celtic tourism, trade and commerce, and exchange of information. Representing Celtic culture in Brittany, Isle of Man, Scotland, Ireland, Cornwall and Wales.

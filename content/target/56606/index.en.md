@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Rubyetc on Tumblr
-
 This is a personal website that promotes the work of a London based artist, author and illustrator. There are also a number of web comics available on this site.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK GDP: different measures, competing narratives
-
 None

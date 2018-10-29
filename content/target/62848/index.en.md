@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis' statement: EU-UK Article 50 negotiations Brussels, Monday 19 March 2018
-
 Statement in Brussels by David Davis, Secretary of State for Exiting the European Union on the draft Withdrawal Agreement, outlining progress made.
 

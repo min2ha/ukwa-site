@@ -10,6 +10,4 @@
   "start_date": "2015-09-28T10:00:00Z"
 }
 
-# Theatr Ffynnon
-
 A Cambran based community arts theatre company working primarily with adults & young people with learning disabilities and mental health.

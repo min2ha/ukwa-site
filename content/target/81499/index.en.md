@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud and Palace
-
 We are a group run entirely by volunteers that exists to support the lesbian, gay, bisexual and transgender (LGBT) supporters of Crystal Palace FC.

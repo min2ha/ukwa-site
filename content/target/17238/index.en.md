@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron branded the 'dodgy prime minister' in HSBC tax attack
-

@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# Visit Parliament (@visitparliament) on Twitter
-
 The Houses of Parliament are open to visitors year round, Monday to Saturday. Follow us for more about access, tours, debates, exhibitions and special events.

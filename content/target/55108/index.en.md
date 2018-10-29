@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Fourth Wave: LFA
-
 Fourth Wave: LFA, are a collective of feminist activists fighting for social justice and equality.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Guisborough War Stories and Home Front Event on Facebook
-
 Project to raise awareness of Guisborough's heritage, developing pride and positive attitudes to history through an inclusive community project based around Guisborough Cenotaph, the memorial chapel in St. Nicholas church, and Guisborough Cemetery.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Fawcett Society, The: Why does teaching votes for women matter? An A Level teacher's perspective
-
 Blog post for The Fawcett Society about teaching votes for women to A Level students

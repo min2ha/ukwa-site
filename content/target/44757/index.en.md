@@ -10,6 +10,4 @@
   "start_date": "2016-08-02T10:00:00Z"
 }
 
-# Blaenavon Life
-
 A local community group set-up to promote events, news and community views about the town of Blaenavon.

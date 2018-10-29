@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newark Rugby Union Football Club on Pitchero
-
 The official website of Newark Rugby Union Football Club.

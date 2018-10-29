@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Renew (@Renew_Britain ) on Twitter
-
 Twitter feed of a new anti-Brexit political party launched in February 2018

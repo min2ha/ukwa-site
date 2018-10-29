@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The Tory plot to derail Brexit - and how it may get help from the party's new star
-
 Argues that a small number of Tory MPs  see May’s humiliation at the 2017 General Election as an unexpected opportunity to destroy her plan to take the UK out of the EU single market and customs  union.

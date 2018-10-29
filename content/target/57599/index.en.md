@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Edinburgh Spy Week
-
 A week of events about espionage fiction, secrecy and spying.

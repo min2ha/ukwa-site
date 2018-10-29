@@ -10,8 +10,6 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Creative Shift
-
 Creative Shift was a bespoke business consultancy that was led by Helga Henry as a part of Birmingham Hippodrome from 2012-2016.
 
 This site now operates as an archive for our free business resources, and the wealth of information available on our blog.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Jeremy Corbyn defended from claims he privately backs Brexit
-

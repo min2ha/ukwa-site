@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hereford Cathedral: Hereford Goes to Texas
-

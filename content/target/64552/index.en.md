@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Swansea Hackspace
-
 Swansea Hack Space is a members' run space in the heart of Swansea where people interested in digital art, electronics, science, and general making, crafting, and hacking together technology can meet, share, learn and work.

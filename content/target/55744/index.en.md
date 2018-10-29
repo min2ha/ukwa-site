@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# A & F Grant Ltd
-
 Bulk & Liquid Haulage Specialists; a family business based in Banffshire.

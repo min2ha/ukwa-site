@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Waveney District Council
-
 Website of Waveney District Council provides news, information on local activities and services, details of budget and finance, and access to full text of committee papers.

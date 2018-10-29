@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: PRITI PATEL What part of ‘We voted to leave the customs union’ don’t you get, Prime Minister?
-
 Calls on the Prime Minister to abandon her Chequers proposals and negotiate an advanced free trade deal with the EU.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Groundwork Wales
-
 Groundwork Wales operate in the disadvantaged areas and help people to create better places, to improve their prospects and to live and work in a greener way.

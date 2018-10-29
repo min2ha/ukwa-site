@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Cheval Trust and Terry Hetherington Young Writers
-
 The Cheval Trust and Terry Hetherington Young Writers was established in 2009 in memory of the late poet Terry Hetherington. The puropse is to provide a platform for young people to express themselves through poetry.

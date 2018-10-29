@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Medecins Sans Frontieres: MSF Ebola Blog
-
 None

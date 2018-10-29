@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Radio Academy
-
 The Radio Academy is a registered charity dedicated to the encouragement, recognition and promotion of excellence in UK audio & radio.

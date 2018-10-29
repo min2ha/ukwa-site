@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Telegraph, The
-
 Latest news, business, sport, comment, lifestyle and culture from the Daily Telegraph and Sunday Telegraph newspapers and video from Telegraph TV.

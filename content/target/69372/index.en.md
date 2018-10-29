@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of St. Teresa of Lisieux
-
 Site of a Roman Catholic church in Scotland for the parish of St. Teresa of Lisieux, Possilpark, Glasgow.

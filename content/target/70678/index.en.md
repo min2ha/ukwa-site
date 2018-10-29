@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oxford's Christmas Light Festival
-
 Website for the Oxford's Christmas Light Festival.

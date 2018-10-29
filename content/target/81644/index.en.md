@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The backstop threatens the Union. Davidson knows it. And May can’t afford to lose her.
-
 The Unionist case in Scotland would be severely damaged were Northern Ireland to remain in the Single Market while Scotland leaves it.  Nicola Sturgeon would claim that the Government was deliberately disadvantaging Scotland.  Given the pro-EU sentiment there, the claim would carry electoral weight.  The Robbins plan would thus put rocket boosters under Scottish independence.  

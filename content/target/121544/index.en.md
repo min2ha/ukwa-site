@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# New Policy Institute (NPI)
-
 The New Policy Institute, often shortened to just NPI, is a British think tank based in London. It was established in 1996, and focusses on social and economic issues from a progressive perspective.

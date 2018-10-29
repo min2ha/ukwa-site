@@ -11,7 +11,5 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Bernadette Horton (Labour candidate for North Wales)
-
 Bernadette Horton is the Labour candidate for North Wales at the 2016 National Assembly Elections. 
 

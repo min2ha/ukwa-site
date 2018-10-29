@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Herald Scotland: Independent Scotland would rank 13th in Rio Olympic medal table after record haul
-

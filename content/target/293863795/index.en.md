@@ -10,6 +10,4 @@
   "start_date": "2017-01-07T09:00:00Z"
 }
 
-# National Library of Wales: David Lloyd George
-
 The website established by the National Library of Wales provides us an insight into Lloyd George's character and his career as a politician. They include a  collection of the papers of William George, David Lloyd George's brother, which were purchased by the Library in 1989. 

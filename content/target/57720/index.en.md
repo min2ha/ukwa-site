@@ -10,6 +10,4 @@
   "start_date": "2017-10-10T09:00:00Z"
 }
 
-# Stefan Gant Contemporary Drawing
-
 Stefan Gant is a Senior Lecturer at Northampton University. He is also a Welsh artist with international peer review. 

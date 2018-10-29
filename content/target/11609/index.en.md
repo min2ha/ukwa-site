@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Millar (@millarmind) on Twitter
-
 David Millar is a Scottish former professional road racing cyclist. He spent much of his career at two teams, Cofidis from 1997 to 2004 and Garmin-Sharp from 2008 to 2014.

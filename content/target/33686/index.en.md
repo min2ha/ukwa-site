@@ -10,6 +10,4 @@
   "start_date": "2016-01-06T09:00:00Z"
 }
 
-# Socialist Worker: Ireland's Easter Rising
-
 Article about the 90th anniversary of the Easter Rising

@@ -10,6 +10,4 @@
   "start_date": "2015-12-08T09:00:00Z"
 }
 
-# Tools for self Reliance Cymru (TFSR Cymru)
-
 TFSR CYMRU is a charity based in Crickhowell. The group collect old and unwanted hand tools from all over Wales concentrating on sending items to Tanzania.

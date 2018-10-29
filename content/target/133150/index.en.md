@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# National Women's Register (NWR)
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-07-25T10:00:00Z"
 }
 
-# Dr Kate Granger
-
 Personal blog of Yorkshire GP Dr Kate Granger who set about raising money for cancer centre when diagnosed with terminal illness, and launched 'Hello, my name is..." campaign to improve communications with cancer patients

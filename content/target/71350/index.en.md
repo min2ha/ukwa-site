@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health Foundation: Podcast Interviews
-
 The Mental Health Foundation's podcast features with interviews with people involved in mental health, from campaigners, experts and those who have experienced mental health problems. 

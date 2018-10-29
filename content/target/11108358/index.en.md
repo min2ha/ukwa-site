@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Wildlife Trust for Bedfordshire, Cambridgeshire and Northamptonshire 
-
 Charles Rothschild set up the Society for the Promotion of Nature Reserves (SPNR) in 1912, the forerunner of The Wildlife Trusts partnership. And the first nature reserve was at Woodwalton Fen, near Huntingdon, bought by Rothschild in 1910 which is now in the centre of the Great Fen Living Landscape.

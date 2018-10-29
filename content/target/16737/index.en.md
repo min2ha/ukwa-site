@@ -10,6 +10,4 @@
   "start_date": "2015-02-06T06:00:00Z"
 }
 
-# Survivor Scotland
-
 <p>An information and educational resouce produced by Survivor Scotland, which oversees the national strategy for survivors of childhood abuse.</p>

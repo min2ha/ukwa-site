@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit will diminish UK's ability to combat international wildlife crime, says environment minister
-

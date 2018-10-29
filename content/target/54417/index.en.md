@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Scottish Health Council
-
 The Scottish Health Council was established by the Scottish Executive in April 2005 to promote Patient Focus and Public Involvement in the NHS in Scotland.

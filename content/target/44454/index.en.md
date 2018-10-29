@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Knoydart Foundation
-
 The Foundation aims to manage the Knoydart Estate as an area of employment and settlement on the Knoydart Peninsula without damaging the  local environment.

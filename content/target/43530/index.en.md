@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conversation, The: EU Referendum
-
 The Conversation section on the EU referendum.

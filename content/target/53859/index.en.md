@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Labour Future
-
 Labour Future is a new grassroots mass-membership campaign group.

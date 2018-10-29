@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cambridge University ARLFC
-
 University rugby league club playing in BUCS Midlands division.

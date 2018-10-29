@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Philiphaugh Estate Salmon Viewing Centre
-
 Site of a salmon viewing centre on the Philiphaugh Estate, near Selkirk and on the River Ettrick .

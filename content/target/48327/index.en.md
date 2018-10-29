@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# John Pilger: Why the British said no to Europe
-
 A response to the EU Referendum result.

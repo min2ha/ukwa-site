@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Boris Johnson breaks ranks with Brexit ‘vassal state’ warning
-

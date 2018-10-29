@@ -10,6 +10,4 @@
   "start_date": "2018-07-31T09:00:00Z"
 }
 
-# Swillington Ings Bird Group
-
 Swillington Ings Bird Group Website, the pages describe the Group’s arrangements, the wildlife recording area, details of individual sites, historical records and current sightings. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Let’s salute Nick Clegg’s final voyage as the good ship Lib Dem sinks
-
 None

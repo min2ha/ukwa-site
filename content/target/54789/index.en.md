@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# Yorkshire Regiment
-
 The purpose of The Yorkshire Regiment Assocation (YRA) web-site is to enable all members of the regimental family, past and present, to readily access and share information on The Yorkshire Regiment, its antecedent regiments and associations.

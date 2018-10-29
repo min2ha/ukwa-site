@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Pretty Witty Cakes Forum
-
 An online enthusiast community concerned with baking, specifically of cakes, cupcakes and cookies. Discusses various recipes, tools and equipment, decorating techniques and various other related topics.

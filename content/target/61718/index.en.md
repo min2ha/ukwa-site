@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cairnlea Parish Church Airdrie
-
 Site of a Church of Scotland parish church at Airdrie, Lanarkshire.

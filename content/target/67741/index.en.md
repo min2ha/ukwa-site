@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Scott Hutchison (#ScottHutchison) on Twitter
-
 Tweets using the hashtag #scotthutchison, referencing the lead singer of Scottish indie band Frightened Rabbit.

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kirstene Hair for Angus South on Facebook
-

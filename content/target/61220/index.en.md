@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Hacio'r Iaith
-
 Hacio’r Iaith is a community of professionals and enthusiasts who enjoy exploring how technology applies to and through the Welsh language. They meet up regularly throughout the year around Wales. 

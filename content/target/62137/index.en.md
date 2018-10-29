@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Select Security Stadium
-
 The Select Security Stadium is a rugby league stadium in Widnes, Cheshire, England. Widnes Vikings play their home games there. The stadium is all seater and has a total capacity of 13,350.

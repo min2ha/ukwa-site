@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Lord Howard: Let ministers have their say on EU referendum
-

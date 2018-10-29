@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# #EuroScot hashtag on Twitter
-

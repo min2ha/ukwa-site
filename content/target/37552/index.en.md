@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Live Reporting of the EU Referendum 
-
 BBC News: Live Reporting of the EU Referendum 

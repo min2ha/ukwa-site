@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Inverkeithing Baptist Church
-
 Site of a Scottish Christian church and its congregation belonging to the Baptist denomination located in Inverkeithing, Fife.

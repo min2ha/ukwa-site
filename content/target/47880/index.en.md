@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Cambridge University Library Special Collections blog
-
 Cambridge University Library’s Special Collections include the oldest and most valuable materials in the Library, in manuscript, printed and artefact form, as well as modern maps, music and material in the Chinese, Japanese, Korean, Near and Middle Eastern, and South Asian, Tibetan and Southeast Asian collections.

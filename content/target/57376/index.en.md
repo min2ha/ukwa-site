@@ -10,6 +10,4 @@
   "start_date": "2017-09-23T09:00:00Z"
 }
 
-# Tom Pitt
-
 Tom Pitt is an artist from Barry. He paints places, objects, or things he categorises as somewhere between place and object. 

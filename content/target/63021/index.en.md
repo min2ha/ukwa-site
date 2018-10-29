@@ -10,6 +10,4 @@
   "start_date": "2018-03-24T09:00:00Z"
 }
 
-# Writing 4 Life
-
 Blog and poetry archive of Dr Joanna Skelt (1968-2018).

@@ -11,6 +11,4 @@
   "subject": "Race, Ethnicity & Sport"
 }
 
-# Football Unites, Racism Divides
-
 None

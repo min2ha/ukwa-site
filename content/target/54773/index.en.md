@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Vernalis plc
-
 Vernalis Research is a world leader in structure- and fragment-based drug discovery.

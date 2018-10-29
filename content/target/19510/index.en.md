@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Treasures of the Bodleian: Magna Carta
-

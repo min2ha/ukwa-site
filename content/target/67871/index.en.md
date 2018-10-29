@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: Why Jeremy Corbyn could be the man who saves Brexit
-
 Argues that Corbyn and his closest circle are, almost without exception, committed to Brexit. His hostility to the European project has been long held. Indeed, it dates back nearly half a century.

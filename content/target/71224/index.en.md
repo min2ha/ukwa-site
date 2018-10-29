@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dudley Festival of Music, Drama & Dance
-
 Website for the Dudley Festival of Music, Drama & Dance.

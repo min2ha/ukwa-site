@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# CLEAR Buckhaven
-
 Site of a community organisation in Buckhaven, Fife, focusing on horticulture as a means of improving the town.

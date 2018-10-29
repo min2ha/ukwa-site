@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Kitschies, The
-
 The Kitschies reward what they believe to be the year’s best fiction that contain elements of the speculative or fantastic.

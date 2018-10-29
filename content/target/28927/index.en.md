@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Birmingham Conservatives
-
 Website of Birmingham Conservatives provides news about local issues and campaigns, events, and lists of local MPs and Councillors.

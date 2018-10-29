@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Newton Poppleford and Harpford
-
 The parish of Newton Poppleford and Harpford lies in the East Devon Area of Outstanding Natural Beauty, yet is only about 4-5 miles inland from the coast.

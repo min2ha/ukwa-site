@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Public Law Group: Beyond the Referendum: A Supreme Court for Scotland – Update
-
 None

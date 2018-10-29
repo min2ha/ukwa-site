@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Church Times (@ChurchTimes) on Twitter
-
 News, comment, features, book reviews and more since 1863.

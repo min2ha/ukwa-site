@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# We Own It
-
 British organisation that campaigns for greater public ownership of public services, and against privatisation. 

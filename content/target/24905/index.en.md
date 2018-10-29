@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stuart Macdonald (@Profmacdonald) on Twitter, Green Party parliamentary candidate for Witney
-

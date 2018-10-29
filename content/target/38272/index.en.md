@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wake Up Europe! (@Wake_up_Europe) on Twitter
-
 Aiming to provide a forum across borders for a bottom-up debate about the EU.

@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Derbyshire Police Authority
-
 None

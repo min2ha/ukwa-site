@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# One Last Breath
-
 One Last Breath is a campaign from Welsh Water about the dangers of reservoirs.

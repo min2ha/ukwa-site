@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Ministers publish post-EU trade legislation
-
 Details of the government's post-Brexit trade policy have been published. 

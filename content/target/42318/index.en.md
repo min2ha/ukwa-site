@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Campaign for wild spaces
-

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1418now WW1 centenary art commissions: The Easter Rising
-
 Section of the 14-18-now arts page on the Easter Rising

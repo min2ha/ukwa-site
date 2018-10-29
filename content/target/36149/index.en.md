@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SandraSSP | Socialism – Independence – Internationalism
-
 Sandra Webster's blog; RISE Alliance candidate for the West Scotland regional list in the 2016 Scottish parliament elections.

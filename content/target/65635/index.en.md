@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# The Security Institute
-
 The Security Institute is a United Kingdom based professional body for security professionals. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alex Allison on Facebook
-
 This is the Facebook page of Alex Allison, the Conservative Party candidate for Lanark and Hamilton East in the UK General Election on the 7th May 2015 and Clydesdale in the 2016 Scottish Parliamentary election.

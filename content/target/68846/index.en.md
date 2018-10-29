@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cardiff Animation Festival
-
 Website for the Cardiff Animation Festival.

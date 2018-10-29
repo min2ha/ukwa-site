@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Cardiff Bay Beach Festival
-
 The official site for the beach festival held in Cardiff Bay.

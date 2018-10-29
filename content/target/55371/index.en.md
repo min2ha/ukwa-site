@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Creative Casting Wales
-
 Creative Casting Wales is a Television Agency specialising specialise not only in the supply of Supporting Actors, Extras, Walk-on and Background Artists.

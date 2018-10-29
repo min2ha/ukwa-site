@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Smyrna Welsh Baptist Chapel, Penyfai
-

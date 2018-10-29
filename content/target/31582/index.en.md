@@ -10,6 +10,4 @@
   "start_date": "2017-02-10T09:00:00Z"
 }
 
-# Gareth Churchill
-
 Gareth Churchill is an award winning Welsh composer of acoustic instrumental and vocal music.

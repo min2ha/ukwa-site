@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whitehawk Ultras (@HawksUltras) on Twitter
-
 A tight-knit but loosely organised set of fans drawn to the non-league from Brighton and beyond.

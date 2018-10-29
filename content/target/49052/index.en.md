@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# CoderDojo Scotland
-
 Site of the Scottish arm of a global collaboration that provides free computer coding clubs for young people, enabling them to learn everything they need to become a programmer.

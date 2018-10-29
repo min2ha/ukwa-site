@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Kings Fund: Health and Social Care Election Tracker
-

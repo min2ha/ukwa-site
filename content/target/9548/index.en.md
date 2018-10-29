@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# New Statesman: How Europe's far-right will - and won't - flourish in 2014 
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Unlock Democracy
-
 Unlock Democracy is a grassroots campaign for democratic reform and participation. They are owned and run by the members. Their aim is to build a better democracy, reconnecting politics with ordinary people. They are campaigning to reform the way our Parliament is elected and how it is run. 

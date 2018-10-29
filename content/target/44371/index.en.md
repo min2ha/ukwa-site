@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave (@vote_leave) on Twitter
-
 Twitter page for Vote Leave campaign

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dr Richard Simpson MSP
-
 Dr Richard Simpson, Scottish Labour Member of the Scottish Parliament for Mid Scotland and Fife from 1999 to 2016.

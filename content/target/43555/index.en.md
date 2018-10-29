@@ -11,7 +11,5 @@
   "subject": "EU Referendum"
 }
 
-# Kensington Blog: The EU - in or out?
-
 Blog of Kensington Baptist Church (From topical subjects to
 spiritual wisdom, have a read.)

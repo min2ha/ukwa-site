@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# DanielColeman Dundee (@ColemanDundee) on Twitter
-
 The Twitter profile of Daniel Coleman, the Liberal Democrats candidate for Dundee West in the UK General Election on the 7th May 2015.

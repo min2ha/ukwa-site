@@ -11,6 +11,4 @@
   "subject": "Caribbean Communities in the UK"
 }
 
-# Caribbean-Intelligence
-
 A news site for the Caribbean diaspora in the UK.

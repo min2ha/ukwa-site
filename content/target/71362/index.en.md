@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# V&A Dundee director: New museum is not a London 'outstation'
-
  Article about the opening of the V&A Dundee. 

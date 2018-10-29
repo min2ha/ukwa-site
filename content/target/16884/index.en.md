@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Traveller Movement, The: Traveller Movement publishes Manifesto for General Election 2015
-
 The Traveller Movement (TM) was established in 1999 as a community development charity, and works with the Irish Traveller community, Gypsy Roma and all other Traveller communities in Britain. 

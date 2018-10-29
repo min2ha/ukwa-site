@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# East Anglian Daily Times
-
 None

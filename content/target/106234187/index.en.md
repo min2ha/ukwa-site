@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Amadeus Capital Partners Ltd
-

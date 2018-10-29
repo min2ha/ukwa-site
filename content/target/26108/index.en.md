@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Don’t mention Enoch: can the Tories win black and Asian votes?
-
 None

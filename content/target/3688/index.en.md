@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Sunday Post, The
-
 None

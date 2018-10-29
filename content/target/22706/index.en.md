@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stuart Jeffery (@stuartjeffery) on Twitter (Green Party candidate for Canterbury)
-

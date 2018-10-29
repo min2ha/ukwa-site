@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Bunnyfoot 
-
 Bunnyfoot is a UX consultancy company. Specialising in finding and recruiting participants to take part in various types of user testing.

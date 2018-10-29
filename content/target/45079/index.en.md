@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# British Swimming: Scott Quin | Results, Biog and Events
-

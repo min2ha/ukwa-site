@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Darts Organisation
-
 British Darts Organisation worldwide ruling body providing world rankings and running BICC inter-county championship.

@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# National Broadcast Archive (@NatBA_NLW) on Twitter
-
 This is the twitter feed for the National Broadcast Archive at the National Library of Wales.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Library Carpentry: Library OpenRefine on Github
-
 OpenRefine lesson for librarians.

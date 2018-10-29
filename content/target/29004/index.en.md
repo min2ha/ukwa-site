@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Rochester and Strood Conservatives
-
 Website of Rochester and Strood Conservatives, providing information on MPs, councillors, association officers, how to get involved and local and national news.

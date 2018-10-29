@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Royal Historical Society (RHS)
-
 The Royal Historical Society is a learned society in the UK working with professional historians and advancing the scholarly study of the past. It was founded in 1868 and has a charitable status.

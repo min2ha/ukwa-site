@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Tayside Police
-
 None

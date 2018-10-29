@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Luna Fishing Company Limited
-
 Luna Fishing Company Limited is a fish processing and transporting business based in Peterhead, Scotland. 

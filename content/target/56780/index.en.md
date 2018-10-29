@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Nick Burton
-
 Website of illustrator and comic creator Nick Burton

@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Women's Equality Network Wales (WEN Wales)
-
 WEN Wales is a network of over 500 organisations and individuals committed to making Wales a safer and fairer place for women and girls.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour demand David Cameron 'comes clean' on working with Ukip as Nigel Farage talks up a deal 
-
 None

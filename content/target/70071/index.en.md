@@ -10,6 +10,4 @@
   "start_date": "2018-08-18T09:00:00Z"
 }
 
-# Mint Linen
-
 High quality linen and towel hire and contracted laundry services.

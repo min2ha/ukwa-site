@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May: UK cannot keep 'bits' of EU membership
-
 The UK cannot expect to hold on to "bits" of its membership after leaving the EU, Theresa May said in a New Year 2017 interview with Sky News

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Old Cumnock Trinity Church
-
 Site of a Church of Scotland parish church at Cumnock, Ayrshire.

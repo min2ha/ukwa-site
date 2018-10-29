@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Wishes, Hopes and Dreams: Harry Potter 20 Year Anniversary
-

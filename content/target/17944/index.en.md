@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Oliver Double - Double Central
-
 Website for Oliver Double, lecturer in drama and stand-up comedy, comedian and author. 

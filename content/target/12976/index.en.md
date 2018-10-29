@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Sport: Commonwealth Games 2014
-
 None

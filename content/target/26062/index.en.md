@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Voters face epic choice at general election – over the size of the state
-
 None

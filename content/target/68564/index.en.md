@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 25th June 2018: Leaving the EU: Airbus Risk Assessment
-
 MPs discuss threats made by Airbus to move its British manufacturing operations to that well-known EU member, China, as a result of a hard Brexit. 

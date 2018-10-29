@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: Joint Ministerial Committee 24 October 2016: statement
-
 Prime Minister Theresa May chaired her first Joint Ministerial Committee meeting with devolved administration leaders at 10 Downing Street on October 24th 2016. She told the devolved administrations she would strike a bespoke Brexit deal that works for the whole of the UK.

@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Llangollen Food Festival
-

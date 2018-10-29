@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# PowWow Festival of Writing
-
 PowWow Literature Festival was founded in 2011 by Birmingham writers Charlie Hill and Andrew Killeen. http://www.powwowwritersgroup.co.uk/ and http://pow-wow.org.uk/

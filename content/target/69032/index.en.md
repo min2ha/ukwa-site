@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Michael Gove faces calls to QUIT as Environment Secretary until police probes into Vote Leave are finished amid claims he helped run an 'illegal' Brexit campaign with Boris Johnson
-

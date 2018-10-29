@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Water
-
 Website for Jersey Water. Information on payment, charges, metering, supply, moving, connection, emergencies, company information, history, locations and leisure.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: 
-
 Michel Barnier said there was a "risk of failure" in two key areas in the Brexit negotiations - Northern Ireland, and how the agreement would be governed. There had been little progress since March 2018.
 

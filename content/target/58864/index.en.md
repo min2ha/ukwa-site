@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Remoaners plot more trouble: Tory rebels put Government at risk with new demands despite being offered a vote on the final Brexit deal  
-

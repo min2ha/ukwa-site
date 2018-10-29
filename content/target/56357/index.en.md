@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# London School of Mediation
-
 The London School of Mediation is one of the world’s leading organisations for mediation training. 

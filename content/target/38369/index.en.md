@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Socialist Resistance: The left debates the case for EU Exit
-
 Report from a debate by the Communist Party of Britain on the EU Referendum

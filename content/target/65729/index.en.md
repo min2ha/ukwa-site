@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Fairwind Shipping Limited
-
 Fairwind Shipping Limited is a marine consultancy and support firm that offers commercial strategic advice and management services, analytical and planning support, chartering services, scheduling services, and vessel disposal services. Fairwind Shipping serves banks and investors, and other marine related companies and institutions. Fairwind Shipping Limited operates as a subsidiary of The Denholm Group.

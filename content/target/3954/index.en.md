@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# North Yorkshire Gazette and Herald
-
 None

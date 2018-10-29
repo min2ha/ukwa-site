@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Child Maintenance Options
-
 At Child Maintenance Options, we provide free impartial information and support to help parents make informed choices about child maintenance.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Unemployed will have to do community work under Tories, says Cameron
-
 None

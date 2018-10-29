@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: General election: lessons from Scotland's recent political history
-
 None

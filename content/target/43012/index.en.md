@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum - NIPSA Calls For Left Exit
-
 At NIPSA’s Annual Conference at the beginning of June they decided to advocate for their members to vote leave in the EU Referendum.

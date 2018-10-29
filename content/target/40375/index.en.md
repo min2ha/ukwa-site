@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Cymru Sovereign
-
 Cymru Sovereign is a political party who 'fully believe that Wales can become a prosperous outward looking sovereign state in the world, to add to the other 206 sovereign states that currently exist'.

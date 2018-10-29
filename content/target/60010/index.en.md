@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Visit Malvern
-
 Malvern is a spa town and civil parish in Worcestershire, England. It lies at the foot of the Malvern Hills.

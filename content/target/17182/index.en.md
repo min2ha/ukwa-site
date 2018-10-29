@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  Top Tory MP shuns David Cameron and uses Labour hero Tony Benn on election campaign leaflet
-
 None

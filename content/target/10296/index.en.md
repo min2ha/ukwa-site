@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Neena Gill, Labour on Twitter
-
 None

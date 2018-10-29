@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Association, The: For Girls
-
 The sub section of the FA website for women's and girl's football.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The charts that reveal what would happen if more young people voted 
-
 None

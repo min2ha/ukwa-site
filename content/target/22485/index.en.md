@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Teegraph, The: Nick Clegg: Tories and SNP locked in 'unholy alliance'
-
 None

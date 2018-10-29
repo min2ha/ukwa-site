@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Healing Kashmir
-
 Healing Kashmir leads a small network of charitable organization aimed at developing and implementing a model of free mental health care and education in conflict and crisis situations. 

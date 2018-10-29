@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: The Return of the Border? Analysis of the Irish border provisions in the Brexit withdrawal agreement
-
 The most controversial provisions in the recently proposed draft of the Brexit withdrawal agreement were those relating to the Irish border. They were tucked away at the end in a separate protocol, but they were soon found and criticised as an EU attempt to “annex” the Northern Ireland economy as a means to ensure no border checks were applied on the land border between the UK and Ireland. Conversely, they were defended by those who argued that the Leave campaign during the referendum, and the UK government since, had promised no border controls, and that the Commission’s proposal only elaborated upon what the UK government promised in the joint report of December 2017

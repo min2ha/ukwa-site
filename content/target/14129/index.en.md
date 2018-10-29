@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Mountaineering Council of Scotland, The: Yes or No – Five Referendum Questions on the Future of our Wild Lands
-
 None

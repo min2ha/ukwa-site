@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Warwick & Leamington Green Party
-
 None

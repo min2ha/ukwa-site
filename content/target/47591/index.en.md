@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Your Hampshire
-
 A local news site published by Hampshire County Council

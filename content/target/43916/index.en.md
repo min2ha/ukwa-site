@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Discovering Distilleries
-
 Site advertising and providing information about visits available to a group of Scottish whisky distilleries owned by the Diageo group.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Pen y Cymoedd Wind Energy Project
-
 The Pen y Cymoedd Wind Energy Project is a 76 turbine development in the county boroughs of Neath Port Talbot and Rhondda Cynon Taf. 

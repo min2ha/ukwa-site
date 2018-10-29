@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tristan Gray (@tristangrayedi) on Twitter
-
 Twitter profile of Tristan Gray, Scottish Liberal Democrat candidate for Edinburgh East in the 2017 general election.

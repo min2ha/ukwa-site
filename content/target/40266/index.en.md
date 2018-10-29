@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Scotland's War
-
 Site of an academic / commeorative World War I project to collect documents of the time, photographs, letters, diaries and oral histories and present these online.

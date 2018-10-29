@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Salford City Reds (@salfordcity) on Twitter
-
 The official Twitter account of Salford City Reds.

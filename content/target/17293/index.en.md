@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: BBC election rules mean majority of UK will not see SNP broadcasts 
-

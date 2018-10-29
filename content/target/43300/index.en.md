@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Glastonbury Festival: No EU Referendum polling station at Glastonbury - register for postal vote
-
 Article on the website of the Gasltonbury Festival 2016 explaining how attendees can register for a postal vote ahead of the festival.

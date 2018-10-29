@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Surrey Police Authority
-
 None

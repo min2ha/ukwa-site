@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Independence Conversation, The
-
 <p>Posts, news, articles, links to publications about all areas of the Scottish Referedum</p>

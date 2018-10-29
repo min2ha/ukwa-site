@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: Conservative government will be there for you from cradle to grave
-
 None

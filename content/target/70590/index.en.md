@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leicester City Women FC
-
 LCWFC have been running for just under 15 years, during which time, 4 successive promotions saw them rise up to the FA Women’s Premier League Northern Division.

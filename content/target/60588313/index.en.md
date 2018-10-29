@@ -10,6 +10,4 @@
   "start_date": "2016-11-30T09:00:00Z"
 }
 
-# New Sound Wales
-
 New Sound Wales provides music news, gig guides and CD reviews with a focus on Welsh music artists.

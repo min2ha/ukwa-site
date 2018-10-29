@@ -10,6 +10,4 @@
   "start_date": "2017-12-24T09:00:00Z"
 }
 
-# Gareth Chambers
-
 Gareth Chambers is a visual dance artist from Wales and editor and writer for the online dance magazine Bellyflop.

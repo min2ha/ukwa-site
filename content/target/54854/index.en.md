@@ -10,5 +10,3 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# Mortimer History Society
-

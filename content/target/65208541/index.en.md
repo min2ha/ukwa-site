@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Transport for London: London 2012 Games
-

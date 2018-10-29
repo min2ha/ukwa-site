@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: You think the LibDems were punished over tuition fees? That’s nothing compared to the fate that now stalks the Tories over Brexit.
-
 If the Conservatives forsake their election pledge to deliver a clean Brexit, they don’t only risk losing future elections, but may for decades struggle to shake off the image of betraying the largest democratic vote in British history.

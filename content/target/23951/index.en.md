@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Jim Wells resigns as Northern Ireland health minister
-
 None

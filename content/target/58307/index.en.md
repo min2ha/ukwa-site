@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Haydn Denman Lighting Cameraman
-
 Haydn Denman has worked as a lighting cameraman on many award-winning international productions and has won a BAFTA Cymru for best documentary and factual camera work on two occasions. 

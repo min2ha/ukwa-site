@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Battersea Arts Centre (BAC)
-
 A centre for the arts hosting drama shows, discussions and dance events, and it also has a bar with homemade food.

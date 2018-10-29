@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Illustrated First World War
-
 With the centenary of the First World War the ILN Ltd, the custodians of the 'Illustrated London News' and 'Great Eight Illustrated Magazine' collection archives, made the 1914-18 archives available to the public for research, education and pleasure. With the help of a grant from the Heritage Lottery Fund, The Illustrated First World War website was created.

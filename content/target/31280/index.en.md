@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Falkirk Local History Society
-

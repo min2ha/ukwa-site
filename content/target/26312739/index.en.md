@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# GamesIndustry
-
 GamesIndustry.biz is a community for news and information about the global videogames industry, covering all aspects of the interactive entertainment value chain. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dominicans at St.Columba's in Glasgow, The
-
 Site of a Scottish branch of the Roman Catholic order of Dominicans, located in Glasgow.

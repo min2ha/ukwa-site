@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-#  British Book Trade Archives 1830 - 1939
-
 The aim of this site is to facilitate the research of book historians through listing the known locations of the archives of British publishers, printers, booksellers and stationers active in the period 1830-1939. 

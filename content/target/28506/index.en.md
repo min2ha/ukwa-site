@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# In their own words: collecting experiences of the First World War
-
 This is an academic and community history project related to the centenary of the First World War.

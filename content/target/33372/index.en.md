@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Thomas MacDonagh Heritage Centre
-
 This is the website of the ‘Thomas MacDonagh Heritage Centre’. MacDonagh was one of the signatories of the 1916 Proclamation and this heritage centre is based in his hometown with the building incorporating his family home.

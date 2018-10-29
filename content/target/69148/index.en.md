@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Amnesty International: The gender equality agenda
-
 An interview with Phumzile Mlambo-Ngcuka, UN Under-Secretary-General and Executive Director of UN Women, on gender equality

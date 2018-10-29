@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Church
-
 This is the website of St. Andrew's Church.

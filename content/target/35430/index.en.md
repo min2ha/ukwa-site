@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Royal College of Obstetricians and Gynaecologists: Interim RCOG/RCM/PHE/HPS clinical guidelines: Zika Virus Infection and Pregnancy Information for Healthcare Professionals
-
 Joint professional body guidance on Zika virus and pregnancy

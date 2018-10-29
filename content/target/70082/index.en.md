@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# LTD Ladies (@LTD_Ladies) on Twitter
-
 The official Twitter account of LTD Ladies.

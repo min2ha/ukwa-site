@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Dafydd Iwan
-
 Dafydd Iwan is a Welsh folk singer and Plaid Cymru politician. 

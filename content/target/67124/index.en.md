@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Association of British Paediatric Nurses (ABPN)
-
 The ABPN is a UK-based network of children's nurses with a wide membership of experts in clinical practice, education, leadership and research. 

@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Scottish Leisure History
-
 WordPress site of a group studying and sharing knowledge in Scottish sporting and leisure heritage.

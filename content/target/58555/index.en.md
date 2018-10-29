@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Duffy
-
 Duffy is a Welsh singer and songwriter from Gwynedd. She won three Brit Awards for British Breakthrough, Best British Female and Best British Album in 2009.

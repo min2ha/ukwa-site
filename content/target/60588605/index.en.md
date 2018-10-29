@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# MapAction
-
 <p>MapAction delivers information in mapped form, from data gathered at a scene of disaster.</p>

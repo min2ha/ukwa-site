@@ -10,6 +10,4 @@
   "start_date": "2016-01-09T09:00:00Z"
 }
 
-# Tim Cymorth Ieuenctid Ethnig | Ethnic Youth Support Team (EYST)
-
 Ethnic Youth Support Team provides support for ethnic minority young people in Swansea.

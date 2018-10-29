@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Glasgow Roller Derby
-
 Site of roller derby skating league in Glasgow, featuring the teams Irn Bruisers, Maiden Grrders and Cannie Gingers.

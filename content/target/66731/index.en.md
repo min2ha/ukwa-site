@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Natural Sciences Collections Association (NatSCA)
-
 The Natural Sciences Collections Association (NatSCA) is a UK based membership organisation and charity run by volunteers from the membership.

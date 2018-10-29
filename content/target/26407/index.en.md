@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'Face it Britain – you've got a weird electoral system'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Vote Jersey
-
 Guide to voting in Jersey including details of upcoming elections, referendums, candidates and results.

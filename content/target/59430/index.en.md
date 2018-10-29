@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Social Care Wales | Gofal Cymdeithasol Cymru
-
 Social Care Wales is the social care workforce regulator in Wales responsible for promoting and securing high standards across the social services and social care workforce.

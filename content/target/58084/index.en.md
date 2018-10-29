@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Dymphna Darcy
-
 Dymphna Darcy is 'interested in the natural world and our role and relationship within it [which she explores] through dance, performance, video, photography and digital media'.

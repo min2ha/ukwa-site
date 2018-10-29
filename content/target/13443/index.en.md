@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ian Davidson MP (IanDavidsonMP) on Twitter
-
 <p>The twitter profile of Ian Davidson, Labour (Co-op) Member of Parliament for Glasgow South West.</p>

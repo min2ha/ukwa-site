@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St John the Evangelist Canton,Cardiff
-

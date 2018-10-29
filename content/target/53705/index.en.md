@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ian Kealey (@IKealeySomerset) on Twitter (UKIP Politician)
-
 Ian Kealey stood as candidate for the UK Independence Party (UKIP) in the constituency of Bristol South in the 2017 General Election but was not elected.

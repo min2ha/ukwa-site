@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Tariq Ramadan
-
 Website run by Prof Tariq Ramadan on theology, ethics and interfaith dialogue. 

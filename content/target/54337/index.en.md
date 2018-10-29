@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Autonomy Scotland
-
 Political blog site taking a pro-Scottish independence stance, promoting political reform, ethical foreign policy and more power at local levels.

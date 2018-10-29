@@ -10,6 +10,4 @@
   "start_date": "2016-04-11T10:00:00Z"
 }
 
-# Creative Skillset Cymru
-
 Creative Skillset Cymru is a body that helps develop skills and talent for the creative industries in Wales. It is to close in 2016.

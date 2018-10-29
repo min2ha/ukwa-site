@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of Leeds: Excessive internet use is linked to depression
-
 People who spend a lot of time browsing the net are more likely to show depressive symptoms, according to the first large-scale study of its kind in the West by University of Leeds psychologists

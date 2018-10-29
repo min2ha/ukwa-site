@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Assembly Rooms Fringe
-
 A collection of venues from the Edinburgh Fringe Festival.

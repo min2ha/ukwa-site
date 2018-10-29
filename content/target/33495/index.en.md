@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Dewis Housing
-
 Dewis Housing provides supported accommodation, information and advice for young people aged between 16 and 25 in the Neath Port Talbot County. 

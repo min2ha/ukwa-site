@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Tory rebellions against May's Brexit plans 'could bring down government'
-
 Tory rebels against Theresa May’s Brexit plans could ultimately collapse the government

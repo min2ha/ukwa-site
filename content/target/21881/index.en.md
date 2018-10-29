@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cartmel Priory
-
 Website of The Priory Church of St. Mary and St. Michael, Cartmel, part of the Church of England.

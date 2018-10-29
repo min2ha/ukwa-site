@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: Which countries will get the most Olympic medals?
-
 Professor Meghan Busse from the Kellogg School of Management, Northwestern University, US, speculates for the More or Less radio show on why some countries preform better than others at the Olympic Games.

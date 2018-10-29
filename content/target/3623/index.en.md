@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Donegal News (Omagh)
-
 None

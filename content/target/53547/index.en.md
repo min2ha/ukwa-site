@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Society of Catholic Artists
-
 The Society of Catholic Artists is for those engaged as professional or amateurs in the various disciplines of the Visual Arts, and for all those who recognize the value of the artist as an evangelist assisting in the pastoral work of the church.

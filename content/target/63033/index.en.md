@@ -10,6 +10,4 @@
   "start_date": "2018-03-24T09:00:00Z"
 }
 
-# Nerys Williams Poet/ Writer
-
 Nerys Williams is a Poet/ Writer from west Wales. Her first volume, Sound Archive was published by Seren in 2011.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Every household told: sign up now to vote in ‘historic’ EU poll 
-
 Guardian, The

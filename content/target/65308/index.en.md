@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Church of Scotland Corby
-
 Site of a Church of Scotland parish church at Corby, Northamptonshire.

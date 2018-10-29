@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Huw Jones on Facebook (Labour candidate for South East Cambridgeshire)
-
 None

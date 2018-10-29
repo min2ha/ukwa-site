@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Versus
-
 A film about the life and career of British film director Ken Loach.

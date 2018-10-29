@@ -10,6 +10,4 @@
   "start_date": "2014-10-27T06:00:00Z"
 }
 
-# MRC National Institute for Medical Research
-
 None

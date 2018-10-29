@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: EU referendum
-

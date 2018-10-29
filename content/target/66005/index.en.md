@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Arts and Education Network North Wales | Rhwydwaith Celfyddydau & Addysg Gogledd Cymru (Edau)
-
 Arts and Education Network North Wales work with schools, the Regional Education Consortia, local authorities and stakeholders in the education, arts, creative, cultural and heritage sectors acros north Wales to deliver 'Creative learning through the arts – an action plan for Wales', a partnership between Welsh Government and Arts Council of Wales – putting creativity and the arts at the heart of learning. 

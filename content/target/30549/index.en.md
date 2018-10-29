@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Future Learn
-
 Website of a British online platform offering massive open online courses (MOOC).

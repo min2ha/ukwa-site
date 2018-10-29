@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Buzzardrugby (@LBRFC3rdXV) on Twitter
-
 The official Twitter account of Leighton Buzzard Rugby Football Club.

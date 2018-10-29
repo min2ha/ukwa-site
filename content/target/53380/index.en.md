@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Confederation of Paper Industries (CPI): The Future of UK Paper - A Growth Springboard Sector
-
 CPI urges the new Government to take five immediate actions to enable the UK’s Paper-based industries to take off and support sustained manufacturing growth: pursue an economically rational Brexit; support UK manufacturing; take action on skills; make UK energy internationally competitive; and reinforce use of the right amount of packaging.

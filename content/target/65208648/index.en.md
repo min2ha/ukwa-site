@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Newry Drama Festival - Diamond Jubilee Celebrations
-

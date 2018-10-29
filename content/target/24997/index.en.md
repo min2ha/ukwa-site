@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron heading back to Downing Street after a late surge in Conservative support 
-
 None

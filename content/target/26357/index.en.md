@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: All to play for in Labour target Croydon Central, new poll suggests
-
 None

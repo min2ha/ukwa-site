@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - One GOOD reason to Vote YES is the effect...
-
 Ewan Morrison's post of the 18th of June, 2014.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Institute of Economic Affairs Blog: posts tagged 'Scotland'
-
 <p>Blog posts relating to the Scottish independence debate from the the free-market think tank, the Institute of Economic Affairs.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# AJ Rosen - Luge
-
 None

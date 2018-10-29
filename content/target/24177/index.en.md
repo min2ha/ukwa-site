@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: At last, we now have a Business Secretary who supports free enterprise
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: It’s a mistake to sneer at centrists. Adonis’s stand on Brexit shows why
-

@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Battle of Bannockburn Visitor Centre
-
 Site of a visitor centre on the site of the 1314 Battle of Bannockburn.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Penpergwm Lodge
-
 Penpergwm Lodge Gardens is a 3 acre garden developed over the last 30 years from the remnants of an Edwardian garden. The gardens are located near Abergavenny.

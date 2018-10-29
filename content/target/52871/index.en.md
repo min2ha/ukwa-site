@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kirsty Blackman (@KirstySNP) on Twitter
-
 Twitter profile of Kirsty Blackman, Scottish National Party candidate for Aberdeen North in the 2017 general election.

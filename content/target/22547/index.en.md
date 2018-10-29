@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Gerry Adams says Sinn Féin committed to referendum on unity
-
 None

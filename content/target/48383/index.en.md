@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Religions for Peace
-
 Since its founding in 1970, Religions for Peace has been guided by the vision of a world in which religious communities cooperate effectively for peace, by taking concrete common action.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Harbour Asset Management: Brexit or Bremain? 
-

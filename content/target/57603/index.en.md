@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Delegated Powers and Regulatory Reform Committee: European Union (Withdrawal) Bill
-
 In addition to drawing attention to the “excessively wide law-making powers” the Bill gives to Ministers, the report recommends that Ministers should not have an “unfettered discretion” to decide whether the wide-ranging secondary legislation likely to stem from the Bill should be subject to the full scrutiny of the affirmative procedure or the less robust negative procedure.

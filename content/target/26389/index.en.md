@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband urges voters to focus on big issues
-
 None

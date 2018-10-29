@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Ellington | World & Olympic Sprinter
-
 <p>The website of sprinter James Ellington, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

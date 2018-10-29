@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Re-elect James Kelly on Facebook
-
 The Facebook page of James Kelly, former Member of the Scottish Parliament and Scottish Labour candidate for Rutherglen, Cambuslang and Blantyre in the 2016 Scottish Parliamentary election

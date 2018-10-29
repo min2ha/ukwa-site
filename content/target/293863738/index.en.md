@@ -10,6 +10,4 @@
   "start_date": "2015-05-07T09:00:00Z"
 }
 
-# VCS Cardiff
-
 The site for the voluntary sector in Cardiff.

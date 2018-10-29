@@ -11,8 +11,6 @@
   "subject": "SmashFest UK"
 }
 
-# Kirkaldy Testing Museum
-
 David Kirkaldy's Testing and Experimenting Works at 99 Southwark Street set international standards in testing materials from which everyone’s everyday life benefits today.
 
 Today, this unique Victorian workshop keeps alive our direct link with Kirkaldy's innovation, at the heart of this bustling commercial district of London. The Kirkaldy Testing Museum preserves Kirkaldy's unique Universal Testing Machine - the huge hydraulic powered machine he designed and had built in Leeds - in full working order in the premises he built to house it.

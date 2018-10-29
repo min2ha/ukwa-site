@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Katie Summerhayes Freestyle Skier
-
 None

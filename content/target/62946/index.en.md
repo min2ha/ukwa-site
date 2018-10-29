@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# March For Life UK
-
 A UK based pro life campaign group. 

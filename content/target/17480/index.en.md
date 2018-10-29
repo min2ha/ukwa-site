@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Mandelson backs Miliband's 'middle-out' economic plan
-
 None

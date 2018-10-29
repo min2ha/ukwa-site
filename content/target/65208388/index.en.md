@@ -10,7 +10,5 @@
   "start_date": "2012-04-04T00:00:00Z"
 }
 
-# Stonewall Cymru
-
 Stonewall Cymru is the all-Wales Lesbian, 
 Gay & Bisexual (LGB) Charity

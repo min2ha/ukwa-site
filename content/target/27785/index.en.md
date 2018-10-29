@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Queen's royal barge to greet visitors at this year's Marlow Town Regatta
-

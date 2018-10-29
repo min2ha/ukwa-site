@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Express: 'It was a DECISIVE vote' Tory fury over party plot to rubbish Canada-style Brexit deal
-
 BREXIT-backing Tories were furious after a plot by party rivals to rubbish their plan for a Canada-style trade deal with the EU was revealed.

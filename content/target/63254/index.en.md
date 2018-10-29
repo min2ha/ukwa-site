@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Exeter University Russia Society
-
 Official website of the Exeter University Russian Society.

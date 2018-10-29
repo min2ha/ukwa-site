@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Express: Ben Miller: 'I try to push myself to do comedy in different forms'
-

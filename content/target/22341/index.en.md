@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Working hard for an even better Paisley and Renfrew North
-
 This is the website of John Anderson, the Conservative Party candidate for Paisley and Renfrewshire North in the UK General Election on the 7th May 2015.

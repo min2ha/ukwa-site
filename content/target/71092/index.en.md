@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# Helen Elliott Art
-
 Helen Elliott's art features the boats, beaches, villages, dogs and people of west Wales, as well as landscapes from her travels in Europe. She has a studio in Newxastle Emlyn.

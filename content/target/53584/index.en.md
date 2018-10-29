@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Nairn Awaits
-
 Community website for the town of Nairn, Highland, Scotland, providing details of amenities, businesses and events for residents and visitors.

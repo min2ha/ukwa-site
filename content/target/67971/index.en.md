@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# Brewhive
-
 Site of a brewer based in Edinburgh

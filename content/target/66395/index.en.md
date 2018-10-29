@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Brodies LLP
-
 Brodies LLP is a Scottish-headquartered law firm. The company’s practice areas include corporate and commercial, property, litigation, banking, employment, major projects, tax, public law and regulation.

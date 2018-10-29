@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# BBC: In pictures: The Queen's birthday
-
 Three days of events mark the Queen's official 90th birthday celebrations.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Liberal Democrats: Britain in Europe
-

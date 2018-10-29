@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Catholic Interdiocesan Tribunal
-
 Site of a tribunal of the Catholic Church in Scotland which decides marriage annulments in Scotland's Catholic community.

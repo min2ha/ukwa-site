@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Association of Headteachers and Deputes in Scotland
-

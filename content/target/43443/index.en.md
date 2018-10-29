@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Concrete: Student Newspaper of the University of East Anglia: UEA STUDENTS SET TO BACK REMAIN IN EU REFERENDUM
-
 An article focusing on the substantial Remain vote expected from the students of UEA, whilst also focusing on a distinct student apathy apparant on campus as well as within the younger voting-age generation as a whole. 

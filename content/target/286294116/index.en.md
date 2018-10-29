@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Future Fantasteek!
-
 <p>Future Fantasteek! brings together a trichotomy of investigation; art-zines and independent publishing; artist as social commentator and drawing as a means of immediate visual communication. The series explores boundaries between journalism and authorial illustration using satire to reflect notions of ‘Britishness’.</p>

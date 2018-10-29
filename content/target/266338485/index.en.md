@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Beaufort Hill Ponds and Woodlands
-
 <p>Beaufort Hill Ponds &amp; Woodlands Preservation Society was formed in March 2005 in response to the threatened loss of the Beaufort Ponds, which, at the time, were owned by the Corus Steel Company, who closed the Ebbw Vale Tinplate Works in 2002. It is now a local nature reserve.</p>

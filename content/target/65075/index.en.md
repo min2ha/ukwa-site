@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kilbirnie Auld Kirk
-
 Site of a Church of Scotland parish church at Kilbirnie, Ayrshire.

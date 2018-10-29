@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Caron's Musings: A couple of questions for Alex Salmond #indyref
-
 None

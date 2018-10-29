@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# Royal British Legion  (@PoppyLegion) on Twitter 
-
 The Twitter feed of a the Royal British Legion, a service charity to provide support for the Armed Forces community.

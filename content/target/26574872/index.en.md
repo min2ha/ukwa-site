@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Highlands and Islands Enterprise (HIE)
-
 Highlands and Islands Enterprise (HIE) is an organisation that integrates economic and community development. They are the Scottish Government's economic and community development agency for the north and west of Scotland. HIE's purpose is to generate sustainable economic growth across the Highlands and Islands. 

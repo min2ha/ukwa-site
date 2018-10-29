@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: David Cameron: Conservatives offering 'a good life' for all
-
 None

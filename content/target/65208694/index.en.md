@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# National Library of Wales: Welsh Experience of World War 1, The | Y Rhyfel Byd Cyntaf a'r profiad Cymreig
-
 This is a blog for 'The Welsh Experience of World War One' project which will conduct mass digitization of primary sources relating to World War One from the Libraries, Special Collections and Archives of Wales. The project was managed by the National Library of Wales.

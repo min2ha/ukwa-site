@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mirror: Politics
-
 The politics subsection of the online version of the Mirror newspaper.

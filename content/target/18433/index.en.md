@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Nato 2% defence spending target should be met, MPs say
-
 None

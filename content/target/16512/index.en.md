@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Where are the Real Tories? We need a party to halt the advance of the state
-
 None

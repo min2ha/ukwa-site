@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Somerset Wildlife Trust
-
 Our vision is an environment rich in wildlife for everyone.Our mission is to build a landscape rich in wildlife where people live happier, healthier lives.

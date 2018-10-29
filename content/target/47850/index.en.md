@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Land Securities Group plc
-
 Land Securities Group plc is the largest Real Estate Investment Trust in the UK on the basis of equity market capitalisation.  They own and manage more than 26,000,000 sq ft of commercial property, from offices and high street shops to major shopping centres and out-of-town retail parks.

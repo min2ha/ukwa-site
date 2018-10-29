@@ -10,5 +10,3 @@
   "start_date": "2013-10-14T11:00:00Z"
 }
 
-# What's Welsh for Performance? Beth yw 'performance' yn Gymraeg?
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Laura Muir (lauramuiruns) on Twitter
-
 The official twitter profile of runner Laura Muir.

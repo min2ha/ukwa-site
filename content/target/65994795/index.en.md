@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Humberside Police Authority
-
 None

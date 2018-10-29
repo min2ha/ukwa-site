@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Action for Renewables
-
  To campaign for renewable energy, both at the local level and across the country.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# ALT Church of Scotland on Facebook
-
 Facebook page of a Church of Scotland parish church for Applecross, Lochcarron and Torridon [Wester Ross], Highland.

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jamie Hepburn MSP « Working for Cumbernauld & Kilsyth
-

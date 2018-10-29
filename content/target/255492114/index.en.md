@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# What Scotland Thinks
-
 What Scotland Thinks provides impartial, up-to-date information on public attitudes to Scottish independence. 

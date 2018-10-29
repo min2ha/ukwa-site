@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Harry Lambert: The biggest event of the election is about to happen - are you paying attention to Lord Ashcroft?
-

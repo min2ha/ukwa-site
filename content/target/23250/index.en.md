@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David Mclean (@DavidMcleanGP) on Twitter (Green Party candidate for Newport East)
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Watching the Tories debate Brexit is like witnessing the Greek philosophers at the peak of their intellectual powers
-

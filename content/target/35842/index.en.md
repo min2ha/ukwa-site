@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Bank of England is making 'contingency plans', says Governor Mark Carney
-

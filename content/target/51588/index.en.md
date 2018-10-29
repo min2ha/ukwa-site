@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Tony Lloyd - GMPCC (@GMPCC) on Twitter
-
 Official account for Tony Lloyd, Greater Manchester's Police and Crime Commissioner. Managed by the Comms Team.

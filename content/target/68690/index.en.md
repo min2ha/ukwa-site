@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wild Child Festival
-
 family festival with child-focused workshops and entertainment

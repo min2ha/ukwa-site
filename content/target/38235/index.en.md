@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gaz Mac (@InverTrot) on Twitter
-
 Twitter profile of Garry MacLachlan, the Solidarity list candidate for West Scotland region in the 2016 Scottish Parliamentary elections.

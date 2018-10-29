@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Francois Hollande warns of 'consequences' if Britain leaves the EU
-

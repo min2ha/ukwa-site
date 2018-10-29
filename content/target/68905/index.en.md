@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas' Roman Catholic Church, Keith on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of St. Thomas, Keith, Aberdeenshire.

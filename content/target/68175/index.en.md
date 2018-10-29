@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hallamshire RUFC (@HallamshireRUFC) on Twitter
-
 The official Twitter account of Hallamshire Rugby Union Football Club.

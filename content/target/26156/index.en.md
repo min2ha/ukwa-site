@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Youth Sports Trust: Youth Sport Trust launches Unlocking Potential manifesto
-
 The Youth Sport Trust is an independent charity devoted to changing young people's lives through sport. Established in 1994, they help young people to achieve their full potential in life by delivering physical education and sport opportunities. 

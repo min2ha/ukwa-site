@@ -10,5 +10,3 @@
   "start_date": "2010-03-01T00:00:00Z"
 }
 
-# Llantrisant freemen website
-

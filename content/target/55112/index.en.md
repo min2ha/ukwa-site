@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: Women slam the 'thigh gap' trend by sharing positive snaps of their #mermaidthighs
-
 Daily Mail: News article on social media and body positivity

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bathgate EU United Reformed Church
-
 Site of a Scottish United Reformed church located in Bathgate, West Lothian.

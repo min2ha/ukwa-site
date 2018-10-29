@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Helmsdale.org
-
 Site providing news, community information and tourist information for residents and vistors to the village of Helmsdale, Sutherland, Highland, Scotland.

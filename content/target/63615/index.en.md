@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Abortion Rights
-
 Abortion Rights is a national pro-choice campaign. They are campaigning to defend and extend women’s rights and access to safe, legal abortion in the UK. 

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Northern Ireland Human Rights Festival
-
 Website for the Northern Ireland Human Rights Festival.

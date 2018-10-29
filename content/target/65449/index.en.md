@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Elle: 'She Is Not Normal' - The Unlevel Playing Field Of Women's Football
-
 An article about a documentary about women's football that was released in 2018.

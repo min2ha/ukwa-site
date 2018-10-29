@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Le Mime
-
 A webcomic about a mime artist and his friends, created by Zarina Liew.

@@ -10,5 +10,3 @@
   "start_date": "2015-04-22T08:00:00Z"
 }
 
-# Friends of the Earth Cardiff
-

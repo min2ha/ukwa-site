@@ -10,6 +10,4 @@
   "start_date": "2005-06-03T00:00:00Z"
 }
 
-# Drugscope
-
 DrugScope is the UKs leading independent centre of information and expertise on drugs. Our aim is to inform policy development and reduce drug-related harms  to individuals, families and communities.

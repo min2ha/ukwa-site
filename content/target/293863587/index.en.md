@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Her Majesty's Inspectorate of Constabulary in Scotland (HMICS)
-
 Her Majesty's Inspectorate of Constabulary in Scotland provides independent scrutiny of Police Scotland and the Scottish Police Authority.

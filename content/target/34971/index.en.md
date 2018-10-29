@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Supersaurus
-
 Supersaurus is a artist group based in a collective studio space in Swansea. 

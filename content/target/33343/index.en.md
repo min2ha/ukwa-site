@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# BBCScotPoet Hashtag on Twitter
-
 Hashtag following Rachel McCrum's activities as BBC Scotland's Poet In Residence.

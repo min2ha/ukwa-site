@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Lord Rose makes his most remarkable blunder yet
-

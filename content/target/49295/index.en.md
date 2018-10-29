@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Puppet Theatre Barge
-
 The company aims to raise profile of the marionette. It commissions new scripts and musical scores, whenever possible, from contemporary writers and composers. The company has an educational policy and runs a programme of work in schools, reaching large numbers of children every year.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons. Northern Ireland Affairs Committee. Northern Ireland and the EU referendum key issues
-
 The Northern Ireland Affairs Committee produced this report into Northern Ireland and the referendum on the United Kingdom’s membership of the European Union. The report identifies the potential impact of a Brexit in key areas such as the economy, agriculture and the border with the Republic. 

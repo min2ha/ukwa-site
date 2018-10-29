@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Ceol's Craic
-
 The website of Ceol's Craic, a social hub for contemporary Gaelic culture in Glasgow.

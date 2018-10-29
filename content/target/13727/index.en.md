@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Derek Mackay MSP
-
 The website of Derek Mackay, Scottish National Party Member of the Scottish Parliament for Renfrewshire North and West.

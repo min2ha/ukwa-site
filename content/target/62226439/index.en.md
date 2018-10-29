@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Buddies4Travel
-
 None

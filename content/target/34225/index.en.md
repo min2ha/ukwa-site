@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Electoral Management Board
-
 The Electoral Management Board for Scotland. 

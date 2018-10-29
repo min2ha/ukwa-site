@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Elgin City Football Club
-
 Site of a senior Scottish association football club based in Elgin, Morayshire Scotland.

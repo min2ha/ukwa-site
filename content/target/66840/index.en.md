@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Mòd Dhùn Omhain
-
 Site of the Royal National Mòd / Mòd Nàiseanta Rìoghail held at Dunoon in October 2018.

@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T08:00:00Z"
 }
 
-# Film Archives UK
-
 Film Archives UK brings together archives, archivists, associate organisations and individuals who are interested in and committed to the work and development of the UK’s public sector film archives.

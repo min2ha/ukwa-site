@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: EU (Withdrawal) Bill: Financial provision and fees and charges
-
 This Commons Library briefing paper has been prepared for day 5 of the Committee Stage of the European Union (Withdrawal) Bill (the EUW Bill) in the House of Commons. It discusses clause 12 and Schedule 4 of the Bill. The Library briefing 'The European Union (Withdrawal) Bill: Devolution', covers clause 10 and Schedule 2, which are also due to be debated on day five.

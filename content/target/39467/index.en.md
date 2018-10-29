@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Rob Lightbody's Website
-
 The website of Rob Lightbody which includes the history of transatlantic passenger liners and the River Clyde paddlesteamer 'Waverley'

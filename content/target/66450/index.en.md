@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# United Wholesale (Scotland) Limited
-
 United Wholesale (Scotland) Limited is a grocery wholesaler based in Glasgow, Scotland. 

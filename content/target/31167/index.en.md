@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Democracy Street
-
  Democracy Street is an interactive digital arts project  it's aims to raise awareness of the power of people's votes by engaging the public in the generation of a digital interactive map of the UK.

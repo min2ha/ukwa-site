@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# CoastHebrides
-
 Site of a group of organisations and individuals concerned with maintenance of coastal environments in the Outer Hebrides, Western Isles of Scotland.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Orpington CF (@OrpingtonCF) on Twitter
-

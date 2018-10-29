@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Delivering for Scotland
-
 The UK Government site for Scotland.

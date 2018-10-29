@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Policy Scotland
-
 Policy Scotland aims to encourage links between policy makers and researchers at the University of Glasgow; the site publishes articles addressing local, national and international public policy debates.

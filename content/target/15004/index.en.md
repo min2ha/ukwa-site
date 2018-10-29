@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ditchlign Rise Area Residents' Association
-

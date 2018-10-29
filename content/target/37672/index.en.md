@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Politics at Surrey: Achieving lift-off in the referendum
-
 The EU Referendum campaign has yet to catch the public’s interest fully. Indeed, it might not be pushing things too far to say that most people don’t really care.

@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T08:00:00Z"
 }
 
-# Helen Sear
-
 Helen Sear is a Welsh artist.

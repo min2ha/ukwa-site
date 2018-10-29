@@ -10,5 +10,3 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Light House Church
-

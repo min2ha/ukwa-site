@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# ScotGovEurope (@ScotGovEurope) on Twitter
-
 Official channel of the Scottish Government's European Relations team.

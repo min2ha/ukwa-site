@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Our Wee Country on Facebook
-
 Running in parallel with the Our Wee Country website this Facebook Fan Page aims to give supporters all the latest news and info on all the Northern Ireland football teams and their players.

@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Tristan Times  
-
 Tristan Times is a local newspaper and is a member of the South Atlantic
 Remote Territories Media Association.

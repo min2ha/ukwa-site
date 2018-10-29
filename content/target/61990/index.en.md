@@ -11,7 +11,5 @@
   "subject": "Sports Collection"
 }
 
-# Elland Road Stadium
-
 
 Elland Road is a football stadium in Leeds, West Yorkshire, England, which has been the home of Leeds United F.C. since the club's foundation in 1919. The stadium is the 13th largest football stadium in England, and the fourth largest outside the Premier League.

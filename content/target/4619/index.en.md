@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# YouGov: Nelson Mandela: up there with Churchill
-
 <p>Article referring to a YouGov survey earlier in the year, which indicated that Nelson Mandela and Winston Churchill were the most respected political figures of the 20th century in British opinion.</p>

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black Cultural Archives
-
 Black Cultural Archives is a national heritage centre dedicated to collecting, preserving and celebrating the histories of African and Caribbean people in Britain. 

@@ -10,6 +10,4 @@
   "start_date": "2017-04-26T09:00:00Z"
 }
 
-# Golden Hinde II
-
 The Golden Hinde, is a full-sized reconstruction of the ship Sir Francis Drake used to circumnavigate the globe between 1577-80. This is based permanently in London.

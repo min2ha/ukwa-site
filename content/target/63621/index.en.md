@@ -10,5 +10,3 @@
   "start_date": "2018-04-05T09:00:00Z"
 }
 
-# Emma Forman Band Camp
-

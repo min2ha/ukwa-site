@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Rob Gibson MSP (RobGibsonMSP) on Twitter
-
 <p>The twitter profile of Rob Gibson, the Scottish National Party Member of the Scottish Parliament for Caithness, Sutherland and Ross.</p>

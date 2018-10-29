@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Royal Scottish Pipe Band Association (RSPBA), The
-
 The Royal Scottish Pipe Band Association is the heart and home of Pipe Bands world wide. The RSPBA is the recognised Centre of Excellence for the promotion and development of Pipe Band Music internationally.

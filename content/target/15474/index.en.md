@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# DeenPort
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Lucy Anderson (@LucyAndersonMEP) on Twitter (Labour MEP for London)
-
 Lucy Anderson stood as Labour candidate for London at the 2014 European Parliament election and was elected to serve as MEP.

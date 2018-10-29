@@ -10,6 +10,4 @@
   "start_date": "2015-06-24T10:00:00Z"
 }
 
-# UK Network of Sex Work Projects
-
 The UK Network of Sex Work Projects is a non-profit, voluntary association of agencies and individuals working with sex workers. They support sex work projects, networks and academics to work together, share practice and learning across the UK and advocate to policy makers.

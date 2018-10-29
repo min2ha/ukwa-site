@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Kinnock: Mansion tax levy 'only cost of a lunch'
-
 None

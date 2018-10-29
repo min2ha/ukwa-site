@@ -10,6 +10,4 @@
   "start_date": "2017-09-05T09:00:00Z"
 }
 
-# Politics by Rebuttal
-
 Politics by Rebuttal is a blog covering the Welsh language and Welsh nationalism and politics.

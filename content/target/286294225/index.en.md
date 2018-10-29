@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Dualchas Nàdair na h-Alba / Scottish Natural Heritage
-
 Scottish Natural Heritage website.

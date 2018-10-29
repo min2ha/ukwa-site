@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Trespass
-
 Trespass is a trading name of Jacobs & Turner Limited. The company manufactures and sells clothing and footwear, predominantly for outdoor pursuits. Jacobs & Turner Limited was established in 1938, and the subsidiary brand Trespass was created in 1984. The company is based in Glasgow, Scotland. 

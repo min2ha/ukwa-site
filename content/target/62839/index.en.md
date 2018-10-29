@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Scottish Queer International Film Festival
-
 Site of a film fesitval based in Glasgow and focusing on 'queer' (i.e. LBGTQI+) film.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# With Banners Held High
-
 A trade union event based in Wakefield, Yorkshire. 

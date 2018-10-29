@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Health Research Authority - A qualitative exploration into addiction to internet pornography
-
 An exploration of characteristics of adult males seeking help for internet pornography addiction - Research Study

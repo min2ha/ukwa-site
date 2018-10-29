@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calum Jarvis (CalumJarvis) on Twitter
-
 <p>The twitter profile of swimmer Calum Jarvis, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

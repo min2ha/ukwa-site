@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig An Iar Thuath on Facebook
-

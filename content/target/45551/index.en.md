@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Malachy Doyle
-
 Malachy Doyle is a writer for young people.

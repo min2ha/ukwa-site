@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kay Morrison (@KayMorrison1) on Twitter
-
 Twitter profile of Kay Morrison, the Scottish Labour candidate for Mid Fife and Glonrothes in the 2016 Scottish Parliamentary election.

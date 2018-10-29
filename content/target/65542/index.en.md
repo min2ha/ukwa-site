@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Penicuik House Preservation Trust
-
 Site of a trust created to preserve and facilitate public access to the ruined Penicuik House, Midlothian.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Fears grow for children addicted to online games
-
 News article about the increasing number of medical and addiction experts, charities and parents who are becoming concerned with the number of children becoming addicted to online gaming

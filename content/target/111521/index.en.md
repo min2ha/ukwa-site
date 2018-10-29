@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bibliographical Society, The
-
 The Bibliographical Society was founded in 1892 to promote and encourage study and research in historical, analytical, descriptive and textual bibliography.

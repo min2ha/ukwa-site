@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Kildonan Museum / South Uist Historical Society
-
 Site of a museum and local history society located at Kildonan, South Uist, Western Isles / Chill Donnain, Uibhist a Deas, Eilean Siar. 

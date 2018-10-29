@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 23rd January 2018: Nuclear Safeguards Bill
-
 Debates possible continued membership of EURATOM after Brexit

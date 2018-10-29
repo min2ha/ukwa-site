@@ -10,6 +10,4 @@
   "start_date": "2015-06-05T08:00:00Z"
 }
 
-# Mothers' Union Province of Canterbury
-
 Mothers' Union Province of Canterbury is part of the worldwide Mothers' Union, which has 4 million members in 83 countries. The Province of Canterbury consists of 29 dioceses (administrative areas) in England and the Diocese in Europe.

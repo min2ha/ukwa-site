@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Neath Rugby Supporters Club
-

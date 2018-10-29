@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Aspinall Foundation
-
 The Aspinall Foundation is an internationally renowned animal conservation charity who are world leaders in the breeding and protection of endangered animals.

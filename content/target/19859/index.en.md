@@ -10,6 +10,4 @@
   "start_date": "2015-03-27T09:00:00Z"
 }
 
-# Paul Murphy MP Speaking up for Torfaen in Westminster
-
 Paul Murphy MP for Torfaen.

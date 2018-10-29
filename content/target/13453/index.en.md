@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cathy Jamieson MP (cathyjamieson) on Twitter
-
 The twitter profile of Cathy Jamieson, Scottish Labour Party candidate for Kilmarnock and Loudoun in the General Election on 7th May 2015

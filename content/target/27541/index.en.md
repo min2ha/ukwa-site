@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Election results: Could David Cameron be the PM who lost the Union and leaves the EU?
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Nighet Nasim Riaz (@nnriaz) on Twitter
-
 Twitter profile of Nighet Nasim Riaz, the Scottish National Party list candidate for the West Scotland region in the 2016 Scottish Parliamentary election.

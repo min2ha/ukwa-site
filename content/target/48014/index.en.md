@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Green Alliance: Insidetrack
-
 A blog on environmental policy and politics, hosted by Green Alliance

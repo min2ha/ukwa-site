@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Perth Petanque Club on Facebook
-
 Facebook page of a petanque club based in Perth.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Remembering the First World War in the South Downs
-
 This project focuses on the impact and involvement of our region of the First World War.

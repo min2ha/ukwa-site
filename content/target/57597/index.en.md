@@ -10,6 +10,4 @@
   "start_date": "2017-09-30T09:00:00Z"
 }
 
-# Birlinn Ltd
-
 Birlinn Limited is an independent publishing house based in Edinburgh, Scotland.

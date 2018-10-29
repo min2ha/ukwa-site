@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Patrick's Church, Cowgate, Edinburgh
-
 Site of a Roman Catholic parish church in Scotland, located in Edinburgh.

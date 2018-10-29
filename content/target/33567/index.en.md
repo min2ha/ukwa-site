@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Pits, ponies, people and stories Facebook page
-
 Facebook page concerning the mining heritage of Soutk Lanarkshire

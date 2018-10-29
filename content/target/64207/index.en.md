@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kilmuir & Logie Easter Church of Scotland on Facebook
-
 Site of a Church of Scotland parish church at Easter Ross, Highland.

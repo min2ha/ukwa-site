@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# Communities First Bridgend 
-
 Bridgend Communities First is funded by Welsh Government and managed by Bridgend County Borough Council. Communities First engage with residents, community organisations, business and other key agencies, and focus on long term sustainability and the future wellbeing of communities. 

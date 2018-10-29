@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Mark Pack: Archive for European elections 2014
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bloody Scotland
-
 "Bloody Scotland" is the website of the Caledonian Crime Writing Festival.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Supporter Services (@ManCityHelp) on Twitter
-
 The official Twitter account for MCFC Supporter Services. 

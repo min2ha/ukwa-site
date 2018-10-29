@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# Wath upon Dearne on Facebook 
-
 Wath-upon-Dearne is a small town on the south side of the Dearne Valley in the Metropolitan Borough of Rotherham, South Yorkshire, England, lying 5 miles (8 km) north of Rotherham, almost midway between Barnsley and Doncaster. 
 
 This is a forum for people to share old and new photos as well as community news and events.

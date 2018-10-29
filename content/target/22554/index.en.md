@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Politician survives kitchen encounter with camera
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow Real Ale Festival
-
 Site of an annual festival or beer and real ale, based in Glasgow.

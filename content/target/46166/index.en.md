@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Guildry Incorporation of Dundee
-
 Site of an organisation originally established as a mercantile association, which has developed into a charitable organisation, who uphold Dundee’s guildry traditions ; promote the interests of Dundee and its citizens ; organise educational competitions and dispense charitable bursaries and prizes ; promote the city nationally ; support the Lord Provost and elected council members.

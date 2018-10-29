@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's, Wolvercote
-
 St Peter's Wolvercote, together with All Saints' Wytham, comprise the Benefice of Wolvercote and Wytham. St Peter's is one of four Churches in the Summertown-Wolvercote Church Partnership. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Caroline Santos on Facebook
-
 The Facebook page of Caroline Santos, the UK Independence Party (UKIP) candidate for Argyll and Bute in the UK General Election on the 7th May 2015.

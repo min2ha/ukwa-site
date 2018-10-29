@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Yetholm Online
-
 Site providing local news, leisure and general information for visitors to and residents of Yetholme, Scottish Borders.

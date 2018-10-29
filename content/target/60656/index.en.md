@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mail Online: Just ONE HOUR of social media a day is enough to ruin your sleeping pattern, study warns
-
 Article about a recent study that reported young people can derail their sleeping patterns by spending only an hour on social media

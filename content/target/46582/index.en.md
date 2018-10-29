@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Fanfair Alliance the
-
 The FanFair Alliance was established to unite members of music and creative community who wish to take a stand against industrial-scale online ticket touting.

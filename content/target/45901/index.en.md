@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Poetry in Presteigne
-
 Poetry in Presteigne is a gathering of poets in the Sitting Room of the Radnorshire Arms, Presteigne.

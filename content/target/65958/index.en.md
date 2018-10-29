@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Through the Ears of a Child
-
 ALLFM will collaborate with St Mary’s Primary School children, Moss Side in re creating the voice of their peers during World War I,  this  will be played out on ALLFM 96.9.

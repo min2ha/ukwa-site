@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# i100: Here's how the election results would look under a proportional voting system
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Spartans Rugby Club (@SpartansRFC) on Twitter
-
 The official Twitter account of Spartans RL / Spartans Rugby Club.

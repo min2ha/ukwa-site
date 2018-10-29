@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Theresa May risks 'broken compromise' on customs union because she has got her numbers wrong, minister says
-
 Theresa May’s proposal for a customs partnership was a “broken compromise” that risked “pleasing no one”, a Cabinet source warned as they claimed that Downing Street might have got its numbers wrong on support for remaining in the customs union.
 

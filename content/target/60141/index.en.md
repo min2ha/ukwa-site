@@ -10,6 +10,4 @@
   "start_date": "2018-01-09T09:00:00Z"
 }
 
-# Qisetna: Talking Syria 
-
 Qisetna: Talking Syria is a non-political social and cultural project aiming to engage Syrians and people with a connection to the country to share their stories. This project aims to give an insight into the life of ordinary Syrians through their relationship with arts, culture, sport and places. 

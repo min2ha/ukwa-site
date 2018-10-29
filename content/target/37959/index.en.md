@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Don’t despair, a silent majority can still keep Britain in Europe 
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Catholic Universe
-
 The Catholic Universe is a Catholic newspaper for Great Britain and Ireland, and has been since 1860

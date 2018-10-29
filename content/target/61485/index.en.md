@@ -10,8 +10,6 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Plas Cadnant
-
 Plas Cadnant is a restoration project within the Grade II Listed
 outbuildings of Plas Cadnant on the Isle of Anglesey. The European
 funded project created a number of self catering cottages

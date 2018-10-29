@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# South Norfolk District Council
-
 Website of South Norfolk District Council provides information on its activities and services, news and events, consultations, and budgets and spending. It also gives access to committee minutes, agendas and reports.

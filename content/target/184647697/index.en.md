@@ -10,5 +10,3 @@
   "start_date": "2013-08-20T00:00:00Z"
 }
 
-# South Wales Miners' Welfare Trust Fund Scheme
-

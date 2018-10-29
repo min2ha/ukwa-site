@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Michael Gove shares fishing industry 'disappointment'
-
 The UK would regain full control over the country's fishing waters for the first time in 40 years after December 2020, Michael Gove insisted. The environment secretary said he shared the "disappointment" of fishing communities who hoped this would happen on Brexit day, 29 March 2019..

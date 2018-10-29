@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# London For Free
-
 This site was launched in 1995. Their aim is to help people enjoy their time in London by providing you with a few ideas of things to do and see without spending loads of money. It is not intended to be a comprehensive listing of everything that is free in London.

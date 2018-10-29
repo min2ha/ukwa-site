@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Tonna Male Voice Choir | Côr Meibion Tonnau
-
 Tonna Male Voice Choir was formed in 1968. 

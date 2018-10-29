@@ -10,6 +10,4 @@
   "start_date": "2017-06-03T09:00:00Z"
 }
 
-# Cymru Ifanc | Young Wales
-
 Young Wales is a Welsh Government funded project and is the 'central place for the new youth voice project in Wales.' Young Wales is about listening to young people, empowering their voice and ensuring their voice is heard.

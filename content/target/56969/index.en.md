@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Motorbike Forum UK
-
 An online enthusiast forum concerned with motorbikes.The forum discusses clothing, luggage, accessories & security for motorbikes, Old Motorbikes & restoration projects, racing & track days, guides, manuals, & riding advice, motorbike reviews and various other related topics.

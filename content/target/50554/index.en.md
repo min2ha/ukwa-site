@@ -10,6 +10,4 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# Giftware Association
-
 The Giftware Association (the GA) is a national trade representative body and is the only UK trade association serving the gift and home industry. 

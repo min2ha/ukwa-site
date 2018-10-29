@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Speak
-
 SPEAK is a national network of students and young adults who campaign and pray on issues of global justice. They are a campaign and activist company, charity and participatory network that aims to bring change. SPEAK began with Christian roots but in recent years has been working through side partnerships and networks.

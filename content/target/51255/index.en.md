@@ -10,6 +10,4 @@
   "start_date": "2017-03-27T09:00:00Z"
 }
 
-# House of Lords Hansard: 23rd March 2017: EU Membership: UK Science
-
 The Lords debate the Science and Technology Select Committee report on how UK science and technology can flourish after Brexit.

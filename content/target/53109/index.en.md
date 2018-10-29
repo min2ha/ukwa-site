@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# 38 Degrees: No election until Tory election expenses reports published
-
 An online petition to have more transparency about the Tory 2015 General Election expenses before there is a 2017 General Election.

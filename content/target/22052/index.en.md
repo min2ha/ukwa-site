@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lee Sherriff on Facebook (Labour candidate for Carlisle)
-

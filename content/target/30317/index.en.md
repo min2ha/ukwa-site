@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Dementia a'r Dychymyg | Dementia and Imagination
-
 The project explores how art can help people with dementia.

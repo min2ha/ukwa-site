@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Welcoming Association
-
 Site of an Edinburgh based organisation supporting migrants through classes giving opportunities to learn English, access advice and information, discover Scottish culture, make friends, and share ideas, skills and interests.

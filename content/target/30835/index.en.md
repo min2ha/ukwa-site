@@ -10,6 +10,4 @@
   "start_date": "2015-09-24T10:00:00Z"
 }
 
-# South Wales Aviation Group
-
 The South Wales Aviation Group History Site provide historical aircraft logs and articles for the South Wales Area 1930-2006.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The Agriculture Bill
-
 The Agriculture Bill provides for a range of enabling powers to ensure “stability” for farmers as the UK exits from the EU’s Common Agricultural Policy and compliance with the World Trade Organisation Agreement on Agriculture. It also introduces new measures to change the way in which farmers and land managers are supported in the longer term.
 

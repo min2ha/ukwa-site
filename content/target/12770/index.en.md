@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow 2014 bosses identify source of suspected norovirus bug at Athletes Village - Daily Record
-
 <p>Article from the Daily Record for July 18 2014 concerning the norovirus outbreak at the XX Commonwealth Games.</p>

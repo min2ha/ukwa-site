@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T11:00:00Z"
 }
 
-# Geoff Eales
-
 Geoff Eales is a Welsh jazz pianist and composer. 

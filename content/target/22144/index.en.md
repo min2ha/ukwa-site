@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stephen Twigg (Labour candidate for Liverpool West Derby)
-

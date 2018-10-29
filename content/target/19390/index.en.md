@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Salisbury Cathedral awarded £415k for Magna Carta project
-

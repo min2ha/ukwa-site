@@ -10,5 +10,3 @@
   "start_date": "2012-09-03T00:00:00Z"
 }
 
-# felinganol.co.uk - working watermill
-

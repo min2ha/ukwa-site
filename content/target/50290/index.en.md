@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Victoria & Albert Museum: Museum Pride
-
 The section of the Victoria & Albert Museum blog that discusses staff members taking part in London Pride under the tag Museum Pride.

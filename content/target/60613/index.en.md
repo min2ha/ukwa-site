@@ -10,7 +10,5 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# Children's Health Scotland
-
 Site of a Scottish charitable organisation promoting the healthcare rights and needs of children and young people in Scotland. Formerly known as Action for Sick Children Scotland.
 

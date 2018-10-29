@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Council for Chinese Martial Arts
-
 The British Council for Chinese Martial Arts (BCCMA) was set up in 1973 and was granted Sports Council Recognised Governing Body status in 1980. They have over 100 organisations, associations and clubs in membership, representing over 10,000 members across all of the major disiplines of Chinese Martial Arts.

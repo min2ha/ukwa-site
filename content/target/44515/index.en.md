@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Express: Britain BOOMS after EU vote: Ignore the doom-mongers...it's good news all round 
-
 News article discussing positive post-referendum effects on British economy and unemployment. 

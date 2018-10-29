@@ -10,6 +10,4 @@
   "start_date": "2015-07-27T10:00:00Z"
 }
 
-# Helston Museum
-
 Helston Museum in Cornwall is housed in the former Market House and Drill Hall. The building itself offers a valuable insight into the history and architecture of the town. The museum was founded in 1949.

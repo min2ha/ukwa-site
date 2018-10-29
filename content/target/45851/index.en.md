@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# 38th Annual Conference on Book Trade History
-
 The Destruction of Books: Loss, recycling and remaking of books since the 15th century. Sunday 27 & Monday 28 November 2016 at Stationers’ Hall Ave Maria Lane, London EC4M 7DD. 

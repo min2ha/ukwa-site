@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# XX Wales Women's Writing Festival
-
 The xx women’s writing festival showcases writing by and for women from Wales and the world. The event was held at Chapter Arts Centre in Cardiff.

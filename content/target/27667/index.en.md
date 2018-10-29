@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Now we're the party of the workers: Cameron acts to rid Tories of image as party of the wealthy  
-
 None

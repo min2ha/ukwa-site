@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Photographic Record of the Covenanting Trail
-
 Site of a personal effort to record and photograph the Covenanting Trail, relating to Covenanters in Scotland in the seventeenth century.

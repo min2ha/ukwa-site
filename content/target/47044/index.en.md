@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Law Society, The: Brexit and the legal implications
-

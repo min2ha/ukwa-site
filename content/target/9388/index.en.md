@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mick Brennan Skier Twitter
-

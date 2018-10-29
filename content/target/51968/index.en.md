@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael & All Angels Church
-
 St Michael’s is Stephena Church of England parish church in Barnes, part of the Barnes Team Ministry in South-West London. 

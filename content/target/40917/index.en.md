@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wivey Link
-
 Located in Wiveliscombe House, the Community Office was set up by WAP to further the needs of the community and to be an important part of life in the town.  It is staffed by two part-time employees, supported by numerous volunteers to manage the office and deal with running and managing Wivey Link.

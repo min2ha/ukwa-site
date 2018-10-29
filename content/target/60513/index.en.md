@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Millwall Lionesses (@millwalllioness) on Twitter
-
 The official Twitter page of Millwall Lionesses Football Club.

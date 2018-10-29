@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# UoPLibrary Penguin (@uoppenguin) on Twitter
-
 Pablo the penguin is the  library mascot for  University of Portsmouth Library.

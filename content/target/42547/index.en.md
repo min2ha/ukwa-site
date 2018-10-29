@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Me & EU
-
 Gives young voters the key, relevant information required to make an informed decision in the run up to the June 23rd 2016 referendum on whether Britain should remain in the EU

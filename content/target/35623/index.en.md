@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Glyn Wise (@GlynWise) on Twitter (Plaid Cymru candidate for Cardiff Central)
-
 Glyn Wise is the Plaid Cymru candidate for Central Cardiff at the 2016 National Assembly Elections.

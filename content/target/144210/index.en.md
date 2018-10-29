@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Galloway & Upper Nithsdale SNP : only 99 votes to go!
-
 None

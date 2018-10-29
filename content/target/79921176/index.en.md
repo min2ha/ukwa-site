@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Kettle's Yard
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2016-11-15T09:00:00Z"
 }
 
-# BBC News: Glasgow's historic Kelvin Hall opens after £35m revamp
-

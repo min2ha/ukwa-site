@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Corsock and Kirkpatrick-Durham Church
-
 Site of two parishes of the Church of Scotland at Corsock and Kirkpatrick-Durham, Dumfries and Galloway.

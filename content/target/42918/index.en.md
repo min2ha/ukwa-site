@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Loch Katrine Experience
-
 Site of a visitor attraction and cruising company based in and around Loch Katrine, in the Trossachs National Park, Stirlingshire.

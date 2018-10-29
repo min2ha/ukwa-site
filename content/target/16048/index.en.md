@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta 800th (@MagnaCarta800th) on Twitter
-

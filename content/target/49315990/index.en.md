@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Faculty of Medieval and Modern Languages, University of Oxford
-
 None

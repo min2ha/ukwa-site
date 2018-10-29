@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Catherine West (@CatherineWest1) on Twitter (Labour  Politician)
-
 Catherine West stood as Labour candidate for Hornsey and Wood Green at the 2015 General Election and was elected to serve as MP. She then stood for re-election in 2017 and was successful. 

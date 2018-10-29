@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: IFS: Households can expect lower incomes, whoever wins the election
-
 None

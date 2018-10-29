@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of God in Barrhead on Facebook
-
 Facebook page of a Church of God Christian church located in Barrhead, East Renfrewshire.

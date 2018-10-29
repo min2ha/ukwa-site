@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Abnormally Funny People
-
 Website for Abnormally Funny People, a collective of mainly disabled comics and actors.

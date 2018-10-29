@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Drinkhall
-
 <p>Website of Paul Drinkhall, table tennis player and member of Team England for the Glasgow 2014 Commonwealth Games.</p>

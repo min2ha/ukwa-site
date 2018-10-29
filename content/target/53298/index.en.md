@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Keith Angus (@LibDemKeith  ) on Twitter (Liberal Democrat  Politician)
-
 Keith Angus stood as Liberal Democrat candidate for Islington North at the 2017 General Electio but was not elected.

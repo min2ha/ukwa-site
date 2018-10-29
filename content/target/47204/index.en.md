@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Uniting Church Sketty
-
 Uniting Church Sketty was formally Sketty Methodist Church and Bethel United Reformed Church.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St David's Church, Morriston
-

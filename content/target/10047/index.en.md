@@ -11,7 +11,5 @@
   "subject": "Oral History in the UK"
 }
 
-# The Peace Process: Layers of Meaning
-
 Project website of The Peace Process: Layers of Meaning, funded by the EU's European Regional Development Fund PEACE III programme - EU Programme for Peace and Reconciliation in Northern Ireland and the Border Region of Ireland 2007-2013.</p>
 <p>The lead partner of the project is Queen Mary University of London.

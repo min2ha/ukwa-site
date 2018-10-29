@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gingerbread's campaign blog
-
 An election blog run by Gingerbread, a charity which provides advice and practical support for single parents.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T09:00:00Z"
 }
 
-# Afonydd Cymru | Caring for Welsh Rivers
-
 Afonydd Cymru is an umbrella organisation that represents nine Rivers Trusts across Wales.

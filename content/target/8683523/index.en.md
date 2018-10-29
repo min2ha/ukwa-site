@@ -10,5 +10,3 @@
   "start_date": "2008-06-20T00:00:00Z"
 }
 
-# City of Sanctuary
-

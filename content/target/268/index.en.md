@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS East and North Hertfordshire CCG
-
 None

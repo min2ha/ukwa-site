@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# National Association for Premenstrual Syndrome (NAPS)
-
 None

@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Jacob V Joyce
-
 Jacob V Joyce is an interdisciplinary artist that disrupts commercial and community spaces with queer and decolonial, creative interventions.

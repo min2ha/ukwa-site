@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Fostering Network, The
-
 The Fostering Network is an organisation focusing on the fostering agenda. They work with fostering services and foster carers, influencing and shaping policy and practice at every level.

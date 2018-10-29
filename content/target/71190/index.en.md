@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Criminal Bar Association (CBA)
-
 The Criminal Bar Association exists to represent the views and interests of the practising members of the Criminal Bar in England and Wales.

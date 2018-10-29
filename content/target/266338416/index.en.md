@@ -11,5 +11,3 @@
   "subject": "French in London"
 }
 
-# Association des Auvergnats de Grande Bretagne
-

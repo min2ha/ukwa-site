@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK voters: 'Cameron running scared of TV debates'
-
 None

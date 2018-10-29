@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Rothesay Trinity Church of Scotland
-
 The website of Rothesay Trinity Church of Scotland.

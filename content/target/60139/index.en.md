@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Facebook admits that social media may be bad for you
-
 News article about the recent statements from David Ginsberg, Facebook's director of research, and Moira Burke, research scientist, about the negative effect facebook can have on mental health

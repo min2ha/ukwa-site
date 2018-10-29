@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Disability Now
-
 Disability Now a UK website for, about and by disabled people. They aim to accurately reflect and present the lives, experiences, views, opinions and lifestyle choices of disabled people, which are often misrepresented in mainstream media.

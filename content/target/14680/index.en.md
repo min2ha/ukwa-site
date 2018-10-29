@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Royal College of Nursing: Ebola: what nursing staff need to know
-
 None

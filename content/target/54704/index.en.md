@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU nurse applicants drop by 96% since Brexit vote
-
 There has been a sharp drop in nurses registering to work in the UK since the EU referendum, figures suggest.

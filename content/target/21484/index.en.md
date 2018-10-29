@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Afzal Amin: Tory candidate suspended over 'plot with far-right extremists to win votes by stirring up race hate' 
-
 None

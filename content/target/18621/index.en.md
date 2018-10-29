@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michelle Willis (@EMichelleWillis) on Twitter
-
 Conservative Parliamentary Candidate for Ynys Mon. 

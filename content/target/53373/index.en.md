@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alliance for Inclusive Education (ALLFIE): ALLFIE's Manifesto for Inclusive Education
-
 Manifesto seeks to secure political commitment to inclusive education, as a right, for all disabled learners.

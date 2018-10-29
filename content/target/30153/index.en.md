@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Piping Centre, The (@ThePipingCentre) on Twitter
-
 Twitter profile of the National Piping Centre (NPC). "[A] national and international centre of excellence for the Great Highland Bagpipes and its music".

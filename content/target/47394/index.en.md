@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Intertek Group plc
-
 Intertek Group plc is a multinational inspection, product testing and certification company.

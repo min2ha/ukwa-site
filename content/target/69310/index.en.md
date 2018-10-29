@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Clears Community Action Group
-
 The action group are opposed to the the proposed development of a drive through McDonalds and Costa coffee and have concerns regarding the impact of the proposed development on both the health and wellbeing of the community. 

@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Culture NL
-
 Site of the North Lanarkshire area cultural hub.

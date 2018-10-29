@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Electoral Reform Society: News blog
-
 The Electoral Reform Society is an independent campaigning organisation working to champion the rights of voters and build a better democracy in Britain.

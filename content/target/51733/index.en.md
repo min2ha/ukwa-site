@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sale Sharks
-
 The official website of Sale Sharks

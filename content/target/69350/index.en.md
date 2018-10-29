@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Luke's Church Motherwell
-
 Site of a Scottish Roman Catholic parish church located in Motherwell, Lanarkshire.

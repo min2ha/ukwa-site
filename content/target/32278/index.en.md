@@ -10,5 +10,3 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Isle of Anglesey Walking and Outdoor Festival
-

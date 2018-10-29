@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Milton Keynes Dons Football Club
-
 Milton Keynes Dons Football Club is a professional football club in Milton Keynes, Buckinghamshire, England, founded in 2004, following Wimbledon F.C.'s controversial relocation to Milton Keynes from south London, when it adopted its present name, badge and home colours.

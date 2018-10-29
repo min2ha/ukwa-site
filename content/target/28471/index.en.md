@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# Preoperative Association, The
-
 The Preoperative Association is an organisation for health professionals working in the preoperative field and was launched in 1994. 

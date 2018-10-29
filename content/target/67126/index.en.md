@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Vox Liminis
-
 Vox Liminis is an arts organisation based in Glasgow, Scotland which works with people with convictions, artists and academics to develop the role of the arts in criminal justice

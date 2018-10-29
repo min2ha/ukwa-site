@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Royal Highland and Agricultural Society of Scotland
-
 Site of an organisation promoting and maintaining agricultural standards while representing its membership throughout Scotland.

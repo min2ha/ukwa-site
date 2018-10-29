@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Loch Lomond Rugby Club
-
 Site of a rugby union football club based in Bonhill, West Dunbartonshire.

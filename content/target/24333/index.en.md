@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Andy Burnham suggests SNP should vote on English NHS
-
 None

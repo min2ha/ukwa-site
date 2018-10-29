@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# One MK
-

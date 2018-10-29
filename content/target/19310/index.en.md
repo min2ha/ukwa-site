@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Parliament UK: Lords Hansard text for 26 Jun 2014 (pt 0002)
-

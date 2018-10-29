@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Harrison (@JamesWHarrison) on Twitter
-
 The Twitter profile of James Harrison, the Liberal Democrats candidate for Glasgow North West in the UK General Election on the 7th May 2015 and Glasgow Maryhill and Springburn in the 2016 Scottish Parliamentary election.

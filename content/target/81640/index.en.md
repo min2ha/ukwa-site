@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian: Theresa May faces frantic 48 hours to save Brexit plan as talks stall
-
 Theresa May faced a frantic 48 hours to try to save her Brexit negotiating strategy after she admitted talks had ground to a halt because of the EU’s insistence upon a Northern Ireland-only backstop.  The prime minister was expected to plead with EU leaders to drop their Irish backstop proposal at a make-or-break summit dinner on Wednesday October 17th 2018 after seeking the support of members of her cabinet on the Tuesday morning.

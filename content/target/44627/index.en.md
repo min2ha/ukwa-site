@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# JLL: EU Referendum: Making sense of Brexit - update
-
 JLL is a financial and professional services firm specialising in real estate services and investment management.

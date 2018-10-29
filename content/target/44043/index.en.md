@@ -10,6 +10,4 @@
   "start_date": "2016-07-02T10:00:00Z"
 }
 
-# Interactive Scotland
-
 Interactive Scotland is a Scottish Enterprise initiative providing support and funding to digital, creative and digital technology businesses.

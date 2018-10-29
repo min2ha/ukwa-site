@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: King John's teeth and thumb bone to feature in Magna Carta exhibition 
-

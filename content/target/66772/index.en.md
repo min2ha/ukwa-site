@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Wemyss Renewables
-
 The website of Wemyss Renewables, a renewable energy project developer based in Edinburgh, Scotland. The company is part of Wemyss Development Company Limited.

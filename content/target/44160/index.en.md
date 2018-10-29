@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UKIP Parliamentary Resource Unit 
-
 Site where UKIP publishes occasional papers on public policy and keeps you updated on its  work in Parliament.

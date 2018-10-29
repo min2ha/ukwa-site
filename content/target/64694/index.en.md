@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Oadby and Wigston Borough Council
-
 Oadby and Wigston Borough Council website provides information about its services and news. It also offers access to committee papers, planning policy documents, consultations, and council budgets and spending. 

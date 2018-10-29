@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# British Italian Law Association
-
 BILA is a lively association mainly of English solicitors and barristers (and some judges) and Italian Avvocati with an interest in the laws and culture of both Italy and England, but not all of the members are part of the legal profession.

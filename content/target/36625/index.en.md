@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Cowal Open Studios
-
 Site showcasing work of artists in the Cowal area of Argyllshire, Scotland

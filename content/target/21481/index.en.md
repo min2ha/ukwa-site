@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Budget 2015: Revealed - What George Osborne DIDN'T tell you about his budget 
-
 None

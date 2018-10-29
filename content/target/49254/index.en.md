@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# BLOGS : Edinburgh University LGBT+ Society on Facebook
-
 Facebook page for University of Edinburgh students LGBT+ society.

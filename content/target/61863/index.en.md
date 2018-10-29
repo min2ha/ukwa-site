@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU negotiator to meet Sinn Féin and DUP
-
 Reports that a meeting between Michel Barnier, the EU's chief Brexit negotiator, and DUP and Sinn Fein leaders was planned for March 5th 2018.

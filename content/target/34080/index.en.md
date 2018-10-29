@@ -10,6 +10,4 @@
   "start_date": "2016-01-16T09:00:00Z"
 }
 
-# Claire Cawte Textiles
-
 Claire Cawte is Welsh Textile artist/Feltmaker using native fleece, exploring natural colours & textures based in Penarth.

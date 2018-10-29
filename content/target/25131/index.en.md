@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: E4 to be switched off on election day to encourage young people to vote 
-
 None

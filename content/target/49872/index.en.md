@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Pride Glasgow
-
 Site of an annual festival celebrating LGBTI equality, taking place in Glasgow, Scotland, and formerly known as Scotia Pride.

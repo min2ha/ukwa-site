@@ -10,5 +10,3 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Valleys Bat Group
-

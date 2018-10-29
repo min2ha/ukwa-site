@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Caroline Santos (@Casumptious) on Twitter
-
 Twitter profile of Caroline Santos, UK Independence Party (UKIP) candidate for Rutherglen and Hamilton West in the 2017 general election.

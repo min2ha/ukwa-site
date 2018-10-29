@@ -11,5 +11,3 @@
   "subject": "IT Collection"
 }
 
-# Cyberaction for Social Change - Thomas L Blair
-

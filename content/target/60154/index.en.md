@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Gaming addiction classified as disorder by WHO
-
 News article about the World Health Organisation classifying gaming disorder as a mental health condition

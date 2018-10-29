@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Cashback for Communities
-

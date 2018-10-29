@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Alex Salmond in charge is not something to joke about
-
 None

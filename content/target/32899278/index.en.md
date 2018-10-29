@@ -11,5 +11,3 @@
   "subject": "Gender Equality"
 }
 
-# Watford Women's Centre
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General election2015: Ed Miliband to step up Labour's drive to woo young voters
-
 None

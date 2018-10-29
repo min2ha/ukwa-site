@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: David Miliband: I would join any campaign against any Brexit deal
-
 The former foreign secretary David Miliband said there should be a second vote on Brexit and that he would campaign to halt the UK's withdrawal from the EU
 

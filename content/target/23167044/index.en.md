@@ -10,5 +10,3 @@
   "start_date": "2008-10-15T23:00:00Z"
 }
 
-# Looking at Life......in your 20's and 30's
-

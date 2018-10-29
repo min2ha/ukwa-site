@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Byron Davies AM on Facebook
-
 Conservative Prospective MP for Gower

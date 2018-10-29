@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Fishing for Litter
-
 Site of an organisation harnessing the fishing industry to clear Scottish and other UK seas of litter.

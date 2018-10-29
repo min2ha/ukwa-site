@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Lola Rose Brewery, The
-
 Site of a brewer based at Wanlockhead, Dunfries & Galloway.

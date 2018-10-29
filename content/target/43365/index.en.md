@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# The Freedom Association: EU Referendum tag
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Out and Proud on Facebook
-
 A Facebook page for Out and Proud, a pro-Brexit LGBTQ+ campaigning group.

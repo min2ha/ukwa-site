@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The real meaning of the meaningful vote
-
 Giving Parliament a legal entitlement to a "meaningful vote" on the withdrawal deal negotiated by the Government would cramp Theresa May's room for manoeuvre in the negotiations and is constitutionally unprecedented.

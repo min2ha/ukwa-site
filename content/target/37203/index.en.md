@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Irish News: EU Referendum: Arlene Foster joins Theresa Villiers on Brexit
-
 Belfast based, english-language news and current affairs site focusing on Northern Ireland and the Republic of Ireland. 

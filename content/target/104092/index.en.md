@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# King's Fund, The
-
 The King's Fund is an independent charity working to improve health and health care in England. They help to shape policy and practice through research and analysis; develop individuals, teams and organisations; promote understanding of the health and social care system; and bring people together to learn, share knowledge and debate.

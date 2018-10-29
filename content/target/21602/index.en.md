@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Landmark Practice, The: Election 2015 – The Landmark ‘Manifesto’
-
 The Landmark Practice is an independent, multidisciplinary consultancy, offering specialist services in planning, environmental planning, landscape design and ecology. Nick Roberts first created the company in 1985 to undertake landscape design based on sound ecological principles, initially as a commercial trading arm of Avon Wildlife Trust.

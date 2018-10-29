@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# Christians for Independence
-
 Site of a group of Christians who support Scottish Independence from the United Kingdom, that is cross-party and cross-denominational.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hedge End Blogger
-
 <p>Hedge End Blogger - An Independent Voice for Hedge End is a blog run be Keith Day, an independent Councillor. It contains information relating to  Hedge End in Hampshire.</p>

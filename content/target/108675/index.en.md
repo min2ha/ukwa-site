@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Warlinnen - The Cornish Language Online
-
 None

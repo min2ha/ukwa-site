@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Birmingham Children's Hospital
-
 None

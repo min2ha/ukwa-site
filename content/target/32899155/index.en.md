@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Associated Country Women of the World (ACWW)
-
 None

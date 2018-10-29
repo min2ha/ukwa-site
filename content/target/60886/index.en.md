@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ross Sutherland Rugby
-
 Site of a Scottish rugby union football club based in Invergordon, Ross-shire, Highland.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Black Metal Brewery
-
 Site of a brewer located at Loanhead, Midlothian.

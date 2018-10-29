@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bride's East Kilbride
-
 Site of a Scottish Roman Catholic parish church located in East Kilbride, Lanarkshire.

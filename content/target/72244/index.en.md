@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Gwirfoddoli LLGC (@GwirfoddoliLLGC) on Twitter 
-
 This is the Welsh language twitter feed from the National Library of Wales Volunteering dept.

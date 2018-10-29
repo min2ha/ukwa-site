@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Silent London
-
 Silent London is a silent cinema blog based in London, UK.

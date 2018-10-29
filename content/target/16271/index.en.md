@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leeds Library, The
-
 <p>The Leeds Library is a wonderful mix of the old and the new located at the very heart of a busy shopping centre. It was founded in 1768 as a proprietary subscription library and is now the oldest surviving example of this sort of library in the British Isles.</p>

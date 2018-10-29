@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alliance against Pregnancy Discrimination in the Workplace: a Manifesto for the May 2015 General Election
-
 They offer free advice for parents worried about their rights at work and rights to benefits and healthcare.

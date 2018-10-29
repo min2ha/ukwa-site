@@ -10,6 +10,4 @@
   "start_date": "2015-05-06T09:00:00Z"
 }
 
-# Alison Lochhead Sculptor
-
 Alison Lochhead is a Welsh Sculptor.

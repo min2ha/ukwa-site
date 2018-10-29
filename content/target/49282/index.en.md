@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: No 10 plays down House of Lords abolition warning over Brexit
-
 Downing Street sought to play down a warning from a government source that the House of Lords could be abolished if peers tried to block the Brexit bill.

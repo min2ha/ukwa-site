@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Lawnswood's Great War Stories
-
 The project focuses on characters from Leeds who contributed during the First World War and are represented at Lawnswood Cemetry.

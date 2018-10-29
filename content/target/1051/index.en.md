@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# School of Public Health North East
-
 None

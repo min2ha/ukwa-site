@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wythenshawe Reporter
-
 Wythenshawe’s online news service, aiming to bring you stories and features about the town. 

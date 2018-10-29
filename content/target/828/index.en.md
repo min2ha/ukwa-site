@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Ambulance Service
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# BBC: Winter Olympics 2018: BBC Sport's live coverage times on TV, radio & online
-
 The broadcasting schedule for the 2018 Winter Olympics on the BBC. The Games are hosted by Pyeongchang, South Korea. 

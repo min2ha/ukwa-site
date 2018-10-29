@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parishes of Kilchrenan and Dalavich linked with Muckairn
-
 Site of a group of Church of Scotland parish churches in Argyll & Bute.

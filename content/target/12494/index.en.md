@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Mears (ChrisMears93) on Twitter
-
 <p>The twitter profile of diver Chris Mears, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

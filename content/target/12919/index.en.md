@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ARM Ltd
-
 The ARM product offering includes 32-bit and 64-bit RISC microprocessors, graphics processors, enabling software, cell libraries, embedded memories, high-speed connectivity products, peripherals and development tools. The headquarters of the company is located in Cambridge, UK.

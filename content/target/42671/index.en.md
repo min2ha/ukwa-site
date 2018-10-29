@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Camden and Islington Unite Community Union
-
 Camden & Islington Community Unite has been set up for local people who aren't in paid employment: if you are unemployed, volunteering, caring for others, retired, or over 16 and studying we'd like you to join us

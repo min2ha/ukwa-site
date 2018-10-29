@@ -10,6 +10,4 @@
   "start_date": "2015-09-26T10:00:00Z"
 }
 
-# SAM Learning
-
 SAM Learning is an online educational service, providing year-round learning to students throughout the UK.

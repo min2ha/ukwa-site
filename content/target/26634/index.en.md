@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Meet the SNP class of 2015: who are party's Westminster MPs?
-
 None

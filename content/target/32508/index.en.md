@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Land Value Taxation Campaign
-
 Land Value Taxation is a method of raising public revenue by means of an annual charge on the rental value of land. Properly applied, Land Value Tax would support a whole range of social and economic initiatives, including housing, transport and other infrastructural investments. It is an elementary fiscal measure that would go far towards correcting fundamental economic and social ills.

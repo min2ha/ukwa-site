@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Learning and Work Institute
-
 We are an independent policy and research organisation dedicated to lifelong learning, full employment and inclusion. We bring together over 90 years of combined history and heritage from the ‘National Institute of Adult Continuing Education’ (NIACE) and the ‘Centre for Economic & Social Inclusion’.

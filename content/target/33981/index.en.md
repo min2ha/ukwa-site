@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Cameron's recollection of EU summit is a Christmas miracle
-

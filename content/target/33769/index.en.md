@@ -10,6 +10,4 @@
   "start_date": "2016-01-09T09:00:00Z"
 }
 
-# Carno Station Action Group
-
 The Carno Station Action Group was establishedl to campaign for the re-opening of Carno railway station on the Cambrian Line between Shrewsbury and Aberystwyth. 

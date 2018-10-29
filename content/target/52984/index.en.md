@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Andrew Bowie (@abowie4WAK) on Twitter
-
 Twitter profile of Andrew Bowie, Scottish Conservative and Unionist Party candidate for West Aberdeenshire and Kincardine in the 2017 general election.

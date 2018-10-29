@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron lays out plans for 'blue-collar Conservatism' as cabinet meets
-
 None

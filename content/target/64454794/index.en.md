@@ -10,5 +10,3 @@
   "start_date": "2012-03-21T00:00:00Z"
 }
 
-# Service Oriented Toolkit for Research Data Management
-

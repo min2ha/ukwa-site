@@ -10,6 +10,4 @@
   "start_date": "2016-01-05T09:00:00Z"
 }
 
-# Residential Landlords Association Cymru
-
 The Residential Landlords Association (RLA) represents over 17,000 landlords with a combined portfolio of more than quarter of a million properties in England and Wales.

@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# South Cambridgeshire District Council
-
 Website of South Cambridgeshire District Council offering information about local news, events and services. You can also find out about the Council's plans, policies, performance and expenditure and read committee papers.

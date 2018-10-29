@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Skye Book Festival on Facebook
-
 Facebook profile of the Skye Book Festival, featuring literature, stories and creativity on the Isle of Skye, with talks, walks, workshops & storytelling. 

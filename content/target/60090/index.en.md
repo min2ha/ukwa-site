@@ -10,6 +10,4 @@
   "start_date": "2018-01-06T09:00:00Z"
 }
 
-# Lodge Ladywell No. 1474
-
 Site of a masonic lodge located in Tullibody, Clackmannanshire, and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Forth Valley Disability Sport
-
 <p>Forth Valley Disability Sport website contains athlete profiles, news and events arranged by the charity.</p>

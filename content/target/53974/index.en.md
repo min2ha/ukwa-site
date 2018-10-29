@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Abi Thomas (@Abithomas) on Twitter 
-
 Abi Thomas is the Plaid Cymru Candidate for Carmarthen West & South Pembrokeshire at the 2017 General Election.

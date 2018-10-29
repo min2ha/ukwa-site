@@ -10,5 +10,3 @@
   "start_date": "2010-11-10T00:00:00Z"
 }
 
-# BBC Wales - What's in a name
-

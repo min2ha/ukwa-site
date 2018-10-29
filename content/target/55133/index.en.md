@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# International Bureau of Aviation
-
 IBA is a leading independent aviation consultancy advising a broad mix of lessors, operators, financiers and investors

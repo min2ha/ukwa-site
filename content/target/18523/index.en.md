@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Mike Nesbitt hopes for unionist pact talks with Peter Robinson
-
 None

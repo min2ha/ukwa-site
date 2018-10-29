@@ -10,5 +10,3 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# CREW (The Centre for Research into the English Literature and Language of Wales, Swansea University) Blog
-

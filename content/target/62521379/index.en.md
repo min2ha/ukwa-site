@@ -11,6 +11,4 @@
   "subject": "Latin America UK"
 }
 
-# Association of Hispanists of Great Britain & Ireland
-
 None

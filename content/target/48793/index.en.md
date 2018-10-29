@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: What's the truth about Gina Miller? A loss-making company. False claims about a law degree. And critics who say she's a shameless self-publicist...  
-

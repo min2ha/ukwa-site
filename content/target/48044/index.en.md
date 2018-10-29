@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Aeon
-
 Aeon is a digital magazine of ideas and culture.It was founded in London by Paul and Brigid Hains. It now has offices in London, Melbourne and New York. Aeon is a not-for-profit and operated by Aeon Media Group Ltd. 

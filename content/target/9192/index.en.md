@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jenna McCorkell Figure Skater on Twitter 
-

@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# That Eliny Chappell | A cycle courier take son the world
-
 Emily Chappell couriered in London for six years, and is now a freelance writer. She has written the book, 'Unburdened: The Life and Opinions of a London Cycle Courier' focusing on her courier lifestyle. She has also undertaken major bike adventures such as cycling solo across Europe to Japan, riding across Alaska on a fatbike in winter and riding across Iceland. This is her blog updated between 2010 and 2016.

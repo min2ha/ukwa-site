@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Leicestershire and Rutland's candidates for the 2017 General Election
-
 Here are Leicestershire and Rutland's candidates for the 2017 General Election. 

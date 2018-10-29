@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Craft Shows, The - International Craft & Hobby Fair Ltd. (ICHF Events)
-
 Shows organised by ICHF Events in Tonbridge and Henley-on-Thames

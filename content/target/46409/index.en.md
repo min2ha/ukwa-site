@@ -10,6 +10,4 @@
   "start_date": "2016-10-22T10:00:00Z"
 }
 
-# Aberfan 1966-2016 | Hiraeth
-
 Blog posts on Aberfan by Welsh justice campaigner, left-wing activist, Paul Dicken.

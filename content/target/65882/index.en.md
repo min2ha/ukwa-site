@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# BEDLAM
-
 Website for BEDLAM, an Arts And Mental Health Festival

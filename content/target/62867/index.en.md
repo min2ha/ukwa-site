@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Social media sites are damaging children’s mental health, headteachers warn
-
 News article about school leaders calling for new social media laws to keep children safe amid fears their mental health is being ‘damaged’.

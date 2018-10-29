@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservatives take three-point lead over Labour in Guardian/ICM poll
-
 None

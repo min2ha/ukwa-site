@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Book Partnership (The)
-
 Organisation set up to support and provide services to independent booksellers.

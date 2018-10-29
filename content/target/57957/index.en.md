@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM's open letter to EU citizens in the UK
-
 The Prime Minister wrote directly to EU citizens in the UK before travelling to the October European Council meeting in Brussels. She offered reassurance that she wanted them to stay post-Brexit and to keep families together.

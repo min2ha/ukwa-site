@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Keep Llangennech Primary Dual Stream
-
 Keep Llangennech Primary Dual Stream is a community based group discussing possible plans and actions to save the English stream in Llangennech village school.

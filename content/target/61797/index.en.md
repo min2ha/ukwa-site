@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: No 10 insists no hard border in Ireland after Johnson comments
-
 Downing Street dismissed any prospect of a return to a "hard border" on the island of Ireland after Brexit. It followed the leak of a letter from Boris Johnson in which he appeared to contemplate future customs border checks after the UK leaves the EU.
 
 

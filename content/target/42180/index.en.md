@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# News Dot Ourlocality
-

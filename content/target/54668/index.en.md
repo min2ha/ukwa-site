@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Nick Gardner
-
 Specialising in bespoke solutions for residential and domestic properties. Putting the client's vision first to create practical and beautiful solutions, tailored to meet the client's needs.

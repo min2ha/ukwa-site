@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Pontnewydd Male Choir
-
 Pontnewydd Male Choir was founded in 1904 and was originally known as Upper Cwmbran Male Voice Party. They rehearse at Fairhill Methodist Church Hall, Cwmbran.

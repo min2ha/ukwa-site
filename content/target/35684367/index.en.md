@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Magic of Life Butterfly House, The
-

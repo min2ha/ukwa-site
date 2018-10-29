@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# TUSC Election 2015
-
 The London section of TUSC for the 2015 General Election

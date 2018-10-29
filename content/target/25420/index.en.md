@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green party manifesto calls for peaceful political revolution to end austerity
-
 None

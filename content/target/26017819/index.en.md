@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Credit Management Matters (CMM)
-

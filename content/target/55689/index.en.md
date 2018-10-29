@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# A Bridge to the Future: Dafydd Iwan's Presidential Campaign Blog
-
 This is a blog for Dafydd Iwan's 2008 Plaid Cymru Presidential Campaign.

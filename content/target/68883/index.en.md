@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# TheCityUK: The architecture for regulating finance after Brexit
-
 This report argues that Brexit will require the UK to update its regulatory structure for financial services, creating new checks and balances to ensure the system remains proportionate, coherent and fit for purpose.
 

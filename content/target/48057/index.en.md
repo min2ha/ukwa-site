@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Chocolate Films
-
 Chocolate Films is a South London based video production company. They specialise in making documentaries and video content for businesses, charities, public sector bodies and cultural organisations.

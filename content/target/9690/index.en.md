@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Anna Lo: Alliance Party of Northern Ireland
-
 None

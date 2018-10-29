@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angus North and Mearns Labour
-
 The Constituency Labour Party in Angus North and Mearns.

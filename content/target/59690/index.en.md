@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Sports Babble - Sports Forum
-
 An online enthusiasts community concerned with various sports. Discusses football, cricket, cycling, golf, horse racing, motorsport, rugby and various other related topics.

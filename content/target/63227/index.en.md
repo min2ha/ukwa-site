@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dundee Craigiebank Parish Church of Scotland linked with Dundee Douglas & Mid Craigie Church of Scotland
-
 Site of Church of Scotland parish churches in Dundee.

@@ -10,5 +10,3 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Gŵyl ffilm Bae Caerfyrddin | Carmarthen Bay Film Festival
-

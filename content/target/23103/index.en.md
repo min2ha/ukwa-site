@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Grahame Birchall (@iputthanetfirst) on Twitter (Party for a United Thanet candidate for South Thanet)
-

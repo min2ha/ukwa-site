@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Mynydd Llangatwg Caves
-
 The website provides up-to-date information about caving on Mynydd Llangatwg (Llangattock Mountain) and in the Clydach Gorge.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-#  Jean Napier Photography
-
 Jean Napier is a photographer of the north Wales landscape and the author of 4 books.

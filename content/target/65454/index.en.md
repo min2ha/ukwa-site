@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Catfest
-
 Cats and pop culture

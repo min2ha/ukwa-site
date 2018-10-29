@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# Poultry Club of Great Britain, The
-
 The Poultry Club, founded 1877, is a registered charity existing to safeguard the interests of all pure and traditional breeds of poultry including chickens, ducks, geese and turkeys.

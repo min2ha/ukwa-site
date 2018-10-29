@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Castle Douglas Parish Church
-
 Site of a Church of Scotland parish church at Castle Douglas, Dumfries and Galloway.

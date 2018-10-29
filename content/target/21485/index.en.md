@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Poor people hit hardest by Coalition, research reveals - and public spending cuts will DOUBLE 
-
 None

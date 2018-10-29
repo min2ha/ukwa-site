@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# United Lincolnshire Hospitals
-
 None

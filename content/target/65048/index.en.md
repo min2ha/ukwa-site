@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Porthcawl Community Orchestra
-
 Porthcawl Orchestra was founded in 2013 and rehearse at the Our Lady Star of the Sea (Church Hall) in Porthcawl.

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Chortle
-
 An article from Chortle.co.uk reflecting on the death of Stephen Hawking

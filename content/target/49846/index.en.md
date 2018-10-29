@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Women’s Resource and Development Agency (WRDA) 
-
 The Women’s Resource and Development Agency (WRDA) has been working with women and providing support to women’s groups and networks across Northern Ireland since 1983. 

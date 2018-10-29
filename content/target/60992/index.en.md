@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Naomh Pádraig GAA (@LeicesterGAA) on Twitter
-
 Gaelic Football Club in Leicester, UK. Teams every age from Under 8's to Senior. 

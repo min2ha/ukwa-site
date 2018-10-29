@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Carlisle United Football Club
-
 Carlisle United Football Club is a professional association football club based in Carlisle, Cumbria, where they play at Brunton Park. The club's traditional kit is blue with white and red detail. The badge takes elements from the city's coat of arms including two wyverns which are the regent of Cumbria.

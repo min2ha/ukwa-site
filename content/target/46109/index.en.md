@@ -10,5 +10,3 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Eluned Morgan (Labour Assembly Member for Mid & West Wales)
-

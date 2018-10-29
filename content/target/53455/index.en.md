@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# LGiU: Blog
-
 LGiU is a think tank and local authority membership organisation as well as a registered charity. This is their blog.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# David Belbin - Nottingham Novelist
-
 <p>Website and blog of a novelist David Belbin. He lives in Nottingham, England.</p>

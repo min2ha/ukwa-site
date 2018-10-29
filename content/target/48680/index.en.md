@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stoneyburn Junior Football Club on Facebook
-
 Facebook page for a Scottish junior football club based in Stoneyburn, West Lothian, Scotland, and nicknames 'The Fulshie'.

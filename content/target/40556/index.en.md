@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Exeter Remembrance Project, The 
-
 Project enabling pupils from Redhill Primary School to investigate the impact the Great War had on the Redhills area of Exeter.

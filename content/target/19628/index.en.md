@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Brighton Hove and District Labour Party
-
 Website of Brighton Hove and District Labour Party, providing information on MP and council, events and local and national news updates.

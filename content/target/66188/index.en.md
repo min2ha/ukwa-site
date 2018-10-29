@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Llwydcoed Band
-
 Llwydcoed Brass Band are a Brass Band formed in 1912 and based in the village of Llwydcoed, near Aberdare.

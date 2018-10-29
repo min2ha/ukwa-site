@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# Ethnic Minority Welsh Women Achievement Association, EMWWAA
-

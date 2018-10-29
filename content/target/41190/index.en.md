@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Sun editor defends 'Queen backs Brexit' headline as watchdog rules it inaccurate
-
 Guardian, The

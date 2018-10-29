@@ -10,5 +10,3 @@
   "start_date": "2018-02-23T09:00:00Z"
 }
 
-# Editions at Play: All This Rotting by Alan Trotter
-

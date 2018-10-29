@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# General Regulatory Chamber, The
-
 A Chamber of the First-tier Tribunal for Scotland.

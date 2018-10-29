@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Huffington Post UK: Magna Carta Anniversary Should Be A Bank Holiday, Says MP
-

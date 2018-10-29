@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Spectrum Singers
-
 Spectrum Singers is a Penarth-based, 16 member, SATB chamber choir, now in its fifth season under the dynamic musical direction of David Hutchings.  

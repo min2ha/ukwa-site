@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How Tories could remain the largest party (part one): Ukip support drops 
-

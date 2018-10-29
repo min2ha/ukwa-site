@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Ruthin Craft Centre
-
 <p>Ruthin Craft Centre is a publisher and craft centre in Ruthin.</p>

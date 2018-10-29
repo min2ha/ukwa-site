@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Angela Merkel admits collapse of Brexit talks cannot be ruled out
-
 Reports that the EU leaders were planning a “carrot and stick” approach to Brexit in September 2018, offering Theresa May warm words on the Chequers proposals to take to the Conservative conference alongside a sharp warning that they needed a plan for Northern Ireland within weeks.

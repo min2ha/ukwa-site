@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# The North Wales Cajun & Zydeco
-
 The North Wales Cajun & Zydeco weekend was held at Conwy in june 2017.

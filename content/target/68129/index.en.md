@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brussels plots to make Britons buy £50 visas to visit Europe as EU gets ready for a no-deal Brexit
-
 In a dossier of potential changes to EU laws drawn up by Bruusels in anticipation of Brexit, provision was made for Britain to be put on either the 'visa required' or the 'visa free' list once it was no longer an EU member. If Britain is ruled to be a nation where people needed visas, travellers to the continent could have to pay more than £50 for the right paperwork.  

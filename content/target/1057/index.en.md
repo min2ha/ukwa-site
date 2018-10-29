@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North East Obesogenic Environment Network 
-
 None

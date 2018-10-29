@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# #ModLochAbar2017 on Twitter
-

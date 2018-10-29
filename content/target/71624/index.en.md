@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute of Economic Affairs: Plan A+: Creating a prosperous post-Brexit U.K.
-
 The Institute of Economic Affairs unveils a comprehensive, alternative framework for future trade relationships between the United Kingdom and the European Union, and, just as importantly, with the rest of the world. The report calls for the adoption of a four-pillared trade policy strategy, taking unilateral, bilateral, plurilateral and multilateral action to deliver a more competitive and thriving UK economy.

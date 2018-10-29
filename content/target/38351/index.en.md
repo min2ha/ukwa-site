@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Oxford Literary Festival:  Mary McAleese talks to Dan Mulhall, The 1916 Easter Rising: Ireland and the UK 100 Years On 
-
 Event at the Oxford Literary Festival

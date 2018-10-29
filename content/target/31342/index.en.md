@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peace & Progress
-
 Peace & Progress is a party for human rights.

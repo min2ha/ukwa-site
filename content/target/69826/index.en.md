@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Margaret's, Montrose and Saint Ninian's, Brechin Catholic Churches
-
 Site of two Scottish Roman Catholic parish churches located in Montrose and Brechin, Angus.

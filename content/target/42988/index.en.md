@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Hindu Council UK
-
 Website of Hindu Council UK - faith-based organisation seeking to represent Hindu communities in the UK

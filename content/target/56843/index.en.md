@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: The UK government’s position paper on Northern Ireland after Brexit – some initial thoughts
-

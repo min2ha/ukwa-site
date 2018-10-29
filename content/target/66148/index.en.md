@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Association of Independent Professionals and the Self Employed (IPSE)
-
 Organisation for the professional self-employed including freelancers, interim managers, consultants and contractors.

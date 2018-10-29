@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Quitting Europe would make the UK less safe, warns Sir Keir Starmer
-

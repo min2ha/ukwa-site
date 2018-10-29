@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rodney McCune (@rodneymccune) on Twitter (Ulster Unionist candidate for Belfast South)
-

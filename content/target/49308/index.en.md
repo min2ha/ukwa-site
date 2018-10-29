@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dalbeattie Star Football Club
-
 Site of a Scottish amateur football club based in Dalbeattie, Dumfries & Galloway.

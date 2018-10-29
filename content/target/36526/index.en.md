@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: BMW warns staff in UK Rolls Royce factories of Brexit risks
-

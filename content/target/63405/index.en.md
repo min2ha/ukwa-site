@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# HR News - HR News stories from the UK & Wales
-
 HR news features News, Advice & Updates for HR professionals. Stories affecting the UK & Wales

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Museum of Comedy
-
 Website for the Museum of Comedy, a museum featuring iconic props and artefacts from the UK's comedic history, established in 2014.

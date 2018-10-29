@@ -10,6 +10,4 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Little Folk
-
 Little Folk are a four piece family orientated Americana band from South Wales.

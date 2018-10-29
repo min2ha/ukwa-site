@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK 'may consider longer transition period'
-
 Theresa May was said to be willing to consider extending the proposed 21-month transition period after Brexit to break the current deadlock over Northern Ireland.
 

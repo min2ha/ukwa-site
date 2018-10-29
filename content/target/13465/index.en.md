@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# David Mundell MP (DavidMundellMP) on Twitter
-
 <p>The twitter profile of David Mundell, Conservative Member of Parliament for Dumfriesshire, Clydesdale and Tweeddale.</p>

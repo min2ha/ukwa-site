@@ -10,7 +10,5 @@
   "start_date": "2009-11-16T00:00:00Z"
 }
 
-# British Society for Rheumatology, The (BSR)
-
 BSR promotes excellence in the treatment of people with arthritis and musculoskeletal conditions supports those delivering it.
 

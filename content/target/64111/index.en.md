@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# UCU West Mids Women (@UCU_wm_women) on Twitter
-
 UCU West Mids Women's Network aims to map regional gender inequality in FE & HE, share equality strategies and resources, & provide solidarity for women members

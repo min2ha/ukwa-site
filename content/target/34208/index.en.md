@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# So You Think You're Funny?
-
 So You Think You're Funny? is an annual comedy competition.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Worcester Warriors (@WorcsWarriors) on Twitter
-
 Official Twitter page of Gallagher Premiership side Worcester Warriors.

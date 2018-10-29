@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Applied Research & Knowledge (ARK) Group
-
 ARK stands for Applied Research & Knowledge and is a B2B publishing and events company providing products for the Legal and Information Management markets. The ARK Group is a division of Wilmington plc.

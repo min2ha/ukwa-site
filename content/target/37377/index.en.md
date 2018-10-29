@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# rs21: EU debate: 38 points on Brexit and the Left
-
 An outline of the Left's position on Brexit

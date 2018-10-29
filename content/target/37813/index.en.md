@@ -10,6 +10,4 @@
   "start_date": "2016-03-22T09:00:00Z"
 }
 
-# All Wales Domestic Abuse and Sexual Violence Helpline 
-
 From 1st October 2015 the All Wales Domestic Abuse and Sexual Violence Helpline will be known as the Live Fear Free Helpline and the Website will be updated accordingly-www.gov.wales/livefearfree

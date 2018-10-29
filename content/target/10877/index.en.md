@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Cycling
-
 Tour de France news reports from the sports pages of the Independent newspaper

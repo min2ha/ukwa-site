@@ -10,6 +10,4 @@
   "start_date": "2015-04-24T09:00:00Z"
 }
 
-# Alastair Reynolds - science and science fiction
-
 Alastair Reynolds is science and science fiction writer from Barry, Wales.

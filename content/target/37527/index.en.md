@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Pool, The: The Brexit brotherhood is turning women off 
-
 How the political discourse around Brexit alienates women

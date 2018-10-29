@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Simon Danczuk MP: Labour's frontbench is out of touch and 'dripping with privilege' 
-
 None

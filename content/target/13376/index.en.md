@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Guardian: First world war ritual that sheds little light 
-
 None

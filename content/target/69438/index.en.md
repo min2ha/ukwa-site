@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee: The progress of the UK's Negotiations on EU Withdrawal: the Rights of UK and EU Citizens
-
 The Exiting the European Union Committee calls for urgent clarification from the EU27 on the preparations that they are making to regularise the status of UK citizens in each Member State.
 

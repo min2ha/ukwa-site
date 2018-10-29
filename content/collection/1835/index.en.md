@@ -87,6 +87,4 @@
   "endDateText": "30-06-2018"
 }
 
-# Grenfell Tower Fire
-
 The Grenfell Tower fire broke out on 14 June 2017 in the 24-storey Grenfell Tower block of flats in North Kensington, West London leading to the death of over 70 people. This collection brings together some of the websites, news articles and social media accounts related to the fire. 

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Smokewriting
-
 None

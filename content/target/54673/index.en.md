@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Standard: Buckingham University to observe students’ Facebook and Twitter posts in mental health drive
-
 News Article: Facebook and Mental health

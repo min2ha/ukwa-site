@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The return of the Blairites is the last thing Labour needs
-
 None

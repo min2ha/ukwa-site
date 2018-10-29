@@ -10,6 +10,4 @@
   "start_date": "2011-01-19T00:00:00Z"
 }
 
-# Hypermobility Syndrome Association
-
 The Hypermobility Syndrome Association (HMSA) is a charity run by and for people diagnosed with the Hypermobility Syndrome (HMS).

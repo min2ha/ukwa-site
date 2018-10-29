@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Institute of Public Policy Research: Devo More Project
-
 None

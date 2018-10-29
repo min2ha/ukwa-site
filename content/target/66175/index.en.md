@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Blaenavon Male Voice Choir
-
 Blaenavon Male Voice Choir was founded in 1910 and rehearses are held at Park Street, Blaenavon twice a week.

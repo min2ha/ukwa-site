@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# NetDoctor: General Election 2017: What will the main parties do for the NHS?
-
 NetDoctor sifted through the manifestos of the Conservatives, Labour and the Liberal Democrats to see what they were pledging around health in their 2017 general election manifestos.

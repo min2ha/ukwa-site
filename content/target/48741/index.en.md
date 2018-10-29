@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# Green Fork
-
 Green Fork seeks to give people access to healthy, fresh and great tasting food and supply in a way that is convenient. 
 
 They strive to serve great food that is nutritious, fresh and where possible locally produced, whilst maintaining a ruthless food hygiene standard and will deliver direct to offices for maximum convenience, free of charge and using innovative ways that leaves no carbon footprint.

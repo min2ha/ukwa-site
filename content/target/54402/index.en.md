@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Cardiff University: Welsh Brexit | Brexit a Chymru
-
 The Welsh Brexit blog is published by Cardiff university and aims to inform and encourage constructive debate and analysis on issues relating to Wales and the UK's exit of the European Union. 

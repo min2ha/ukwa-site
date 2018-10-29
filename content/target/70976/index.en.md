@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute of Economic Affairs: Net Gain: opportunities for Britain's fishing industry post-Brexit
-
 The primary objective of a UK fisheries policy should be to balance the goals of ensuring a viable future for commercial fishing in UK waters, ensuring sustainability, and enabling UK consumers to have access to cheaper fish and fish products. This should be based on a framework of minimising restrictions on trade and competition so that policies and regulations developed are least trade restrictive, least market distorting, based on sound science and consistent with clearly expressed regulatory and sustainability goals.

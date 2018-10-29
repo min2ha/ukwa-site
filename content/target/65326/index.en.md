@@ -10,6 +10,4 @@
   "start_date": "2018-05-10T09:00:00Z"
 }
 
-# Blyth Valley Green Party
-
 A local branch of the Green Party that was re-established in March 2015 by a passionate group of concerned citizens.

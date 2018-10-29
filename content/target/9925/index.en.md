@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# 21st Century Manifesto: EU elections and the spirit of 1848
-
 None

@@ -180,7 +180,5 @@
   "endDateText": ""
 }
 
-# FTSE 100
-
 This collection includes the corporate websites of the 100 companies listed on the London Stock Exchange. 
 The Financial Times Stock Exchange 100 Index, also called the FTSE 100 Index, FTSE 100, FTSE, or, informally, the "Footsie", is a share index of the 100 companies listed on the London Stock Exchange with the highest market capitalisation. It is seen as a gauge of prosperity for businesses regulated by UK company law. The index is maintained by the FTSE Group, a subsidiary of the London Stock Exchange Group.

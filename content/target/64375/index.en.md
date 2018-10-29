@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Tayport Parish Church
-

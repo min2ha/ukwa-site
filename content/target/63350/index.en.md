@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Caernarfon Town FC : The Canaries
-
 Caernarfon Town FC Known as The Canaries, play in theHuws Gray Cymru Alliance League and run a successful Academy with teams from the age of under 6 up to our under 19's side that plays in the FAW Development League. 

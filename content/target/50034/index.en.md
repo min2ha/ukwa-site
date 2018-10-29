@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Malayalam Christian Church, UK
-
 Malayalam Christian Church is part of Lighthouse Christian Centre, accredited to Elim Pentecostal Church.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour 'allowed 3.6million migrants in over 13 years to change Britain'
-
 None

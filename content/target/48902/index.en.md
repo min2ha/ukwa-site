@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Brexit Wales (@BrexitWales) on Twitter 
-
 Brexit Wales is an organisation promoting Brexit in Wales post EU referendum.

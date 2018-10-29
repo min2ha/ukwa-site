@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit’s slow-burning fuse will reach a powder keg this year
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'We need to draw the poison from Brexit': Archbishop of Canterbury JUSTIN WELBY'S plea, prompted by the divided Britain he fears for
-
 The Archbishop of Canterbury calls for a cross-party Brexit forum to draw the 'poison' from the debate.

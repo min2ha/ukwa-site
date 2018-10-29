@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ipsos MORI: Is the NHS Labour’s secret weapon in the election?
-
 The NHS remains a key election battleground in 2017. In Ipsos MORI’s Political Monitor, the public say that the NHS and the EU/Brexit are the main issues that will help them decide which party to vote for at the election (43% and 42% respectively).  

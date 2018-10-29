@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Beauly Shinty Club
-
 Site of a shinty club based in Beauly, Highland.

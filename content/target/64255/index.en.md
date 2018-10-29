@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Greyfriars Parish Church
-

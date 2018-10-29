@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# History Faculty, The
-
 None

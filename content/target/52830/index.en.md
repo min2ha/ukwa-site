@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Child Poverty Action Group (CPAG): Election 2017 Manifesto
-
 Calls on the next government to: prioritise child poverty; reform universal credit; protect families from rising living costs; prevent demand for foodbanks; and develop a visionary national childcare strategy

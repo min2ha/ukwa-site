@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo-Japanese Tanka Society, The 
-
 The Anglo-Japanese Tanka Society / Nichi Ei Tanka Society has been established by Japanese and British individuals and organisations to celebrate the long-standing tradition of tanka poetry and related arts.

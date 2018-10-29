@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire County Council: Further information about Lincoln Castle Revealed
-

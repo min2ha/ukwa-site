@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: If Britain leaves the EU, it really will become the superstate of every Brexiteer's nightmares
-

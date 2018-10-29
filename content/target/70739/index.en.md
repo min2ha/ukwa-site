@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Ecclesiastical Law Association
-
 The Ecclesiastical Law Association is an association of English lawyers who work for the Church of England.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Loraine Birchall (@artemismedia) on Twitter (Liberal Democrats candidate for Carlisle)
-
 Loraine Birchall stood as Liberal Democrats candidate for Carlisle at the 2015 General Election but was not elected. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Mandy warns Miliband over 'credibility gap'
-
 None

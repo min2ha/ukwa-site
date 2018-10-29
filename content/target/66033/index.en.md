@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Voters think the House of Lords is outdated, out of touch and wrong to thwart Brexit, poll reveals   
-

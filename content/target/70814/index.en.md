@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# A Team of John O'Sheas (TOJOS)
-
 A Team of John O’Sheas network is an online initiative which aims to promote a high standard of football journalism.

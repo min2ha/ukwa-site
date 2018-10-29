@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# DaDaFest
-
 DaDaFest is a disability arts organisation based in Liverpool, delivering the Festival and other arts events to promote high quality disability & deaf arts from different cultural perspectives. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Blenheim Palace Festival of Literature Film & Music
-
 Festival

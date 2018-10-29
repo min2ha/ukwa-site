@@ -11,5 +11,3 @@
   "subject": "Race, Ethnicity & Sport"
 }
 
-# Llangorse Lake
-

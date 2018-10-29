@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# British Toxicology Society
-
 The bts is a society for all fields of professional toxicologists and all with an interest in toxicology. 

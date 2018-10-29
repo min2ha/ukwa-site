@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Russell Group: Safeguarding EU nationals
-
 A new briefing note sets out areas where further clarity over the future rights of EU citizens after Brexit is needed.

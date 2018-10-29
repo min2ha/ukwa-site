@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Spartacus Educational: Background to the Magna Carta
-

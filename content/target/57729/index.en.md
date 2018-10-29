@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Film and Darkroom User Forum
-
 An online enthusiast community concerned with photography and film based activities. Discusses general photography chat, member organised functions, locations, equipment and various other related topics.

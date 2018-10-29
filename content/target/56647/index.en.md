@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# JJ Heritage
-
 JJ Heritage is an arts, heritage & sport project management company.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British Telecom (BT): EU Referendum
-
 BT website sub-section which focusing on EU debates, decisions and news articles relating to the referendum.

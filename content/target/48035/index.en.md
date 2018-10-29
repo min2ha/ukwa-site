@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit will create 400,000 jobs? This is a fiction, as any economist will tell you
-

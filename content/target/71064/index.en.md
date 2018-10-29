@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# LGBTI: Understanding gender identity and reassignment
-
 Website of the Scottish government on LGBTI policy

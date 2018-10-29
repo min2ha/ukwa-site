@@ -10,5 +10,3 @@
   "start_date": "2007-08-31T00:00:00Z"
 }
 
-# Rosetta Life
-

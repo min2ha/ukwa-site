@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Y Gymdeithas Feddygol
-

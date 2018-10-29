@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Unheard Voices: the Civilian Experience of the First World War in Yorkshire
-
 The project will explore and give creative expression to the untold, lesser known stories from this conflict – those of the civilians.

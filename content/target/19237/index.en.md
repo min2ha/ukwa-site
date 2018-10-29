@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Flashback: Winston Churchill's secret plot to give Lincoln's Magna Carta to the Americans
-

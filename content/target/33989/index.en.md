@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Cameron has freed his ministers on the EU vote. Now his problems begin
-

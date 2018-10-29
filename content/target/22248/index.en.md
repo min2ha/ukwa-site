@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Whiz Bangs 2014, The, on Facebook
-
 A community engagement project in partnership with Highcliffe School 6th Form that will bring to life the costumed concerts performed in Christchurch by servicemen during the First World War. The Whiz Bangs, (1916-18), was an entertainment party formed by servicemen to entertain soldiers at the Convalescent Hospital at Barton-on-Sea, Dorset. 

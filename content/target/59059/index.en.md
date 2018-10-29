@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Financial Times: Pressure on UK schools to tackle mental health grows
-
 News article about the ability of UK state funded schools to tackle mental health issues that affect their students and the need to do more and at an earlier stage in a child's life

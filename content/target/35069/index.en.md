@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanesyddol Trefriw | Trefriw Historical Society
-

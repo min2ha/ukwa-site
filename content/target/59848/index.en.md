@@ -10,6 +10,4 @@
   "start_date": "2017-12-20T09:00:00Z"
 }
 
-# Welsh Breeds News
-
 Welsh Breeds News provides information, news, photographs and stories about Welsh Ponies, Welsh Cobs and Welsh Part-Breds and is a supplement to the Welsh Breeds Newsletter devoted solely to the Welsh Pony and Cob scene.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great War Stories : Local People at Home and on the Front
-
 This project focuses on original materials from Sutton Archives Collection to tell the stories of local people who lived through the First World War.

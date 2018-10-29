@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General election 2015: Bury the Bedroom Tax in memory of those who were killed by it 
-
 None

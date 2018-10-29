@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lindfield Parish Council 
-
 Lindfield Parish Council is in Sussex, UK.

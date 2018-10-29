@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Airdrie: Jackson Parish Church of Scotland
-
 Site of a Church of Scotland parish church at Airdrie, Lanarkshire.

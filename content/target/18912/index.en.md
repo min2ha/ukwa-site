@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Giant puppets for Magna Carta event in Runnymede
-

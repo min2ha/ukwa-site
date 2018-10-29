@@ -10,6 +10,4 @@
   "start_date": "2017-10-18T09:00:00Z"
 }
 
-# Betina Skovbro
-
 Betina Skovbro is a Danish born freelance photographer, based in Cardiff. She former press photographer for the South Wales Argus.

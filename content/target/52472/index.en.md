@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Beddau Community Church, Pontypridd
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Masonic Lodges in Scotland
-
 Site providing a visual directory of the Masonic Lodges in Scotland on the Roll of the Grand Lodge of Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Rebecca F. John
-
 Rebecca F. John is a Welsh author who grew up in Pwll, near Llanelli.

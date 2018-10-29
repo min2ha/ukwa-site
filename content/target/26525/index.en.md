@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: British PM David Cameron confounds polls to win second term
-
 None

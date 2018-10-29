@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# North Wales Coast Football Association
-

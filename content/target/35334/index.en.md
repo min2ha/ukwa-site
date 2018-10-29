@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jane Hutt AM (@JaneHutt) on Twitter (Labour AM for the Vale of Glamorgan)
-
 Jane Hutt is the Labour candidate for the Vale of Glamorgan in the 2016 National Assembly for Wales elections.

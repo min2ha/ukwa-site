@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Narberth Book Fair
-
 Narberth Book fair is an Annual book fair which focuses on Welsh and indie authors.

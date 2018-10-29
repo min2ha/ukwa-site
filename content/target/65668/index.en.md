@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Park's Motor Group
-
 Park's Motor Group is a coach operator and car dealer based in Hamilton, Scotland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tape recording reveals UKIP's internal war over race row candidate Victoria Ayling
-
 None

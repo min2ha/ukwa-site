@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# British Phonographic Industry (BPI)
-
 BPI represents the UK’s recorded music industry.

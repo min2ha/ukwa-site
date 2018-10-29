@@ -10,5 +10,3 @@
   "start_date": "2013-11-21T00:00:00Z"
 }
 
-# Oriel Q - Queens Hall Gallery
-

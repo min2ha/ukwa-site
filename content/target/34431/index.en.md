@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 'Soldiers Are We': Women in the Irish Rising 
-
 This website focuses on women’s involvement in the movement for Irish independence. It contain numerous articles on the role of women during the Easter Rising, 1916.

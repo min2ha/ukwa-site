@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Scottish Community Development Centre
-
 Site of an non-governmental organisation supporting best practice in community development and is recognised by the Scottish Government as the national lead body for community development.

@@ -10,6 +10,4 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# Angus Peter Campbell (@aonghasphadraig) on Twitter
-
 Twitter profile of Angus Peter Campbell, writer and actor.

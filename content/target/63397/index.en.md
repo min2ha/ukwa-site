@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# ebay UK
-
 Buy and sell electronics, cars, fashion apparel, collectibles, sporting goods, digital cameras, baby items, coupons, and everything else on eBay. These are items related to Stephen Hawking.

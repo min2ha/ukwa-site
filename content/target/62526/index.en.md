@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# Lodge Ellangowan No. 716
-
 Site of a masonic lodge located in Milngavie, East Dunbartonshire and affiliated with the Grand Lodge of Scotland.

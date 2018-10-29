@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Darren Hall Green Party Candidate for Bristol West
-
  "Say no to politics as usual"  Darren Hall Green Party Parliamentary Candidate for Bristol West in the 2015 General Election but was not elected.  

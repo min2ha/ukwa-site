@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# Neil Canning Artist
-
 Neil Canning is a British contemporary artist.

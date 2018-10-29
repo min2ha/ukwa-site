@@ -10,5 +10,3 @@
   "start_date": "2015-04-20T08:00:00Z"
 }
 
-# cameras | a co-ordinated agenda for marine environment rural affairs science
-

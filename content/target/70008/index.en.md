@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# RCG (FRFI) (@RCGFRFI) on Twitter
-
 Revolutionary Communist Group | Newspaper: Fight Racism! Fight Imperialism!

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Education Foundation, The
-
 <p>The Education Foundation is an independent, cross sector, education think tank. Their work is focused on the education reform, technology &amp; innovation.</p>

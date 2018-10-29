@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: How the 11 Justices who overruled the Government in today's historic Article 50 case voted   
-

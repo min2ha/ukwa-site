@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Derwen Cymru
-
 Derwen Cymru is the first dedicated older persons Housing Association in Wales and is an amalgamation of Newport Housing Trust joined the Seren Group and was established in 2014.

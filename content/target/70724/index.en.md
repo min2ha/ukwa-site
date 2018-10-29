@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'Chequers deal means victory for EU!': Boris Johnson slams Theresa May over Brexit compromise and says scandal of leaving Europe is 'not that we've failed... but that we've not even TRIED'
-

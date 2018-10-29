@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Angus Council: News Release Archive 2014
-
 <p>Webpage containing archived news releases of Angus Council, including information about temporary road closures and waiting/loading restrictions near the Barry Buddon Shooting Centre, Angus.</p>

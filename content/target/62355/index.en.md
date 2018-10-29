@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stalybridge Celtic F.C.
-
 Stalybridge Celtic Football Club is an English football club based in Stalybridge, Greater Manchester. They are currently members of the Northern Premier League Premier Division and play at Bower Fold.

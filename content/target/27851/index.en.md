@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate Lab Book
-
 This blog is an experiment in ‘open source’ climate science. It is written by climate scientists, for climate scientists, but open to anyone to see and comment.

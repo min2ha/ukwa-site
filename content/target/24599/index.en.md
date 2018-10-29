@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tories: Ed Miliband will leave UK open to 'nuclear blackmail' if he does deal with SNP
-
 None

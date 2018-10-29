@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-#  School And Public Health Nurses Association (SAPHNA)
-
 SAPHNA, the School and Public Health Nurses Association, was officially launched on 1st January 2006. The original SAPHNA Executive had previously formed the CPHVA School Nurses committee, so were well versed and experienced in the issues and needs of the profession, children young people and families.

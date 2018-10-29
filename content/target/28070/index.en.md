@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T06:00:00Z"
 }
 
-# Wee Ginger Dug
-
 Paul Kavanagh's blog comments on Scottish politics.

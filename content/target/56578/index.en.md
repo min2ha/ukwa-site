@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Mizan's Blog
-
 Mizan The poet is an activist, community worker and a spoken word poet. His poetry reflect experiences as well as his views ranging from politics to religion. This blog is an alternative platform for Mizan to further articulate his views and to use as a medium to enter in to the public discourse on all issues of interest to Mizan The Poet.

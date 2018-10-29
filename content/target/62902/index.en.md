@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Centre for Theoretical Cosmology (CTC)
-
 The CTC exists to develop theories of the Universe that are both mathematically consistent and observationally testable.

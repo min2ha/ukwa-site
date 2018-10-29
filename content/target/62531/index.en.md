@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The shambles of Brexit diverts attention from the EU’s democratic deficit
-

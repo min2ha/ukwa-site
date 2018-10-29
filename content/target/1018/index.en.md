@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mind: Government's Health and Social Care Bill 
-
 None

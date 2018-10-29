@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 11th Jan. 2017: Brexit: EU Nationals’ Right to Remain
-
 The Lords call on the government to confirm that EU workers currently lawfully resident in the UK will be allowed to stay after Brexit.

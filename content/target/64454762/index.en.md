@@ -11,6 +11,4 @@
   "subject": "Dickens Bicentenary"
 }
 
-# Dickens's World
-
 Website of an online conference organised in 2012.

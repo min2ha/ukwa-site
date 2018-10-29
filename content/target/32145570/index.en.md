@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Last Women, The
-
 None

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Slavery and Revolution - Jamaica and Slavery in the Age of Revolution
-
 None

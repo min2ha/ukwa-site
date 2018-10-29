@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cockfield Village War Memorial Project
-
 The project aims to bring the sacrifices of the brave men from Cockfield into the understanding of the village community as a whole.

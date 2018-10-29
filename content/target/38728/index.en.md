@@ -10,6 +10,4 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# Transition Edinburgh Pentlands
-
 Site of a local organisation based in South West Edinburgh Pentlands area  working towards and promoting alternatives to fossil fuels and local production helping to address issues of climate change.

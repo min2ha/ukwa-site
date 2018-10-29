@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Historians for Britain
-
 Historians for Britain is a campaign headed by some of Britain’s leading historians and academics who believe there needs to be a substantial change in Britain’s relationship with the EU.  Via new research, speeches and seminars along with letters to the media they  aim to inform the debate about Britain’s EU membership, highlight some of the problems that exist today and suggest solutions for today’s politicians and decision makers. Via new research, speeches and seminars along with letters to the media we aim to inform the debate about Britain’s EU membership, highlight some of the problems that exist today and suggest solutions for today’s politicians and decision makers

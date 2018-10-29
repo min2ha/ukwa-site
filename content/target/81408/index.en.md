@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# British Am. Football (@BAFAOfficial) on Twitter
-
 The National Governing Body for American Football in Great Britain

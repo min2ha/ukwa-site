@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T06:00:00Z"
 }
 
-# Lifeboat Fund, The
-
 <p>The Communications and Public Service Lifeboat Fund is a public service charity, and supporter of the the Royal National Lifeboat Institution.</p>

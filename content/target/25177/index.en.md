@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Duncan Smith accused of 'let them eat cake' moment after suggesting zero-hours contracts be renamed 'flexible hours'
-
 None

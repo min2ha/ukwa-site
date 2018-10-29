@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Gwasanaeth Caffael Cenedlaethol | National Procurement Service
-
 The National Procurement Service (NPS) for Wales was announced by the Ministers on 12 March 2013. Its remit is to secure in the region of £1bn worth of goods and services in common and repetitive spend. This represents 20% - 30% of the Welsh public sector spend.

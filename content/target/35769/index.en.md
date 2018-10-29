@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: My instinct is pro-Brexit (and it’s nothing to do with Boris) 
-
 Guardian, The

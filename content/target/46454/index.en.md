@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black History Month Wales (@BHMWales) on Twitter
-
 The official Twitter page for Black History Month Wales hosted by Race Council Cymru providing updates for events during October 2016.

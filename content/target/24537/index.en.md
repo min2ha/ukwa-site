@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Do the wives (or husbands) swing votes?
-
 None

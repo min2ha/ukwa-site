@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Magna Carta copies brought together
-

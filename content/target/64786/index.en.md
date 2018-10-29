@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Committee of Public Accounts: Research and development funding across government
-
 The Government aims to increase total UK investment in research from 1.68% in 2015 to 2.4% of GDP in 2027 but it lacks an ambitious plan for how it will achieve this. This Public Accounts Committee report also highlights concerns over impact of Brexit, leadership effectiveness and safeguarding of benefits

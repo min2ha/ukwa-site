@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Music Managers Forum (MMF)
-
 Music Managers Forum (MMF) is a representative body for the artist management.

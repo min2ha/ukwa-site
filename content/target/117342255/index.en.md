@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Ofgem
-
 Ofgem is the Office of Gas and Electricity Markets. It is a non-ministerial government department and an independent National Regulatory Authority.The principal objective is to protect the interests of existing and future electricity and gas consumers. 

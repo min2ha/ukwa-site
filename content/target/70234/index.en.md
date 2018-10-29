@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# MHFA England (@MHFA) on twitter
-
 MHFA England is a twitter account which aims to raise awareness about mental health 

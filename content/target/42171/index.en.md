@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Luddenden Foot Community Association
-

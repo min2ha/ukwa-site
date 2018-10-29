@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# ComRes: GE2017
-
 A series of polls done by Comres for national media outlets during the UK General Election 2017.

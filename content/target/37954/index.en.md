@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Be a part of the Guardian's EU referendum coverage
-
 Guardian, The

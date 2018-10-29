@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Digital Commonwealth (DigCW2014) on Audioboom
-
 The official account of the Big Lottery funded Glasgow 2014 legacy project "Digital Commonwealth" capturing the creative response to the Commonwealth Games held in Glasgow in 2014.

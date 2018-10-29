@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Beulah Brass
-
 Beulah Brass was established in 2000 and meet at St Paul's Methodist Church Hall, Bridge Street, Abergele.

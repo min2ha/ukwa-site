@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford University Politics Blog, The: Déjà Vu? Britain’s EU Referendum and Spain’s 1986 in-out NATO Referendum
-
 Post discussing parallels between Britain's EU Referendum and Spain's 1986 in-out NATO Referendum.

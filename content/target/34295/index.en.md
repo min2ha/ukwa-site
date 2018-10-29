@@ -11,8 +11,6 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fiona McLeod MSP
-
  Member of the Scottish Parliament
 
 Fiona McLeod is Scottish National Party (SNP) Member of the Scottish Parliament for Strathkelvin and Bearsden.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Creative Scotland 2012
-

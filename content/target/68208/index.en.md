@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# BERMUDA INDUSTRIAL UNION (WORKERS VOICE)
-
 Bermudian workers made sporadic attempts to organize themselves since the 1800's, but it was the Bermuda Workers Association (BWA), founded in 1944, that paved the way for change that went beyond improved working conditions for Bermudian workers. 

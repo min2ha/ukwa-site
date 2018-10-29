@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derbyshire Community Health Services
-
 None

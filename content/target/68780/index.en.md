@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May will NOT face a vote of no confidence... for now: PM warns furious Tory Brexiteers at showdown meeting that sacking her would mean handing CORBYN the keys to No 10
-

@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Odettes Primrose Hill
-
 Odette’s in Primrose Hill is run and owned by Bryn Williams, a chef from from Denbigh, North Wales.

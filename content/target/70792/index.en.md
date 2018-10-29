@@ -10,6 +10,4 @@
   "start_date": "2018-09-11T14:01:00Z"
 }
 
-# Website of Pitstone, Ivinghoe & Ivinghoe Aston
-
 An information hub and communication forum for the residents of Pitstone, Ivinghoe, and Ivinghoe Aston.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-16T10:00:00Z"
 }
 
-# Womanthology
-
 Womanthology is a digital magazine and community for working women. They  aim to energise and empower women in their careers and beyond, with a view to inspiring confidence at work.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Scottish Nationalists will hold us to ransom if Labour blocks English votes
-
 None

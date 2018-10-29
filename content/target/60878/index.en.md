@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Morgan Academy FP Rugby Football Club
-
 Site of a Scottish rugby union football club based in Dundee, and attached to the Morgan Academy school.

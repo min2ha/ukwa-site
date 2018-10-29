@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mair Rowlands on Facebook (Plaid Cymru candidate for the Vale of Clwyd)
-
 Mair Rowlands is the Plaid Cymru candidate for the Vale of Clwyd at the 2016 National Assembly Election. 

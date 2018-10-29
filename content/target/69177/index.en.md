@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bernadette's Roman Catholic Church Erskine, Scotland
-
 Site of a Scottish Roman Catholic parish church located in Erskine, Renfrewshire.

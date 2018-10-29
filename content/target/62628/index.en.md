@@ -10,5 +10,3 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Cwmdu Sustainable Environment Group
-

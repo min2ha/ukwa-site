@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# RainbowBiz
-
 RainbowBiz CIC are a social enterprise based in Flintshire who promote equality and diversity across the county. They are responsible for a number of projects in the county.

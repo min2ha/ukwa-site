@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UK Political Info 
-
 UK Political Info is a free, non-partisan, resource for voters, journalists, students, and anyone with an interest in UK electoral politics. 

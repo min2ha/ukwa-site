@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: What will happen to farmers like me when Brexit turns our industry upside down?
-

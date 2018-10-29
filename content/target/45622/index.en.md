@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Tripping up Trump: a popular movement against using compulsory purchase for private profit
-
 Tripping up Trump (TUT) has established itself as the popular movement against the use of compulsory purchase for private profit. TUT's campaign has stood alongside the people and protected environment threatened by Donald Trump’s development in Aberdeenshire.

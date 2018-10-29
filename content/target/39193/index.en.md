@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Langley World War 1 - Poetry Film Project on Facebook
-
 REELmcr will deliver a series of workshops with the community working alongside a WW1 historian, an award winning poet, a local filmmaker and drama workers to create a poem which will draw inspiration from the photographs and stories collected.

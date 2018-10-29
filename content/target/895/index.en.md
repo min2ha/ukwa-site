@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Central London Community Healthcare
-
 None

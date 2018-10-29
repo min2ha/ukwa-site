@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# Marks & Spencer plc
-
 Marks and Spencer plc (also known as M&S) is a major British multinational retailer.  Founded in 1884 M&S specialises in the selling of clothing, home products and luxury food products.

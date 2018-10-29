@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Blog of Dave Cole, The
-

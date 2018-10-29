@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Kailzie Equestrian Centre
-
 Kailzie Equestrian Centre is based outside the town of Peebles in the Scottish Borders.

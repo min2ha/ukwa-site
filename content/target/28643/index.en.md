@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Keep Military Museum, The
-
 Official website of the Keep Military Museum, which promotes the history of the regiments of Devon and Dorset.

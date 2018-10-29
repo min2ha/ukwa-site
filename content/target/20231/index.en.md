@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bill Rees for Merthyr Tydfil & Rhymney
-
 Welsh Conservative Parliamentary candidate for Merthyr Tydfil and Rhymney

@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# Pureprint Group
-
 Pureprint Group is a company based in East Sussex specialising in the print production across various media.

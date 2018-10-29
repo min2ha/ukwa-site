@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# British Florist Association (BFA)
-
 The British Florist Association (BFA) is a trade association in the florist industry. It is a member of FLORINT, the European Federation of Florist Associations.

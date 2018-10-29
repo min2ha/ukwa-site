@@ -10,6 +10,4 @@
   "start_date": "2015-08-22T10:00:00Z"
 }
 
-# Meinir Wyn Roberts Soprano
-
 Meinir Wyn Roberts won the 'International Voice of the Future' prize at Llangollen International Eisteddfod.

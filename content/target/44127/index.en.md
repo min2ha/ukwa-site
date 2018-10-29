@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# The White Review
-
 Website for quarterly arts and literary print journal The White Review. The site hosts a monthly online-only edition, with exclusive features, interviews, poetry and fiction. 

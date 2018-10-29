@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Alex Lowry speaks on Autism.
-
 Alex Lowery is a public speaker and writer on Autism.

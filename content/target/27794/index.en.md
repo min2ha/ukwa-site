@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: Prince Charles marks 800th anniversary of the Magna Carta with British Library exhibition opening
-

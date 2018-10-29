@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Crossrail: Learning Legacy
-
 Learning Legacy is the collation and dissemination of good practice, lessons learned and innovation from the Crossrail construction programme aimed at raising the bar in industry and showcasing UK PLC.

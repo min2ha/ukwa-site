@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# Parkhead History
-
 Local history site focusing on the East and East End of Glagow, and principally Parkhead.

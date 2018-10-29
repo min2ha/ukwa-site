@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Suzie Horan
-
 Suzie is an award winning contemporary jeweller and silversmith. She has won the Gold Medal for Craft & Design at the National Eisteddfod, British Silver Week Young Designer of the Year and awards from the Goldsmiths Craftsmanship & Design Council, London.

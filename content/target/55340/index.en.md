@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# House of Commons Hansard: 28th June 2017: Prime Minister's Questions
-
 Mrs Sheryll Murray, Conservative MP for South East Cornwall, asks the Prime Minister what can be done to prevent intimidation of candidates during election campaigns.

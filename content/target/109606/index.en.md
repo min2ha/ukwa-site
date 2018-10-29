@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Conservatives
-
 The Scottish Conservatives (Scottish Gaelic: Pàrtaidh Tòraidheach na h-Alba), officially the Scottish Conservative and Unionist Party, is the part of the Conservative Party in the United Kingdom that operates in Scotland. Describing itself as a "patriotic party of the Scottish centre-right", it is the second-largest party in the Scottish Parliament, Scottish local government and as well as being the second-largest Scottish representation in the House of Commons of the United Kingdom.

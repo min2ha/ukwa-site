@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Michael Matheson MSP | Serving Falkirk West
-
 Michael Matheson is member of the Scottish Parliament for Falkirk West.

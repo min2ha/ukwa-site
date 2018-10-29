@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Cymdeithas Rhedwyr Mynydda Cymru | Welsh Fells Runners Association
-

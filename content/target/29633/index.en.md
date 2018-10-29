@@ -10,5 +10,3 @@
   "start_date": "2015-08-06T10:00:00Z"
 }
 
-# Theatr Bara Caws Theatre
-

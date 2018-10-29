@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# AAA Guide 2 WW1
-

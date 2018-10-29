@@ -10,5 +10,3 @@
   "start_date": "2016-10-21T10:00:00Z"
 }
 
-# St Dogmaels Abbey & Coach house
-

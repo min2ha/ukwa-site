@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Love Rugby League
-
 Latest news and features on Rugby League

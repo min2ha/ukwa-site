@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Tiphereth : Camphill in Edinburgh
-
 Site of an independent Edinburgh-based Camphill community for people with learning disabilities and other support needs, operating three residential care homes, a wide variety of day services and a social enterprise.

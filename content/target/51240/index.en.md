@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Stop killing the Mandem
-
 At stop killing the Mandem we campaign for civil liberties and human rights in the UK. We’re entirely independent – so we can truly hold the powerful to account. 

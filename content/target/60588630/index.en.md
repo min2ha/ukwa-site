@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester Methodist Circuit
-
 None

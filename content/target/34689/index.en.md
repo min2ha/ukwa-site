@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mark McDonald SNP
-
 Mark McDonald is Scottish National Party member of the Scottish Parliament for Aberdeen Donside.  

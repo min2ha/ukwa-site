@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Fan Forum - UKFF
-
 An online enthusiast community concerned with wrestling. Discusses UK and US based wrestling.

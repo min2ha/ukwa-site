@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Faversham's Magna Carta stays put for 800th birthday
-

@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Gwenllian Angharad Llwyd
-
 Gwenllian Llwyd is a fine artist from Wales and winner of the Young Artist Scholarship competition in the Eisteddfod Genedlaethol in 2016.

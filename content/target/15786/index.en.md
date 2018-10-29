@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Cubed3
-
 <p>Cubed3 Limited (Cubed Three, C3) is an online information resource and community with a passion for Nintendo and video games. Based in the UK, they bring daily updates, worldwide coverage and discussion.</p>

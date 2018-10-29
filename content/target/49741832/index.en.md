@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# Association for Education and Ageing (AEA), The
-
 None

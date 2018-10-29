@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stoneleigh Abbey
-
 The Abbey was founded by the Cistercians in 1154, but very little trace remains of the original Abbey buildings except for the 14th-century Gatehouse.

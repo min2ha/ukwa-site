@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Abbot House
-
 Site of an events venue, restaurant and brewery located in a medieval house in Dunfermline, Fife.

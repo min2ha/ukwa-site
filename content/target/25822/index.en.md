@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems vow to end public sector pay cuts
-
 None

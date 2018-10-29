@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Scottish Business Resilience Centre
-
 Site of a non-profit organisation which exists to support and help protect Scottish businesses, with connections to Police Scotland, Scottish Fire and Rescue Service and Scottish Government providing exclusive access to the latest information on legislation, criminal trends and threats, allowing us to provide the very best advice to safeguard your staff, customers and business.

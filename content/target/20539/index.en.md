@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: If the Tories hate 'hate preachers' why do they keep preaching hate? 
-

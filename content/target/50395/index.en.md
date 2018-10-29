@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit rebel Lord Heseltine sacked from government role
-
 Lord Heseltine backed the demand for a parliamentary vote on the final deal to be written into Brexit legislation. He learned hours later  that he had been fired from five government advisory roles he had held.
 

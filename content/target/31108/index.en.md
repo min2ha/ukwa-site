@@ -10,6 +10,4 @@
   "start_date": "2015-10-02T10:00:00Z"
 }
 
-# Rhodri Jones 
-
 Rhodri Jones is a Welsh professional documentary photographer.

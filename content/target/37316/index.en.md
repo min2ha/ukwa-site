@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Buzzfeed: What On Earth Is Happening With Britain And The EU?
-
 Buzzfeed: an entertainment and news website

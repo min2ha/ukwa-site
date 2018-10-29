@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# VELOCITY... art for a changing city
-
 <p>VELOCITY seeks to re-imagine, repair and reconnect the physical and social fabric of the city of Glasgow, using the unique contexts offered by hosting the Games. Projects include organising sports related murals in Glasgow. Part of the Glasgow 2014 Cultural Programme.</p>

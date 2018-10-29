@@ -10,6 +10,4 @@
   "start_date": "2015-03-21T09:00:00Z"
 }
 
-# International Continence Society (ICS)
-
 The International Continence Society (ICS) is a registered charity with a global health focus which strives to improve the quality of life for people affected by urinary, bowel and pelvic floor disorders by advancing basic and clinical science through education, research, and advocacy.

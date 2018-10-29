@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Book Fringe
-
 Site of an independent book festival located in Edinburgh.

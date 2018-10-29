@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems plan swift leadership vote after election losses
-
 None

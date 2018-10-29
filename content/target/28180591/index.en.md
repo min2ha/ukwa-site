@@ -10,5 +10,3 @@
   "start_date": "2009-08-04T00:00:00Z"
 }
 
-# Making Britain - South Asian visions of home and abroad 1870-1950, Open University
-

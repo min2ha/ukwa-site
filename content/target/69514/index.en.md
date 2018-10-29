@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: No deal Brexit would push up fresh food prices, says ex-Waitrose boss
-
 The former boss of supermarket chain Waitrose warned that a "no deal" Brexit would push up the cost of fruit, vegetables, Lord Price, a former Conservative trade minister, said fresh food could not be stockpiled like packets or tins.
 
 meat and dairy products.

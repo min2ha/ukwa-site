@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# Aequus Research
-
 Aequus Research was set up to provide market research to the healthcare industry, primarily the pharmaceutical sector. 

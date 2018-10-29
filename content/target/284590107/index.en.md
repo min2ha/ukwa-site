@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ian Davidson MP | Glasgow South West
-

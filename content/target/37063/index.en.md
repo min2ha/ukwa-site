@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Britain Stronger in Europe: Boris Johnson speech: one basic error every 80 seconds
-
 Website for pro-EU campaign Britain Stronger In Europe, an article picking errors in Boris Johnson's anti-EU speech 

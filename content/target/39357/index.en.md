@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hart Village World War 1 Project
-
 Project to highlight the role of the people and the effect WW1 had on the village and farming community, and the results death duties had on the major land owners who lost heirs in the first World War.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cheshire and Wirral Partnership NHS Foundation Trust
-
 None

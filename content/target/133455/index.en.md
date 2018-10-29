@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Kent Biodiversity Action Plan (Kent BAP)
-
 None

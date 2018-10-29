@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carse Churches
-
 Site of several Church of Scotland parish churches serving the communities of Abernyte, Inchture, Kinnaird and Longforgan Perth and Kinross.

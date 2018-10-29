@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Brycheiniog a Maesyfed
-
 Menter Brycheiniog a Maesyfed promote the Welsh language in south Powys.

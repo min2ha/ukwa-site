@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Julie James for Swansea West on Facebook
-
 Julie James is the Assembly Member for Swansea West.

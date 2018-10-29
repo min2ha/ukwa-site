@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Heroes of Chiswick
-
 Project to discover more about the 23 men of the Parish of St. Michael (Sutton Court) killed on active service and how they died, and to involve local people, including children and young people, in that search.

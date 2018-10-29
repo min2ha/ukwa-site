@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tonbridge and Malling Conservatives
-
 Website of Tonbridge and Malling Conservatives, providing information on MPs, association officers, district and county councillors and local, national and European news.

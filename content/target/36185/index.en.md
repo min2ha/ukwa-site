@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Eurosceptic ministers may have to use freedom of information requests to obtain EU-related documents produced by their own staff 
-

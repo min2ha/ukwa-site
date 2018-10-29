@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kotaku UK: The Sun's Own Expert Calls the Gaming Addiction Story "Incorrect"
-
 Article from a gaming news website in response to a news article that featured in The Sun, it offers a different opinion to The Sun newspaper 

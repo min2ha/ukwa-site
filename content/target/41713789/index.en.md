@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liverpool Green Party
-
 Website of Liverpool Green Party, providing information on councillors, events and local, national and party news.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Deer Park Golf & Country Club
-
 The website of Deer Park Golf & Country Club, an entertainment resort in Livingston, Scotland. The resort is part of J W Muir Group plc.

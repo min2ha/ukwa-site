@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Rosa - The UK fund for women and girls
-
 None

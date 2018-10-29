@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T09:00:00Z"
 }
 
-# Art and the Public Realm Bristol
-
 The web site documents public art works in bristol for public use and is an important resource of over a decade of public art works for artists, public, researchers and academics.

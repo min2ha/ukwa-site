@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: Sir Tim Barrow appointed as UK Permanent Representative to the EU
-

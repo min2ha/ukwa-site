@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# PricewaterhouseCoopers (PwC)
-
 UK website of a global accountancy and consultancy company.

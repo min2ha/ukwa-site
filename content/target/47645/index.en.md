@@ -10,6 +10,4 @@
   "start_date": "2016-12-06T09:00:00Z"
 }
 
-# Gordon Highlanders Museum
-
 Site of a regimental museum based in Aberdeen, Scotland.

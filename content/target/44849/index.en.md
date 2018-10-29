@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chatham House: The EEA: A Safe Harbour in the Brexit Storm
-
 Pursuing a relationship between the EU and UK based on the European Economic Area would allow both sides to find their footing after the disruption of exit.

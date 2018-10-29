@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis' closing remarks at the end of the third round of EU exit negotiations in Brussels
-
 This statement follows the third round of negotiations for a new partnership with the EU, covering citizens' rights, the divorce bill and the Northern Ireland border..

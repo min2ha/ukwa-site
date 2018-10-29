@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal College of Emergency Medicine: Manifesto 2017 - Emergency care: Challenges and Solutions
-
 Presents a guide for parliamentary candidates and their parties to the problems facing emergency medicine and what we need - and what they can help do - to solve them.

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Myfyrdodau Man Wybedyn
-
 Myfyrdodau Man Wybedyn is a blog by Elan Grug Muse a poet from Dyffryn Nantlle.

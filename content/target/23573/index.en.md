@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Newton (Conservative Politician)
-
 Sarah Newton stood as Conservative candidate for Truro and Falmouth at the 2015 General Election. She was first elected to serve as MP for Truro and Falmouth in 2010 and re-elected in 2015. She stood for re-election again in 2017 and was successful.

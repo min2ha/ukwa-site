@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Mantell Gwynedd
-
 The County Voluntary Council for Gwynedd.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Law Society Gazette: Why the Magna Carta still has relevance today
-

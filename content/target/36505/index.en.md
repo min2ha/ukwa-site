@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Is this the most bizarre campaign video ever? Nigel Farage's Ukip candidate spoofs Three Lions to sing Britain's Coming Home - because the EU has taken all our fish
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: Implementing the UK’s Exit from the European Union: The Department for Business, Energy & Industrial Strategy
-
 A  briefing describing how the Department for Business, Energy & Industrial Strategy (BEIS), which has one of the largest and most complex EU Exit portfolios in government, is preparing to deliver a successful exit from the EU.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian The: Gove tweets support for Boris Johnson in £350m-a-week row
-

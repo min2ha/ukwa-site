@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Shelswell History Festival
-
 Website for The Shelswell History Festival. The Shelswell History Festival is a three day event celebrating local history in Shelswell

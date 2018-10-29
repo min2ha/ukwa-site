@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Boundless 2015 - The Salvation Army International Congress
-
 Official website of the congress, which took place in London in 2015.

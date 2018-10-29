@@ -10,5 +10,3 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Cymdeithas Cyfarwyddwyr Gwasanaethau Cymdeithasol Cymru | Association of Directors for Social Services Cymru (ADSS Cymru)
-

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Rheidiol Records
-
 Rheidiol Records is record label based in Cardiff. 

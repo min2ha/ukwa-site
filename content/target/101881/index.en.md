@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Warwickshire County Council
-
 None

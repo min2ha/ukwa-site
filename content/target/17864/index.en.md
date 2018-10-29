@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Priest criticises Church of England's 'Marxist manifesto' ahead of General Election
-
 None

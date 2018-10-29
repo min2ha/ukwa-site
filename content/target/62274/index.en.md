@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Kassam Stadium
-
 The Kassam Stadium is the home of Oxford United Football Club, and is named after the ground's owner and former chairman of the football club, Firoz Kassam. 

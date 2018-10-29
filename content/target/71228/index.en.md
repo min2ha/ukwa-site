@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# European Aerial Dance Festival
-
 Website for the European Aerial Dance Festival

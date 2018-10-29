@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Douglas Carswell (UKIP)
-
 Douglas Carswell stood as UKIP candidate for Clacton at the 2015 General Election. He was first elected to serve as MP for Clacton in 2010, when he stood as the Conservative candidate, retained the seat as the UKIP candidate in a 2014 by-election, and was re-elected in 2015.

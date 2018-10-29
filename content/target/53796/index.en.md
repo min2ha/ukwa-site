@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal Town Planning Institute (RTPI): Planning for a Successful Future
-
 The RTPI calls on the next government to create an inclusive, economically successful and resilient society with jobs, homes and infrastructure where they are needed after Brexit through planning.

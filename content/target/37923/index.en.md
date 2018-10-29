@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Farmers for Britain
-
 A group of farmers campaigning for Britain to leave the European Union

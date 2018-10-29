@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# ARGComFest
-
 Website for ARGComFest (Actually Rather Good Comedy Festival), held in Shoreditch.

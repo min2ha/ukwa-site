@@ -10,6 +10,4 @@
   "start_date": "2015-09-05T10:00:00Z"
 }
 
-# Print Hut
-
 A typical business blog with a bit of quirky, modern humour.

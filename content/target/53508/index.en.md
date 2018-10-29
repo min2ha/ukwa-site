@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Michael Deem (@MichaelDeemPC) on Twitter
-
 Michael Deem is the Plaid Cymru candidate for Cardiff West at the 2017 General Election.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sean Holley
-
 Sean Holley is a Welsh Rugby Union Coach and a TV rugby analyst.

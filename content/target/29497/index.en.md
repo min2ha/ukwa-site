@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester Childrens Book Festival
-
 The Manchester Children’s Book Festival is a biennial event coordinated and directed by the Manchester Writing School based in the Department of English in the Faculty of Humanities, Languages and Social Science at Manchester Metropolitan University (MMU).

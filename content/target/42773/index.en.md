@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Bristol Housing Action Movement BHAM
-
 Independent squatters and homeless group in Bristol

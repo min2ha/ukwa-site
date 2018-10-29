@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Study of the Phonology of Rhondda Valleys English, A
-
 Project undertaken by Roddy Walters of the University of Glamorgan on the phonology of the Rhondda Valleys.

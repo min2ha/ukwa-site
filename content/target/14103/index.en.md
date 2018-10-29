@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Yesalba: Na Gàidheil airson Neo-Eisimeileachd
-
 None

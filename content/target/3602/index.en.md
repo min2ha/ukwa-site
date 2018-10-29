@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Westmorland Gazette, The
-
 None

@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Krankies, The
-
 None

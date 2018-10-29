@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Equine Sector 2015 General Election Manifesto for the Horse
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shout Out UK: "iOS Medit8: Meditate to Mindful happiness"
-
 Shout Out UK article about mindfulness apps

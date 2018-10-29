@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: British Library to show Declaration of Independence
-

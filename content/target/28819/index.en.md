@@ -10,6 +10,4 @@
   "start_date": "2015-07-09T11:00:00Z"
 }
 
-# Robat Arwyn
-
 Welsh composer.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff Blues Ladies (@Blues_Ladies) on Twitter
-
 Official account for @cardiff_blues senior and U18 women’s squads. 

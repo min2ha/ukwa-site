@@ -10,5 +10,3 @@
   "start_date": "2005-12-15T00:00:00Z"
 }
 
-# Cafe Scientifique
-

@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Eat Out Vegan Wales
-
 Eat Out Vegan Wales is a co-operative aiming to promote veganism throughout Wales. The site is a directory to all vegan eating places in Wales.

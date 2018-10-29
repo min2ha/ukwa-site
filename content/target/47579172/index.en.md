@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# British Porphyria Association
-
 The BPA's aim is to reach out to as many people as possible; patients, doctors, hospitals and research establishments in order to improve the understanding of this condition. 

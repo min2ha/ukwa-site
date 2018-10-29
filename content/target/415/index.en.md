@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sefton Health and Wellbeing Board
-
 None

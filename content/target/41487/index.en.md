@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of St Andrews, Dunkeld and Dunblane
-
 Site of the St Andrews, Dunkeld and Dunblane diocese of the Scottish Episcopal Church.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sarah Olney (@sarahjolney1) on Twitter (Liberal Democrat  Politician)
-
 Sarah Olney stood as Liberal Democrat candidate for Richmond park at the 2017 General Election but was not elected.

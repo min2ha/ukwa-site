@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Chambers of Commerce: Future of Scotland
-
  

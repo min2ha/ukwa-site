@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Neuadd Goffa Caerwedros Memorial Hall
-
 Neudd Goffa Caerwedros is in Bro Siôn Cwilt, Ceredigion.

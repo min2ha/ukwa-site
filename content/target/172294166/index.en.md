@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# FOCUS Wales
-
 FOCUS Wales is an annual showcase event for the Welsh Music Industry and is held across Wrexham.

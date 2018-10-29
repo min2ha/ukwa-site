@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip manifesto 2015 - the key points
-
 None

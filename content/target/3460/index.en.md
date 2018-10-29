@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cambridge News
-
 Stay up to date with the latest news from around Cambridgeshire including breaking news updates, sport, football, local events and business.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Muriel Spark 100 on Twitter
-
 Twitter feed posting information of events celebrating Muriel Spark’s centenary.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Mount Elim Evangelical Church, Pontardawe
-

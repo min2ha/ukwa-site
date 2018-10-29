@@ -10,6 +10,4 @@
   "start_date": "2008-07-08T00:00:00Z"
 }
 
-# Catalyst
-
 Catalyst is an open group of women artists and scientists founded in 1995 in Portsmouth. We are committed to promoting the crossover of knowledge between the arts and sciences.

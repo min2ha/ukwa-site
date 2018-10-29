@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Artsadmin
-
 Artsadmin enables artists to create without boundaries. The advisory service supports artists at every stage of their development with free advice and opportunities. At Toynbee Studios, Artsadmin has established a centre for the creation, rehearsal and presentation of new work.

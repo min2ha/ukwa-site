@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# United Welsh
-
 United Welsh provide homes and related services in South Wales, currently managing over 5,000 properties.

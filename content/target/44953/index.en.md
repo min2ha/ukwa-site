@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Human Writes
-
 Human Writes is a long established British organisation founded for the purpose of befriending prisoners on Death Row in the USA.

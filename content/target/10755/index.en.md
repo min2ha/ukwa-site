@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Shneur Odze, Ukip on Twitter
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Election and housing bubble weigh on the minds of company bosses
-
 None

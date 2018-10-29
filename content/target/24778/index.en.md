@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rob Bryant (UKIP candidate for Beckenham)
-

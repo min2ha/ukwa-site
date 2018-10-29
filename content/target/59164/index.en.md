@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Nuclear Safeguards Bill 2017-19
-
 The Nuclear Safeguards Bill 2017-19 was presented to Parliament on 11 October 2017 and makes provision for nuclear safeguards after the UK leaves Euratom. This Briefing Paper discusses the background to and content of the Bill. The Nuclear Safeguards Bill passed to the Lords without amendment on 23rd January 2018. The Lords Committee Stage began on 22nd February 2018

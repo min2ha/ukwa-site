@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Can Natalie Bennett win back the Greens?
-
 None

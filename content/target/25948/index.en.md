@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Geoffrey Robinson ends speculation he will stand down as MP
-
 None

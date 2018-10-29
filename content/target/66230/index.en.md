@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Seventh-day Adventist Church in Dundee 
-
 Ste of a Seventh-day Adventist church in Dundee.

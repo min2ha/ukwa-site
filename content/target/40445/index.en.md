@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Strathnaver Museum
-
 Website of a museum located near Thurso, Highland, Scotland [in the former county of Caithness], holding artefacts of the area, information on the Highland Clearances and links to the Clan Mackay.

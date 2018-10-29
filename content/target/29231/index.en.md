@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Transcript
-
 Transcript is a bi-monthly review of books and writing from around Europe. Its aim is to promote quality literature written in the 'smaller' languages and to give wider circulation to material from small-language literary publications through the medium of English, French and German. Transcript is published by Literature Across Frontiers. - about us section of site.

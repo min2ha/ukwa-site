@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Shrewsbury Evangelical Church
-
 Shrewsbury Evangelical Church (SEC) is an independent evangelical church. It is based in the Springfield Estate area of Shrewsbury.

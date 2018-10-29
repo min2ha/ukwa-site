@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Rhianon Passmore (@rhi4islwyn) on Twitter (Labour candidate for Islwyn)
-
 Rhianon Passmore is the Labour candidate for Islwyn at the 2016 National Assembly Elections. 

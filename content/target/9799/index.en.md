@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: European parliament elections could derail economic recovery
-
 None

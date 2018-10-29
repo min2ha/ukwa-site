@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Cox on Facebook (Liberal Democrats candidate for Uxbridge and South Ruislip)
-
 Mike Cox stood as Liberal Democrats candidate for Uxbridge and South Ruislip at the 2015 General Election but was not elected. 

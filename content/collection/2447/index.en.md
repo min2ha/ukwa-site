@@ -429,8 +429,6 @@
   "endDateText": ""
 }
 
-# Women's Issues
-
 This collection of web sites about women's issues was curated by the Women's Library at LSE (the London School of Economics and Political Science) <a href="http://www.lse.ac.uk/library/collections/featuredCollections/womensLibraryLSE.aspx">Women's Library</a>, in collaboration with the British Library inbetween 2005 and 2013. 
 
 The collection includes sites of women's organisations and campaigns, research reports, government publications and statistics pertaining to women, personal sites of women, such as blogs, and women focused e-zines.

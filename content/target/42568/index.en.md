@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Made in Brum MIB 
-
 Online version of Birmingham City Football Club fanzine Made in Brum

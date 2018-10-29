@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Dalziel St. Andrew’s Parish Church
-

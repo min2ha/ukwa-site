@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Harbury RFC (@HarburyRFC) on Twitter
-
 The official Twitter account of Harbury Rugby Football Club. Founded 1962. 
 Harbury is a village Rugby club that has, for years, 'punched' above its weight. 

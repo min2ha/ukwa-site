@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Newport History Society
-
 We are an active society researching the heritage of Newport Shropshire and its surrounding villages.

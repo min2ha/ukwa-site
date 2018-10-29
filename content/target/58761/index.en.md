@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Kilmory Camanachd on Facebook
-
 Facebook Page for a shinty club based at Lochgilphead, Argyll & Bute.

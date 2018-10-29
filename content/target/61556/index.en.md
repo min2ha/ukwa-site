@@ -10,5 +10,3 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Editions at Play: Breath by Kate Pullinger
-

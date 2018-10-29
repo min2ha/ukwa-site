@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Chris Williams 
-
 Chris Williams is an artist based in South Wales who makes sculptural work in wood. A recent commission was the 2018 Cardiff National Eisteddfod Chair.

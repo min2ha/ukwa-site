@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Nissan got a sweetheart deal. Under hard Brexit, everyone will want one
-

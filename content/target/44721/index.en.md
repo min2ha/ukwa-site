@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Berwin Leighton Paisner LLP: Brexit: what happens next?
-
 This guide explores the possible implications across several key areas of law and considers ways in which businesses can plan for the 'Brexit' potentially becoming a reality.

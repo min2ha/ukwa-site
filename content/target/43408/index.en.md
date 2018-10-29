@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Fisher Meredith Solicitors: EU referendum 'out' vote would hit many migrants in UK
-
 A blog post about the effect 'Brexit' would have on EU migrants.

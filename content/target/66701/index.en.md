@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge St. Machar No. 54
-
 Site of a masonic lodge located in Aberdeen and affiliated with the Grand Lodge of Scotland.

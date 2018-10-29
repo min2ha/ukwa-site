@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: A church in Pakistan is desperate for a UKIP election victory - but why? 
-
 None

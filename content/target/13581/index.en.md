@@ -10,6 +10,4 @@
   "start_date": "2014-09-19T07:00:00Z"
 }
 
-# Civil Service World
-
 <p>Website of the magazine for Civil Service managers and leaders.</p>

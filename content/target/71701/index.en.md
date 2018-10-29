@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Malton & Norton RUFC on Pitchero
-
 The official Twitter account of Malton V Norton Rugby Union Football Club.  Established 1953. Malton V Norton Rugby Union Football Club have become one of the first clubs in Yorkshire to be awarded the prestigious Rugby Football Union Seal of Approval and the Sport England Clubmark.

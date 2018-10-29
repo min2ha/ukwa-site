@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Helen Grayshan (@HelenGrayshan) on Twitter
-
 The Twitter profile of Helen Grayshan, the Scottish Green Party candidate for Dundee East in the UK General Election on the 7th May 2015.

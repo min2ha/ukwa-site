@@ -10,6 +10,4 @@
   "start_date": "2016-01-06T09:00:00Z"
 }
 
-# Shakespeare Lives
-
 Website run by the British Council promoting events and activities celebrating Shakespeare’s work marking the 400th anniversary of his death.

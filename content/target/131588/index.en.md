@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Surviving Thyroid Cancer
-
 This website has been created for your interest.  It is by no means medically endorsed or scientific.  It is merely an account of what happened to me and how it made me feel, both physically and emotionally.

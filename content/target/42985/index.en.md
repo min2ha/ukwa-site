@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Edinburgh Museums
-
 Site of covering thirteen varied museums and two hunderd monuments in the City of Edinburgh.

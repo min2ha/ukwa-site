@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Lodge Alexandra No. 1282
-
 Site of a masonic lodge located in Dennistoun, Glasgow and affiliated with the Grand Lodge of Scotland.

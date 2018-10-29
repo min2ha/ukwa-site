@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Inspired by History
-
 The project encourages participants to creatively explore collections held at Gwent and Glamorgan Archives to further their knowledge of the First World War. 

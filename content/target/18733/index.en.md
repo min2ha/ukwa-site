@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Magna Carta fetches £10m in New York auction
-

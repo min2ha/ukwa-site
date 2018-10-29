@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Gordon Dalton Artist
-
 Gordon Dalton is an artist, curator and writer from Middlesbrough but based in Cardiff.

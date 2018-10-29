@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  St. Peter's and St. Paul's RC Parishes, Paisley
-
 Site of two Scottish Roman Catholic parish churches located in Paisley, Renfrewshire.

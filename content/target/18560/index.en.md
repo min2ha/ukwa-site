@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roger Williams MP (@RogerWilliamsLD) on Twitter
-
 Welsh Liberal Democrat Member of Parliament for Brecon and Radnorshire.

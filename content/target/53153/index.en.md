@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Airlines UK: UK airlines set out manifesto asks for new Parliament
-
 Airlines UK, the industry association that represents UK-registered carriers, sets out a number of manifesto ‘asks’ ahead of the General Election in June 2017, with Brexit, taxation and airport capacity at the top of its list of priorities

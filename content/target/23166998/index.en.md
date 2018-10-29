@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Liscawn Inn
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# People Make Glasgow: Glasgow Live Music Events
-
 Music section of People Makes Glasgow, with listings of live music events.

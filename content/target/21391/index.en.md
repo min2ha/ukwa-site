@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Connarty | For Linlithgow and East Falkirk
-
 This is the website of Michael Connarty, the Labour Party candidate for Linlithgow and East Falkirk in the UK General Election on the 7th May 2015.

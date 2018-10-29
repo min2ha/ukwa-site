@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Britain First (@BritainFirst) on Twitter
-
 Britain First is a far-rightand British ultranationalistpolitical party and movement formed in 2011 by former members of the British National Party (BNP).The party was founded by Jim Dowson, an anti-abortion campaigner linked to Ulster loyalist groups in Northern Ireland. 

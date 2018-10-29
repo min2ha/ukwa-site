@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Kingussie Heritage Festival
-
 WordPress site for an annual festival focusing on the local history and heritage of Kingussie and Badenoch, run by the community for the community and attracting visitor from the rest of the country and abroad. It gives locals and visitors alike the chance to celebrate Kingussie’s heritage, sharing knowledge of the past with local historians, academics and the community.

@@ -10,5 +10,3 @@
   "start_date": "2016-07-21T10:00:00Z"
 }
 
-# Katherine J Grainger : Olympian and Public Speaker
-

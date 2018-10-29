@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Grampian Pride 
-
 Site of an LGBTQ+ pride event in Aberdeen.

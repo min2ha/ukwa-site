@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron 'peddling highly irresponsible scare stories' over EU referendum
-

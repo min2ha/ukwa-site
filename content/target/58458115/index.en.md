@@ -10,5 +10,3 @@
   "start_date": "2010-12-16T00:00:00Z"
 }
 
-# Flintshire Neighbourhood Watch Association
-

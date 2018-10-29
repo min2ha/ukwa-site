@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Dowlais Pony Improvement Society
-

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War Centenary
-
 Website for the First World War Centenary partnership, a global collaboration led by the Imperial War Museum (UK) and representing 59 countries. The website documents the activities performed by different not-for-profit organisations aimed at remembering the impact and significance of the First World War for individual communities. Includes events, research resources, press, funding information, and a web form for partner organisations to add their own events.

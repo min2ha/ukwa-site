@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: I resigned so I could tell the truth about Brexit – and what it will cost Britain to stay 
-
 Guardian, The

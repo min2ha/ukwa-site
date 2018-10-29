@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Bank of England Early Careers
-
 An information portal for people interested in starting a career at the Bank of England.

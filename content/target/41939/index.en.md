@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Huntingdonshire Liberal Democrats
-

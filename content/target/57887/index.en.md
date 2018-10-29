@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# Green Links of North Wales
-
 Green Links is a joint tourism project between Conwy County Borough Council and Denbighshire County Council, funded by RWE Innogy UK and partners, through Gwynt y Môr Offshore Wind Farm. Green Links brings together the walking, cycling and nature reserves along the North Wales coast between Llandudno and Prestatyn.

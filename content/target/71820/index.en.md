@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sidmouth Science Festival
-
 A week of family friendly science events which are educational as well as fun

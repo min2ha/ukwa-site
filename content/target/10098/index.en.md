@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Shahrar Ali Green Party on Twitter
-
 None

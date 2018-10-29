@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# National Film and Television School (NFTS)
-
 Official website of the National Film and Television School, Beaconsfield.

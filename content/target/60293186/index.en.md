@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Step Short - Remembering the Soldiers of the Great War
-
 <p>Describes the role of Folkestone and environs during WW1. Contains information about the Memorial Arch unveiled by Prince Harry on 4th August 2014. it describes the flow of troops and others from across the world who embarked at Folkestone Harbour for the Western Front.</p>

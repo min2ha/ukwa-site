@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Denholm Coates & Company Limited
-
 Denholm Coates & Company Limited is a shipbrokers specialising in bulkcarrier, project and offshore cargoes. The company is a subsidiary of The Denholm Group.

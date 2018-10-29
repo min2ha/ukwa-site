@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# Oldcopper
-
 Website owned by Vin Callcut on domestic copper and brass.  He is covering items made mostly during the period 1851-1951.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  BCC head John Longworth accuses David Cameron of peddling scare stories as he quits in Brexit row
-

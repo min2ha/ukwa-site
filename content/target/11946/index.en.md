@@ -10,5 +10,3 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Royal Institution, The (Ri)
-

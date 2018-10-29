@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# The Road Surface Treatments Association (RSTA)
-
 The Road Surface Treatments Association (RSTA) is the focal point for the road surface maintenance industry.

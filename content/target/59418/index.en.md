@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Stroke Hub Wales | Hwb Strôc Cymru
-
 Stroke Hub Wales was established in 2017 and is funded by the Welsh Government and aims to achieve a step-change in high-impact stroke research for the benefit of the health, wellbeing and prosperity of the people in Wales. It is based at Cardiff Metropolitan University.

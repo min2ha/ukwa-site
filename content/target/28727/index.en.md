@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Ken MacLeod (amendlocke) on Twitter
-
 Ken MacLeod posts a photograph of a Forth Bridge 125th anniversary cake in the window of Maisie's in South Queensferry.

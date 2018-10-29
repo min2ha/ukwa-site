@@ -10,6 +10,4 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# Sons Of The Soil 1451
-
 Site of a masonic lodge located in Aberdeen and affiliated with the Grand Lodge of Scotland.

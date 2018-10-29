@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Polwarth Parish Church 
-
 Website of the Polwarth parish Church, located on the Union Canal. 

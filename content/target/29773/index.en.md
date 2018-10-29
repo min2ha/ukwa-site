@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Serenity Cafe
-
 Serenity Cafe is a fully functional cafe and community hub for people in recovery. It is the first recovery cafe in the UK and also serves as a venue of the Edinburgh Fringe Festival.

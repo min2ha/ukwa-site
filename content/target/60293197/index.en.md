@@ -10,5 +10,3 @@
   "start_date": "2011-09-04T00:00:00Z"
 }
 
-# ICP Partneriaeth
-

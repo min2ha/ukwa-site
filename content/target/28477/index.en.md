@@ -10,6 +10,4 @@
   "start_date": "2015-06-27T10:00:00Z"
 }
 
-# British Institute of Graphologists (BIG)
-
 The British Institute of Graphologists (BIG) was founded in 1983 to establish an association of expert graphologists in Britain. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Border Kirk, The
-
 The website of The Border Kirk. 

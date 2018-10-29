@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Baptist Union of Wales
-
 <p>Christian	Baptist<br />
 Association of Baptist churches in Wales</p>

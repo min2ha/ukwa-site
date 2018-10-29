@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: How long will post-Brexit trade deal take?
-
 Comments on  the suggestion that the UK's most senior diplomat in Brussels has privately told the government that a final trade deal with the rest of the EU might not be done for 10 years, and might ultimately fail.

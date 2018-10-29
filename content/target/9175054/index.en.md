@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Modern Cornish
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dee Searle on Facebook (Green Party candidate for Tottenham)
-

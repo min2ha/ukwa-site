@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# London Photo Festival
-
 Festival that works with charities and arts organisations to promote and support emerging photography

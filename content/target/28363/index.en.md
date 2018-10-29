@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Suffolk Craft Society
-
 The Suffolk Craft Society was formed in 1970 to promote the value and importance of contemporary crafts.

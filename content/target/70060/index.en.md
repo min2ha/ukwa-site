@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# TUC Young Workers (@TUCYoungWorkers) on Twitter
-
 News and campaign info from the TUC Young Workers Forum 

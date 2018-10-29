@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: 'Don't insult us, Prime Minister. I'm voting "out"... and I refuse to toe the line:' Former Europe Minister David Davis on the EU referendum   
-

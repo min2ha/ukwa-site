@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum: Brexit campaign has the edge, says Telegraph poll
-

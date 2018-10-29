@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Cranleighan Rugby Football Club
-
 The official website of Old Cranleighan Rugby Football Club.

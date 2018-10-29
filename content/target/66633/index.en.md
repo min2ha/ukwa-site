@@ -10,5 +10,3 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Perthshire Society of Natural Science
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EuroPeers UK
-
 A network of people all around the UK who have taken part in study, volunteering or other educational projects funded by Erasmus+/EU youth programmes

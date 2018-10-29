@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Scottish Confederation of University and Research Libraries
-
 Site of a consortium of Scottish academic libraries.

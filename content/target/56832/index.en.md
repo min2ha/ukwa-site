@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Inky Fingers
-
 Site of a group of writers and performers of their original work.

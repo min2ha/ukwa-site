@@ -10,5 +10,3 @@
   "start_date": "2016-02-22T14:00:00Z"
 }
 
-# Planning Portal
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Southampton, Hampshire, Isle of Wight & Portsmouth
-
 None

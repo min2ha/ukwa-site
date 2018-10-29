@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  St. Salvador's Episcopal Church, Edinburgh
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Stenhouse, Edinburgh.

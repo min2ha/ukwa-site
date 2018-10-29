@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News : Osborne: We have 'clear mandate' for EU negotiations
-
 None

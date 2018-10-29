@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# LabourHame (@labourhame) on Twitter
-
 Twitter profile of LabourHame, a discussion blog for Labour Party members.

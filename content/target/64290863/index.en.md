@@ -10,6 +10,4 @@
   "start_date": "2012-07-19T00:00:00Z"
 }
 
-# WALES SEARCH
-
 Family History Research in North Wales

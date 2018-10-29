@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Brigid's Roman Catholic Parish
-
 Site of a Scottish Roman Catholic parish church located in Newmains, Lanarkshire.

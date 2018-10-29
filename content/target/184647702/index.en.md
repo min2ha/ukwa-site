@@ -10,5 +10,3 @@
   "start_date": "2013-08-22T00:00:00Z"
 }
 
-# Cerdd Gymunedol Cymru | Community Music Wales
-

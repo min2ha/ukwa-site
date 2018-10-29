@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Tathan Magazine: the official magazine of MOD St Athan
-

@@ -10,6 +10,4 @@
   "start_date": "2018-02-20T09:00:00Z"
 }
 
-# CivTech®: driving daring and innovation in the public sector
-
 The Civtech pilot organises "challenges" to produce products to address issues faced by the public sector, drawing on experience across public, private and academic groups, and from citizens; with the final aim of marketing these internationally.

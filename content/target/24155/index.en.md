@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour 'back to 1980s' after election loss - Mandelson
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-12-09T09:00:00Z"
 }
 
-# Stats Cymru | Stats Wales
-
 StatsWales is a free-to-use service provided by the Welsh Government that allows you to view, manipulate, create and download tables from Welsh data.

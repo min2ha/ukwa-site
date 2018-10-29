@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Britain’s EU referendum was an uprising against the austerity establishment
-
 An analysis of the EU Referendum result from the Socialist Party Scotland.

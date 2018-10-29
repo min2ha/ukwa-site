@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# London Motorcycle Museum
-
 London Motorcycle Museum opened in May 1999 at Oldfield Lane South, Greenford, Middlesex. A charitable trust, it displays a range of over 150 classic and British motorcycles. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband sees tax avoidance row as another 'Milly Dowler' moment
-
 None

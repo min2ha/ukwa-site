@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Vodafone Digital Parenting
-
 Online magazine on digital issues for parents.

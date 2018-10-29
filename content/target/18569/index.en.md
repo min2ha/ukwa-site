@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jo Stevens (@JoStevensLabour) on Twitter
-
 Jo Stevens is Labour Parliamentary Candidate for Cardiff Central. Trade union lawyer & director Thompsons Solicitors.

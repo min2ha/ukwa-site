@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# South Lanarkshire Leisure and Culture
-
 Site of an organisation facilitating access to cultural, leisure and sports facilities in South Lanarkshire, Scotland.

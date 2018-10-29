@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Josh Taylor (JoshTaylorBoxer) on Twitter
-
 <p>The twitter profile of althete Josh Taylor, light welterweight boxer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 26th February 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a committee of the whole House, debates amendments to the EU Withdrawal Bill related to foreign and security policy co-operation and the continued application of the Charter of Fundamental Rights to EU law.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour promises to cut tuition fees to £6,000
-
 None

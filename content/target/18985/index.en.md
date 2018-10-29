@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Why are there so many Magna Cartas?
-

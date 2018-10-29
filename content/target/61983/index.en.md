@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Birmingham City LFC (@BCLFC ) on Twitter
-
 The official Twitter feed of Birmingham City Ladies Football Club. 

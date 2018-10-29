@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Legendary Dartmoor
-
 A personal blog outlining the history of the Dartmoor landscape.

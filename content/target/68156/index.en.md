@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Frome Rugby Football Club
-
 Founded in 1883, Frome Rugby Football Club has been at the very heart of Rugby Union in Somerset.

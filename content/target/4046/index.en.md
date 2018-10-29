@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Conversation, The: Scottish independence
-

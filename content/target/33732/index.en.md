@@ -10,5 +10,3 @@
   "start_date": "2016-01-07T00:00:00Z"
 }
 
-# Guardian, The: Alarmingly for pollsters, EU referendum poll results depend heavily on methods
-

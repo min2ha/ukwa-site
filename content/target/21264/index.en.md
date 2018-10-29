@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Lucas (@IanCLucas) on Twitter 
-
 Labour parliamentary candidate for Wrexham.

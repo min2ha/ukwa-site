@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Elin Lisabeth
-
 Elin Lisabeth is an Illustrator, Painter and Image Maker based in Cardiff.

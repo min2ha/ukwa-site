@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Dundee Pride
-
 Site of the LGBTQ+ pride event staged in Dundee.

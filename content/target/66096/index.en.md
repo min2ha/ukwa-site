@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# Parliament Archives (@UKParlArchives) on Twitter
-
 Parliament is made up of the House of Commons and House of Lords which discuss laws and scrutinise government policies. www.parliament.uk

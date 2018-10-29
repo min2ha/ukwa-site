@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Rodwell Official Website
-
 <p>The offiical website of International Sevens Rugby Player, James Rodwell member fo Team England for the Glasgow 2014 Commonwealth Games.</p>

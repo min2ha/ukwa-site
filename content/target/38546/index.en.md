@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lindsay Brown (@lindsay83526522) on Twitter
-
 Twitter profile of Lindsay Brown, the RISE: Scotland's Left Alliance list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

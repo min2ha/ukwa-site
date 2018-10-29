@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Caribbean News Now!
-
 Caribbean News Now is the  Caribbean regional news, information and opinion and is the successor to Caribbean Net News (2003-2010). 

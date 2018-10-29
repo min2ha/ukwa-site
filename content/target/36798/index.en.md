@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Matters
-
 Prospect's members are engineers, scientists, managers and specialists in areas as diverse as agriculture, defence, education and children's services, energy, environment, heritage, shipbuilding, telecoms and transport. They are the largest union in the UK representing professional engineers. This is a temporary micro site to cover the Brexit referendum.

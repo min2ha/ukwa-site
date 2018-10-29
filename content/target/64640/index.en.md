@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Naken Interiors Ltd.
-
 Online retailers of homewares, furniture, wallpaper and floorcoverings based in Beccles, Suffolk

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mailonline: How witnessing violence harms children's mental health: The deadly school shooting in Florida could make your child ask: 'Will the same thing happen to me?' 
-
 News article about how witnessing violence has a negative imapct on the mental health of children. The internet and social media had increased exposure to violence 

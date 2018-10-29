@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barts Health NHS Trust
-
 None

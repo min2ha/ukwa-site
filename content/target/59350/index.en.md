@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Karl Davies
-
 Karl Davies is a Welsh landscape artist. Many of hid paintings are now held in private collections in Australia, Europe, Hong Kong and the USA.

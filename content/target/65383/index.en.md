@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Côr Meibion Abercynon
-
 Côr Meibion Abercynon was established in 1970 at the former Junction Hotel in Abercynon.

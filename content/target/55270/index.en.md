@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Natural Neighbourhoods
-
 Natural Neighbourhoods is a Bridgend County Borough Council initiative exploring the environment and green issues within the county.

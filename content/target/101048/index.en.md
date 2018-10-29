@@ -11,5 +11,3 @@
   "subject": "Smoking Ban UK 2007"
 }
 
-# Action on Smoking and Health (ASH)
-

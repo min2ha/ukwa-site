@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Sandy Preposterous Richardson : your independent MSP candidate for Scotland
-
 None

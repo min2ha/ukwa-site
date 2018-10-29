@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Comparing Brexiteers to Nazis and snake oil salesmen is proof our Sir Humphreys are ANYTHING but neutral 
-
 Argues that, despite protestations of neutrality, UK civil servants are committed to remaining as close as possible to the EU

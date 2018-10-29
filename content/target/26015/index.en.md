@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: osamund Pike as Bond? Ed Miliband is the man with the Midas touch
-
 None

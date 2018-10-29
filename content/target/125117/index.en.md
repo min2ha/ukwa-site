@@ -10,6 +10,4 @@
   "start_date": "2016-12-09T09:00:00Z"
 }
 
-# Picton Castle and Gardens
-
 Picton Castle is a Pembroekshire stately home.

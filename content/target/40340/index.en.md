@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# History and Heritage of Gargrave, The 
-
 To research and display the WW1 history of Gargrave.

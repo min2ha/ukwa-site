@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Juncker: EU won’t ‘meddle’ in Italy’s affairs
-
 Jean-Claude Juncker threw the new populist government in Rome an olive branch, warning that Brussels and “German-speaking countries” must not repeat the error made during the Greek crisis by reading stern lectures to the Italian people.  The president of the European commission said that, while he had been tempted to intervene during the recent political impasse in Italy, he was determined not to feed the populist narrative: that the EU is meddling in domestic affairs.
 
 

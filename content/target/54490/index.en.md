@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jack Monroe: We need to talk about Diane Abbott. Now. 
-
 A blog post about Diane Abbot on what is usually a recipe website.

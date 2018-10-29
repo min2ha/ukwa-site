@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Strathaven Rugby Football Club
-
 Site of a Scottish rugby union football club located in Strathaven, Lanarkshire.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Kent in WW1
-
 The project will create an interactive website celebrating, bringing together and creating "one click" access to the heritage of the coastal communities in Kent in World War I (WWI).

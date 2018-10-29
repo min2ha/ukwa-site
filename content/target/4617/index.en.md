@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Left Foot Forward: Three things we disagreed with Mandela on
-
 <p>A short article on the left-wing political blog Left Foot Forward by James Bloodworth. The post is critical of Mandela's record on privitisation, honouring of Indonesian President Suharto and current record of the ANC.</p>

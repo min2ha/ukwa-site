@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# C of E Newspaper (@churchnewspaper) on Twitter
-
 The latest religious news from the CEN, the world's oldest religious newspaper. Download the CEN app on iTunes for the full stories 

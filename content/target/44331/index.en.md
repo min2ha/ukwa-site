@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Mark Carney to hand notes of pre-Brexit vote talks with chancellor to MPs
-
 Guardian, The

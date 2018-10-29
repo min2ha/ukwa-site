@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Muscle Bodybuilding Forum
-
 UK Muscle Bodybuilding Forum is an online enthusiast community concerned with bodybuilding. Discusses Steroid and Testosterone information,Supplementation, Bodybuilding shows, Diet and Nutrition, Training Information and various other related topics.

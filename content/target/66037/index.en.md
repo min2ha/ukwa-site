@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Notgrove Holidays
-
 Cotswold Glamping Pods and Luxury Holiday Cottages on the Notgrove Estate, Near Northleach, Bourton on the Water, Gloucestershire.

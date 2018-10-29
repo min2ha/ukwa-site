@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: Financial Services
-
 The financial services industry constitutes around 7% of UK GDP, directly
 employs 1.1 million people, two-thirds of them outside London, and
 contributes a significant proportion of tax revenue. Avoiding major disruption

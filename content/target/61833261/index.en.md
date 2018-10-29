@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Lowri Davies Ceramics
-
 Lowri Davies is from Aberystwyth. Her Welsh heritage is a major source of inspiration in her ceramic work.

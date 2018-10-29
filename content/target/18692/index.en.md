@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Rare 1217 copy of Magna Carta leaves Britain for the first time to go on view at Houston museum
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Some Poles will vote Ukip, says country's ambassador
-
 None

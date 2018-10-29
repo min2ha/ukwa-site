@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# BLUEMOMENT UK Sail Cruising Forum
-
 An online enthusiast forum concerned with sailing. Discusses sailing gear, weather, technical issues and various other topics. 

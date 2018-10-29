@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St Dennis
-
 This is a community website for the village of St.Dennis in Cornwall.

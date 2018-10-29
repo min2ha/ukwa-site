@@ -11,6 +11,4 @@
   "subject": "Slavery and Abolition in the Caribbean"
 }
 
-# National Museums Liverpool: International Slavery Museum
-
 one off crawl

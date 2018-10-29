@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Royal College of Paediatrics and Child Health: Political parties make manifesto pledges on child health ahead of General Election
-
 The Royal College of Paediatrics and Child Health (RCPCH) was founded in 1996. The College comprises over 16,000 members who live in the UK, Ireland and abroad and plays a major role in postgraduate medical education, as well as professional standards.

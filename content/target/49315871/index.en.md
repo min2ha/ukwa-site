@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Words in company
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# Sandbank Community Development Trust
-
 Site of a community development trust established to promote the amenities, business opportunities and visits to the community of Sandbank, on the Cowal peninsula, Argyll & Bute, Scotland.

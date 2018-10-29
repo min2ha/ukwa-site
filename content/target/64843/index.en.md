@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Scots Kirk
-
 Site of a Church of Scotland church in Colombo, Sri Lanka.

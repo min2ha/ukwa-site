@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour seeks to reinvent itself in public mind as party of fiscal caution
-
 None

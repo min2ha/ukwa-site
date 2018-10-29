@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Beer and selfies on Farage campaign trail
-
 None

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Mametz Wood Photography by Rob Hudson
-
 Exhibition by Rob Hudson reflecting on the horrors of the battle of Mametz Wood during the First World War.

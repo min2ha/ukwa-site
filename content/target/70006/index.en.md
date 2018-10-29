@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# John Abell Artist, Vagabond, Part Time Dandy
-
 John Abell is is a visual artist from Cardiff most identifiable for his collection of eclectic wood block prints exploring life, love, lust and the human condition.

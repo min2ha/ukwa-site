@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Drake Music Scotland
-
 Site of an arts organisation providing music making opportunities for people with disabilities using expertise in inclusive music technology and specialist teaching methods to support people of all ages and a wide range of disabilities to play, learn and compose music independently.

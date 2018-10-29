@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Welsh Communists on Facebook
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: 100 days to General Election: David Cameron promises 'fair' benefits squeeze
-
 None

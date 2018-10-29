@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Jeremy Corbyn and the EU referendum
-
 Opinion by Jeremy Corbyn on the EU referendum

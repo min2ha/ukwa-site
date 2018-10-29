@@ -10,6 +10,4 @@
   "start_date": "2016-03-23T09:00:00Z"
 }
 
-# Kilt Walk
-
 Site for the annual children's charity event taking place throughout Scotland.

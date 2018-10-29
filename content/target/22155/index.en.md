@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Brown (Labour Politician)
-
 Nicholas Brown stood as Labour candidate for Newcastle upon Tyne East at the 2017 General Election and was elected to serve as MP. He has held the same seat since 1983.

@@ -10,5 +10,3 @@
   "start_date": "2017-08-11T09:00:00Z"
 }
 
-# Scottish Paralegal
-

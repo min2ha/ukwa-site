@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Friends of Highland Road Cemetery
-
 Friends of Highland Road Cemetery in Portsmouth are a group of volunteers who are dedicated to the upkeep and promotion of the cemetery. They offer guided walks on several weekends each year and carry out research into the people buried there.

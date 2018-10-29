@@ -195,6 +195,4 @@
   "endDateText": ""
 }
 
-# History of Libraries Collection
-
 A collection focused on library related activities in the UK.

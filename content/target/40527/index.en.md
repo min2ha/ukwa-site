@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Forfar Athletic Football Club
-
 Site of a senior Scottish football club based in Forfar.

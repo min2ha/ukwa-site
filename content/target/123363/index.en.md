@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# History.uk.com
-
 Website dedicated to the history of Great Britain.

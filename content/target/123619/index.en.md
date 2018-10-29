@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Deer Collisions Project
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Public Strategist
-
 Public Strategist is a blog covering UK government service and digital strategies - including archiving of government documents.

@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# British Antarctic Survey (BAS)
-
 The British Antarctic Survey (BAS) is the United Kingdom's national Antarctic operation and has an active role in Antarctic affairs. BAS is part of the Natural Environment Research Council (NERC) and has over 400 staff. It operates five research stations, two ships and five aircraft in and around Antarctica.

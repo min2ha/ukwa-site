@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scotland's Healthy Animals
-
 A group of organisations with responsibility for animal health in Scotland.

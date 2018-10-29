@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# W.R.C. Barnes: Nationalism Post-Brexit
-
 A personal response to the result of the EU referendum held in June 2016.

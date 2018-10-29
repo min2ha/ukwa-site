@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron: I won't take lectures from Miliband about low-paid workers
-
 None

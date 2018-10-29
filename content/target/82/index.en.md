@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ashford & St Peter's Hospitals
-
 None

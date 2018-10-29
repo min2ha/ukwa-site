@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Mark Brake
-
 Mark Brake is a freelance author, broadcaster, and communicator of science and one of the notable academics in the European Science Communication Network. He was previously Director of the Science Communication Research Unit at the University of Glamorgan. 

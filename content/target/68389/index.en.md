@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  What do European governments want from the EU Summit?
-
 Discusses what different countries wanted from the June 2018 EU summit and where  Brexit stood in their priorities.

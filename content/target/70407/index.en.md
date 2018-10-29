@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# One Love Festival
-
 Reggae and ska camping festival

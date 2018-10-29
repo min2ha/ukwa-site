@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Brexit fanatics are at the helm, but don’t despair - this is not over
-

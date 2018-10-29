@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Walk Islay
-
 Site of an annual walking event taking place across Islay, Jura and Colonsay, with walks to take in the beautiful island scenery, from beaches and lochs to mountains, moors and wildlife.

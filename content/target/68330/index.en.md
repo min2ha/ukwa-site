@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# MonDean Walking Festival
-

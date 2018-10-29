@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Unmind (@unmindhq) on Twitter
-
 Twitter account of mental health platform Unmind, which provides mental health tools and training for organisations

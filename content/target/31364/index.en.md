@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Lineal Software Solutions
-
 Lineal Software Solutions is a UK IT company based in Barnstaple, Devon.

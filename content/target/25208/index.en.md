@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Conservatives are too right wing to win the election says Tory heavyweight Ken Clarke 
-
 None

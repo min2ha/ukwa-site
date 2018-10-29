@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Scifi Wales
-
 SciFi is North Wales' premier science fiction event, held each year in Llandudno.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-20T09:00:00Z"
 }
 
-# CARISCC: Caribbean In/securities: Creativity and Negotiation in the Caribbean
-
 CARISCC is a Leverhulme Trust-supported interdisciplinary research network which focuses on the interactions between two everyday arenas that are rarely summoned together: the precariousness of insecure livelihoods and neighbourhoods, and the negotiation of risk in cultural production, or creativity.

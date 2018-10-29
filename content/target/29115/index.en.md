@@ -10,6 +10,4 @@
   "start_date": "2015-10-04T10:00:00Z"
 }
 
-# Blairgowrie, Rattray & The Glens Book Festival
-
 Blairgowrie, Rattray & The Glens Book Festival

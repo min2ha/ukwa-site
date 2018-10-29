@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# MPs for Brexit page on Facebook
-
 A facebook page presenting UK MPs in favour of Brexit

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John’s Church, Penge
-
 St John the Evangelist Penge is situated in the urban fringe of South East London. 

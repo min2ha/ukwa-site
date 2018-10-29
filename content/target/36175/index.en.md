@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fabio Villani | Co-convenor of Scottish Green Party – Highlands & Islands
-
 Fabio Villani is the Scottish Greens candidate for the Highlands and Islands list in the 2016 Scottish Parliament election.

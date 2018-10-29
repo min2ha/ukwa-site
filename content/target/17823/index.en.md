@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Ed Balls: I always get a receipt for getting my hedge cut
-
 None

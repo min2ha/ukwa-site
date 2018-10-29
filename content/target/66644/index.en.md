@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Maxi Warehousing Limited
-
 The website of Maxi Warehousing Limited, a storage company headquartered in Irvine, Scotland. The company is part of the group Maxi Caledonian Limited.

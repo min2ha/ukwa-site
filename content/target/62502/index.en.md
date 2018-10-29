@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Don't let unpatriotic politicians betray our fishermen again
-
 Membership of the EU Common Fisheries Policy has led to over-fishing of British waters and the ruin of the fishing industry in England. The UK must not agree to continued membership after Brexit in exchange for access to EU markets by British banks.

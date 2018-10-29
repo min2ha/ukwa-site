@@ -11,5 +11,3 @@
   "subject": "Energy"
 }
 
-# Marine Energy at the University of Southampton, UK
-

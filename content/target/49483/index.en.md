@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Polka Theatre
-
 Polka is one of the few theatres in the UK dedicated exclusively to children. Based in Wimbledon since 1979, Polka creates theatre to entertain and inspire young audiences.

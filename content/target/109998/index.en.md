@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# UK Independence Party (UKIP)
-
 UKIP is a Eurosceptic and right-wing populist political party in the United Kingdom. It is headquartered in Newton Abbot, Devon. UKIP has one Member of Parliament in the House of Commons, three representatives in the House of Lords, and twenty-two Members of the European Parliament, making it the largest UK party in the European Parliament. It has 488 councillors in UK local government and seven members in the National Assembly for Wales.

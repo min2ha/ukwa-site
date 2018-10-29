@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Women's History 
-
 Women's History is a project run by Eastside Community Heritage.

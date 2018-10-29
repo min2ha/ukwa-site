@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: George Osborne promotes pensioner bonds in Tory campaign letters
-

@@ -10,6 +10,4 @@
   "start_date": "2017-06-24T09:00:00Z"
 }
 
-# Arsyllfa Sgiliau De Ddwyrain Cymru | South East Wales Skills Observatory (SEWSO)
-
 The South East Wales Skills Observatory (SEWSO)is the regional skills partnership for South East Wales, and assists in the production and analysis of labour market information, regional skills plans and reviews of regional skills provision.

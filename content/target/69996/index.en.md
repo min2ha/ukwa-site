@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# National Library of Wales Blog
-
 This is a blog about the work and collections of the National Library of Wales.

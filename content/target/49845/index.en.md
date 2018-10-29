@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Time to Commit to Women Campaign
-
 This campaign is organised by Reclaim the Agenda which is a collective of women sector representatives, grassroots feminist activists, trade union activists and interested individuals. During the Assembly 2017 election they lobbied the candidates.

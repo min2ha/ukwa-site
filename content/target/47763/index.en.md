@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The unelected 'activist' judges who mounted a 'power grab': High Court trio who blocked Brexit are led by one who founded group dedicated to furthering European integration    
-

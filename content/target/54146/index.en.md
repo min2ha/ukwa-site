@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Welcome to Llandrindod Wells
-
 A tourist information guide to Llandrindod Wells in Powys.

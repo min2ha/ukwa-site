@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Intensive Care National Audit & Research Centre
-
 ICNARC help critically ill patients by providing information/feedback about the quality of care to those who work in critical care.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# From jute, jam and journalism to video games and the V&A: the transformation of Dundee
-
  Article about the opening of the V&A Dundee. 

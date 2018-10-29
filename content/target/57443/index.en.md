@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Yarn Festival
-
 Site of a festival celebrating all things related to yarn, wool and hand-knitting, crochet, spinning, weaving and felting and located in Edinburgh, Scotland.

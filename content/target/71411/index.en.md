@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Rutlishians' Rugby Football Club / Old Ruts Rugby
-
 The official website of Old Rutlishians' Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: From ‘calm down, dear’ to ladies’ champion - how David Cameron has solved his ‘woman problem’ overnight
-
 None

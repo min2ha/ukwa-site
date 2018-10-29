@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Chippy Lane Productions
-
 Chippy Lane Productions Ltd. was eastablished by Rebecca Jade Hammond, a Cardiff born actor, writer and producer. The aim is to promote Welsh Theatre to audiences in and beyond Wales. 

@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Wilton's: The City's hidden Stage
-
 None

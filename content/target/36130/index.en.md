@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cheryl Scott (@djcheryl1) on Twitter
-
 Twitter profile of Cheryl Scott, Solidarity Scotland candidate for the South Scotland regional list in the 2016 Scottish Parliament election.

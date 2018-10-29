@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# PI Media: Brexit: a European view
-
 The opinions of a EU immigrant on the Brexit debate

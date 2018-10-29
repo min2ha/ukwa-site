@@ -10,6 +10,4 @@
   "start_date": "2017-04-21T09:00:00Z"
 }
 
-# Nos Sadwrn yn y Blac: Hanes Chwedegau yn y Blac Leion
-
 The site is a history of music gigs at the Black Lion, Cardigan during the 1960's.

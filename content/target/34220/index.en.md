@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Industrial Workers of the World
-

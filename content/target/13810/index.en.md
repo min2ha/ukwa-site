@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# NHS Together (NHSTogetherUK) on Twitter
-

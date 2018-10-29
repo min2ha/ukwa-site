@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Chwaraeon Conwy | Sport Conwy
-
 Sport Conwy is the voluntary forum for sports organisations in Conwy and the representative body of up to 80 affiliated sports clubs and organisations.

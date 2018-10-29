@@ -10,5 +10,3 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Scotland's Financial Health Service
-

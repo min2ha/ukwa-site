@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Commons Northern Ireland Affairs Committee: Brexit and Northern  Ireland: Fisheries
-
 The report welcomes proposed changes to the fishing quota, but warns that on their own they will be insufficient to bring back full benefits to local communities. The Committee calls on the Government to invest in the Northern Ireland fishing sector and act to tackle crushing manpower shortages. The report also warns that the Government must be prepared to take decisions on fisheries policy for Northern Ireland post-Brexit if there is no Executive in place to do so.
 
 

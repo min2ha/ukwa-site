@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory tactical votes 'could save Jim Murphy's seat'
-
 None

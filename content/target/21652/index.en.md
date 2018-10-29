@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron may have opened door to leadership challenges, Tories warn
-
 None

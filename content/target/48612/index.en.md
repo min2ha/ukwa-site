@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Back Article 50, Corbyn to tell Labour MPs
-
 Jeremy Corbyn said he would ask his MPs to vote for the Article 50 Brexit process to begin, if the government was forced to seek Parliament's approval by the Supreme Court

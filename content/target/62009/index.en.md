@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: He stood there in the crypt like some creepy undertaker: QUENTIN LETTS watches Sir John Major serve a banquet of duplicity
-
 Comments on John Major's Somerset House speech in which he called for a second referendum on leaving the EU.

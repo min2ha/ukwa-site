@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: Trowbridge's Magna Carta baron unveiled after 800 years
-

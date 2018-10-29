@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Barnet Museum
-
 Barnet Museum is a free local history Museum in North London run by volunteers. The Museum’s collection contains hundreds of artefacts reflecting the history of Barnet and those that have lived there, dating from the Bronze Age to the present day. There is also an extensive archive, and we are a centre for local and family history research.

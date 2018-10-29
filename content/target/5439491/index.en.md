@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Dorothy King's PhDiva
-
 Blog and online publications site of Dr Dorothy King, a London-based specialist on Greek architectural sculpture.

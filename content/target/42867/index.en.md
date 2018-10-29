@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Ladies Fly Fishing Association
-
 Site of a Scottish organisation promoting angling as a sport to Scottish women.

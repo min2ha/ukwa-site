@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alison Dickie
-
 Alison Dickie is the Scottish National Party candidate for the Edinburgh Central constituency in the 2016 Scottish Parliament election.

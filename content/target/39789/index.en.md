@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Livingston East SNP (@LiviEastSNP) on Twitter
-
 Twitter profile of the Livingston East branch of the Scottish National Party (SNP).

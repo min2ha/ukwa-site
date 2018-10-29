@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Barroso: Tory majority election win boosts chances of EU renegotiation
-
 None

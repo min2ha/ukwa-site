@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dennis Robertson SNP on Facebook
-

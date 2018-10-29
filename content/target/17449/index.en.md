@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# APSCo: Manifesto for 2015 & Beyond
-
 Association of Professional Staffing Companies.

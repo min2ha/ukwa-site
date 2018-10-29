@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester United F.C.
-
 Manchester United Football Club is a professional football club based in Old Trafford, Greater Manchester, England.

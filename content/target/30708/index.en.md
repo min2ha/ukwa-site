@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Manchester Universal Academy
-
 Official website of Manchester Universal Academy.

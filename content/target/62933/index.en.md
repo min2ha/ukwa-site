@@ -10,7 +10,5 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# GW4 - Delivering Globally Competitive Research Together
-
 "GW4 is a collaboration between the University of Bath, the University of Bristol, Cardiff University & the University of Exeter. 
 the GW4 Alliance brings together world-leading scholarship, infrastructure and expertise from the 4 Universities. The consortium is also known as GW4 Alliance or Great Western 4."

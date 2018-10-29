@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# BBC: 60 street parties will be held to mark Queen's birthday
-
 There will be about 60 street parties in Wales as people celebrate the Queen's 90th birthday on the weekend of 10 June.

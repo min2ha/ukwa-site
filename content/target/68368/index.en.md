@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# ScottishBrewing.com.
-
 Portal about Scottish craft brewing and brewing heritage.

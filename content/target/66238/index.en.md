@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-#  Aberdeen Synagogue and Jewish Community Centre
-
 Site of a synagogue, Jewish community centre and its congregation located in Aberdeen.

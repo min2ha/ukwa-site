@@ -10,7 +10,5 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# United Kingdom Maritime Pilots' Association
-
 The U.K.P.A. was founded in Bristol by Captain George Cawley in 1884. Pilots from 18 Districts attended its Inaugural Conference, with observers from Spain, Denmark and the U.S.A.
 Its objective was to influence the development of Pilotage and Associated Regulations, including Acts of Parliament, and to help those members around the country who found themselves in difficulty (but it was not a Friendly Society as such).

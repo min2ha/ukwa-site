@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Cycling UK Forum
-
 An online enthusiast community forum concerned with cycling. Discusses general cycling advice, bike equipment, health and fitness, family cycling, racing, mountain biking and various other related topics.

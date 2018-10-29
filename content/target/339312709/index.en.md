@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Sculpture Cymru
-
 Sculpture Cymru is an organisation of sculptors living and working in Wales. 

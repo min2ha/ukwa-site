@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Edward Garnier (Conservative)
-
 Sir Edward Garnier stood as Conservative candidate for Harborough at the 2015 General Election. He was first elected to serve as MP for Harborough in 1992 and re-elected in 2015. 

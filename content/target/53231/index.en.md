@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Politics and Insights 
-
 An online community to build solidarity; for discussing prefigurative politics & insights to counter the right-leaning, neoliberal mainstream media.

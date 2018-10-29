@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Nail Angel Forum
-
 An online enthusiast community concerned with nail art. Discusses advice and  techniques related to nail art.

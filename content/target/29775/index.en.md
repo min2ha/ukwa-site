@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Voodoo Rooms, The
-
 The Voodoo Rooms is an Edinburg-based nightclub and venue. It acted as venue 68 for the Edinburgh Fringe Festival 2015.

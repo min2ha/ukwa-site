@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Church, Streatham
-
 St Peter’s is a parish church serving the local community in Streatham and West Norwood. A modern anglo-catholic parish in the Diocese of Southwark and within the Church of England.

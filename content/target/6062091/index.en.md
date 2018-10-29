@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Tom Henderson Smith - Cornish Artist
-
 None

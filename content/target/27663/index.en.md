@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Liam Byrne FINALLY admits leaving 'no money' note was wrong: Former Labour treasury minister claims he has 'burnt with shame' for five years
-
 None

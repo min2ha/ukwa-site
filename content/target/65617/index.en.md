@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: David Miliband is branded a 'wrecker who doesn't even live in the UK' after he wades into British politics after five years away to call for the UK to stay in the EU single market post Brexit  
-

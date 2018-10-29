@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: SNP dismisses IFS warning over full financial control
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Patrick Hughes (Reverspective Ltd)
-
 British artist famous for sculptured reverse perspective paintings

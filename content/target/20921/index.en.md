@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Women's International League for Peace and Freedom United Kingdom: WILPF UK's 2015 Election Manifesto
-

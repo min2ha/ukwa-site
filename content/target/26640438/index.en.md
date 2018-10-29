@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Modern Theatre Blog: The Peggy Ramsay and Harold Pinter Archives
-

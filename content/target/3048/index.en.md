@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Edinburgh International Book Festival
-
 The Edinburgh International Book Festival began in 1983 and is now a key event in the August Festival season, celebrated annually in Scotland's capital city. 

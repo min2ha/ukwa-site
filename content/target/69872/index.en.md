@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sacred Heart Church Penicuik
-
 Site of a Scottish Roman Catholic parish church located in Penicuik, Midlothian, with its associated church St. Margaret's. Loanhead.

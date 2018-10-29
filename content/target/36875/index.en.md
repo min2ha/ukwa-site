@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Bank of England Governor should consider quitting over his warning Brexit is the 'biggest domestic risk' to the UK economy, leading Eurosceptic MP claims  
-

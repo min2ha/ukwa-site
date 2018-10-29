@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Emma McClarkin (Conservative MEP for East Midlands)
-
 Official Website of Emma McClarkin, Conservative MEP for East Midlands

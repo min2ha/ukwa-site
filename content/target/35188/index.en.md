@@ -10,6 +10,4 @@
   "start_date": "2016-02-12T09:00:00Z"
 }
 
-# Morag Colquhoun
-
 Morag Colquhoun teaches at Cardiff School of Art and Design. Her art involves sculpture, photography, installation, performance, video, textiles and curatorial practice.

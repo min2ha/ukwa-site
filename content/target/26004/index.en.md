@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage bullish ahead of Ukip general election campaign – video
-
 None

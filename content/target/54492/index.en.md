@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Engaging Networks 
-
 Engaging Networks is a software platform for charities. 

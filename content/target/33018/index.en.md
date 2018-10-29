@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Econsultancy
-
 Econsultancy is an online community for digital marketing and ecommerce professionals to discuss strategy and share ideas. It includes a blog.

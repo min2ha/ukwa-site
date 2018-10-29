@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Albert Owen MP/AS, Labour Party
-
 Albert Owen is the Labour for Ynys Mon.

@@ -10,7 +10,5 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Travellers' Times
-
 The Travellers' Times website brings you the latest news, pictures, films, features & information from and for Gypsy, Roma and Traveller communities.
 It is a Rural Media project.

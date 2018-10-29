@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Lawyers for Britain: Chequers White Paper Briefing No. 1: ECJ Jurisdiction
-
 European law expert Martin Howe QC warns that under the White Paper terms, the European Court of Justice (ECJ) “will have direct jurisdiction to bind the UK to make its law comply with the EU rulebook”. Rather than restoring the supremacy of British courts, the Government’s plans would make the UK “subservient” to the EU. 

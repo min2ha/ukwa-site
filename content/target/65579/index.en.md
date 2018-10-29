@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Club Managers Association of Europe (CMAE)
-
 The Club Managers Association of Europe (CMAE) is a non-profit making professional association with members involved in the management of sports clubs (golf, tennis, sailing and other sports), health & fitness clubs, leisure, city and dining clubs located throughout Europe, Middle East and North Africa.  

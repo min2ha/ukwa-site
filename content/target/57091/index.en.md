@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# British Virgin Islands News
-
 BVI News, bvinews.com, an up-to-the-minute daily online-only newspaper, was established in 2006. 

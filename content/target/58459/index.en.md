@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sound Thought
-
 Site of a festival of music and sound research composition and performance stages in Glasgow.

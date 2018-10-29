@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# International Futures Forum (IFF)
-
 International Futures Forum (IFF) is developing a body of ideas and philosophy about how to make sense of today’s complex world. They share that thinking widely as a contribution to the global intellectual commons. 

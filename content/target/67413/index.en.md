@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# EPP (Education programmes for patients | Rhaglenni addysg i gleifion) Cymru
-
 EPP (Education programmes for patients) provides a range of self-management health and well being courses and workshops for people living with a health conditions or for those who care for someone with a health condition.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: SNP's Nicola Sturgeon promises to reform Westminster for all in UK
-
 None

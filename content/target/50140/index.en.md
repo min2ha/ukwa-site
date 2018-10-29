@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cyncoed Ministry Area
-

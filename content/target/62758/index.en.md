@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 14th March 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a committee of the whole House, continues to discuss amendments to the European Union (Withdrawal) Bill, focusing on continued membership post-Brexit of the European Investment Bank and the European Investment Fund, defence of young people's rights to work and study in Europe, and protection of the reunion rights of refugee families.

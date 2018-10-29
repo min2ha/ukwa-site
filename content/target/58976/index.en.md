@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Edinburgh Central Mosque
-
 Site of a Islamic place of worship located in central Edinburgh.

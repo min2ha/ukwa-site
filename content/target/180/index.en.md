@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal United Hospital Bath
-
 None

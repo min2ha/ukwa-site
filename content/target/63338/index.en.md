@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# British Science Association (BSA): Stephen Hawking
-
 The British Science Association (BSA) is a charity, founded in 1831. Their mission is to support, grow and diversify the community of people interested and involved in science; and to strengthen their influence over science's direction and place in society.  This is an article about the passing of Stephen Hawking.

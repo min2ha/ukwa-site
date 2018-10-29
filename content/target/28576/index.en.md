@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Tremeirchion Cwm Waen
-
 Tremeirchion Cwm Waen is in Denbighshire and includes villages include Rhuallt, Cwm and Tremeirchion.

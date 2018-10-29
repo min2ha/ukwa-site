@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Age Cymru: The 2016 Assembly election
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Culross Abbey, Culross and Torryburn Church
-
 Site of a Church of Scotland parish and abbey church at Culross, Fife, serving the town and Torryburn.

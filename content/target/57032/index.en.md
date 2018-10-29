@@ -10,6 +10,4 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# Soccerex (@Soccerex) on Twitter
-
 Soccerex is an organisation that runs global events for the football industry, based in London. This is their official Twitter profile.

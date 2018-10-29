@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Muir Construction Limited
-
 The website of Muir Construction Limited, an Inverkeithing-based construction company. The company is part of J W Muir Group plc.

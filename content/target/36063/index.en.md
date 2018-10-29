@@ -10,5 +10,3 @@
   "start_date": "2016-02-26T09:00:00Z"
 }
 
-# Vagabond Voices
-

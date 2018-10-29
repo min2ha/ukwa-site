@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# University of Strathclyde Sports Union
-
 Site of the students' sports union at the University of Strathclyde, Glasgow, representing the students participating in Strathclyde Sports Union clubs and activities and assisting and enhancing promotion, development and organisation of Sports Union activities, events and initiatives.

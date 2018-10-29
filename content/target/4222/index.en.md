@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Business for Scotland
-
 Business for Scotland is a co-operatively owned business network for pro-independence business people and professionals.

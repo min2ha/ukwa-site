@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Woman and Her Sphere
-
 Website run by Elizabeth Crawford – researcher, writer and dealer in books and ephemera. She focuses on publications relating to the history of the women and the suffrage.

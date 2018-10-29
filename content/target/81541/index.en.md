@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Ynni Da
-
 Ynni Da was established in 2011 and are based in Llanelli. They have been supporting schools with energy workshops, numeracy & data opportunities, and inspiring educational support since 2011.

@@ -10,5 +10,3 @@
   "start_date": "2014-11-03T00:00:00Z"
 }
 
-# Richard Burton Museum
-

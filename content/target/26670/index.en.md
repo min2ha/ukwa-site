@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP's Mhairi Black: People are angry at Labour and really wanted change
-
 None

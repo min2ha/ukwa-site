@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Largs and District Historical Society 
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern & Yorkshire Cancer Registry and Information Service
-
 None

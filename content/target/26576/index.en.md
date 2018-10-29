@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green groups welcome Amber Rudd's appointment as climate secretary
-
 None

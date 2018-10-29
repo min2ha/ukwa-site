@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Jura Music Festival
-
 Site of a Scottish traditional music festival located on the island of Jura, Argyll & Bute, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Juxtapozed: Music in Welsh
-
 A Welsh music blog by Teleri Glyn Jones, a broadcast journalism student at Cardiff university.

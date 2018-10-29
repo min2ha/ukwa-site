@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bolton News, The
-
 None

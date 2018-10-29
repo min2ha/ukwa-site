@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Natalie McGarry - SNP Candidate for Glasgow East
-
 This is the website of Natalie McGarry, the Scottish National Party (SNP) candidate for Glasgow East in the UK General Election on the 7th May 2015.

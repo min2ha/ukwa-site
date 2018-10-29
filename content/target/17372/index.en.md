@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Institution of Civil Engineers: A Manifesto for Infrastructure - General Election 2015
-
 Established in 1818 and with over 85,000 members
 worldwide, ICE is a leading source of expertise in
 infrastructure and engineering policy and is widely seen

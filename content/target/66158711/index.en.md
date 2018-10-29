@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# SportsPsychologist.co.uk
-
 None

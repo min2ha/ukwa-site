@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Revealed: What Ed Miliband's team really thinks about Tony Blair
-
 None

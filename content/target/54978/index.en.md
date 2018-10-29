@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# 10 Greek Street
-
 10 Greek Street is a bustling, neighbourhood restaurant in the heart of Soho. Featuring a daily changing, seasonal menu and an evolving, exciting wine list without ridiculous mark-ups.

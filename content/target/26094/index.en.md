@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lord Ashcroft basks in limelight as his polls look set to transform election
-
 None

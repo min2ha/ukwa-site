@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Caledonian Railway Association Forum
-
 A forum dedicated to discussing the Caledonian Railway 

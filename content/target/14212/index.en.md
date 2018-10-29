@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Anffyddiaeth
-
 <p>Welsh language site which describes itself as being in favour of atheism, secularism, freedom of expression, civil rights and against religion, superstition, unreason, pseudoscience and prejudice.</p>

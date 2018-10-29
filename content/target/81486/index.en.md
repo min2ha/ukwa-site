@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# British Democrats (@BrDemocrats) on Twitter
-
 The official Twitter account of British Democrats.

@@ -10,5 +10,3 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Codi Arian Ganolfan Felindre | Velindre Cancer Centre Fundraising 
-

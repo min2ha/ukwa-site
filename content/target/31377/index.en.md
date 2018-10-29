@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Dressage Supporters Club
-
 The British Dressage Supporters Club focuses on the fund raising events to support dressage at all levels in the UK.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# New Life International Church
-
 Site of an Apostolic Christian church located in Aberdeen.

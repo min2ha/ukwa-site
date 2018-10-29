@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Worshipful Company of Turners
-
 One of the oldest Livery Companies in the City of London, the Turners’ Company was already a guild in the 12th Century. Some 200 years later, Edward III decreed that ‘wooden measures, as well for wine as for ale’ should be made only by ‘turnours’ with marks of their own – and the medieval turners established the English ‘pint’ as an official measure. In 1604 the Company received its Royal Charter from James I. To this day, the Company continues to celebrate and support the ‘art or mysterie’ of turning.

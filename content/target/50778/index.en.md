@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Nicola Sturgeon 'up for discussion' on referendum date
-
 Scotland's first minister told the BBC she wanted to find date for a second referendum on Scottish independence that both she and Mrs May could agree on in the wake of Brexit.

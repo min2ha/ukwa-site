@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Spectator
-
 Weekly magazine featuring the best British journalists, authors, critics and cartoonists, since 1828.

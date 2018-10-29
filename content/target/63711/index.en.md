@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Oliver Norgrove's Blog
-
 Campaigns for Britain to remain in the European Economic Area after Brexit

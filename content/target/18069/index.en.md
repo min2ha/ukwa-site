@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nigel Williams, prospective parliamentary candidate for Delyn
-
 Nigel Williams, UKIP prospective parliamentary candidate for Delyn.

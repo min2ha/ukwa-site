@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Scottish Language Dictionaries
-
 Site of an organisation researching and compiling dictionaries of Scots language and providing education in Scots.

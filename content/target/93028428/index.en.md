@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Peter Tatchell Foundation (PTF) 
-
 The Peter Tatchell Foundation (PTF) seeks to promote and protect the human rights of individuals, communities and nations, in the UK and internationally, in accordance with established national and international human rights law.

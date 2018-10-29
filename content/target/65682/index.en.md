@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: ANDREW PIERCE: Blair is the real puppet master behind Miliband's excruciating Brexit bashing return
-
 Comments on campaign led by Ed Milliband, Nick Clegg and Anna Soubry to keep Britain in the European Economic Area after Brexit

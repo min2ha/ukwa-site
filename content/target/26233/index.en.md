@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kennel Club, The: A Dog's Life Manifesto
-
 The Kennel Club ("KC") is the official kennel club of the United Kingdom. It is the oldest recognised kennel club in the world. Its role is to act as governing body for various canine activities including dog shows, dog agility and working trials. It also operates the national register of pedigree dogs in the United Kingdom and acts as a lobby group on issues involving dogs in the UK.

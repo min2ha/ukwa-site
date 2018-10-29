@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# University of Cambridge: Cambridge Institute for Medical Research
-
 CIMR is a modern research facility in Cambridge UK, where clinical and basic science converge in the study of the molecular mechanisms of disease.

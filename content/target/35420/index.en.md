@@ -10,6 +10,4 @@
   "start_date": "2016-02-18T09:00:00Z"
 }
 
-# DeHavilland
-
 DeHavilland services help public affairs professionals track, monitor and evaluate the impact of the political environment, enabling them to effectively plan, implement and evaluate their organisations' objectives.

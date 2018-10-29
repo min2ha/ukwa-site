@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Scottish Games Network
-
 The Scottish Games Network is a long running source of information regarding the progress of Scotland's Digital and Interactive Media sector and Games Industry.

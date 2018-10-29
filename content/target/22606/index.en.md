@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron: Boris Johnson may replace me as Conservative leader when I step down
-
 None

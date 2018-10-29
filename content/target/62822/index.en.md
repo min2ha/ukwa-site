@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Colwyn Bay Spiritualist  Meeting House
-

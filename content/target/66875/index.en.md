@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Bonnetmakers & Dyers of Glasgow on Facebook
-
 Site of a traditional trade and craft guild located in Glasgow - cloth workers - now focusing on charitable work and promoting their trade.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May escapes Brexit bill defeat as Tory rebels accept concessions
-

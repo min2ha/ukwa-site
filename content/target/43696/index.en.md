@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Molly Bloom
-
 A continuation of a 1980's print publication, Molly Bloom focuses on poetry within a modernist tradition

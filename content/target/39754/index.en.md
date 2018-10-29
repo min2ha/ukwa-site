@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kelvin SNP (@SNPKelvin) on Twitter
-
 Twitter profile of the Glasgow Kelvin branch of the Scottish National Party (SNP).

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter Barrett (@CllrPeterBarret) on Twitter
-
 Twitter profile of Peter Anthony Barrett, Scottish Liberal Democrat candidate for Perth and North Perthshire in the 2017 general election.

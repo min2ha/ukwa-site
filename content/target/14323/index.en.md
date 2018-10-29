@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - The anti-BBC demonstration had one false premise....
-

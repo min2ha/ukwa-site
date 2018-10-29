@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Cardiff Business Improvement District (BID)
-
 A Business Improvement District (BID) is a partnership between the local business community and a local authority to develop projects and services that will benefit the trading environment within the boundary of a commercial area. This is the BID for Cardiff City Centre. 

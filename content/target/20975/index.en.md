@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cllr Owen Thompson (@Owen_Thompson) on Twitter
-
 The Twitter profile of Owen Thompson, the Scottish National Party (SNP) candidate for Midlothian in the UK General Election on the 7th May 2015.

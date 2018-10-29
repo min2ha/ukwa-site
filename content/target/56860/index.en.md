@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Ardrossan Castle Heritage Society
-
 Site of a local history and heritage society focusing on Ardrossan Castle, Ayrshire.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tramway
-
 <p>Tramway is a contemporary visual and performing arts venue located in Glasgow. Their website includes information about a number of Glasgow 2014 Cultural Programme events including “Blue Block Studio” for adults and babies and an exhibition of works by Cathy Wilkes.</p>

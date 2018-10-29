@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Tax Advisory Partnership
-
 Tax Advisory Partnership is a young and vibrant specialist tax firm, which brings together a wealth of wide ranging experience and expertise in all areas of tax.

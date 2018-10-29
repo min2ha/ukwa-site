@@ -10,6 +10,4 @@
   "start_date": "2017-09-08T09:00:00Z"
 }
 
-# Storyopolis
-
 Storyopolis is a children's literacy project based in Swansea and is supported by the Ideas People Places programme from the Arts Council of Wales, Garfield Weston and The Oakdale Trust.

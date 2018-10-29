@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Beaufort Male Choir
-
 This is the website for Beaufort Male Voice Choir based in Blaenau Gwent. Its history traces back to the 1880's.

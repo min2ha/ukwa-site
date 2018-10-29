@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# An Post Museum & Archive: The GPO in 1916 
-
 This is history portion of the An Post website. An Post's headquarters is the GPO which was the rebel headquarters during the 1916 Easter Rising

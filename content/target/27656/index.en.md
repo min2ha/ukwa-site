@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP could hold informal referendum without Downing Street's agreement
-
 None

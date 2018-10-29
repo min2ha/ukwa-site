@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mix, The: Mental Health
-
 Website that offers support for under 25s, this includes mental health advice and support. Features a discussion board to discuss mental health or seek help.

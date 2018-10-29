@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Brexit and parliament: another way is possible
-

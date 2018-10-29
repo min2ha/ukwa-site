@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Villa Park Stadium
-
 Villa Park is a football stadium in Aston, Birmingham, England, with a seating capacity of 42,682. It has been the home of Aston Villa Football Club since 1897. The ground is less than a mile from both Witton and Aston railway stations and has hosted sixteen England internationals at senior level, the first in 1899 and the most recent in 2005.

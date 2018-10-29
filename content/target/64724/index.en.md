@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# European Stone Stacking Championships 
-
 Site of a championship of stone stacking, a meditative artistic skill.

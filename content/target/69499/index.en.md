@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T09:00:00Z"
 }
 
-# Farm Assured Welsh Livestock
-
 Welsh Lamb and Beef Producers Ltd. (WLBP) is a cooperative owned by over 7200 Welsh farmers.

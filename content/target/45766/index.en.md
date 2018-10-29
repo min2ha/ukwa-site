@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Ebola in the News - SPIN 
-
 Articles published in November 2015 related to Ebola recorded by SPIN a Wellcome Trust project Science Policy In the News.

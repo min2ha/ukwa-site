@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# MCM Scotland Comicon
-
 Site of a popular culture event focusing on science fiction and fantasy films, literature, graphic novels and comics.

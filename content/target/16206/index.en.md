@@ -10,6 +10,4 @@
   "start_date": "2015-01-29T18:00:00Z"
 }
 
-# Campaign Opposing Police Surveillance 
-
 <p>Campaign Opposing Police Surveillance is a UK grassroots campaign to limit state spying and political policing.</p>

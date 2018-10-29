@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Democratic Alliance
-
 None

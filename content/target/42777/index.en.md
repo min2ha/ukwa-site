@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Made Possible by Squatting
-
 Gallery of images from Made Possible by Squatting  exhibition/living archive/social space/home in a squatted building on Dock Street, London 9th-16th September 2013.

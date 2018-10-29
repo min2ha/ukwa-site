@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# EATA Recovery Services: FINDING TREATMENT FOR INTERNET AND GAMING ADDICTION
-
 Website for a company that offers individuals who are addicted to the internet and gaming get the help they need through private rehab clinics, alcohol and drug addiction charities, support groups, professional counselling organisations, and the NHS

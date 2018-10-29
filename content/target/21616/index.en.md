@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Afzal Amin, Tory accused of EDL plot, says he was victim of sting operation
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Land Matters
-
 The blog and website of Andy Wightman, writer and activist on issues of land, power, governance, and democracy.

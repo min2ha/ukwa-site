@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Google UK Homepage
-

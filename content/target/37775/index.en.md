@@ -10,5 +10,3 @@
   "start_date": "2016-03-22T09:00:00Z"
 }
 
-# Bord na Gaidhlig - Thig Gam Theagasg! | Gaelic Teaching
-

@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Canal Zoners, The
-
 The Canal Zoners is for those who served in the Suez Canal Zone of Egypt and in the surrounding areas during the 1940’s and 1950’s.

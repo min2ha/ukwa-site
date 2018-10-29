@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# David Rees AM on Facebook
-
 David Rees is the AM for Aberavon.

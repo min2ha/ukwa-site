@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Hard border for island of Ireland says Sinn Féin
-
 Outlining her plans for the UK leaving the EU, Theresa May said Brexit meant leaving the customs union. Sinn Fein commented that Exiting the European Customs Union would create a "hard border on the island of Ireland

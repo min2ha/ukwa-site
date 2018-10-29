@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Martyn Joseph
-
 Martyn Joseph is a Welsh Celtic and folk singer-songwriter whose songwriting is often focused on social lament or protest.

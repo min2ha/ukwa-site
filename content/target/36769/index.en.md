@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# David Rowlands (@DavidRowlandsUK) on Twitter (UKIP candidate for Merthyr Tydfil and Rhymney and South Wales East)
-
 David Rowlands is the UKIP candidate for Merthyr Tydfil and Rhymney and South Wales East at the 2016 National Assembly Elections. 

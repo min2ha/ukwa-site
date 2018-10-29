@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Dalrannoch Brewing Co
-
 Site of a brewer at  Meikleour, Perthshire.

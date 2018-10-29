@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# CTV Studio Sounds
-
 CTV Studio Sounds is based in Cardiff and is a Voice over recording & audio post production for TV, Film, Radio, Web, & Audiobooks. 

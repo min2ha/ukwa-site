@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron addresses his Cabinet with pledge to implement Conservative manifesto in full - as it happened
-
 None

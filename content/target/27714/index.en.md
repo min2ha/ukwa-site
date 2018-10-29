@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Magna Carta anniversary events under way in Worcestershire
-

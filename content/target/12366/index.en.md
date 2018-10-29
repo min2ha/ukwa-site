@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Douglas Cowie: Stoller’s Départ/Tour de British Library
-
 None

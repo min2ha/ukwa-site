@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# My Nearest Marginal
-
 My Nearest Marginal is a website set up by Momentum to co-ordinate canvassing campaigns across the country in marginal areas in support of the Labour Party.

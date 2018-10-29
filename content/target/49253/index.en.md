@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# BLOGS : Edinburgh University's LGBT+ Society
-
 Site of a student organisation and support group for LGBT+ students of the University of Edinburgh. 

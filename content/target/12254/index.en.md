@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The Long, Long Trail - The British Army in the Great War of 1914-1918
-
 Website about the soldiers, units, regiments and battles of the British Army of the First World War, and how to research and understand them.

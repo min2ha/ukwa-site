@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# South Yorkshire 4 EU
-
 South Yorkshire regional campaigning group

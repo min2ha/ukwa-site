@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Slugger O'Toole: Foster: “The rebellion which took place 100 years ago this Easter was directly to attack the state to which I owe my allegiance”
-
 Article about Arlene Foster's comment on the Easter Rising commemoration events

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Forth Valley Unitarian Fellowship
-
 Site of a Unitarian church located at Stirling.

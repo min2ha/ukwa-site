@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Pweru'r Dyffryn
-
 Gweithgor Dyffryn Aeron is managing the Pweru’r Dyffryn project that are exploring ways to use local resources to power the local economy. This website includes information, documents and links about this project, along with guidelines on how you can contribute.

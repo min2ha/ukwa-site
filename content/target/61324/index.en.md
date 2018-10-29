@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Focus on Labour Exploitation (FLEX)
-
 Focus on Labour Exploitation (FLEX) works towards responses to trafficking for labour exploitation that are not only effective in ending exploitation, but also prioritise the needs and voices of trafficked persons and their human rights.

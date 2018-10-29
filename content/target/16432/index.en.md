@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Broadcasters try to 'call Cameron's bluff' with 7-way debates
-
 None

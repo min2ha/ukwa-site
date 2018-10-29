@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# New Statesman: Back to the future? Britain's 1975 referendum on Europe
-

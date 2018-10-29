@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# David Darkin
-
 David Darkin is the Welsh Labour Candidate for Carmarthen East and Dinefwr at the 2017 General Election.

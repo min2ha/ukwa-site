@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Climate Futures
-
 Site of a consultancy providing support for communities and business in addressing issues of environment and climate change.

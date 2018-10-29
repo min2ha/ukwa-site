@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stratford Renaissance Partnership (SRP): London 2012 Olympic & Paralympic Games
-

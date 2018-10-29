@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# JudoScotland: Sam Ingram
-

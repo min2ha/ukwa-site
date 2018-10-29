@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Power In A Union
-
 A website from Tony Burke. Assistant General Secretary at Unite the Union, the UK and Ireland’s biggest trade union. 

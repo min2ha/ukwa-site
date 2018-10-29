@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Folk Song A Day, A 
-
 Jon Boden, leader of Bellowhead, sang a new folksong every day between 2010 and 2011.

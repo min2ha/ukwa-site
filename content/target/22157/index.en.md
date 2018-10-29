@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Duncan Crute (Conservative)
-
 Duncan Crute stood as Conservative candidate for Newcastle upon Tyne East at the 2015 General Election but was not elected.

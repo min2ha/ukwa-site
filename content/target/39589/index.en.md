@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jim Eadie SNP on Facebook
-
 Facebook page of Jim Eadie, Scottish National Party candidate for Edinburgh Southern in the 2016 Scottish Parliamentary election

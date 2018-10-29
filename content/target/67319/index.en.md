@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Iraqi Medical Association - UK (IMA-UK)
-
 The Iraqi Medical Association (IMA-UK) is an organisation that promotes communication & networking between Iraqi Doctors & Health care professionals. Most of its members are based in the UK; however, it has links with Iraqi doctors all over the World.

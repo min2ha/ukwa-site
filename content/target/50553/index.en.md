@@ -10,6 +10,4 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# SIGMA Imaging (UK) Ltd
-
 Sigma Imaging (UK) Ltd is a wholly owned subsidiary of the Sigma Corporation of Japan.

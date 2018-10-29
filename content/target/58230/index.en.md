@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Goldman Sachs boss issues veiled threat over Brexit job exodus from London
-

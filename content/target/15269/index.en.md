@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stockport Democracy Club
-

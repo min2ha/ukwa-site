@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Probation and After Care Service
-
 Website for the Probation and After Care Service in Jersey, who's priority is the protection of the people of Jersey. Contains information for offenders and victims as well as reports and resources.

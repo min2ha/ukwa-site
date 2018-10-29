@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liam McArthur MSP for Orkney
-
 <p>The website of Liam McArthur, Scottish Liberal Democrats Member of the Scottish Parliament for the Orkney Islands.</p>

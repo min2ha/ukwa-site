@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: BBC Trust rejects DUP's appeal to be included in TV election debates
-
 None

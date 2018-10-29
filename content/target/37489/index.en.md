@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Gair Rhydd: Questioning whether "project fear" will work with the EU referendum
-
 "Britain faces refugees camps setting up in the English countryside, an exodus of businessmen leaving the UK and attacks from terrorists as Russia expands further into Eastern Europe if we vote to leave the EU in June. At least, that’s what the Remain camp has been arguing over the past few weeks as ‘Project Fear’ starts."

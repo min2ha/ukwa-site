@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Forestry Commission England (@ForestryCommEng) on Twitter
-
 From forest trails to concerts, and sustainable timber to conservation projects - we look after England's woods and forests for everyone to enjoy.

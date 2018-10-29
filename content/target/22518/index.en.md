@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour could raise taxes for middle-class professionals
-
 None

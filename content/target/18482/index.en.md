@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour strategists want a 'permanent' deal with the SNP, it is claimed
-
 None

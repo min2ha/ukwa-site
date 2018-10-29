@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Youth Agency: General Election 2017: Party Manifestos – policies for young people
-
 Here’s a handy at-a-glance round-up of the political parties’ manifesto pledges affecting young people at the 2017 general election.

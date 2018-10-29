@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cllr Corri Wilson (@CllrWilson) on Twitter
-
 The Twitter profile of Corri Wilson, Scottish National Party candidate for Ayr, Carrick and Cumnock in the 2015 General Election.

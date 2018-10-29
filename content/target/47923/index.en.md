@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Make it Good
-
 WordPress site providing information and a space for dialogue regarding good relationships and good sex among young adults in Tayside, Scotland.

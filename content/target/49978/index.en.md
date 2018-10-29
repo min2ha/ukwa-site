@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# People Before Profit Alliance
-
 The People Before Profit Alliance was formally established in October 2005 by workers from a variety of local campaigns. Its aim is to reverse neo-liberal policies which place wealth creation for the few over the welfare of communities in the Republic and Northern Ireland.

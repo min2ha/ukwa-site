@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Brexit: Boris Johnson warns against 'punishment beatings'
-
 Boris Johnson warned EU leaders not to give the UK "punishment beatings" for Brexit "in the manner of some World War Two movie". The foreign secretary said penalising "escape" was "not in the interests of our friends and our partners".

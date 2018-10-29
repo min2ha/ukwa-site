@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Al Murray hits the campaign trail in Thanet - video
-
 None

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Ideal Wine Company
-
 None

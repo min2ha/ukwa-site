@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# David Lidington, Conservative
-
 Website of David Lidington, Conservative MP for Aylesbury. It offers a biography, information about his local and Parliamentary activity, and views on Europe

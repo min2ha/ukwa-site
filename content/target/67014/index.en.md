@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Record Factory
-
 Website of Record Factory, a bar, live music venue and cafe in Glasgow, Scotland. 

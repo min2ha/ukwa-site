@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - My "letter to London" on bbc iplayer from the...
-
 Ewan Morrison's Facebook post of the 28th of August, 2014.

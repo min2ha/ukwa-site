@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sheffield Hallamshire R.U.F.C
-
 The official website of Sheffield Hallamshire Rugby Union Football Club.

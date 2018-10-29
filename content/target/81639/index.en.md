@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 15th October 2018: Brexit: Negotiations
-
 Report of the debate on Theresa May's statement on the progress of the Brexit negotiations, which were deadlocked on the issue of the Irish border.

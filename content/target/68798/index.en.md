@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Irina Must Stay!
-
 A blog publicizing, fundraising and supporting Irina Putilova's claim for asylum in the UK.

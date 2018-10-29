@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# RBLS Gatehouse WW1 commemoration and exhibition
-
 Project to hold an exhibition in Gatehouse of Fleet to commemorate the men and women of Gatehouse and District who served their country in one way or another during the First World War.

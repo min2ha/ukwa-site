@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Tron Church, The
-
 The Tron Church is a bible based Church of Scotland parish located in Glasgow, Scotland. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Sixty per cent of people want voting reform, says survey
-
 None

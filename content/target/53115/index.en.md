@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Huw Marshall (@Marshallmedia) on Twitter 
-
 Huw Marshall is the Plaid Cymru Ogmore parliamentary candidate for the 2017 General Election.

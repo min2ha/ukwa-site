@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Normal Times
-
 Blog written by playwright and novellist Peter Arnott.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-15T09:00:00Z"
 }
 
-# Dunshalt Village
-
 Community webiste for the village of Dunshalt in Fife, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-20T09:00:00Z"
 }
 
-# Royal Marines Museum
-
 The Royal Marines Historical Society was formed in 1964.

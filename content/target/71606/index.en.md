@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# East End Team Ministry on Facebook
-
 Facebook page of group of Christian church and their congregations belonging to the Scottish Episcopal denomination and located in Glasgow, namely, St Kentigern's, Dennistoun; St Serf's, Shettleston; St John's Ballieston.

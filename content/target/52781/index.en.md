@@ -10,6 +10,4 @@
   "start_date": "2017-05-05T09:00:00Z"
 }
 
-# Transport Partnership for Aberdeen City and Shire / NESTRANS
-
 Site of the Transport Partnership for Aberdeen City and Shire, established to develop and deliver a long-term regional transport strategy and take forward strategic transport improvements that support and improve the economy, environment and quality of life across Aberdeen City and Shire.

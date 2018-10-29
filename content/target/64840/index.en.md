@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ruchazie Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church in Glasgow.

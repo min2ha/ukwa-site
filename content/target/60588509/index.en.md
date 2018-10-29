@@ -10,5 +10,3 @@
   "start_date": "2012-01-17T00:00:00Z"
 }
 
-# Size of Wales | Maint Cymru
-

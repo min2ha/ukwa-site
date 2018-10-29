@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Amelia Womack (@Amelia_Womack) on Facebook (Green Party candidate for Cardiff Central and South Wales Central)
-
 Amelia Womack is the Green Party candidate for Cardiff Central and South Wales Central at the 2016 National Assembly for Wales elections. 

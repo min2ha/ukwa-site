@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Godrej UK
-
  A wholly owned subsidiary of the Godrej Group, here in the UK, we market and distribute some of the beauty and personal care market's best-loved brands.

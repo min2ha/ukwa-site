@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Think Fish
-
 Think fish is the online tropical fish resource for information about freshwater aquarium fish and tropical fish keeping

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election results: Did just 900 voters hand the Tories a majority government?   
-
 None

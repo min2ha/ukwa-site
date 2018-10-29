@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: I'm a Tory who lost to a Lib Dem MP. What sort of two-headed monster am I?
-
 None

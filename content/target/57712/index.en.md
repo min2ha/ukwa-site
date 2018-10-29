@@ -10,6 +10,4 @@
   "start_date": "2017-10-07T09:00:00Z"
 }
 
-# Rabab Ghazoul
-
 Rabab Ghazoul is a visual artist interested in exploring our negotiations of the political. Rabab Ghazoul was born in Mosul, Iraq and has lived in Cardiff since 1993.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Kiwis for Britain (@kiwis4britain) on Twitter
-

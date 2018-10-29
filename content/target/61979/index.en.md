@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chelsea L.F.C.
-
 Chelsea Ladies Football Club are an English women's football club based in Fulham, England. Since 2004, the club has been affiliated with Chelsea F.C., a men's team in the Premier League. 

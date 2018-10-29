@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ukip election candidate to be grilled by police over claims he tried to 'corruptly influence' voters with sausage rolls 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# Mental Magazine
-
 None

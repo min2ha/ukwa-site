@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# OPINION: Colin Baker - perplexing politics in Brexit's aftermath
-
 commentary on Brexit's effects on UK politics

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: British Library reunites Magna Carta copies for 800th anniversary
-

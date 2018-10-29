@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lee Valley Regional Park
-

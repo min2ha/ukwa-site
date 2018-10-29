@@ -10,6 +10,4 @@
   "start_date": "2015-03-18T09:00:00Z"
 }
 
-# UK Lung Cancer Screening Trial (UKLS)
-
 The UK Lung Cancer Screening Trial (UKLS) is a lung cancer screen trial to take place in the UK and hopes to benefit people who are at risk of developing lung cancer. 

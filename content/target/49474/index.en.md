@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Tolerance International UK 
-
 Promoting tolerance & moderation between people, society & nature for the equal benefit of all & for future generations

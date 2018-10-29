@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Haringay Green Party 
-
 Help us win Green votes across Haringey!

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Another side of Lesley Riddoch: A Declaration of Spiritual Independence
-
 None

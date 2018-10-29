@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# EatSleepFootyRepeat - Facebook
-
 Podcast website all about Welsh football Facebook account.

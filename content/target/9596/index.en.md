@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Commonwealth Games Federation
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# Southend, Argyll Community Website
-
 Community website providing information on amenities, events and heritage for the community of Southend and Dunaverty, Argyll & Bute, Scotland, and its visitors. 

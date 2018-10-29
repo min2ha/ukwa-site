@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Bamburgh Castle
-
 Bamburgh’s written history begins in the times of the Anglo-Saxons with one chronicler citing Bamburgh as probably the most important place in all of England. 

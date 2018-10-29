@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Opra Cymru
-
 Opra Cymru is a company that produce Opera through the medium of Welsh .

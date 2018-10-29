@@ -10,5 +10,3 @@
   "start_date": "2016-08-24T10:00:00Z"
 }
 
-# inside.mygov.scot | Behind the scenes on mygov.scot
-

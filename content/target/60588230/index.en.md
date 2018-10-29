@@ -10,5 +10,3 @@
   "start_date": "2011-06-07T00:00:00Z"
 }
 
-# Bringing Corporate Data to Life
-

@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Graham Norton Show (@TheGNShow) on Twitter
-
 The official Twitter account for the Graham Norton Show. The show airs on Fridays on BBC1 at 10:35pm.

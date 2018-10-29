@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Holyhead War Memorial 1914 - 1918
-
 The website provides research on those commemorated on the Holyhead War Memorial. There are 288 names of men and women from Holyhead listed on the town War Memorial, known as the Cenotaph. 

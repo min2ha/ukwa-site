@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Professional Darts Corporation (PDC)
-

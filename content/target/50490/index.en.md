@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Big Hearts Community Trust
-
 Site of a charitable organisation attached to Heart of Midlothian Football Club families, supporting all generations within communities served by leading, coordinating and facilitating meaningful activities where need is identified.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU leaders agree to move talks to next stage
-
 Reports that EU leaders had agreed at the December European Council meeting that sufficient progress had been made on EU citizen's rights, the Irish border and the financial settlement for Brexit talks to move on to the second phase. This meant that the transitional period would be discussed early in 2018, with talks about the future relationship to follow in March 2018.

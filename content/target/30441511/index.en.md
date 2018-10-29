@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# North Hertfordshire District Council
-
 Website of North Herts District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

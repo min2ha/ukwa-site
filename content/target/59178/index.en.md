@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Clydeside Orienteers
-
 Site of an orienteering club based in Glasgow.

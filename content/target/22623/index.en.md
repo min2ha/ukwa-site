@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: A £28k dole cheat, cigar-puffing students and a Harrods shopper … the 'ordinary workers' who backed Red Ed
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-10-14T10:00:00Z"
 }
 
-# Channel Swimming Association
-
 The Channel Swimming Association was founded in 1927 and is internationally recognised to observe and authenticate channel swims.

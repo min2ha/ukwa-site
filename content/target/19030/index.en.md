@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Cartmel Village: Magna Carta - Celebrating 800 years of history in 2015
-

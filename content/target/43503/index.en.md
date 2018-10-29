@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Barker Illustration: EU Trade Brexit cartoon
-
 David Cameron George Osborne EU referendum cartoon

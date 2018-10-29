@@ -11,6 +11,4 @@
   "subject": "Offshore Islands Collection (Channel Islands and Isle of Man)"
 }
 
-# Creer from the Isle of Man - Family History
-
 None

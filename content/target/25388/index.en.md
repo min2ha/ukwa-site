@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservatives take narrow lead over Labour in latest opinion poll
-
 None

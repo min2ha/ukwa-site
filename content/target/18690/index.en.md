@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Our Magna Carta plays a visit to New York
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South West Cervical Cancer Screening QARC
-
 None

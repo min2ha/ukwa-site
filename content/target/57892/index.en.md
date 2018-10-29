@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# Tomser Cat Books
-
 Tomser Cat Books is a children's book publisher located in Pontypridd.

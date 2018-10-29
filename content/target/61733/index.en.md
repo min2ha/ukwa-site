@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Wee County Roller Derby
-
 Site of a skating roller derby team located in Clackmannanshire.

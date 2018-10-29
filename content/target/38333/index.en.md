@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# UK Parliament: Living heritage: Parliament and Ireland
-
 Overview of the history of the relationship between Parliament and Ireland, including resources from the Parliamentary Collections relating to the Easter Rising.

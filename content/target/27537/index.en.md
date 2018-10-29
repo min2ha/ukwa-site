@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Ian Birrell: A stunning victory that leaves Cameron awash with political capital
-
 None

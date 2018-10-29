@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T00:00:00Z"
 }
 
-# Society for Women in Philosophy UK (SWIP UK)
-
 Society for Women in Philosophy UK (SWIP UK) is an organisation of UK women in philosophy, including students and professionals, working within or outside academic departments.

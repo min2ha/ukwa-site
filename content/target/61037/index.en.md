@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# St. Benedicts Harps GAA Leeds
-
 Gaelic Football club in Leeds offering Senior, Junior and Youth football in Yorkshire.
 Always recruiting new players, mentors and members. Help with accommodation and work available.

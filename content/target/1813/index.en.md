@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Berkshire Council
-
 The website of West Berkshire Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

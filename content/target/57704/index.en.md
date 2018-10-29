@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bank of England: Geofinance
-
 The UK and the EU must agree on a Brexit transition deal by Christmas or risk banks triggering their contingency plans. Deputy governor Sam Woods said that while the UK was committed to an implementation period, the EU's position "was not yet clear". If no deal was reached, banks would begin a potentially disorderly shift of operations overseas.

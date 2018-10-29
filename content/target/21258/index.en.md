@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mair Rowlands (@mairrowlands) on Twitter (Plaid Cymru candidate for the Vale of Clwyd)
-
 Vale of Clwyd Parliamentary and Assembly Candidate for Plaid Cymru.

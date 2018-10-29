@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dr Lisa Cameron (@lisacameronsnp) on Twitter
-
 The Twitter profile of Lisa Cameron, the Scottish National Party (SNP) candidate for East Kilbride, Strathaven and Lesmahagow in the UK General Election on the 7th May 2015.

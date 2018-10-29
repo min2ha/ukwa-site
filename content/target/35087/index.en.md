@@ -10,6 +10,4 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Minera Quarry Trust
-
 Minera Quarry Trust was established in 2005 with the explicit aim of conserving the former quarry site near Wrexham for the benefit of the public.

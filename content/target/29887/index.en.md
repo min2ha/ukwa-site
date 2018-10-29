@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Summerhall Edinburgh on Facebook
-
 Summerhall is a multi-arts venue presenting high quality theatre, literature, visual art, music, film and performance. This is its official Facebook page.

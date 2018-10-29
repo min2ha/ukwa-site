@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage: Ukip would ban terminally-ill migrants from Britain
-
 None

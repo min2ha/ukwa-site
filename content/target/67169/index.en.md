@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Bloc+Music
-
 Website of Bloc+Music, a Glasgow-based record label attached to music venue Bloc+. 

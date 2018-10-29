@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Geraint Talfan Davies (@gerainttalfan) on Twitter
-
 Geraint Talfan Davies is chairman of the group Wales Stronger in Europe.

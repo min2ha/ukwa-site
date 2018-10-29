@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow Science Festival
-
 Site of an annual festival of science based in Glasgow.

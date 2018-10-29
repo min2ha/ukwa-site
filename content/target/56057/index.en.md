@@ -10,6 +10,4 @@
   "start_date": "2017-07-21T09:00:00Z"
 }
 
-# Arloesiadau Glyndwr Innovations 
-
 Arloesiadau Glyndwr Innovations is the site of Glyndwr University's science and technology centre in St Asaph which includes the OpTIC Centre, a leading provider of innovative product development engineering and technology consulting.

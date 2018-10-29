@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Ireland Judo Federation
-
 None

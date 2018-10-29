@@ -10,6 +10,4 @@
   "start_date": "2018-03-04T09:00:00Z"
 }
 
-# Ricoh Arena
-
 The Ricoh Arena in Coventry, England, is a complex which includes a 32,609-seater stadium, used by Wasps rugby union and Coventry City football clubs, a 6,000 square meters exhibition hall, a hotel and a casino. 

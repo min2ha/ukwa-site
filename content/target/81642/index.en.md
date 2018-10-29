@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Independent: A no-deal Brexit is "more likely than ever before", the president of the European
-
 A no-deal Brexit was "more likely than ever before", the president of the European Council warned, ahead of a make-or-break summit of EU leaders in Brussels in October 2018
  

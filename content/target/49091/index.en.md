@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# 1st Cathays Al-Huda Scout Group
-
 The 1st Cathays Al-Huda Scout Group is the largest Muslim scout group in the UK.

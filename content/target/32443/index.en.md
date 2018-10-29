@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# National Composites Centre (NCC)
-
 National Composites Centre (NCC) an independent, open-access national centre that delivers innovation in the design and rapid manufacture of composites and facilitates their widespread industrial exploitation.

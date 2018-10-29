@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# New Under Ten Fishermens Association (NUFTA)
-
 NUTFA is the only UK organisation specifically dedicated to the support, survival and development of the under ten metre fleet
 

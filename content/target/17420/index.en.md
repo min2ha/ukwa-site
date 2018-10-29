@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The chart that shows what happens to taxes after a General election, whoever wins 
-
 None

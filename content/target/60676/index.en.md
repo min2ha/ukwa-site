@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gala Rugby Football Club
-
 Site of a Scottish rugby union football club based in Galashiels, Scottish Borders.

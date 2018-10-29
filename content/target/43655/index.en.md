@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Landscape Institute: Polar bears or bees? The EU environment debate
-
 Article on the discussion between two MPs about the EU referendum and the impact on environmental policy, such as wildlife and agriculture.

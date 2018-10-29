@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# UK Family Law Reform: Shared Parenting
-
 A sub page from UK family law reform about shared parenting with links to further related information

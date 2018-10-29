@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour would increase education spending, says Ed Miliband
-
 None

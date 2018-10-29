@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# Mann Countrywide Estates
-
 Mann Estate and Letting Agents have been working throughout the residential property markets of Hampshire, Kent, Surrey, Somerset and Southeast London for over 100 years, helping vendors, landlords, buyers and tenants fulfil their property aspirations. Mann has 46 offices throughout the area, staffed by experienced teams who are experts in the local property markets. Nominated by a Smashfest 2015 visitor, who commented: looking for a new home

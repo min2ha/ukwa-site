@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chemmy Alcott
-
 None

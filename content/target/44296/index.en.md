@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Perth Festival of the Arts
-
 Site of an annual arts festival located in Perth, Scotland.

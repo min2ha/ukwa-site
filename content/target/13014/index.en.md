@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sport Heritage
-
 <p>Exhibition website for “Host and Champions: Scotland in the Commonwealth Games” showing at the Old Fruitmarket Gallery; includes articles and photographs relating to previous Commonwealth Games in Scotland and Scottish competitors at the Commonwealth Games.</p>

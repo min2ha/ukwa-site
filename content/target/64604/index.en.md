@@ -10,5 +10,3 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Federation of South Wales Philatelic Societies
-

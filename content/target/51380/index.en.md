@@ -11,8 +11,6 @@
   "subject": "Health Regulation"
 }
 
-# United Chiropractic Association
-
 The United Chiropractic Association exists as a body representing chiropractors.
 
 The UCA stand behind the underlying principle of chiropractic: “healthy spine, healthier life.” By offering expert drug-free spinal health care and lifestyle advice, UCA chiropractors can help you to lead and maintain a healthy life.

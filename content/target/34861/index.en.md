@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# ABP International Alliance
-
 ABP International Alliance is a business-focused organisation working to stimulate trade and investment amongst global enterprises across a wide range of sectors. The Alliance’s first focus is on UK and China.

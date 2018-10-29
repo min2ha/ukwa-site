@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Information Age
-
 Information Age magazine is for executives involved in the application of technology for strategic, competitive advantage and improved efficiency. 

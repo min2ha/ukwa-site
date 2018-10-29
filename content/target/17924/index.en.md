@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# British Foosball Association, The
-
 The British Foosball Association (BFA) was established as a players' association tasked with making table football popular. 

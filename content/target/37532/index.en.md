@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sunday Times, The: Call up the paparazzi army to take Brussels — and keep us in Europe
-
 Website for The Sunday Times UK newspaper

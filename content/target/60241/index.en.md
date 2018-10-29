@@ -10,6 +10,4 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Celia Hammond (@CeliaHammond) on Twitter
-
 Celia Hammond Animal Trust is an animal rescue centre, re-homing facility and a low cost veterinary service based in London, Kent and East Sussex. This is their official Twitter account.

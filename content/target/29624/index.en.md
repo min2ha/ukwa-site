@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Luton Irish Forum: Irish Ambassador and Lecturer discuss The Decade of Commemoration
-

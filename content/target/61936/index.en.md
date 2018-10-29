@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Blair Drummond Churches
-
 Site of a group of Church of Scotland parishes at Blair Drumond, Stirlingshire, covering the Gargunnock, Kilmadock & Kincardine-in-Menteith churches.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The message of Brexit was mixed. Now we are told it was simply a referendum on immigration
-

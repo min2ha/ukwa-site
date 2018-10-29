@@ -10,6 +10,4 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# Wales Underground
-
 The site provides a brief overview of the following: Welsh Slate Museum, Electric Mountain, Sygun Copper Mine, Llechwedd Slate Caverns, King Arthur's Labyrinth, Llywernog Lead and Silver Mine, Dolaucothi Gold Mine, Dan yr Ogof, Rhondda Heritage Park and Big Pit.

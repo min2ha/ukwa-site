@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# Kyoto2 Support Group (KS2), The
-
 Website of a campaign supporting the Kyoto2 proposals. It is run by Dr Gerry Wolff.

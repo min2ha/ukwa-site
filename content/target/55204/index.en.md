@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Never Know Defeat
-
 Never Know Defeat is a Bristol based graphic design agency. It brings ideas and people together through passionate branding solutions and the occasional bribery. From print to digital it creates, develop and maintain brands.

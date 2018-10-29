@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark for Ynys Mon
-
 Liberal candidate for Ynys Mon.

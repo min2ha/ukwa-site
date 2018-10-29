@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Magna Carta anniversary: 'We should be proud of the role St Albans played'
-

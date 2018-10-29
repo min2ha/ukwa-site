@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Alok Sharma (@AlokSharma_RDG) on Twitter (Conservative Politician)
-
 Alok Sharma stood as Conservative candidate for Reading West at the 2015 General Election. He was first elected to serve as MP for Reading West in 2010 and re-elected in 2015. He stood for re-election in 2017 and was re-elected.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit vote has created instability for banking sector, says Santander
-

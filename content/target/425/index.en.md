@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stockport Health and Wellbeing Board
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Anne McGuire: Member of Parliament for Stirling
-
 <p>The website of Anne McGuire, Labour Member of Parliament for Stirling.</p>

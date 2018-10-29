@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Royal Scottish Geographical Society
-
 Site of an organisation supporting and promoting geographical education, research and exploration, and working to broaden public awareness of the breadth and depth of geographical sciences, and to promote greater understanding of contemporary issues which shape society’s future.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP's £30 million house tax hike 'a foretaste for Westminster'
-
 None

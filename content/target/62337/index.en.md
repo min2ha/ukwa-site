@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Northampton Town Football Club
-
 Northampton Town Football Club is a professional association football club based in the town of Northampton, Northamptonshire, England.

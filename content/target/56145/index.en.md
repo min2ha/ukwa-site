@@ -10,6 +10,4 @@
   "start_date": "2017-07-27T09:00:00Z"
 }
 
-# Wye Salmon Association
-
 Wye Salmon Association aim is to improve and sustain the salmon population of the Wye River, which has a historic reputation of being England & Wales leading salmon river.

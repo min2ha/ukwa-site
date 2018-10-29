@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Big Rock Climbing Centre
-
 Big Rock Climbing Centre is operated by ClimbUK. The ClimbUK group is one of the UK’s leading exponents of indoor climbing, operating 2 large indoor climbing centres, a climbing wall manufacturing business in partnership with Walltopia, and supplying Beacon, HRT, Fiction and Agripp climbing holds to the UK market.

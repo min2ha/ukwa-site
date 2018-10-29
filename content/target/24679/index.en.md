@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Darren Fower (@cllrdarrenfower) on Twitter (Liberal Democrats Politician)
-
 Darren Fower stood as Liberal Democrats candidate for Peterborough at the 2015 General Election but was not elected. He also stood for the same seat in 2017 but was not elected.

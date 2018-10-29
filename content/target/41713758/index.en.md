@@ -10,6 +10,4 @@
   "start_date": "2016-02-08T09:00:00Z"
 }
 
-# Multiple Sclerosis Society
-
 The MS Society is one of the UK’s leading MS charity. They’ve been providing information and support, funding research and fighting for change since 1953. They fund research, give grants, campaign for change, provide information and support, invest in MS specialists and lend a listening ear to those who need it.

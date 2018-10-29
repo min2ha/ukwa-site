@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Albanian RFC
-
 The official website of Old Albanian Rugby Football Club.

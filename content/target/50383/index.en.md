@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Holland House
-
 Holland House stands in three acres of beautiful gardens alongside the River Avon and is situated in the beautiful Vale of Evesham, an area with a long history of market gardening including some of the best quality apples, plums, pears and, of course, the famous ‘grass’ (asparagus).

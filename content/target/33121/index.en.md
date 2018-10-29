@@ -10,6 +10,4 @@
   "start_date": "2015-12-02T09:00:00Z"
 }
 
-# Apaches, The
-
 This site is dedicated to one of Scotland's 1960's music bands based in West Dunbartonshire.

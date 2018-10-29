@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: After the G20 summit, Brexit Britain looks increasingly adrift and friendless
-

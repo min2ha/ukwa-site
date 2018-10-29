@@ -10,6 +10,4 @@
   "start_date": "2016-06-12T10:00:00Z"
 }
 
-# Radical History Network North East London
-
 Radical History Network of North East London, RaHN, formed in 2006: site includes articles and reviews.

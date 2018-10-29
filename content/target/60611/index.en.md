@@ -10,6 +10,4 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# Welcome Centre, The 
-
 The Welcome Centre, food bank and more is a small charity. They  are based in the Huddersfield Mission in the town centre, but they have no religious or political affiliations. 

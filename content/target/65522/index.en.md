@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit to 'force work on Galileo sat-nav system out of UK'
-
 An executive at Airbus said that work on the Galileo sat-nav system would have to be moved out of the UK due to Brexit if the company won a key contract. Colin Paynter, the company's UK managing director, said that EU rules required Airbus to transfer all work to its factories in France and Germany.
 
 

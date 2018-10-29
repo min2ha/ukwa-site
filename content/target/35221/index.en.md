@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bryan Simpson (@BrySim88) on Twitter
-
 The twitter profile of Bryan Simpson, RISE Alliance candidate for Glasgow.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-13T09:00:00Z"
 }
 
-# NHS Wales Shared Services Partnership | Partneriaeth Cydwasanaethau GIG Cymru
-
 The NHS Wales Shared Services Partnership (NWSSP) is an independent organisation, owned and directed by NHS Wales and supports NHS Wales through the provision of a comprehensive range of high quality, customer focused support functions and services.

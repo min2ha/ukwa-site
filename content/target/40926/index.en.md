@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Widdecombe in the Moor
-
 The Widecombe-in-the-Moor website promotes all aspects of Widecombe and Dartmoor life, past, present and future, for the use of local people, visitors, and all who are interested.

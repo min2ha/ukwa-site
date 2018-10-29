@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Who should I vote for in the General Election? Take The Independent's interactive policy quiz to find out which oarty is right for you
-
 None

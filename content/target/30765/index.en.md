@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Bookseller, The
-
 The Bookseller has been the business magazine of the book industry since 1858; incorporating the even earlier Bent's Literary Advertiser, established in 1802.

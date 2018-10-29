@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Conversation, The: Scotland's referendum: can we trust the polls?
-
 None

@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:27.602501", 
+  "date": "2018-10-29T13:21:28.427251", 
   "open_access": false, 
   "target_url": "http://www.harpendenpeople.co.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "Harpenden People", 
-  "record_id": "20181029T125427///oCCNfzAn8ctkw1RUe3cw==", 
+  "record_id": "20181029T132128///oCCNfzAn8ctkw1RUe3cw==", 
   "publisher": "harpendenpeople.co.uk", 
   "start_date": null, 
   "subject": null
 }
-
-# Harpenden People
 

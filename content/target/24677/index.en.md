@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Lisa Forbes (Labour candidate for Peterborough)
-
 None

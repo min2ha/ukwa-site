@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ramblings Of An Old Man
-
 Jeff Goulding is a story teller from Liverpool. He writes fiction, political articles and about Liverpool Football Club.

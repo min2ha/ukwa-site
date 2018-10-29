@@ -10,6 +10,4 @@
   "start_date": "2016-01-05T09:00:00Z"
 }
 
-# Civil Service Pensions
-
 Website with information about the civil service pension schemes.

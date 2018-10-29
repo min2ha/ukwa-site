@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Sprout, The
-
 The Sprout is Cardiff’s online magazine and interactive website for 11-25’s run and managed by young people. ProMo-Cymru have been funded to deliver TheSprout by Families First in Cardiff. 

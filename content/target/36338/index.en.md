@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: EU Referendum: Vote how you please, David Cameron wants only one outcome
-

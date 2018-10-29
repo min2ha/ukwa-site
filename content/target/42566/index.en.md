@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BCFC Followers
-
 News and match reports by fans of Birmingham City Football Club

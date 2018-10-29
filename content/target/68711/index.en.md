@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: 'GOOD DEAL FOR ALL' Sajid Javid and Liam Fox back ‘generous’ Brexit offer agreed at Chequers — it’s time for EU to show movement
-
 Sajid Javid and Liam Fox attempt to defend the vision of the UK's future partnership with the EU agreed at Chequers on July 6th 2018

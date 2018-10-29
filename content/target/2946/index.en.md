@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Redpepper
-
 <p>Red Pepper is a bi-monthly magazine and website of left politics and culture. It describes itself as "a socialist publication drawing on feminist, green and libertarian politics. We seek to be a space for debate on the left, a resource for movements for social justice, and a home for anyone who wants to see a world based on equality, meaningful democracy and freedom."</p>

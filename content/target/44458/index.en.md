@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Elizabeth Foundation, The
-
 The Elizabeth Foundation is a national charity supporting infants and pre-school children with hearing loss and their families. 

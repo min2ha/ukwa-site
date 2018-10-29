@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Financial Times: Data Blog: Brexit: voter turnout by age
-
 A blogpost about the correlation between EU referendum voting and age range of voters

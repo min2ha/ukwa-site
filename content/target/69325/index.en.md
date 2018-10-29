@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Rondo Media
-
 Rondo is a major UK independent multi-genre media production company, producing content for a wide range of UK and international broadcasters.

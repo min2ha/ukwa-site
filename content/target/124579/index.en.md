@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ann Griffiths (1776-1805) 
-

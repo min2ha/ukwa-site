@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tony Blair to join forces with Ed Miliband in withering attack on David Cameron
-
 None

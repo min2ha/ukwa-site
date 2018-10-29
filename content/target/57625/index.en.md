@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# TriTalk Forums
-
 An online enthusiast community concerned with triathlons. Discusses events, training, gear and various other topics.

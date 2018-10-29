@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# Expat Essentials
-
 Expat Essentials is an online shop for expats delivering British food products all over the world. 

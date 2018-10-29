@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Future Hospital Jersey
-
 Website showing options for the the future hospital in Jersey - one of the largest construction projects in the Island's recent history.

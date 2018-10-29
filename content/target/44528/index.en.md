@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Morgan Stanley just admitted that it doesn't really know what Brexit will do to the British economy
-
 article on the effects of Brexit on the British economy

@@ -10,6 +10,4 @@
   "start_date": "2017-05-23T09:00:00Z"
 }
 
-# Kantar Public
-
 Kantar Public works with more than 40 Governments around the world, as well as many leading universities, NGOs and corporations. 

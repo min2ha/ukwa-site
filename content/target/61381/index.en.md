@@ -10,6 +10,4 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# TAPE Community Music and Film 
-
 TAPE is an community arts charity based in Colwyn Bay. The charity provides opportunities for people of all ages and abilities to explore their creative ideas through music, film and the arts.

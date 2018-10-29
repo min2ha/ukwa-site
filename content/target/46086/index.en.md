@@ -10,8 +10,6 @@
   "start_date": "2016-10-11T11:00:00Z"
 }
 
-# Newidiadau dros dro i Wasanaethau Merched a Mamolaeth | Temporary changes to Women's and Maternity Services
-
 In early 2015, Public Health Wales (PHW) and the Wales Health Impact Assessment 
 Support Unit (WHIASU) were approached by Betsi Cadwaldr University Health Board 
 (BCUHB) to undertake a Health Impact Assessment (HIA) of proposed temporary changes to Women’s and Maternity Services in Ysbyty Glan Clwyd, Bodelwyddan, North Wales. The Temporary Changes to Maternity and Womens’ Services public consultation ran from August 24, 2015, until a meeting of our Board on December 8, 2015 

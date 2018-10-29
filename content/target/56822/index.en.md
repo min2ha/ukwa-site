@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stag and Dagger : Live at Glasgow
-
 Site of an annual multi-venue music festival located in Glasgow, and featuring alternative / independent acts.

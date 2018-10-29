@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Quarr Abbey
-
 Welcome to the Abbey of Our Lady of Quarr, a monastery on the Isle of Wight, just off the south coast of England. It is home to a small group of Benedictine monks who strive to dedicate their lives to the glory of God, and whose day is characterised by prayer, work and community life.

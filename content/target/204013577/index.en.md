@@ -10,5 +10,3 @@
   "start_date": "2013-11-11T00:00:00Z"
 }
 
-# Children and Young People's University Cymru | Prifysgol Plant a Phobl Ifanc
-

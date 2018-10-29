@@ -10,6 +10,4 @@
   "start_date": "2010-07-14T00:00:00Z"
 }
 
-# Liver Transplant Support
-
 This site is aimed at informing you by reading the experiences of others: what happens from being diagnosed with a potential life threatening liver situation to the expectation of a successful conclusion. 

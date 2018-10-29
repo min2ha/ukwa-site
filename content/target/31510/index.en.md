@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Spy
-
 Digital Spy was founded in 2001, combining a network of sites about digital TV, broadcasting and programming into a new destination for news and conversation about entertainment, technology and the media.

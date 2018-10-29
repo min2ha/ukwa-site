@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Richard John (@RichardJohnRJ) on Twitter (Conservative candidate for South Wales Central)
-
 Richard John is the Conservative candidate for South Wales Central at the 2016 National Assembly Election. 

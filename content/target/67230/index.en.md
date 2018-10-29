@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# ARCH, A Regional Collaboration for Health
-
 A Regional Collaboration for Health (ARCH) is a unique partnership between Swansea University, ABMU & Hywel Dda university health boards working together to improve health, wealth & wellbeing in Wales. It spans six local authority areas of Ceredigion, Pembrokeshire, Carmarthenshire, Bridgend, Neath Port Talbot and Swansea.

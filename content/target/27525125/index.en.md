@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# 360 Degrees
-

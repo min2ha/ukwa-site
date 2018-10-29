@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Thornton Hibs Junior Football Club
-
 Site for a Scottish junior football club based in Thornton, Fife.

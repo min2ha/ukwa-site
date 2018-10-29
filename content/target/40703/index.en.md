@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# North Street Review
-
 Peer-reviewed post-graduate journal published by the School of Art History and Museum and Galleries Studies at the University of St. Andrews.

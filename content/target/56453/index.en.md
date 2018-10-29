@@ -10,6 +10,4 @@
   "start_date": "2017-08-08T09:00:00Z"
 }
 
-# Sounds Like: London
-
 A website that highlights some of the various sounds across London.

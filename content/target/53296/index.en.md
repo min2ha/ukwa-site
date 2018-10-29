@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Islington Liberal Democrats
-
 Website of Islington Liberal Democrats, offering news of both local activity and the 2017 general election campaign.

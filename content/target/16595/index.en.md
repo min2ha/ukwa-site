@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 1m voters lost from electoral roll, says Ed Miliband
-
 None

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Trawslink Cymru (Ymgyrch Rheilffordd Gorllewin Cymru | West Wales Rail Campaign)
-
 The Traws Link Cymru is a grass roots campaign calling for the re-instatement of rail links in west Wales.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# David Jenkins on Facebook (Conservative candidate for Aberavon)
-
 David Jenkins is the Conservative candidate for Aberavon at the 2016 National Assembly Election. 

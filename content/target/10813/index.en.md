@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# British Medical Association: Scottish independence referendum and its implications
-
 None

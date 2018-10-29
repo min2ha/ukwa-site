@@ -3580,6 +3580,4 @@
   "endDateText": "31-07-2014"
 }
 
-# European Parliament Elections 2014
-
 This collection of archived websites focusses on the 2014 European Parliament elections held on Thursday 22 May 2014. The websites, curated by staff at the Legal Deposit Libraries, have a UK focus and include campaign sites, press & media comment, interest groups and official party websites.

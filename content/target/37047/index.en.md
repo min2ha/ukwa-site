@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: Boris vs Barack in the EU referendum campaign
-
 A conservative comment on Boris Johnson's words on Obama's upcoming visit

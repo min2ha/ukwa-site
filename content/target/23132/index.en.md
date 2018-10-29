@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kieran Andrews (@c_kandrews) on Twitter
-
 Twitter profile of Kieran Andrews, Political Editor of The Courier.

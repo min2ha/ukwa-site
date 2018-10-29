@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Beverage Standards Association, The 
-
 Trade association for suppliers and retailers in the beverage industry, including coffee shops. 

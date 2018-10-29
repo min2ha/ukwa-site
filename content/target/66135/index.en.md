@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Event Marketing Association (EMA)
-
 EMA is a UK Association exclusively for corporate in-house event planners & marketers.

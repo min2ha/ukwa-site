@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# The eBay Community
-
 Forum for the ebay community to discuss a range of topics

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Teenage founder of #milifandom says her parents really hate Ed Miliband
-
 None

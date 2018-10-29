@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Alter Landscapes
-
 Alter Landscapes is a landscaping and fencing contractor based in Renfrewshire Scotland.

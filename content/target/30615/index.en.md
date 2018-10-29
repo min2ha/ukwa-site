@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Safeguarding Partnership Board Procedures (Jersey)
-
 Website with procedures for the Safeguarding Partnership Board (Adults and Children)

@@ -10,6 +10,4 @@
   "start_date": "2015-03-20T09:00:00Z"
 }
 
-# Save EMA
-
 Save EMA is a progressive political campaign. It aims to provide a voice to over half a million of the poorest young people in Britain, who face the potential loss of the vital Education Maintenance Allowance.

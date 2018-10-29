@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Old Kirk and Muirhouse Parish Church, The
-
 New website of the Old Kirk and Muirhouse Parish Church. 

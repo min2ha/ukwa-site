@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HannahB4LiviMP (@HannahB4LiviMP) on Twitter
-
 Twitter profile of Hannah Bardell, Scottish National Party candidate for Livingston in the 2017 general election.

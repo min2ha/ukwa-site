@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: 'We must break out of the EU jail': Boris Johnson urges Britain to leave Europe as he savages 'agents of project fear' who oppose Brexit   
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Three political veterans predict the 2015 UK election
-
 None

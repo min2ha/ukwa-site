@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015 sketch: The SNP 'combusts in a frenzy of acclaim' as Nicola Sturgeon launches the manifesto 
-
 None

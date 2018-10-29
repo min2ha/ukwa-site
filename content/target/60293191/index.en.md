@@ -10,8 +10,6 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Centre for Social Justice (CSJ)
-
 
 
 The Centre for Social Justice (CSJ) was established as an independent think-tank in 2004 to put social justice at the heart of British politics and make policy recommendations to tackle the root causes of poverty.

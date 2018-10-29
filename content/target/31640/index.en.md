@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Bruce On Games
-
 Blog by Bruce Everiss, a veteran games industry marketer.

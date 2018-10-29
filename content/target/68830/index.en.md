@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Irish Post, The: World Cup 2018
-
 World Cup 2018 | The Irish Post

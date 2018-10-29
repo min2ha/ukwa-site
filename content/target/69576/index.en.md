@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# G-irl (@girls_irl) on Twitter
-
 G-irl is an all-girl interview series exploring the lives of talented women. This is their official Twitter account.

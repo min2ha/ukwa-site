@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Hessilhead Wildlife Rescue
-
 Site of a Scottish charity based in Beith, North Ayrshire aiming to rescue, treat, rehabilitate and release birds and animals back to the wild.

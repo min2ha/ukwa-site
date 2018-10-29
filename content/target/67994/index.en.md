@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cornwall Motorfest
-
 Website for the Cornwall Motorfest

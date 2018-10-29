@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Jane Turner Stone Carver
-
 Jane Turner is a stone carver and letter-cutter based in Abergavenny, Monmouthshire.

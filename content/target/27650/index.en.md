@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Douglas Carswell is a decent man. How long can he put up with Ukip?
-
 None

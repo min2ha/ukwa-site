@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Lit-Net: For readers, writers, storytellers & lovers of words throughout the Midlands & beyond
-
 A literary website based on promoting events and literature in the West Midland's. It was previously funded by MLA and the Arts Council. 

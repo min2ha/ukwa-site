@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Zero Carbon Britain
-
 <p>The Zero Carbon Britain project was formed at the Centre for Alternative Technology in 2006 and demonstrates that a modern, zero-emissions society is possible using technology available today.</p>

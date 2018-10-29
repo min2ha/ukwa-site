@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM press conference with New Zealand Prime Minister Bill English: 13 January 2017
-
 Prime Minister Theresa May and Prime Minister Bill English of New Zealand held a press conference after their meeting at 10 Downing Street, which covered Brexit and free trade, among other matters.

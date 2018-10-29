@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Goldie Sayers - Professional Athlete for Great Britain and 9 time National Champion
-
 <p>The website of javelin thrower Goldie Sayers, a member of Team for the Glasgow 2014 Commonwealth Games.</p>

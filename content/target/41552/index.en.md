@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Knockengorroch World Ceilidh
-
 Site of an annual music festival held near Kirkcudbright, Dumfries & Galloway.

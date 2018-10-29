@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Publish & Print
-
 Publish and print is a small Welsh publisher based in Pontypridd.

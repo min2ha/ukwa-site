@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Stardust Spells
-
 Website offering practical white magic, based in North Devon.

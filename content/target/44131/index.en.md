@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# #AskALibrarian: What are the consequences of the EU referendum result?
-
 Guidelines on how to navigate through search engine results to find relevant information on the consequences of the EU Referendum result provided by a librarian.

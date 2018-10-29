@@ -10,6 +10,4 @@
   "start_date": "2011-04-05T00:00:00Z"
 }
 
-# British Science Association
-
 We are a registered charity that exists to advance the public understanding, accessibility and accountability of the sciences and engineering in the UK. 

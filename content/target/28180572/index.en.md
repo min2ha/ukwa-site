@@ -10,5 +10,3 @@
   "start_date": "2009-04-22T00:00:00Z"
 }
 
-# Princess Royal Trust for Carers
-

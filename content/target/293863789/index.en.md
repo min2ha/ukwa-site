@@ -10,5 +10,3 @@
   "start_date": "2015-06-15T00:00:00Z"
 }
 
-# Bay Trans
-

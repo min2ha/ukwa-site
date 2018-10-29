@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Society of Young Publishers (SYP) Scotland
-
 An organisation for anyone who has worked in publishing for less than 10 years.

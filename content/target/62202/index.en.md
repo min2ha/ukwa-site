@@ -11,7 +11,5 @@
   "subject": "Sports Collection"
 }
 
-# Deepdale Stadium
-
 Deepdale
 Deepdale is a football stadium in the Deepdale area of Preston, England, the home of Preston North End F.C.

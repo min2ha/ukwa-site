@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Magna Carta copy on show in London
-

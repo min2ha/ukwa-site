@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Altrincham F.C.
-
 Altrincham Football Club is a semi-professional football club in Altrincham, Greater Manchester, England. Nicknamed "the Robins", the club was founded in 1891 and have played at Moss Lane since 1910. They are currently members of the Northern Premier League Premier Division, the seventh tier of English football.

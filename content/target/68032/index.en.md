@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Settle-Carlisle Walking Festival
-
 festival of walks, talks and music along the fabulous Settle-Carlisle railway line.

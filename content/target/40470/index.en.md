@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 1914 - 1918: The Ayrshire Experience
-
 Project to exhibit collections from Museums, Libraries and Archives, showing how the communities of Ayrshire served, worked and lived through WW1.

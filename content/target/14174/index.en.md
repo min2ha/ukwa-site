@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# gonnaemapit.com: a Scottish map blog
-
 None

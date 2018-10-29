@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T13:00:00Z"
 }
 
-# MÄ HAREL
-
 The site of the Illustrator Marie-Alice Harel.

@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# British Spanish Society
-
 The British Spanish Society is a registered charity whose object is to promote friendship and understanding between the people of Britain and Spain through knowledge of each other’s customs, institutions, history and way of life. 

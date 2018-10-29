@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Firebrand Theatre Company
-
 Site of a theatre company based in Hawick, in the Scottish Borders.

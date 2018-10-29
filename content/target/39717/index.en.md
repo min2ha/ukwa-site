@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE: North East Scotland on Facebook
-
 Facebook page of the North East Scotland branch of RISE: Scotland's Left Alliance.

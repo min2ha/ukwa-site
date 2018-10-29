@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror: Are you addicted to social media? Experts explain the signs and symptoms you should look out for
-
 News article that gives advice and information on social media and how to spot the signs you may be addicted or know some one who is

@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Scotsman, The: On this day 1890: Forth Rail Bridge opens
-

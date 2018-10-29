@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Scotland is an incredibly wealthy country
-
 <p>Yes Scotland post made at 2.45pm on the 16th of September, 2014.</p>

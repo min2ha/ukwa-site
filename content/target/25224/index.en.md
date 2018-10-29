@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron is a weed: Nigel Farage blasts Prime Minister for dodging TV election debate
-
 None

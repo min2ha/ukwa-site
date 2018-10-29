@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: BBC debate: Miliband and Sturgeon clash over post-election deal
-
 None

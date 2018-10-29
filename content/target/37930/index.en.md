@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scientists for Britain (@ScienceBritain) on Twitter
-
 UK scientists concerned about pro-EU campaigners misusing science for political gain

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Orion Engineering Services Limited
-
 The website of Orion Engineering Services Limited, a Scotland-based recruitment compnay serving the engineering and technical industries. 

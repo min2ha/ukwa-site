@@ -11,5 +11,3 @@
   "subject": "History of Libraries Collection"
 }
 
-# Discover St John's: Library History
-

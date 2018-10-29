@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Rett Syndrome Research Trust
-
 None

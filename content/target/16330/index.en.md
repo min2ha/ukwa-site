@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Friends of Welsh Hockey
-
 <p>'Friends of Welsh Hockey is a Charity set up to support field hockey activities within Wales.' - homepage.</p>

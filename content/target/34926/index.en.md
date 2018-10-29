@@ -10,5 +10,3 @@
   "start_date": "2016-02-03T09:00:00Z"
 }
 
-# Gŵyl Cerddoriaeth Arbrofol | Experimental Music Festival 
-

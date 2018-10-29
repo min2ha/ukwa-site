@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: BRENDAN O'NEILL We’ve been told Brexit will bring hunger, sickness, pestilence… what next — plagues of locusts?
-
 Comments on renewed attempts to terrify the British people about the impact of Brexit

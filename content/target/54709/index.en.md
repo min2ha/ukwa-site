@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Braemar Creative Arts Festival
-
 Site of an arts festival in Braemar Aberdeenshire.

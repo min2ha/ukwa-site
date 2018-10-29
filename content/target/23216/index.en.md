@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Baron von Magpie Bum (@MagpieBum) on Twitter (Official Monster Raving Loony candidate for Islwyn)
-

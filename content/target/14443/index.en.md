@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Evolution Argyle and Bute
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-11-18T09:00:00Z"
 }
 
-# Great and Little Orme Birding
-
 Birds and Wildlife blog of the Great Orme Country Park and Little Orme LNR, Conwy.

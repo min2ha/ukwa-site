@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Dingwall Museum Trust
-
 Site of a museum based in Dingwall, Highland.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Beith Juniors Football Club
-
 Site for a Scottish junior football club based in Beith, Ayrshire.

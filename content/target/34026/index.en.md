@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Antiques Atlas
-
 A UK antiques directory and online catalogue

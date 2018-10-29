@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# Who are the Windrush Poles?
-
 Site commemorating and raising awareness of the 66 Polish refugees, mainly women and girls, who travelled to Tilbury on the Empire Windrush, arriving on 22 June 1948 to join male relatives who had fought with he Polish Free Forces during World War 2.  They were among 1.5 million Poles deported to Siberian labour camps.  In subsequent years c. 100,000 Polish refugees arrived in Britain.

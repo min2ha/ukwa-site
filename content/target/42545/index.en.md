@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Loughborough University: EU referendum 2016
-
 Offers analysis of the media coverage of the EU referendum debate

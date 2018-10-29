@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: UK-EU relations after Brexit
-
 The EU Committee's report argues that the UK and EU have approached the negotiations with too great a focus on 'red lines', increasing the risk that they will be left without an agreement on the future relationship. It calls on both sides to focus on identifying benefits, and areas of mutual interest, and to acknowledge that compromises will be needed.
 

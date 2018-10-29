@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Antofagasta plc
-
 Antofagasta plc is a Chile-based copper mining group with significant by-product production and interests in transportation.

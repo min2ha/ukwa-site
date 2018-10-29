@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: The torture of watching my husband choose between his beliefs and his old friend the PM: Daily Mail columnist SARAH VINE's intensely personal account of a momentous decision   
-

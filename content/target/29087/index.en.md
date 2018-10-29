@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Newton Abbot Conservatives
-
 Website of Newton Abbot Conservatives, providing information on county, district and town councillors, MPs, events and national news.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Mapping Memorials to Women in Scotland
-
 Site of a project to map the memorials to women located throughout Scotland.

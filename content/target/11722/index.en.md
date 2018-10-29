@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kirsty Gilmour (KirstyGilmourr) on Twitter
-
 The twitter profile of badminton player Kirsty Gilmour.

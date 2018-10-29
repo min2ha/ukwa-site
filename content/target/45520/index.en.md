@@ -10,6 +10,4 @@
   "start_date": "2016-09-22T10:00:00Z"
 }
 
-# Amicable
-
 Amicable is an online business that assists couples in the divorce process.

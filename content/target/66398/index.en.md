@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# National Activity Providers Association
-
 NAPA is an umbrella organisation that connects, signposts, encourages and motivates anyone with an interest in lifestyle, well –being, life, love and laughter in the care sector.

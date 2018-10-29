@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# How to Make a Brexit on BBC Radio 4
-

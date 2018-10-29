@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home:  The EEA is a much more attractive option than Chequers, the ‘implementation period’, or No Deal
-
 Argues in favour of the UK remaining at least temporarily in the EEA as an alternative to a "N0 Deal" Brexit or the Chequers blueprint.

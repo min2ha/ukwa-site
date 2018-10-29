@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Mewn Cymeriad | In Character
-
 Mewn Cymeriad is a one man/woman show visiting primary schools across Wales and teaching Welsh history in an imaginative way.

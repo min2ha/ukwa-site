@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rotherham United Football Club
-
 Rotherham United Football Club, nicknamed The Millers, is a professional association football club based in Rotherham, South Yorkshire, England. Founded in 1925 as a merger between Rotherham Town (1899) and Rotherham County (1870), the club's colours were initially yellow and black, but later evolved into the more traditional red and white.

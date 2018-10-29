@@ -10,5 +10,3 @@
   "start_date": "2016-01-05T09:00:00Z"
 }
 
-# Swansea Young Single Homeless Project (SYSHP)
-

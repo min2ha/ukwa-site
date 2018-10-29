@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: On Europe, Corbyn must get off the fence before it is too late
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dollar Parish Church
-
 Site of a Church of Scotland parish church at Dollar, Clackmannanshire, and its linked parishes churches at Glendevon and Muckart.

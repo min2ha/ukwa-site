@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: I won't quit if there's a wipe out, says Clegg
-
 None

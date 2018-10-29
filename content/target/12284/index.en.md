@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alice Barnes.
-
 <p>Blog post written by cyclist Alice Barnes, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

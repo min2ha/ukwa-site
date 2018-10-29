@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Spire FM: Magna Carta exhibition taking shape at Salisbury Cathedral
-

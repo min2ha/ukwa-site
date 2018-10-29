@@ -10,6 +10,4 @@
   "start_date": "2016-06-08T10:00:00Z"
 }
 
-# Ballachulish Community Council
-
 Site providing local information for residents and visitors about the village of Ballachulish, Highland, Scotland, and its community council's activities.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Siân.❤️ (SianHarkin) on Twitter
-
 The twitter profile of Sian Harkin, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

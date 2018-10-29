@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Bangor University: Canolfan Astudiaeth R. S. Thomas Study Centre
-
 <p>Devoted to the Welsh poet R. S. Thomas and promoting research into his work.</p>

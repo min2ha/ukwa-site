@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit offers Britain a chance to mould a fairer society
-

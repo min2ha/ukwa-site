@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Darlington Military Modelling Society
-
  Military modelling club based in Darlington Co Durham

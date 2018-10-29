@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Betfair: Brexit Betting: New polls are wake-up call for Remain
-
 An article on the gambling odds for 'Brexit'.

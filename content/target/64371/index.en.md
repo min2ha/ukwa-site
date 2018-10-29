@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Stop Brexit 
-
 Stop Brexit Limited is a new campaigning organisation, established in July 2017, with the sole aim of preventing the UK from leaving the EU. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Drop the Target: May's 'tens of thousands' immigration cap would cut labour supply and deepen existing shortages, report says
-
 he Government should base future immigration policy on economic need instead of an arbitrary numerical target, the consultancy RepGraph says

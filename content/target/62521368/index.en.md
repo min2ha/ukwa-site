@@ -10,5 +10,3 @@
   "start_date": "2011-11-08T00:00:00Z"
 }
 
-# Helpu Cymru i laihau ei Hol Troed Carbon | Help Wales reduce its Carbon Footprint
-

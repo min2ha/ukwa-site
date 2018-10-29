@@ -10,5 +10,3 @@
   "start_date": "2013-10-25T00:00:00Z"
 }
 
-# All Wales Medicines Strategy Group
-

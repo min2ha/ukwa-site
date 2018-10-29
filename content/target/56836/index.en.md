@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Oral History in Higher Education Network (OHHEN)
-
 The Oral History in Higher Education Network wishes to provide support and connect oral history researchers across the UK. 

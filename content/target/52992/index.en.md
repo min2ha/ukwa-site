@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nimco Ali (@NimkoAli ) on Twitter (Women's Equality Party Politician)
-
 Nimco Ali stood as Women's Equality Party candidate for Hornsey and Wood Green in the 2017 General Election but was not elected.

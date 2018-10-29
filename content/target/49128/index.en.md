@@ -10,6 +10,4 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Abbots Langley Local History Society
-
 The Abbots Langley Local History Society was founded in 1994. Its objectives are to encourage interest in the recent and distant past history of the area, particularly the landscape, buildings and, of course, the people.

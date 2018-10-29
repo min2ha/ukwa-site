@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why UK politicians could learn a lot from the Pirate party 
-

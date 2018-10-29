@@ -10,6 +10,4 @@
   "start_date": "2017-08-10T09:00:00Z"
 }
 
-# RWG Mobile
-
 RWG is the first Welsh based, bilingual (Welsh/English) mobile phone service for people who lives in Wales.

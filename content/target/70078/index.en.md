@@ -10,6 +10,4 @@
   "start_date": "2018-08-18T09:00:00Z"
 }
 
-#  Joint Council for the Welfare of Immigrants (JCWI)
-
 The Joint Council for the Welfare of Immigrants (JCWI) is an independent national charity which exists to campaign for justice in immigration, nationality and refugee law and policy. 

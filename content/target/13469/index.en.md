@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fiona O'Donnell MP (FionaODonnellMP) on Twitter
-
 The twitter profile of Fiona O'Donnell, Labour Parliamentary Candidate for East Lothian in the 2015 UK General election.

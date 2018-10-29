@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Midlands Air Festival
-
 Website for the Midlands Air Festival

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 26th March 2018: European Council
-
 The Prime Minister updates the House on what happened at the March European Council meeting, including confronting Russia's threat to international order and the agreement on the Brexit implementation period. Her statement is followed by questions.

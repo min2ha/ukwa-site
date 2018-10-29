@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alliance Party: Contact List (Assembly Election 2017 Candidates and Constituency details) 
-
 This page includes the main contact details for the party as well as Assembly Election 2017 Candidates and Constituency details.

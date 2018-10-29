@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# DocuSign
-
 Fast and secure way to sign, send & approve documents from any mobile device—anywhere in the world.

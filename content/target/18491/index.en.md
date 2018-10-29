@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron, Ed Miliband, Nick Clegg consider 'digital debate' after broadcasters' stalemate
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Stonewall Scotland
-
 Site of a on organisation based in Scotland researching issues affecting LGBT people in Scotland, campaigning on their behalf and providing support to the Scottish LGBT communities.

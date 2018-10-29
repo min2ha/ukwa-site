@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Actonians RFC
-
 West London rugby club welcoming players of all abilities, excellent coaching staff and facilities, and great social scene.

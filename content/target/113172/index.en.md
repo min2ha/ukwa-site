@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# Citizens Advice
-
 Citizens Advice gives free, confidential information and advice to assist people with money, legal, consumer and other problems.The twin aims of the Citizens Advice service are to provide the advice people need for the problems they face and secondly to improve the policies and principles that affect people's lives a research and campaigns agenda known as social policy.

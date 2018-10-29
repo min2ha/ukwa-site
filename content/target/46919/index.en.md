@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Amnesty International UK: Amnesty launches campaign on racism
-
 Amnesty press release for the launch of their campaign on racism in the UK.

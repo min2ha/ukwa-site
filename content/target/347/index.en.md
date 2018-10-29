@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Buckinghamshire Health and Wellbeing Board
-
 None

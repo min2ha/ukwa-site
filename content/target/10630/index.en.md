@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Sinn Fein
-
 Official website of a political party active in Northern Ireland and the Republic of Ireland.

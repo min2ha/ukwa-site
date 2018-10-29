@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tim Parry Jonathan Ball Foundation for Peace: Elections 2015 – our position (Tim Parry Johnathan Ball Foundation for Peace)
-
 The Foundation works nationally to support those affected by terrorism and conflict. With over 20 years of experience, they believe that addressing the causes of violence before, during and after conflict situations is the most effective way possible to promote peace. Their projects and programmes work within three main areas; prevention, resolution and response. 

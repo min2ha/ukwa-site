@@ -10,5 +10,3 @@
   "start_date": "2015-04-02T06:00:00Z"
 }
 
-# Moray Offshore Renewables
-

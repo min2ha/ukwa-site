@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# Department for Environment, Food and Rural Affairs (DEFRA): Genetic Modification (GM)
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ilfracombe RFC (@Ilfracombe_RFC) on Twitter
-
 The official Twitter account of Ilfracombe Rugby Football Club.

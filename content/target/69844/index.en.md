@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Women for a People's Vote (@women4PV) on Twitter
-
 A sub section of the People's Vote campaign against Brexit focused on women.

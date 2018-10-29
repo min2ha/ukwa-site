@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Islington Liberal Democrats (@IslingtonLibDem  ) on Twitter
-
 Official Twitter account of Islington Liberal Democrats, covering their 2017 general election campaign.

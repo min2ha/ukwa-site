@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Leaders' debate: David Cameron emerges unscathed ...but YOU say Nigel Farage won
-
 None

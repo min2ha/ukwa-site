@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# We Will Remember Them
-
 We Will Remember Them commemorates the lives of the 75 former pupils from North Primary School, Colchester, Essex, who served and died in the First World War.

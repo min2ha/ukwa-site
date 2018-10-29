@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Casglwr, Y
-
 Cymdeithas Bob Owen is a Welsh bibliophile society. The site provides online access to their journal, Y Casglwr.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jacqueline Hurst (@hurstJaq) on Twitter 
-
 Jacqueline Hurst is the Plaid Cymru candidate for Alyn and Deeside in the 2016 National Assembly for Wales elections and 2017 General Election.

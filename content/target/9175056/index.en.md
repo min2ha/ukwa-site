@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Gowethas Kernow Goth Cambron - Camborne Old Cornwall Societ
-
 None

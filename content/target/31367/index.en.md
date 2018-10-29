@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Getty Images
-
 Getty Images is a website with high quality images that can be purchased online.

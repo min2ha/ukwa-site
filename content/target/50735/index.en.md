@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Haven's Beacon Churches
-
 The Haven's Beacon Churches are three churches, St Madoc of Ferns at Haroldston West, St Mary the Virgin at Talbenny and All Saints at Walton West in Pembrokeshire.

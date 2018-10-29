@@ -10,6 +10,4 @@
   "start_date": "2015-07-08T10:00:00Z"
 }
 
-# Ysgol Llanfynydd Primary School
-
 Primary school in Flintshire earmarked for closure in 2015.

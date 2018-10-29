@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Fife Environment Trust
-
 Site of a trust established to provide a mechanism whereby locally generated landfill taxation could be made available to fund a wide variety of environmental and community projects meeting the overall objectives of the Landfill Communities Fund.

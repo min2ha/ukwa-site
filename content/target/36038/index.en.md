@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alison Dickie SNP (@AlisonDickieSNP) on Twitter
-
 The Twitter profile of Alison Dickie, the Scottish National Party candidate for Edinburgh Central in the 2016 Scottish Parliament election.

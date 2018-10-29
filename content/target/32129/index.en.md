@@ -10,6 +10,4 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Meadow Prospect
-
 Meadow Prospect is the charitable arm of Rhondda Cynon Taff Homes RCT Homes, Wales’ largest social landlord delivering regeneration projects across the region.

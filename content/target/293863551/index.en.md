@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Helping Hand with Debt, A
-
 Scottish Government website offering advice about debt.

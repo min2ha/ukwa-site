@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# South East Scotland Wargames Club
-
 Site of a group of strategy board games players in the genres of fantasy, scifi and historical, and their annual 'Claymore' festival.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU holds summit without UK to formalise Brexit strategy
-
 European Union countries are meeting in Brussels to discuss a joint strategy for negotiations with the UK over Brexit

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Fondation Robert Schuman
-
 The Robert Schumann Foundation, a research centre  founded after the fall of the Berlin Wall develops studies on the European Union and its policies promoting the content of these in France, Europe and elsewhere in the world. It encourages, contributes to and stimulates European debate thanks to the wealth of its research, publications and the organisation of conferences. 

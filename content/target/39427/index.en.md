@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Tavish Scott for Shetland 2016 on Facebook
-

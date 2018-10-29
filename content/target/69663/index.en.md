@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Just So festival
-
 family festival providing a magical experience where art, music and literature are embedded and entwined in a beautiful and wondrous landscape.

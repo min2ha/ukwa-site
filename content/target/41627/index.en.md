@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Onion collective
-
 Onion Collective is a newly formed Social Enterprise founded by a group of ambitious but socially-minded citizens who all live here in West Somerset.  We aim to  harness and develop the collective expertise built-up during our various career paths and bring it to bear for social and community benefit, driving forward community-based projects with energy, passion and realism.

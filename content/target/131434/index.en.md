@@ -10,6 +10,4 @@
   "start_date": "2006-04-03T00:00:00Z"
 }
 
-# Multiple Births Foundation
-
 The Multiple Births Foundation (MBF) was founded in 1988 by Dr Elizabeth Bryan MD FRCP FRCPCH, an international expert on multiple births and past President of the ISTS (International Society for Twin Studies).

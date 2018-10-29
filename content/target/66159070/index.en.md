@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Tai Calon Community Housing
-
 Tai Calon Community Housing is the largest social housing landlord in Blaenau Gwent and was created in 2010 after tenants of Blaenau Gwent County Borough Council voted in favour of their homes being transferred to the new “not for profit” organisation. 

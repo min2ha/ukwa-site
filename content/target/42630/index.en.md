@@ -10,5 +10,3 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Cyngor Tref Cei Newydd | New Quay Town Council
-

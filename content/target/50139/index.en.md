@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# Indian Council for Cultural Relations - Government of India
-

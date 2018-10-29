@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bristol Imperial RFC on Pitchero
-
 The official website of Bristol Imperial Rugby Football Club.

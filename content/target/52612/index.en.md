@@ -10,6 +10,4 @@
   "start_date": "2017-04-28T09:00:00Z"
 }
 
-# Cambria Nostra
-
 Cambria Nostra provides commentary, opinion and analysis of current affairs in Wales, the United Kingdom and Europe.

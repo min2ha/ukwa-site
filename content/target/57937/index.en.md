@@ -10,6 +10,4 @@
   "start_date": "2017-10-19T09:00:00Z"
 }
 
-# Narberth Civic Week
-
 Narberth Civic Week is one of Wales’ largest carnivals and is held in July.

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Phil Forder Art
-
 Phil Forder is the community engagement manager for G4S at Parc Prison. His role is create a more inclusive LGBT+ environment at the prison and his claims to fame include setting up the first LGBT+ prisoner football team. He is a mentor to LGBT+ people and set up a "prisoners' accord" to challenge negative "banter" and homophobia. The prison has a buddy system to welcome any new gay prisoner. 

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Rangers Together (rangerstogether) on Twitter
-

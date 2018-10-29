@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Journal.ie, The: Eight Amendment 
-
 A sub section of The Journal.ie about the Eight Amendment referendum in the Republic of Ireland on the 25th of May 2018.  

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Craig (mcraig585) on Twitter
-
 <p>The twitter profile of squash player Michael Craig, member of Team Northern Ireland for the Glasgow 2014 Commonwealth Games.</p>

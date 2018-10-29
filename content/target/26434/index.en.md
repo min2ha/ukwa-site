@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A law to ban tax rises. Do you think that’s wise, prime minister?
-
 None

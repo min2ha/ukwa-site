@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Chequers plan still credible, says minister
-
 Reports that the UK government was insisting Theresa May's Brexit proposal was a "workable, credible" deal, despite it being rejected by EU leaders at a summit in Salzburg in September 2018
 

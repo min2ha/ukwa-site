@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Robert Bellarmine Church
-
 Site of a Scottish Roman Catholic parish church located in Glasgow.

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Ashbourne Beer and Cider Festival
-
 Local beer festival

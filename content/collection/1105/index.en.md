@@ -94,6 +94,4 @@
   "endDateText": ""
 }
 
-# Russia in the UK
-
 This special collection focuses on Russian culture and community in the UK.

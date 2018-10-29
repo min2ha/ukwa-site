@@ -10,6 +10,4 @@
   "start_date": "2015-06-13T09:00:00Z"
 }
 
-# Visit Kent
-
 Website promoting tourism in Kent areas of Ashford & Tenterden, Dover, Deal & Sandwich, Faversham, Folkestone, Hythe & Romney Marsh, Gravesend & Dartford, Isle of Sheppey & Sittingbourne.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# National Instruments UK
-
 National Instruments UK is a company offering products and services in the field of technology

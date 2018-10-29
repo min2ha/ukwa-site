@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bournemouth and Poole Health and Wellbeing Board
-
 None

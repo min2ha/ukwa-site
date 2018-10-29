@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of Perpetual Succour Broomhill
-
 Site of a Roman Catholic church in Scotland for the parish of Our Lady of Perpetual Succour, Broomhill, Glasgow.

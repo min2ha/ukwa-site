@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Jeremy Miles
-
 Jermey Miles is the Welsh Labour & Co-operative Assembly Member for Neath. This is his blog. 

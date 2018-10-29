@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Former Tory minister Lord Green under pressure over HSBC tax claims
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Alan Wainwright and the Construction Industry Blacklist
-
 Blog covering 10 years work exposing blacklisting in the construction industry

@@ -10,6 +10,4 @@
   "start_date": "2017-04-21T09:00:00Z"
 }
 
-# Dyserth
-
 <p>The site provides a comprehensive history for the village of Dyserth in Denbighshire.</p>

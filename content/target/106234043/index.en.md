@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Magnox Ltd
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Morris & Spottiswood Limited
-
 The site of Morris & Spottiswood Limited, a Glasgow-based outfitting company. 

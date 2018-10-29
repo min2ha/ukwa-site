@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Wood Recyclers’ Association (WRA)
-
 The WRA is the official trade association for the wood recycling sector.

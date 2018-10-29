@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# IODS Limited
-
 The website of IODS Limited, a Scotland-based company that manufactures clad pipe and piping products. The company is part of Glenalmond Group Limited.

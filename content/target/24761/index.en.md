@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maeve Tomlinson (Green Party Candidate for Sutton and Cheam)
-
 Maeve Tomlinson Green Party Parliamentary Candidate for Sutton and Cheam at the General Election  but was not elected.

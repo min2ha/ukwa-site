@@ -10,6 +10,4 @@
   "start_date": "2015-12-15T09:00:00Z"
 }
 
-# Darganfod Cerddoriaeth Cymru | Discover Welsh Music 
-
 Discover Welsh Music is a digital archive that explores the history of Welsh music and is managed by Tŷ Cerdd – Music Centre Wales in partnership with Faber Music Publishing and The National Library of Wales. The resource currently focusses on five composers: William Mathias, Dilys Elwyn-Edwards, Grace Williams, Joseph Parry and Alun Hoddinott. 

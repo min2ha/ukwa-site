@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:07.201076", 
+  "date": "2018-10-29T13:22:14.054841", 
   "open_access": false, 
   "target_url": "http://revpamcrane.weebly.com/", 
   "description": "<p>The Adventurous Astrology website is dedicated to astrology. There are stories, techniques and poems by Pam Crane.</p>\n", 
   "end_date": null, 
   "title": "Adventurous Astrology, The", 
-  "record_id": "20181029T125507/Bz8+JvooNTsyCZc42k6jNg==", 
+  "record_id": "20181029T132214/Bz8+JvooNTsyCZc42k6jNg==", 
   "publisher": "weebly.com", 
   "start_date": null
 }
-
-# Adventurous Astrology, The
 
 <p>The Adventurous Astrology website is dedicated to astrology. There are stories, techniques and poems by Pam Crane.</p>

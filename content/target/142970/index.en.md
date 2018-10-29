@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Health Foundation, The
-
 The Health Foundation is an independent charity committed to bringing about better health and health care for people in the UK.

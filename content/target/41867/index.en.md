@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Black & White Publishing
-
 Site of a commercial book and e-book publisher based in Edinburgh, Scotland.

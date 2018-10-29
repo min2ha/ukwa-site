@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Laura Wilkinson
-
 Laura Wilkinson is the author of three novels: The Family Line, Public Battles, Private Wars, and Redemption Song, all published by Welsh Publisher, Accent.

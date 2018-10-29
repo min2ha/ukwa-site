@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# gov.uk: Foreign travel advice: Sierra Leone
-
 None

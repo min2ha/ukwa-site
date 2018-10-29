@@ -10,6 +10,4 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# Newton Stewart Cinema
-
 Site of a cinema in Newton Stewart, Dumfries & Galloway.

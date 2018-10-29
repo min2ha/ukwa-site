@@ -10,6 +10,4 @@
   "start_date": "2016-06-27T10:00:00Z"
 }
 
-# Zoë Strachan
-
 Website of the Scottish author Zoë Strachan.

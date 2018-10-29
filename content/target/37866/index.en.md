@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great War, The - through a London child’s eye
-
 Project to produce an inspiring, fun and engaging audio series to help contextualise and introduce children to London life in the early First World War years.

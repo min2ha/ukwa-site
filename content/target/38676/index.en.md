@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angela Boyd Moohan (@angela4lithgow) on Twitter
-
 Twitter profile of Angela Boyd Moohan, the Scottish Labour candidate for Linlithgow in the 2016 Scottish Parliamentary election.

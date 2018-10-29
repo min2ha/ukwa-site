@@ -10,5 +10,3 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# City of Nottingham At the Turn of the 21st Century, The
-

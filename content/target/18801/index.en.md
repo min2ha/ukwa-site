@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: Events: Professor Nigel Saul, Derek Knights Memorial Lecture – ‘Magna Carta: what should we celebrate?’
-

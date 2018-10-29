@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tide (Wales) Manifesto for Accessible Development Education
-
 The purpose of TIDE is to support people with an intellectual disability to access development education.It is a project managed by Disability Wales.

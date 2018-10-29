@@ -10,6 +10,4 @@
   "start_date": "2018-08-10T15:55:00Z"
 }
 
-# University Technology
-
 The University Technology Consortium promotes Scotland's universities' technology opportunities to potential candidates.

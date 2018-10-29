@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Whiston Village Info
-

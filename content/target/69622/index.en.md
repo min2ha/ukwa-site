@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Church Knightswood
-
 https://stninians.webnode.com/sitemap.xml

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Paul Sykes bankrolls Ukip campaign for European elections
-
 None

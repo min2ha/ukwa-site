@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Redditch & Bromsgrove CCG
-
 None

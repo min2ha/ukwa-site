@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Darlington Comedy Festival
-
 Website for the Darlington Comedy Festival.

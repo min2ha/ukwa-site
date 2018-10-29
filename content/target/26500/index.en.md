@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Vote who, go green? Parties diverge on how to save the planet
-
 None

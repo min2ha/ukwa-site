@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron: pensioner benefits protected if Tories win election - video
-
 None

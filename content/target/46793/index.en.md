@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister’s Office: PM calls with Chancellor Merkel and President Juncker: 4 November 2016
-
 The Prime Minister spoke with the German Chancellor and the European Commission President following the High Court judgement on Article 50 on November 4th 2016

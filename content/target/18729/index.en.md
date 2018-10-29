@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Justice campaigners propose boycott of Magna Carta anniversary summit 
-

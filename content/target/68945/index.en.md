@@ -10,6 +10,4 @@
   "start_date": "2018-07-17T09:00:00Z"
 }
 
-# Swedenborg Society (The)
-
 Society publishing and organising events related to the philosopher and scientist Emmanuel Swedenborg. 

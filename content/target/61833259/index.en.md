@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Gŵyl Bwyd Arberth | Narbeth Food Festival
-

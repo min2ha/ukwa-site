@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Question Time - Miliband stumbles, Cameron dodges
-
 None

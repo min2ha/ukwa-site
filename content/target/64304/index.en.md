@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Balfron Church
-
 Site of a Church of Scotland parish church at Balfron Stirlingshire.

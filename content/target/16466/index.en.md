@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nicola Sturgeon: SNP MPs will vote on English-only matters
-
 None

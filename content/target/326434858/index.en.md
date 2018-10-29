@@ -10,5 +10,3 @@
   "start_date": "2015-09-22T00:00:00Z"
 }
 
-# Gwefan Ann Griffiths website
-

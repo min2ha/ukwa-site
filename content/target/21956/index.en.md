@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanes Eifionydd History Society
-

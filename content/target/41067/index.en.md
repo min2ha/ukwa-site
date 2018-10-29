@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Colintraive and Glendaruel Development Trust
-
 Site of local development trust in Colintraive and Glendaruel, Argyll & Bute, aiming to regenerate the community by working on strategic planning and development through community consultation, and working in partnership with public sector and other organisations.

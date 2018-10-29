@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Emmaus Christian Fellowship Lampeter
-

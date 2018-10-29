@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Alex Neil MSP - Member of the Scottish Parliament for Airdrie & Shotts
-
 <p>The website of Alex Neil, Member of the Scottish Parliament for Airdrie &amp; Shotts.</p>

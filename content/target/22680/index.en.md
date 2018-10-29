@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gareth Johnson (Conservative Politician)
-
 Gareth Johnson stood as Conservative candidate for Dartford at the 2015 General Election. He was first elected to serve as MP for Dartford in 2010 and re-elected in 2015. He then stood for re-election again in 2017 and was successful.

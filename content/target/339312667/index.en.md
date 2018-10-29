@@ -10,6 +10,4 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Keith Andrew
-
 Keith Andrew a Welsh Artist and a contemporary visual artist working in Wales, UK

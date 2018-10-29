@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Countryside Matters, The
-
 A new campaign to unite people who love the countryside and believe it is worth investment and should remain a vital national priority has been unveiled by the Country Landowners' Association.

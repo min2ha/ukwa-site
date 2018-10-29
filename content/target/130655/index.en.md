@@ -10,5 +10,3 @@
   "start_date": "2005-12-05T00:00:00Z"
 }
 
-# Ask Cymru Wales : Bringing the resources of Welsh libraries to your mailbox - Dod ag adnoddau llyfrgelloedd Cymru i'ch blwch post
-

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Manchester Evening News: What's on (Comedy)
-
 The comedy 'What's On' section of the Manchester Evening News.

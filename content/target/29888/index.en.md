@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Just Festival on Facebook
-
 Official Facebook page for Just Festival, a festival featuring over 300 events and performances across Edinburgh each August.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Grassic Gibbon Centre
-
 Site of a museum dedicated to the life, work and times of Lewis Grassic Gibbon (pseudonym of James Leslie Mitchell].

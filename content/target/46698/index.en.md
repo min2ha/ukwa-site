@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Hen Lyfrgell, Yr
-
 Yr Hen Lyfrgell is Cardiff's first Welsh Cultural Centre and provides an opportunity 'to celebrate, use and hear the Welsh language' in the old Library building in the centre of Cardiff.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-#  Paul Sweeney MP ‏(@PaulJSweeney) THREAD on #GlasgowSchoolofArt
-
 A thread on a visit to the Glasgow School of Art with Glasgow fire service, posted on the 17th June 2018.

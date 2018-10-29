@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Jesuits in Britain: The Irish Catholic Church and the Easter Rising
-
 Series of talks in Edinburgh remembering the Easter Rising 

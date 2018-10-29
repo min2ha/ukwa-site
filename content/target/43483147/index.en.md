@@ -10,5 +10,3 @@
   "start_date": "2010-04-27T00:00:00Z"
 }
 
-# Eat Out Vegan Wales: Home
-

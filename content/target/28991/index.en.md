@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# St Neots Area Green Party
-

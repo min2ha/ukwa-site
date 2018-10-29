@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Salma Patel
-
 Personal site website for Salma Patel: Healthcare, Technology, Participation, Research and a PhD

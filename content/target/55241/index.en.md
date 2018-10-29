@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Veteran Films
-
 Veteran Films helps Veterans with mental or physical disabilities to 're-train whilst helping them shift focus away from their disability and give them a creative outlet to tell their stories.' They are responsible for the annual UK International Veterans’ Film Festival. The charity is based in Aberystwyth.

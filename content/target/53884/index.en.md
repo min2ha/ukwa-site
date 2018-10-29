@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Julian Burrett (Independent  Politician)
-
 Julian Burrett stood as Independent candidate in the constituency of Forest of Dean in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gwyddonias: Trafod ffuglen wyddonol yn y Gymraeg
-
 The blog discusses science fiction literature through the medium of Welsh.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Brecon Dementia Friendly Community
-
 Brecon Dementia Friendly Community is a community-led, voluntary, not-for-profit group, established in 2014. It offers advice and support to local organisations and agencies, shops and businesseson how to become dementia friendly.

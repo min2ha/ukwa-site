@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# 5boroughs Partnership
-
 None

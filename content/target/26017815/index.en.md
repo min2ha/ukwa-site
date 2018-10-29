@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Chambers of Commerce
-
 The British Chambers of Commerce (BCC) is the national body of 52 accredited chambers of commerce across the UK

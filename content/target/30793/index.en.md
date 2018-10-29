@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Harborne Edgbaston & Moseley Life
-

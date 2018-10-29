@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Steyning Festival
-
 Website for the Steyning Festival, a local festival for the people of Steyning and the surrounding area

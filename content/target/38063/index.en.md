@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Rattled Cameron's bizarre rant: PM makes extraordinary denial that Government is in disarray over the EU referendum   
-

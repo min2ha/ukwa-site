@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# New Statesman: In denying Nicola Sturgeon a referendum, Theresa May is gambling on a good Brexit deal 
-
 Article comments on Theresa May's decision to block a second referendum on Scottish independence in 2018/19. If the Brexit  deal is a good one, that advantages May. But if Britain does get a bad deal or worse still leaves without one, May’s decision not to fight a second referendum may age as badly as her decision not to get her own mandate while Labour was flat on its back last summer. 
 

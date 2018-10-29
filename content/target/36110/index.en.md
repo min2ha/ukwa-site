@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Universities for Europe
-
 The Universities for Europe campaign, led by Universities UK, will show the value of EU membership to our universities and why this matters to British people.

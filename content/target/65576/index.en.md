@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Lodge St. Andrew No. 518
-
 Site of a masonic lodge located in New Pitsligo, Aberdeenshire and affiliated with the Grand Lodge of Scotland.

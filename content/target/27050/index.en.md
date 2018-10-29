@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# British Comedy Academy, The
-
 The British Comedy Academy has been established to celebrate, showcase and support British comedy in all its forms at home and abroad and to establish an interactive forum with professionals and performers within the UK comedy and entertainment industries.

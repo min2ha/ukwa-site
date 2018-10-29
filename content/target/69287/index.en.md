@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# UK Electronics Skills Foundation
-
 The UKESF’s mission is to encourage more young people to study Electronics and to pursue careers in the sector.

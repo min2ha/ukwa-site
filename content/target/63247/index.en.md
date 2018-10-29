@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Sussex Russian Centre Kalinka
-
 Sussex Russian Centre KALINKA is a not-for-profit voluntary organisation, established in 2008 by a group of parents who to meet, socialise, make new friends and share common interests. 

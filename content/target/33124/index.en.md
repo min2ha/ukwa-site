@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Community Lives Consortium
-
 Community Lives Consortium was established to help disabled people living in the communities of Swansea and Neath Port Talbot.

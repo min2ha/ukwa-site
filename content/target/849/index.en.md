@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cornwall Partnership NHS Foundation Trust
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-10-19T09:00:00Z"
 }
 
-# Dawnus, a talent for construction
-
 Dawnus is an international civil engineering and building company based in Swansea. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

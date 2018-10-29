@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Scottish Partnership for Palliative Care
-
 Site of a group of organisations involved in providing care towards the end of life in Scotland.

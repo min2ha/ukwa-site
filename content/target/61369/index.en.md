@@ -10,5 +10,3 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# Llantwit Major Surf Life Saving Club | Clwb Achub Bywyd o'r Môr Llanilltud Fawr
-

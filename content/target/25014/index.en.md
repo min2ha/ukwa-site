@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: The brains behind the strategy: Tories hail the man who 'made the difference' in election
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stenhouse Baptist Church
-
 Site of a Scottish Christian church of the Baptist denomination and its congregation located in Stenhouse, Edinburgh.

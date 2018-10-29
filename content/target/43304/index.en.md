@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# National Union of Students (NUS) EU Referendum Campaign
-
 National Union of Students (NUS) EU Referendum Campaign

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# WelshFest
-
 Website for WelshFest festival

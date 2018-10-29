@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Juncker puts veteran French politician in charge of Brexit talks
-
 Guardian, The

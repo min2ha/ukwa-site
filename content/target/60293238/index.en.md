@@ -10,6 +10,4 @@
   "start_date": "2015-01-31T00:00:00Z"
 }
 
-# Institute of Education, University College London
-
 <p>The official website of the Institute of Education, University College London.</p>

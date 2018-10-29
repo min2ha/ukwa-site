@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Smith MP (@BlaenauGwentMP) on Twitter
-
 MP for Blaenau Gwent.

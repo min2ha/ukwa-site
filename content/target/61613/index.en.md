@@ -10,6 +10,4 @@
   "start_date": "2018-02-27T09:00:00Z"
 }
 
-# Lodge Buchan St. John 636
-
 Site of a masonic lodge located in Livingston, West Lothian, and affiliated with the Grand Lodge of Scotland.

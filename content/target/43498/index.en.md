@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Saint, The: St Andrews University student newspaper: Brexit: We should not walk away Our Rector, Catherine Stihler, weighs in on the Brexit debate and urges every student to exert their democratic right to vote.
-
 An article written by the rector of St Andrew University urging students to vote in the upcoming referendum, which is pointed towards the Remain campaign.

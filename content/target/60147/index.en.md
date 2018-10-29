@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Digital Football Network (@DigiFootballNet) on Twitter
-
 The Digital Football Network is an group that promotes the study of digital football cultures, and the development of a critical scholarly community.

@@ -11,7 +11,5 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Federation of Student Islamic Societies FOSIS
-
 
 Established in 1963, FOSIS stands for the Federation of Student Islamic Societies, a body that caters for the needs of Muslim students in further and higher education across the UK and Ireland.

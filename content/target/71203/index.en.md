@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Leanne 2021 - Leader in 2018 - Prime Minister in 2021
-
 This is Leanne Wood's campaign website for the 2018 Plaid Cymru leadership election.

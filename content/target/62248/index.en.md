@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Creich and Flisk Community Council
-
 Site of a community council serving the communities of Creich and Flisk, Fife.

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Termiadur Addysg, Y
-
 Sponsored by the the Welsh Government, the 'Termiadur Addysg' provides standardized terminology for the field of education.

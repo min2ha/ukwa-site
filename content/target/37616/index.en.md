@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Northern Ireland peace process could be set back by Brexit, says Lord Mandelson
-

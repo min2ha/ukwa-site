@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Inside the campaigns: cavalier Lib Dems were hurt by dowdy Roundhead role
-
 None

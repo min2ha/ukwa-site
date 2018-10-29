@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Changing Pathways
-
 Changing Pathways (formerly known as Basildon Women’s Aid) is a domestic abuse charity working across the areas of Basildon, Brentwood, Castle Point, Rochford and Thurrock. 

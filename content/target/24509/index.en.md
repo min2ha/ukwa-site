@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: Labour government propped up by SNP is a 'frightening' prospect
-
 None

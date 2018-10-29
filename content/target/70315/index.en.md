@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# The National Association for the Teaching of Drama (NATD)
-
 NATD is an association of teachers from all phases of education. At its heart is the pedagogy of Dorothy Heathcote and the methodology of Drama in Education although all forms of Drama and Theatre are embraced.

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# CPD Porthmadog FC
-

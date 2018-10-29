@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# The Denbigh Show
-
 The Denbigh show was founded in 1949 and was formerly known as the Annual Denbigh Flower Show.

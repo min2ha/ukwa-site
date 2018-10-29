@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mary Griffiths Clarke (@marygwengriff) on Twitter
-
 Labour PPC Dwyfor Meirionnydd at 2015 General Election and Arfon at the 2017 General Election.

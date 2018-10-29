@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tories pledge to deport illegal immigrants first, the hear appeals later
-
 None

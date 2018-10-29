@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Velofest Campsite and Cycling Festival
-
 Tour de France; festivals; tourism

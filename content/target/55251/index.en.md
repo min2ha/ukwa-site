@@ -10,7 +10,5 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Transition Haverfordwest 
-
 Transition Haverfordwest is a community based association helping to prepare local communities to move from a high carbon economy to a more
 sustainable, low carbon society. 

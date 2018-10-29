@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# International Business Times: EU referendum: Nicola Sturgeon warns scaremongering 'remain' campaigners will squander support
-
 An article concerning Nicola Sturgeon's views on the EU Referendum and her desired tactics.

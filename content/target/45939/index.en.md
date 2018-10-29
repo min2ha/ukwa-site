@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T11:00:00Z"
 }
 
-# UK and Ireland Neuroendocrine Tumour Society (UKI NETS)
-
 UKI NETS is a collaborative force of clinicians interested in improving the diagnosis and therapy of patients with neuroendocrine tumours within a national, multidisciplinary and scientific context.

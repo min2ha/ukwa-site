@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kate Higgins (@burdzeyeview) on Twitter
-
 Twitter profile belonging to blogger Kate Higgins (A Burdz Eye View).

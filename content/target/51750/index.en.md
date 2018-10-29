@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Eglwysi Bro Madryn | Bro Madryn Churches
-

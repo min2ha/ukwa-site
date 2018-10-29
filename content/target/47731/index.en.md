@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Only England and Wales voted to leave the EU. So the UK should let them go
-

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Confederation of British Industry: Open and controlled
-
 The report, Open and Controlled – A New Approach to Migration, provides evidence from 129,000 firms across 18 industry sectors. Companies want to see a new approach that remains open enough to grow the UK economy, with the right controls to build public trust and confidence.
 

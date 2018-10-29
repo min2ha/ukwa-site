@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# data.parliament.uk
-
 Website with official UK Parliament data.

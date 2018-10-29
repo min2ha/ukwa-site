@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bob Smith (UKIP)
-
 Bob Smith stood as UKIP candidate for Camborne & Redruth at the 2015 General Election but was not elected.

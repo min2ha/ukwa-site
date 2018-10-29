@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kalpa Bhadra Kadampa Buddhist Centre
-
 Kalpa Bhadra Kadampa Buddhist Centre is located in Llandudno, North Wales. 

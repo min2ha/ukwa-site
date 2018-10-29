@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Gofalaeth Prestatyn
-
 Information about the work of the Pastorate of Prestatyn, Presbyterian Church of Wales.

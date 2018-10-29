@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Arran Mountain Rescue Team
-
 Site of a voluntary and charitable organisations providing a mountain rescue service on the Isle of Arran, Argyll & Bute.

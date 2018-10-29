@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Birsay, Harray and Sandwick Church on Facebook
-
 Facebook page of a Church of Scotland parish church in Orkney.

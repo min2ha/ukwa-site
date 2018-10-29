@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ross Greer (@Ross_Greer) on Twitter
-
 The Twitter profile of Ross Greer, Scottish Green Party candidate for West Scotland in the 2016 Scottish Parliament election.

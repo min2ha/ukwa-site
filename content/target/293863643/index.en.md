@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Orienteering Association (WOA)
-

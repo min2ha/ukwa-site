@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary’s Monastery
-
 Site of a Roman Catholic Redemptorist order located at Kinnoull, Perth, which offers retreats regardless of faith, nationality or cultural background, while also working as a Roman Catholic Church.

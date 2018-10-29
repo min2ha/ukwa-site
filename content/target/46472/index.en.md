@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: Brexit curse hits nuclear power, new London runway
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

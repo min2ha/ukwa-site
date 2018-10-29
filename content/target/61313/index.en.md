@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Parishes of Monmouth & Ross on Wye
-

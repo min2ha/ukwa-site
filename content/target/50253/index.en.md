@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Building Brexit on the myth of empire ignores our brutal history
-

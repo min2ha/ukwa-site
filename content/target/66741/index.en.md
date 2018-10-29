@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Science Art Writing (SAW)
-
 The aims of the SAW Trust are to bring science into everyday lives and develop new ways of stimulating creativity, exploration and learning.  

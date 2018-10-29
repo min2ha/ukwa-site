@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Brechfa Forest Tourism Partnership
-
 Brechfa Forest and Llanllwni Mountain Tourism Cluster Group (BALM) raise awareness of the heritage and landscape of the area. The website provides a local history to the area.

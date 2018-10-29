@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Brexit: what it means for house prices and the supply crisis
-

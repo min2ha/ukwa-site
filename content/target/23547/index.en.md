@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steve Slade for St Austell and Newquay (Green Party candidate for St Austell and Newquay)
-
 Steve Slade for Green Party Parliamentary Candidate for St Austell and Newquay for the 2015 General Election  but was not elected. 

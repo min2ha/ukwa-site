@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: RIP Cleggmania - the proof Nick Clegg's moment in the sun is well and truly over
-
 None

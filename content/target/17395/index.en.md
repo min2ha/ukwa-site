@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron tells bosses to give workers a pay rise
-
 None

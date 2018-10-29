@@ -10,5 +10,3 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Business Tourism Scotland: Conference 2015
-

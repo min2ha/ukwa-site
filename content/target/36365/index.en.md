@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: ‘Cameron’s deal with Europe is just smoke and mirrors’ Let’s put Great back in Britain
-
 Comment by Neil Hamilton

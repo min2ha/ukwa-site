@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Forth Bridge Experience, The
-
 Network Rail's proposal for a new visitor centre and attractions on the Forth Bridge.

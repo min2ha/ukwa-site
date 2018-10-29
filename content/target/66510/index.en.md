@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Environment Agency (@EnvAgency) on Twitter
-
 It's our job to look after your environment and create better places for people and wildlife.

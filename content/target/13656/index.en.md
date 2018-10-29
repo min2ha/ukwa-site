@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Steamie Politics Blog, The
-
 The Steamie is a Scottish politics blog contributed to by The Scotsman, Scotland on Sunday and the Edinburgh Evening News.

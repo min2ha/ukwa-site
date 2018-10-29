@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Amber Rudd calls Brexit without a deal 'unthinkable'
-
 he prospect of Brexit happening without any deal being reached between the UK and the EU on security issues was "unthinkable", Home Secretary Amber Rudd told MPs on October 17th 2017

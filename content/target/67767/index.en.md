@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Côr Meibion Caerwys
-
 Caerwys Male Voice Choir was founded in 1999 and meet at Bethel Chapel, Caerwys. 

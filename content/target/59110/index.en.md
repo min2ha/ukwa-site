@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Scotland’s Early Literature for Children Initiative
-
 "A collaborative research project, founded by Valentina Bold and Sarah Dunnigan in 2016, dedicated to exploring Scotland’s forgotten history of children’s literature."

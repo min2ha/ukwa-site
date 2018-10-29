@@ -10,6 +10,4 @@
   "start_date": "2018-01-09T09:00:00Z"
 }
 
-# Fibromyalgia Action UK (FMA UK)
-
 Fibromyalgia Action UK (FMA UK) is a registered charity in England and Wales. In June 2015 FibroAction and FMA UK merged to form FMA UK.

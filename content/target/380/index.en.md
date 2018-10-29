@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hull Health and Wellbeing Board
-
 None

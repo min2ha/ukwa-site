@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Picture Stockton Archive 1914-1918
-

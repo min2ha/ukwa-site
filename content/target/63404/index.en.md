@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Elizabeth Jane Corbett
-
 Elizabeth Jane Corbett is a historical novelist who resides in Melbourne, Australia. She was born in Essex to a Welsh mother and describes herself as a half Welsh woman. She also teaches Welsh at Melbourne Welsh Church.

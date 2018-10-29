@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Leafletting the Queen's Birthday Celebrations in Castle Square, Swansea
-
 Republic want to see the monarchy abolished and the Queen replaced with an elected, democratic head of state. 

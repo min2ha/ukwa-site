@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Backford & Mollington Local History Society
-
 Backford & Mollington Local History Society was founded in 2002 and is affiliated to The British Association for Local History and the Cheshire Local History Association.

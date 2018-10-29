@@ -10,6 +10,4 @@
   "start_date": "2015-10-22T10:00:00Z"
 }
 
-# Anna McNuff
-
 Anna McNuff, an adventurer, speaker and writer 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Russia used hundreds of fake accounts to tweet about Brexit, data shows
-

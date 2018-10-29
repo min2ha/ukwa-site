@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# YNFA ( You're Not Famous Anymore)
-
 YNFA which stands for You're Not Famous Anymore is a group that produces podcasts and provides members forums and aims to entertain football fans. 

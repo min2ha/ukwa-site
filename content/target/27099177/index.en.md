@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# At Dementia
-
 None

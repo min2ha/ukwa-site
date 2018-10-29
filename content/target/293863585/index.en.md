@@ -10,5 +10,3 @@
   "start_date": "2015-03-04T00:00:00Z"
 }
 
-# Arandora Star Memorial Fund in Wales
-

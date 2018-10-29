@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Renfrewshire for Scottish Independence on Facebook
-

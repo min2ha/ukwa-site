@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Chris Neale, Landscape artist
-
 Chris Neale is a landscape artist working in Pembrokeshire

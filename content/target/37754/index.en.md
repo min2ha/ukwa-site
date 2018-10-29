@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# Under Age Sales
-
 Under Age Sales are a social enterprise that specializes in supporting retailers of age restricted products in the UK. Their ethos is to be a comprehensive and authoritative source of information, training and support. 

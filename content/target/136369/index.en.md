@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# English Ladies' Golf Association (ELGA)
-

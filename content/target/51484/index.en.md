@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Net, The: Connecting People & Churches Wales
-
 The Net Wales project is an initiative of Evangelical Alliance Wales, created as part of the project to connect Evangelical churches from across Wales. 

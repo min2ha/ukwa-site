@@ -10,6 +10,4 @@
   "start_date": "2017-01-01T12:00:00Z"
 }
 
-# Shore Poets
-
 Poetry collective hosting poetry slam events in Edinburgh since 1991, originally based at the Shore Gallery in Leith.

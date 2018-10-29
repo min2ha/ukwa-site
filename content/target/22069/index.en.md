@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Alan Marsden (@felledger) on Twitter (Green Party candidate for Carlisle)
-

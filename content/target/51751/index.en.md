@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints' Church, Ascot Heath
-
 All Saints' Church, Ascot is a friendly and welcoming place.  People of all ages and backgrounds say what a warm welcome they received and now call All Saints their spiritual home.

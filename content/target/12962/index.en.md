@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# OneKind
-
 OneKind exists to end cruelty to Scotland’s wildlife, pets and other animals through campaigns, research and education. Based in Edinburgh, they also work across the UK and internationally in partnership with other animal welfare organisations.

@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Belleek International Collectors Society, United Kingdom Group
-
 None

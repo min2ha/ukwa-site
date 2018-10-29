@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Gender Equity Network
-
 A group of people interested in having a discussion about what gender equality means today

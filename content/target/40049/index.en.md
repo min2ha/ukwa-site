@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Passion, The impact of War on families 100 years apart recording living, and past stories
-
 Project that integrates genuine memories, original live music and song to create a poignant, sometimes funny, vivid and surprising take on the effect of war on combatants and families alike.

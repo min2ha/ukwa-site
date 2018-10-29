@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Vote Elaine Smith 2016 – Elaine Smith – Labour candidate for Coatbridge & Chryston and Central Scotland
-
 Elaine Smith is the Scottish Labour Party candidate for Coatbridge and Chryston constituency in the 2016 Scottish Parliamentary election.

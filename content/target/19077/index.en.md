@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Durham University: Magna Carta and the Changing Face of Revolt
-

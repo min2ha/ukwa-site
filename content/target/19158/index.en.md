@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: CFP: 1215-2015: 800 Years of Riot and Protest
-

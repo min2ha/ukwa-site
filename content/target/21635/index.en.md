@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'Budget bounce' takes Tories ahead of Labour with three-point poll lead
-
 None

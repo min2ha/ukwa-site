@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Generation Europe (@StudentsEurope) on Twitter
-
 Making the case for Students and Young People to remain a part of a reformed European Union

@@ -10,6 +10,4 @@
   "start_date": "2015-08-06T10:00:00Z"
 }
 
-# Coleridge in Wales
-
 In 2016, singer and facilitator Richard Parry will accompany a group of people on the route of poet Samuel Taylor Coleridge’s two tours of Wales. Coleridge dropped out of Cambridge university and travelled around Wales in 1794 dreaming of founding a new, fairer society.

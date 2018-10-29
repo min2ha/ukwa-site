@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Socialist Party of Great Britain, The
-
 The Socialist Party of Great Britain (SPGB) is a socialist political party in the United Kingdom. It advocates using the ballot box for revolutionary purposes, opposes reformism, and was one of the first to describe the Soviet Union as state capitalist.

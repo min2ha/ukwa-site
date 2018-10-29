@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: If Mrs May's Brexit deal isn't good enough, we'll demand a popular vote
-
 Speaking at the 150th TUC Congress in Manchester, Frances O'Grady said "When trade unionists do a deal, we go back to members to get their approval. So if the PM's Brexit deal fails workers, that’s what we’ll do"

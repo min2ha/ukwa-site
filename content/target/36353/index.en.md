@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: We can only get country back if we leave the EU
-

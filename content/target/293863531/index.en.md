@@ -10,5 +10,3 @@
   "start_date": "2015-02-17T00:00:00Z"
 }
 
-# Greg Hill Poetry
-

@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Kearsney Parks
-
 Kearsney Abbey and Russell Gardens are historic parks in Dover. They are located 2.5 miles north west of Dover town centre in the Alkham Valley, part of the Kent Downs Area of Outstanding Natural Beauty.

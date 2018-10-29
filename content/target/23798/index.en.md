@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Glyncorrwg Action Group
-
 This site has been set up by the Glyncorrwg Action Group to publicise our fight against proposed wind farm developments in Glyncorrwg and the Upper Afan Valley.

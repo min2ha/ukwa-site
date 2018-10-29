@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Skinny, The: Music
-
  The Musicsection of The Skinny, an online magazine with guides, listings and interviews relating to music shows in Scotland and North West England. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Politicians fuelled rise in hate crimes after Brexit vote, says UN body
-

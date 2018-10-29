@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Nick Servini (@NickServini) on Twitter
-
 Nick Servini is BBC Wales Political Editor. 

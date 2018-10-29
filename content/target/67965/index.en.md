@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Enfield Ignatians RFC
-
 EIRFC run three senior teams as well as a social occasional team, and a full Youth Section from U6 up to Colts.

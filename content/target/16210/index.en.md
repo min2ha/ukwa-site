@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# British Healthcare Trades Association (BHTA), The
-
 <p>The British Healthcare Trades Association (BHTA) was founded in 1917. The members - almost 500 companies employing over 17,000 people – make or sell assistive technology products that help people live more independently.</p>

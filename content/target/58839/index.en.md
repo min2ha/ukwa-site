@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clare Rose Foster: Blog - Writing my Mind
-
 Blog that covers many issues surrounding mental health

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Mums for change: Campaign for Scottish Independence
-
 <p>Web campaign in favour of a 'yes' vote in the 2014 Scottish independence referendum. The website includes a "Mums' manfiesto", inviting mothers and their children to contribute messages of support for independence.</p>

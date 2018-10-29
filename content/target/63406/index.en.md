@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Executive Grapevine | News & Insights for Business Leaders
-
 The leading source of Executive news, Talent Management news and Executive contacts in the UK and Europe

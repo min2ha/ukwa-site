@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU leaders set to discuss transition agreement
-
 Comments on the March EU Council meeting at which the member states were expected to endorse the agreement on the transition phase and other issues.

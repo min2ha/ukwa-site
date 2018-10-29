@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# SHIFT/ Spoken Word
-
 Spoken Word Artists Rachel Amey, Bram E Gieben, Harry Giles, Jenny Lindsay, Ali Maloney, Rachel McCrum and Sam Small presented original solo shows at Summerhall as part of the Edinburgh Fringe in 2015.

@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# IGN UK
-
 A UK version of the online news, reviews, game chats and wikis. 

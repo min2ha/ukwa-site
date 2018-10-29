@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Pepys Street RTM Company Limited
-
 Pepys Street RTM Company is responsible for the management of 1 Pepys Street which is a block of 90 apartments in the City of London. The website provides useful information for the leaseholders and gives a flavour of life in the 21st century.

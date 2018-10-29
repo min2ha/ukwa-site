@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ss Ninian and Triduana RC Church in Edinburgh
-
 Site of a Scottish Roman Catholic parish church located in Restalrig, Edinburgh.

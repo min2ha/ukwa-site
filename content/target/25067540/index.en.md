@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Eurasian Natural Resources Corporation (ENRC)
-

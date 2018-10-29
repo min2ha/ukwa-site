@@ -10,6 +10,4 @@
   "start_date": "2017-01-17T09:00:00Z"
 }
 
-# Roslin Village
-
 WordPress community website for he village of Roslin, Midlothian Scotland, providing information on local amenities, businesses, groups and societies.

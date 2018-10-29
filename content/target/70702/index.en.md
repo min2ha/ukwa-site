@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Scallop wars: Could Brexit calm troubled waters?
-
 Article looks at the background of clashes between French and British scallop fishermen over trawling in French waters in August 2018. It concludes that Brexit would not solve the problem.

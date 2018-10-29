@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Library Carpentry: Introduction to web scraping on Github
-
 Web scraping is the process of extracting data from websites. Library Carpentry is software skills training aimed at the needs and requirements of library professionals.

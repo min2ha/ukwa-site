@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Bees Nees Media
-
 Site of a film and television company based in Glasgow, Scotland.

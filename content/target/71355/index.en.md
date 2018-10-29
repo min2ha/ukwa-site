@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Will Gompertz reviews Scotland's first design museum, V&A Dundee
-
 Article about the opening of the V&A Dundee. 

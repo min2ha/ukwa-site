@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# kieran smith (kieransmith15) on Twitter
-
 <p>The twitter profile of althete Keiran Smith, middleweight boxer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

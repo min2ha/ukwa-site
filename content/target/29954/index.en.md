@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Udderbelly Festival
-
 Website for the Udderbelly Festival, held annually between April and July at the Southbank Centre, London.

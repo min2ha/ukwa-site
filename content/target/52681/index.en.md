@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Henry Vann (@BedfordVann) on Twitter (Liberal Democrats Politician)
-
 Henry Vann stood as Liberal Democrats candidate for Bedford & Kempston at the 2017 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T00:00:00Z"
 }
 
-# ViewSeven: Artist Makers
-
 ViewSeven is a group of artists: Claire Benn, Karen Farmer, Claudia Helmer, Claire Higgott, Daline Kiff Stott, Susie Koren and Leslie Morgan who are dedicated to the making of art textiles.

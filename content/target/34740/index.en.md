@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Janet Haworth (Conservative Assembly Member for North Wales)
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What's the mood in Scotland after the SNP's election landslide?
-
 None

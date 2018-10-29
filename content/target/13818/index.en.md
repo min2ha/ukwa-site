@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Transitional Plan B (jsteve372) on Twitter
-

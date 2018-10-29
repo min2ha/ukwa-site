@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Board of Airline Representatives in the UK
-
 BAR UK is a limited company registered in the UK and is governed through its Articles of Association.

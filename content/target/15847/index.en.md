@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# LIHG Hub
-
 <p>LIHG Hub is run by the Library and Information History Group. Formed in 1962 It is one of the Chartered Institute of Library and Information Professionals' (CILIP) oldest special interest groups.</p>

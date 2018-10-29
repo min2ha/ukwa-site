@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Labour tensions as Article 50 bill published
-
 A shadow minister quit Labour's front bench after being told to back legislation paving the way for the UK's departure from the EU. Jeremy Corbyn imposed a three-line whip on his MPs telling them to back the newly-published bill.

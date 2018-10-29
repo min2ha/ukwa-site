@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: 'No deal' planning is well under way, says minister
-
 Dominic Raab said that Contingency plans in case the UK had to leave the EU with no deal in place were "well under way". He said while the UK had to "strive for the very best outcome" from Brexit negotiations, it had to "prepare for all eventualities".

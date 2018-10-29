@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Pocket Gamer
-
 PocketGamer.biz is all about the industry, processes, technology and deals that drive the mobile and handheld games business.

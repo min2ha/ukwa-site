@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Lleisiau o Lawr y Ffatri | Voices from the Factory Floor
-
 The experiences of women working in the manufacturing industries in Wales, 1945-1975. The resource is crated by Women's Archive of Wales.

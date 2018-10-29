@@ -10,6 +10,4 @@
   "start_date": "2018-05-29T09:00:00Z"
 }
 
-# Lodge St. David No. 78
-
 Site of a masonic lodge located in Dundee and affiliated with the Grand Lodge of Scotland.

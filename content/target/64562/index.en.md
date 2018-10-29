@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Domestic Violence Intervention Project
-
 For over 25 years, we’ve been helping to make women and children safer. With services across London, we work to stop domestic violence and to reduce the harm it causes to women, children and families.

@@ -10,6 +10,4 @@
   "start_date": "2013-12-20T23:45:00Z"
 }
 
-# Greenpeace: Mandela, Music and Memories
-
 None

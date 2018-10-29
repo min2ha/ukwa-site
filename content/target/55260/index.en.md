@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# First Steps Nutrition Trust
-
 First Steps Nutrition Trust works with a number of organisations and networks, all of whom have the same ambition to provide accurate information, protect infant and young child feeding and work independently of commercial influence

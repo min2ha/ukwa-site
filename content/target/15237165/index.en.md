@@ -11,6 +11,4 @@
   "subject": "English Language"
 }
 
-# English Project, The
-
 None

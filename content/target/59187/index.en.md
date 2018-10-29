@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Kingdom Of Fife Orienteers
-
 Site of an orienteering club based in Fife.

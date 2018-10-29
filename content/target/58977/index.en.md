@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Wrexham Against Racism and Fascism 
-
 The blog was published in 2009 and was a campaign to expose the hateful politics of the BNP and other far-right extremists. This was in 2009 when BNP were expected to make gains at the European Parliemant Elections.

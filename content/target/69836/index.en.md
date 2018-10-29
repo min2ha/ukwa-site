@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival Arts St Davids
-
 Festival Arts St Davids have been creating theatre in St Davids & Birmingham since 1969. This is their official website.

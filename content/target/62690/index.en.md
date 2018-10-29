@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dalbeattie & Kirkgunzeon Church of Scotland
-
 Site of two Church of Scotland parish churches at Dalbeattie and Kirkgunzeon, and their link parish church of Urr, all Dumfries and Galloway.

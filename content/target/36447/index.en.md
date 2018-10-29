@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Nicola Sturgeon urges Britons to STAY in EU...and then Scotland will quit UK
-
 Article by Greg Heffer

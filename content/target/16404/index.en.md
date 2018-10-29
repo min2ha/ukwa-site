@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T19:15:00Z"
 }
 
-# University of Oxford
-
 <p>The official website of the University of Oxford.</p>

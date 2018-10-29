@@ -11,8 +11,6 @@
   "subject": "Russia in the UK"
 }
 
-# Russo-British Chamber of Commerce (RBCC)
-
 The Russo-British Chamber of Commerce (RBCC) promotes, facilitates and supports business between Russia and the UK.
 
 It is independent of government in both countries and is funded by membership fees and event and publication sponsorship. 

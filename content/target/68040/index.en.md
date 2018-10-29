@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Alnwick Rugby Football Club
-
 Alnwick Rugby Club was formed on 8 December, 1880 when the name "The Hotspur" was adopted.

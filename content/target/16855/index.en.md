@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Christian Aid: Christian Aid manifesto for the general election
-
 Christian Aid works to end to poverty internationally

@@ -37,6 +37,4 @@
   "endDateText": ""
 }
 
-# Africa UK
-
 This is a representative collection of websites produced by African communities in the UK or by UK organisations with direct links to these communities and to the region. 

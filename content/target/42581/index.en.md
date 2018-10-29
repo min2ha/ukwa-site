@@ -10,6 +10,4 @@
   "start_date": "2016-06-08T10:00:00Z"
 }
 
-# Moffat CAN
-
 Site of a community based organisation and charity located in Moffat, Dumfries & Galloway, Scotland aiming to provide work experience and training within the green sector, to promote environmental and sustainability awareness and to provide sustainable, low-carbon products and services.

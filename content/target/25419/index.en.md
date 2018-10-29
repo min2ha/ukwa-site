@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green party launch manifesto aimed at ending 'disastrous policy of austerity'
-
 None

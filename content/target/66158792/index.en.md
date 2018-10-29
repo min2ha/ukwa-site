@@ -11,6 +11,4 @@
   "subject": "Slavery and Abolition in the Caribbean"
 }
 
-# Institute of Commonwealth Studies: Routes to Roots
-
 None

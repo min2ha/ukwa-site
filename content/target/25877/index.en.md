@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory donor is boss of firm fined £30.6m for mis-selling insurance
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: 'A little bit OCD': the downside of mental health awareness
-
 Guardian article about mental health awareness

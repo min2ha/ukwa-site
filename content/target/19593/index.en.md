@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Kinnock MP (@SKinnock) on Twitter
-
 Labour candidate for Aberavon.

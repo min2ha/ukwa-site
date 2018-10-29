@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Western Ambulance Service
-
 None

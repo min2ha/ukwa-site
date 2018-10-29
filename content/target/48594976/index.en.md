@@ -11,5 +11,3 @@
   "subject": "Energy"
 }
 
-# Natural England: Energy Crops Scheme
-

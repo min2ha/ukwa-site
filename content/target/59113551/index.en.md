@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sport Scotland
-
 Sport Scotland is the national agency for sport responsible for the development of sport and building a world class sporting system for everyone in Scotland. It is a non-departmental public body, responsible through ministers to the Scottish Parliament. 

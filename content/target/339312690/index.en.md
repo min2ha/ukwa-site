@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Centenary News
-
 <p>News items, videos, details of events, educational resources, and links to articles and blogs about the 2014-18 anniversary of the Great War.</p>

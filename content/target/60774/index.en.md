@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: End obsession with Europe, Liam Fox urges
-
 Interviewed by the BBC on a visit to China in February 2018, Liam Fox called for an end to the "obsession with Europe" in economic matters, saying the focus should be on "growing markets" around the world.

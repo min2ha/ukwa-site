@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Moredun
-
 The Moredun Foundation is a charity committed to promoting animal health and welfare through research and education.

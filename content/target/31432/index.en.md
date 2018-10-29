@@ -10,6 +10,4 @@
   "start_date": "2015-10-14T10:00:00Z"
 }
 
-# Welsh Highland Railway
-
 Website about the Welsh Highland Railway featuring progress on its construction and news for over 15 years.

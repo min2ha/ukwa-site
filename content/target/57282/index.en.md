@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Susan Zeppellini
-
 Susan Zeppellini is a contemporary artist, working with clay and paitings. She was born in São Paulo, Brazil and is now living in Wales.

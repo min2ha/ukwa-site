@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: NHS loses £700m a year on treating EU citizens, Brexit campaign claims 
-
 Guardian, The

@@ -10,6 +10,4 @@
   "start_date": "2015-04-13T09:00:00Z"
 }
 
-# Synod Cymru
-
 Synod Cymru are part of the Methodist Church in Wales, and work and worship predominantly in the Welsh language. They have one circuit, the Cymru Circuit, and their 77 congregations are grouped into 11 Areas for ministry and mission.

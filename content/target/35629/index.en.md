@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dr Dafydd Trystan Davies (@DafyddTrystan) on Twitter (Plaid Cymru candidate for Cardiff South and Penarth)
-
 Dr Dafydd Trystan Davies is the Plaid Cymru candidate for Cardiff South and Penarth at the 2016 National Assembly Elections.

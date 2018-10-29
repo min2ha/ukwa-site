@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election morning briefing: is the SNP really holding the UK to ransom?
-
 None

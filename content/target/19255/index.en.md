@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Linklaters: Magna Carta: Linklaters sponsors British Library's celebrations
-

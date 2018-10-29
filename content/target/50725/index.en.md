@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Micki Schloessingk
-
 Micki Schloessingk makes pottery at Bridge Pottery in Cheriton, Gower.

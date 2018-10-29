@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Original Theatre Company, The
-
 The Original Theatre Company was founded in 2004 with the aim of bringing high quality touring theatre to the length and breadth of The British Isles.

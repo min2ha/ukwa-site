@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Datableed
-
 Experimental online poetry zine 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wales Online: This Welsh football fan is raising money for charity with his line of 'Gary Speedos'
-
 A fundraising appeal during Euro 2016 to raise money for mental health awareness. 

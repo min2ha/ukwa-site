@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Baptist Times (@BaptistTimes) on Twitter
-
 Twitter account for Baptist Union of Great Britain

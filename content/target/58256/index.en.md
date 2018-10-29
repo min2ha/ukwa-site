@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffington Post: Social Media Addiction And Millennials: The Consequences Of Addiction
-
 Blog post about the negative impact social media addiction has mental health and the generational differences in this addiction

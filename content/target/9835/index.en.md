@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Sport Tour de France 2014
-
 UK Sport; Tour de France 2014

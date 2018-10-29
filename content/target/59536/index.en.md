@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Hunt challenges social media giants on cyber-bullying
-
 News article referencing tweets from the Health Secretary Jeremy Hunt about the role that social media platforms play in young peoples mental health

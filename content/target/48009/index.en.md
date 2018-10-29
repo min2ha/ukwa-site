@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Theresa May WILL stop EU migrants from claiming benefits under new post-Brexit plan   
-

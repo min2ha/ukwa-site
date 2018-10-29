@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015 explained: Who finances the parties, who gets the most - and how much does the campaign cost?
-
 None

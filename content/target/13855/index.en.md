@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Socialist Party: Articles tagged 'Scotland'
-
 None

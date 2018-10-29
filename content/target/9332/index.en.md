@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish National Party: Referendum
-
 <p>Website of the Scottish National Party, containing resources and campaigns information for a 'yes' vote in the Scottish independence referendum.</p>

@@ -10,5 +10,3 @@
   "start_date": "2013-04-18T00:00:00Z"
 }
 
-# Penfro Book Festival
-

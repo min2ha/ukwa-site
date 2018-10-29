@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Arlene Foster (@DUPleader) on Twitter (Unionist Politician)
-
 Arlene Foster was elected to serve in the Northern Ireland Assembly in 2003 and was appointed as DUP Leader and Northern Ireland’s first female First Minister in December 2015.

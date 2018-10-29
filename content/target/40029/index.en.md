@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# King's Lynn and West Norfolk Borough Council
-
 King's Lynn and West Norfolk Borough Council website provides information on its activities and services, local news, policy and planning documents, and council committee papers and agendas, and spending and performance.

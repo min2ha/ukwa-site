@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The judges’ ruling confirms it – Brexit must go ahead, no ifs or buts
-

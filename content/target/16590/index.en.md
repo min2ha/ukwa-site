@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election focus on immigration 'threatens to deepen social rifts'
-
 None

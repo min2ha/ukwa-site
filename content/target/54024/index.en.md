@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chartered Institute of Library and Information Professionals (CILIP): "But I have promises to keep..." 
-
 Analysis of party manifestos at the 2017 General Election from the point of view of an information professional

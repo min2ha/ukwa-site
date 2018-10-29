@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Get Wood Working Forum
-
 A forum for wood working enthusiasts

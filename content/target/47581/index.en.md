@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Paddy Hartley
-
 Paddy Hartley is a London based artist whose work is internationally exhibited, collected and published. His artistic practice investigates themes including memorialisation and remembrance.

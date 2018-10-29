@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Huffington Post, The: Olympic Medal Table: An Independent Scotland Would Come 35th, Not 13th, At 2016 Rio Games
-

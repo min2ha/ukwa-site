@@ -10,5 +10,3 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Amgueddfa ac Oriel Rhaeadr Gwy | Rhayader Museum and Art Gallery
-

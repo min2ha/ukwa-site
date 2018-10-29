@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cockpen & Carrington Parish Church
-
 Site of two Church of Scotland parish churches near Bonnyrigg, and at Carrington, Midlothian.

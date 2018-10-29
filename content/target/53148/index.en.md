@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rhydian Elis Fitter (@Rhydianfitter) on Twitter
-
 Rhydian Elis Fitter is the Prospective Plaid Cymru candidate for Swansea West at the 2017 General Election.

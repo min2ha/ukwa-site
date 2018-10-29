@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Merthyr Rhymney LAB (@MTR_LabourParty) on Twitter
-

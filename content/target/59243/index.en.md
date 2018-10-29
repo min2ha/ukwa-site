@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Ulta Tour of Snowdonia 
-
 The Eryri 50/Snowdonia 50 is a 58 mile footrace starting and finishing in Betws y Coed with Snowdon acting as the centre of the circle.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The 20-year history of Labour's struggle over non-doms
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Newbury and District CCG
-
 None

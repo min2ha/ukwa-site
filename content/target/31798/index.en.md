@@ -10,6 +10,4 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Ffarm Moelyci
-
 For good food, wildlife and enterprise nurtured locally

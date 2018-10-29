@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The pro-EU camp shouldn't arrogantly assume that business is on its side
-

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Wici Caerdydd (@wicicaerdydd) on Twitter
-
 Wici Caerdydd (translates as Cardiff wiki) is a club that produces and translates wikipedia Welsh langauge articles. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Teddington RFC (@teddingtonrfc) on Twitter
-
 The official Twitter account of Teddington Rugby Football Club.

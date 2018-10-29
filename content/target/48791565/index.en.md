@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Wind Energy Planning
-
 None

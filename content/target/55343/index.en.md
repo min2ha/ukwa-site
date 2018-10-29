@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Voices 1972-1984: the Manchester based magazine of working class writing
-
 Online archive of the digitised issues of Voices - the Manchester based magazine of working class writing.  The archive includes 31 issues from 1972-1984 alongside supporting information and articles.

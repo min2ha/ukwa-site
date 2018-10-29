@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Politicians of ALL parties must unite to set Britain free from EU, says PATRICK O'FLYNN
-
 Column by Patrick O'Flynn, UKIP MEP

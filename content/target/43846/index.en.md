@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The downfall of David Cameron: a European tragedy
-
 Guardian, The

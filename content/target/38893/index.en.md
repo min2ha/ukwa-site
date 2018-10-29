@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Jeremy Corbyn's EU passions are inflamed by prospect of Tory 'bonfire'
-
 Guardian, The

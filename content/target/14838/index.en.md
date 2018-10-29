@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Yes Scotland shared a link: Thousands sign petition to devolve broadcasting
-
 <p>Yes Scotland shared a link to the story: "Thousands sign petition to devolve broadcasting" on <a href="http://www.newsnetscotland.com">http://www.newsnetscotland.com</a> at 6.58am on the 22nd of September, 2014.</p>

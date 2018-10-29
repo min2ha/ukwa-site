@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Wrexham Business Group
-
 Wrexham Business Group was established in 2014 to unite traders in the town of Wrexham in their communications with the Council, Welsh Government and other relevant bodies.

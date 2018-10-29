@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# 'Failing' Grayling saves Michael Gove's blushes in Queen Brexit row
-
 Guardian, The

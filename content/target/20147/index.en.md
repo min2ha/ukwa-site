@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Hanson (@DavidHansonMP) on Twitter 
-
 Labour MP for Delyn

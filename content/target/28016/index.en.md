@@ -10,6 +10,4 @@
   "start_date": "2015-06-15T09:00:00Z"
 }
 
-# The Comedy Trust
-
 Website for The Comedy Trust, a charity set up in 2002 to run the annual Liverpool Comedy Festival, and which also delivers accessible, comedy-based programmes that enhance confidence, self-esteem and presentation skills.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Depression UK
-
 Website of Depression UK a National Self-Help Organisation that helps people cope with their depression

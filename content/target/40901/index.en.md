@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Yvonne Burgess
-
 Site of a choir master based in Edinburgh, providing classes on various genres of choral music.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Duchy of Lancaster
-
 Founded in the 13th century, the Duchy of Lancaster is a unique portfolio of land, property and assets held in trust for the Sovereign in His or Her role as Duke of Lancaster.

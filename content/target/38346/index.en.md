@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Conservative Woman, The: BBC uses the Easter Rising to talk up paramilitary violence
-
 Article by Paul T. Horgan on BBC programmes on the Easter Rising

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Disney Information Bulletin Board Forum
-
 A forum for Disney enthusiasts

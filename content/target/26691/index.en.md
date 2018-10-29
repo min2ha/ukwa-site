@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Welsh and Scottish Lib Dem leaders back Tim Farron to replace Nick Clegg
-
 None

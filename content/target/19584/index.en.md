@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# National Counselling Society (NCS), The
-
 The National Counselling Society (NCS) was set up in 1999 by a group of counsellors, psychotherapists, hypnotherapists and psychologists. They support and promote counselling and counsellors, offering a wide variety of benefits to members and training organisations. They play a role in making sure that the best interests of the clients are protected. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Greg Clark (@gregclarkmp) on Twitter (Conservative candidate for Tunbridge Wells)
-
 Greg Clark stood as Conservative candidate for Tunbridge Wells at the 2015 General Election. He was first elected to serve as MP for Tunbridge Wells in 2005 and re-elected in 2015. He stood for re-election again in 2017 and was successful. 

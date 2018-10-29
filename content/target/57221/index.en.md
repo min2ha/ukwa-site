@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# West Rhyl Young People's Project (WRYPP) | Prosiect Pobl Ifanc Gorllewin y Rhyl
-
 West Rhyl Young People’s Project (WRYPP) tackles social injustice, inequality and deprivation for young people and families across North Wales, through education, community activism and personal support.

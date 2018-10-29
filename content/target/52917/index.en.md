@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Association of Employment and Learning Providers (AELP): Push for more Apprenticeships must continue, says AELP’s election manifesto
-
 4 million quality apprenticeships are a feasible commitment for a new government to adopt during the next Parliament, according to the Association of Employment and Learning Providers (AELP).

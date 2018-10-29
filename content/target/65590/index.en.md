@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Personal Managers' Association (PMA)
-
 We are the leading professional body for talent agencies in the UK. The PMA is a membership organisation for agents who represent actors, writers and directors.

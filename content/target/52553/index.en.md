@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alex Feakes (@alexfeakes) on Twitter (Liberal Democrats Politician)
-
 Alex Feakes stood as Liberal Democrats candidate for Orpington at the 2017 General Election but was not elected.

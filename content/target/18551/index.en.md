@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Brecon & Radnorshire Conservatives on Facebook
-
 Facebook page of Brecon & Radnorshire Conservatives

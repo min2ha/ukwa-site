@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Thiird Magazine (@THIIIRDmagazine) on Twitter
-
 THIIIRD is a new biannual print publication celebrating intersectionality, cultural heritage and diversity in fashion, arts and society. This is their Twitter account. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# VisitNorwich
-
 A website with news and tourist information about Norwich

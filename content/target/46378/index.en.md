@@ -10,5 +10,3 @@
   "start_date": "2016-10-21T11:00:00Z"
 }
 
-# Holyrood Magazine: What exactly does Brexit mean?
-

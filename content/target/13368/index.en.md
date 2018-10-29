@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Catholic Herald, The (CatholicHerald) on Twitter
-
 <p>The twitter profile of the Catholic Herald.</p>

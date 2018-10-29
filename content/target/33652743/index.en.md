@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Welsh Country Magazine Home
-

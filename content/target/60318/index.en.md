@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Verdict: Apple shareholders want the company to investigate smartphone addiction in children
-
 News article about two major shareholders in Apple requesting that the company investigate phone addiction amongst young people and find a way to limit the time young people spend on Apple phones.

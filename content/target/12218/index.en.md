@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paddy Barnes (paddyb_ireland) on Twitter
-
 Twitter profile of Paddy Barnes, who boxed for Northern Ireland at the Glasgow 2014 Commonwealth Games.

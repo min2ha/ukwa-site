@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Scottish MPs to be banned from voting on English tax if Tories win election
-
 None

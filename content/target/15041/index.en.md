@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Finchley Arrow, The
-

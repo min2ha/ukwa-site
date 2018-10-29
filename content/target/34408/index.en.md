@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Busnesau yn cefnogi Cymunedau | Business supporting Communities
-
 Business supporting Communities is Lottery funded and is supported by 6 North Wales County Voluntary Councils (CVC’s). The aim is to 'create mutually beneficial relationships between business and communities'.

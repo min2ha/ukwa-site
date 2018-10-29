@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# The Welsh Karate Union
-
 The Welsh Karate Union is an association of karate clubs throughout Wales. We are fully recognised by the top performing karate associations in Wales and are full members of "Karate Wales" Governing Body for Karate in Wales.

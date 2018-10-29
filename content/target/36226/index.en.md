@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Jeremy Corbyn 'not on same side' as David Cameron in EU debate
-
 Guardian, The

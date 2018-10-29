@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Lincoln Cathedral's Magna Carta manuscript centre stage at British Library's celebrations
-

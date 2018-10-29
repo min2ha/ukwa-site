@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Orgiastic' mood infects Westminster as MPs return
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2015-05-28T09:00:00Z"
 }
 
-# nicola test 29
-

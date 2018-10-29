@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Key points of Budget 2015: At-a-glance
-
 None

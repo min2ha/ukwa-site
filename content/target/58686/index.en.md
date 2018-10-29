@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Housing for Women (HFW)
-
 Housing for Women is a charity that provides social housing and gender sensitive support services to women.

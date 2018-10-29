@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Celf ar y Blaen | Head 4 Arts 
-
 Head4Arts is a community arts organisation which operates in Blaenau Gwent, Caerphilly, Merthyr Tydfil and Torfaen. Head4Arts is funded by the Welsh Assembly Government through the Arts Council of Wales and is supported by a partnership of the four local authorities involved.

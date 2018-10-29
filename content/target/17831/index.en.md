@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Why lowering tuition fees is more complicated than you think
-
 None

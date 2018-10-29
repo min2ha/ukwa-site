@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Là na Gàidhlig on Facebook / Gaelic Twitter Day on Facebook
-
 The Facebook page for Là na Gàidhlig, or Gaelic Twitter day, an event promoting the use of Scottish Gaelic online.

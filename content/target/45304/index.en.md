@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# Lle Gallery
-
 LLE Gallery is a new artist-led curatorial project with a focus on contemporary painting. The aim is to showcase our artists via international art fairs and exhibitions.

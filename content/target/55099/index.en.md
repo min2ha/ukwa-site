@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Chatsworth House
-
 Chatsworth is home to the Duke and Duchess of Devonshire, and has been passed down through 16 generations of the Cavendish family. The house is renowned for the quality of its art, landscape and hospitality, and it has evolved through the centuries to reflect the tastes, passions and interests of succeeding generations.

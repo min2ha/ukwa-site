@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T11:00:00Z"
 }
 
-# National Housing Federation (NHF)
-
 The National Housing Federation (NHF) is a Trade Association for member social housing providers in England. This is their members directory and requires a log in.

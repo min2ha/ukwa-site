@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Anthony's GAA (@StAnthonysGAA) on Twitter
-
 St Anthony's GAA Club, Reading, UK London Junior Champions 2015, 2013 London Ladies Junior Champions 2011, London Ladies Junior League Winners 2011, 13, 14 & 16

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Joint Public Issues Team: EU Referendum
-
 Reflection on the EU Referendum result by the Joint Public Issues Team, a collaboration of different churches.

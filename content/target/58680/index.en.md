@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Selkirk Sessions
-
 Site of an annual tradtional Scottish music (folk) festival at Selkrk, Scottish Borders.

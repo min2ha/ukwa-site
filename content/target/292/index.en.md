@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Great Yarmouth and Waveney CCG
-
 None

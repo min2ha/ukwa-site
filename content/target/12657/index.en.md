@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Anne McTaggart MSP
-
 <p>The website of Anne McTaggart, Scottish Labour Member of the Scottish Parliament for Glasgow.</p>

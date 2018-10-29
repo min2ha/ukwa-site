@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Dr Who Appreciation Society
-
 A website for Dr Who fans

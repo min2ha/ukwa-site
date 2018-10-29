@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BBC: Euro 2016: England and Wales fans given alcohol ban in Lens
-
 News article from BBC

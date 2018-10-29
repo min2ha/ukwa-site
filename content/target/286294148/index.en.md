@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# The Visual Telling of Stories
-
 <p>The Visual Telling of Stories is art student resource for all kinds of images, artists, illustrators and advertising.</p>

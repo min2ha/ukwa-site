@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Grant Ferguson (@GrantFerguson1) on Twitter
-

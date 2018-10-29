@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Host City Glasgow: out with shipyards, in with business services and technology
-
 <p>Article by Kevin Kane about Glasgow’s economy and the potential economic impact of hosting the XX Commonwealth Game. One of a series of “Host City Glasgow” articles on “The Conversation”  an independent source of news and views, sourced from the academic and research community.</p>

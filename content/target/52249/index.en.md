@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-#  Public and Commercial Services Union: Statement on the general election
-
 The PCS statement on the general election 2017.

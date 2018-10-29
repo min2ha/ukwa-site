@@ -10,6 +10,4 @@
   "start_date": "2018-08-18T09:00:00Z"
 }
 
-# Revive UK
-
 Supporting refugees and people seeking asylum in UK

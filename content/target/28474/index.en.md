@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# National Football Museum
-
 The National Football Museum exists to explain how and why football has become ‘the people’s game’, a key part of England’s heritage and way of life.

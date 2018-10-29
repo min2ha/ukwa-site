@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Explore North Uist
-
 Site providing visitor / tourist information for the Isle of Lewis, Outer Hebrides, Scotland.

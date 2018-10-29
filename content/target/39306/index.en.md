@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# LizAnne Handibode for East Kilbride on Facebook
-

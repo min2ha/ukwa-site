@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Abdominal Aortic Aneurysm Screening Programme 
-
 None

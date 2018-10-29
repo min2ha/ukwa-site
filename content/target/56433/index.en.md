@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Northampton Borough Council
-
 The website of Northampton Council offers news and information about local services. Information about finance and spending, performance and consultations is also available along with committee papers and minutes.

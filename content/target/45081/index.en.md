@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC: Video game Olympics announced for Rio
-
 A new eGames international gaming tournament will make its debut in Rio during this summer's Olympic Games.

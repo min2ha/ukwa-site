@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# St Davids City Council
-
 <p>This is the council website for the city of St Davids in Pembrokeshire.</p>

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ecologist, The: EU referendum
-
 British Journal articles regarding environmental impacts of the EU referendum 

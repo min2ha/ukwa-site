@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Londonist : Exhibition Explores The Rise And Fall Of Alternative Comedy
-
 Londonist review of the exhibiton 'ALT CAB or Where Did It Go Wrong?'.

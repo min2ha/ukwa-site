@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Robb for INBS
-
 This is the website of Mike Robb, the Labour Party candidate for Inverness, Nairn, Badenoch and Strathspey in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Be Mindful Online Mindfulness Course
-
 A course delivering Mindfulness-Based Cognitive Therapy (MBCT) in a digital format online, run by Wellmind Media and the Mental Health Foundation UK charity.

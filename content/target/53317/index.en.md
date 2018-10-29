@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lucy Powell (Labour  Politician)
-
 An online crowd funding campaign to re-elect Lucy Powell as the Labour & Cooperative MP for Manchester Central on 8th June 2017.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Library Science Blog: Illegal substances or aiding physical excellence? A few historical perspectives
-
 A British Library blog post that was published a few days before the Talk Science event in June 2016.

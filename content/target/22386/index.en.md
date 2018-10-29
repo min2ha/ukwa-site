@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's 'shameful' immigration mug attacked by Diane Abbott
-
 None

@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Children of Craig-y-nos
-
 Craig-y-nos Castle, former home of opera diva Adelina Patti in the Swansea Valley, was a Children's Tuberculosis Sanatorium for almost 40 years (1922-1959).

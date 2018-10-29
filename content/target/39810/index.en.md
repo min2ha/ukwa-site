@@ -10,6 +10,4 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# Imagination Lancaster
-
 Website of design-led research centre at Lancaster University

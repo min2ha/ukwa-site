@@ -10,6 +10,4 @@
   "start_date": "2018-09-26T09:00:00Z"
 }
 
-#  LayersofLondon (@LayersofLondon) on Twitter
-
 Mapping London's history and heritage from the Roman period to today using maps, images, films and Londoners' stories. Supported by the Heritage Lottery Fund

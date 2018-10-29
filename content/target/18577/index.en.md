@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shaun Jenkins (@ShaunMJenkins) on Twitter
-
 Leader of Alter Change & Cardiff North Parliamentary Candidate.

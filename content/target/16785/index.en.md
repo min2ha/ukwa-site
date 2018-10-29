@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Farmers' Union (NFU): The NFU 2015 Election Manifesto 
-
 The National Farmers' Union (NFU) is a member organisation/industry association for farmers in England and Wales. It is the largest farmers' organisation in England and Wales, and has over 300 branch offices.

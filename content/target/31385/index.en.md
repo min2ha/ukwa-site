@@ -10,6 +10,4 @@
   "start_date": "2015-10-12T10:00:00Z"
 }
 
-# Edward Rhys Harry
-
 Edward Rhys Harry is a composer from Gower, Wales.

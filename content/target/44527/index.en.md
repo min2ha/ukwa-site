@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit and local government
-
 This Commons Library briefing paper covers the possible impact of exiting the European Union on local authorities, with regard to devolution deals; EU structural funds; compliance with EU law; and medium-term financial implications.

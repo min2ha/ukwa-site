@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Living Pictures in India
-
 Living Pictures, a theatre company from Wales, toured India in 2017 as part of the British Council UK India Year of Culture 2017. They performed 'Diary Of A Madman', a play based on the classic short story by Nikolai Gogol. The show is performed by award-winning actor, Robert Bowman and directed by Olivier Award nominee Sinéad Rushe.

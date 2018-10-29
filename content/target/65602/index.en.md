@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Association for Events Management Education (aeme)
-
 The Association for Events Management Education (AEME) was established on April 21st 2004 with the aim to advance events education within the UK and overseas.

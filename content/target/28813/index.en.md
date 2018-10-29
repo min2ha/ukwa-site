@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Appledore Book Festival
-
 Festival organised by Appledore Book Festival

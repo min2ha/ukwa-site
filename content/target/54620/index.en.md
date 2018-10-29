@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Zebra Uno
-
 Zebra Uno is a unique, creative business focused on Digital Media and Communication and closely linked to the Deaf Community.

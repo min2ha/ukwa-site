@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Coastal Housing
-
 Coastal Housing Group is a housing group in the Swansea, Neath Port Talbot, and Carmarthenshire areas.

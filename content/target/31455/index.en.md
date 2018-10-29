@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Only the Best BBC Micro Games
-
 It is a BBC Games website dedicated to restoring the memories of our time spent with the classic BBC Microcomputer. 

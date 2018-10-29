@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Wye Valley Walk, The
-
 The Wye Valley Walk A perfect mix of hill and river walking

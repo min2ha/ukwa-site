@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Easy Read Health Wales | Iechyd Hawdd ei Ddeall Cymru
-
 <p>Easy Read Health Wales aims to improve the health and well-being of people with a learning disability in Wales. The website provides people with learning disabilities and their families Easy Read information on a wide variety of topics on health and well-being.</p>

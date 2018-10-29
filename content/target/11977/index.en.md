@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emma Batten (ebats2010) on Twitter
-
 <p>The twitter profile of althete Emma Batten, hockey player and member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

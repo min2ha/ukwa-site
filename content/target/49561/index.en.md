@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Spectra
-
 Spectra (formerly WLGMP) aim to improve health and well-being of their clients. Their main target group are Trans* and non-binary people (Spectrum) and Gay, Bisexual and questioning men (including Men who have Sex with Men)(GMP) as well as Black and Minority Ethnic heterosexual people (ACE).

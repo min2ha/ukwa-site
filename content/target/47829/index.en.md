@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Lle, A Geo-Portal for Wales | Porth Ddaear i Gymru
-
 The Lle Geo-Portal has been developed as a partnership between Welsh Government and Natural Resources Wales. Lle serves as a hub for data and information covering a wide spectrum of topics, but primarily around the environment.

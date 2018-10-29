@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# PoliticsHome: Scottish Labour: Gordon Brown speech | Press Release
-
 None

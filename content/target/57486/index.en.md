@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hebrides International Film Festival
-
 Site of an annual flim festival located in Harris (Na Hearadh), Outer Hebrides (Na h-Eileanan Siar).

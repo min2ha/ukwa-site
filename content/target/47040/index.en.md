@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Merseyside C.N.D: Campaign for Nuclear Disarmament 
-
 Merseyside CND is part of the National and Worldwide Campaign to get rid of nuclear weapons and power.

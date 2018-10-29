@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Ely
-
 Official website of the Diocese of Ely.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Institute for Innovation and Improvement
-
 None

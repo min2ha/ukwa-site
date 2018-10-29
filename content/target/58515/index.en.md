@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Place2be
-
 Website for the national charity Place2be that provides emotional support to children in schools, the website also has a blog space. It promotes Children's Mental Health Week 2018

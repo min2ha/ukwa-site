@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: How and why Britain might be asked to vote once more on Brexit
-

@@ -10,6 +10,4 @@
   "start_date": "2015-07-09T10:00:00Z"
 }
 
-# Spencer of Althorp
-
 Website about Althorp, an estate owned by the Spencer family since 1500s. It contains information about the Althorp Literary Festival and other events, hospitality and history of the place.

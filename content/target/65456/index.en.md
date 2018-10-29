@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Scotch Whisky Research Institute
-
 Site of an organisation that is the whisky industry's research and technology organisation, funded by member companies, who together account for the majority of the industry - their main function is to carry out pre-competitive, fundamental and applied research across the entire Scotch Whisky production process, from barley to bottle, and provide day-to-day technical support to our members and offer a range of analytical services.

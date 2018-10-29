@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: 'You're taking the black out of Britain if you don't vote'
-
 None

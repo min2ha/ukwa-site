@@ -10,6 +10,4 @@
   "start_date": "2015-06-17T09:00:00Z"
 }
 
-# Cartrefi NPT Homes
-
 NPT Homes has over 9000 properties spread throughout the Neath Port Talbot County Borough and as of 2015 it is the second largest social landlord in Wales.

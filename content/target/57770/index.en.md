@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: For hardline Brexiters, the lure of the cliff edge is irresistible
-

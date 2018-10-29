@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 20th March 2018: Nuclear Safeguards Bill
-
 The Lords debate amendments to the Nuclear Safeguards Bill at the Report stage.

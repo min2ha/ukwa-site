@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Alun Llewelyn (@AlunLlewelyn) on Facebook (Plaid Cymru candidate for Neath)
-
 Alun Llewelyn is the Plaid Cymru candidate for Neath at the 2016 National Assembly Election. 

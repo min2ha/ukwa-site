@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chatham House: The future of Europe: Comparing Public and Elite Attitudes
-
 • The European Union and its member states have faced almost a decade of political tumult. If the EU is to move beyond crisis management towards political and economic renewal, a prerequisite is to understand better the foundation of public and ‘elite’ attitudes to the EU, and where these align and diverge. • This paper is based on a unique survey conducted between December 2016 and February 2017 in 10 countries that polled two groups: a representative sample of 10,000 members of the public; and a sample of over 1,800 of Europe’s ‘elite’, individuals in positions of influence from politics, the media, business and civil society at local, regional, national and European levels. 

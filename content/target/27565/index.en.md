@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015 explained: Who can vote, who's excluded - and does the Queen get to have her say?
-
 None

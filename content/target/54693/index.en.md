@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# GamCare:  New Members Intro Forum-Someone help, addicted to online gambling :(
-
 Forum post regarding online gambling

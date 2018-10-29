@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Slaughter and May: Brexit essentials: Navigating uncharted seas: a practical guide for businesses
-
 In the aftermath of vote to leave the EU, this briefing considers the key steps to be taken by corporates and other businesses to address the post-referendum risks and challenges. It then analyses some key implications for certain practice areas.

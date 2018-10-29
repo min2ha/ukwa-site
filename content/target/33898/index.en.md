@@ -10,6 +10,4 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# Campaign For Drawing, The
-
 The Campaign for Drawing is an independent charity which raises the profile of drawing as a tool for thought, creativity, social and cultural engagement.

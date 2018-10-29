@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent Online: Disagreement over whether Cinque Port limb Deal had its own Magna Carta after discovery of Sandwich's ancient document
-

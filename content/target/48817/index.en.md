@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roastbooks 
-
 Roastbooks is a publisher of lovely and unusual modern books specialising in flash fiction and short stories.

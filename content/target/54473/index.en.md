@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chartered Institute of Ecology and Environmental Management (CIEEM): What do the UK election manifestos say about the environment?
-
 Presents  CIEEM’s analysis of the content of the general election 2017 party manifestos and their implications for the environment, either directly or indirectly via other areas such as Brexit and infrastructure. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gareth Thomas, Winning back Clwyd West for Labour – Adennill Gorllewin Clwyd i'r Blaid Lafur
-
 Gareth Thomas,  Labour  candidate for Clwyd West.

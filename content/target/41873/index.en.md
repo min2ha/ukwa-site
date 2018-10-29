@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Meavy
-
 This site is listed in the British Towns and Villages Encyclopaedia of Great Britain and we can be found in the entry for Meavy.

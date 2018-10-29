@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Welsh Music Archive (@MusicNLW) on Twitter 
-
 The Welsh Music Archive collect and promote access to music archives and manuscripts in the National Library of Wales. This is their twitter feed.

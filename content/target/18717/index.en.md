@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: David Starkey’s Magna Carta review – he’s a far better history teacher than political pundit 
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Niel Gow Annual Scottish Fiddle Festival
-
 Site of an annual festival of traditional Scottish fiddle (violin) music held at Dunkeld & Birnam, Perthshire and commemorating the life and work of renowned player Niel Gow.

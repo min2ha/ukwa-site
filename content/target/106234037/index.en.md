@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Durham Police & Crime Commissioner
-
 None

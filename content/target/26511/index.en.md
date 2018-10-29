@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Winners and losers of the 2015 UK general election campaign
-
 None

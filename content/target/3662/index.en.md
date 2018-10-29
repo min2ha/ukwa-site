@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Guide and Gazette
-
 None

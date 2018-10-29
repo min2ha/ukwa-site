@@ -10,6 +10,4 @@
   "start_date": "2018-10-18T17:32:00Z"
 }
 
-# Hana Feels
-
 "This is an interactive story about a girl named Hana."

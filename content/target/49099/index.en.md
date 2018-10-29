@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Anti-Racism Cardiff (@AntiRacismCdf) on Twitter
-
 Anti-Racism Cardiff provides news about Anti-Racism in the Welsh capital. It is run by Ciara Cohen-Ennis, a journalist trainee at Radio Cardiff. 

@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Angharad Pearce Jones
-
 Angharad Pearce Jones is an installation artist, whose work takes both a humorous and critical look at society's idiosyncracies and contradictions. 

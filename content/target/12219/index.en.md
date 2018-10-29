@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lisa Kearney (kearney_judo) on Twitter
-
 Twitter profile of judo player Lisa Kearney, member of Team Northern Ireland for the Glasgow 2014 Commonwealth Games.

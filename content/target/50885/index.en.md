@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Open University Geological Society (OUGS)
-
 The Open University Geological Society supports the study of geology and other earth sciences by providing opportunities for members to learn via field trips, talks, workshops and conferences led by experts in their fields.

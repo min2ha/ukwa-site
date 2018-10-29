@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Art Fund: the national fundraising charity for art
-
 <p>A charity devoted to fundraising for art in the UK. Many images of paintings and other art, with news and commentary about individual works of art and exhibitions.</p>

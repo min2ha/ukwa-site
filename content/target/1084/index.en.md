@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Midlands Cancer Intelligence Unit
-
 None

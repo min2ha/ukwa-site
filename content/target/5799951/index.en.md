@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Visit Cornwall
-
 None

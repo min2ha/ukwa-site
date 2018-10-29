@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband tells Boots boss: Start paying your taxes
-
 None

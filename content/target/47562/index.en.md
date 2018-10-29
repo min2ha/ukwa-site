@@ -10,6 +10,4 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# Gordon Boswell Romany Museum
-
 Museum in Spalding UK that claims to have the largest public display of Romany vardos and Romany history in the world. It includes superb traditional Romany horse-drawn Vardos (caravans), carts and harness etc. (all horse-drawn), photographs and sketches.

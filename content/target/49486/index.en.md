@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-#  Theatro Technis
-
 Theatro Technis is a 120-seat, townhouse theatre stages new works and classic dramas, plus popular musicals.

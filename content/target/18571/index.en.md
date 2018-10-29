@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris von Ruhland (@chrisvonruhland) on Twitter (Green party candidate for Cardiff North)
-
 Chris von Ruhland is Green Party Candidate for Cardiff Central.

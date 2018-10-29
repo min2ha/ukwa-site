@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Guardian, The: Winter Olympics 2018
-
 Winter Olympics 2018 sub section of The Guardian Newspaper.

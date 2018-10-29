@@ -10,6 +10,4 @@
   "start_date": "2015-07-03T10:00:00Z"
 }
 
-# Lynx UK Trust
-
 The Lynx UK Trust is a group of conservationists dedicated to reintroducing the lynx back into the ecosystem of the British Isles. The Trust has been formed by a group of conservationists and scientists with specialisations in wild felines, genetics, field research, reintroductions and education that have worked on projects worldwide.

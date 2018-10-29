@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig Duncan (@DuncanDundee) on Twitter
-
 The Twitter profile of Craig Duncan, the Scottish Liberal Democrats candidate for Dundee City West in the 2016 Scottish Parliament election.

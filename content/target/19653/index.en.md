@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tatton Conservatives
-
 Website of Tatton Conservatives, providing information on MPs, MEPs, association officers and staff, unitary and town councillors, events and local, national and European news.

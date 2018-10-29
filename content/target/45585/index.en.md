@@ -10,7 +10,5 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Gofalaeth Wystog
-
 This is a blog of the Woodstock Pastorate, the Presbyterian Church of Wales.
 News comes from the 7 North Pembrokeshire’s Calvinistic Methodist Churches.

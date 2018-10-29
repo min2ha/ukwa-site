@@ -10,6 +10,4 @@
   "start_date": "2016-11-15T09:00:00Z"
 }
 
-# Common Market
-
 Common Market is an online marketplace for local manufacturers, producers and independent retailers based in Scotland.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: The Brexit blockers: Bitter losers from all parties gang up to plot to stop Britain's exit from the EU - which was voted for by 17 million people   
-

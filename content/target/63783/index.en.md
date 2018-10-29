@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Just Giving: Life 
-
 The Life subsection of the JustGiving crowd funding platform. 

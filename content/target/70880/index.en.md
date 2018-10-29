@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Couriers Network Cymru
-
 Couriers Network Cymru are a free association of couriers from across Wales and are a collaboration between the the IWW (Industrial Workers of the World), a grassroots trade union, and a group of couriers working for Deliveroo and UberEats. The network aims to push to change the conditions of labour relations in the industry to get a better deal for its members and ultimately to enable a better service for the public.

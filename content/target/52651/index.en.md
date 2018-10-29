@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# ResCen, Centre for Research into Creation in the Performing Arts
-
 ResCen, the Centre for Research into Creation in the Performing Arts, is a multi-disciplinary, artist–driven research centre. It is designed to be a bridge between academia and the practices of professional performing artists. Established in 1999, its base is at Middlesex University, London. 

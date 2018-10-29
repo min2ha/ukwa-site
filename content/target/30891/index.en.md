@@ -10,6 +10,4 @@
   "start_date": "2015-09-28T10:00:00Z"
 }
 
-# Rainbow of Hope
-
 The Rainbow of Hope is a Cardiff based charity reaching out to the homeless and disadvantaged people including asylum seekers and refugees.

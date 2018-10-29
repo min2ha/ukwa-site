@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Gwynedd Ni
-
 Gwynedd Ni is the Gwynedd Information Service for Children, Young People & Families and is managed by Gwynedd County Council.

@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mike Hedges (Labour candidate for Swansea East)
-

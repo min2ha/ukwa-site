@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# British Hydropower Association (BHA)
-
 The British Hydropower Association (BHA), an organisation that promotes and campaigns for hydropower in the UK, with the objective of increasing the awareness of hydropower, its quality and scope, on a global scale.

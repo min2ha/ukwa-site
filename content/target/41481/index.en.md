@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Huntly and District Development Trust
-
 Site of a community run and owned organisation working to improve local amenities in Huntly, Aberdeenshire.

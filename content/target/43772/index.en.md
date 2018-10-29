@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Scotsman, The: SNP Government will seek Scots EU deal
-

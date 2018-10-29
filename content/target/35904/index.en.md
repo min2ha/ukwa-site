@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Craig Miller (@Craigmiller1986) on Twitter
-
 The Twitter profile of Craig Miller, the Scottish Labour candidate for Clackmannanshire and Dunblane in the 2016 Scottish Parliament election.

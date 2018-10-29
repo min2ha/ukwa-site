@@ -10,6 +10,4 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Wales Transport Research Centre (WTRC)
-
 Wales Transport Research Centre (WTRC) is part of the University of South Wales and is a leading research centre for applied research and consultancy, covering all aspects of air, land and sea transport for both public and private sectors in Wales.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Fringe by the Sea
-
 Site of an annual arts festival located in North Berwick, East Lothian, Scotland.

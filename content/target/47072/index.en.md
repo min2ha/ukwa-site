@@ -10,6 +10,4 @@
   "start_date": "2016-11-16T09:00:00Z"
 }
 
-# Owain Glyndŵr Society, The
-
 The Owain Glyndŵr Society was established in 1996 as the result of an initiative by Adrien Jones of Llandeilo. 

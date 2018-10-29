@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Medwyn's Museums
-
 <p>Medwyn offers information on the following museums: Carmarthenshire County Museum, Ceredigion Museum, Scolton Manor Museum and Country Park and City &amp; County of Swansea Museum.</p>

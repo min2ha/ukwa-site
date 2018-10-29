@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Voice, The: Why Leaving The EU Is Better For Immigration
-
 Article discussing immigration control after Britain leaves the EU

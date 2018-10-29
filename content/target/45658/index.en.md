@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Informa plc
-
 Informa plc is a multinational publishing and events company, Informa’s four Operating Divisions provide products and services based on content, intelligence and connections to specialist communities worldwide. These include academic books and journals, data-driven intelligence publications and services, exhibitions, conferences and learning platforms.

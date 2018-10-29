@@ -10,6 +10,4 @@
   "start_date": "2017-08-30T09:00:00Z"
 }
 
-# Perth & KInross Countryside Trust
-
 Site of an independent that negotiates access to land, builds footpaths, helps care for Perthshire woodlands and trees, and works partnership with other organisations and community group son conservation projects to improve and promote recreational access to the countryside.

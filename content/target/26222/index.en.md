@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# E-Learning Foundation: e-Learning Foundation Manifesto - No child left out 
-
 They aim to inspire and support schools and families to take positive action so that the education of every child is enhanced by good access to, and use of, learning technologies when and where they need them.

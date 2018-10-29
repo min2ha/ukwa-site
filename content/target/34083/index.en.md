@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Association of Professional Staffing Companies (APSCo), The 
-
 Association of Professional Staffing Companies.

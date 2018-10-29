@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jack Duffin (UKIP)
-
 Jack Duffin stood as UKIP candidate for Uxbridge & Ruislip South at the 2015 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# University Association for Contemporary European Studies (UACES)
-
 UACES is the academic association for Contemporary European Studies. It is a membership organisation for academics, students and practitioners who are interested in all aspects of Europe and the European Union.

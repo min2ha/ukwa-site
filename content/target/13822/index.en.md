@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Africa Unified (AfricaUnified) on Twitter
-

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum 2014"
 }
 
-# Rabfultonstories: Social Justice & Scottish Independence
-

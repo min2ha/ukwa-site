@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum - Campaign blogs from eureferendum.com
-

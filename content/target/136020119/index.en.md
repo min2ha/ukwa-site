@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sandwell LINk
-
 None

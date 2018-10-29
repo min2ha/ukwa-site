@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tyler Jay Harding Free Skier
-
 None

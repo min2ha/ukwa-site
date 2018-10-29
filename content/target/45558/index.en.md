@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Hexham Town Council
-
 Website of Hexham Town Council provides information about the town, and council policies and finance. You can also access committee papers, minutes and agenda and the town plan

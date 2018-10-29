@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Office for National Statistics: gender identity
-
 An overview of the Office for National Statistics' work on gender identity

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Newry Democrat: UK must remain in EU - McGuinness
-
 Local newspaper for Newry, Northern Ireland

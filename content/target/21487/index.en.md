@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron caves on TV debate - but still refuses to go head-to-head with Ed Miliband
-
 None

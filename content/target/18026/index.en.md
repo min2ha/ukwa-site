@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Avenue des Ecoles 
-
 This website concerns education in London and the UK

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Universities UK: General Election 2017
-
 Calls on the next government to: secure an effective post-Brexit settleent for universities; support universities in their role as anchors for growth in local economies; make sure research funding matches our competitors; devise an effective immigration system; and support world-leading teaching and student experience.

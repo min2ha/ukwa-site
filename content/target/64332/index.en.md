@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Lasadh
-
 Site providing online teaching resources for teachers of primary school Scottish Gaelic.

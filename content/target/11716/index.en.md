@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Warnock (SarahWarnock05) on Twitter
-
 <p>The twitter profile of althete Sarah Warnock, long jumper and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

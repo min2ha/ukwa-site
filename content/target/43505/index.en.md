@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Finnish Institute In London; Who scares, wins? The unintended political consequences of the British EU referendum debate 
-
 Post on the offficial blog of the Finnish Intitute in London. The Finnish Institute in London is a London-based private trust. Its mission is to identify issues emerging in contemporary society and to facilitate social change.

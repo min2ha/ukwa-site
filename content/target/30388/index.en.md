@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T11:00:00Z"
 }
 
-# Europe Sees Syria on Facebook
-
 The Facebook page of Europe Sees Syria, a series of vigils marking the deaths of Syrian refugees.

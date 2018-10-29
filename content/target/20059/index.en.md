@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Electoral Calculus: Home page
-
 Electoral Calculus predicts the 2015 British General Election result using scientific analysis of opinion polls and electoral geography. 

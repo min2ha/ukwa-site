@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Places of Worship in Scotland
-
 Site of a database of locations and location information for churches throughout Scotland, included unconsecrated sites.

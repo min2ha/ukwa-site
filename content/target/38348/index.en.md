@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Socialist Appeal: The Irish establishment “celebrates” the Easter Rising: A shameful charade 
-
 Article by Alan Woods on official Irish Easter Rising centenary celebrations

@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Local Physio
-
 <p>The Local-Physio.co.uk gives information about physiotherapy and physiotherapists.</p>

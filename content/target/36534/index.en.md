@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent Federation of Nursing in Scotland
-

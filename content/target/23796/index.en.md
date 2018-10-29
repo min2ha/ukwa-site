@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Cardiffin Suomi-koulu
-
 The Finnish Saturday School in Cardiff.

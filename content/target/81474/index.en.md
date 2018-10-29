@@ -10,6 +10,4 @@
   "start_date": "2018-10-18T09:00:00Z"
 }
 
-# Prisoner Ombudsman for NI, The
-
 The Prisoner Ombudsman is appointed by the Minister of Justice for Northern Ireland and is completely independent of the Northern Ireland Prison Service (NIPS).

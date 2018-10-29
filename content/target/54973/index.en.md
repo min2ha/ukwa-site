@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell Community Response and Support
-
 A community effort to support the co-ordination of solidarity and relief efforts for the residents and community of Grenfell Tower. This is not a site to co-ordinate volunteers or donations but purely an information site. Please stay proactive on other websites and methods of supporting the residents and community of Grenfell Tower. The majority of information on this site has been gathered by members of the local North Kensington community from the massive social media effort to spread information and assistance.

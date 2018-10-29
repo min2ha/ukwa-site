@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband makes bride-to-be's day as hen party mobs Labour bus
-
 None

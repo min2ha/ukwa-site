@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The Real WW1: Subversive Histories of the First World War
-
 Talks, tours and protest around the radical history of WW1 focusing on anti=war activism and opposition to war

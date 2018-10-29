@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Express: After judges' Brexit block now your country really needs you: We MUST get out of the EU
-

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Alternative Bristol
-
 News and events listing for alternative and community organisations in Bristol

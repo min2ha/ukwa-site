@@ -10,6 +10,4 @@
   "start_date": "2014-01-18T21:00:00Z"
 }
 
-# Open Innovation
-
 None

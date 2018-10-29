@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Northern Ireland Assembly: Northern Ireland’s fisheries sectors – background and possible ‘Brexit’ considerations
-
 Research and Information Service Briefing Paper providing contextual information on the sea and inland fisheries sectors within Northern Ireland, as well as exploring potential considerations for the sectors following the UK referendum decision to leave the European Union.

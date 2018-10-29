@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford Internet Institute: Social media is nothing like drugs, despite all the horror stories
-
 Blog post that examines the complexity of social media and its effects on mental health. It also references a recent study conducted by the Oxford Internet Institute.In a study of more than 120,000 UK teenagers, it was found that moderate social media use is not harmful to mental health

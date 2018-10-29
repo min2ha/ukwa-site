@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# Auchindrain Township
-
 Site of museum reflecting pre-agricultural revolution format of township farming in Scotland.

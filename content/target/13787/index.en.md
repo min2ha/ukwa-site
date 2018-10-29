@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Camden People's Theatre: CPT Referendum
-
 None

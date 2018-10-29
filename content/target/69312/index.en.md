@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Wales Bangladesh Chamber of Commerce
-
 The Chamber was established to promote, protect and strengthen bilateral trade and commerce between Bangladesh and the Wales.

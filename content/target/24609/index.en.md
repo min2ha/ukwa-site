@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nick Clegg: Consider letting gay couples pay surrogates
-
 None

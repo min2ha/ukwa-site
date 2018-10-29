@@ -96,6 +96,4 @@
   "endDateText": "31-12-2013"
 }
 
-# Margaret Thatcher
-
 This collection of websites was curated by staff at the British Library following the death of Margaret Thatcher on 8 April 2013. Baroness Thatcher (1925 – 2013) was a British stateswoman who was Prime Minister of the UK from 1979 to 1990 and Leader of the Conservative Party from 1975 to 1990. She was the longest-serving British prime minister of the 20th century, and the first woman to have held the office. A Soviet journalist dubbed her The Iron Lady, a nickname that became popularly associated with her uncompromising politics and leadership style. 

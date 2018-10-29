@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# National Coalition Building Institute 
-
 The National Coalition Building Institute is an international non-profit leadership development network dedicated to the elimination of racism and other forms of oppression.

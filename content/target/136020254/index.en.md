@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Observing the 1980s
-
 None

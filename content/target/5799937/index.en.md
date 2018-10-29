@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# National Union of Teachers (NUT)
-
 The National Union of Teachers (NUT) is a trade union for school teachers in England, Wales, the Channel Islands and the Isle of Man. It is a member of the Trades Union Congress. The Union recruits only qualified teachers and those training to be qualified teachers into membership.

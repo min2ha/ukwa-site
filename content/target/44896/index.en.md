@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# O'r Pedwar Gwynt
-
 A Welsh language print and online literary print and online magazine established in 2016 focusing on new books published in Wales.

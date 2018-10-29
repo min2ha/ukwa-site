@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Brexit leaves London-based banks facing 'nightmarish' choices
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC History: Windrush - Arrivals
-
 A sub-section of the BBC History website that relates to what is known as the Windrush.

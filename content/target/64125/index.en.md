@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Kerry Assoc London (@KerryAssnLondon) on Twitter
-
 Bringing together all Kerry people living and working in London and also those planning to come to London or indeed the UK

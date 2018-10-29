@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Keith North Churches
-
 The website of the congregation of Keith: North, Newmill, Boharm, and Rothiemay.

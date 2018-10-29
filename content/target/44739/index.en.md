@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: Sport Rio 2016
-
 The BBC news coverage of Rio 2016

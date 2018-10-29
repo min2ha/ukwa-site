@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lord Ashcroft: Labour and Tories face dead heat on election day
-
 None

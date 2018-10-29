@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Dunoon Observer and Argyllshire Standard
-

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sheila Mechan for Glasgow Kelvin Holyrood 2016 Election on Facebook
-

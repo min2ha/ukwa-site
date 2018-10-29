@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# Fiosrachadh do Phàrantan
-
 Information about Gaelic Medium education and bilingualism.

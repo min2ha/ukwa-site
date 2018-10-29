@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Hansard Corpus: British Parliament
-
 This Hansard corpus (or collection of texts) contains nearly every speech given in the British Parliament from 1803-2005 and it allows searching these speeches.

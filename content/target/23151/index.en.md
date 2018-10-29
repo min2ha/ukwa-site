@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Cabinet Office: General Election Guidance 2015
-

@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Metal Wales
-
 Metal Wales provides Welsh Metal, Rock and Alternative music news, details of gigs, bands and venues across Wales.

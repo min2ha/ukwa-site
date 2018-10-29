@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: NHS finance problem being ignored, says former boss
-
 None

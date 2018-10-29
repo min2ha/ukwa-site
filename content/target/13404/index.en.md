@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Angus MacDonald (Angus4FalkirkE) on Twitter
-
 The twitter profile of Angus MacDonald, SNP Member of the Scottish Parliament for Falkirk East.

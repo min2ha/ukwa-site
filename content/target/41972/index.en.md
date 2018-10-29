@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The daily scare tactics beggar belief – they’re not working 
-
 Guardian, The

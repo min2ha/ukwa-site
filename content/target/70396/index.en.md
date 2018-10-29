@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Liverpool FC News (@LivEchoLFC) on Twitter
-
 The official Twitter account for the Liverpool FC section of the Liverpool Echo news team.

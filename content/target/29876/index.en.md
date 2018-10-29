@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Murrayfield Ice Rink (@MurrayfieldRink) on Twitter
-
 Twitter profile for Murrayfield Ice Rink in Edinburgh.

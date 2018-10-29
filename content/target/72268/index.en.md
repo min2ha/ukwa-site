@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Gwasanaeth Ymwelwyr a Lletygarwch LlGC (@YmwelwyrLLGC) on Twitter 
-
 This is the Welsh language twitter feed of National Library of Wales Visitors Services.

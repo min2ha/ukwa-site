@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexiters hit back at no-deal 'armageddon' warning
-
 Whitehall advice predicting food and fuel shortages after Brexit was dismissed as ‘hysterical’
 

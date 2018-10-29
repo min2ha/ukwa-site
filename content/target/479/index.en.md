@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dorset LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Kuju Entertainment
-
 <p>Kuju is an independent video games developer based in London.</p>

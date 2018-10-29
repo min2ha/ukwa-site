@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Away With The Birds // Air falbh leis na h-eòin. Hanna Tuulikki.
-
 <p>Away with the Birds is a performance piece conceived for and in relation to the Isle of Canna. Incorporating a vocal composition by Hanna Tuulikki it will be performed on the Isle of Canna on the 29th and 30th of August 2014. Part of the Glasgow 2014 Cultural Programme.</p>

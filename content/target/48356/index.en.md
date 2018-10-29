@@ -11,8 +11,6 @@
   "subject": "British Overseas Territories"
 }
 
-# Falkland Islands Company, The  
-
 The Company's main areas of activity include retailing (including food, clothing, electrical goods, home furnishings, gifts and DIY), residential and commercial property, the sale and hire of 4x4 vehicles, travel services, including flight bookings, airport transfers and luxury coach and walking tours for tourists, insurance, agency services for cruise ships and fishing vessels, and the provision of freight and shipping services to and from the Islands.
 
 The Falkland Islands Company and Falkland Island Shipping are wholly owned subsidiaries of Falkland Islands Holdings plc, a publicly owned company quoted on the AIM market in London.

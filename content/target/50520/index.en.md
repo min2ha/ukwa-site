@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# British Deaf News (BDN)
-
 British Deaf News is operated by the British Deaf Association.

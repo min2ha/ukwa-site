@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Redcar Remembers
-
 Project to raise awareness of Redcar's heritage, developing pride and positive attitudes to our history through an inclusive community project based around Redcar and Coatham cemeteries.

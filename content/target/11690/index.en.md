@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# MARKDRY.COM
-
 <p>Website of Scottish hammer thrower Mark Dry.</p>

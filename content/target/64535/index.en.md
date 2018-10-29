@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Jersey Women’s Refuge
-
 The Jersey Women’s Refuge was founded in 1988, with support from Soroptimists International of Jersey, to provide a safe place for women and children to go who are victims of domestic abuse.

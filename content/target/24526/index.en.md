@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: SNP 'would be constructive force' at Westminster
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Welsh Wound Network
-
 <p>The Welsh Wound Network is 'committed to ensuring the highest possible standards of research, development and education to support industrial and clinical developments in wound healing'.</p>

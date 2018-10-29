@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Broughton History Society First World War Roll of Honour
-
 Hyper local website with a World War I database of names of soldiers killed and associated with the Broughton area of North Central Edinburgh.

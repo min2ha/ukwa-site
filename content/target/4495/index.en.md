@@ -10,5 +10,3 @@
   "start_date": "2013-12-05T20:00:00Z"
 }
 
-# Charity Commission, The
-

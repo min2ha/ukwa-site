@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# EcoScots: greens and environmentalists for an independent Scotland
-
 <p>A forum for Greens and environmentalists for an independent Scotland within the Yes campaign.</p>

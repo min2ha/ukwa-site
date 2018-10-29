@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Heads Together
-
 A UK mental health site aimed at changing the conversation surrounding mental health

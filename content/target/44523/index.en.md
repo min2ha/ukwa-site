@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Law Society of Scotland, The: Q and A following vote to leave European Union
-

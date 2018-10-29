@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Everton FC News (@LivEchoEFC) on Twitter
-
 The official Twitter account for the Everton FC section of the Liverpool Echo news team. 

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Stemettes (@Stemettes) on Twitter
-
 Twitter account of Stemettes, a social enterprise working across the UK & Ireland to inspire and support young women into Science, Technology, Engineering and Maths careers (STEM)

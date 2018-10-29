@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Maxime Cinema, Blackwood
-
 Blackwood is a new Picturedrome Cinema located on High Street, Balckwood.

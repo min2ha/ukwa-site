@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Glenorchy Camanachd Shinty Club on Facebook
-
 Facebook page for a shinty club located in Glen Orchy, Argyll & Bute.

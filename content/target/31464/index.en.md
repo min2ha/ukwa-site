@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# B-EM
-
 B-EM is a Freeware BBC Micro Emulator for DOS, Windows and Mac OS X.

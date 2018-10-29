@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Andrew Garcarz (@AGarcarz) on Twitter (UKIP candidate for Birmingham Erdington)
-

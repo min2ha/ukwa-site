@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Lancashire Police & Crime Commissioner
-
 None

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Welsh National League (Wrexham Area)
-

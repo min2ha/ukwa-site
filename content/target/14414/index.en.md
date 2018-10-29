@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - "Redistributive social democracy is defunct. What...
-
 Ewan Morrison's post of the 19th of June 2014, on Marxist Roberto Unger.

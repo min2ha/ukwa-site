@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour's soul-searching begins as modernisers attack Miliband 'mistakes'
-
 None

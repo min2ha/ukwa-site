@@ -10,5 +10,3 @@
   "start_date": "2015-11-26T09:00:00Z"
 }
 
-# National Research Network in Advanced Engineering and Materials
-

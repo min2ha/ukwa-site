@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror: Video game addiction will be classified as a mental health disorder by the World Health Organisation in 2018
-
 News article about video game addiction being classified as a mental health disorder by the World Health Organisation in 2018

@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# London School of Hygiene and Tropical Medicine: Expert comment on Zika virus outbreak in the Americas
-
 Basic information on Zika virus from a major academic institution studying tropical diseases

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Headington Community Website
-

@@ -10,5 +10,3 @@
   "start_date": "2014-11-17T00:00:00Z"
 }
 
-# Early days of a better nation
-

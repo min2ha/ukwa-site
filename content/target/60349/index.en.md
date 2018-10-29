@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Stronger Rhondda Gryfach. 
-
 Stronger Rhondda is a voluntary sector-led network of organisations, groups and individuals in the Rhondda Valleys celebrating excellence and challenging indifference.

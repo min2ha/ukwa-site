@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Sylvia Newman Garden Design
-

@@ -10,7 +10,5 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Rightmove
-
 Rightmove
 Rightmove plc is a UK-based company that runs www.rightmove.co.uk, the UK's largest online real estate portal and property website.

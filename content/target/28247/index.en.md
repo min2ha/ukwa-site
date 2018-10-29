@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# British Argentine Chamber of Commerce (BACC)
-
 The British Argentine Chamber of Commerce (BACC) provides a series of business networking opportunities and information on key issues linked to the bilateral commercial and business relations between the United Kingdom and Argentina.

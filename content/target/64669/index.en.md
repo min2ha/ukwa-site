@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Bunnyfield
-
 Bunnyfield is a department of Bunnyfoot UX consultancy. Specialising in finding and recruiting participants to take part in various types of user testing.

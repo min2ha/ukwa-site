@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonathan T Clark (@JonathanTClark) on Twitter (Plaid Cymru candidate for Monmouth)
-
 Plaid Cymru prospective parliamentary and assembly candidate for Monmouth constituency.

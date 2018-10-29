@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Blackmore Vale News
-
 None

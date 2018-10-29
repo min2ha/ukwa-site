@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Fasthosts: Blog
-
 The Fasthosts blog focuses on providing information and advice to industry professionals covering everything from cloud computing to digital marketing.

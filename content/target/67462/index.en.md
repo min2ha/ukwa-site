@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The water gets hotter. The frog sinks lower.
-
 Comments on the consequences of the Government's caving in to Dominic Grieve's demand for an amendment to the EU Withdrawal Bill that would give Parliament power to direct the government if its final deal with the EU is voted down.

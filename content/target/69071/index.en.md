@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# TwentyTwenty TV
-
 Production company based in the UK

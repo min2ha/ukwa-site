@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Sturgeon says only 'material change' could spark Scots referendum
-
 None

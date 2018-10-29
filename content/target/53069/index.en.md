@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Runnymede Liberal Democrats (@RunnymedeLibDem ) on Twitter
-
 Official Twitter account of Runnymede Liberal Democtats

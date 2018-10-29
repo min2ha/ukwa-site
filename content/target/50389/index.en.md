@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Park End Presbyterian Chruch, Cardiff
-

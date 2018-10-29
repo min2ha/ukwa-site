@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Week,The: Brexit fallout: Campaigners raise £27,000 to prosecute Leave politicians
-
 An article regarding actions to prosecute Leave politicians.

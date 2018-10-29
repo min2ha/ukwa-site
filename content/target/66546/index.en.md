@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-#  FCA (@TheFCA) on Twitter
-
 Financial Conduct Authority (FCA) news & information. Account run by Comms team. 

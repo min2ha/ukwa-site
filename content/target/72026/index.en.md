@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Sun, The: CHANGING HIS MIND? Philip Hammond takes a pop at Donald Tusk over Brexit saying he’s like people who thought lightbulbs would never catch on
-
 In his speech at the 2018 Tory Party conference, Philip Hammond hit out at the EU for trying to block Theresa May’s Brexit plan - saying Eurocrats were behaving like the people who tried to stop the rise of electricity. The Chancellor also predicted Britain would see an economic boom once we cut a trade deal with Brussels, dubbing it a “deal dividend”.
 
 

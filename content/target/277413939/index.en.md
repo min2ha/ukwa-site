@@ -10,5 +10,3 @@
   "start_date": "2014-12-02T00:00:00Z"
 }
 
-# Neyland Town Council
-

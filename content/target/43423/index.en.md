@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scientists for EU on Facebook
-
 Scientists for EU, brings a coalition of UK research, industry and education voices together in a bid to raise public and political awareness of (in their opinion) just how vital it is that we stay part of the EU. 

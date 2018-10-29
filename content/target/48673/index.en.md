@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# New Statesman: Why it's time to end EU free movement.
-
 Vince Cable makes the liberal case for immigration controls. He expresses serious doubts that EU free movement is tenable or even desirable.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Easter Rising Centennial
-
 Website of the Irish Easter Rising Centennial Committee, based in Philadelphia.

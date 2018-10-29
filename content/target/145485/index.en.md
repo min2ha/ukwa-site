@@ -10,5 +10,3 @@
   "start_date": "2007-07-09T00:00:00Z"
 }
 
-# Women's Arts Association
-

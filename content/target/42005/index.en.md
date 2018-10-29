@@ -10,5 +10,3 @@
   "start_date": "2016-05-30T10:00:00Z"
 }
 
-# Urban kultur blog
-

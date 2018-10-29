@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: White House slaps down Boris Johnson over 'hypocrite' attack on Obama saying London mayor is 'known for his rhetorical flourishes'   
-

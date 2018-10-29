@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Alun Davies: Some thoughts on Blaenau Gwent
-
 Alun Davies is the Assembly Member for Blaenau Gwent.

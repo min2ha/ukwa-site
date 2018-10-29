@@ -11,5 +11,3 @@
   "subject": "District Councils"
 }
 
-# East Nothampptonshire Council
-

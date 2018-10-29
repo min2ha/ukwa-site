@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# ABC Saints
-
 Blog of four Christian churches of the Scottish Episcopal denomination and their congregations located in Alyth (St Ninian's), Blairgowrie (St Catharine's), Coupar Angus (St Anne's) and Ballintuim (St Michael's) Perth & Kinross.

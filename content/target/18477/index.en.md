@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband leaves business out of Labour's five key election pledges
-
 None

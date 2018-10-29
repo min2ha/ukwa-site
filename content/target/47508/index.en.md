@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# St. John Scotland
-
 Site of a Scottish charity dedicated to helping others through medical and rescue activities.

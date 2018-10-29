@@ -10,6 +10,4 @@
   "start_date": "2018-03-21T09:00:00Z"
 }
 
-# Lodge Kenmuir 570
-
 Site of a masonic lodge located in Springburn, Glasgow and affiliated with the Grand Lodge of Scotland.

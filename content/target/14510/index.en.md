@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T02:00:00Z"
 }
 
-# Save the Levels
-
 <p>Thisn is the pressure group website for 'Campaign against the levels motorway' (CALM). They oppose the Welsh Government proposals to build a new motorway easing congestion in Newport.</p>

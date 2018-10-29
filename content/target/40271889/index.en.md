@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Bridgen (Conservative candidate for North West Leicestershire)
-
 Andrew was first elected as MP for North West Leicestershire in 2010 and re-elected in 2015. He stood for re-election again in 2017 and was successful.

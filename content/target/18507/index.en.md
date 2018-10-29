@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Budget 2015: Danny Alexander unveils Lib Dem alternative
-
 None

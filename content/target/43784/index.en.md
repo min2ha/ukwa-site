@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Faslane Peace Camp 
-
 Taking action against nuclear weapons.

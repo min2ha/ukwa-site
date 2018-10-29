@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Yorkshire Ranter, The
-
 None

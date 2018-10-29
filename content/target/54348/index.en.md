@@ -10,6 +10,4 @@
   "start_date": "2017-06-07T09:00:00Z"
 }
 
-# Dales School
-
 The Dales School is an all age specialist school for cognition and learning with an Outstanding Ofsted report and is a Local Authority School located in North Yorkshire.

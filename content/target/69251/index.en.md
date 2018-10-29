@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Peterhead & Fraserburgh Roman Catholic Parishes
-
 Site of three Scottish Roman Catholic parish churches located in Fraserburgh and Peterhead, Aberdeenshire, namely Our Lady Star of the Sea & St. Drostan’s, Fraserburgh and St. Mary’s, Peterhead.

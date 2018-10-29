@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Metro: Europe thinks the UK is living on ‘fantasy island’ over Brexit deal
-
 An article based on a think tanks report six months after the EU Referendum result.

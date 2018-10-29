@@ -10,6 +10,4 @@
   "start_date": "2017-06-10T09:00:00Z"
 }
 
-# British Honey Importers and Packers Association (BHIPA).
-
 Official website of the BHIPA which promotes the benefits of eating honey.

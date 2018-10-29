@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Joseff Badman
-
 Joseff Badman is a professional magician, originally from Wales and now based in London.

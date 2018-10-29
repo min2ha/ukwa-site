@@ -10,5 +10,3 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Isle of Anglesey County Council
-

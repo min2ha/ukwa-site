@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour would double childcare places at Sure Start centres, says Tristram Hunt
-

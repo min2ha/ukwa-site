@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Benefits cuts are 'inhuman' admits senior Tory minister and close pal of David Cameron
-
 None

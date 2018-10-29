@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Riaghaltas na h-Alba on Twitter
-
 Scottish Government Gaelic Twitter page.

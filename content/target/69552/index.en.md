@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Young Academy of Scotland, The
-
 The Young Academy of Scotland was established by the Royal Society of Edinburgh.

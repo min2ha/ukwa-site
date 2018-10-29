@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Huge Surge in Online Mental Health Appointments Attacked By Specialists
-
 The Independent article about online mental health appointments 

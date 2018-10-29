@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Paul Uppal (Conservative  Politician)
-
 Paul Uppal stood as Conservative candidate for Wolverhampton South West at the 2017 General Election but was not elected. He was first elected as MP for Wolverhampton South West in 2010 and was re-elected in 2015. 

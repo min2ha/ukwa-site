@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Fife Today: Forth Bridge closer to becoming World Heritage Site
-

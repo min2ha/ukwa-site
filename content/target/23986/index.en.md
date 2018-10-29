@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Lucy Powell denies doubts over Miliband pledges
-
 None

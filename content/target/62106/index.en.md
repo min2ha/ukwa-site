@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Tech News: "Opinion: What are we doing about cyberbullying?"
-
 UK Tech News opinion piece about cyberbullying

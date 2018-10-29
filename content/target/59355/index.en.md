@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Campus Cat (@Campus_Cat) on Twitter
-
 Campus Cat lives on a university campus in Colchester, Essex.

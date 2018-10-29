@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK is playing hide and seek in talks, says EU negotiator
-
 Talks between the UK and the European Union needed to "speed up" if a deal on a future relationship was to be made in time for Brexit, the EU's negotiator said.
 

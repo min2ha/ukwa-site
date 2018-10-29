@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: George Galloway to challenge election defeat in the court
-
 None

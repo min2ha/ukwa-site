@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Menstrual Mafia, The - Whether it's literature, feminism or parenthood – She's on the blog
-
 The 'Menstrual Mafia, The - Whether it's literature, feminism or parenthood – She's on the blog' is a blog by Crystal Jeans, a Cardiff born author of two novels, 'Light Switches are My Kryptonite' and 'The Vegetarian Tigers of Paradise'. She is shortlisted for 2018 Wales Book of the Year award for her 'Light Switches are My Kryptonite'. This is her blog written from 2016 to 2017.

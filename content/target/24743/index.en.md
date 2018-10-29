@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Victoria Borwick (@backborwick  ) on Twitter (Conservative Politician)
-
 Victoria Borwick stood as Conservative candidate for Kensington at the 2015 General Election and was elected to serve as MP. She stood again at the 2017 election but was not elected.

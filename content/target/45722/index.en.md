@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Design Museum
-
 Design Museum is a museum founded in 1989, located by the River Thames near Tower Bridge in central London, England. The museum covers product, industrial, graphic, fashion and architectural design.

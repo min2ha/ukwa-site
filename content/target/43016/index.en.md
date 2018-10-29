@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Orlando Massacre: Statement from US socialists
-
 A press statement from socialists in the US.

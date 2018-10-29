@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dover & Deal Labour Party
-
 Website of Dover & Deal Labour Party, providing information on branches, councillors, Women's Forum, candidates and representatives.

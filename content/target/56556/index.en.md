@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Teaching Alliance
-
 The Preston based Catholic Teaching Alliance (CTA) is a partnership between 56 Catholic primary and secondary schools and post-16 colleges with a shared vision and commitment to providing first class, professional development for trainee teachers, practising teachers and school leaders.

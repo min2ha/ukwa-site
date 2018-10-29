@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Brexit means Brexit, but the Norway model is clearly the least worst option
-

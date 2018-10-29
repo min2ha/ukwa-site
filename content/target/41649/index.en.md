@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Huntstile Organic Farm
-
 Huntstile Farm has been in the care of the Ridout family since 1951. The Grade II Listed 15thC former manor house was built around 1430 and retains many original features, including wide Tudor doorways and large walk-in fireplaces.

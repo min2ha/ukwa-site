@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Labour's Harriet Harman attacks Nigel Farage, calls on women to vote and defends her pink van on a visit to Wales
-

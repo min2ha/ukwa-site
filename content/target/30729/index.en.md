@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Electricity
-
 Website for Jersey Electricity plc, a vertically integrated power utility dealing in the importation, generation, transmission and distribution of electricity.

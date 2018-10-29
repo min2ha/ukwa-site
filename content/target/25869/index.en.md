@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories' failure to attract ethnic minority vote 'could cost nine seats at election'
-
 None

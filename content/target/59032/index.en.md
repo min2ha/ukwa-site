@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UK Safer Internet Centre: The Real Cost of Online Gaming
-
 Blog post about issues that surround online gaming including the effects it can have on mental health

@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Cardiff Pound | Punt Caerdydd
-
 The Cardiff Pound is being developed by a partnership between Cadwyn Housing Association, Cardiff and Vale Credit Union and Indycube CIC. The aim is to create an independent currency that will ensure that the money stays in Cardiff and supports the local economy. The Cardiff Pound is a local currency, designed to be used by people and businesses throughout the Cardiff area. 

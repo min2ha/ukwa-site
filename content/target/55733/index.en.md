@@ -11,7 +11,5 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# SaySomethingin Welsh
-
 SaySomethingin Welsh is a website for Welsh learners which allows you to 
  listen to the lessons online or download them.

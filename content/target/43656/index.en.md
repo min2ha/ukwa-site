@@ -11,7 +11,5 @@
   "subject": "EU Referendum"
 }
 
-# Oxford Economics: Research Program: Assessing the economic implications of Brexit
-
 Assessing the economic
 implications of Brexit

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# UCL European Institute
-
 The European Institute is UCL’s hub for research, collaboration and information on Europe and the European Union.

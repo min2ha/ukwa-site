@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T09:00:00Z"
 }
 
-# UK Sommelier Association, The
-
 Since 2005 The UK Sommelier Association, has been providing professional sommelier courses built on the foundations and the principles of the Italian Sommelier Association (AIS), which itself has offered wine education since 1965.

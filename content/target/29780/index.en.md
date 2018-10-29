@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Assembly by Roxy
-
 Venue based out of Edinburgh and involved in the Edinburgh Fringe Festival.

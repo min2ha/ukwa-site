@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Simon Hart (@Simonhartmp) on Twitter 
-

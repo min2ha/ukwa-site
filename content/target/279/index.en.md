@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Greater Huddersfield CCG
-
 None

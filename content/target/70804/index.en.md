@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tor Rugby Club on Pitchero
-
 The official website of Tor Rugby Club - Glastonbury

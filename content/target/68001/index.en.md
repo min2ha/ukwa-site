@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bicester heritage
-
 Website for Bicester Heritage

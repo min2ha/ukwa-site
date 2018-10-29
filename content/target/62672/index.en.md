@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bowden & Melrose Parish
-
 Site of two Church of Scotland parish churches at Melrose, Scottish Borders (historically Roxburghshire).

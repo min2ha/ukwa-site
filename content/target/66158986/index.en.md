@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Warwickshire Police Authority
-
 None

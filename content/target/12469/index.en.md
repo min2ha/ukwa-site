@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Chatham House: Scotland's Independence Referendum
-
 <p>Research, analysis and comment on the Scottish Independence referendum, and the impact of independence on foreign policy in Scotland and the UK.</p>

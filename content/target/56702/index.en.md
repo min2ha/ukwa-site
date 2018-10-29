@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Hillsborough Independent Panel
-
 Ninety-six men, women and children died as a result of the Hillsborough Disaster on 15 April 1989. It remains the most serious tragedy in UK sporting history. Thousands suffered physical injury and/or long-term psychological harm. Twenty-three years on, the Panel has negotiated the disclosure of documents from those involved. Its analysis is published in an in-depth Report.

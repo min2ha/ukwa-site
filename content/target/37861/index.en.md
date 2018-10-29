@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Duncan Rees (@DuncanRees3) on Twitter 
-
 Duncan Rees is the Green Party candidate for Clwyd South at the 2016 National Assembly Elections. 

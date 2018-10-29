@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Croeso Hwlffordd / Welcome Haverfordwest on Facebook
-
 Croeso Hwlffordd / Welcome Haverfordwest  is a community group working with the UK Home Office Community Sponsorship Scheme to extend a welcome and support to Syrian families in Haverfordwest.

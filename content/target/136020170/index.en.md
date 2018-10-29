@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Camden LINk
-
 None

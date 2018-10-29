@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Colinton Local History Society
-
 Site of hyperlocal history society dedicated to recording of history in the Colinton area of South West Edinburgh

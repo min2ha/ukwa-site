@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Leighton Andrews: Standing up for the Rhondda (Labour candidate for Rhondda)
-
 Leighton Andrews is the Labour candidate for Rhondda at the 2016 National Assembly for Wales elections. 

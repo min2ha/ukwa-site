@@ -54,6 +54,4 @@
   "endDateText": ""
 }
 
-# Slavery and Abolition in the Caribbean
-
 Back in 2007 the Internet was an important engagement space for museums, archives, libraries and various other institutions to relay the history of slavery and mark the bicentenary of the abolition of the British slave trade. This collection includes, but is not confined to, sites relating to that bicentenary, and includes resources from a range of UK government, heritage, local history and other organisations on the enactment, abolition and consequences of slavery in the Caribbean.

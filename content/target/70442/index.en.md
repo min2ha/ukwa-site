@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Agri-Brexit Coalition
-
 The Coalition aims to work with UK governments to shape a Post-Brexit world where a productive and sustainable agriculture benefits the nation’s economy and environment.

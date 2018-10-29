@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron: SNP and Labour are halfway up the aisle together already
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Wessex Film and Sound Archive on Facebook
-
 Wessex Film and Sound Archive collects and preserves films and sound recordings from Hampshire, the Isle of Wight, Berkshire, Oxfordshire and Buckinghamshire.

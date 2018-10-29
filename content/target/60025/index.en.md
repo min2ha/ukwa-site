@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Ally Pally 'Museum' (@AllyPallyMuseum) on Twitter
-
 Official Twitter feed of Ally Pally Museum & Collectibles. 

@@ -10,6 +10,4 @@
   "start_date": "2017-04-25T09:00:00Z"
 }
 
-# Linlithgow… Leading the Way
-
 Site of a business improvement district for the town and neighbourhood of Linlithgow, West Lothian, providing listings of amenities in the town and promoting local businesses.

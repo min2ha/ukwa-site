@@ -10,6 +10,4 @@
   "start_date": "2015-09-05T10:00:00Z"
 }
 
-# Communist Party of Great Britain (Marxist-Leninist)
-
 Official website of the Communist Party of Great Britain (Marxist-Leninist). The site contains a bi-monthly publication 'Proletariat'.

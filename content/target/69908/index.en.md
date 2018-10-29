@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Dominic's Church, Bishopbriggs
-
 Site of a Scottish Roman Catholic parish church located in Bishopbriggs, Lanarkshire.

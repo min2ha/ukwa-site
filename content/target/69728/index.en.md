@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# Talk Tidy: the online home of wenglish
-
 Welsh English refers to the dialects of English spoken by Welsh people. The dialects are significantly influenced by Welsh grammar and often include words derived from Welsh. Chris Lewis is webmaster of www.talktidy.com and contains the work of John Edwards who compiled the dictionary of this special dialect used in and around the valleys of South Wales.

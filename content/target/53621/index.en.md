@@ -10,5 +10,3 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Bridgend writers Circle 
-

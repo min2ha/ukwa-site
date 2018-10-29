@@ -10,5 +10,3 @@
   "start_date": "2016-12-07T09:00:00Z"
 }
 
-# Institute of Welsh Affairs on Audioboom
-

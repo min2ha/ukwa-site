@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: Queen 'Brexit' story: Grayling rejects Labour's inquiry call
-

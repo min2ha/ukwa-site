@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit unlikely to cause significant fall in immigration, says report 
-
 Guardian, The

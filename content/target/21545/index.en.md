@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Full quotes: John Mills, Labour's biggest donor, criticises party over tuition fees cut and SNP
-
 None

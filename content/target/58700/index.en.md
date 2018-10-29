@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 6 November 2017: European Economic Area: UK Membership
-
 Debate calling on the Government to provide time for a debate and decision on a substantive motion on the UK’s continued membership of the EEA post Brexit.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# BBC_HaveYourSay (@BBC_HaveYourSay) on Twitter
-
 The section of the BBC that take in the public's view on popular events.

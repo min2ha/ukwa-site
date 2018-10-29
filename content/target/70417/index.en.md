@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Central Gurdwara Glasgow
-
 Site of a Sikh place of worship in central Glasgow.

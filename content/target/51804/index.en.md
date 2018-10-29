@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Scottish Cuba Solidarity Campaign
-
 The Scottish Cuba Solidarity Campaign (SCSC) is a non-party political organisation. The SCSC campaign here in Scotland for the defence of Cuba and Cuban people. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Hug a Brit
-
 Pro-European grassroots movement of EU citizens living in the UK, campaigning for a vote to remain at the June 23rd Referendum. Publishes photographs of EU citizens hugging their British friends

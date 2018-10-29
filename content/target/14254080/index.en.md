@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Gender Equality Network (GeNet)
-
 None

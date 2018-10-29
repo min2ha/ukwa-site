@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Stamford Bridge Stadium
-
 Stamford Bridge is a football stadium in Fulham, South-West London. It is the home ground of Chelsea F.C.. The stadium is within the Moore Park Estate also known as Walham Green and is often referred to as simply The Bridge. 

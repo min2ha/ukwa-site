@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Hill Park Church, Haverfordwest
-

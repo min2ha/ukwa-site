@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Gŵyl Newydd | Newport Welsh festival 
-
 Gŵyl Newydd is a Welsh-language arts and cultural festival for the whole family established in 2018 and holds events across Monmouthshire, Torfaen, Blaenau Gwent and Newport.

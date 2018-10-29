@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Friends of the Metropolitan Police Historical Collection
-
 Friends of the Metropolitan Police Historical Collection is a group of like minded people seeking to promote and preserve the history of the Metropolitan Police Service (MPS) and its service to London since 1829.  It is an independent community group that works alongside the staff at the Metropolitan Police Heritage Centre. 

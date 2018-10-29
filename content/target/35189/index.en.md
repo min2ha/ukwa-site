@@ -10,6 +10,4 @@
   "start_date": "2016-02-19T09:00:00Z"
 }
 
-# Studies in Arts and Humanities (SAH)
-
 Studies in Arts and Humanities (SAH) is an interdisciplinary academic collaboration whose enduring concern is with social, political and cultural practices, in the context of mapping transformations in contemporary society.

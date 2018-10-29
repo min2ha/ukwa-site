@@ -11,7 +11,5 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Welsh Government: Welsh Language | Iaith Gymraeg
-
 This the Welsh Government pages supporting, promoting and facilitating the use of the Welsh language in Wales.
 

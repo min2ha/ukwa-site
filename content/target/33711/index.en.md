@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# How to Do Animal Rights
-
 This web site is a free online-book showing how to be active for animal rights legally and informs about animal rights problems and ethics so the campaigners can defend their actions rationally. 

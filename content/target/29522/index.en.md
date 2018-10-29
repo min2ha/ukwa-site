@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# Blaenau Gwent Venues
-
 Online guide to live entertainment across Blaenau Gwent.

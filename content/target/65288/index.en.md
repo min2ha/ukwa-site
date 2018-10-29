@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# WeDO Scotland
-
 A Scottish business owners' network and support organisation. 

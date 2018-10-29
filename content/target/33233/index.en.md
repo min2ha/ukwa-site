@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# Chapel, The
-
 Website of a bar in Central London.

@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# w4mp
-
 w4mp, funded by the House of Commons to provide career development opportunities for those working for MPs and those who are looking for a job with an MP or in other areas of political activity. 

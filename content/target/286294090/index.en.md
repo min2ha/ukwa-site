@@ -10,6 +10,4 @@
   "start_date": "2015-01-15T00:00:00Z"
 }
 
-# Cantos Project, The
-
 <p>The Cantos Project is dedicated to the study and research of Ezra Pound's monumental long poem 'The Cantos'.</p>

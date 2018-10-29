@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Chartered Institute of Water and Environmental Management (CIWEM)
-
 CIWEM are a Royal Chartered professional body dedicated to the water and environment sector. They represent and support members globally, dedicated to improving water and environmental management as well as associated social and cultural issues.

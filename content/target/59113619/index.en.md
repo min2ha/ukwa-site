@@ -10,5 +10,3 @@
   "start_date": "2011-02-21T00:00:00Z"
 }
 
-# Websites By Paddy Gormley
-

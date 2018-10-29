@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Schoolhouse
-
 The Digital Schoolhouse is a primary to secondary school transition project focused on the teaching of the new Computing Programmes of Study for the National Curriculum. The initiative is being funded by the Mayor of London’s Schools Excellence Fund (LSEF) to enable Ukie and the Digital Schoolhouse Trust to establish Digital Schoolhouses in 10 London secondary schools.

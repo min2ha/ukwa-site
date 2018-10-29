@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Christian Aid: On meeting Nelson Mandela
-
 None

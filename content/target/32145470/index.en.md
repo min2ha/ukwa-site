@@ -10,6 +10,4 @@
   "start_date": "2018-03-17T09:00:00Z"
 }
 
-# Jazz Heritage Wales - Treftadaeth Jazz Cymru
-
 A window into a special collection multi media archive, enhanced and developed over 30 years of research into jazz, slavery and its links to Wales, especially Swansea and an insight into women in jazz.

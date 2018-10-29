@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Article about the Festifeel festival
-
 Metro article about the Festifeel festival for breast cancer

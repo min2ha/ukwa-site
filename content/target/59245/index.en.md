@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Cardiff and Vale of Glamorgan Integrated Health and Social Care Partnership
-
 Cardiff and Vale of Glamorgan Integrated Health and Social Care Partnership purpose is to manage and develop services to secure better joint working between local health boards, local authorities and the third sector.

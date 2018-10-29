@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Yes Scotland shared a link: Salmond to make a voting age call
-
 <p>Yes Scotland post a link to an article on the BBC website about Alec Salmond's first speech to the Scottish Parliament after the Referendum at 10.08am on 23rd September, 2014.</p>

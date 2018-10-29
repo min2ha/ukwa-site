@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Giant Veg
-
 A website about UK giant vegetable growing

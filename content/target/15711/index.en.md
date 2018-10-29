@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Institute for Continuous Improvement in Public Services (ICiPC), The
-
 The Institute for Continuous Improvement in Public Services (ICiPC) are a registered charity whose mission is to ensure continuous improvement (CI) is at the heart of public service delivery through the advancement of education in the subject of the continuous improvement and delivery of public services.

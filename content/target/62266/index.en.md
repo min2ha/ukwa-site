@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# TheNonLeague (@TheNonLeagueMag) on Twitter
-
 The official Twitter account of a national Non League Football Magazine. 

@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# 38 Degrees: People, Power, Change
-
 People
 
 38 Degrees is a  campaigning organisation which is led by our 3 million members.

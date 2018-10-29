@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Standard: Duchess of Cambridge launches children's mental health scheme at north London school
-
 News article about the recent launch of Mentally Healthy Schools, a new website, it is designed to help teachers talk to children about issues ranging from bereavement to anxiety to eating disorders. The website is designed to suit primary schools in England and includes more than 1,500 online resources and was launched by The Duchess of Cambridge.

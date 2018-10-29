@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Pound and FTSE 100 rally as City expects remain vote
-
 Guardian, The

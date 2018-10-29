@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Parker Library blog
-
 The Parker Library is the rare books and manuscripts library of Corpus Christi College, Cambridge. 

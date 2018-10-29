@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The; David Cameron's EU deal has convinced basically nobody
-

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Bay View Farm Caravan and Camping Site
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Save the Coal Exchange
-
 Save The Coal Exchange is a campaign to save the historic Coal Exchange in Cardiff’s Mount Stuart Square. The Exchange is an iconic piece of Welsh industrial heritage and of Victorian architecture and design.

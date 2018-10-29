@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Evening Standard: General Election 2017
-

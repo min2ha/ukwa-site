@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# All Wales Antenatal Routine Enquiry Into Domestic Abuse Care Pathway
-
 The All Wales Antenatal Routine Enquiry into Domestic Abuse Care Pathway & Training Pack was established in January 2004, the aim of the group was to consider improvements in maternity services for women experiencing domestic abuse in pregnancy.

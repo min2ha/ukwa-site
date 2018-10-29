@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Anarchist Action Network
-
 Anarchist Action Network is made up of autonomous groups and individuals: the site lists past and current actions. Site includes archive of The Acorn bulletin.

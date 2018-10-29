@@ -10,6 +10,4 @@
   "start_date": "2018-02-20T09:00:00Z"
 }
 
-# John Meirion Rea - John Rea Music
-
 John Meirion Rea is a composer, whose varied work encompasses film and television scores, concert platform commissions, and music theatre. He has received two BAFTA Awards.

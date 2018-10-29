@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Cornwall Online Parish Clerks
-
 The website provides genealogy information for researchers; access the Parish Index and the database (C-PROP) of Parish Register transcriptions for all of Cornwall.

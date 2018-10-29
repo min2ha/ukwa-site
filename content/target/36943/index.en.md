@@ -10,6 +10,4 @@
   "start_date": "2016-03-10T09:00:00Z"
 }
 
-# Heritage Llangwm Project
-
 Heritage Llangwm Project is a heritage lottery project established to save Llangwm’s medieval church and uncover the village’s Flemish roots.

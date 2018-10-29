@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Simmons & Simmons elexica: Brexit
-
 Elexica is a free online legal resource by the international law firm Simmons & Simmons

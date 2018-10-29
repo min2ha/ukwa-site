@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Keir Starmer (Labour  Politician)
-
 Keir Starmer stood as Labour candidate for Holborn and St Pancras at the 2015 general election and was elected to serve as MP, He then stood for re-election in 2017 and was successful. In October 2016 he was appointed to the Shadow Cabinet, taking up the role as Shadow Secretary of State for Exiting the EU. 

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Kaya Festival - Festival of World Music and Arts
-
 Kaya Festival is a festival celebrating music and arts from around the world and is held in the grounds of Margam Country Park.

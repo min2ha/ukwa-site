@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# ANC Scotland
-
 Catalan National Assembly of Scotland (ANC) organisation suporting Catalonian independence.

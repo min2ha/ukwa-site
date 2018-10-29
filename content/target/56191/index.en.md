@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: David Davis plays down trade talks delay claims
-
 Brexit Secretary David Davis is confident negotiations will continue as planned after reports that Brussels may delay trade talks because of a lack of progress on the "divorce" settlement.

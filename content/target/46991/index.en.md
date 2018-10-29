@@ -10,6 +10,4 @@
   "start_date": "2016-11-12T09:00:00Z"
 }
 
-# East Glamorgan Wildlife
-
 East Glamorgan Wildlife is a blog used for sharing sightings, photographs, events, and any other aspects of natural history interest in the area that covers Bridgend, Rhondda Cynon Taff, Merthyr Tydfil, Vale of Glamorgan, Cardiff and the western part of Caerphilly.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincoln Cathedral: Four surviving original copies of Magna Carta to be brought together for the first time in history
-

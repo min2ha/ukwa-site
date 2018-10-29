@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Y DDRAIG, The Home Of Welsh Sports 
-
 Y Ddraig is a sport blog providing articles on Welsh sport.

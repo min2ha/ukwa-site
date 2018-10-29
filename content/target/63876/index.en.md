@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Royal Liverpool Philharmonic
-
 The Royal Liverpool Philharmonic Society is a society based in Liverpool, England, that manages a professional symphony orchestra, a concert venue, and extensive programmes of learning through music.

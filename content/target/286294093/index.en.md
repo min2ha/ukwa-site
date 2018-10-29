@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bow Group, The
-
 The Bow Group is the United Kingdom's oldest conservative think tank. Founded in 1951, the Bow Group exists to publish the research of its members, stimulate policy debate through an events programme and to provide an intellectual home to conservatives in the United Kingdom. Although firmly housed in the conservative family, the Bow Group does not take a corporate view and it represents all strands of conservative opinion

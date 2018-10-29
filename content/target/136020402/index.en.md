@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South East London Cancer Network
-
 None

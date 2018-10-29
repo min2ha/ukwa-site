@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Nigel Farage: We turn other cheek and shrug off insults
-
 None

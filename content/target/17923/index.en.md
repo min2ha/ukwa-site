@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# UK Fashion & Textile Association (UKFT)
-
 The UK Fashion & Textile Association (UKFT) is a British network for fashion and textile companies. UKFT brings together designers, manufacturers, agents and retailers to promote their businesses and the industry throughout the UK and internationally.

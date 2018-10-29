@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Red Community
-
 Red Community meet at the Rainbow of Hope Centre, Adamsdown, Cardiff and are a 'community of Christians from various churches around Cardiff who are united in our passion to challenge injustice and extend hope to those in chains, both locally and globally'.

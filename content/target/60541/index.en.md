@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Yes, Boris has a rare gift for self-promotion but on Brexit and the NHS I believe he's acting on principle
-
 Argues that when Boris Johnson called for investment of some of the Brexit dividend in the NHS, he was acting out of principle rather than self-promotion.

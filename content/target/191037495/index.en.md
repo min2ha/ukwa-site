@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Bridgends Heritage 
-
 Bridgend's Heritage Network is made up of local historical societies and partner organisations. 

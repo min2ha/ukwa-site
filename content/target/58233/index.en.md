@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Swansea University: Materials and Manufacturing Education Training and Learning (metal)
-
 Materials and Manufacturing Education Training and Learning (metal) is based within the College of Engineering at Swansea University and funded by the EU’s European Social Fund, through the Welsh Government. The aim is to address a skills shortage in materials and manufacturing through the provision of work based learning leading to a general up-skilling of the workforce.

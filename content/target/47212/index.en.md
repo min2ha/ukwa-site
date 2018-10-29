@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Haddington Business Association
-
 Site of an organisation promoting the businesses, tourism and history of the town of Haddington, East Lothian, Scotland.

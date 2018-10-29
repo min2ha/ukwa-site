@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Simon Thoumire (@handsupfortrad) on Twitter
-
 Twitter profile of Hands up for Trad, which promotes Scottish traditional music through education and advocacy.

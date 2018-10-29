@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Bhutan Society of the United Kingdom, The
-
 The Bhutan Society of the United Kingdom is for people who wish to develop knowledge and understanding of the Kingdom of Bhutan - and to encourage cultural and educational links between the peoples of the United Kingdom and Bhutan. 

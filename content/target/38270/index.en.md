@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scientists for EU (@Scientists4EU) on Twitter
-
 Group of scientists campaigning for the UK to stay in the EU.

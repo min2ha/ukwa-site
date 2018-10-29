@@ -10,6 +10,4 @@
   "start_date": "2015-04-27T08:00:00Z"
 }
 
-# St Winefride's Well
-
 St Winefride's is in Holywell, Flintshire anc claims to be the oldest continually visited pilgrimage site in the UK.

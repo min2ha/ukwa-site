@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# London Evening Standard: Magna Carta to go on display at House of Lords next month
-

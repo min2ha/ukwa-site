@@ -10,8 +10,6 @@
   "start_date": "2011-02-04T00:00:00Z"
 }
 
-# Thyroid UK
-
 Providing information and resources
 to promote effective diagnosis and appropriate treatment
 for people with thyroid disorders in the UK

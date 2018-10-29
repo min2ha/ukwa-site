@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Churchill plan to give Magna Carta copy to US revealed
-

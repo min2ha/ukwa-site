@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Pagan Federation (Scotland)
-
 Site of an organisation representing the rights and beliefs of the religion of Paganism in Scotland.

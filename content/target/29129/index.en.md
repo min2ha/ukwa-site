@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Borders Book Festival - where words come alive
-
 Borders Book Festival 

@@ -11,5 +11,3 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Valentines Mansion joins the UK-India Year of Culture Celebrations
-

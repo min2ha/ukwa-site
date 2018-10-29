@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Society for Anglo-Chinese Understanding (SACU)
-
 The Society for Anglo-Chinese Understanding (SACU) was founded to promote friendship and understanding between the peoples of Britain and China. It is a registered UK charity.

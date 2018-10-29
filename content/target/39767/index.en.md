@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sutherland SNP (@SuthSNP) on Twitter
-
 Twitter profile of the Sutherland branch of the Scottish National Party (SNP).

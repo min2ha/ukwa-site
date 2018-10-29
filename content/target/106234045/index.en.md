@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge Enterprise & Technology Club (CETC)
-

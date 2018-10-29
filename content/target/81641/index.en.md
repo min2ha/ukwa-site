@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit deal slipping to December amid deadlocked talks
-
 A Brexit deal looked unlikely until just before Christmas 2018 after Theresa May admitted “weeks” could be needed to break the deadlock in talks with Brussels.The delay was also signalled by Ireland’s prime minister who warned of log-jammed negotiations dragging into December, increasing concern that stalled talks could simply collapse into a “disaster” no-deal situation.
 

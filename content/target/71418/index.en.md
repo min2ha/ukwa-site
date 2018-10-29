@@ -10,5 +10,3 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Ainmean-Àite na h-Alba (AÀA) / Gaelic Place-names of Scotland
-

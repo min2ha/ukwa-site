@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Gordon Brown: Cameron risks UK unity by whipping up anti-Scottish feeling
-
 None

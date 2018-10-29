@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Little Light
-
 Little Light is based in north Wales and 'fuses accessible forms of contemporary movement and digital technologies to create unique and entertaining performances'. Little Light was founded by dancer Lisa Spaull and digital media artist & composer Rob Spaull in 2014.

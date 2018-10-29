@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Lighthouse Club
-
 Delivering Charitable Welfare and Support to the Construction Community since 1956

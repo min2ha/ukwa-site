@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Langbank Chuch of Scotland
-
 Site of a Church of Scotland parish church at Langbank, Renfrewshire.

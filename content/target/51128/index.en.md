@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Perssimon plc
-
 Persimmon plc is a British housebuilding company,  Persimmon Plc is the holding company for the Persimmon Group of companies. The Group trades under the brand names of Persimmon Homes, Charles Church and Westbury Partnerships, building quality homes across England, Wales and Scotland.

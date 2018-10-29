@@ -10,5 +10,3 @@
   "start_date": "2016-08-04T11:00:00Z"
 }
 
-# Cymdeithas Ddysgedig Cymru | Learned Society Wales 
-

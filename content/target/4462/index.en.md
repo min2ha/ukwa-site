@@ -10,6 +10,4 @@
   "start_date": "2013-11-30T19:00:00Z"
 }
 
-# Queens' College Cambridge
-
 None

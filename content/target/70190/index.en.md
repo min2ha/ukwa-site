@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Portadown Football Club on Pitchero
-
 The official website of Portadown Football Club. Portadown Football Club was formed in 1887 as a junior team initially seeking to participate in the Mid-Ulster Cup, later they joined the Irish League with the support of other local clubs in 1924.

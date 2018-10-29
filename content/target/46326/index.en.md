@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Cicero Group: Brexit negotiations - the view from the EU
-
 Prime Minister Theresa May has confirmed that Article 50 will be triggered no later than March 2017. Once this happens, the UK will enter into a complex and difficult negotiation in which the UK’s objectives are pitted against those of 27 Member States and the European institutions. To distil the varying positions of the Member States, the Cicero Group has produced a report identifying a set of key economic, political and social variables in selected Member States that will shape their negotiating positions.

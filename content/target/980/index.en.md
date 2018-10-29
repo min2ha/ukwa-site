@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of Nursing Facebook
-
 None

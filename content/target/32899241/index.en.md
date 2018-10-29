@@ -11,6 +11,4 @@
   "subject": "Offshore Islands Collection (Channel Islands and Isle of Man)"
 }
 
-# Jersey Names from the Past
-
 None

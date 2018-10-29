@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Research Institute in Science of Cyber Security (RISCS)
-
 The Research Institute in Science of Cyber Security is the UK’s first academic Research Institute to focus on understanding the overall security of organisations, including their constituent technology, people and processes.

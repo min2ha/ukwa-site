@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Ireland Smallbore Shooting Union
-
 None

@@ -10,8 +10,6 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# National Police Memorial Day
-
 The National Police Memorial Day aims to:
 
 - Remember police officers who have been killed or died on duty 

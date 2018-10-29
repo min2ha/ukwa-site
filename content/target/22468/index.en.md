@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: April Fool's Day: The best election spoofs
-
 None

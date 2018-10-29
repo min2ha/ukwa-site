@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - How do we all feel about the fact that the culture...
-

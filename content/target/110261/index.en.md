@@ -10,6 +10,4 @@
   "start_date": "2005-06-28T00:00:00Z"
 }
 
-# Family Budget Unit
-
 None

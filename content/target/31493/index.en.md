@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Ysgol Cwmpadarn
-
 Ysgol Cwmpadarn is a Primary school in Aberystwyth which is due to close in 2015.

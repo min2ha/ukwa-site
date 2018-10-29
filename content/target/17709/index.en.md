@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sir Malcolm Rifkind sealed fate shortly after cash-for-access allegations made
-
 None

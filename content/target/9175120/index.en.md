@@ -10,8 +10,6 @@
   "start_date": "2016-03-07T09:00:00Z"
 }
 
-# PricedOut - The campaign for Affordable House Prices
-
 The Priced Out campaign is a non-profit organisation campaigning for government action on British residential property market prices.
 
 Unprecedented price levels have excluded record levels of first time buyers from buying and are preventing many more from being able to trade up, prompting the formation of this campaign.

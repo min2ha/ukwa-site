@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Sky News: Keystone Of Democracy Up For Sale
-

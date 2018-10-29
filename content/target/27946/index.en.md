@@ -10,6 +10,4 @@
   "start_date": "2015-06-13T08:00:00Z"
 }
 
-# Widsor & Eton Brewery
-
 Official website of the brewery established in 2010.

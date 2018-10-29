@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# R&C Trade Union (RCTU)
-

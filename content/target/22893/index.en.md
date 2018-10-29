@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# England Rugby
-
 Official website of England Rugby

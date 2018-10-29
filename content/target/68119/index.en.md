@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bath Saracens Rugby Football Club
-
 Bath Saracens are an amateur rugby club, sponsored by BMTGroup. Originally formed in 1947, as the Admiralty (Bath) Rugby Football Club. 

@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T11:00:00Z"
 }
 
-# David Llywellyn Brown
-
 Poet, tutor and researcher. Born in Montego Bay, Jamaica, David moved to Blaenafon in 1982. He has written and performed conscious dub poetry nationally and his work has been been published in Inspirations from Wales and in New Welsh Review. 

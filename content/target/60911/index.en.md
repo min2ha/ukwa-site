@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fullen Gaels GAA (@FullenGaelsGAA) on Twitter
-
 Fullen Gaels Hurling & Camogie Club

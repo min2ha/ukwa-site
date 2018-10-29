@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# International Christian Fellowship Wrexham
-

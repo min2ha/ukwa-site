@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guildford Cathedral: Talk: David Starkey on Magna Carta
-

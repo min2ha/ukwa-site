@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: David Cameron: Brexit would be 'gamble of the century'
-

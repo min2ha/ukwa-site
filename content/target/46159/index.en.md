@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Broughty Ferry Community Council
-
 Site of a community council located in the Dundee suburb of Broughty Ferry.

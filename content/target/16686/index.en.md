@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mary Wimbury - Labour candidate for Aberconwy
-
 <p>Labour candidate for the Aberconwy constituency.</p>

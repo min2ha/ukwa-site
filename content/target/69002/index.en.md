@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 16th July 2018: Taxation (Cross-border Trade) Bill
-
 This debate on the third reading of the Taxation (Cross Border trade) Bill was at times bad-tempered. It ended with two amendments proposed by the pro-Brexit European Research Group being passed with a slender majority: 1) a new clause to prevent the UK collecting tariffs on behalf of the EU unless the EU agrees to collect them for the UK; and 2) an amendment to prevent the UK from joining the EU's VAT regime. 

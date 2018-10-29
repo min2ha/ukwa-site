@@ -10,5 +10,3 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# Time to Mine!: St Athanasius – Pits, Ponies, People and Stories
-

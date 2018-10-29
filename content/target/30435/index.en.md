@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lawyers' Christian Fellowship
-
 Lawyers' Christian Fellowship is a fellowship of Christian lawyers in the UK.

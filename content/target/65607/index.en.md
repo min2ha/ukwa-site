@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Manchester Irish Abortion Rights Campaign (@MCR_Irish_ARC) on Twitter
-
 Manchester organistion in support of the campaign for Reproductive Rights in Republic of Ireland and Northern Ireland.

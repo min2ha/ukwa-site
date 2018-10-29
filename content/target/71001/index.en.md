@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bathgate Baptist Church
-
 Site of a Scottish Christian church of the Baptist denomination and its congregation located in Bathgate, West Lothian.

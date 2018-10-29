@@ -10,6 +10,4 @@
   "start_date": "2015-04-13T09:00:00Z"
 }
 
-# Llŷn, Ardal o Harddwch Naturiol Eithriadol | Llŷn, Area of Outstanding Natural Beauty
-
 'The primary purpose of the AONB designation is to conserve and enhance the natural beauty of the area, which includes protecting flora, fauna and geological as well as landscape features. The landscape has also been shaped by man, and it is paramount that archaeological, historic remains and architectural features are protected.' This site covers the Llyn peninsula. 

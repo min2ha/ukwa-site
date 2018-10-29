@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Philip’s, Norbury
-
 Official website of St. Philip’s, Norbury.

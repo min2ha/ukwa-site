@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Hogarth for our times is chosen to chronicle the general election
-
 None

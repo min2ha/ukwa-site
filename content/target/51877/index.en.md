@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints, High Wycombe
-
 All Saints church is located in the heart of High Wycombe and draws a large congregation from the surrounding area.

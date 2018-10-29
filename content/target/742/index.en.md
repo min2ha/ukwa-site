@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Cornwall and Isles of Scilly
-
 None

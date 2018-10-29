@@ -10,5 +10,3 @@
   "start_date": "2007-03-28T00:00:00Z"
 }
 
-# National Society for Epilepsy (NSE)
-

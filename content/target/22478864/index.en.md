@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# DC Blog
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# London Motor Show
-
 Website for the London Motor Show

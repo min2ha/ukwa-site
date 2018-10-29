@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Embassy Gallery
-
 Site of an art gallery located in Edinburgh and run by artists on a not for profit basis, presenting an annual programme of exhibitions as well as a development programme for students at Edinburgh College of Art.

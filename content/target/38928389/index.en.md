@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cwmbran and District War Dead
-
 Web site listing the war dead of Cwmbran and district, Gwent UK formerly Monmouthshire from 1914 - 2009. 

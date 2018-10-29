@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Brighton Science Festival
-
 Science festival with events for adults and workshops for children in Brighton

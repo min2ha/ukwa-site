@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Sky News: 'Forgotten' Magna Carta Found In Archives
-

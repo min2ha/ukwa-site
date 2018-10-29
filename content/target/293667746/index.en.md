@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Communists
-
 The Communist Party of Scotland (CPS; Pàrtaidh Co-Mhaoineach na h-Alba) was established in 1991 when the Communist Party of Great Britain was disbanded and re-formed as the Democratic Left think-tank. Scottish Communists disagreed with this decision and instead set up the CPS, with its headquarters in Partick, Glasgow.

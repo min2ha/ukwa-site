@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# i100: Ed Balls and the other biggest casualties of the election
-
 None

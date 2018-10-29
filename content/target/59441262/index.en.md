@@ -10,5 +10,3 @@
   "start_date": "2011-02-07T00:00:00Z"
 }
 
-# Cymru Healthcare :: Healthcare Products South Wales
-

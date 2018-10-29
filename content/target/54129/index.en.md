@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Fife Coastal Path
-
 Site of a coastal walking path running from Kincardine in South Western Fife to Newburgh on the Tay, covering the whole of Fife's coastline.

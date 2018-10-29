@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage marginally behind in three-way contest for South Thanet
-
 None

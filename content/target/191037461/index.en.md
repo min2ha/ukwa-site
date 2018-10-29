@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Teach in Scotland 
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: SNP on course to win EVERY seat in Scotland amid fears English MPs will be held to ransom
-
 None

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Huffingtonpost: Supporting Parental Equality In The Workplace
-
 An article about supporting parental equality in the workplace

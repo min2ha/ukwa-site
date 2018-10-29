@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Cooltura 24
-
 Polish language culture and information site aimed at the Polish Community in the United Kingdom.

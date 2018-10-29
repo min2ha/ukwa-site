@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Public Law for Everyone
-
 Public Law for Everyone is written by Mark Elliott, Professor of Public Law at the University of Cambridge.

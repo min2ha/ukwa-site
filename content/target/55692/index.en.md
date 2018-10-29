@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: CDU Economic Council Annual Conference: Chancellor's words
-
 The Chancellor of the Exchequer discusses his approach to the Brexit negotiations.

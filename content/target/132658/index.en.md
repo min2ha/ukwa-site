@@ -10,5 +10,3 @@
   "start_date": "2010-08-13T00:00:00Z"
 }
 
-# derec jones: writer and artist
-

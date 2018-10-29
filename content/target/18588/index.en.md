@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonathan Edwards (@JonathanPlaid) on Twitter
-
 Plaid Cymru MP for Carmarthen East & Dinefwr

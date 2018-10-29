@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sebastian Kindersley (@Seb4SouthCambs) on Twitter (Liberal Democrat candidate for South Cambridgeshire)
-
 Sebastian Kindersley stood as Liberal Democrat candidate for South Cambridgeshire at the 2015 General Election but was not elected. 

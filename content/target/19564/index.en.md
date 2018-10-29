@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Trowbridge town clerk marks history with 800 mile ride
-

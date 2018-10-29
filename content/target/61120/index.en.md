@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FOUR MASTERS GAA
-
 Four Masters GAA Coventry is an ambitious club providing Senior, Junior and Under 16 Gaelic football in Coventry. 

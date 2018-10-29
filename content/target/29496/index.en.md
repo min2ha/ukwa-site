@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Cyswllt Ffermio | Farming Connect
-
 A body providing support to the Agricultural industry in Wales. Farming Connect is run by Menter a Busnes.

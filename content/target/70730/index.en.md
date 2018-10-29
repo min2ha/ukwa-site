@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Movement of Christian Workers
-
 To promote the interests of all those who rely upon their work or for their income, whether formally or informally; the utimate goal of this collective action of continuing education is to improve the living conditions of all workers and their families.

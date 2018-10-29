@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Ireland Assembly (@niassembly) on Twitter
-
 The official Twitter account for the Northern Ireland Assembly.

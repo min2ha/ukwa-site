@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Nick Clegg: Budget within 50 days 'deal breaker'
-
 None

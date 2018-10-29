@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Tug of War Wales
-
 The WToWA organises men’s, women’s and youth competitions.

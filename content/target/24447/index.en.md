@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour’s manifesto: Is he ready? Are they responsible?
-
 None

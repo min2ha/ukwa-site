@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Edward Thomas Centenary Conference 100
-
 Edward Thomas is often considered a war poet. A conference will be held at Cardiff University in 2017 to commemorate 100 since his death at the Battle of Arras in 1917.

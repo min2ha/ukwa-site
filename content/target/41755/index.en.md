@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Grassmarket Community Project
-
 Site of a hyper-local community initiative in the Grassmarket area of Edinburgh providing support to participants through mentoring, social enterprise, training and education.

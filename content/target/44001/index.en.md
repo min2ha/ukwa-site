@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Wivenhoe's History
-
 This website is a history of the village-cum-town of Wivenhoe. Here you can browse through photos, memories, stories and historical information related to Wivenhoe. They also have a large collection of WWI material.

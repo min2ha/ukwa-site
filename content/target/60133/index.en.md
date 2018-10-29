@@ -11,7 +11,5 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# GardenBanter.co.uk
-
 An online enthusiast community concerned with discussing gardening. Covers edible gardening, flower based gardening, water-based gardening, 
 permaculture and plant science discussions as well as various other related topics.

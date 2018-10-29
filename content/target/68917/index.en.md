@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Confronting phobias in virtual reality can treat fear of heights, study finds
-
 A news article on a study on virtual reality as a treatment for mental health problems

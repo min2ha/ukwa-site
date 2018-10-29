@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Theresa May under fire for silencing Eurosceptics amid anger at 'Project Fear 2.0'
-
 Theresa May was accused of silencing Eurosceptics while allowing her pro-European Business Secretary to resurrect "Project Fear" over plans for a post-Brexit customs partnership with the EU.
 

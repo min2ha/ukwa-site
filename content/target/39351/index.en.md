@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# David Taylor (@david_taylor) on Twitter (Labour candidate for North Wales Police and Crime Commissioner) 
-
 David Taylor is the Labour candidate at the 2016 Police and Crime Commissioner Elections for North Wales.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# National Association of British Market Authorities (NABMA), The
-
 <p>The National Association of British Market Authorities (NABMA) is a markets organisation based in the UK. It promotes markets on the national stage and also provides a portfolio of services for its members.</p>

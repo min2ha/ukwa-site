@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Govan & Craigton Integration Network
-
 Site of a charity based in South West Glasgow and working with and for all the diverse communities of the Greater Govan area, including asylum seekers.

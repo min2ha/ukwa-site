@@ -10,5 +10,3 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# People Make Glasgow: Gigs & Music in Glasgow
-

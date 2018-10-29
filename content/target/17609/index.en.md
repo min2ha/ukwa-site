@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Billionaire named in tax scandal files coughs up £50k to have dinner with David Cameron
-
 None

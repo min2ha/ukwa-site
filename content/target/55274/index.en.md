@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Pride Comic, The
-
 The Pride is a series of comics created by Joe Glass and published in Wales for the LGBTQ community.

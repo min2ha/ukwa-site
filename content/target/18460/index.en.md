@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Justine Thornton, Ed Miliband's wife, fears 'really vicious' attacks on his character
-
 None

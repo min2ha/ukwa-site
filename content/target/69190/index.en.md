@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Wembley Stadium and the future of English football inquiry - publications
-
 Oral evidence session on 18 July. Written evidence published. Deadline for further written submissions has been extended to 24 July 2018.

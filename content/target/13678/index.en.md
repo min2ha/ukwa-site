@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# David Hamilton MP for Midlothian
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# European Medical Writers Association (EMWA)
-
 The European Medical Writers Association (EMWA) is the network of professionals that represents, supports and trains medical communicators in Europe. It is a not for profit organisation that is run for its members by its members. It was founded in 1989 by a group of professional biomedical communicators with academic, industrial and journalistic affiliations.

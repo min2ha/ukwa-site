@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Keith Brown: SNP candidate for Ochil
-
 None

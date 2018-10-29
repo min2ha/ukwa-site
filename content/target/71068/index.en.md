@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Eventbrite: Gender Identity Conference
-
 A conference about how children and young peoples’ gender identities are changing and what this means for professionals, volunteers, parents/carers, friends and families. 

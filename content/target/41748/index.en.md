@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cromer High Street
-
 Cromer High Street promotes local businesses and has local news updates.

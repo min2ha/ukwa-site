@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Association for Mental Health (SAMH): Self-Help and Wellbeing
-
 Webiste that features online tests for well being. The wellbeing assessment uses the Warwick-Edinburgh Mental Well-being Scale (WEMWBS) to measure wellbeing. The WEMWBS questionnaire for measuring mental well-being was developed by researchers at Warwick and Edinburgh Universities

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Equality Network: LGBTI Equality and the Scottish Independence Referendum
-
 None

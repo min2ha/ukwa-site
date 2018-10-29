@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Irish government will not design 'Brexiteer border', says Varadkar
-
 The Irish prime Minister, Leo Varadkar, said his government did not want to see any kind of economic border on the island of Ireland when the UK leaves the European Union. Earlier, Irish Foreign Minister Simon Coveney denied a newspaper report that suggested the Irish government preferred a sea border.

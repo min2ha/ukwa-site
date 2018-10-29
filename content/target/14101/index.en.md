@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Public Law Group: Ae Fond Farewell: Reflections on Scots Public Law from Parliament House to Parliament Square
-
 None

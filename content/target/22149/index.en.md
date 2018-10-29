@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Alexander Johnson (@runongirlrun) on Twitter (Green Party candidate for Newcastle upon Tyne Central)
-

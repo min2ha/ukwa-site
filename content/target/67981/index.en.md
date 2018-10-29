@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# Forth Bridge Brewery on Twitter
-
 Twitter page for a brewer located in Edinburgh

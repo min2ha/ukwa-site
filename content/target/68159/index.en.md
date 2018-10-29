@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Hanging Bat Brew Co on Twitter
-
 Twitter page of a small brewer based in a public house in Edinburgh.

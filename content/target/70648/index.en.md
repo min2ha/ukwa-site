@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# The Big Feastival
-
 Cotswolds festival with a star studded music and food line up

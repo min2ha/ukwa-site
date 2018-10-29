@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Centre for Advancement of Women in Politics
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nicola Sturgeon: UK Government 'illegitimate' without Scottish support
-
 None

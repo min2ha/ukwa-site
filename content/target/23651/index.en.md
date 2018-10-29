@@ -10,6 +10,4 @@
   "start_date": "2015-05-11T09:00:00Z"
 }
 
-# Devil's Bridge Falls | Rhaeadrau Pontarfynach
-
 Devils Bridge Falls is a tourist attraction 12 miles from Aberystwyth.

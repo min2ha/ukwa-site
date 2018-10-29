@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Britain Stronger in Europe (@StrongerIn) on Twitter
-
 Campaigning for UK to stay in the EU

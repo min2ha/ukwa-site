@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Lodge Shalom 1600
-
 Site of a masonic lodge located in Glasgow and affiliated with the Grand Lodge of Scotland.

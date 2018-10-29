@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Pambazuka News
-
 <p>Pambazuka News <a href="http://www.pambazuka.org/en/">http://www.pambazuka.org/en/</a>  is a weekly Pan-African electronic newsletter and platform for social justice in Africa published by Fahamu since 2000.</p>

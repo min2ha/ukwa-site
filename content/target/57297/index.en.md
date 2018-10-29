@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Jan Gardner
-
 Jan Gardner is an artist from north Wales and member of the Royal Cambrian Academy (RCA). Her work held in private, corporate and public collections worldwide and she has recently been awarded a Arts Council of Wales research grant.

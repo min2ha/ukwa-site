@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bridge of Allan & Logie Scottish National Party (SNP)
-
 The Bridge of Allan & Logie branch of the Scottish National Party (SNP).

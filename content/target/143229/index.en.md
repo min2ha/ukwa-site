@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Birmingham City Council
-
 Birmingham City Council official website.

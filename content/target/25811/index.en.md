@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour likens Ukip to BNP as South Thanet election fight gets bitter
-
 None

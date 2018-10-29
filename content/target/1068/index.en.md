@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford Cancer Intelligence Unit
-
 None

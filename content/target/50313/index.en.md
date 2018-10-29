@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Islington Refugee Forum
-
 Islington Refugee Forum (IRF) is a refugee-led, independent organisation.

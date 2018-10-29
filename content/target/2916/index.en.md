@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Culture24
-
 <p>Website published by Culture24, a Brighton-based, non-profit, digital cultural publishing organisation. Featuring news, exhibition reviews, links, event listings and education resources from     UK museums, art galleries, heritage sites, archives and libraries.</p>

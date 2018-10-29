@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ashley Williams (ashleyjohnw) on Twitter
-
 The twitter profile of althete Ashley Williams, boxer and member of Team Wales for the Glasgow 2014 Commonwealth Games.

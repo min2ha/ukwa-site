@@ -10,6 +10,4 @@
   "start_date": "2017-12-20T09:00:00Z"
 }
 
-# Sackmaker J&HM Dickson Ltd.
-
 Independent manufacturer and supplier of woven polypropylene sacks, sandbags and flexible intermediate bulk container (FIBC) tonne bags.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wickham Beer Festival
-
 Website for the Wickham Beer Festival

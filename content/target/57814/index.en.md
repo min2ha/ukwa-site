@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis' closing remarks at the end of the fifth round of EU exit negotiations in Brussels 
-
 The statement followed the fifth round of negotiations for a new partnership with the EU, and covered Northern Ireland, the financial settlement and EU citizen's rights.

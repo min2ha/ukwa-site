@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Conservative Home: The Canada Plus Plus Plus answer to the Northern Ireland question
-
 Describes David Davis' proposals for managing a low friction border between the Irish Republic and Northern Ireland after Brexit.

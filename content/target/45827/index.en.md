@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Disabilities Trust, The 
-
 The Disabilities Trust is a national charity, providing care, rehabilitation and support solutions for people with profound physical impairments, acquired brain injury and learning disabilities as well as children and adults with autism.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Four original 1215 Magna Carta united for the first time
-

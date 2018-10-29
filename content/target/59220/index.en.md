@@ -10,5 +10,3 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# North Wales Photographic Association, The | Cymdeithas Ffotograffig Gogledd Cymru
-

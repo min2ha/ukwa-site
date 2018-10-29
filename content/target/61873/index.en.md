@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Priory Parish Church of Scotland
-
 Site of a Church of Scotland parish church at Whithorn, Dumfries and Galloway, linked to churches at Glasserton and Isle of Whithorn.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# GENERATION : 25 years of Contemporary Art in Scotland
-
 <p>Landmark series of exhibitions tracing the remarkable development of contemporary art in Scotland over the last 25 years. An ambitious and extensive programme of works of art by over 100 artists in over 60 galleries, exhibition spaces and venues the length and breadth of the nation between March – November 2014. Part of the Glasgow 2014 Cultural Programme.</p>

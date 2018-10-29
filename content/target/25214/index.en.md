@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: 'There are 100,000 more black people in work than in 2010'
-
 None

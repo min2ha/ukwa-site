@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Historical Research Group of Sittingbourne
-
 Our aim is to investigate, record and promote the history of Sittingbourne and the local area by research, study, education and publication.

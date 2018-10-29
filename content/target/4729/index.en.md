@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# UK Parliament: House of Lords Hansard text for 9 December 2013, Tributes to Nelson Mandela
-
 <p>The House of Commons and House of Lords paid tribute to Nelson Mandela on Monday 9 December 2013. This page contains the full text of tributes paid in the House of Lords, and other business conducted that day.</p>

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# together4yeswellington (@together4yeswellington) on Instagram
-
 The Wellington Together4Yes group was formed by four Irish women showing support & solidarity for the Repeal the Eighth Amendment campaign happening in the Republic of Ireland. The referendum on whether or not to retain the 8th Amendment to the constitution took place on the 25/05/2018. 

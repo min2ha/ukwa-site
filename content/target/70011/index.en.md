@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Alliance for Workers' Liberty
-
 The Alliance for Workers’ Liberty aims to build a movement which can replace capitalism, the current economic and social system based on class division and exploitation, with a new society based on consistent democracy, collective ownership and solidarity – socialism.

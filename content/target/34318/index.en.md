@@ -10,6 +10,4 @@
   "start_date": "2016-01-22T09:00:00Z"
 }
 
-# Hornsey Town Hall Arts Centre
-
 Hornsey Town Hall Arts Centre in North London.

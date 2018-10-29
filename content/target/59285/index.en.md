@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Mighty Atom
-
 Mighty Atom is a independent record label established in 2000 and based in Wales.

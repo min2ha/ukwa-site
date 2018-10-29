@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Farmfoods Limited
-
 Farmfoods Limited is a frozen food supermarket chain based in Cumbernauld, Scotland. 

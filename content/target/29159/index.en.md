@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Co-operative Energy, The
-
 Energy arm of The Midcounties Co-operative.

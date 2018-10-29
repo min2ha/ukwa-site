@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC news: Election 2015: Progress made on debate formats says PM
-
 None

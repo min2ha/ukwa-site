@@ -10,6 +10,4 @@
   "start_date": "2016-12-24T09:00:00Z"
 }
 
-# Patrick Ian Hartley
-
 British Designer Patrick Ian Hartley produces unique, bespoke Face Corsets and neckwear for private clients in both the UK and internationally. 

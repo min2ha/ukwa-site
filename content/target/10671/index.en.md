@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Martina Anderson (Sinn Fein MEP for Northern Ireland)
-
 In May 2012 it was announced that Martina Anderson would be replacing Bairbre de Brún, as MEP for Northern Ireland. Anderson retained her MEP seat in the 2014 election, topping the poll with 159,813 first-preference votes

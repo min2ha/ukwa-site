@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# British Growers Association
-
 <p>British Growers Association represents and promotes UK growers of horticultural crops, in particular vegetables and salads.</p>

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Ministers win key Brexit bill vote after concession
-
 When the EU Withdrawal Bill returned to the Commons, Ministers saw off a move to give MPs the decisive say on what happens over Brexit if they do not agree with the deal negotiated by the UK government. Following a meeting with Theresa May, Tory MPs said they had been promised "input" into what the government would do if the UK faced a no-deal scenario.
 
 

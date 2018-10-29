@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bradford City Association Football Club
-
 Bradford City Association Football Club is a professional football club in Bradford, West Yorkshire, England, which plays in League One, the third tier of English football.

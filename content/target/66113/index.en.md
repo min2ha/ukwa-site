@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Ynysfor Welsh Blacks
-
 Ynysfor is a small select herd, based in Nant-y-Cynnog, Llanegryn, in the south of the Snowdonia National Park.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# NewLink Wales
-
 NewLink Wales was first established to address skills deficits across the substance misuse sector in Wales and to boost the capacity of treatment services by providing and training volunteers.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Liberal Democrats Maidenhead
-
 Liberal Democrat Maidenhead constituency party website, giving local news and campaign information, including canvassing for Tony Hill, their candidate at the 2017 general election.

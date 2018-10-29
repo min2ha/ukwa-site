@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Brompton & Harefield NHS Foundation Trust
-
 None

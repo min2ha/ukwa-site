@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Comment Isnt Free
-
 <p>A political blog, with a focus on Scottish politics.</p>

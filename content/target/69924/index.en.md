@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Alpha Prototype - Improving our Digital Channels, The
-
 A prototype design for the Scottish Parliament's beta website.

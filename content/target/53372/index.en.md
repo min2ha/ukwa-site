@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# DyBleidlais yn Cyfri (@DyBleidlaisDi) on Twitter
-
 Yr holl wybodaeth am gofrestru a phleidleisio yn y Deyrnas Unedig. Dy bleidlais di yw dy lais di! Gan @ElectoralCommUK a @ElectoralWales Yn Saesneg @YourVote_UK

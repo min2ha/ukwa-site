@@ -10,6 +10,4 @@
   "start_date": "2018-07-20T09:00:00Z"
 }
 
-# Coastal Forces Heritage Trust
-
 Our mission is "preserving the history of the Royal Navy's Coastal Forces".  Coastal Forces was typified by young men, all volunteers, who took the war to the enemy in Britain's darkest hour.

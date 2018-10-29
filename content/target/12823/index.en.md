@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish PEN : Tales of the Empire Café
-
 <p>Authors Fred D'Aguiar and James Robertson discuss slavery stories and their place in literature with Alan Riach at the Empire Café, The Briggait, Glasgow, 24 July 2014. Part of Culture 2014.</p>

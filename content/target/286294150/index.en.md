@@ -10,6 +10,4 @@
   "start_date": "2015-01-23T00:00:00Z"
 }
 
-# Booty Web Site, The
-
 <p>The website relating to meteorology, West Moors, local transport, etc.</p>

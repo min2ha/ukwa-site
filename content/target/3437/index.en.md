@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Market Rasen Mail
-
 None

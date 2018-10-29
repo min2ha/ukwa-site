@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff Rugby Life
-
 Cardiff Rugby Life provides reports, articles, match previews and the latest news from the Arms Park.

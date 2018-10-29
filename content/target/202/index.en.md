@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christie, The, NHS Foundation Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hampstead and Highgate Literary Festival
-
 Festival organised by the London Jewish Cultural Centre in association with the Hampstead and Highgate

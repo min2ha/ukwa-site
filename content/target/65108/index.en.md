@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# change.org: Stop all charter flight deportations to Jamaica and other Commonwealth countries
-
 This is a petition to the Prime Minister, Theresa May, to stop deportations to Jamaica.

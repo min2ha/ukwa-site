@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# London School of Economics: Why is Jeremy Corbyn stealing the show? Because he’s the only Labour candidate saying anything at all
-
 Analyses in to Jeremy Corbyn's success in the Labour Leadership Elections.  

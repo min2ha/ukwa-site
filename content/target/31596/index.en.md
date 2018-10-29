@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Tim's Amstrad NC Users' Site
-
 Website for users of the retro computer Amstrad.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: HMRC too incompetent to be trusted with tax grab powers
-

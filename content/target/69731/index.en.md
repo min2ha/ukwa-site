@@ -10,5 +10,3 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# Scotland United Against Trump: National Demonstration on Facebook
-

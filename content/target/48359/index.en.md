@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Falkland Islands Holidays 
-
 Falkland Islands Holidays  is a tour operator based on the Islands offering bespoke tours since 1989. 

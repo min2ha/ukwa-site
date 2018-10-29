@@ -10,6 +10,4 @@
   "start_date": "2016-10-22T11:00:00Z"
 }
 
-# Remembering Aberfan: URC Synod Wales
-
 'At the meeting of the Wales Synod, held on Saturday 15th October 2016, three people who have personal memories of Aberfan offered their thoughts and reflections.  The were Mrs Jeanne Jones, the widow of the late Dr Arthur Jones who was a GP in Aberfan at the time of the disaster and Revds Nanette Lewis Head and Ivor Rees – both ministers in the local area at the time'.

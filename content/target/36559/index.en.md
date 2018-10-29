@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: What will happen if Britain decides to leave the European Union
-

@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Endometriosis UK
-
 Endometriosis devastates the lives of women and their families. Endometriosis UK helps them take back control by providing vital support services, reliable information and a community for those affected by endometriosis.

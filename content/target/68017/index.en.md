@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# South East Cornwall Walking Festival
-
 Long running Cornish walking festival

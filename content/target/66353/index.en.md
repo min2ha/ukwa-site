@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Platinum Informatics
-
 Platinum Informatics build software for data management and visualisation.

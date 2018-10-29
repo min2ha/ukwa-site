@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jim Murphy (@JimForScotland) on Twitter
-
 The Twitter profile of Jim Murphy, Leader of the Scottish Labour Party and  candidate for East Renfrewshire in the UK General Election on the 7th May 2015.

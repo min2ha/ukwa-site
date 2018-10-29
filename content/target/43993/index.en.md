@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Atebion Clwb | Club Solutions 
-
 Site run by Sport Wales full of guidance, policies and planning tools to assist those in running sports clubs in Wales.

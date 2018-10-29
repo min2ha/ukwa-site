@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Hornsey and Wood Green: Lib Dems out, Labour in
-
 None

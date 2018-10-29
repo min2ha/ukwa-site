@@ -10,5 +10,3 @@
   "start_date": "2014-12-09T00:00:00Z"
 }
 
-# British Library Learning
-

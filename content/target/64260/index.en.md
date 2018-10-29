@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Martin's Memorial Church
-

@@ -10,5 +10,3 @@
   "start_date": "2005-06-23T01:00:00Z"
 }
 
-# Diabetes Trials Unit (DTU), The
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Banbury Rugby Club
-
 Senior, Junior and Mini rugby played at this club.

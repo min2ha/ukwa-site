@@ -10,6 +10,4 @@
   "start_date": "2017-12-15T09:00:00Z"
 }
 
-# NHS for Yes
-
 Site of a collective of healthcare professionals with the aim of protecting and advancing the health service by and in an independent Scotland, with no affiliation to the National Health Service other by employment.

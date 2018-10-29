@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Llanelli Online News
-
 Llanelli Online News is a online hyperlocal platform for all things Llanelli covering News, Sport, Events, Community and Business.

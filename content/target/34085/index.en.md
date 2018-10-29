@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The:  EU membership terms 'disastrous' for UK, says cabinet minister Chris Grayling 
-

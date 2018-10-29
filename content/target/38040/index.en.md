@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bath Students 4 EU (@BathStudents4EU) on Twitter
-
 The campaign for Bath students to stay in the EU.

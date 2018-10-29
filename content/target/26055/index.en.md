@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Women worry most about NHS and cost of living, poll finds
-
 None

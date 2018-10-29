@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SNP Milngavie (@snpmilngavie) on Twitter
-
 Twitter profile of the Milngavie branch of the Scottish National Party (SNP).

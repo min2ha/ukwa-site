@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: Coffee House: Could ethnic minority voters swing it for the out campaign in the EU referendum?
-
 UKIP’s Steven Woolfe is urging the Leave campaign to reach out to black and minority communities. Speaking on the Today programme, he said such groups would be crucial to the campaign’s success.

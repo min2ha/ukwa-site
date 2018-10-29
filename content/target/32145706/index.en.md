@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# CLAPA - Cleft Lip & Palate Association
-
 CLAPA is the only UK-wide voluntary organisation specifically helping those with, and affected by, cleft lip and palate.

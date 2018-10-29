@@ -11,5 +11,3 @@
   "subject": "Italy UK"
 }
 
-# Italian Cultural Centre Wales
-

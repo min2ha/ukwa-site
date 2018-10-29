@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Friends of Norman Cross
-
 The Friends exists to promote interest in all things connected to the history of Norman Cross and its setting, in particular the Napoleonic Prisoner of War depot that existed on this site from 1797 to 1814.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: What is the EU, why was it created and when was it formed?
-

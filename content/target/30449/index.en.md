@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Proving House
-
 Proving House is a publishing company based in East London, using the latest technology to create and distribute digital edtion books.

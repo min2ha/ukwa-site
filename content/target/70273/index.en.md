@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Plane Spotters Community
-
 A website for plane spotters 

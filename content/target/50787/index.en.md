@@ -10,5 +10,3 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# St David’s College independent Secondary Education, Llandudno Conwy
-

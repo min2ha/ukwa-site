@@ -11,7 +11,5 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Maslaha
-
 <p>Maslaha tackles the social issues affecting Muslim communities, and creates a greater understanding of Islam from a cultural and historical perspective.</p>
 Maslaha creates new ways of tackling long-standing issues affecting Muslim communities. We combine imagination and craftsmanship to improve services, change attitudes and challenge systems of inequality.

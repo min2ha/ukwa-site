@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: Parties begin final scramble for power
-
 None

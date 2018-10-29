@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# No to NATO Scotland Coalition 
-
 No to NATO Scotland wants Scotland to be free of nuclear weapons and stay out of foreign wars.

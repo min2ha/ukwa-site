@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Theological Seminary
-
 None

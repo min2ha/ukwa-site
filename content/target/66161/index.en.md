@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# St. Columba Govan 729
-
 Site of a masonic lodge located in Govan, Glasgow and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wild Spring Festival
-
 Site of a springtime festival of natural history in the area of Dumfries & Galloway, Scotland.

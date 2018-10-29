@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Stackpole Walled Gardens
-
 Stackpole Walled Gardens is a National Trust estate at Stackpole in Pembrokeshire.

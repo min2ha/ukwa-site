@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Barmouth Resort Improvement Group (BRIG)
-
 Barmouth Resort Improvement Group (BRIG) was established in 2007 in order to improve the coastal resort of Barmouth.

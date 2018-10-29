@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Cross Hands Hall and Cinema
-
 Cross Hands Hall and Cinema dates back to 1932 and was built by the Miner’s Welfare Institute. It is now a community hall and ciema for the local community. 

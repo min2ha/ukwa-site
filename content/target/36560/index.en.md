@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson 'ignored results of David Cameron's EU renegotiation', Brussels officials say
-

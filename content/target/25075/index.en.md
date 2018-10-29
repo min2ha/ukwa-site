@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Who won the BBC Question Time Election Leaders Special? 
-
 None

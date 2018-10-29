@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daniel Keatings - Professional Gymnast for Great Britain and 2010 European Champion
-
 <p>The website of gymnast Daniel Keatings, 2013 European Champion and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

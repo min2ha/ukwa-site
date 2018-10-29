@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food and Rural Affairs: New environmental protections to deliver a Green Brexit
-
 Environment Secretary Michael Gove announces plans to consult on a new, independent body for environmental standards
 

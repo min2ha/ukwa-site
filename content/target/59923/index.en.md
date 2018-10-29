@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Annica Neumüller
-
 Annica Neumüller is a Abstract Expressionist Artist based in Monmouthshire.

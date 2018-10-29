@@ -11,7 +11,5 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Dáil Debates: Financial Resolutions 2017 - Budget Statement 2017
-
 Dáil debates on Tuesday, 11 October 2016. Financial Resolutions 2017 - Budget Statement 2017. The government claimed this budget was more conservative in order to make the country 'Brexit Proof'.
  

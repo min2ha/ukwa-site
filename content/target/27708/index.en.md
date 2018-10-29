@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Afternoon tea parties celebrate Magna Carta 800th year
-

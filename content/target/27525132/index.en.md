@@ -10,5 +10,3 @@
   "start_date": "2009-02-25T00:00:00Z"
 }
 
-# JISC RSCs Virtual Worlds Support
-

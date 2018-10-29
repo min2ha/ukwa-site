@@ -10,5 +10,3 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# Bodelwyddan Castle and Park
-

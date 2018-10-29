@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Canaries (@proudcanaries) on Twitter
-
 Norwich City FC LGBT Fans & member of Pride in Football.

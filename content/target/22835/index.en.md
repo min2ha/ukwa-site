@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# Wales Peace Academy | Academi Heddwch Cymru
-
 The 2012 Initiative for an Academi Heddwch plus historical summary of campaigning for a Peace institute in Wales.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LocalGov: What does Brexit mean for local government?
-
 Presents arguments for and against Britain remaining in the EU, covering trade, the economy, immigration and employment, and democracy.

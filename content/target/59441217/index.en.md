@@ -10,5 +10,3 @@
   "start_date": "2011-01-28T00:00:00Z"
 }
 
-# sgiliaucymru | skillscymru
-

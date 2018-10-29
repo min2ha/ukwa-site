@@ -10,6 +10,4 @@
   "start_date": "2015-08-05T10:00:00Z"
 }
 
-# Penzance Literary Festival
-
 Penzance Literary Festival

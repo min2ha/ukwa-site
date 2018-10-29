@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# G4S & London 2012
-

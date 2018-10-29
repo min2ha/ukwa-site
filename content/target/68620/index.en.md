@@ -10,6 +10,4 @@
   "start_date": "2018-07-06T09:00:00Z"
 }
 
-# Rafael Klein
-
 Website of  Artist Rafael Klein, also known as Randy Klein.

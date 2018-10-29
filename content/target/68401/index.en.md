@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West London Sharks (@WLSharks) on Twitter
-
 Rugby League in the Heart of London 

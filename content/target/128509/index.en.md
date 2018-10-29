@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# North Wessex Downs Area of Outstanding Natural Beauty (North Wessex Downs AONB)
-
 None

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# An fheadainn tha laighe samhach: They lie still and silent
-
 A physical exhibition, using artefacts gathered from the community, as well as a digital roll of honour for those 139 service personnel from North Uist, Grimsay and Berneray, who were killed in WW1.

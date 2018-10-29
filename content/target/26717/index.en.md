@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# i100 : Nigel Farage replaced by Nigel Farage
-
 None

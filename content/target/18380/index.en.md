@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alun Pugh (@Alun_Pugh) on Twitter
-
 Welsh Labour's candidate in Arfon.

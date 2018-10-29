@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Colin Keir MSP
-
 Colin Keir was Scottish National Party Member of the Scottish Parliament for Edinburgh Western 2011-2016.

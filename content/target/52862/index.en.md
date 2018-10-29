@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Weiss Technik UK Ltd
-
 Weiss Technik UK is part of the Weiss Group, the world's largest manufacturer of environmental testing equipment and one of four divisions of the Schunk Group.

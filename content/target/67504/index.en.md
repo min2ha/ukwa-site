@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# MCN Festival of Motorbiking
-
 Website for the MCN Festival of Motorbiking

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: 'The tide has turned' Nigel Farage says poll shows British public want OUT of the EU
-
 Comment by Nigel Farage

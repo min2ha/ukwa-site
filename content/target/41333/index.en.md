@@ -10,5 +10,3 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Cyngor Cymuned Dyffryn Arth | Dyffryn Arth Community Council
-

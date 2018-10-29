@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Magna Carta copy paraded at Lord Mayor's Show in London
-

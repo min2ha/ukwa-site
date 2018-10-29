@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: Statement from the new Prime Minister Theresa May
-
 Theresa May's first statement as Prime Minister, in which she promises to govern in the interests of the many, not of the privileged few.

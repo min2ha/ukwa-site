@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Alison Taylor (@VoteAlison2017) on Twitter
-
 Twitter profile of Alison Taylor, Scottish Labour candidate for Paisley and Renfrewshire North in the 2017 general election.

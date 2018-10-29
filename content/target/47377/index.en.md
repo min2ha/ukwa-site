@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Aberlour Distillery
-
 Site of a whisky distillery and visitor attraction based in Aberlour, Moray, Scotland

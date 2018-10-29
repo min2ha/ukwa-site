@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Business Reporter: Brexit would mean 'missed opportunity' for UK in 'growing digital single market'
-

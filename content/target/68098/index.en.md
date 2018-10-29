@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newtown Rugby Club (@NewtownRugby) on Twitter
-
 The official Twitter account of Newtown Rugby Club. Formed originally in 1925 Newtown Rugby Club is one of the leading clubs in Mid Wales. 

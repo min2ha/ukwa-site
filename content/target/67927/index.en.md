@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Hendon RFC (@HendonRFC) on Twitter
-
 The official Twitter account of Hendon Rugby Football Club.
 Hendon Rugby Club was founded in 1932 and has since 1944 played rugby on Copthall Playing Fields.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kinnoull Juniors Football Club
-
 Site for a Scottish junior football club based in Perth.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# NHS Wakefield CCG
-

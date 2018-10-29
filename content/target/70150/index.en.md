@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# CRFC Ladies Academy (@CRFC_ladies) on Twitter
-

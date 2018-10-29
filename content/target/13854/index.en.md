@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Lazarowicz MP
-
 <p>The website of Mark Lazarowicz, Labour Member of Parliament for Edinburgh North and Leith.</p>

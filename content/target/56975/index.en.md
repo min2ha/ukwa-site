@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Scottish Gin Fest
-
 Site of a festival showcasing Scottish gin, and taking place in Glasgow.

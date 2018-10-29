@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Great Yarmouth and Waveney PCT: twitter
-
 None

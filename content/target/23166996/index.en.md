@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Hay Lake Farm - Cornish bed & breakfast
-
 None

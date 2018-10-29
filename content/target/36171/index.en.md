@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mariellenacorvi | Scottish Green Pary for Central Scotland
-
 Mari-Ellena Corvi is the Scottish Greens candidate for the Central Scotland list in the 2016 Scottish Parliament election.

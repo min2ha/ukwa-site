@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# James' Empty Blog
-
 Blog site with articles on climate science.

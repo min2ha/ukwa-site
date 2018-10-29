@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ex-USA Gymnastics doctor accused of sexually assaulting a former Olympian
-
 A lawsuit alleges that Dr Larry Nassar ‘sexually groomed and proceeded to repeatedly sexually abuse, harass and molest’ her when gymnast was a minor

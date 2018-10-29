@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Leighton Andrews
-
 Leighton Andrews is Professor of Practice in Public Service Leadership and Innovation at Cardiff Business School and Former Assembly Member for the Rhondda and a Welsh Government minister. This is his blog.

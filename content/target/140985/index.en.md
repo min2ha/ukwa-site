@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Stewart Maxwell MSP
-
 Stewart Maxwell is Scottish National Party member of the Scottish Parliament for West of Scotland. 

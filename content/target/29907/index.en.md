@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Richard Herring (@Herring1967) on Twitter
-
 Twitter account for Richard Herring.

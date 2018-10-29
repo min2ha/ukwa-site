@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Political Studies Association Environment (@PSAEnvironment) on Twitter
-
 Twitter feed of the Political Studies Association's environment group

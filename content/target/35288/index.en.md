@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Liam Kerr (@kerr_liam) on Twitter
-
 The Twitter profile of Liam Kerr, Scottish Conservative and Unionist candidate for Aberdeen Donside in the 2016 Scottish Parliament election.

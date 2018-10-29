@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Underbelly Edinburgh on Facebook
-
 Underbelly runs Udderbelly's Pasture in George Square and Underbelly at Cowgate during the Edinburgh Fringe Festival. This is the company's official Facebook account.

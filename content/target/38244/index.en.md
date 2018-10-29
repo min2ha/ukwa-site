@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# In for Britain (@InForBritain) on Twitter
-
 Campaigning for the UK to stay in the EU from a patriotic perspective

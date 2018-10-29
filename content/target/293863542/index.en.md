@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Eat well, be well : helping you make healthier choices / Food Standards Agency, Buidheann Inbhe-Bidhe
-
 Eatwell is the Food Standards Agency's consumer advice and information site. 

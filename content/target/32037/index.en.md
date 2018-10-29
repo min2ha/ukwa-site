@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Mark Scott Leadership for Life Award
-
 Charity providing community based and residential learning

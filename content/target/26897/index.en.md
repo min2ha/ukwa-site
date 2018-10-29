@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T08:00:00Z"
 }
 
-# British Association for Slavonic and East European Studies (BASEES)
-
 British Association for Slavonic and East European Studies (BASEES) is the UK national learned society for the study of Russia, Eastern Europe and the former Soviet Union. The main activity of the association is the annual conference, held normally in Cambridge in spring, with over 400 participants.

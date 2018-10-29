@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Norway denies rejecting Liam Fox request for trade deal taskforce
-

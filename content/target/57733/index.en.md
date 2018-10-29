@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Fly Fishing Forums
-
 An online enthusiast community concerned with fly fishing. Discusses various types of fishing for specific fish e.g: salmon, trout etc., fishing destinations, fishing equipment and various other related topics.

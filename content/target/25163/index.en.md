@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron's fury as Alex Salmond boasts he’ll call the shots
-
 None

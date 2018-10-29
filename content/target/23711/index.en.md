@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gwenan Gibbard
-
 Gwenan Gibbard is a harpist and singer who performs Welsh traditional music.

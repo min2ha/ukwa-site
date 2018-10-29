@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# MEDACT
-
 Medact educates, analyses and campaigns for global health on issues related to conflict, poverty and the environment. 

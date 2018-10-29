@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sandra Osborne MP
-
 The website of Sandra Osborne, Scottish Labour Parliamentary candidate for Ayr, Carrick and Cumnock.

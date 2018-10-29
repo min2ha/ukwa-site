@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Gove attacks 'distorting' social media after animal sentience row
-
 Michael Gove hits out at the way social media "corrupts and distorts" political reporting and decision making following a row about animal welfare

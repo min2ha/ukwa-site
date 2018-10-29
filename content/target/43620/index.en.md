@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Universities for Britain (@unis4britain) on Twitter
-
 Twitter feed of popular student/youth Brexit campaign.

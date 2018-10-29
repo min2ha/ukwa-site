@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Channel 4 FactCheck Blog: FactCheck Scotland: 10 facts you need to know before you vote
-
 None

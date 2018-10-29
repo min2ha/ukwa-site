@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Lodge Ancient Brazen, No. 17
-
 Site of a masonic lodge located in Linlithgow, West Lothian, and affiliated with the Grand Lodge of Scotland.

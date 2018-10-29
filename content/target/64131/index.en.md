@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Irish Music London (@irishmusicldn) on Twitter
-
 New site launching soon. We're here to keep you up to date with all Irish music happening in London. 

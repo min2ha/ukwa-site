@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Argyll Communities
-
 This is the webportal for the community, voluntary and social enterprise sector of Argyll and Bute.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Live broadcast schedule for week 11th, 12th & 13th October 2016
-
 Live broadcast schedule for the Irish Parliament on the 11th, 12th & 13th October 2016. Budget 2017 was discussed on these dates.

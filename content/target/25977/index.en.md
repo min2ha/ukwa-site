@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour leads in London but could the Tories make gains too?
-
 None

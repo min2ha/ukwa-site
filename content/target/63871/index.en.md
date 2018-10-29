@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Anderston Kelvingrove Parish Church
-

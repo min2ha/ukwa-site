@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincoln Cathedral: The Magna Carta Dinner
-

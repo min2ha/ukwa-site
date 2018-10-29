@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# First World War Centenary: First World War Centenary Partnership explores the centenary of the 1916 Easter Rising
-
 Programme of Easter Rising centenary events and exhibitions by the First World War Centenary Partnership

@@ -10,6 +10,4 @@
   "start_date": "2016-06-20T10:00:00Z"
 }
 
-# Where You're Meant To Be - a documentary by Paul Fegan
-
 Website created to promote a feature documentary directed by Paul Fegan, following former Arab Strap frontman Aidan Moffat on a tour of Scotland in 2014.

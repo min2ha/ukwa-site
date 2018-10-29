@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# FMS Magazine 
-
 Online version of the rebranded magazine FASHION.MUSIC.STYLE, no longer in print since February 2011.

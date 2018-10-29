@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Sharia Watch UK (@WatchSharia) on Twitter
-
 A right wing Islamophobic campaign group. This is their official Twitter account.

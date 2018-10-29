@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Edusport Academy
-
 Site of an elite football performance programme based in Scotland designed to offer the best environment and conditions for players to progress, learn and grow together.

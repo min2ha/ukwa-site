@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Wrexham Community Church
-

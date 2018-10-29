@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Playing Pasts (@Playing_Pasts) on Twitter
-
 The first & only online magazine for Sport and Leisure History. Contributions on any aspect of Sport/Leisure History are always welcome.

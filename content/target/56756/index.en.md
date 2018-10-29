@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steve Double's Blog
-
 Stephen Double is a British Conservative Party politician. He was elected as the Member of Parliament for St Austell and Newquay in the 2015 and the 2017 general election. 

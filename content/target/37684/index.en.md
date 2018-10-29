@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Colmcilles GAA Cardiff
-
 St. Colmcilles GAA Cardiff have been promoting Gaelic Games, Irish Language and Culture in the Cardiff and South Wales since its formation in 1956. It is the only non-university Senior GAA team in Wales

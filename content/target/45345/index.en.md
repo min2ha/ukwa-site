@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# Dragon Soccer
-
 Fanzine for the Welsh international football team.

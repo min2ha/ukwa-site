@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# Made in North Wales TV
-
 Made In North Wales is part of the Made Television Network whose headquarters is in Leeds. It is a dedicated local TV channel for North Wales.

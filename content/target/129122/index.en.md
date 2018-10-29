@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Lowe Syndrome Trust 
-
 The Lowe Syndrome Trust is a UK Charity formed in June 2000 by parents of a Lowe syndrome child. The charity supports families and initiates and funds medical research into Lowe Syndrome.

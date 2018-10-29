@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Iaith Cered (@MICered) on Twitter 
-
 A Menter Iaith/ Welsh language operating in Ceredigion.

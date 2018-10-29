@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# Brynford and Calcoed Village
-
 Community website for Brynford and Calcoed, two villages near Holywell, Flintshire.

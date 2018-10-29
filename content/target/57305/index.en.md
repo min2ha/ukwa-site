@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Electric Glen
-
 Site of an artistic lighting event, exhibition and attraction at Rouken Glen Park at Giffnock, East Renfrewshire.

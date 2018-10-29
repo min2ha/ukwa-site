@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: No wonder the SNP are confident – the Tories behave as if they want Scotland gone
-
 None

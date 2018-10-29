@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elefriends: Supportive online community
-
 Elefriends: supportive online community for mental health

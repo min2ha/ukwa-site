@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Ysgol Llanbedr
-
 Ysgol Llanbedr is based in rural Clwyd and is due for closure in 2016.

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Ail Symudiad
-
 Ail Symudiad is a Welsh rock group from Cardigan formed in 1978.

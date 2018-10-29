@@ -10,6 +10,4 @@
   "start_date": "2017-03-07T09:00:00Z"
 }
 
-# Inland Editions
-
 Inland Editions is an independent publisher based in London and Lisbon. They publish texts on social issues, art and culture, working in collaboration with an international group of authors and artists.

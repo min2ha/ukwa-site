@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: eplace House of Lords with elected senate, urges Gordon Brown
-

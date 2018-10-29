@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Demos: Making the Most of Brexit: Opportunities and risks to a fairer, more sustainable economy
-
 This report is the result of three expert summits held in London during February 2017. They explored the risks and opportunities of Brexit for: Labour Markets, Social and Environmental Outcomes, and Industry, Trade and Devolution respectively.

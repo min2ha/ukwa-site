@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Croydon Shadow HealthWatch (Formerly Croydon LINk)
-
 None

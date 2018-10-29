@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow Gaels (@glasgowgaels) on Twitter
-
 Gaelic football club (and charity SC046552) formed in 1999. Always on the lookout for new players! 

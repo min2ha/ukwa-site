@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# MC Mabon
-
 MC Mabon is Gruff Meredith, former member of the band Y Tystion, is essentially a one man band who has been creating hip hop music since 2000.

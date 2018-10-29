@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Joseph's Roman Catholic Parish, Port Talbot
-

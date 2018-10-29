@@ -10,6 +10,4 @@
   "start_date": "2015-10-22T10:00:00Z"
 }
 
-# Credo Cymru
-
 Credo Cymru was founded in July 1993 following the creation of a Bill, by the Governing Body of the Church in Wales, to allow women to become ordained as priests in that Anglican Province.  

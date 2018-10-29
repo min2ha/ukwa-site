@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# English Country Garden
-
 None

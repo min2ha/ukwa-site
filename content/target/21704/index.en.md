@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Litotes: the most common rhetorical device you've never heard of
-
 None

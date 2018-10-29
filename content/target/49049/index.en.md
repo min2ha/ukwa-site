@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# NWORTH CTU: North Wales Organisation for Randomised Trials in Health
-
 NWORTH, The Bangor Trials Unit is based at Bangor University and 'is a UK Clinical Research Collaboration (UKCRC) fully registered Clinical Trials Unit (UKCRC CTU Registration Number 23 since 2007) which specialises in the design, conduct, analysis and reporting of Phase II and III clinical trials'. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Christ The King Glasgow
-
 Site of a Roman Catholic church in Scotland for the parish of Christ The King, Glasgow.

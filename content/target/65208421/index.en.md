@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sefydliad Bevan Foundation
-
 'The Bevan Foundation develops ideas that change Wales and improve people’s lives. We use evidence to produce innovative solutions, and share knowledge and experience to shape public policy and practice.' - homepage.

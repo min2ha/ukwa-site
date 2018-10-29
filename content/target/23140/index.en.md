@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Marie Jones (@Kentgreenbranch) on Twitter (Green Party candidate for Tunbridge Wells)
-

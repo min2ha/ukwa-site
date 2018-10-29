@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: 'This is first time I can vote Tory without feeling sick'
-
 None

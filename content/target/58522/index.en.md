@@ -10,8 +10,6 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Giving Tuesday
-
 Here’s how it works: on the day you can choose to support any charity you want in any way you want. You can choose one of our partners to support, or you can pick a totally different organisation – it’s up to you.
 
 You choose how you want to support them. Whether you bake good stuff, make good stuff, donate good stuff, tweet good stuff or even say good stuff ‐ how you support your favourite cause is totally up to you!

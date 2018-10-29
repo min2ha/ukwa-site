@@ -10,6 +10,4 @@
   "start_date": "2005-03-23T00:00:00Z"
 }
 
-# British Microcirculation Society
-
 The British Microcirculation Society was founded in July 1963 "to advance the study of circulation of the blood and other tissue fluids especially, though not exclusively, in the small vessels and of matters relating thereto".

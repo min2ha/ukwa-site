@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Extreme Koi Forum
-
 An online enthusiast community concerned with keeping Koi Carp. Discusses Koi health, diseases & medication, pond construction, and various other related topics.

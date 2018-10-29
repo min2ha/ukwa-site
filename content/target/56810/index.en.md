@@ -10,6 +10,4 @@
   "start_date": "2017-08-24T09:00:00Z"
 }
 
-# Curre and Llangibby Hunts
-
 The hunting country of the Curre and Llangibby hounds is in South Monmouthshire

@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# Tracy Satchwill
-
 Official website of the artist Tracy Satchwill.

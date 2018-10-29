@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tour de Force
-
 <p>The Tour de Force is a fundraising event for the William Wates Memorial Trust. We follow each year’s route of the Tour de France, starting and finishing one week ahead of the professionals.</p>

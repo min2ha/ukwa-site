@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Joseph's R.C. Church, Cumbernauld 
-
 Site of a Scottish Roman Catholic parish church located in Cumbernauld, Lanarkshire.

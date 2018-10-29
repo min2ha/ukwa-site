@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Protest Against Trumps Muslim Ban and Theresa May's Complicity, Swansea
-
 Protest Against Trumps Muslim Ban and Theresa May's Complicity held at Swansea on January 30th, 2017.

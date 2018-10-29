@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Battle Of Coronel Commemoration Project
-
 The Battle of Coronel Commemoration Project will create an archive and musical interpretation of the lives that were lost when two Royal Navy armoured cruisers were sunk by the German fleet off the coast of Chile at Coronel on 1st November 1914.

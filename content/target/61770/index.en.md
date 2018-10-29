@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Katharine & St Peter's Church
-
 St Katharine and St Peter's Church is an Anglican Church in the Catholic tradition. The Church based in Milford Haven, has been established since 200 years.

@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 1914 - 1921 Lest we forget, each one was some mother's son
-

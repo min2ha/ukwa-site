@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Federal Trust for Education and Research, The
-
 The Federal Trust for education and research is a think tank that studies the interactions between regional, national, European and global levels of governance. It has a focus of interest in Britain and its place in the European Union. 

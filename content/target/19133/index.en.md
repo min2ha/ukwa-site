@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# History Extra: Magna Carta: A turning point in English history
-

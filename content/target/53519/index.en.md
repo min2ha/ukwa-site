@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Day Nurseries Association (NDNA): NDNA election manifesto 2017: Childcare Passport
-
 The manifesto includes five steps that the new government must take to ensure all parents of young children have a great choice of affordable, high-quality and flexible childcare

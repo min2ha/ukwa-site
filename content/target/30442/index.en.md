@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Giglets on Facebook
-
 The Facebook page of Giglets, an education and technology company.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ian Driver (@IanDDriver) on Twitter (Green Party candidate for South Thanet)
-

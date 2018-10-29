@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Gigs review things to do what's on in Inverness highland!
-
 A website based in the highlands, that aims to review events, shows, gigs and activities in the region

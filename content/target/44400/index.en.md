@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Greyhound Awareness League
-
 Site of a Scottish charity aiming to rescue and rehome greyhounds and lurchers.

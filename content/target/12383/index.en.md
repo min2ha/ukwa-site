@@ -10,6 +10,4 @@
   "start_date": "2014-08-09T05:00:00Z"
 }
 
-# Jewish Military Museum
-
 None

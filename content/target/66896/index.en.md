@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Rivers and Fisheries Trusts of Scotland (RAFTS)
-
 "Rivers and Fisheries Trusts of Scotland (RAFTS) is a leading independent freshwater conservation charity representing Scotland’s national network of rivers and fisheries Trusts and Foundations."

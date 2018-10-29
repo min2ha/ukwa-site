@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sam Webber  (@samdwebber) on Twitter (Liberal Democrats Politician)
-
 Sam Webber stood as Liberal Democrat candidate for Bromley and Chislehurst at the 2015 General Election but was not elected. He stood again in 2017 but was not elected.

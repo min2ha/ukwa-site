@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: David Cameron 'hopeful' of February deal
-

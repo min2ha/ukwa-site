@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Conservative leadership race: Who could replace David Cameron?
-
 None

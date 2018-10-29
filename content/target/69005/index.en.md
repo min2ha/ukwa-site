@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Grassroots rebellion – Downing Street is starting to realise the scale of Tory opposition to the Chequers plan
-
 Describes Conservative Party members' hostility to Theresa May's plan for the future UK-EU relationship and officials' attempts to counter it.

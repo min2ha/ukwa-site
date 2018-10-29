@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit Britain is out of options. Our humiliation is painful to watch
-

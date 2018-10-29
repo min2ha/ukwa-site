@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# ESTNet Awards, The
-
 Awards given by the Electronic and Software Technologies Network for Wales (ESTNet).

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour's right: 16-year-olds should get the vote, and 10-year-olds, too
-
 None

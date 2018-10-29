@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# University College of Football Business
-
 Official website of the University College of Football Business, Wembley and Burnley.

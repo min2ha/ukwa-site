@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Woman Fest
-
 Website for the Woman Fest, festival. 

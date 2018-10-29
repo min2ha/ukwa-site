@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Fawcett Society (@fawcettsociety) on Twitter
-
 UK’s leading charity campaigning for gender equality and women’s rights. Our aim is a society where your gender does not limit your life chances. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ongar RFC on Pitchero
-
 The official website of Ongar Rugby Club.

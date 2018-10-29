@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dartmoor Walking Festival
-
 Walking festival in Dartmoor, including accessible events and workshops

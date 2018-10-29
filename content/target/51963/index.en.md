@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Birmingham Vineyard
-
 Birmingham Vineyard is a church where lives are changing.  A place where people are excited about following Jesus and experiencing life in a new way.

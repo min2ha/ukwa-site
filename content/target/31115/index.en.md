@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Glendale Trust, The - Glendale, Isle of Skye
-
 The Glendale Trust's objectives are the promotion for the public benefit of rural regeneration in areas of social and economic deprivation, and in particular within the area of Glendale, Isle of Skye.

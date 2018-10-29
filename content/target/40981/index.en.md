@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Narberth Rugby Football Club
-

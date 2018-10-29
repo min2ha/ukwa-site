@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Claire Baseley:Does social media distort body image?
-
 A blog discussing the possible correlations between social media and negative body image

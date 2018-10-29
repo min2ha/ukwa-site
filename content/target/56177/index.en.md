@@ -10,5 +10,3 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# Oswestry & District Agricultural Show
-

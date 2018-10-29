@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Formartine United Football Club
-
 Site of a Scottish football club based in Gardenstown, Aberdeenshire.

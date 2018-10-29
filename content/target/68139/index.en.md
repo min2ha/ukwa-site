@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: BORIS JOHNSON The people want us to deliver a full British Brexit and we MUST bust out of the corsets of EU regulation, says Foreign Secretary Boris Johnson
-
 Calls for the UK to make a clean break from the EU, Taking back control of its borders, its money and its laws, in spite of opposition from remainers.

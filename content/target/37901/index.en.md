@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Veronica German (@veronicakgerman) on Twitter 
-
 Veronica German is the Liberal Democrat candidate for South Wales East at the 2016 National Assembly Elections and Monmouth at the 2017 General Election.

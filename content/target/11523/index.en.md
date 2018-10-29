@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# British Athletics
-
 UK Athletics
 UK Athletics is the governing body for the sport of athletics in the United Kingdom. It is responsible for overseeing the governance of athletics events in the UK as well as athletes, their development, and athletics officials. The organisation outwardley rebranded itself as British Athletics in 2013, although it remains legally known as UK Athletics, and continues to use the UK Athletics name in internal governance.

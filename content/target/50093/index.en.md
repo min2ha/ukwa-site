@@ -10,6 +10,4 @@
   "start_date": "2017-03-07T09:00:00Z"
 }
 
-# Beta: British Psychological Society (BPS)
-
 This is the beta version of the new British Psychological Society website that will be launched in 2017.

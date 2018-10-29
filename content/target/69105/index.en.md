@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Guardian, The:  UK refusal to issue gender-neutral passports unlawful, high court told
-
 A news article on the legal challenge to the Home Office’s refusal to provide non-gendered X passports

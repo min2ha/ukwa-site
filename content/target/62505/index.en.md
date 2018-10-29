@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: 'Ireland first,' says Tusk after Varadkar meeting
-
 The President of the European Council, Donald Tusk, told the Taoiseach, Leo Varadkar, that Ireland's interests must come first in the Brexit negotiations. Speaking in Dublin, Mr Tusk said nothing must be done to risk the peace process or the Good Friday Agreement.
 
 

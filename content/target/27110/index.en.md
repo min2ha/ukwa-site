@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# National Skills Academy for Railway Engineering (NSARE) 
-
 The National Skills Academy for Railway Engineering (NSARE) was established in November 2010. It is a membership organisation and it has been developed by the industry for the industry to fulfil the strategic role of developing and implementing the skills strategy, which supports the industry’s vision to create an engineering workforce with the necessary skills to support the maintenance, development and expansion of a first-class, cost effective 21st Century railway.

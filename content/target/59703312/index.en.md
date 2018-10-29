@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# West Midlands 2012
-

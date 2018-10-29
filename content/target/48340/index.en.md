@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Rockhopper Exploration 
-
 Rockhopper is an AIM listed oil and gas company based in the UK with interests in the Falkland Islands and the Greater Mediterranean region.

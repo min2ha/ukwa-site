@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The EU deal with Turkey is fraught with dangers
-

@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# Ole! Media Group
-
 The Ole! Media Group is a dynamic digital media company that specialises in holistic publishing, marketing and advertising solutions for the information age. 

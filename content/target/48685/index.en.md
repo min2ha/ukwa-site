@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Court rejects Scottish government Article 50 argument
-
 Judges at the Supreme Court rejected the Scottish government's argument that Holyrood should get a say on the triggering of Article 50.

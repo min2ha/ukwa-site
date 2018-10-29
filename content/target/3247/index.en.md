@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Society for Computers and Law 
-
 Website of the Society for Computers and Law, a registered educational charity for legal professionals advising and practising within the IT sector.

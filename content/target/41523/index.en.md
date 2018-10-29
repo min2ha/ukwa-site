@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The; Now our HOLIDAYS are at risk from Brexit! PM ramps up Project Fear with warning about £230 increase in bills for foreign breaks if we leave EU  
-

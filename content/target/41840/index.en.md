@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Lords. EU Committee: The process of leaving the EU
-
 Report states that if the UK votes to leave the EU, negotiating withdrawal would be a "complex and daunting task".

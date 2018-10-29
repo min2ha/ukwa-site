@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Llanfyllin Town website
-
 Here you can find up-to-date information about local events.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent Save Withybush Save Lives Party on Facebook
-
 Facebook page of independent party Save Withybush Save Lives Party

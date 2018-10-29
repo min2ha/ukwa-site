@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# taking back control Here are the six new laws the Leave campaign wants to pass after Brexit
-
 Sun, The

@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# West Midlands Police & Crime Commissioner
-
 None

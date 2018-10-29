@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Forgotten History
-
 Project to work with volunteers and community members to research and collect archive materials of maps showing borders of African countries and how they have changed as a result of the First World War.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aber Times
-
 Aber Times is a crowd-sourced media organization based in Aberystwyth. Most of the articles focus on the town and issues that matter to the local community.

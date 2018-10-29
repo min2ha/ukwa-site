@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# IFF Research
-
 IFF Research is an independent full-service research agency.

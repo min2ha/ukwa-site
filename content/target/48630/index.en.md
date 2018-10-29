@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Cuthbert Wanderers Football Club
-
 Site of a Scottish amateur football club based in Kirkcudbright, Dumfries & Galloway, Scotland.

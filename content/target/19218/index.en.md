@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincoln Cathedral: What has Magna Carta to do with me?
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Anthony's Roman Catholic Church, Balfron
-
 Site of a Roman Catholic parish church in Scotland, located at Balfron, Stirlingshire.

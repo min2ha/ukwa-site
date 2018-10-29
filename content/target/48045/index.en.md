@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Ben Jonson's Walk
-
 This site recreated Jonson's grand adventure. The interactive map allows you to explore his journey and retrace his itinerary. 

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# The Hawthorns Stadium
-
 The Hawthorns is an all-seater football stadium in West Bromwich, West Midlands, England, with a capacity of 26,688. 

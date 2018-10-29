@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Shipping Times - Scotland's Shipping & Shipbuilding News
-
 Shipping Times seeks to provide news of interest to maritime enthusiasts and professionals in Scotland and in the rest of the British Isles.

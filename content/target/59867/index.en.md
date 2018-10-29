@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Move to head off another Tory rebellion
-
 Tory rebels had been concerned about plans to put the Brexit date and time - 11pm on 29 March 2019 - into law. In response, several Conservative MPs, including former Cabinet minister Oliver Letwin, tabled an amendment to the EU Withdrawal bill that would give the government more flexibility over the exit day.
 
 

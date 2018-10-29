@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Magna Carta was stored in Welsh cave during Second World War
-

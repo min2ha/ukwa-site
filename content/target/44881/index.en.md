@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Running With God
-
 This blog are records of ‘moments’ the author Stephen March has had while running.

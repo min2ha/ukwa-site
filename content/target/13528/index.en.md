@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Integration not segregation: para-sports at the Glasgow Games 
-
 <p>Article by Simon Darcy about the significance of the integration of para-sports into the main programme of the XX Commonwealth Games. From “The Conversation” an independent source of news and views, sourced from the academic and research community.</p>

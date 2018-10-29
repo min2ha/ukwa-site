@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jane Pratt (@JanePCaerphilly) on Twitter (Conservative candidate for Caerphilly)
-
 Jane Pratt is the Conservative candidate for Caerphilly at the 2016 National Assembly Elections.

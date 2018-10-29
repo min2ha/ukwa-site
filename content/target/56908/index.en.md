@@ -10,6 +10,4 @@
   "start_date": "2017-08-30T09:00:00Z"
 }
 
-# Parti Cut Lloi
-
 Parti Cut Lloi is a choir from the Banw Valley in Montgomeryshire.

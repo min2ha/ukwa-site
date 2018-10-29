@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Ards Borough Council
-
 None

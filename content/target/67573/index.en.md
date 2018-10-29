@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Taxi Charity For Military Veterans
-
 The Taxi Charity For Military Veterans (formerly known as the London Taxi Benevolent Association For War Disabled) was formed in Fulham in 1948.

@@ -10,5 +10,3 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Edinburgh UNESCO City of Literature 
-

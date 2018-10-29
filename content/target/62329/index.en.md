@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gillingham Football Club
-
 Gillingham Football Club is a professional association football club based in the town of Gillingham, Kent, England. The club was founded in 1893 and joined the Football League in 1920. 

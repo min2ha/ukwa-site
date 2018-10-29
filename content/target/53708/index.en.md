@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Helen Grant (Conservative  Politician)
-
 Helen Grant stood as Conservative candidate for Maidstone and the Weald at the 2017 General Election and was elected to serve as MP. She was first elected to serve as the MP for Maidstone and the Weald in 2010 and re-elected in 2015. 

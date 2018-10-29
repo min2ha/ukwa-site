@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Edinburgh International Centre for Spirituality and Peace
-
 Site of an events-led Edinburgh based Scottish charity, which works with the world's spiritual traditions, both in Scotland and internationally, seeking understandings of the nature of spirituality, and of interspirituality and intraspirituality, in its diversity; incorporates the annual Edinburgh International Festival of Middle Eastern Spirituality and Peace

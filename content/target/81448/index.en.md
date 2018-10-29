@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Filmore & Union (@FilmoreandUnion) on Twitter
-
 A UK restaurant based in Yorkshire and other parts of the north east. This is their official Twitter account. 

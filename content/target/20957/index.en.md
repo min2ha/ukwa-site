@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Iain McKenzie (@vote4mckenzie) on Twitter
-
 The Twitter profile of Iain McKenzie, the Labour Party candidate for Inverclyde in the UK General Election on the 7th May 2015.

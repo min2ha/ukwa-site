@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# LocalGov: Magna Carta original uncovered in council’s archive
-

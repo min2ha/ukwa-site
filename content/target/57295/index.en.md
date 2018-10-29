@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Julie Ann Sheridan, Painter
-
 Julie Ann Sheridan is a painter living and working from The Last Gallery, Llangadog and is inspired by the landscape, geology and lichen of Wales.

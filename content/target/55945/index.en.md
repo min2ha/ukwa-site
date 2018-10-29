@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Ice Skating Forum 
-
 A forum on the UK Ice Skating Scene

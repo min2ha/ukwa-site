@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Youth For Europe Northern Ireland (@youth4europeni) on Twitter
-
 Twitter page of campaign for under 18s in Northern Ireland wanting to stay in EU.

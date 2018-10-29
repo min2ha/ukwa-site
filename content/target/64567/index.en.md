@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Trysor Heritage | Treftadaeth Trysor
-
 Trysor is a heritage consultancy based in southwest Wales. They provide a range of archaeological and heritage services for their clients based in Llwyn-y-groes, Ceredigion.

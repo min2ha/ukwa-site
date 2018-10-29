@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# cleantalk
-
 A online forum about cleaning forum

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Harris (@TomHarris4MP) on Twitter
-
 The Twitter profile of Tom Harris, the Labour Party candidate for Glasgow South in the UK General Election on the 7th May 2015.

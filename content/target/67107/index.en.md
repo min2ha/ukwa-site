@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Chipstead Seniors XV / Chipstead RFC
-

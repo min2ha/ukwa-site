@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Politeia
-
 A collection of publications by the think-tank Politeia which discuss various aspects of the EU referendum, particularly the impact of the EU upon British political identity, though it is Eurosceptic. 

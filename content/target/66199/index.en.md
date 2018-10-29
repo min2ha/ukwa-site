@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Nick John Rees
-
 Nick John Rees is a marine artist based in Sully near Cardiff. His artwork is mainly of the coasts of Wales, Devon, Cornwall & Brittany.

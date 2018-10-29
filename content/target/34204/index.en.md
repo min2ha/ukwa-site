@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Associated Society of Locomotive Engineers and Firemen
-

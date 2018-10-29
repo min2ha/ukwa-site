@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# UK Mat Surfers
-
 This site has been created as an online focal point for surfmat riders in the UK and beyond. 

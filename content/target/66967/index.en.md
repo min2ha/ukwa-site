@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Smith Institute
-
 The Smith Institute is a left-wing think tank in the United Kingdom. It was founded in memory of John Smith QC MP, former leader of the Labour Party.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# Dundee Science Centre
-
 Site of a charity and lifelong learning resource for the community help families learn together, to support the formal schools curriculum, advance the science communication profession, bring together science and the public; incorporates the Fife Science Festival and the Dundee Science Festival.

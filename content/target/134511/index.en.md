@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Prostate Cancer Charity
-
 As a medical research charity, we aim to encourage, support and carry out research into the causes, prevention and treatment of prostate cancer and also research the impact of living with the disease.

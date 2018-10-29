@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Little Thoughts Blog
-
 Personal blog about mental health and lifestyle

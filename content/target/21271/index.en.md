@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# LeanneWood (@LeanneWood) on Twitter 
-
 Leader of Plaid Cymru.

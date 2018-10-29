@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Jeremy Corbyn prepares to attack David Cameron on demand for 'emergency brake' on EU migration
-

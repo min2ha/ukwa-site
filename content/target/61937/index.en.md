@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Blairdaff and Chapel of Garioch Parish Church
-
 Site of two Church of Scotland churches at Blairdaff and Garioch, Aberdeenshire.

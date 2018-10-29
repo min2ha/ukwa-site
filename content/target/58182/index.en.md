@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Taste of Grampian
-
 Site of an annual food and drink festival at Inverurie, Aberdeenshire.

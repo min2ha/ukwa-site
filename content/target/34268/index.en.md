@@ -10,6 +10,4 @@
   "start_date": "2016-01-21T09:00:00Z"
 }
 
-# Aberdeen & North East Scotland Family History Society
-
 Genealogy site focussing on Aberdeen and the North East of Scotland

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nicola Sturgeon warned devo max threatens 138,000 jobs
-
 None

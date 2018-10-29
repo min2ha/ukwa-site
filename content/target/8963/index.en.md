@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ed Drake Ski Cross
-
 None

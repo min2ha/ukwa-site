@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Church of Scotland
-
 The website of St. Andrew's Church of Scotland, Ayr.

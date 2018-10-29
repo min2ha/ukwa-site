@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Motivation
-
 Motivation are a charity that provides wheelchairs and services for disabled people in developing countries.

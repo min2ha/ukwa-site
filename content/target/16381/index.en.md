@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# GlaxoSmithKline (GSK): Our contribution to the fight against Ebola
-
 <p>Ebola issues presented by the GlaxoSmithKline (GSK), a pharmaceutical company.</p>

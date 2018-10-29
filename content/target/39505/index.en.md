@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Lee Waters on Facebook (Labour candidate for Llanelli)
-
 Lee Waters is the Labour candidate for Llanelli at the 2016 National Assembly for Wales elections. 

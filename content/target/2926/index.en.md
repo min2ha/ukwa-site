@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# McGonagall Online
-
 <p>Website dedicated to William Topaz McGonagall, who has been widely hailed as the writer of the worst poetry in the English language.</p>

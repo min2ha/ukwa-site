@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bramley Rugby League Community Club Limited
-
 Known as the Bramley Buffaloes, the clubs main sponsor is the Leeds Co-Op. 

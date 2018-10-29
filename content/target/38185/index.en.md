@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Liberal Leave 2016
-
 Group of Liberal democrats campaigning for the UK to leave the EU

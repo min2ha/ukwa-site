@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: The Tory EU civil war affects them least. The rest of us have more to lose   
-

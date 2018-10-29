@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Sun, Turks & Caicos Islands
-
 The Sun, Turks & Caicos Islands online news

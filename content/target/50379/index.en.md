@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Kelpies : Scottish Books for Scottish Children
-
 Site of a Scottish publishers specialising in books for children.

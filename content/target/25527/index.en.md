@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: All quiet on the election front: silent campaign passes most voters by
-
 None

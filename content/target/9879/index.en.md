@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# City Wire: ‘Stranded Life’ shows Scottish referendum is flawed
-
 <p>Standard Life’s intervention in the Scottish independence debate shows the referendum is flawed and needn’t involve unnecessary angst about currency and regulation.</p>

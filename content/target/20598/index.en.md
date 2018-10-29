@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory cuts will increase risk of terror attacks - police chief
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Aylesbury
-
 HT is a lively and growing church located near the centre of Aylesbury.

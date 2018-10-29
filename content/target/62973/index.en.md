@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Virginia Graham
-
 Virginia Graham is a cermacist from Surrey and now base in Wales.

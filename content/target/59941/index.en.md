@@ -10,6 +10,4 @@
   "start_date": "2017-12-24T09:00:00Z"
 }
 
-# Grove Park Theatre
-
 Grove Park Theatre is a amateur theatre based in Wrexham.

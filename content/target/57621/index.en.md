@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Association of Radio Controlled Soarers Forums
-
 An online enthusiast community concerned with radio controlled gliders. Discusses gliding aircraft including slope & dynamic soaring, RC equipment, builders workshop and various other related topics.

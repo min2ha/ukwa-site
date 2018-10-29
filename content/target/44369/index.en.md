@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Coventry Telegraph: EU Referendum 
-
 Local news website listing articles on EU referendum

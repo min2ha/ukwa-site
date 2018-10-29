@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Lottery support for Magna Carta celebrations
-

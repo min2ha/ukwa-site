@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's direct appeal to sceptical voters: 'Trust me on the economy'
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# London 2012 Festival and Cultural Olympiad on the BBC
-

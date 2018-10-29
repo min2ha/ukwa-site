@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# jockrock
-
 jockrock is a music blog that focuses on Scottish music. 

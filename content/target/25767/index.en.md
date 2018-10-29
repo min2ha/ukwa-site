@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Does the Conservative and Unionist party secretly want to break up the UK?
-
 None

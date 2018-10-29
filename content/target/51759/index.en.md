@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints, Clifton
-
 Worship at All Saints is in the Catholic tradition of the Church of England, centred on the Eucharist. 

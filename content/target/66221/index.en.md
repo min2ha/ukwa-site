@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Fisheries Management Scotland
-
 "Fisheries Management Scotland represents Scotland’s network of District Salmon Fishery Boards, the River Tweed Commission and Rivers and Fisheries Trusts."

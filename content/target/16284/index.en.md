@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Denbigh Community Archive | Archif Cymunedol Dinbych
-
 <p>Denbigh Community Archive archive is a collection of photos and memorabilia relating to to the town of Denbigh.</p>

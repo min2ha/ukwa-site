@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# For The Love Of Hygge
-
 The blog was established in 2018 by Welsh media producer Beth Edwards. The site covers food, ethical businesses, travel, entertainment, interiors and health and well-being.

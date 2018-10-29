@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# DataBeers London on Tumblr
-
 A social group of people interested in managing data discussing the latest issues with beer.

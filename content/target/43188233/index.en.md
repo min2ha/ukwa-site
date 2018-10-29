@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Ashford Conservatives
-
 Website of Ashford Conservatives, providing information on the MP, borough, city and county councillors and candidates, local and national campaigns and local, national and westminster news updates.

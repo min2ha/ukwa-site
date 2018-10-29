@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Radio Times
-
 Online version of Radio Times magazine.

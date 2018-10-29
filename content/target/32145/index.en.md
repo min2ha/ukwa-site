@@ -10,5 +10,3 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Plwy Penrhiwceiber, Matthewstown ac Ynysboeth | Parish of Penrhiwceiber, Matthewstown & Ynysboeth
-

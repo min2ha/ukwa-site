@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guaridan, The: Boris Johnson, David Davis and Liam Fox as the Three Brexiteers? Dream on
-

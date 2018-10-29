@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# V&A Dundee opens its doors to the world
-
 Article about the opening  of the V&A Dundee.

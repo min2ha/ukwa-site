@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 13th November 2017: EU Exit Negotiations
-
 David Davis updated the House of Commons on negotiations between the UK and the European Union in November, reflecting the UK's actions since the October European Council. He announced that "confirm that, once we have reached an agreement, we will bring forward a specific piece of primary legislation to implement that agreement. It will be known as the withdrawal agreement and implementation Bill. This confirms that the major policies set out in the withdrawal agreement will be directly implemented into UK law by primary legislation, and not by secondary legislation under the withdrawal Bill. It also means that Parliament will be given time to debate, scrutinise and vote on the final agreement we strike with the European Union. The agreement will hold only if Parliament approves it."

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Scottish Parliament: Official Report: 28th March 2017
-
 Verbatim transcript of the debate calling for a second referendum on Scottish independence in the light of the UK's withdrawal from the European Union.

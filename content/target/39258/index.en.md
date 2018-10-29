@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Royal College of Pathologists: Pathology priorities for Wales - 2016 Elections
-

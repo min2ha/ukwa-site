@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Home Office Publications
-
 Guidance, policy documents and statistical reports issued by the Home Office

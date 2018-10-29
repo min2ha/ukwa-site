@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Stoke On Trent
-
 None

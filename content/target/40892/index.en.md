@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Thurso Pipe Band
-
 Site of a Scottish traditional pipes and drums band based in Thurso, Caithness, Scotland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green party manifesto: what Labour says, only more so
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Steven Agnew Blog 
-
 Blog of the leader of the Green Party in Northern Ireland

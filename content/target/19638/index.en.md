@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Richmond & Twickenham Green Party
-
 Website of Richmond & Twickenham Green Party, providing information on candidates, representatives and officers, policies, events and local, national and party news.

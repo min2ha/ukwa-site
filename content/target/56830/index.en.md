@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow's St. Patrick's Festival
-
 Site of an annual festival promoting and celebrating Irish cultural heritage of Glasgow and Scotland.

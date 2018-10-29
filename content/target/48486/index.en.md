@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Gibraltar Social Democrats, The  
-
 Political party in Gibraltar. 

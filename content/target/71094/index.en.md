@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Harestanes Baptist Church
-
 Site of a Scottish Christian church and its congregation belonging to the Baptist denomination located in Kirkintilloch, East Dunbartonshire.

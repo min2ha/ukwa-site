@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cardiff North Adventist Church
-

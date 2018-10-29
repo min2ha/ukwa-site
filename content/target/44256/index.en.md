@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Theresa May for Prime Minister
-
 Theresa May's campaign website launched in support of her bid to become leader of the Conservative Party and Prime Minister.

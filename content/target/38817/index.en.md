@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jean Davis (@jeanmedavis) on Twitter
-
 Twitter profile of Jean Davis, Scottish Liberal Democrat candidate for Ross, Skye and Lochaber in the 2017 general election.

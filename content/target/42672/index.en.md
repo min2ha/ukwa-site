@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# South London Renters
-
 We’re renters in South London, and we’ve had enough. We’re sick of of high rents, bad housing and no security – and we want to do something about it. Formed through the merger of the existing Lambeth and Southwark renters groups. Archives 2013-2015

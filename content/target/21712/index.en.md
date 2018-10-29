@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg on Theresa May, Michael Gove and David Cameron – video
-
 None

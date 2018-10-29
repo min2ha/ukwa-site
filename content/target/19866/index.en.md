@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sutton and Cheam Labour Party on Facebook
-

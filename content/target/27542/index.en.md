@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Nigel Farage resigns: Read former Ukip leader's speech in full
-
 None

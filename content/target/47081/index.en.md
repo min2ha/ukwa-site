@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Edinburgh Eagles Rugby League
-
 Site of an amatuer Rugby football league club based in Edinburgh.

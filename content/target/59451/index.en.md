@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# UK Web Archive (@UKWebArchive) on Twitter
-
 UK Legal Deposit Libraries collecting, preserving and giving access to the archived UK web.

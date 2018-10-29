@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hackney Green Party
-
 Website of Hackney Green Party, providing information on candidates, representatives, campaigns and local, national and party news.

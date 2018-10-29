@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Clothing & Age
-
 This is the website for a series of interconnected research projects on the subject of clothing and age. They are part of a continuing research agenda undertaken by Professor Julia Twigg at the University of Kent. The research builds on my earlier interest in embodiment and age and the wider development of Cultural Gerontology.

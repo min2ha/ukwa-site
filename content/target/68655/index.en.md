@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Cabinet has duty to agree Brexit plan, says Theresa May
-
 Theresa May said her divided cabinet had "a great opportunity - and a duty" to agree a blueprint for the UK's future relationship with the EU at a crunch meeting at Chequers on July 6th

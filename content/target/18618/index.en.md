@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alun Cairns (@AlunCairns) on Twitter
-
 Candidate for Vale of Glamorgan, having been the MP and Minister in Wales Office.

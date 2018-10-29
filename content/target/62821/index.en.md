@@ -10,6 +10,4 @@
   "start_date": "2018-03-20T09:00:00Z"
 }
 
-# British Council Edinburgh Showcase
-
 Site of the British Council’s biennial Edinburgh Showcase, an opportunity for UK theatre companies to introduce their work to international promoters during the Edinburgh festivals.

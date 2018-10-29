@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tristan Osborne (Labour candidate for Chatham and Aylesford)
-

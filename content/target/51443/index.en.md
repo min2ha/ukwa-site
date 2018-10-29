@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Pwllgwaun and Llanddewi Rhondda
-

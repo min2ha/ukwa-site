@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alan's Angle (Alexander Alan Craig) (UKIP Politician)
-
 Alexander Alan Craig was the UK Independence Party (UKIP) candidate in the constituency of Witney in the 2017 General Election.

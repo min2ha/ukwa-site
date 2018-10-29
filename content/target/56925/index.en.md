@@ -10,6 +10,4 @@
   "start_date": "2017-08-31T09:00:00Z"
 }
 
-# Gagglebabble
-
 Lucy Rivers and Hannah McPake are Gagglebabble - a multi award-winning Cardiff-based theatre company who aim to create entertaining genre breaking high-quality gig-theatre for adults. 

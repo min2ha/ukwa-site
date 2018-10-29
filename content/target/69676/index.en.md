@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Inside Out Dorset
-
 Performance adventure across Dorset with open air entertainment for all the family

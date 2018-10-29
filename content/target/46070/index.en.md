@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Dy Gynulliad | Your Assembly
-
 This is a dedicated website for young people to learn about the National Assembly for Wales – what it does and how it affects young people living in Wales. 

@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Dr. Lee's Prescription
-
 <p>Website of musical group Dr. Lee's Prescription; including promotion for the event, The Games.</p>
 <p>The Games is a celebration of the Commonwealth Games through a fusion of music, poetry and dance. Dr. Lee's Prescription combine with special guest Anne Evans on flute, new poetry from former Edinburgh Makar (2008-2014) Ron Butlin and new dance from renowned dancer and choreographer Alex Rigg.</p>

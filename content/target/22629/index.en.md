@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron - his highs and lows in five years as Prime Minister
-
 None

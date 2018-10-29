@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Pathway Project (@PathwayGB) on Twitter
-
 Pathway Project is a grass roots service, which began in the late 1980s. They work with both male and female victims. Official Twitter account.

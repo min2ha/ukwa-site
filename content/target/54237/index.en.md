@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Jones (Labour Party Politician)
-
 Chris Jones stood as Labour candidate for Norwich North at the 2017 General Election but was not elected. 

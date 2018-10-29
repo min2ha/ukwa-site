@@ -10,6 +10,4 @@
   "start_date": "2017-06-14T09:00:00Z"
 }
 
-# Crieff and Strathearn Tourism
-
 Site of an organisation providing toursit infomation for visitors to the area of Crieff and Streathearn, Perthshire, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Finance Awards Wales 
-
 The Finance Awards Wales showcase the best in Finance across Wales. The events is held at Cardiff’s City Hall  

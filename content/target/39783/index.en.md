@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Letters: Why is Barack Obama interfering in European politics?
-

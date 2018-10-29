@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# We are England - Commonwealth Games England
-
 None

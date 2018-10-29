@@ -10,6 +10,4 @@
   "start_date": "2015-09-05T10:00:00Z"
 }
 
-# Tutor Pages, The
-
 The Tutor Pages provides information and advice on all aspects of the UK private tuition industry. It lists articles on all subjects relating to tutoring, and has published an e-book for tutors. It is a member of the UK Association of Online Publishers.

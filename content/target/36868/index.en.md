@@ -10,8 +10,6 @@
   "start_date": "2016-03-09T09:00:00Z"
 }
 
-# Republic
-
 Republic is a British republican pressure group advocating the replacement of the United Kingdom's monarchy with an elected head of state.
 
 It is a member organisation of Common Cause and the Alliance of European Republican Movements and is currently the only organisation solely campaigning for a republican constitution for Britain.

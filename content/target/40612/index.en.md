@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Christmas Truce Football Game 1914 on Facebook
-
 Project to bring the WW1 to life through the experiences of a local man using educational visits, local displays, links to other WW1 projects, a commemorative programme and links to our twin Town in Germany.

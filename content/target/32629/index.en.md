@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# LSE Media Policy Project – Phone Hacking & Leveson Inquiry Dossier
-
 Web dossier containing information and links to key institutions covered by the Inquiry, government reports and non-government organisations interested in press regulation and the freedom of the press more generally.

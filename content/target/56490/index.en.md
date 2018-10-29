@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# RISE: Research on Improving Systems of Education
-
 The RISE programme is a large scale, multi-country research programme that seeks to answer the question: “What works to improve education systems to deliver better learning for all at scale in developing countries?”

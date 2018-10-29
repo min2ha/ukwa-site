@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daniel Thomas for Neath on Facebook
-
 Plaid Cymru candidate for Neath.

@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Housing Action Southwark & Lambeth
-
 Supporting and taking action for decent homes for everyone

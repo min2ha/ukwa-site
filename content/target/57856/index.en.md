@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Book Club Forum
-
 An online enthusiast community concerned with books. Discusses various books, group readings, reading challenges, competitions, various book genres and other related topics.

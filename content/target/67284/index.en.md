@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Bletchley Rugby Union Football Club
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# ynfafootball (@ynfafootball) on Instagram
-
 YNFA which stands for You're Not Famous Anymore is a group that produces podcasts and provides members forums and aim to entertain football fans. This is their official Instagram account.

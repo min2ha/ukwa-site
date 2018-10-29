@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Department for International Development Publications
-
 Reports, policy documents and guidance issued by the Department for International Development

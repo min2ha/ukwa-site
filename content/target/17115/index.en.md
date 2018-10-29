@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Labour's 'manifesto for women': Miliband to target the 9m who didn't vote at the last election
-

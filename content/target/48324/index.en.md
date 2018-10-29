@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# University of Cambridge: EU Migrant Worker Project
-

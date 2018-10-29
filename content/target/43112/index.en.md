@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Scottish Council on Archives
-
 Site of a Scottish national organisation providing leadership for the archives and records management sector in Scotland.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew’s Roman Catholic Cathedral
-
 Site of a Roman Catholic cathedral church in Scotland located in Dundee.

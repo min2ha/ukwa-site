@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Croydon Central: A constituency divided
-
 None

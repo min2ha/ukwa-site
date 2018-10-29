@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Pound falls after May's Brexit statement
-
 The pound's fall against the dollar and the euro deepened following Theresa May's assertion after the EU Council meeting in Salzburg that "no deal wais better than a bad deal". Sterling was already trading lower after EU leaders warned the UK must make compromises on trade and the Irish border to secure a Brexit trade deal.
 
 

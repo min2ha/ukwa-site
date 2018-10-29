@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Miles Briggs MSP (@MilesBriggsMSP) on Twitter
-
 Twitter profile of Miles Briggs, Scottish Conservative and Unionist Party candidate for Edinburgh South West in the 2017 general election.

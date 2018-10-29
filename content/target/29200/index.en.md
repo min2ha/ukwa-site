@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# Association of Relocation Professionals, The
-
 Website with information about the relocation industry.

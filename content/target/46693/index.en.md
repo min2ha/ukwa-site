@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Horn Development Association (HDA Cardiff)
-
 Horn Development Association (HDA Cardiff) was established in 2006 to provide the BME community, particularly those from African and Caribbean backgrounds, with ehlp and support to improve employability and skills.

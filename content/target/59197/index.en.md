@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leith Rugby
-
 Site of a Scottish rugby union football club lased in Leith, Edinburgh, with close historical links to the Leith Academy.

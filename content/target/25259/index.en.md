@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Mirror Survation poll reveals Labour has opened FOUR-POINT lead over Conservatives
-
 None

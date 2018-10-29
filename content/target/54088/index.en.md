@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Richard Baum (Liberal Democrat  Politician)
-
 Richard Baum stood as Liberal Democrat candidate for Bury North in the 2017 General Election but was not elected.

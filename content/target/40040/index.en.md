@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# In Memorium of WW1
-
 The aim of this project is to research, photograph, catalogue and make available to the public information about local people in Hull who were involved in the First World War.

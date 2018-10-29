@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Wee Play Scotland: the referendum game changer
-
 None

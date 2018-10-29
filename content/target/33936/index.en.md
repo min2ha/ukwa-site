@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Howard Bowcott
-
 Howard Bowcott is a Welsh sculpturist and public artist and works on arts and regeneration projects throughout the UK and further afield. 

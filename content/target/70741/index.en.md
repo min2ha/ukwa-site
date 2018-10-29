@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hornets RFC on Pitchero
-
 The official website of Hornets RugbyFootball Club.

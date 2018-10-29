@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Leaders' debate: Cameron v Miliband - who emerged victorious from fierce Paxman grilling?
-
 None

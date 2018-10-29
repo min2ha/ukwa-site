@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# National Centre for Population Health & Wellbeing Research (NCPHWR) | Canolfan Genedlaethol ar gyfer Ymchwil Iechyd a Lles y Boblogaeth (NCPHWR) 
-
 National Centre for Population Health & Wellbeing Research (NCPHWR) aims to bring researchers, clinicians and policymakers together to carry out research which improves the health and wellbeing of the people of Wales.  It is funded by Health & Care Research Wales.

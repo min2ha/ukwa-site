@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# David Lewis - Welsh writer
-
 Dave Lewis is a writer and photographer based in Pontypridd. 

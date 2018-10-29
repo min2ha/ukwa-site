@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gareth Thomas (@gareththomaslab) on Twitter 
-
 Welsh Labour candidate Clwyd West 2015 and 2017 & its former MP.

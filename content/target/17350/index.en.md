@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour's mansion tax plans 'crude' warns Mandelson
-
 None

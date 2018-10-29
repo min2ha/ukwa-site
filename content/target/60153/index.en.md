@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# BritishRally.co.uk
-
 An online enthusiast community concerned with Rally Driving in the UK. Discusses rallying news, British stage rallying, road rallying and various other related topics.

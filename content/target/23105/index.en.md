@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Driver (Green Party candidate for South Thanet)
-
 Ian Driver Green Party Candidate South Thanet  and former Councillor Green Party Parliamentary Candidate for South Thanet at the 2015 General Election but was not elected.

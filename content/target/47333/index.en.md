@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Carluke Parish Historical Society
-
 Site of a local history society focused on the historical parish of Carluke, South Lanarkshire, Scotland.

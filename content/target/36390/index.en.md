@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Let us imagine a bright future and choose to take our country BACK from the EU
-

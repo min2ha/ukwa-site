@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Stephen Hawking's Speech On The NHS Is So, So Powerful
-
 Stephen Hawking gave the keynote speech on the NHS at the Royal College of Medicine last year - and it was a powerful reminder of what makes the NHS so good.

@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Environmental Research & Assessment
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Galloway and Southern Ayrshire Biosphere
-
 Site of a UNESCO biosphere reserve Galloway and Southern Ayrshire, promoting the preservation of wildlife, habitats and landscape, supporting a better understanding of nature and global issues, fostering a sustainable economy and society in the area.

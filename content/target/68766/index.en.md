@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# UK Endocrine Pathology Society (the UKEPS)
-
 The UKEPS meets twice yearly at various UK locations. It focuses primarily on endocrine histology, but also includes cytology in so far as it supports histology.

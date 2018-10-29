@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sheffield United Football Club
-
 Sheffield United Football Club is a professional association football club based in the city of Sheffield, South Yorkshire, England. 

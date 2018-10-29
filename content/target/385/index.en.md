@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kingston Health and Wellbeing Board
-
 None

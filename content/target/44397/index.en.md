@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Public Law for Everyone
-
 Public Law for Everyone features a combination of posts aimed at general readers, with the intention of explaining the real-world implications of public law, posts for students who are grappling with the subject, and more specialised posts that reflect the author's  research interests. There is extensive analysis of the legal implications of Brexit.

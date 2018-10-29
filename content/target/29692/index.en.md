@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Strokestown International Poetry Festival
-
 Festival

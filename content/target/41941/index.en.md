@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gravesham and Dartford Liberal Democrats
-
 Website of Gravesham and Dartford Liberal Democrats, providing information on events, how to get involved and party news.

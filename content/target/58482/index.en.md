@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Discovering Collections, Discovering Communities (DCDC) Conference
-
 This is the dedicated conference website for DCDC annual conference.

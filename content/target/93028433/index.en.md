@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Pascale Petit
-
 Pascale Petit is a poet born in Paris and who grew up in France and Wales. She has published seven poetry collections, Four shortlisted for the T.S. Eliot Prize.

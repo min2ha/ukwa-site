@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Brian Moore's Head
-
 None

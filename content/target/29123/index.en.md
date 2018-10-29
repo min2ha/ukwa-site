@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Deadline News: Forth Bridge celebrates 125th anniversary with RAF Spitfire flypast
-

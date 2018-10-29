@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Get Surrey: Drunk driver cited Magna Carta when refusing breath test
-

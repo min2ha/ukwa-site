@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: So now we know: these insufferable Eurocrats don't want a deal. They just want Brexit to fail.
-

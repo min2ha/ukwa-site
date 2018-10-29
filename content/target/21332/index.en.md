@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tanya Jones (Green Party candidate for Fermanagh and South Tyrone)
-

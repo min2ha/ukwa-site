@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WestoeRFC Family (@WestoeFamily) on Twitter
-
 Very much a family club, sons follow fathers on to the Wood Terrace turf. 

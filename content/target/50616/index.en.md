@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# AFFORD: African Foundation for Development
-
 AFFORD is a recognised organisation that works to expand and enhance the contribution Africans in the diaspora make to Africa's development.

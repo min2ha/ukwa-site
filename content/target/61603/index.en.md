@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU shadow-boxing towards Brexit
-
 Fissures in the EU armour are showing as we approach Brexit negotiations on the future EU-UK relationship. Working groups from the 27 EU countries meet regularly in Brussels to discuss different aspects of Brexit. They say they're finding it tough to agree a common position on future relations with the UK, as long as the British government remains opaque over its stance.
 
 

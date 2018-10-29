@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Edinburgh Adventist Church
-
 Site of a Seventh-day Adventist church located in Edinburgh.

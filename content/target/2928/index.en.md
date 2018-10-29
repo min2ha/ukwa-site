@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Missing People
-
 <p>Website of British charity that offers assistance to people who run away and go missing.</p>

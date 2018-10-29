@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cat Boyd (@kittycatboyd) on Twitter
-
 The twitter profile of Cat Boyd, RISE Alliance candidate for Glasgow.

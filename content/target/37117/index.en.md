@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# ABC: Brexit: Campaign to stay in EU gains momentum after referendum announcement
-

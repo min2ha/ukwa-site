@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Barmouth and Dyffryn United FC
-

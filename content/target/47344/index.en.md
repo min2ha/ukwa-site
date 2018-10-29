@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: So much for Mr Gloomy! The elite said Brexit would spell apocalypse. Yesterday, an upbeat Chancellor predicted growth for the next five years (pity about the terrifying debt)   
-

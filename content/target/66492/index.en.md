@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Department for Culture, Media and Sport (@dcms) on Twitter
-
 Culture, Media and Sport (DCMS). 

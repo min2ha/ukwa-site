@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emma Harper - Seeking to become the SNP candidate for Dumfriesshire, Cyldesdale and Tweeddale Constituency
-
 This is the website of Emma Harper, the Scottish National Party (SNP) candidate for Dumfriesshire, Clydesdale and Tweeddale in the UK General Election on the 7th May 2015.

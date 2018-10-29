@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Literature Alliance Scotland
-
 Site of a network of organisations, groups and individuals [writers, publishers, educators, librarians, literature organisations and national cultural bodies] with an interest in literature and languages.

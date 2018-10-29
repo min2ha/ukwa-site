@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Sun, The: TRADE TEMPER ‘Irate’ Michael Gove rips up PM’s customs plan as Brexit pressure grows
-
 Under the PM’s latest concession plans, Britain would stay aligned to all EU single market rules on goods, but not services. While most of the Brexiteer ministers were ready to reluctantly agree the move, there was a mounting row over how binding the alignment pledge should be. No 10 also wanted to offer a form of free movement for EU workers.
 
 

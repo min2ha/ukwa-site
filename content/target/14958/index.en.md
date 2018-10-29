@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Carmarthenshire Planning Problems
-

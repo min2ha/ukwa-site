@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Royal Court of Jersey
-
 This is an online resource which provides a dedicated overview of Jersey’s judicial system.

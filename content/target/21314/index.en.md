@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David Hawthorne on Facebook (Alliance Party candidate for Foyle)
-

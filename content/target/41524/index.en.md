@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit’s most prominent health expert has come out against Vote Leave’s NHS leaflet, and so should you
-

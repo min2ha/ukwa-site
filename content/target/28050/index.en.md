@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Glasgow International Comedy Festival
-
 Website for the Glasgow International Comedy Festival.

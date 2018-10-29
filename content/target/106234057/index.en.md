@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Dance Dome, The
-
 The Dance Dome is a unique collaboration between multimedia company 4π Productions, Coreo Cymru (Creative Dance Producer, Wales) & Chapter which promises to take the best of Welsh contemporary dance and present it to its audience in 360°. 

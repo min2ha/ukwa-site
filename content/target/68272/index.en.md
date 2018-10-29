@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Plockton Brewery, The
-
 Site of a brewer located at Plockton, Highland.

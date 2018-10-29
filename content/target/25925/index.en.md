@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Disgraced former Lib Dem MP Mike Hancock vows to run again
-
 None

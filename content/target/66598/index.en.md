@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Forsyths Limited
-
 The website of Forsyths Limited, a manufacturer of equipment for the oil and gas and alcoholic beverage industries. The company was founded in 1890 and is based in Rothes, Scotland.

@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Snowdonia and Snowdon Guided Walks - WALK ERYRI
-

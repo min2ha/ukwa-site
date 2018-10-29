@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU says Brexit transition to end by 31 December 2020
-
 Article discusses the EU's guidelines for phase 2 of the Brexit negotiations. It highlights the EU's insistence that the transitional phase in the UK's withdrawal must not last more than 21 months. The British government had asked for two years.

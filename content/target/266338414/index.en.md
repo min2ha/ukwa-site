@@ -10,5 +10,3 @@
   "start_date": "2014-10-16T00:00:00Z"
 }
 
-# South Wales Business Review | Cylchgrawn am Fyd Busnes
-

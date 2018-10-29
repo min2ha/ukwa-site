@@ -10,5 +10,3 @@
   "start_date": "2015-09-08T10:00:00Z"
 }
 
-# Storiau Rygbi | Rugby Stories
-

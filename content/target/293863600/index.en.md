@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Private Rented Housing Panel (PRHP)
-
 The Private Rented Housing Panel (PRHP) works to help Scottish tenants and landlords resolve their differences.

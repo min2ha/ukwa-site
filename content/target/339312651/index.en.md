@@ -10,6 +10,4 @@
   "start_date": "2015-10-14T10:00:00Z"
 }
 
-# Livingstone Online
-
 Livingstone Online contains a large digital collection of manuscript images related to the British exploreration of Africa.  By 2016, the site will offer thousands of high-resolution images of Livingstone’s manuscript pages, hundreds of detailed transcriptions, numerous large-scale color illustrations, and many critical essays that set out Livingstone’s life and times. 

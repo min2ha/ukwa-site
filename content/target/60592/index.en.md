@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  The Lords has the right to ask the Commons to reconsider Brexit
-

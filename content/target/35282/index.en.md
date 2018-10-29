@@ -11,7 +11,5 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Iain Whyte (@CllrWhyte) on Twitter
-
 The Twitter profile of Iain Whyte, Scottish Conservative and Unionist 
 candidate for Almond Valley in the 2016 Scottish Parliament election.

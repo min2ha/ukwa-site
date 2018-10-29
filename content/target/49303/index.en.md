@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Bank of England Museum (@boemuseum) on Twitter
-
 The official Twitter account of the Bank of England Museum.

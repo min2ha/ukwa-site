@@ -10,5 +10,3 @@
   "start_date": "2010-11-11T00:00:00Z"
 }
 
-# Ballet Cymru
-

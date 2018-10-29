@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UKIPScotland (ukipscotland) on Twitter
-
 <p>The twitter profile of UK Independence Party Scotland.</p>

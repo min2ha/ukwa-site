@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU exit 'would damage UK's special relationship with US' 
-
 Guardian, The

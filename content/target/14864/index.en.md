@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - Love Scotland, Vote No (Riya)
-
 Better Together video.

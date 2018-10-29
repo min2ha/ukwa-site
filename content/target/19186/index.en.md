@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent News: Magna Carta comes to Kent
-

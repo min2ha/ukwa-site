@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Dathlu Achub Llangyndeyrn a Gwendraeth Fach
-
 This is the history of the battle to flood the Gwendraeth Fach valley during the 1960s by Swansea Corporation for its water supply. The battle to save the valley was won and as a result the history has been largely forgotten. The site was established to coincide with events celebrating fifty years since saving the valley from flooding.

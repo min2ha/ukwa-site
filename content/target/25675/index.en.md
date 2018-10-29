@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Plucky Nick Clegg is as relaxed on the campaign trail as, er, Mary-Jane
-
 None

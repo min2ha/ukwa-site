@@ -10,5 +10,3 @@
   "start_date": "2009-11-13T00:00:00Z"
 }
 
-# Maria Hayes
-

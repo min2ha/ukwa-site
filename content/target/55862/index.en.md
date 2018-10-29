@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Ruth Cadbury (Labour  Politician)
-
 Ruth Cadbury stood as Labour candidate for Brentford and Isleworth at the 2017 General Election and was elected. She was first elected in 2015.

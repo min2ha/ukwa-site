@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Brendan's Old Boys RFC on Pitchero
-
 The official website of St Brendan's RugbyFootball Club.

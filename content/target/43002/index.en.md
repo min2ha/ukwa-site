@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Mental Health Matters Wales
-
 Mental Health Matters Wales is a charity which works with people who have a mental health related issue, other organisations services to promote mental well-being in Wales.

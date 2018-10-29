@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Reality Check: European Parliament's 'red lines' on Brexit
-
 The European Parliament overwhelmingly approved a non-binding resolution that lays out its views on the Brexit negotiations.  This report analyses its implications.

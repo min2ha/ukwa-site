@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Orchardhill Parish Church
-
 Website of Orchardhill Parish Church, located in the southside of Glasgow. 

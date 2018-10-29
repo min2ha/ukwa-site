@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Commissioner for Ethical Standards in Public Life in Scotland
-
 Commissioner for Ethical Standards in Public Life in Scotland investigates complaints about public standards and regulates public appointments.

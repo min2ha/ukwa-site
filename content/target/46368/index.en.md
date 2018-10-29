@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T11:00:00Z"
 }
 
-# Consortiwm Addysg ôl-16 Gwynedd ac Ynys Môn | Gwynedd and Anglesey Post-16 Education Consortium
-
 Gwynedd and Anglesey Post-16 Education Consortium is strategic transformation to establish Gwynedd and Anglesey as an area of excellence in post-16 learning by bringing 16 public service partners across the two counties. The project is funded by the European Social Fund.

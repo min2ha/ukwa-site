@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Musings of a young Londoner
-
 Musings of a young Londoner: Blog posts of young adults perspective, some articles relevent to UK-EU relations

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Pro-Brexit articles dominated newspaper referendum coverage, study shows
-

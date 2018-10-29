@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Shit London
-
 <p>A crowdsourced project which encourages Londoner's to send in snaps of the humorous and sometimes drab details of the city, capturing images which would otherwise be overlooked.</p>

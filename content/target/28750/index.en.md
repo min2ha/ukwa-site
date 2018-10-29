@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Friends of Seafield House: 125th Anniversary of Forth Bridge Opening
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# RightsInfo
-
 RightsInfo is a site which aims to explain human rights in non-technical terms to non-lawyers. It's a spin-off from the UK Human Rights blog.

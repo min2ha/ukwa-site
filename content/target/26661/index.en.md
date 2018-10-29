@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Record numbers of female and minority-ethnic MPs in new House of Commons
-
 None

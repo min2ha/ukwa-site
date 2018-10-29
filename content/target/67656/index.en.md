@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chipping Sodbury Rugby Club
-
 Chipping Sodbury Rugby Football Club was founded in 1949. 

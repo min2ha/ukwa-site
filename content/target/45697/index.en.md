@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Scottish Parliament: European and External Relations Committee - Parliamentary Business
-

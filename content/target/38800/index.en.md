@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Margot Clark (@glenarch) on Twitter
-
 Twitter profile of Margot Clark, the Scottish Liberal Democrat candidate for Glasgow Cathcart in the 2016 Scottish Parliamentary election.

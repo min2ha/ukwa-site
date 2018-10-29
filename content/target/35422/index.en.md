@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# The Irish Times: Remembering the 1916 Rising
-
 This is The Irish Times webpage dedicated to the centenary of the Easter Rising, 1916  

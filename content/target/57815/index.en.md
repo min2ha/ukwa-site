@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Deadlock over UK's Brexit bill, says EU's Michel Barnier
-
 At the end of the fifth round of Brexit negotiations in October 2017, Michel Barnier said there was deadlock over how much the UK would pay when it left the EU.

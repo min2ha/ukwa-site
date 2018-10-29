@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Migrants could pour into Britain for years as Government admits new post-Brexit controls will have to be 'phased in'    
-

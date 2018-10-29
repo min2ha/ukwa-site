@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Jeremy Hunt says UK will not stay in customs union
-
 Cabinet minister Jeremy Hunt told the BBC on February 23rd 2018 there was no possibility that the government would back remaining in a customs union after Brexit. The health secretary said the UK wanted "frictionless trade" but would "find a different way" to achieve that.

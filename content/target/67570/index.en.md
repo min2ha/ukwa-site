@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# University Mental Health Advisers Network (UMHAN)
-
 The University Mental Health Advisers Network is a national UK charity. We are a network of mental health specialists working in the Higher/Further Education sector. 

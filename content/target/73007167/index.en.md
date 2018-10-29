@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Trinity Laban Conservatoire of Music and Dance
-
 Trinity Laban Conservatoire of Music and Dance is the UK’s only conservatoire of music and contemporary dance based in London.

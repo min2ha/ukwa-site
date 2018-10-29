@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Laura Moodie (@Laura_Moodie) on Twitter
-
 Twitter profile of Laura Moodie, the Scottish Green list candidate for South Sctoalnd region in the 2016 Scottish Parliamentary election.

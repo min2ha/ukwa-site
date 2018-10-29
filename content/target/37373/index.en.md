@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British expats rush to register to have their say over Brexit
-
 An estimated five million Britons live abroad and they are all eager to have their say in the EU Referendum. British Nationals registering to vote online has nearly quadrupled sitting at 2,600 a day. It is possible that these votes will tip the scale of the now neck and neck race between staying in the EU and leaving it. 

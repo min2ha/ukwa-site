@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Monmouthshire Warriors
-
 Images of some persons from the villages and towns of Monmouthshire that went to war.

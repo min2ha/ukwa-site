@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Portsmouth News: Letter Of The Day
-
 Letter sent from a reader published online regarding the need to regulate online gambling and the affect it had on the authors brother and his mental health, resulting in him taking his own life

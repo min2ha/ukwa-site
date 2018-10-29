@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Bridgend Castle Players
-
 Bridgend Castle Players is an amateur drama group based in Bridgend,  established in 1945.

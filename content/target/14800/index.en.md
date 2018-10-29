@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# More Canals Than Venice
-
 <p>Birmingham-based hyperlocal arts and culture blog from 2009-2014</p>

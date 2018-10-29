@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Saltire Prize
-
 The £10 million Saltire Prize is set up to reward wave and tidal energy breakthroughs and is open to any individual, team or organisation from across the world.

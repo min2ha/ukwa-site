@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# The Northern Ireland Raptor Study Group 
-
 The Northern Ireland Raptor Study Group is an NGO made up of volunteers dedicated to the conservation of birds of prey & owls in Northern Ireland

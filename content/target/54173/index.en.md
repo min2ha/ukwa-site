@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Heather Peto (@heatherisone) on Twitter (Labour Party  Politician)
-
 Heather Peto stood as Labour Party candidate for Rutland and Melton in the 2017 General Election but was not elected.

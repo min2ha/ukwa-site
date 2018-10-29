@@ -10,6 +10,4 @@
   "start_date": "2017-08-25T09:00:00Z"
 }
 
-# Kirkcudbright Community Website
-
 Site for and by the people living in and around Kirkcudbright, providing local information, news and events.

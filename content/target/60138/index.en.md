@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffingtonpost: Social Media, Social Responsibility: Why Online Platforms And Government Must Work Together On Young People's Mental Health
-
 Blog post about the need for government and online platforms to work together on young people's mental health

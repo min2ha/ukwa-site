@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC: The people hoping to persuade UK to vote to stay in the EU
-
 Meet the men and women who have been given the job of persuading Britain to stay in the EU in 23 June's referendum.

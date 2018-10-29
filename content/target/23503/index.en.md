@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dan Rogerson on Facebook (Liberal Democrats Candidate for North Cornwall)
-
 Dan Rogerson stood as Liberal Democrats candidate for North Cornwall at the 2015 General Election but was not elected. 

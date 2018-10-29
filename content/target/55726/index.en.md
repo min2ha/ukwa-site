@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Parliamentary Office of Science and Technology: Supply of Medical Radioisotopes
-
 Radioisotopes are essential tools used in medicine and research. They are made outside the UK in ageing nuclear research reactors that are subject to planned and unexpected shutdowns, which increases the risk of shortages of isotopes. This POSTnote explores how these isotopes are made, what they are used for, and the challenges for the UK in ensuring the continuity of their supply in the short, medium and long-term, and the implications of the UK's exit from the EU.

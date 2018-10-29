@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hexham Liberal Democrats
-
 Website of Hexham Liberal Democrats, providing information on candidates and representatives, how to get involved and local and national news.

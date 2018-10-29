@@ -10,6 +10,4 @@
   "start_date": "2015-02-04T00:00:00Z"
 }
 
-# Royal Pharmaceutical Society, The
-
 <p>The Royal Pharmaceutical Society is the professional membership body for pharmacists and pharmacy in Great Britain.</p>

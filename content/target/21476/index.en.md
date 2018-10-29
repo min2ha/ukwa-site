@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Budget sketch: George Osborne had a budget box full of kitchen gags but little else 
-
 None

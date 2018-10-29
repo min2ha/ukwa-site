@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The Youngest Soldier, Sidney Lewis Video
-
 The Youngest Soldier, Sidney Lewis Video

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Nik Johnson on Facebook (Labour candidate for Huntingdon)
-
 None

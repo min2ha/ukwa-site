@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret RC Memorial Church
-
 Site of a Roman Catholic parish church in Scotland, located at Dunfermline, Fife.

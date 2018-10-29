@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Dylan Thomas and his Aunties
-
 Dylan Thomas and his aunties first appeared in Cambria, autumn 2011. It is written by David N. Thomas.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Dylan Thomas Guy, The
-
 The Dylan Thomas Guy is Jeff Towns who is one of the world’s leading Dylan Thomas experts and an antiquarian bookdealer based in Swansea.

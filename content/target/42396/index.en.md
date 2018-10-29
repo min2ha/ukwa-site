@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ivybridge
-
 A community and tourist resource site for Ivybridge, Devon.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Govan and Linthouse Parish Church
-
 Site of a Church of Scotland parish church at Govan, Glasgow.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Trystan Lewis on Facebook (Plaid Cymru candidate for Aberconwy)
-
 Trystan Lewis is the Plaid Cymru candidate for Aberconwy at the 2016 National Assembly Election. 

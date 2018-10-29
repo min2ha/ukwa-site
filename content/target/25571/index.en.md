@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Disenfranchisement and apathy: is this the election mood around the UK?
-
 None

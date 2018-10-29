@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Flintham WW1
-
 Explore the impact of the war on the village of Flintham 1910-1920.

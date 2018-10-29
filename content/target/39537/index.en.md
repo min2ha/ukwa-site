@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Wigan Warriors
-
 The official website of Wigan Warriors rugby league club. During the WWI commemoration period they received HLF funding for the project Warriors at War. This was in partnership with the Wigan Councils' Leisure and Culture Trust, the project aims to educate the youth of Wigan on the historical background of Wigan Rugby Club and its players during WW1.

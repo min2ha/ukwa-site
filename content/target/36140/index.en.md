@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU Referendum: British sovereignty and Europe - the full facts
-

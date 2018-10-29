@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Gordon Brown warns David Cameron he is in danger of blowing UK apart
-
 None

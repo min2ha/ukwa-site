@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Royal Yacht Britannia rules the waves once again for Queen's birthday parade
-
 A giant model of the yacht - which carried the Royal Family on 968 official voyages during her years of service - is to be the centrepiece of a carnival parade in London.

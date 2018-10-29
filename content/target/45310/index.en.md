@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# British Art Show 8
-
 The British Art Show is a touring exhibition that provides a vital overview of the most exciting contemporary art produced in this country. This year, it tours the work of over 40 artists to four cities across the UK.

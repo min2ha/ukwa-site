@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Foundation of European Nurses in Diabetes (FEND)
-
 FEND was established in 1995 and has established a unique voice for nurses working in the field of diabetes care, research and education in Europe. 

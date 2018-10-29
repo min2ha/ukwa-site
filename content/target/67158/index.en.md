@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Mary's OB RFC (@SMOBRUGBY) on Twitter
-
 The official Twitter account of St Marys Old Boys Rugby Footbal Club.

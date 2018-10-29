@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Helen grove-White
-
 Environmental artist and teacher of residential Land Art courses living in Anglesey.

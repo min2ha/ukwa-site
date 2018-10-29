@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband criticised over aide's comparison of tax row to Milly Dowler case
-
 None

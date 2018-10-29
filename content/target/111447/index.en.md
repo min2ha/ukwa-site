@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Humanist Association (BHA)
-
 None

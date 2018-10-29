@@ -10,6 +10,4 @@
   "start_date": "2017-06-24T09:00:00Z"
 }
 
-# Cynefin (Mapiau Degwm Cymru, Tithe Maps of Wales)
-
 Cynefin is a National Library of Wales project to digitise and transcribe the tithe maps of Wales.

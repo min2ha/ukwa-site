@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Yorkmix: Magic! Harry Potter shop opens on the real Diagon Alley – Shambles in York
-

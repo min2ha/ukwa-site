@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Rochester Literature Festival
-
 The Rochester Literature Festival is a voluntary, community and non-profit making organisation run by writers for readers, writers.

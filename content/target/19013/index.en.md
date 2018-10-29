@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Faversham's Magna Carta found to be an original – worth £20 million
-

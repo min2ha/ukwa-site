@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Cinegirl
-
 Cinegirl aims at being the leading independent voice, inspiring upcoming female filmmakers across all departments within the film & TV industry.

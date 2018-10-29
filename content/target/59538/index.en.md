@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Newsbeat: How online NHS therapy helped me with my post-natal depression
-
 News article about the growth in online therapy offered by the NHS and the case of Katie Goodwin whom used online therapy to help with post-natal depression

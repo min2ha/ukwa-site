@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Mòd Ionadail Dhùn Èideann / Edinburgh Local Mòd on Facebook
-
 Facebook page of a local Mòd, festival of Gaelic music and language events, based in Edinburgh. In English and Gaelic.

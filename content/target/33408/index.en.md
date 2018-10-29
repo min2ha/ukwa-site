@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# Evan Ifekoya
-
 Website of a London artist Evan Ifekoya.

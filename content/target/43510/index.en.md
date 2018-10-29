@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Barker Illustration: EU Brexit or Stay Negotiations Cartoon
-
 David Cameron, Angela Merkel, Francois Hollande UK EU membership renegotiation cartoon

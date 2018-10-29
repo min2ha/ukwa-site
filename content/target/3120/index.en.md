@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Police Scotland
-
 Police Scotland was formally established on 1 April 2013 and is responsible for policing across Scotland. Police Scotland is the second largest force in the UK after the Metropolitan Police.  

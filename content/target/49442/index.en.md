@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Oxford Baptist Chapel
-
 Oxford Baptist Chapel is a Baptist church near the centre of Oxford made up of separatist Baptists.

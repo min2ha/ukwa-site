@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Methodist Church - Leeds District
-
 None

@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Chronicle Series - News from Congleton, Biddulph, Alsager, Sandbach
-

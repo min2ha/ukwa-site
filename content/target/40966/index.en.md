@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Foggieloan
-
 Site of a community association based in Achterarder Perth & Kinross, Scotland.

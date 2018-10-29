@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wilderness Festival
-
 Festival inspired by and passionate about nature and the wild

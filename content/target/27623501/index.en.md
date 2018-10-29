@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Let Them Return
-
 A campaign website to let the people of Chagos who were expelled in the 1960's to return to the island.

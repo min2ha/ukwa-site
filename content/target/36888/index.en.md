@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Let Down Wales Manifesto
-
 Manifesto from Let Down in Wales, the campaign for private rented sector reform in Wales.

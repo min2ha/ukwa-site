@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Finlaggan : the centre of the Lordship of the Isles
-
 Site of an organisation focussing on the local and family history and archaeology of Finlaggan, Islay, Argyll & Bute

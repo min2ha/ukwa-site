@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dr. Brendan D'Cruz (@brendandcruz) on Twitter (Liberal Democrats candidate for Blaenau Gwent) 
-
 Dr. Brendan D'Cruz  is the Liberal Democrat candidate for Blaenau Gwent  at the 2016 National Assembly Elections. 

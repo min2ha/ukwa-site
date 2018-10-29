@@ -10,5 +10,3 @@
   "start_date": "2010-07-20T00:00:00Z"
 }
 
-# Ffair Fwyd Llanbedr Pont Steffan - Lampeter Food Festival
-

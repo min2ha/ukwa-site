@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Angela Constance (AConstanceMSP) on Twitter
-
 The twitter profile of Angela Constance, Scottish National Party Member of the Scottish Parliament for Almond Valley.

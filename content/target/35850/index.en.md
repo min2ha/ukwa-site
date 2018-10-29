@@ -10,6 +10,4 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-# Nepal International Art Project (NIAP)
-
 The NIAP also seeks to help with clarification that Nepali art is distinct in its own right, and not simply ‘Indian art’.

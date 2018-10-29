@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Scottish Local History Forum
-
 Site dedicated to the stimulation and encouragement of interest in local history and heritage in Scotland, and the advancement of and education in Scottish local history.

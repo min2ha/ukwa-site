@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Claire Leigh (Labour candidate for Tonbridge and Malling)
-

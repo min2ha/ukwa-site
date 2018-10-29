@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# London Mexico Solidarity 
-
  
 
 London Mexico Solidarity  

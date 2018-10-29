@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Federation of Master Builders: Programme for government
-
 The Federation of Master Builders asks the next government to: ensure the construction industry has enough skilled workers; increase the supply of new homes; improve quality; enhance energy efficiency; and boost growth among construction SMEs.

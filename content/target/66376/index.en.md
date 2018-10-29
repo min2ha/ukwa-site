@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Skyscanner Limited
-
 Skyscanner Limited is a travel metasearch engine and travel fare aggregator website based in Edinburgh, Scotland. The site offers online price comparison and booking services for flights, hotels and car hire. 

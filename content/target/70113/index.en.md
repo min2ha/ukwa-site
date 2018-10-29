@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Viva! Vegan Festivals
-
 Inspiring people with the positive benefits of being vegan

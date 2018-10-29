@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# The Edrington Group
-
 The Edrington Group is an international spirits company based in Scotland. It produces Scotch whisky blended malts, including The Famous Grouse and Cutty Sark, and single malts The Macallan, Highland Park and The Glenrothes.

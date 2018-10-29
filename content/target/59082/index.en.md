@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Committee of Public Accounts: Brexit and the future of customs
-
 Under current plans, the UK is set to leave the European single market and the customs union in March 2019. It would be catastrophic if HM Revenue & Customs' new customs system, the Customs Declaration Service, is not ready in time and if there is no viable fall-back option

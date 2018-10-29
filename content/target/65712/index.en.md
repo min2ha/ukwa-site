@@ -10,7 +10,5 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Simon O’Rourke, Tree Carving
-
 "Simon O'Rourke is a wood sculptor based at Rossett,
 Wrexham."

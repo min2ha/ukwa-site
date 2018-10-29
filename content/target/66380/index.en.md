@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Scottish Leather Group Limited
-
 Scottish Leather Group Limited is the UK's largest manufacturer of leather, and is involved in tanning and finishing leather for various industries, such as automotive, furniture, marine, aviation, shoe, and leather goods. The company was founded in 1965 and is based in Paisley, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 The Irish Rebellion 
-
 This website outlines the programme of events and activities being undertaken by the Keough-Naughton Institute for Irish Studies at the University Notre Dame as part of the centenary of the Easter Rising, 1916. 

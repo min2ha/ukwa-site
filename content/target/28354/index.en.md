@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Gurkha Brigade Association
-
 The Gurkha Brigade Association represents all the Regimental Associations of Britain’s Brigade of Gurkhas, both past and present, and all ranks, both serving and retired. Their role is to foster comradeship and welfare, to preserve the heritage and history of the Brigade of Gurkhas, and to sponsor and support Association or Brigade events.

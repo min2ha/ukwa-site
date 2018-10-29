@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tommy Seymour (tommy_seymour14) on Twitter
-
 <p>The twitter profile of Tommy Seymour, rugby player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Foyle Maritime Festival 2018
-
 Website for the Foyle Maritime Festival 2018.

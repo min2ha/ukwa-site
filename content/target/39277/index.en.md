@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Rushmoor Remembers: Aldershot and Farnborough in World War One
-
 Project to present the story of Aldershot and Farnborough’s massive contributions to the First World War and the impact of the war on the local communities.

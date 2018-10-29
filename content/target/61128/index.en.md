@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# #HomeToVote
-
 A website set up by the London Irish Abortion Rights Campaign (LIARC) in February 2018 to give Irish people at home and abroad information about their rights to vote in the referendum announced in January 2018 by the then Health Minister, Minister for Children and Youth Affairs and the Taoiseach. 

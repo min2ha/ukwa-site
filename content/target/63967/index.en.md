@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Kirkintilloch Hillhead Parish Church
-

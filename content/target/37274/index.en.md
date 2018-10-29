@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU referendum: voters split over whether to trust Cameron or Johnson
-
 Guardian, The: EU referendum: voters split over whether to trust Cameron or Johnson

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gerald Francis (@geraldlfrancis) on Twitter 
-
 Gerald Francis is the Liberal Democrat candidate for Ogmore at the 2017 General Election.

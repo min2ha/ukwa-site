@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Meridian Lodge Swansea
-
 Meridian Lodge No. 9603 was consecrated in 1996 and and meet in the Swansea Masonic Hall. 

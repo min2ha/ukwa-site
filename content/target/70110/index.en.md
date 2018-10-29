@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Truck Festival
-
 Website for the Truck Festival.

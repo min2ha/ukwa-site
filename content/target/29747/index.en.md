@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# theSpaceUK
-
 theSpaceUK is a long-running Edinburgh Fringe venue which presents over 300 shows from 7 venues.

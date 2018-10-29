@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# History Today: Ireland: Easter Rising or Great War?
-

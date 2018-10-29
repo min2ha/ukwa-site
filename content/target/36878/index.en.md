@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Four problems with the Sun’s 'Queen Backs Brexit' front page
-

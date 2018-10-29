@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Visit Scotland : Argyll & the Isles Blog
-
 Blog site within the Visit Scotland website providing more detailed commentary on tourist information for Argyll and the Western Isles / Hebrides.

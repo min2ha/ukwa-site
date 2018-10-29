@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Three: I tried to fix my mental health on the internet
-
 BBC Three Minds Matter article on mental health and internet

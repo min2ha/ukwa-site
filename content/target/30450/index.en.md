@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Internet Librarian International
-
 Website of an international conference focusing on the technological innovation in libraries.

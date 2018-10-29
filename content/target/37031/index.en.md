@@ -10,6 +10,4 @@
   "start_date": "2016-03-14T09:00:00Z"
 }
 
-# Public Art Scotland (archive)
-
 Archive site for Public Art Scotland containing archive pages (2007-2012)

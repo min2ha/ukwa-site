@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Iain Macwhirter: writer and broadcaster
-
 Website of of Iain MacWhirter, political commentator for the Herald and Sunday Herald.

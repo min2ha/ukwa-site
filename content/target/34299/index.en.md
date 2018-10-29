@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Keith Davies (Labour Assembly Member for Llanelli)
-
 Keith Davies is the Labour Assembly Member for Llanelli. He is retiring at the 2016 National Assembly Elections.

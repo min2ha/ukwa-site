@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# National Assembly for Wales: Latest updates about leaving the European Union (Brexit)
-

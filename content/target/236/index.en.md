@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wye Valley NHS Trust
-
 None

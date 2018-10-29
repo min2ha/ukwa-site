@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Dan Jones (@dgjones) on Twitter
-
 Twitter account of historian Dan Jones, author of 'The Making and Legacy of the Great Charter'.

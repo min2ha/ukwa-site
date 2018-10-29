@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Liverpool Collegiate RUFC on Pitchero
-
 The official website of of Liverpool Collegiate Rugby Football Club. A community rugby club based in Liverpool with 4 senior teams and a thriving junior section.

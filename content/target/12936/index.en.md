@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Keep Britain Tidy
-
 The work of the charity focuses on four crucial and inter-related long term aims: eliminating litter; improving local places; inspiring and educating the next generation; ending waste.

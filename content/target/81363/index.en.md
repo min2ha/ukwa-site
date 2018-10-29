@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: NO DEAL FEAR German and Spanish businesses warn that a No Deal would cause a ‘massive crisis’ across Europe
-
 Panicked German and Spanish businesses heaped pressure on Brussels to compromise after warning a no deal Brexit would spark a “massive crisis” across Europe. Industry chiefs in Berlin and Madrid called for a breakthrough within two weeks as capitals got the jitters over the economic impact of a crash out. 

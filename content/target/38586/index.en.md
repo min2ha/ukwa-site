@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kirstene Hair (@Kirstene4Angus) on Twitter
-
 Twitter profile of Kirstene Hair, Scottish Conservative and Unionist Party candidate for Angus in the 2017 general election.

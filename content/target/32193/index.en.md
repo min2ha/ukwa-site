@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Garden Wildlife Health (GWH)
-
 The Garden Wildlife Health (GWH) is a collaborative project between the Zoological Society of London (ZSL), the British Trust for Ornithology (BTO), Froglife and the Royal Society for the Protection of Birds (RSPB), that aims to monitor the health of, and identify disease threats to, British wildlife.

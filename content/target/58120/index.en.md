@@ -10,6 +10,4 @@
   "start_date": "2017-10-27T09:00:00Z"
 }
 
-# Network Rail Media Centre
-
 Network Rail's latest press releases, images and videos for broadcast and publication.

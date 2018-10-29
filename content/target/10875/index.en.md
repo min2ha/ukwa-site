@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: The Tour de France 2014
-
 <p>TdF newspaper reports from the sports pages of the Telegraph</p>

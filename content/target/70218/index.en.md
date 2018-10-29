@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Newington Football Club
-
 The official website of Newington Football Club. 
 Newington FC is an Irish League football club from Belfast, Ireland.

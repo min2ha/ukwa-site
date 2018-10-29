@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Wine and Spirit Trade Association (WSTA): Brexit: the road ahead for the wine and spirit industry 
-
 WSTA will support an exit from the EU that minimises disruption to historic trade flows into and out of the EU; and  seek to exploit fully the new opportunities Brexit presents.

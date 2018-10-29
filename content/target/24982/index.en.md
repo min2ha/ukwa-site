@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour lost the election 5 years ago and here's why
-
 None

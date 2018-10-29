@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# UktoStay in the EU (@uktostayeu) on Twitter
-

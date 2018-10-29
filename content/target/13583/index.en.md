@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# The Week: Scottish independence
-
 <p>News and analysis from the website of The Week magazine.</p>

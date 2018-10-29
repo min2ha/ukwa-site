@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Acharacle and Ardnamurchan Parish Churches
-
 Site of two Church of Scotland parish churches at Acharacle and Ardnamurchan, Highlands.

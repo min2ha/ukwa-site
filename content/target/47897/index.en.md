@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Virtual Manuscript Room, The 
-
 This site is the first phase of The Virtual Manuscript Room (VMR) project. In this phase, we present full digitized manuscripts from The Mingana Collection of Middle Eastern Manuscripts held at Special Collections in the University of Birmingham. As well as high-resolution images of each page, the VMR provides descriptions from the printed catalogue and from Special Collections' own records.

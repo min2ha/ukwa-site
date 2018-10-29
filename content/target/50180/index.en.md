@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Our Scottish Borders
-
 Site of a cross-sectorial partnership in the Scottish Borders established to create joint approaches to community planning and providing a framework for putting people, communities, businesses and the environment at the heart of planning.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Tynron Parish
-
 Community website for the village of Tynron, Dumfies & Galloway, and its community council, providing information about the village for visitors and residents.

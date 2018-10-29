@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May CAVES IN to David Davis by adding December 2021 'end date' to her Brexit compromise plan for keeping soft Irish border after he threatens to quit
-

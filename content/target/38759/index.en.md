@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angela McGinley (@McGinley4West) on Twitter
-
 Twitter profile of Angela McGinley, the Scottish Labour list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

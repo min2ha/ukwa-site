@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Welshpool Churches Together | Eglwysi'r Trallwng Ynghyd
-

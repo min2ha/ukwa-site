@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Priesthill and Nitshill Parish Church
-

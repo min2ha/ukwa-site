@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Llanelli Free Evangelical Church
-

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: PETER HITCHENS: We smugly boast of Magna Carta... while all it stands for is being trampled
-

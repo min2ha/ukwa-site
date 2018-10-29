@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Julian Harrison (@julianpharrison) on Twitter
-
 Twitter account of Julian Harrison, Curator of Historical Manuscripts at the British Library, who co-organised the exhibition 'Magna Carta: Law, Liberty, Legacy'.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Miller Homes Limited
-
 Miller Homes is a housebuilder based in the United Kingdom. It was founded in 1934, as part of the previous Miller Group. 

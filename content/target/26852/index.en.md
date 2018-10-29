@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# University of East Anglia
-
 Official website of the University of East Anglia.

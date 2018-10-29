@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Anita Chowdry
-
 Anita Chowdrya is a polymath artist. She works in two and three dimensions using a variety of media and techniques, including metalwork, printmaking, drawing, paper engineering and surface design.

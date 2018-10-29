@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# LGBT+ Youth Pembrokeshire
-
  

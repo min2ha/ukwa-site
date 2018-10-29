@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Adrenalin Addicts Outdoor Adventures 
-
 Looking for an Adventure, we offer everything from the extremes of Canyoning to the dizzying heights of Rock Climbing join us at Adrenalin Addicts in Noth Wales.

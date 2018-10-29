@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alex Stewart-Clark on Facebook
-
 This is the Facebook page of Alex Stewart-Clark, the Conservative Party candidate for Glenrothes in the UK General Election on the 7th May 2015.

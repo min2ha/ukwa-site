@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU figures demand Jeremy Hunt apologise for Soviet comparison
-
 Senior Europeans called on Foreign Secretary Jeremy Hunt to apologise for likening the EU to the Soviet Union. Mr Hunt's comment, during his 2018 Tory conference speech, was about efforts to stop members leaving the bloc.
 
 

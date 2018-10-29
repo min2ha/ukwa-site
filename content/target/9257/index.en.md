@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kristan Bromley Bob Skeleton Athlete
-
 None

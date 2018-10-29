@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Endangered Archives Blog
-
 This blog will be used to share some of the interesting and amazing records copied under the Endangered Archives Programme. It presents some aspects of how the programme works, and give insights into the challenges of cataloguing, preserving and making available such a vast array of records, manuscripts, audio, audio-video and image material -  all in digital or microfilm format. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: New 'Help to Buy' Isas for first time buyers unveiled in Budget
-
 None

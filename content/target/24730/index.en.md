@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Daniel Lambert (The Socialist Party of Great Britain candidate for Vauxhall)
-

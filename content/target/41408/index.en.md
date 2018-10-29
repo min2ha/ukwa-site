@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Wales Violence Against Women Action Group
-
 The Wales Violence Against Women Action Group is a coalition of organisations established to tackle violence against women in Wales.

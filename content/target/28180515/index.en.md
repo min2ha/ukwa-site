@@ -10,5 +10,3 @@
   "start_date": "2009-04-09T00:00:00Z"
 }
 
-# Cymunedau @Ei Gilydd - Communities @One
-

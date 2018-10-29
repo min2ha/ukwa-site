@@ -11,5 +11,3 @@
   "subject": "Food Archive"
 }
 
-# The North Leeds Food Festival
-

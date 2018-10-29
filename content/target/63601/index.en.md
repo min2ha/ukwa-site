@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Silicon : Stephen Hawing
-
 Tag related to Stephen Hawing

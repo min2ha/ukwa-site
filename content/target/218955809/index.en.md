@@ -10,5 +10,3 @@
   "start_date": "2014-01-30T00:00:00Z"
 }
 
-# Rydal Penrhos Society
-

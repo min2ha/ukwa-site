@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guaridan, The: 100 days until the general election: do you know who you will vote for?
-
 None

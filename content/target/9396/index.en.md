@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kelly Gallagher Visually impaired ski racer: Twitter
-

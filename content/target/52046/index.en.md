@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary’s, Maidenhead
-
 St. Mary’s, Maidenhead is a thriving and growing church community in the heart of Maidenhead.

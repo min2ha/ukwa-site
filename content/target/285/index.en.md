@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Leicester City CCG
-
 None

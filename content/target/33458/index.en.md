@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cered : Menter Iaith Ceredigion
-
 Cered is a body that promotes the Welsh language in Ceredigion.

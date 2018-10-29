@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How old is David Cameron? We answer the most Googled queries about the party leaders
-
 None

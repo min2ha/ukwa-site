@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Woodland Dedication
-
 Founded in 1972, the Woodland Trust is the UK's leading woodland conservation charity. 

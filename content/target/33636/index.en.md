@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Catholic Herald: Irish bishops call for ‘radical culture of peace’ as country prepares to mark Easter Rising centenary'
-
 Article on Irish bishops response to the Easter Rising centenary

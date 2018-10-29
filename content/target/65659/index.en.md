@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# City Facilities Management Holdings Limited
-
 City Facilities Management Holdings Limited is a facilities management and building maintenance company: it was first established in 1985 as City Refrigeration.

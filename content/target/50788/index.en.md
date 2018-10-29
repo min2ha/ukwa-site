@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Nicola Sturgeon and Theresa May hurtle through the looking glass
-

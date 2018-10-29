@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP planning to kill off Snoopers' Charter 
-
 None

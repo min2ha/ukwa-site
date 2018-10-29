@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# UK Youth
-
 UK Youth is a national charity working with young people, aged 11-25. They run a network of youth clubs and organisations across the country and a range of programmes that enable young people to grow into confident and capable adults.

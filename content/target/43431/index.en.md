@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Owen Jones on Facebook
-
 Journalist, Owen Jones's Facebook page (Author of 'The Establishment' and 'Chavs', Socialist, Guardian columnist)

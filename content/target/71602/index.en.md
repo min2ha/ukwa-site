@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# John Akomfrah- Mimesis: African Soldier
-
 John Akomfrah’s new multimedia installation remembers the millions of Africans who fought as soldiers or served as porters during the First World War.

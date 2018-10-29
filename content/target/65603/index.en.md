@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# ASAP
-
 We protect asylum seekers’ legal rights to food and shelter

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Pat Lee on Facebook
-
 Facebook prrofile of Pat Lee, Solidarity list candidate for Central Scotland region in the 2016 Scottish Parliamentary election.

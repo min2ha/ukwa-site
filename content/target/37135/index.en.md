@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Metro: We finally know the date of the EU referendum
-
 Metro: We finally know the date of the EU referendum

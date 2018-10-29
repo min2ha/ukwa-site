@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Pineapster
-
 Pineapster was an online music community created by Cuttlefish Multimedia that was active from 2001 until around 2012. Although open to all East Midlands bands, it was particularly popular in Leicester and for many years was effectively the Internet home of the Leicester music scene.

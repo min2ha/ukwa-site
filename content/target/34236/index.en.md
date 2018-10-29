@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Lion Street Gallery
-
 Lion Street Gallery is located in Hay-on-Wye.

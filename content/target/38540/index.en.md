@@ -10,6 +10,4 @@
   "start_date": "2016-04-11T10:00:00Z"
 }
 
-# Herald Radio
-
 Herald Radio is a radio station for the Pembrokeshire, Ceredigion and Carmarthenshire counties.

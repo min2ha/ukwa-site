@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Stuart Tuckwood (@StuartTuckwood) on Twitter (Green Party Politician)
-
 Green MP Candidate for Cambridge City. NHS Charge Nurse. UNISON Steward.

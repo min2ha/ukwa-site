@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T05:00:00Z"
 }
 
-# Edinburgh Makar
-
 The Edinburgh Makar is a literary ambassador for Edinburgh. The post is a civic appointment made by Edinburgh Museums and Galleries, Scottish Poetry Library, City of Literature Trust, The Saltire Society and Scottish PEN.

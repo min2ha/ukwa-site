@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee: The progress of the UK's negotiations on EU withdrawal (March to May 2018)
-
 On customs arrangements and trade, the Report says that it is "highly unsatisfactory" that nearly two years after the referendum, Ministers have yet to agree, and set out in detail, what kind of trading and customs arrangements they wish to seek in negotiations with the European Union. The government may be forced to stay in the EU's customs union beyond 2020 if if cannot agree new arrangements.

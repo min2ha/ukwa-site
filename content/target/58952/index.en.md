@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Masjid-e-Khazra
-
 Site of an Islamic place of worship (mosque) located in Glasgow.

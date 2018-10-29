@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK and EU fail to strike Brexit talks deal
-
 The Prime Minister announced on December 4th that the UK and EU had failed to reach an agreement to move to the next stage of Brexit talks. The prime minister said talks would reconvene "before the end of the week" and she was "confident we will conclude this positively. The talks broke down after the DUP refused to accept concessions on the Irish border issue.

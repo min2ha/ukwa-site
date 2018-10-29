@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cambridge Politics Podcast, The: The UK decides: it's Brexit!
-
 Podcast discussing the EU Referendum, the morning after the results.

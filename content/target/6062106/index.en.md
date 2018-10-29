@@ -11,6 +11,4 @@
   "subject": "Free e-Journals"
 }
 
-# British Geriatrics Society Online Newsletter
-
 None

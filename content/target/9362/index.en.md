@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Wings Over Scotland
-
 A blog on Scottish politics and media, edited and maintained by the Rev Stuart Campbell. It is pro-independence but not aligned to any political party.

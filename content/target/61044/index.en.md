@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Murrayfield Wanderers Football Club
-
 Site of a Scottish rugby union football club based in Roseburn and Murrayfield, Edinburgh.

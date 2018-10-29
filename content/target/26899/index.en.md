@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# British Society of Prosthodontics (BSSPD), The
-
 The British Society of Prosthodontics (BSSPD) is a specialist dental society in the UK and was founded in 1953. Membership is open to dentists, doctors, scientists and other dental care professionals who profess an interest in prosthodontics. 

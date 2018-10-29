@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# digiDo (@digi_Do) on Twitter 
-
 This is the twitter feed of DigiDo (Digital Content for Business) project at the National Library of Wales which came to an end in 2015.

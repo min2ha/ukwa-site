@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Young Labour Women (@YoungLabWomen) on Twitter
-
 The Twitter for women in @YoungLabourUK, to promote the voices of our diverse women membership and share news! 

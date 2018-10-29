@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Bedfordshire Police Authority
-
 None

@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Alchemiya
-
 Alchemiya is a video platform that presents the world's best content about Muslim life.

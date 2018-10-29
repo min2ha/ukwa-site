@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour 'planning a tax raid on pensions to pay for cut in university fees'
-
 None

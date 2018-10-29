@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# National Association for Teaching English and Community Languages to Adults (NATECLA)
-
 None

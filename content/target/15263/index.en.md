@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St Neots News
-
 None

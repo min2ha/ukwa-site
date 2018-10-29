@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Bury St Edmunds secures Magna Carta loan
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cornwall Conservatives
-
 Website for Conservatives in Cornwall, providing information on Conservative MPs in Cornwall, local news and national news and events.

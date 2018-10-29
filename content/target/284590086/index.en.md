@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Go Fishguard and Goodwick
-
 <p>This is a tourist information guide to Fishguard and Goodwick in Pembrokeshire.</p>

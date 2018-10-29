@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# RETHINK big
-
 The objective of the RETHINK big Project is to bring together the key European hardware, networking, and system architects with the key producers and consumers of Big Data to identify the industry coordination points that will maximize European competitiveness in the processing and analysis of Big Data over the next 10 years.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Vote Leave donations: the dark ads, the mystery ‘letter’ – and Brexit’s online guru
-

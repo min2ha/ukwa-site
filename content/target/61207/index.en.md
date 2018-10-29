@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Howick Hall Gardens
-
 Visit Howick Hall to wonder through beautiful gardens, explore secluded woodlands and enjoy a cup of Earl Grey in the Earls ancestral home of Howick Hall.

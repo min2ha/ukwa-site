@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# iNeed: Supporting people seeking refugee
-
 iNeed is a refugee action group based in Monmouth, Wales. 

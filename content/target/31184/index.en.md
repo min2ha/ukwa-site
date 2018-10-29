@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cill Chuimein Heritage Group 
-

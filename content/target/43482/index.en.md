@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Green Building Council: EU Referendum: Environmental & climate change consequences for the built environment
-
 Artical concering the implications of the EU referendum on climate change and the built environment 

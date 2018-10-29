@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Wigley's 'gaffe', Healey's law and shooting messengers
-

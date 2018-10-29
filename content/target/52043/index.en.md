@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Brexit will be disastrous for women unless we fight the rollback of our rights
-

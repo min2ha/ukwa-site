@@ -10,6 +10,4 @@
   "start_date": "2015-04-03T08:00:00Z"
 }
 
-# London Health Commission
-
 The London Health Commission is an independent inquiry established in September 2013 by the Mayor of London. The Commission, chaired by Professor the Lord Darzi, examined how London’s health and healthcare can be improved for the benefit of the population.

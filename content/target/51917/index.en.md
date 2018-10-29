@@ -10,6 +10,4 @@
   "start_date": "2017-04-11T09:00:00Z"
 }
 
-# Still Point Journal, The
-
 The Still Point Journal is a literary journal for Arts and Humanities researchers in London, established in 2014. The Still Point aims to be a forum for dialogue, collaboration and experimentation, and offers a space for creatively writing through ideas in original forms.

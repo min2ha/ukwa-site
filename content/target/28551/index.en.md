@@ -10,6 +10,4 @@
   "start_date": "2015-06-29T10:00:00Z"
 }
 
-# Digital Angus (with images, tweets) · MarCommsKenny · Storify
-
 A Storify of #DigitalAngus, a social media training event jointly hosted by Angus Council and the digital media agency Third Sector Lab on 25 January 2014.

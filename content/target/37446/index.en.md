@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The EU referendum curse: May you live in interesting times
-
 Website for The Herald Scotland newspaper

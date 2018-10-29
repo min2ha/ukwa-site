@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: London CPD Forum
-

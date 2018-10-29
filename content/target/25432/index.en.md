@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'It’s good to have a bit of drama’: Ealing focus group respond to leaders’ debate - video
-
 None

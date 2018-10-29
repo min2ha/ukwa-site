@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Penarth Dock
-
 <p>June 2015 will see 150 years since the opening ceremony of the Penarth Dock. The owner of the website records the family recollections and experiences of living nearby and working at the docks.</p>

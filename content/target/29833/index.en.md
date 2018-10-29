@@ -10,6 +10,4 @@
   "start_date": "2015-08-17T10:00:00Z"
 }
 
-# Laughing Horse (@lhcomedy) on Twitter
-
 Twitter profile of Laughing Horse Comedy Clubs, a UK-wide chain of comedy clubs and a venue for the Free Fringe at the Edinburgh Festival.

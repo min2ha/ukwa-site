@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Neath Male Choir
-
 The choir was founded in 1978 as Melyncryddan Male Choir and subsequently renamed Neath Male Choir in 1999.

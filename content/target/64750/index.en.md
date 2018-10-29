@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Robertson’s Lodge No. 134
-
 Site of a masonic lodge located in Cromarty, Highland and affiliated with the Grand Lodge of Scotland.

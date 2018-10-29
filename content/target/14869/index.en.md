@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - Mobile Uploads
-
 Better Together post a photograph of the "No Thanks" logo projected onto Castle Rock in Edinburgh, 10.23pm 17th September, 2014.

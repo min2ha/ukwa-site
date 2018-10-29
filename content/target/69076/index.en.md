@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# ACS Risk
-
 The ACS Risk Group specialises as in Asbestos, Health & Safety, Welfare, Environmental and Waste Management consultancy and training. 

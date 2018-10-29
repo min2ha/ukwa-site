@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Inner Wheel District 18
-
 Inner Wheel is an international organisation closely linked to Rotary and is one of the largest women's voluntary service organisations in the world. District 18 covers Wirral and north Wales.

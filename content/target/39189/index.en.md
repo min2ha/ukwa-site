@@ -10,5 +10,3 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Jil Murphy SNP Holyrood 2016 on Facebook
-

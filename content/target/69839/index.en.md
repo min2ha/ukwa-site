@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# David Jones Artist
-
 David Jones is an artist with a studio in Beaumaris, Anglesey. He is also a Senior Lecturer at Central Saint Martins, London.

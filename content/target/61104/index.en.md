@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of Annandale, The
-
 Site of a body of Church elders and ministers and the administrative body representing local Church of Scotland congregations in Annandale, Dumfries and Galloway, the Scottish Borders and Carlisle in England [historic counties of Dumfriesshire and Roxburghshire].

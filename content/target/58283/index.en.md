@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: 'Gaming addiction made me attempt suicide'
-
 BBC one minute story about a former gaming addict who attempted suicide because his whole life became about gaming. Cam Adair used to play computer games for 16 hours a day and his addiction lasted a decade

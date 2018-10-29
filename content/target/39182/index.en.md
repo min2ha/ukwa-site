@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# ceri reeves (@reevesmaesteg) on Twitter (Labour candidate for South Wales West)
-
 Ceri Reeves is the Labour candidate for South Wales West at the 2016 National Assembly Election. 

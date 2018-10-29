@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Ettrick & Yarrow Valleys
-
 Site providing tourist information about the Ettrick and Yarrow valleys, in the Scottish Borders.

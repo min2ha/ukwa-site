@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# JK Rowling: On Monsters, Villains and the EU Referendum
-
 JK Rowling condemning the rhetoric of the Brexit campaign and supporting Remain

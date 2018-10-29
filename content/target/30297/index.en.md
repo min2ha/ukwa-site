@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Historic Scotland (welovehistory) on Hootsuite: Forth Bridge Greeting Card
-

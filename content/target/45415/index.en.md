@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Awr Cymru
-
 Awr Cymru (Wales Hour) is a Community Benefit Company that supports the populating of the Welsh digital Landscape by promoting the use of Welsh in the digital world.

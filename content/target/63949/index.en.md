@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Milton of Campsie Parish Church
-

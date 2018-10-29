@@ -10,5 +10,3 @@
   "start_date": "2015-05-12T08:00:00Z"
 }
 
-# Cymunedau yn Gyntaf | Communities First Bridgend
-

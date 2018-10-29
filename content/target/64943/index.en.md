@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Pen-Y-Gwryd Hotel  
-
 Pen-y-Gwryd Hotel is a long established and traditional British mountaineer's hotel in Snowdonia built in 1810 as a remote mountain farmhouse, extended and used as a coaching inn. This is where Hillary and Tenzing trained for the first successful ascent of Mount Everest in 1953.

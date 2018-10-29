@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Wigtown Food Festival
-
 celebration of seasonal produce from Scotland and the north of England

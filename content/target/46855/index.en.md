@@ -10,6 +10,4 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Owain Fôn Williams
-
 Owain Fôn Williams is a Welsh Football International Goalkeeper and a popular artist. This website showcases his artwork.

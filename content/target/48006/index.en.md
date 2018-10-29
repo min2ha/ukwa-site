@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: London will remain the global capital of finance despite Brexit, leading City figure says as Remain doom-mongers are proved wrong again 
-

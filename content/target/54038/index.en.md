@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Robert Moran (@piratemoran) on Twitter (Pirate Party Politician)
-
 Robert Moran stood as Pirate Party UK candidate for Sheffield Central in the 2017 General Election but was not elected.

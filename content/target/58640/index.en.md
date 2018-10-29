@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Ancrum & District Heritage Society
-
 Site of a local history society located at Ancrum, Scottish Borders (Roxburghshire).

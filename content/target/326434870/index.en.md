@@ -10,6 +10,4 @@
   "start_date": "2015-09-04T10:00:00Z"
 }
 
-# Antonia Spowers
-
 Sculptress based in Wales.

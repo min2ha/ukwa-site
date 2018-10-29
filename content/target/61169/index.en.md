@@ -10,8 +10,6 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Birds Portchmouth Russum Architects
-
 We established our practice in 1989.
 Our ideas draw strength from urban, historical and social analysis, contemporary culture and art through to the technology of construction.
 

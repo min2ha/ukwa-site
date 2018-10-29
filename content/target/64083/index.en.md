@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# The F-Word (@thefworduk) on Twitter
-
 Contemporary feminist reviews, blog entries, features & news. Several F-Word editors currently tweeting, so tweets may not represent the whole team.

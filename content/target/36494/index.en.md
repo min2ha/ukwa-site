@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Top Tories say Cameron's EU deal will NOT cut migration: Cabinet ministers rubbish PM's claim – and warn it could even lead to a fresh surge of arrivals   
-

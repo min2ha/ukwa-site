@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# ComRes: GE2015
-
 ComRes is the trading name of CommunicateResearch Ltd, a company registered in England and Wales. This is the main page of their website dedicated to the 2015 General Election.

@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Museum of Witchcraft and Magic (MWM)
-
 The Museum of Witchcraft and Magic is located by The Harbour in Boscastle, Cornwall. Boscastle is on the North Coast of Cornwall between Tintagel and Bude. On average, visits last between half an hour and an hour.

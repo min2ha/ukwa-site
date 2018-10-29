@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Taste of Scotland
-
 Site aiming to promote Scottish restaurants, hotels and other eating places as well as recommendations for food producers and suppliers based in Scotland judged to produce typical quality Scottish produce.

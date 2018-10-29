@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: We need to stop calling it hard Brexit. This is chaotic Brexit
-

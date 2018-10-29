@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Love Your Mark
-
 I am a Life Coach and Mentor and I also specialise in helping people with marks, scars and facial differences. I hope I can inspire others to be happy with themselves.

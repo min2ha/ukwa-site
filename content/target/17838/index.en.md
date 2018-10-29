@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Cameron admits he should cut benefits and tax credits for migrants faster to stop UK being a 'massive draw'
-
 None

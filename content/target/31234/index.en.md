@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Paul Merton
-
 Official website of Paul Merton (Paul James Martin), a British writer, actor, comedian, radio and television presenter. 

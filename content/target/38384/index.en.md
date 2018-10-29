@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Jude Collins: The Easter Rising and the Battle of the Somme: both ‘enormously significant’?
-
 Post by writer and broadcaster Jude Collins on his private blog

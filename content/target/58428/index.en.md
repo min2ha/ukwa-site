@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 2nd November 2017: Brexit: Sectoral Impact Assessments
-
 Questions about the publication of reports on the impact of Brexit on various sectors of the economy

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Engage 15
-
 engaGE15 is an initiative from Christian Public Policy charity CARE to promote active engagement in the General Election. It provides a range of resources to enable Christian thinking about important issues and voter participation.

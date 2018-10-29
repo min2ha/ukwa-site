@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Happy Pontist, The: A blog from the UK about Bridges and Bridge Design
-
 The Happy Pontist is a bridge designer and admirer. This is a blog about bridges including a history of bridges across the UK and review of many books and has been regularly updated since 2008.

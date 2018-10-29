@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Cheltenham Comedy Festival
-
 Website for the Cheltenham Comedy Festival

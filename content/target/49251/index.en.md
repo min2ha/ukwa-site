@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# PCS Proud
-
 Site of a group within the PCS Union that seeks to raise awareness of LGBT issues within workplaces, within our union and beyond.

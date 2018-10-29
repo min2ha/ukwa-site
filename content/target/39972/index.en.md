@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cambridge remembers: University of Cambridge public events to commemorate the First World War
-
 Project to incorporate public events, many of them free to attend, related to aspects of World War One heritage involving the University of Cambridge, city and county.

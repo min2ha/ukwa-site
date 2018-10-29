@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# From Sea to Land and Skies: The Evolution of Black Military Heroes 1914 -1948
-
 The Sea to Land and Skies Project (SLS) is a 7 month program focusing on the military contributions from Africa and its Diaspora from Worl Wars 1 and 2.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Xenzone: Digital therapeutic support for mental health 
-
 A site offering digital therapeutic support for young people suffering from mental health.  

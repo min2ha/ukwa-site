@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Political Studies Association: The ‘Neverendum’? A history of referendums and independence
-
 None

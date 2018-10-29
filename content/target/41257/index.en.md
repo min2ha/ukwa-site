@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Radio Times: BBC recipes will be moved to Good Food as online petition nears 170,000
-
 The Corporation have clarified what the closure of BBC Food will mean with "as much of the content as possible" moved to the BBC Good Food website.

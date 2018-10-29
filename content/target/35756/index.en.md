@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cabinet Office: The best of both worlds: the United Kingdom’s special status in a reformed European Union
-
 At the 18 to 19 February 2016 European Council, the government secured a new settlement for the UK in a reformed EU, which is irreversible without our consent. This settlement secures all the UK’s objectives set out by the Prime Minister, and gives the UK a special status within the EU, as well as setting the EU on a path of long-term reform. This document covers the four areas of the settlement

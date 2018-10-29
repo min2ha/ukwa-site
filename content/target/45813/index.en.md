@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# LGB&T Sport Cymru
-
 LGB&T Sport Cymru promote and support sport and physical activity opportunities for the LGB&T community in Wales.

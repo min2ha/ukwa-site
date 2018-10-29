@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jo Swinson on Facebook
-
 This is the Facebook page of Jo Swinson, the Liberal Democrats candidate for East Dunbartonshire in the UK General Election on the 7th May 2015.

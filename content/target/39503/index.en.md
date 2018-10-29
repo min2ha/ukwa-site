@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Helen Mary Jones on Facebook (Plaid Cymru candidate for Llanelli)
-
 Helen Mary Jones is the Plaid Cymru candidate for Llanelli at the 2016 National Assembly for Wales elections.

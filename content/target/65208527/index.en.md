@@ -10,5 +10,3 @@
   "start_date": "2012-04-27T00:00:00Z"
 }
 
-# The Polish Community of the Valleys Association
-

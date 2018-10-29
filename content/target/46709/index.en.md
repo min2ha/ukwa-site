@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# Leirsinn on Twitter
-
 Twitter profile belonging to Leirsinn, a research service for the people of the Highlands and Islands and to the Gaelic communities of Scotland, based on the Isle of Skye.

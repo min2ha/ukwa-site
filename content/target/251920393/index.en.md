@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jayne Baxter MSP | Member of the Scottish Parliament for Mid Scotland and Fife
-
 The website of Jayne Baxter, Scottish Labour Member of the Scottish Parliament for Mid Scotland and Fife.

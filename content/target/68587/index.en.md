@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Brexit & Environment
-
 'We are a network of independent researchers from across the UK and the EU working on projects related to Brexit and the environment. This website, funded by the ESRC, is a hub of information on how Brexit affects the environment and related sectors such as agriculture and fisheries.'
 
  

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Planets: 2014, The 
-
 The Planets: 2014 celebrates the centenary of the composer Gustav Holst (1874-1934) beginning to compose 'The Planets'.

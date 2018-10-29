@@ -10,6 +10,4 @@
   "start_date": "2005-03-30T01:00:00Z"
 }
 
-# Scottish Council on Human Bioethics Ltd
-
 This website describes the aims and work of the Scottish Council on Human Bioethics, which is an independent charitable organisation composed of professionals from various disciplines associated with medical ethics. 

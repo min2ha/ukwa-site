@@ -10,6 +10,4 @@
   "start_date": "2017-07-25T09:00:00Z"
 }
 
-# Welsh National Pilgrimage
-
 This is the website for the annual Welsh National Pilgrimage to Lourdes led by Archbishop George Stack and Bishop Tom Burns.

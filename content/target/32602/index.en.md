@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Cyber Security EXPO
-
 Cyber Security EXPO is a recruitment expo for cyber security professionals.

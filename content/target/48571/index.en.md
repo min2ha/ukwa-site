@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Lossiemouth Business Association
-
 Business marketing and tourist site for the community of Lossiemouth, Moray, Scotland.

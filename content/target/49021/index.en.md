@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: European Union (Notification of Withdrawal) Bill
-
 This Library briefing analyses the short Bill that offers Parliament its first opportunity to give legal effect to the result of the EU referendum by providing the UK Government with authority to trigger Article 50 on leaving the EU.

@@ -10,5 +10,3 @@
   "start_date": "2009-09-24T00:00:00Z"
 }
 
-# Langdale
-

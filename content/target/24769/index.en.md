@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ross Hemingway (Green party candidate for Carshalton and Wallington)  (@hemingwayross) on Twitter
-

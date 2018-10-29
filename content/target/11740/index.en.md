@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Erin McLachlan (ErinMacx) on Twitter
-
 <p>The twitter profile of althete Erin McLachlan, gymnast and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

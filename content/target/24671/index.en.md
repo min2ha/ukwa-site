@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Nick Sandford (@clrnicksandford) on Twitter (Liberal Democrat candidate for North West Cambridgeshire)
-

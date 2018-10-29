@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Balmoral
-
 Site of the business, estate and visitor attraction Balmoral Castle, located near Ballatar, Aberdeenshire.

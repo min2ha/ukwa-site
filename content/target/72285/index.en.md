@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Elim Scotland
-
 Site of the Scottish branch of the Elim Pentecostal Church.

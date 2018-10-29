@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Let us applaud Sturgeon and Bennett’s input, but not give them our vote
-
 None

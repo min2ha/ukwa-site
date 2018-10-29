@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow 2014 (@Glasgow2014) on Twitter
-
 The official channel of the XX Commonwealth Games in Glasgow. 23 July - 3 August 2014

@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# TheSnitch.co.uk - The Ultimate British Harry Potter Movie Site
-
 Thesnitch.co.uk is a Harry Potter fan site specialised in Harry Potter's film. It was created in May 2001 by Gary Hodsgon, and then changed ownership in November 2007 with Raadhika Madala and Stefan Marseglia.

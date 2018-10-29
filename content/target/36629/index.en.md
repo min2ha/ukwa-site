@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Southside Routes
-
 Site set of a consortium of heritage bodies based in the Southside of Glasgow, to promote tourism and awareness of attractions in the area.

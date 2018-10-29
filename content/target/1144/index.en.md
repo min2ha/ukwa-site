@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mount Vernon Cancer Network
-
 None

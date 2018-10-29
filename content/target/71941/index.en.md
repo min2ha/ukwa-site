@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Your Vote Matters: centenary of women's suffrage
-
 A campaign run by the electoral commission celebrating women's right to vote

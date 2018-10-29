@@ -98,7 +98,5 @@
   "endDateText": ""
 }
 
-# Poetry Zines and Journals
-
 This collection of UK-based online poetry journals and magazines has been curated by a PhD candidate at Goldsmiths. It is concerned with contemporary responses to the increasing ubiquity of the internet and networked culture. 
 Poetry communities are increasingly emerging out of and operating within digital spaces; participants are using social media for networking, collaboration and promotion, taking advantage of cheap web hosting and free blog domains to publish zines and chapbooks. 

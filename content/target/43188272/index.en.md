@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# RD4U
-
 None

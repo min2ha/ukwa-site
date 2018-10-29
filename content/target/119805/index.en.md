@@ -10,6 +10,4 @@
   "start_date": "2015-05-21T09:00:00Z"
 }
 
-# Children's Society, The
-
 The Children's Society is an English charity allied to the Church of England and driven by a belief that all children deserve a good childhood. It was founded by Edward Rudolf in 1881.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Thurso MP
-
 <p>The website of John Thurso, Member of Parliament for Caithness, Sutherland and Easter Ross.</p>

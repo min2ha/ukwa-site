@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Team Muirhead Curling on Twitter
-
 None

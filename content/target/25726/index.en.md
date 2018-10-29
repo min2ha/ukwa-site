@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What do the Election 2015 manifestos say about technology?
-
 None

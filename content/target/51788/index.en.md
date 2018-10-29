@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bont, Y: Canolfan Morgannwg | Glamorgan Centre
-
 Y Bont is the Centre for Welsh Learners for the Glamorgan area. It ceased to exist in 2017.

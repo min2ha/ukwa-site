@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Blyth Valley Liberal Democrats
-
 Website of Blyth Valley Liberal Democrats, providing information on events, how to get involved and local news.

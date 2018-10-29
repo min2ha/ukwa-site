@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: In Brexit Britain there will be no benefit caps for the multinationals
-

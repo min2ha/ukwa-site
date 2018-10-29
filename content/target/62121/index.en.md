@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: "worrying increase in promotion of anorexia on social media sites, new study finds" 
-
 News article about promoting anorexia on social media sites

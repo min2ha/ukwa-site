@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St David and St Patrick Catholic Church, Haverfordwest.
-

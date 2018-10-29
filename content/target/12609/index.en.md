@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Patrick Harvie (patrickharvie) on Twitter
-
 Twitter profile of Patrick Harvie, Scottish Green Party candidate for Glasgow North in the 2017 general election.

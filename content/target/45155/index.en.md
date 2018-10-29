@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# BT Sport: Five things you may not know about judo medallist Sally Conway
-

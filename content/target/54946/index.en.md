@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Post Ref Racism
-
 Post Ref Racism works to shine a light on the racism and xenophobia that has taken hold in the UK since the vote to leave the EU, by campaigning on issues relating to xenophobia and hate crime. It wants to reverse the trend of increasing hostility towards those considered “other” by targeting the root causes of xenophobia, such as irresponsible media and political rhetoric.

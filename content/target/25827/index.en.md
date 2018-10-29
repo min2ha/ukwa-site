@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Milifandom soars with Twitter backing for Labour leader Ed Miliband
-
 None

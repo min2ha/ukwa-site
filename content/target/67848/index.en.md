@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sandown & Shanklin RFC (@SSRFC) on Twitter
-
 The official Twitter account of Sandown & Shanklin Rugby Football Club.

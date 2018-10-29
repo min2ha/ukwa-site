@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election TV debate: David Cameron wins, says snap poll
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Patrick's Dumbarton
-
 Site of a Scottish Roman Catholic parish church located in Dumbarton.

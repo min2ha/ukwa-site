@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Royal African Society
-
 The Royal African Society's goal is to promote Africa in business, politics, culture and academia. 

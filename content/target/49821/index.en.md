@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Precious Life
-
  A Northern Ireland pro-life group.

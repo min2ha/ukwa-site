@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parishes of Upper Tweeddale
-
 Site of four parishes in the Upper Tweeddale area of the Scottish Borders, incorporating Broughton, Skirling, Stobo & Drumelzier and Tweedsmuir.

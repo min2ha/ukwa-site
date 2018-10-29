@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Anaya Aid Wales on Facebook
-
 Anaya Aid (formerly known as Buttercup Primary) is a UK based humanitarian organisation providing international support responding to human sufferings in emergency and disaster situations all over the world regardless of race, gender, ethnicity, class and religion. This is the facebook group for Wales.

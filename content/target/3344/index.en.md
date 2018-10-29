@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Board of Deputies of British Jews
-
 Jewish General. The principal representative body for Jewish synagogues and organisations in the UK.

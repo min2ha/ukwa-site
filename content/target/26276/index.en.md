@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Pin Dwr Trefol
-
 Blog for Christian workers in Trefor, near Caernarfon.

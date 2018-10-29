@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# A Fine beginning
-

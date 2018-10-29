@@ -10,5 +10,3 @@
   "start_date": "2013-04-17T00:00:00Z"
 }
 
-# Archifau Cymunedol Cymru | Community Archives Wales
-

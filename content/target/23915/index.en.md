@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# University of Westminster: Interview with Westminster graduate volunteering in the Ebola Crisis in Guinea
-
 Interview with University of Westminster Biomedical Sciences graduate Dr Babak Afrough who had returned to the UK from the Ebola-hit Guinea where he volunteered to work in the newly set up diagnostic laboratory in a remote village in the region of Coyah.

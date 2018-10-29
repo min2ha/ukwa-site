@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cregagh Presbyterian Church – Love God and Love Your Neighbour
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Doncaster Minster
-
 The Minster Church of Saint George, Doncaster stands at the heart of the town of Doncaster, where a church has stood for over 8 centuries. The present church was built to the designs of George Gilbert Scott between 1854-1858, after the mediaeval church was destroyed by fire in 1853. 

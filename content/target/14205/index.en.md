@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Third Force News: TFN referendum results debate
-
 None

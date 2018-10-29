@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# United Reformed Church: National Synod of Wales
-

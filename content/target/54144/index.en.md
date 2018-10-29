@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Wales Map, The
-
 The Wales Map is an interactive, detailed map of Wales with over 650 welsh links on the map. 

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Prince Charles and Camilla to meet Barack Obama in US
-

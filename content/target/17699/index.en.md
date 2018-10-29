@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The bishops’ letter to British politicians is a true act of leadership 
-
 None

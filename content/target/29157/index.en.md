@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# E.ON
-
 They are one of the UK's leading power and gas companies - generating electricity, and retailing power and gas - and they're part of the E.ON group, one of the world's largest investor-owned power and gas companies. 

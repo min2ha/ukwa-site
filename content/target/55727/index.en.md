@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU negotiator Barnier firm on citizens' rights
-
 The EU's top Brexit negotiator said there were still major differences between the EU and UK on the rights of EU citizens living in Britain.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Hockerill Anglo-European College
-
 Hockerill Anglo-European College is a co-educational day and boarding school for students aged 11 to 18.  Located in beautiful grounds on the edge of Bishop’s Stortford the school is in close proximity to London and the South East of England.  

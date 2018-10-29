@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Anthony's, St. Mary of The Angels and St. Francis Xavier's
-
 Site of three Roman Catholic parish churches in Scotland, located at Falkirk.

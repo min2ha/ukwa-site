@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Fermanagh Sinn Fein (@FermanaghSF) on Twitter 
-
 Twitter feed of Fermanagh Sinn Fein

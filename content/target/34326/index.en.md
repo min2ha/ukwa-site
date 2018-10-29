@@ -10,6 +10,4 @@
   "start_date": "2016-01-22T09:00:00Z"
 }
 
-# CANAL
-
 CANAL is an independent gallery in London, with an ongoing programme of exhibitions by new, emerging and established artists, in a variety of media and formats.

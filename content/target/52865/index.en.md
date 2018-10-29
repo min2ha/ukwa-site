@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Fruit-full Communities
-
 The Fruit–full Communities project is for young people living in YMCA Housing Schemes, Supported Lodgings and/or attending YMCA Youth Groups

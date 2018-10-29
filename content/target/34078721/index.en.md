@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Helena Goldwater
-
 Helena Goldwater is a performing artist.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Steve Richards: England is moving away from Scotland rather than the other way round
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Capel Y Graig
-
 Capel Y Graig is an artist led space located near Machynlleth.

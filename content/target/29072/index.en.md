@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Conservatives North of England
-
 Website of Conservatives North of England, providing information on MPs, MEPs, and Police and Crime Commissioners, the Association team, events, Conservative Policy Forum and local, national, Westminster and European news.

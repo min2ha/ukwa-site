@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Number Cruncher Politics
-
 Number Cruncher Politics is a non-partisan blog focussed on UK psephology, statistical analysis, opinion polls and politics

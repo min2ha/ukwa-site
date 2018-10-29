@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: EU's hard line on Brexit 'is driven by fear of a Corbyn government nationalising UK economy'   
-

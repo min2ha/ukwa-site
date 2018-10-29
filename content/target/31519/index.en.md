@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Brighton Digital Festival
-
 Brighton Digital Festival is a celebration of digital culture that takes place across Brighton and Hove every September. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Julia Reid (@julia_reid) on Twitter (UKIP MEP for the South West and Gibraltar)r
-
 Julia Reid stood as UKIP candidate for the South West and Gibraltar at the 2014 European Parliament election and was elected to serve as MEP.

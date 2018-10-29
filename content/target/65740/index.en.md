@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Denholm Seafoods Limited
-
 Denholm Seafoods Limited, part of the Denholm Group, is engaged in the wholesale distribution of fresh, cured, or frozen fish and seafood.

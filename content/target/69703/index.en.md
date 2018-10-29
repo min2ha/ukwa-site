@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Drug makers Sanofi and Novartis stockpiling for Brexit
-
 Two of the world's biggest drugs firms, Sanofi and Novartis,  were stockpiling medicines in case of supply disruptions after Brexit in March 2019.
 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# PC Specialist Forum
-
 An online enthusiast community forum concerned with high-performance computers. Discusses desktops, all-in-ones and laptops. Includes sections for users to compare computer specifications and discuss other computer related hobbies such as computer gaming.

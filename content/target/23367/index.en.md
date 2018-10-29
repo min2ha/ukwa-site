@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# All Back to Bowie's
-
 David Greig and friends present a lunchtime #indyref show at Edinburgh Fringe 2014.

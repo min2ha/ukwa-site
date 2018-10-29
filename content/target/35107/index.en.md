@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Eric Pickles becomes latest Eurosceptic to drift to pro-Europe side as infighting continues
-

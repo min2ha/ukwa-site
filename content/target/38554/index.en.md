@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mohammed Sarul Islam (@Sarulislam) on Twitter 
-
 Mohammed Sarul Islam is the UKIP candidate for Cardiff central at the 2016 National Assembly Elections and 2017 General Election.

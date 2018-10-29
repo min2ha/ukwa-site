@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ivybridge RFC on Pitchero
-
 The official website of Ivybridge Rugby Club.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Health Matters
-
 Blog relating to the problems in the NHS. It is run bu Paul Corrigan.

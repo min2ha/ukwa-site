@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg to lay down key demands in coalition negotiations
-

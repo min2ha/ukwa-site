@@ -10,6 +10,4 @@
   "start_date": "2015-08-08T10:00:00Z"
 }
 
-# Iran Heritage Foundation
-
 The Iran Heritage Foundation is a non-political UK registered charity with the mission to promote and preserve the history, languages and cultures of Iran and the Persianate world. The objectives of the Foundation are achieved by organising and supporting activities of cultural or scholarly merit.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-09T10:00:00Z"
 }
 
-# Cloddiadau Meillionydd | Meillionydd Excavations, The
-
 An investigation into the the chronology, form, character and occupation of the hilltop enclosure of Meillionydd, near Rhiw, on the Llŷn peninsula in northwest Wales by Bangor University.

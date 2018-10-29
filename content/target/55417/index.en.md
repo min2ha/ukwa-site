@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The United Church in Rhyl
-

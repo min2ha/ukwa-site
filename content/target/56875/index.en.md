@@ -10,5 +10,3 @@
   "start_date": "2018-07-06T09:00:00Z"
 }
 
-# Edinburgh Technopole
-

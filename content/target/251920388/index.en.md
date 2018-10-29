@@ -10,5 +10,3 @@
   "start_date": "2014-06-13T00:00:00Z"
 }
 
-# Pen Ll&#375;n a'r Sarnau Special Conservation Area | Ardal Cadwraeth Arbennig (ACA) Pen Ll&#375;n a'r Sarnau
-

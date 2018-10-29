@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Tory meltdown as Foreign Secretary hurls four-letter abuse at anti-EU rival after trying to hide secret report on PM's deal   
-

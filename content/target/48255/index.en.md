@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Murthly Estate
-
 Site of a country estate in Perthshire, Scotland, invloved in sawmilling, property lets, farming, forestry, country sports, and commercial activities in and around the castle, as well as leisure walking and cycling.

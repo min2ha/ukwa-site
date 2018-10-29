@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Keep our NHS Public
-
 None

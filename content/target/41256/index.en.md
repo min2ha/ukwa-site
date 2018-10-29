@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Financial Times: Forget the EU, Britons are really concerned about BBC recipes.
-
 An article about the public outrage to the news that the BBC was going to cut the BBC Recipes website.

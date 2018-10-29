@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UK Government: Scottish independence referendum - what's next?
-
 <p>UK government web page which gives headlines details of the outcome of the Scottish independence vote, and describes the further powers to be devolved to the Scottish parliament under the terms of the Scotland Act 2012.</p>

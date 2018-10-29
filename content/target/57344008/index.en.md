@@ -10,5 +10,3 @@
   "start_date": "2011-01-18T00:00:00Z"
 }
 
-# 102.5 Radio Pembrokeshire
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Humbie Parish Church
-
 Site of a Church of Scotland parish church at Humbie, East Lothian - linked with Yester, Bolton and Saltoun Church

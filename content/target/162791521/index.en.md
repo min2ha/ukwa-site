@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Travelling Ahead
-
 Travelling Ahead supports the voice, rights and participation of young Gypsies, Roma & Travellers in Wales and run forums, events and activities across Wales to make sure young people have their say. The Travelling Ahead project has been hosted at Save the Children since 2010.

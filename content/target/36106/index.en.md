@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EUreferendum.uk
-
 A guide to sources of information about the 2016 referendum on the UK's membership of the European Union

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marie Curie Cancer Care Tour de France fundraising
-
 Official charity partner of the Tour de France Grand Depart

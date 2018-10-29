@@ -10,6 +10,4 @@
   "start_date": "2014-10-17T07:00:00Z"
 }
 
-# Rosie Stancer: Polar Explorer
-
 None

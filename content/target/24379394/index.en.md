@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# PRASEG - the Associate Parliamentary Renewable and Sustainable Energy Group
-
 None

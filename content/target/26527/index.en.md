@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cabinet reshuffle: a delicious exercise in patronage
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Aberdare Community School
-
 <p>Aberdare Community School is amerger of Aberdare High, Aberdare Girls' and Blaengwawr Comprehensive Schools and opened in September 2014.</p>

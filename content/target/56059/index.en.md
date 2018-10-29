@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T09:00:00Z"
 }
 
-# Moor Pool History & Preservation
-
 Moor Pool is a 22.32 hectares garden suburb within the ward of Harborne, Birmingham, England. This website gives a local history of the area.

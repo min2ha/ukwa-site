@@ -10,6 +10,4 @@
   "start_date": "2018-04-05T09:00:00Z"
 }
 
-# Women’s Irish Network (WIN)
-
 The Women’s Irish Network (WIN) was founded in 1998 by Nessa O’Neill and Mary Clancy, to help Irish women overcome challenges they encounter in the workplace. The Women’s Irish Network has since evolved into an organisation that welcomes women of all nationalities.Every year, they host a broad range of events. They are also putting political topics of interest at centre stage.This is their official website

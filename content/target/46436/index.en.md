@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: European Council October 2016: Prime Minister's press statement
-
 Prime Minister Theresa May gave a statement about the subjects covered in the European Council meeting: Brexit, migration, Russia and trade.

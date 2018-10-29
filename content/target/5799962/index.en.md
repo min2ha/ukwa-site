@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Quaker Tapestry Exhibition Centre at Kendal
-
 None

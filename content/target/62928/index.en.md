@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Fort Belan
-
 Fort Belan is a coastal fortress in North Wales built in 1775 and the only purpose-built fort of the American Revolution on the eastern side of the Atlantic Ocean. It is now self-catering holiday complex.

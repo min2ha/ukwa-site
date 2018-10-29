@@ -10,6 +10,4 @@
   "start_date": "2017-08-25T09:00:00Z"
 }
 
-# Penicuik Community Arts Association
-
 Site of a community arts association based in Penicuik, Midlothian, organising arts events and an annual festival.

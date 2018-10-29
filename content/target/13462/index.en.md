@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# AngusBMacNeilMP (AngusMacNeilMP) on Twitter
-
 The twitter profile of Angus Brendan MacNeil, Scottish National Party Member of Parliament for na h-Eileanan an Iar.

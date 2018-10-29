@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Gary Price (Conservative candidate for Brecon & Radnorshire)
-
 Gary Price is the Conservative candidate for Brecon and Radnor at the 2016 National Assembly Election. 

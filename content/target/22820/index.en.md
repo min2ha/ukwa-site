@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Darren Woodiwiss (@DWoodiwiss) on Twitter (Green candidate for Harborough)
-

@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Iolo Morgannwg
-
 This project was jointly financed by the AHRC and the University of Wales. Its main aim was to explore Iolo Morganwg's vast archive and reappraise his contribution to the cultural life of Glamorgan and Wales.

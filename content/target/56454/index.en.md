@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh 70: The BBC at the Festival, Virtually / BBC
-
 BBC virtual reality page highlighling the celebrations of the seventieth anniversay of the the Edinburgh International Festival and its offshoots and successors.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Build UK
-
 Build UK was created as a result of a merger between the National Specialist Contractors’ Council (NSCC) and UK Contractors Group (UKCG) in 2015.

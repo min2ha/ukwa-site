@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: No 10 insists Theresa May HAS met Lord Heseltine and defends sacking him over Brexit revolt after the Tory grandee claimed the pair had never met in extraordinary public row    
-

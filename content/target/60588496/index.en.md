@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Unison
-
 Unison is a large trade union in the UK representing full-time and part-time staff who provide public services, although they may be employed in both the public and private sectors.

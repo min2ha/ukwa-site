@@ -10,6 +10,4 @@
   "start_date": "2016-07-16T11:00:00Z"
 }
 
-# Statutes Project, The
-
 The primary aim of The Statutes Project is to put the entire corpus of English/British parliamentary law online, for free, in multiple and easily reusable formats.

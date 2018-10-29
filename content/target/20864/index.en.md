@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dave Dempsey on Facebook
-
 This is the Facebook page of Dave Dempsey, the Conservative Party candidate for Kirkcaldy and Cowdenbeath in the UK General Election on the 7th May 2015.

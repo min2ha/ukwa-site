@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Luci Isaacson (@ClimateVision) on Twitter
-
 Twitter feed of Luci Isaacson, a member of Climate Vision

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# ME Association: It’s time to write to your General Election candidates, February 2015
-
 The ME Association is a British charity that provides information to patients and raises funds for research into ME and chronic fatigue syndrome.

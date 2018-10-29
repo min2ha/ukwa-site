@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# 38 Degrees: GE2017.com
-
 A quiz top help voters decide which political party they agree with.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Cardiff Conservative Future
-
 Cardiff Conservative Future is the youth wing of the Conservative Party in Cardiff.

@@ -11,8 +11,6 @@
   "subject": "Local History Societies "
 }
 
-#  Betley Local History Society 
-
 Betley Local History Society was first founded in 1980are devoted to
 a programme of talks on topics of local historical interest.
 

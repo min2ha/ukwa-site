@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Birmingham Eviction Resistance Network
-
 A network of people working to stop evictions of tenants, travellers, homeless people and squatters in Birmingham.

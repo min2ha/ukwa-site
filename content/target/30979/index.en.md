@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Our Computer Heritage Project
-
 Website dedicated to the history of IT.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Sure Hope Church
-

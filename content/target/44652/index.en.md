@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: 'Half of UK feels they have no voice': arts leaders on Brexit vote
-

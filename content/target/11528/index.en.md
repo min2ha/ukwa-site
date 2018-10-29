@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amateur Boxing Association of England 
-
 England Boxing is the national governing body for boxing. It is responsible for the governance, development and administration of boxing in clubs and competition. It also represents England as a member of the International Boxing Association (AIBA) and the European Boxing Council (EUBC).

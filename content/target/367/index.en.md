@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Essex Health and Wellbeing Board
-
 None

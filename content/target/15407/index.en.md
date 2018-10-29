@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Care Forum Wales 
-
 <p>Care Forum Wales represents 450+ care homes, nursing homes and other independent health and social care providers across Wales.</p>

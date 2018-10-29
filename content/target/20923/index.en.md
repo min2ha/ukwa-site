@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Crop Protection Association: 2015 General Election
-
 The Crop Protection Association (CPA) is a lobby group for the UK Plant Science Industry. They promote the role of modern plant science in safeguarding our food supply from seed to shelf.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Blog.DoC
-
 Blog from the Goldsmiths Department of Computing.

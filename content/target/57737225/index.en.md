@@ -10,5 +10,3 @@
   "start_date": "2010-11-22T00:00:00Z"
 }
 
-# Wellcome Trust Conference Centre
-

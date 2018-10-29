@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# ThinkNorth UK
-
 A Centre Right Policy Group for Northern England and Scotland. 

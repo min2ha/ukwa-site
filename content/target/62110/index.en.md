@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: "How people document eating disorder recovery on Instagram"
-
 News article about documenting eating disorder recovery on Instagram

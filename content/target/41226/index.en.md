@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Carse of Gowrie Sustainability Group
-
 Site of a local sustainability group based in Gowrie, Perth and Kinross, promoting and encouraging sustainability in environment change policy, education, local economy, social structure, recreational activity and renewable energy.

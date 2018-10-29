@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Steve Retson Project
-
 Site of a specialist sexual health service for sexually active gay and bisexual men providing sexual and emotional health services that are supportive, non judgmental.

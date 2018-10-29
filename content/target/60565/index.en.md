@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Ùlpan : Gaelic for Adults
-
 Blog site for teachers and adult students of Scottish Gaelic designed for sharing progress and experiences in Scottish Gaelic education.

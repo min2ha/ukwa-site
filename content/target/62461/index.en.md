@@ -10,6 +10,4 @@
   "start_date": "2018-03-10T09:00:00Z"
 }
 
-# Lodge Edinburgh St. Andrew No. 48
-
 Site of a masonic lodge located in Canongate, Edinburgh and affiliated with the Grand Lodge of Scotland.

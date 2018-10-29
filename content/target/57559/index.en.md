@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Montrose Music Festival
-
 Site of an annual music festival staged at Montrose, Angus.

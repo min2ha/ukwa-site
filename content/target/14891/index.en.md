@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# B31 Voices
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS County Durham and Darlington
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba's Episcopal Church, Bathgate
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Bathgate, West Lothian.

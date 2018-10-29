@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 23rd March 2017: Brexit: Environment and Climate Change
-
 On Thursday 23 March, the House of Lords debated the European Union Committee's report, 'Brexit: environment and climate change'
 

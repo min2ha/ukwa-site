@@ -10,6 +10,4 @@
   "start_date": "2015-01-17T00:00:00Z"
 }
 
-# Aly Stoneman
-
 <p>Website and blog of Aly Stoneman, a poet, arts project coordinator, workshop facilitator and community journalist. She lives in Nottingham, UK.</p>

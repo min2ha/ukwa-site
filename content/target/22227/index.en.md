@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barry Elliott (UKIP)
-
 Barry Elliott stood as UKIP candidate for Blyth Valley at the 2015 General Election but was not elected.

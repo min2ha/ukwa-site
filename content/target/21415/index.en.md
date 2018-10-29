@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Real pub landlord crashes Al Murray's campaign and blasts 'You're making a mockery of politics'
-
 None

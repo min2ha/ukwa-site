@@ -10,6 +10,4 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Anaesthesia Cases
-
 Anaesthesia Cases is an on-line, editorially-reviewed, journal of case reports in anaesthesia, pain medicine and intensive care. It is provided by the Association of Anaesthetists of Great Britain and Ireland. The journal is password protected and therefore the full text of articles in unavailable in either Open UK Web Archive or the Legal Deposit Web Archive.

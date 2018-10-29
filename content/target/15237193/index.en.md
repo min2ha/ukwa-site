@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Community Energy Plus
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Media Podcast, The
-
 A talk show discussing radio, television and the press with panelists from the media industry such as commentators from broadcasting, publishing and online.  

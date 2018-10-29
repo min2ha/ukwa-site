@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Talk Photography Forums
-
 An online enthusiast forum concerned with photography in the UK. Discusses equipment, lighting and studios, printing and presentation, post processing and image editing, photo locations and various other topics.

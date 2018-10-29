@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# The Birkenhead Priory 
-
 Oldest building in Merseyside.

@@ -10,7 +10,5 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Cardiffians, The
-
 The Cardiffians provides facts and figures, the history of the suburbs, and a detailed timeline of the development of the city of Cardiff.  There is also a selection of profiles on some famous 'Cardiffians' and over 700 photos of old Cardiff and its citizens.
  

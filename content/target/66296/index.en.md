@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Uddingston Church of the Nazarene on Facebook
-
 Facebook page of a Church of the Nazarene in Uddingston, Lanarkshire.

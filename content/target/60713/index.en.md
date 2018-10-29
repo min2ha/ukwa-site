@@ -10,5 +10,3 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Cymdeithas Daeareg Gogledd Cymru | North Wales Geology Association
-

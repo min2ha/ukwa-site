@@ -10,5 +10,3 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Cyngor Cymuned Bro Cernyw | Bro Cernyw Community Council
-

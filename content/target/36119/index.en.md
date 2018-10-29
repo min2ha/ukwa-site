@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conservatives for Reform in Europe
-
 'Conservatives for Reform in Europe was set up by members of the Party who believe that change in Europe is vital, want the Prime Minister’s renegotiation to succeed, and if it does, believe it would be in Britain’s national interest to remain in a reformed EU.'

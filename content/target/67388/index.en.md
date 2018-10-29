@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Creighton Rugby Club
-
 Fantastic Rugby Club in Carlisle.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron knows the risks of nationalism – but doesn’t care if he splits the country
-
 None

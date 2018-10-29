@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Caerphilly Workmen's Hall
-
 The Caerphilly Workmen's Hall is owned by the Coal Industry Social and Welfare Organisation (CISWO) and was established in 1906. It is still an entertainment venue for the people of Caerphilly.

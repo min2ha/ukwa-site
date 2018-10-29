@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Saptan Stories
-
 Saptan Stories is a 7 week long collaborative arts event; a mass game of consequences written and voted on by all of India.

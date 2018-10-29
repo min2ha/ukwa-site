@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ipsos MORI: Ipsos MORI Final Election Poll 2017
-
 Ipsos MORI’s final election poll for the Evening Standard indicated that Theresa May and the Conservatives were on course to win the 2017 General Election.

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angus & Mearns Liberal Democrats: Working Year Round for Angus, Mearns & Stonehaven
-

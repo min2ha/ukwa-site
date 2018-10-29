@@ -10,5 +10,3 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Cymdeithas Gorawl Dinbych a'r Cylch | Denbigh and District Choral Society
-

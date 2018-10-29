@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# TNSLFC (@TNSLFC) on Twitter
-
 Official Twitter of The New Saints Ladies FC.

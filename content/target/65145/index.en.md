@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# SocietyAsianLawyers (@SocAsianLawyers) on Twitter
-
 SAL represents the interests of all Asian Lawyers and the communities that they serve.

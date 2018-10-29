@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Big Tent Festival
-
 Site of a multi-event and genre environmental festival at Falkland, Fife, Scotland. 

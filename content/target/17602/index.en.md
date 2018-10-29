@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tory Mark Menzies' rent boy ready to name another Conservative punter
-
 None

@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Aylesbury Vale District Council
-
 The website of Aylesbury Vale District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

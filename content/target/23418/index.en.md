@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Karin Smyth (@karinsmyth) on Twitter (Labour  Politician)
-
 Karin Smyth stood as Labour Party candidate for Bristol South at the 2017 General Election and was elected to serve as MP. She was first elected as MP for Bristol South in 2015.

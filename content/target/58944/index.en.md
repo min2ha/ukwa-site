@@ -10,8 +10,6 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Rhodri Davies
-
 
 
 Rhodri Davies is from Aberystwyth and is a harp player working within the field of free improvisation. 

@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# Sheffield RUFC (@SheffieldRUFC) on Twitter
-
 The official website of Sheffield Rugby Union Football Club, founded in 1902.

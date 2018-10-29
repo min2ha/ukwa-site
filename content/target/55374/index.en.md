@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Enfys
-
 Enfys is a HD equipped Outside Broadcast Units and Studio Facilities situated in Cardiff. 

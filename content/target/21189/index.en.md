@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alan Reid (@AlanReidAandB) on Twitter
-
 Twitter profile of Alan Reid, Scottish Liberal Democrat candidate for Argyll and Bute in the 2017 general election.

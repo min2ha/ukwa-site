@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Kent Police & Crime Commissioner
-
 None

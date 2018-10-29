@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanes Sir Ddinbych | Denbighshire Historical Society, The 
-

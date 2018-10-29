@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# New Left Project: England, Do Not Be Afraid
-
 None

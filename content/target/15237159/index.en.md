@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Global Issues
-
 None

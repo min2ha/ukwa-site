@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# Tide
-
 The purpose of TIDE is to support people with an intellectual disability to access development education. It is a project managed by Disability Wales.

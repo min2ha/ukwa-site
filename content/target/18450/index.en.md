@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Green MP Caroline Lucas calls for SNP alliance
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: With its rampant abuse of statistics, this must be the most dishonest election ever
-
 None

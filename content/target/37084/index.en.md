@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU reform deal: What Cameron wanted and what he got
-
 A discussion of the draft reform proposals drawn up by European Council President Donald Tusk at the start of February 2016, the final text agreed on and what Mr Cameron originally promised.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Midhurst RFC (@MidhurstRFC) on Twitter
-
 The official Twitter account of Midhurst  Rugby Football Club.

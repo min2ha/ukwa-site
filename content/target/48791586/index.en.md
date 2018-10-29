@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# Financial Markets and Electoral Systems
-
 Various papers related to financial markets and electoral systems.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Raith Rovers Football Club
-
 Site of a senior Scottish association football club based in Kirkcaldy, Fife, Scotland.

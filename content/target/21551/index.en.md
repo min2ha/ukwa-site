@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: For Labour MPs, now would be a good time to panic
-
 None

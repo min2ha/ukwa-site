@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Genetics and Medicine Historical Network
-
 None

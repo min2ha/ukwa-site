@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Luke Patience and Stuart Bithell
-

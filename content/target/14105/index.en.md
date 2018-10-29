@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Heartstrings — Let's Stay Together
-
 None

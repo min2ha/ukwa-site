@@ -10,6 +10,4 @@
   "start_date": "2016-12-21T09:00:00Z"
 }
 
-# Clì Gàidhlig on Facebook
-
 Clì Gàidhlig is an organisation for supporting adult Gaelic learners.

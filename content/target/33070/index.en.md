@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Fianna Eireann 
-
 This website deals with the history of Fianna Eireann, a republican organisation for adolescent boys which was founded in 1909. The website contains numerous contemporaneous photographs. 

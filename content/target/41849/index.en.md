@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Bassetlaw District Council
-
 Website of Bassetlaw District Council provides information about council services, news and local events. You can also access local plans and council committee papers and minutes

@@ -11,7 +11,5 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Peace Party
-
 The Peace Party gives people a chance to elect representatives who put the quest for peace at the centre of their politics.
 It is a small political party within the United Kingdom which presents an avowedly pacifist and environmentalist platform.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Deeds of Arms
-
 Deeds of Arms is a Hampshire based society of historical enthusiasts specialising in recreating mid 14th Century and early 19th Century Naval Life through display, show and interaction.

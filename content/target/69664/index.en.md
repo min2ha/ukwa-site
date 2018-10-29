@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Eco Fest
-
 Festival featuring local eco-friendly organisation and Midlands Arts Centre Birmingham

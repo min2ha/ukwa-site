@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Central Scotland Police
-
 None

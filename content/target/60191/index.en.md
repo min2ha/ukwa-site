@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Davis and Hammond make plea to Germany in pursuit of Brexit deal
-

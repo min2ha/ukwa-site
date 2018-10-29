@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Park's of Hamilton (Holdings) Limited
-
 Park’s of Hamilton (Holdings) Limited is part of Park's Motor Group, a large coach operator and car dealer based in Hamilton, Scotland.

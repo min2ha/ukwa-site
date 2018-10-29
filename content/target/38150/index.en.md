@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Labour GO (@Labour4Go) on Twitter
-
 Labour campaign for the UK to leave the EU

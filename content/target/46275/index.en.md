@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# WCVA’s statement on the EU Referendum result
-
 A statement on the EU Referendum result by Wales Council for Voluntary Action more commonly known as WCVA. 

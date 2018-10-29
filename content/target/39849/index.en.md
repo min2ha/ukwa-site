@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# David Rees on Facebook (Labour candidate for Aberavon)
-
 David Rees is the Labour candidate for Aberavon at the 2016 National Assembly Election. 

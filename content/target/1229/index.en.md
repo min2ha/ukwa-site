@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christian Medical Comment
-
 <p>A blog by Dr Peter Saunders on issues at the interface of Christianity and medicine with specific focus on the beginning and end of life.</p>

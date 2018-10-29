@@ -11,5 +11,3 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# West Wales Islamic Cultural Association
-

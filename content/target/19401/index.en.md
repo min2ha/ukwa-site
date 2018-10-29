@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Sky News: Historic Magna Carta Moment - For 3 Days Only
-

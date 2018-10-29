@@ -10,6 +10,4 @@
   "start_date": "2015-07-24T10:00:00Z"
 }
 
-# Greenwich Book Festival
-
 The Greenwich Book Festival is hosted by the University of Greenwich and with the support of the Royal Borough of Greenwich and the Old Royal Naval College.

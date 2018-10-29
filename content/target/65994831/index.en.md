@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# #media2012 - the Citizen news wire for the London 2012 Olympic & Parlympic Games
-

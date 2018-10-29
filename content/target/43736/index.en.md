@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: I'm mixed race, female, left-wing, a 19-year-old student - and yes, I really am voting for Brexit
-

@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Bodleian Libraries, University of Oxford
-
 Official website of the Bodleian Libraries, University of Oxford.

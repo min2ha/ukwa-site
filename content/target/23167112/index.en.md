@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lewisham's Olympic Legacy
-

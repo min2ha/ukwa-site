@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Dorris McComics
-
 A collection of webcomics by Alex Norris

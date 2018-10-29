@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Talgarth Festival of the Black Mountains
-

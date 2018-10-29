@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Colin Fox (@colinfoxssp) on Twitter
-
 The Twitter profile of Colin Fox, RISE Alliance candidate for Lothian in the 2016 Scottish Parliament elections.

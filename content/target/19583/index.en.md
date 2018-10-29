@@ -10,6 +10,4 @@
   "start_date": "2015-03-25T12:00:00Z"
 }
 
-# Facebook: Claire Baker
-
 Facebook page of Claire Baker, Member of the Scottish Parliament for Mid Scotland and Fife.

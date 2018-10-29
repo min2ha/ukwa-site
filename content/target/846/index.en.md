@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mid Staffordshire NHS Foundation Trust Inquiry
-
 None

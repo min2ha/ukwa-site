@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Luton and Leighton Area Meeting Quaker Camp
-

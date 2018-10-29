@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jim Halfpenny (@TUSCrenfrewshi) on Twitter
-
 The Twitter profile of Jim Halfpenny, the Trade Unionist and Socialist Coalition candidate for Paisley and Renfrewshire North in the UK General Election on the 7th May 2015 and Renfrewshire North and West in the 2016 Scottish Parliamentary election.

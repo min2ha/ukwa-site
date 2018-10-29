@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Parc Cybi Holyhead
-
 Parc Cybi is a Welsh Government Enterprise Zone located in Holyhead.

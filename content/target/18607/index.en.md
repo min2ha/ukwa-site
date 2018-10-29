@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Williams (@mark4ceredigion) on Twitter (Liberal Democrats Politician)
-
 Mark Williams stood as Liberal Democrat candidate for Ceredigion in the 2017 General Election but was not elected. He was first elected for Ceredigion in 2005.

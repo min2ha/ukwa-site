@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election aftermath: five key market indicators to watch
-
 None

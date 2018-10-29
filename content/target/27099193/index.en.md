@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Grace Baptist Women's Association South East (GBWASE)
-
 Cancelled

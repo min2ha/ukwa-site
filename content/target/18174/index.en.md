@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: David Cameron scared of TV election debates, say rivals
-
 None

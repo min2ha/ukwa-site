@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# International Journal of Welsh Writing in English
-
 <p>This is the official blog of the International Journal of Welsh Writing in English, which is published by University of Wales Press.</p>

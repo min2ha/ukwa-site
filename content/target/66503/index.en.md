@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Department for Transport (@transportgovuk) on Twitter
-
 We're the UK Department for Transport (DfT). Follow us for transport policy updates and announcements. 

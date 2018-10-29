@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: This is Brexit poker - and Theresa May was right to up the stakes
-

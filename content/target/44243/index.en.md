@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Thomas & Friends
-
 Official website for Thomas the Tank Engine and his friends. 

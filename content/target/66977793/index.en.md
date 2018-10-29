@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Speaking Up For Disability
-
 None

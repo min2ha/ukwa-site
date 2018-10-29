@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Freshwater Biological Association
-
 None

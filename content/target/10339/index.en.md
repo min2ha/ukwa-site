@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Land of Oak and Iron
-
 None

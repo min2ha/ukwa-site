@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's 'paranoia' stops him working with shadow cabinet colleagues, Damian McBride says
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Home Office: Commissioning letter to the Migration Advisory Committee
-
 The Home Secretary’s letter to Professor Alan Manning the chair of the Migration Advisory Committee (MAC) commissioning the MAC to examine the role EU nationals play in the UK economy and society.

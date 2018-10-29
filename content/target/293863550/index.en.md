@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Greener Scotland
-
 General guidance for greener living, provided by the Scottish Government.

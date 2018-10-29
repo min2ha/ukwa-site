@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Neil Hamilton (@NeilUKIP) on Twitter 
-
 Neil Hamilton is the UKIP candidate for Carmarthen East and Dinefwr and Mid and Wales West at the 2016 National Assembly Elections. 

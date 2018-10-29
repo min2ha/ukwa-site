@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Sunday Herald, The: First Minister Nicola Sturgeon orders intervention in Brexit legal case
-

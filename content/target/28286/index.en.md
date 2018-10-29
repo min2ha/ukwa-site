@@ -10,6 +10,4 @@
   "start_date": "2015-06-24T10:00:00Z"
 }
 
-# National Tidal and Sea Level Facility (NTSLF) 
-
 The National Tidal and Sea Level Facility (NTSLF) is the UK centre for sea level monitoring, coastal flood forecasting and the analysis of sea level extremes. It is the focus for sea level research in the UK and for its interpretation into advice for policy makers, planners and coastal engineers.

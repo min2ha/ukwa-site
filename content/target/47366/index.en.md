@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Nigel Farage warns of 'seismic shock' if Brexit not delivered
-
 "Another big seismic shock" could hit British politics at the next election, Nigel Farage warns, if Brexit is not delivered by 2020.

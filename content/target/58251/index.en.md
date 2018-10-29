@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Perth Beer Festval
-
 Site of a beer festival at Perth, Perth & Kinross, incorporating comedy and music events.

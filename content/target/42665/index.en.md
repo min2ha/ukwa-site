@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Wallacewell Community Fellowship
-
 Site of a community religious fellowship based in Glasgow and attached to the Church of Scotland.

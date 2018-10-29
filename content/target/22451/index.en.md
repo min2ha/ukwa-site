@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Analysis: 'Hell yes, I'm tough enough to be PM'
-
 None

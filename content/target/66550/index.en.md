@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Office of Rail and Road (ORR) (@railandroad) on Twitter
-
 The Office of Rail and Road protects the interests of rail and road users. We do not respond to complaints here.

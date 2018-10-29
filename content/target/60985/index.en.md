@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tir Conaill Harps GAC
-
 Tir Conaill Harps is a community based registered charity which provides opportunities  for young people to play and enjoy  the gaelic and celtic sports of gaelic football, hurling, camogie and ladies gaelic football.  

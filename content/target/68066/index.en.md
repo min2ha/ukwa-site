@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# South of England Hedge Laying Society
-
 The Society was formed to bring together many hedge layers who were enjoying their craft and competing at local ploughing matches

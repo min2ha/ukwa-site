@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cross Stitching
-
 Online version of the Cross Stitching Crazy and Cross Stitching Gold magazines.

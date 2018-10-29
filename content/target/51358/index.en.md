@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Hetain Patel
-
 Hetain Patel is an artist based in London.

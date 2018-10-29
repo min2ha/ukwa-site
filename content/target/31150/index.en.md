@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# AlanTuring.net - The Turing Archive for the History of Computing
-
 Web collection of digital facsimiles of original documents by Turing and other pioneers of computing.

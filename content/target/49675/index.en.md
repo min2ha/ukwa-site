@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Kirkcaldy Amateur Operatic Society
-
 Site of an amateur musical theatre company based in Kirkcaldy, Fife.

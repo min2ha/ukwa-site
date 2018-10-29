@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Clare Moody (ClareMoodyMEP ) on Twitter (Labour MEP for South West and Gibraltar)
-
 Clare Moody stood as Labour candidate for the South West and Gibraltar at the 2014 European Parliament election and was elected to serve as MEP. . She is a member of the influential Group of the Progressive Alliance of Socialists and Democrats and sits on the Foreign Affairs Committee, Security and Defence Committee, Budget Committee, Industry, Telecommunications, Research and Energy Committee and Women's Rights and Gender Equality Committee.

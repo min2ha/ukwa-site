@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Brass Book
-
 Brass Book is a project that delves deep into concept of the book in the digital age by bringing together poetry, traditional craftsmanship, dynamic technology and vibrant performance.

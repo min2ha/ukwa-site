@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour eschews last-minute surprises in businesslike manifesto
-
 None

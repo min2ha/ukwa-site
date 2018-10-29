@@ -10,6 +10,4 @@
   "start_date": "2018-03-17T09:00:00Z"
 }
 
-# Rehab 4 Alcoholism
-
 Rehab 4 Alcoholism works closely with rehabilitation centres and outpatient clinics throughout the United Kingdom and the admissions team match patients’ addiction with an appropriately placed rehabilitation centre.

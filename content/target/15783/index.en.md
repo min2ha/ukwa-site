@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Citystay
-
 <p>Citystay provides serviced self catering apartments in Cambridge.</p>

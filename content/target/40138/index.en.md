@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Looming EU vote posing risk to British economy, Mark Carney says 
-
 Guardian, The

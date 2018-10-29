@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Justin Welby Archbishop of Canterbury: Archbishop opens debate on the result of the EU referendum 
-
 Archbishop of Canterbury's opening speech of Synod debate on the result of the EU referendum.

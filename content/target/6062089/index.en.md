@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# JonnyB's Private Secret Diary
-

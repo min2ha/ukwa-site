@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Doyle on Facebook
-
 This is the Facebook page of Andrew Doyle, the Cannabis is Safer than Alcohol candidate for Paisley and Renfrewshire North in the UK General Election on the 7th May 2015.

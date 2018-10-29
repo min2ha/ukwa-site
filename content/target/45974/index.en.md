@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Philip Harper
-
 Philip Harper is a conductor, a composer and an educator and Musical Director of the Cory Band, Rhondda.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish League
-
 This site has been established by Scottish football historian David Ross. For over 30 years David has been searching through libraries, books, newspapers and magazines all over Britain compiling a comprehensive history of Scottish football. 

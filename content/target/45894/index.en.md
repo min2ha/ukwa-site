@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Spoken Word Wales
-
 News about spoken word and performance poetry scene events in Wales. This website highlights all events in Wales which feature the spoken word.

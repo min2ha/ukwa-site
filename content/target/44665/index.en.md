@@ -10,6 +10,4 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# Festival of the Celts, The
-
 Festival of the Celts is a music festival held in Llandovery celebrating Celtic Music.

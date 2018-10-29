@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Society for applied microbiology: Tackling the Ebola crisis - a blog
-
 Blog of Louise Hill-King, microbiologist, on working in the Ebola Diagnostics Centre in Sierra Leone.

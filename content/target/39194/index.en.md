@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Edwin Morgan Poetry Award
-
 Site of a biennial poetry award named after Scottish poet Edwin Morgan (1920-2010) and open to published and non-published collections of poetry written by poets under thirty years of age who have a strong connection to Scotland.

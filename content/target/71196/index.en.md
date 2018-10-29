@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Lewis Pugh
-
 Personal website for Lewis Pugh.

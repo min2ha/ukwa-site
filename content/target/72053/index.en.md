@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-#  Fieldwork
-
 Fieldwork operate in the arts and culture field, running and producing projects, and supporting artists and new initiatives. They are based in Cardiff.

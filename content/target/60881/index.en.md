@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Panmure Rugby Football Club
-
 Site of a Scottish rugby union football club based in Broughty Ferry, Angus.

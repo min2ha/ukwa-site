@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Welsh Government: Review of Health and Social Care
-
 This is the Welsh Government's review of health and social care in Wales. A report will be published by Christmas 2017. The report will consider the current situation in addition to setting out the challenges facing health and social care over the next 5-10 years.

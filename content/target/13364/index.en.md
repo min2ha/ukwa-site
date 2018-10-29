@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Morning Star: Disability activists spread 'Atos kills' message at Commonwealth Games
-
 <p>Morning Star article about a protest against Atos being an official supporter and supplier of services to the XX Commonwealth Games, which took place in George Square, Glasgow on the 30th July 2014.</p>

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Govan Gaelic Choir (@govangaelic) on Twitter
-

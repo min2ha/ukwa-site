@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Fédération des Associations Françaises en Grande Bretagne
-
 <p>Fédération des Associations Françaises en Grande Bretagne is a Federation of French Associations in Great Britain.</p>

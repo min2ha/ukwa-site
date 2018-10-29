@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret's Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Airdrie, Lanarkshire.

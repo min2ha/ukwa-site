@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hastings & Rye Conservatives
-
 Provides basic information about the Hastings & Rye Conservatives, and encourages people to join.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Jed-Thistle Rugby Football Club
-
 Site of a Scottish rugby union football club based in Jedburgh, Scottish Borders.

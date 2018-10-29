@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kent Conservatives
-
 Website of Kent Conservatives, providing information on Conservatives in Kent constituencies, branch officers, local authorities, and local, national and party news.

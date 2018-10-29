@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# British Computer Society (BCS)
-
 Website of British Computer Society, a professional body and a learned society established in 1957 that represents those working in Information Technology both in the United Kingdom and internationally. It it rebranded as BCS — The Chartered Institute for IT in 2009, although this has not been reflected in a legal name change.

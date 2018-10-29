@@ -10,6 +10,4 @@
   "start_date": "2015-04-14T09:00:00Z"
 }
 
-# London Gatwick Obviously
-
 Website promoting the idea of building a second runway at Gatwick Airport.

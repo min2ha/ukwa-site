@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Prestwick South Parish Church
-
 The website of Prestwick South Parish Church. 

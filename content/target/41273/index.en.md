@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# BBC Food on Facebook
-
 BBC Food brings you recipes from BBC programmes, How to Cook video recipes to help you learn to cook, and features about what’s happening now in the world of food.

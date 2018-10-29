@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Disabled People's Manifesto: Creating an enabling Wales
-

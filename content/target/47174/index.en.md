@@ -10,5 +10,3 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Swansea University Students' Union | Unndeb Myfyrwyr Prifysgol Abertawe
-

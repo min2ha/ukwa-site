@@ -10,5 +10,3 @@
   "start_date": "2016-04-25T10:00:00Z"
 }
 
-# Telegraph, The: Boris Johnson: Americans would never accept EU restrictions – so why should we?
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Can Switzerland show UK route to Brexit?
-

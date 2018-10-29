@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cromarty and Resolis Film Society / Cromarty Film Festival
-
 Site of a film society and their annual festival, located in Cromarty, Highland, Scotland.

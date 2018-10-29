@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Weymouth RFC (@WeymouthRFC) on Twitter
-
 Weymouth Rugby Club is one of the oldest rugby football union clubs in the country. 

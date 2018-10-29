@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Daily News - News from a sovereign nation
-
 <p>A news story site covering Wales.</p>

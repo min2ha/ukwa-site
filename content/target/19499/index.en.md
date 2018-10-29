@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# St John's College, University of Cambridge: Magna Carta 1215-2015
-

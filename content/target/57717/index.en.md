@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Love Potatoes
-
 AHDB Potatoes is part of the Agriculture and Horticulture Development Board www.ahdb.org.uk working on behalf of British potato growers and purchasers to promote potatoes.

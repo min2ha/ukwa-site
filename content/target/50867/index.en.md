@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Magor Churchmen’s Society, The
-

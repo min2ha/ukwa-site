@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Business, Energy and Industrial Strategy Committee: The impact of Brexit on the automotive sector
-
 The Business, Energy and Industrial Strategy (BEIS) Committee calls for the Government to keep the closest possible relationship with the existing EU regulatory and trading framework to give UK volume car manufacturing a realistic chance of survival post-Brexit.
 

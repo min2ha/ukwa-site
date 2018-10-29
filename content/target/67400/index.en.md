@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Derby Rugby Football Club
-
 An ambitious club, Derby Rugby Football Club takes pride in looking after its members and fostering the game of rugby for everyone.

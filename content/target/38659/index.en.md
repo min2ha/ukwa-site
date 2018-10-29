@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cllr Fariha Thomas (@FarihaThomas) on Twitter
-
 Twitter profile of Fariha Thomas, the Scottish Labour candidate for Glasgow Southside in the 2016 Scottish Parliamentary election.

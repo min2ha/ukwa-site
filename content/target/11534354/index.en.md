@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# St Pixels
-
 None

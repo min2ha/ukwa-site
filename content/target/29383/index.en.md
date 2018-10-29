@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Dinosaur Society, The
-
 The Dinosaur Society's mission is to encourage everyone to learn about and enjoy the fascination of dinosaurs, and to support the work of people engaged in forwarding the science of palaeontology.

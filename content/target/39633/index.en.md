@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jennifer Dunn - SNP candidate for Ayr
-
 Jennifer Dunn is the Scottish National Party (SNP) candidate for Ayr in the 2016 Scottish Parliamentary election.

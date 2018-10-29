@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Public Policy Institute for Wales (PPIW) | Sefydliad Polisi Cyhoeddus i Gymru
-
 <p>The Public Policy Institute for Wales (PPIW) was established in January 2014 and is co-funded by the Economic and Social Research Council and the Welsh Government. It aims to improve the lives of the people of Wales by providing Ministers with authoritative independent analysis and advice.</p>

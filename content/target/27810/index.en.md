@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# York Press, The: Comedy
-
 Comedy listings, reviews and news from The York Press

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Tory Brexit policy is chaotic: the fightback against this stitch-up must begin at once
-
 David Miliband makes a dramatic entry into the debate about Britain’s exit from the EU with an impassioned call for politicians from all parties to work together to avoid the Tory high command driving the country “off a cliff”.

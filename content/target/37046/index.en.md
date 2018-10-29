@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: The UK's EU referendum: All you need to know
-
 BBC News: The UK's EU referendum: All you need to know

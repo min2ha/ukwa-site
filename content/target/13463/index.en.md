@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Michael Moore (MichaelMooreMP) on Twitter
-
 <p>The twitter profile of Michael Moore, Liberal Democrat Member of Parliament for Berwickshire, Roxburgh and Selkirk.</p>

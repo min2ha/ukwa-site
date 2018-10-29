@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Lord Wigley says six Plaid Cymru MPs 'will mean Scotland is not the only nation getting attention at Westminster' 
-

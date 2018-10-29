@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# BritishForums.co.uk
-
 BritishForums.co.uk is an online enthusiast community hub containing various miscellaneous sub forums relating to Britain or British culture.

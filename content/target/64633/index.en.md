@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Provincial Grand Lodge of Caithness
-
 Site of the provincial grand lodge of Scottish Freemasonry affiliated to the Grand Lodge of Scotland and located in the historic county of Caithness, Highland.

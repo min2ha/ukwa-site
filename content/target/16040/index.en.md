@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# NHS 24
-
 Health Information and Self Care Advice for Scotland.

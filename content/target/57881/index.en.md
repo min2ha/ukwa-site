@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffpost: Mental Health, Situation Critical - The Effect Of Social Media
-
 Blog discussing the effects of social media on mental health 

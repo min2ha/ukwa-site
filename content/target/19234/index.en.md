@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Ballot opens to see four original copies of the Magna Carta
-

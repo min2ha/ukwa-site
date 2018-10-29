@@ -10,5 +10,3 @@
   "start_date": "2017-06-03T09:00:00Z"
 }
 
-# People's Voice, The
-

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# South Loch Ness Heritage Group
-
 Site of a group established to research, promote and safeguard the heritage of the South Loch Ness area, and to create an archive of the area, and to collate material for publication, exhibition and education.

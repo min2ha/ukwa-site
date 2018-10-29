@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Kick Nuclear 
-
 Kick Nuclear is a London-based grassroots group campaigning against the UK’s addiction to nuclear power – and supporting sustainable alternatives.

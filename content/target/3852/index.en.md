@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Yahoo News UK
-
 UK edition of Yahoo news section.

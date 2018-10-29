@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Porc.Wales
-
 A site for Wales' specialist farmers, artisan producers and master butchers of pork.

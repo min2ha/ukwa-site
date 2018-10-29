@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  It's E-Day! Britain's man in Brussels arrives at EU headquarters for the historic moment when Article 50 is FINALLY triggered - as May gathers her Cabinet to begin preparing for a future outside the EU    
-

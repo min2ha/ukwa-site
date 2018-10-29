@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 21st June 2018: EU Settlement Scheme
-
 Statement and debate on the new settlement scheme for EU citizens resident in the UK after Brexit

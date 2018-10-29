@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Quakers in Warwickshire, Birmingham and the West Midlands
-

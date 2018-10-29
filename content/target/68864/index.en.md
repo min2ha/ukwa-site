@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  British MPs outraged at 'repulsive' Trump broadside against May
-
 Some questioned whether US president should meet Queen after holding Brexit deal hostage and suggesting an alternative PM

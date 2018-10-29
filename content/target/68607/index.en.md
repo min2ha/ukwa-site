@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Dundee Pride 2018 on Facebook
-
 Facebook page for the LGBTQ+ pride event in Dundee, Scotland, in September 2018.

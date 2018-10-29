@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Lodge Albert No. 448
-
 Site of a masonic lodge located in the Lochee area of Dundee and affiliated with the Grand Lodge of Scotland.

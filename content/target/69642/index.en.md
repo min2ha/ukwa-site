@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Mirin's Cathedral, Paisley
-
 Site of a Scottish Roman Catholic parish and cathedral church located in Paisley, Renfrewshire.

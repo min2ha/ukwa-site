@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Army Netball Association
-
 Website of the Army netball Association with information on teams, fixtures and results.

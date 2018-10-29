@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# STV Glasgow: National Theatre of Scotland debates independence with Five Minute Theatre
-
 None

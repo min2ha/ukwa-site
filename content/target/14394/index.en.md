@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - This important essay on the psychology of the...
-
 Ewan Morrison's Facebook post of 10th September, 2014.

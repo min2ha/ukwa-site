@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matt Rodda (@MattRodda) on Twitter (Labour Politician)
-
 Matt Rodda  stood as Labour candidate for Reading East at the 2017 General Election and was elected to serve as MP.

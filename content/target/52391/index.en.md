@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Council for Voluntary Organisations (NVCO): A snap general election: what should charities be doing?
-
 The NCVO advises charities on how to influence the 2017 General Election.

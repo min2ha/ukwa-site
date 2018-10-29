@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Wivmayor
-
 This is the official website of the Mayor of Wivenhoe, Andrea Luxford Vaughan between May 2013 and May 2014. 

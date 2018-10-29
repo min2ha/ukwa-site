@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Limehouse Podcast, The
-
 Comments on UK politics from a liberal perspective through interviews with politicians of that persuasion. A new podcast is issued every Thursday.

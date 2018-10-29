@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BSC Glasgow Football Club
-
 Site of a Scottish amateur football club based in Glasgow.

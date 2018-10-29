@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# African Community Centre (ACC) Wales 
-
 African Community Centre (ACC) Wales provides advice and support to people of African origin residing in Wales and run educational programmes for people of all ages and abilities including English language, citizenship, and information on various health issues.

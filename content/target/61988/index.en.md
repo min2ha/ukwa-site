@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Pride Park Stadium
-
 Pride Park is an all-seater football stadium in Derby, England, that is the home ground of English Football League club Derby County. With a capacity of 33,597, it is the 16th-largest football ground in England and the 20th-largest stadium in the United Kingdom.

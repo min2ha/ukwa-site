@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: It's difficult to overestimate the election's significance
-
 None

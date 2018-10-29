@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# David MacBrayne
-
 David MacBrayne Group subsidiaries include CalMac Ferries and Argyll Ferries, which operate ferry services to islands off the West coast of Scotland and in the Clyde estuary, under public service contracts with the Scottish Government.

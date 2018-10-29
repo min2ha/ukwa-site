@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Philip Dodd (@pdgreenparty) on Twitter (Green Party  Politician)
-
 Philip Dodd stood as Green Party candidate for Sevenoaks at the 2017 General Election but was not elected.

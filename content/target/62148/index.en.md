@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# DigitalWorldz Forum
-
 An online enthusiast community concerned with digital trends. Discusses PC / Mac, TV Streaming, Satellite, Cable, Smart Homes and other related topics.

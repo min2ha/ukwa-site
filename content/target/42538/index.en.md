@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum: Leave campaign closes gap to narrowest margin yet as latest poll shows Brexit vote will go down to the wire
-
 This week’s ORB poll sends mixed signals about voters’ thinking on the EU referendum. 

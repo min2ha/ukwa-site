@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron willing to take part in TV election debates, say Conservatives
-
 None

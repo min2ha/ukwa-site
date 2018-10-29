@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Internation Business Times: Calling all Harry Potter fans - a wizarding-themed pub is going to open in London
-

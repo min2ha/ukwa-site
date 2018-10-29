@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# JustGiving.com: Raising money for the families affected by the Grenfell Tower disaster
-
 A website for a JustGiving fundraising effort for the victims and families affected by the Grenfell Tower accident

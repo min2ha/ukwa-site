@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: A Magna Carta edition worth up to £10 million lay forgotten in Kent
-

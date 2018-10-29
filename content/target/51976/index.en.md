@@ -10,6 +10,4 @@
   "start_date": "2017-04-13T09:00:00Z"
 }
 
-# Scottish Business News Network
-
 Site of a bisiness news service for Scotland.

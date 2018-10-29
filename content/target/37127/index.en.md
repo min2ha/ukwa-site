@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe: Open Europe poses ten questions for the EU referendum Remain and Leave campaigns
-
 The Open Europe think tank proposes ten questions or issues for each side to answer or counter if they are to present a convincing and honest case. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Brexit The view from abroad? Britain has lost its balance, but doesn’t realise it
-

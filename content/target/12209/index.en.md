@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nic Strange (NicoStrange) on Twitter
-
 Twitter profile of badminton player Nic Strange, member of Team Wales at the 2014 Commonwealth Games.

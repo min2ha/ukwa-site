@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Fraud Advisory Panel
-
 The Fraud Advisory Panel is the respected, influential and independent voice of the anti-fraud community.

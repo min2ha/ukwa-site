@@ -11,5 +11,3 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Jalalia Mosque & Islamic Education Centre Cardiff on Facebook
-

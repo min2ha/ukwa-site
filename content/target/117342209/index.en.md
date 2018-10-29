@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christians in Government UK
-
 None

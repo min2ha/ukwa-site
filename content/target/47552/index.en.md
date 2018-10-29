@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Tory Reform Group:  Brexit Select Committee: a voyage into the unknown
-
 Reflects on the role of the newly formed Select Committee on Exiting the European Union.

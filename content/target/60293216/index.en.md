@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Web Innovation Project
-
 None

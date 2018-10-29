@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# frank baines (FrankBaines) on Twitter
-
 <p>The twitter profile of althete Frank Baines, gymnast and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

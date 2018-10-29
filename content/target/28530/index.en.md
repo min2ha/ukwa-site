@@ -10,6 +10,4 @@
   "start_date": "2015-06-30T10:00:00Z"
 }
 
-# British Press Photographers’ Association (BPPA), The
-
 The British Press Photographers’ Association (BPPA) was formed in 1984 by a small group of Fleet Street photographers. Its aim is to promote and inspire the ethical, technical and creative standards from within the profession and raise awareness and appreciation of the industry. 

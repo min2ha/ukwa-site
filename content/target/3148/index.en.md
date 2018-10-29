@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Scottish Documentary Institute (SDI)
-
 Scottish Documentary Institute (SDI) is a documentary research centre based at Edinburgh College of Art/University of Edinburgh specialising in documentary training, production and distribution. It was set up in 2004 by Noe Mendelle.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-29T10:00:00Z"
 }
 
-# Live Active Leisure
-
 Site of an organisation running sports and leisure facilities in Perth & Kinross, Scotland.

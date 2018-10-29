@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# BES Utilities Blog
-
 Hints and tips provided by a utilities provider, BES Utilities based in Fleetwood.

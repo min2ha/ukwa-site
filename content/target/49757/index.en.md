@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# London Assembly. Economy Committee:  EU exit: workers' rights and the London labour market
-
 The London Assembly Economy committee took evidence from leading experts on employment, pay, and wider labour market issues, to understand the risks associated with EU exit for the London labour market and its workers.

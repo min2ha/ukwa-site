@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Festival of Food and Drink
-
 two day food and drink festival, featuring street food flavours

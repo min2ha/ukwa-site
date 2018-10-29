@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Egwyl Magazine: News from the students of Wrexham's Glyndwr University
-
 Egwyl Magazine is run by Broadcast, Journalism, Media & Communications students from Wrexham Glyndwr University.

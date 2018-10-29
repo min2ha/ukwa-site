@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Muriel Spark Society, The
-
 The purpose of the Society is to promote the understanding, appreciation and enjoyment of Muriel Spark's work.

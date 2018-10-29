@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Strathglass Marketing Group
-
 Site of a marketing organisation promoting businesses and tourism in the Strathglass area of the Highlands, Scotland.

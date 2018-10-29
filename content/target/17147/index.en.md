@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Jonathan Isaby: If I were Prime Minister: No budget would be ringfenced and public spending would be reined in
-

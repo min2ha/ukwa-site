@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Mid Deeside Limited
-
 Site of a community company set up to develop social, educational, cultural or economic purpose projects of local benefit and interest, in the area of Deeside, Aberdeenshire.

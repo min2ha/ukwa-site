@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: City banks tone down Brexit doom and gloom forecasts
-

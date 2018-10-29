@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tony Blair donates more than £100,000 to Labour's General Election war chest
-
 None

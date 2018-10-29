@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Stewart Stevenson (zsstevens) on Twitter
-
 Twitter profile of Stewart Stevens, Scottish National Party member of the Scottish Parliament for Banffshire and Buchan Coast.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Leadenhall Building, The
-
 The Leadenhall Building is a joint venture by British Land, a Real Estate Investment Trusts (REITs) member, and Oxford Properties. Designed by the architects RSH+P and constructed by Laing O'Rourke the building is located on Leadenhall Street in central London.

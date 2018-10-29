@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ten places where voters will decide whether Ed Miliband's career lives or dies
-
 None

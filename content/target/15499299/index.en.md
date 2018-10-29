@@ -11,6 +11,4 @@
   "subject": "Philately"
 }
 
-# Stamp Printers
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-10-18T09:00:00Z"
 }
 
-# Gwyn Vaughan Williams
-
 Gwyn Vaughan Williams is an artist originally from Prestatyn, north Wales but now based in Canada. 

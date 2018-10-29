@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Mary's Meals
-
 <p>Mary’s Meals began in 2002 as a one-off school feeding programme and now it provides a meal a day to nearly one million school children all over the world. It was established by two brothers, Magnus and Fergus MacFarlane-Barrow and is a charity registered in Scotland.</p>

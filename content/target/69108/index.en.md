@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Girlguiding: social action, advocacy and campaigns
-
 The girl guides' page on their social action projects

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food and Rural Affairs: A brighter future for farming
-
 Secretary of State Michael Gove sets out the direction of travel for the UK farming industry after Brexitat the NFU Farming Conference 2018
 

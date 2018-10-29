@@ -10,6 +10,4 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# ResearchSpace (@ResearchSpace) on Twitter
-
 ResearchSpace is a British Museum project, funded by the Andrew W. Mellon Foundation, that uses Semantic Web technology to support cultural heritage research. It provides an integrated environment for contextual data and tools designed to reflect research methods, including Semantic Search, Personal Clipboards etc.

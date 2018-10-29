@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Brittany Ferries Enthusiasts 
-
 An online community for Brittany ferry enthusiasts 

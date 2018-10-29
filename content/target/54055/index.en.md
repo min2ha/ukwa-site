@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Richard Elvin (UKIP Politician)
-
 Richard Elvin stood as UK Independence Party (UKIP) candidate in the constituency of South Shields in the 2017 General Election but was not elected.

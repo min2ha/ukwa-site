@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Allan Church
-
 Site of a Church of Scotland parish church at Bannockburn, Stirlingshire.

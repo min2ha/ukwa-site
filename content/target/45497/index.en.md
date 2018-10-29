@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T12:00:00Z"
 }
 
-# J D Davies (Historian and author)
-
 J.D. Davies is one of the foremost authorities on the seventeenth-century navy and has written widely on the subject, from books to historical journals and other academic publications. 

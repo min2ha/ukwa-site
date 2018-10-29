@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# Chelmsford Locksmiths
-
 A local award winning locksmith in Chelmsford, Essex

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Visualising the Emotional Response to LONDON 2012
-

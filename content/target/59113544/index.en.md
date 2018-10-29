@@ -10,5 +10,3 @@
   "start_date": "2011-01-12T00:00:00Z"
 }
 
-# newlifesalford.org: New Life Church
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband said he wanted to 'weaponise' NHS in secret meeting with BBC executives
-
 None

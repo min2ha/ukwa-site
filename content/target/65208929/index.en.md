@@ -10,5 +10,3 @@
   "start_date": "2012-07-12T00:00:00Z"
 }
 
-# STEM WISHEES: A community collection of STEM writing in schools, higher education and employment settings with learning resources
-

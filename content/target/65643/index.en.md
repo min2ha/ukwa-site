@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Academi Gerdd y Lli
-
 Academi Gerdd y Lli is a music academy for children from years 1 – 6 and is located in Aberystwyth.

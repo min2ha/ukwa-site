@@ -10,5 +10,3 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Coedpoeth Evangelical Free Church, Wrexham
-

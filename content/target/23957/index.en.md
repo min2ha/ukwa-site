@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour pledges stamp duty help for first-time buyers
-
 None

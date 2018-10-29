@@ -10,5 +10,3 @@
   "start_date": "2016-11-19T09:00:00Z"
 }
 
-# Canolfan Addysg Athrawon De-Orllewin Cymru | South West Wales Centre of Teacher Education
-

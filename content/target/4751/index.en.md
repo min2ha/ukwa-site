@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# University of Sussex Student's Union: Our Tribute to Nelson Mandela
-
 None

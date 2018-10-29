@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Mill Hill RFC
-
 The official website of Mill Hill Rugby Football Club. Established 1937.

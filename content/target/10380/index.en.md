@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Alex Mayer, Labour Party on Twitter
-

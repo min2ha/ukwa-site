@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Dean of Salisbury speaks about the role of the Church in the creation of Magna Carta
-

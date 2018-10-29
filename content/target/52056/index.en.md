@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. George’s, Holborn
-
 St. George’s [Holborn] is a local Christian church, worshipping Jesus passionately in Spirit and truth, believing him to be the source of hope for the world and for Holborn and for us all as individuals, families and communities.

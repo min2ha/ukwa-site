@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit transition must end by 2022, says Hammond
-
 Any "transitional deal" in the period after Brexit must end by June 2022, the time of the next general election, Philip Hammond confirmed. ut the chancellor said there must be "business as usual, life as normal" for Britons as the UK left the EU.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Osborne blasted by Eurosceptics for 'using Britain's record £32billion black hole to spread fear about Brexit'    
-

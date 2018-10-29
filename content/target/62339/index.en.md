@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oxford United Football Club
-
 Oxford United Football Club is a professional football club based in the city of Oxford, Oxfordshire, England.

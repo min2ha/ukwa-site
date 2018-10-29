@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Dairy UK
-
 Dairy UK is the trade association for the British dairy supply chain. It brings together processors, dairy co-operatives, manufacturers, farmers and bottle milk buyers throughout the United Kingdom.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Stroke Club UK
-
 ◦Stroke Club UK provides support for stroke victims, their families, carers and friends.

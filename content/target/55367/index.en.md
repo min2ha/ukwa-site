@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Bait Studio
-
 Bait Studio is a film production company and visual effects studio based in Cardiff. 

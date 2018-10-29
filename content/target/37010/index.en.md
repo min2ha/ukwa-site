@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Tower Regeneration
-
 Tower Colliery was a deep-coal mine and the last mine of its kind to remain in South Wales. It was located near the villages of Hirwaun and Rhigos, north of Aberdare. Tower Regeneration will involve the 'extraction of the remaining surface coal before fully restoring the entire colliery site with landscaping and nature conservation areas'.

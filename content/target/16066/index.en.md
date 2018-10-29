@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Rotary Club of Marlow
-
 <p>Rotary International is a secular organisation whose purpose is to bring together business and professional leaders in order to provide humanitarian services, encourage high ethical standards in all vocations, and help build goodwill and peace in the world.</p>

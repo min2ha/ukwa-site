@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Law Society Gazette: Summit: Magna Carta – ‘equality before the law in gestation’
-

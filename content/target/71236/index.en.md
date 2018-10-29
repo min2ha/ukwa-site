@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sudbury Festival of Performing Arts
-
 Website for the Sudbury Festival of Performing Arts.

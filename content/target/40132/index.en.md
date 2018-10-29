@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Leave campaign hits back with its own economists 
-
 Guardian, The

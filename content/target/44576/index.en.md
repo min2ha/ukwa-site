@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Phoenix Garden
-
 The Phoenix Garden is in the heart of London's West End, situated behind the junction of Charing Cross Road and Shaftesbury Avenue. It is a community garden and registered charity, managed by volunteers drawn from the local community and workers in the area.

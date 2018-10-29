@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Northamptonshire County Council - Flood Toolkit
-
 A website set up by Northamptonshire County Council with advice and updates on potential flood threats, prevention planning and guidelines on what to do in am emergency.

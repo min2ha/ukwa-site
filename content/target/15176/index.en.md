@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Newham Issues Forum
-
 <p>E-Democracy builds online public space in the heart democracy and community. Their mission is to harness the power of online tools to support participation in public life, strengthen communities, and build democracy.</p>

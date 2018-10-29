@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# History Today.com: What was Wrong with King John?
-

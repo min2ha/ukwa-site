@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Holburne Museum, The
-
 Official website of the Holburne Museum, Bath.

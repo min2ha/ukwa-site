@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: MACRON’S LIFELINE French President Emmanuel Macron changes his tune and urges EU leaders to make a Brexit deal with Britain
-
 According to reports in the Times, President Macron had changed his tune and was pushing other EU leaders to agree to a close relationship with Britain after Brexit. 

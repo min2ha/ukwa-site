@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bingham Terrace LDS Church on Facebook
-
 Facebook page of a branch of the Church of Jesus Christ of Latter-Day Saints, located in Dundee.

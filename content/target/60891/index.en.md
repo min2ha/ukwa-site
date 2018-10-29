@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Lavender Sweep Records
-
 Lavender Sweep Records is a DIY cassette label based in Swansea. They specialise in shoegaze, ambient, indie pop, new wave, lo-fi and punk.

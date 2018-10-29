@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: They've finally given us a vote on Europe just in time to see it collapse. So, whoever 'wins', we need to prepare for the chaos that comes after    
-

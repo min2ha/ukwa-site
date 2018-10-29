@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Welsh Gaming Network
-
 The Welsh Gaming Network was established in 2016. The focus is to create a gaming community in Wales, promoting gaming content, streamers, organisations, eSports and game development in Wales. 

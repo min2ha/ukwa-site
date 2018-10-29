@@ -11,6 +11,4 @@
   "subject": "Indian Ocean Tsunami December 2004"
 }
 
-# Committee for a Workers' International (CWI)
-
 The CWI has parties, groups and individuals in over 45 countries around the world. This website has articles from around the world and links to member party websites.

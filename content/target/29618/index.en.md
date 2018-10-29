@@ -10,6 +10,4 @@
   "start_date": "2015-08-05T10:00:00Z"
 }
 
-# Port Eliot Festival
-
 The Port Eliot Festival is an annual celebration of words, music, imagination, ideas, nature, food, fashion, flowers, laughter, exploration and fun.

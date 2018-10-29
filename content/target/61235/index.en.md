@@ -10,8 +10,6 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Llanvihangel Court
-
 Llanvihangel Court is an historic 15C Tudor Manor with landscaped
 gardens located near Abergavenny and the reputed hideaway for Charles 1
 during the Civil War.

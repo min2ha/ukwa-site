@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jack Hickey (@Jack4West ) on Twitter (Conservative Politician)
-
 Jack Hickey stood as Conservative candidate for Leicester West at the 2017 General Election but was not elected.

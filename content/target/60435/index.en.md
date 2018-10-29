@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# RETROGRAD
-
 RETROGRAD is an online project that engages with the history and transformation of socialism, focusing on architecture, urbanism, design and material and popular culture.

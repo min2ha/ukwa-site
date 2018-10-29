@@ -10,5 +10,3 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# A. L. Kennedy (@Writerer) on Twitter
-

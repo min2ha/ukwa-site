@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alliance For Choice: MLA Candidate's stance on abortion, #AE17
-
 Alliance For Choice compiled a spreadsheet of all of the MLA candidates and their stances on abortion law reform for the NI Assembly Election on March 2nd 2017. 

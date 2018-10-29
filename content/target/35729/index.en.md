@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Where is Labour’s clear and principled response to Boris Johnson?
-

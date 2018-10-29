@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Surrey Heath Literary Festival
-
 Festival

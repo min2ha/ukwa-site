@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Polling boss looks at the clues Scottish voters are giving?
-
 None

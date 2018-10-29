@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Black British Lesbian Timeline 
-
 None

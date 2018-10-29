@@ -10,5 +10,3 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Grŵp Cartrefi Cymunedol Cymru | Community House Group Cymru
-

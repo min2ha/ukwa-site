@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Jonathan Pie
-
 Jonathan Pie is a fictional comedy character who satirises the world of politics and the media.  The character is a frustrated news reporter known for his “off-camera” rants, his online videos have been viewed by millions worldwide.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Pro-EU campaign will say anything to get your vote, blasts Stephen Pollard
-
 Comment by Stephen Pollard

@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Deeside Brewery
-
 Site of a brewer located at Banchory, Anberdeenshire.

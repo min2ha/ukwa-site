@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Wild about Pembrokeshire
-
 Wild about Pembrokeshire offers wild food foraging walks and courses.

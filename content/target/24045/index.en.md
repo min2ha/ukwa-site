@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election results: I want to govern one UK - Cameron
-
 None

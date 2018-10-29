@@ -10,6 +10,4 @@
   "start_date": "2016-12-09T09:00:00Z"
 }
 
-# Terence Lambert
-
 Terence Lambert is a British wildlife artist.

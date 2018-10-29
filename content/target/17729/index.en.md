@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Natalie Bennett, Jennie Jones, Stalin - and a day to forget for the Greens
-
 None

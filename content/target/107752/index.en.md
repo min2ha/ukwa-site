@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# Rethink Mental Illness
-
 Rethink Mental Illness provides advice and information to everyone affected by mental health problems. They have over 200 mental health services and 150 support groups across England. 

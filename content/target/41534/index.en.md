@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rackenford Devon
-
 Useful information on events, places to stay and on the many local services available.

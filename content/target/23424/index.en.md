@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Victoria Groulef (@victoriagroulef) on Twitter (Labour candidate for Reading West)
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tir Conaill Harps (@TirConaillHarps) on Twitter
-
 Tir Conaill Harps is a GAC (and charity) in Glasgow with Gaelic Football, Hurling and Camogie teams of all ages! - Scotland Gaelic Football Champions 2012 -

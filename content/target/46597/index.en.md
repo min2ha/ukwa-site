@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# University of Edinburgh's Department of Celtic and Scottish Studies
-
 The University of Edinburgh's department of Celtic and Scottish Studies

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish Socialist Party - Inverclyde Branch on Facebook
-

@@ -10,5 +10,3 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Welsh Museum of Health & Medicine | Amgueddfa Iechyd a Meddygaith Cymru
-

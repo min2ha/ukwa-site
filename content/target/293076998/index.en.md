@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Parliament: General Election 2015 timetable
-
 None

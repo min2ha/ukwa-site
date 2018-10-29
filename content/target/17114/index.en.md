@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Nick Clegg: Voting Tory or Labour will put at risk all that the Coallition has achieved in the past five years
-

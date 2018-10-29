@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fiona Hyslop for Linlithgow on Facebook
-
 Facebook page of Fiona Hyslop, Scottish National Party candidate for Linlithgow in the 2016 Scottish Parliamentary election.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# National Standards for Community Engagement
-
 Site outlining the  Scottish National Standards for Community Engagement, the good-practice principles designed to support and inform the process of community engagement.

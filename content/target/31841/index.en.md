@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T18:00:00Z"
 }
 
-# Association of Anaesthetists of Great Britain and Ireland (AAGBI), The
-
 The Association of Anaesthetists of Great Britain and Ireland (AAGBI) was founded in 1932 by Dr Henry W. Featherstone. The AAGBI represents anaesthetists in the United Kingdom and the Republic of Ireland.

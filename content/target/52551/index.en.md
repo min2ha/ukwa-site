@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Aldrige Brownhill Liberal Democrats (@ablibdems) on Twitter (Aldrige Brownhill parliamentary constituency)
-
 Twitter account for Aldrige Brownhill Liberal Democrats.

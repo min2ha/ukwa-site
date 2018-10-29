@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Times, The: Crosby: Fear is key to winning Brexit votes
-
 Website for The Times newspaper

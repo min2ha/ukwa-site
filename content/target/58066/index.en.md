@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Meinir Mathias, Welsh Artist |  Meinir Mathias Artist Cymraeg
-
 Meinir Mathias is a Welsh artist based in Ceredigion. She draws inspiration from Welsh Folk tales, Story tellers and the Welsh landscape.

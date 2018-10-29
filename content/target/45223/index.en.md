@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Has Theresa May really thrown in her lot with the Brexiteers?
-

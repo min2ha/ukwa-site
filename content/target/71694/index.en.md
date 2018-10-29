@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Maidenhead Rugby Club
-
 The official website of Maidenhead Rugby Club.

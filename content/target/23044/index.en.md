@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Les Tallon-Morris (@flogger13) on Twitter (Independent candidate for Bridgend)
-

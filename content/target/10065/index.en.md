@@ -10,6 +10,4 @@
   "start_date": "2017-01-07T09:00:00Z"
 }
 
-# Black Cultural Archives
-
 Founded in 1981, the Black Cultural Archives’ mission is to collect, preserve and celebrate the heritage and history of Black people in Britain. 

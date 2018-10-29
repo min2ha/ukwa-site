@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# Rob Piercy
-
 Rob Piercy is member of the Royal Cambrian Academy and the Watercolour Society of Wales and became Welsh Artist of the Year in 2002.

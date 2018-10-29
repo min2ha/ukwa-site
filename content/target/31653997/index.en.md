@@ -10,5 +10,3 @@
   "start_date": "2010-10-20T00:00:00Z"
 }
 
-# Dave Danford Percussionist
-

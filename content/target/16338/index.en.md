@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Conservative Party (@conservatives) on Twitter
-
 Official Twitter feed of the Conservative Party on which they comment on current issues

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Chorley Rugby Union Club
-

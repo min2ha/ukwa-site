@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Word Cloud
-
 An online community where writers can read each other's work, offer comments and get feedback. The forums allow discussions on books, scripts and writing

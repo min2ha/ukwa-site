@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Neath Polyphonic Choir
-
 Neath Polyphonic Choir is a mixed voice choir which was formed in January 2010, with Mark Ritzmann as Choir Director. 

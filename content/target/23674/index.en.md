@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T08:00:00Z"
 }
 
-# Friends of Acton Park, The
-
 The Friends of Acton Park is a non-profit making community group set up by Wrexham County Borough Council and local residents in 2008 with the aim to promote, protect, maintain and improve Acton Park.

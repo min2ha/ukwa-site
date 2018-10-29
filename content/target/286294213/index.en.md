@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Mandela Day Scotland 2014
-
 <p>Nelson Mandela International Day in Scotland is organised by Action for Southern Africa (ACTSA) Scotland with the support of the Scottish Government, the Scottish Trades Union Congress, Glasgow City Council and other organisations.</p>
 <p>Mandela Day Scotland will take place on 18th July, Nelson Mandela’s birthday. As Glasgow prepares for the Commonwealth Games events will take place throughout Scotland, but the focus will be on Glasgow.</p>

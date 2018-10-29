@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour accuses Tories of trying to push through pet projects before election
-
 None

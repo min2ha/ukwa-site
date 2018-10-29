@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Town and Country Planning Association: Building the future: the TCPA's manifesto for the 2017 general election
-
 Following the announcement of a general election on 8 June 2017, the TCPA considers what challenges we face as a nation and what the next government must do to put Britain back at the cutting-edge of placemaking.
 

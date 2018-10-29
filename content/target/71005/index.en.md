@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Campbeltown Community Church
-
 Site of a Scottish Christian church of the Baptist denomination and its congregation located in Campbeltown, Argyll & Bute.

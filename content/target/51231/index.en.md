@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Cynghrair Costcutter | Costcutter League
-

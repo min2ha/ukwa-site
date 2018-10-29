@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Moriah Loughor: Birthplace of the 1904 Welsh Revival
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bristol Imperial RFC (@ImperialRFC) on Twitter
-
 The official Twitter account of Bristol Imperial Rugby Football Club.

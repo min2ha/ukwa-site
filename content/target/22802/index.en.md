@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hafal 2015 Election Manifesto
-
 Hafal is the Mental health charity for Wales.

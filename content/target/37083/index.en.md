@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# FT: What are the economic consequences of Brexit?
-

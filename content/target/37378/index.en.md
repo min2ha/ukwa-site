@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stephen Tall
-
 Blog: Stephen Tall

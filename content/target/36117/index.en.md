@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron slams as 'complete fiction' claims from his mentor Lord Howard that a Brexit vote in June could secure new EU reforms and a SECOND referendum   
-

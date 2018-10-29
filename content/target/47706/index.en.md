@@ -10,6 +10,4 @@
   "start_date": "2016-12-09T09:00:00Z"
 }
 
-# Rectorial Benefice of Bassaleg, The
-
 The Rectorial Benefice of Bassaleg is situated to the west of Newport.

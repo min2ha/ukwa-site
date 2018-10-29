@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# White Horse News
-

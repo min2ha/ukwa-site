@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Martin Corney (@MartinCCorney) on Twitter (Green Party Candidate for South East Cornwall)
-

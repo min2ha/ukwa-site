@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Volvo: British Sailing
-

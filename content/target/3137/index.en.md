@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Sonic Art Research Unit (SARU)
-
 The Sonic Art Research Unit (SARU) provides a forum for dialogue between the fields of Composition and Sound Art; including acousmatic, collaborative, electroacoustic, experimental, interdisciplinary and site-specific practices alongside engagement with field recording, and soundscape studies. The Sonic Art Research Unit builds on established creative dialogue between the fields of Fine Art and Music at Oxford Brookes University.

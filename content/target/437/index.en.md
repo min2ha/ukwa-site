@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wakefield Health and Wellbeing Board
-
 None

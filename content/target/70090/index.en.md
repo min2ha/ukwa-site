@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# OM and Bass Festival
-
 Contemporary take on yoga, intertwining moving meditation and dance

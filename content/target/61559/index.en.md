@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Edinburgh Kayak Club
-
 Site of a kayaking / canoeing club based in Edinburgh.

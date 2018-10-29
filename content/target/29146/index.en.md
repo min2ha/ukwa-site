@@ -10,6 +10,4 @@
   "start_date": "2015-07-16T10:00:00Z"
 }
 
-# Brighton Fringe
-
 Brighton Festival

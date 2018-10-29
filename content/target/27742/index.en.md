@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: The roots of democracy: Two of King John's teeth go on display alongside surviving copies of the Magna Carta for new exhibition
-

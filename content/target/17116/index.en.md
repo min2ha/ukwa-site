@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Miliband the general leads his troops to war - but on which battleground?
-

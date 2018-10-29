@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Church in South Kintyre and Islay
-
 Site of a Roman Catholic church in Scotland covering Campbeltown and Islay.

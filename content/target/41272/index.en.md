@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# BBC Food (@BBCFood) on Twitter
-
 Tweeting delicious recipes and inspiration from your favourite BBC programmes and chefs.

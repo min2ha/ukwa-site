@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bristol Health and Wellbeing Board
-
 None

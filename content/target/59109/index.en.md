@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# EdRLS
-
 The blog for the New Edinburgh Edition of the Collected Works of Robert Louis Stevenson (EdRLS), published by Edinburgh University Press.

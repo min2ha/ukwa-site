@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cumbria Liberal Democrats (@cumbrialibdems) on Twitter
-
 Twitter account for the Cumbria Liberal Democrats.

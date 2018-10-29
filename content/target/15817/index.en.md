@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Church Times, The
-
 <p>The Church Times is an Anglican weekly newspaper founded in 1863. It is independent of the Church of England hierarchy.</p>

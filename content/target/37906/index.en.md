@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Northern Ireland Environment Link: EU EnviroHub
-

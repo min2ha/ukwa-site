@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view on election 2015: it really matters
-
 None

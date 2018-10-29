@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Disability Sports Wales
-
 None

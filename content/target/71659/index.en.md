@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Pool: Are we better at consoling each other on Facebook than in real life?
-
 Personal post on The Pool by Louise Chunn on how using facebook helped process her bereavement and grief.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hotel Football (@hotelfootballuk) on Twitter
-
 Hotel Football is an upscale football-themed hotel overlooking Old Trafford, the home of Manchester United F.C.. This is their official Twitter account. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. James', Kinross and St. Matthew's, Auchtermuchty
-
 Site of two Scottish Roman Catholic parish churches located in Kinross, Perth & Kinross and Auchtermuchty, Fife.

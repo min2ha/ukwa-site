@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Manor House Wildlife Park
-
 Manor House Wildlife Park is a zoo located in the village of St Florence, Pembrokeshire and is run by television presenter Anna Ryder Richardson. It is also known as Anna's Welsh Zoo.

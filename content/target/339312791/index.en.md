@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Abergwyngregyn
-
 Aber Falls, in the village of Abergwyngregyn, is a waterfall well known as a stunning destination in the Snowdonia National Park

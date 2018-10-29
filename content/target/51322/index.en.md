@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Rhosneigr Evangelical Church, Horeb Chapel
-

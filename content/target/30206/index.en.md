@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# SaveGaelic.org - The Royal National Mod (Am Mòd Nàiseanta Rìoghail) 
-
 Information page about the Royal National Mod hosted by SaveGaelic.org, a Gaelic language advocacy blog and resource hub.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-22T09:00:00Z"
 }
 
-# Making Music Changing Lives | Creu Cerddoriaeth Newid Bywydau
-
 Making Music Changing Lives is a community music project based in Cardiff established to provide quality music education that is accessible to all children and young people.

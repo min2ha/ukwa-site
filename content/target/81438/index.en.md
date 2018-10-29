@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Croydon Performing Arts Festival
-
 Website for the Croydon Performing Arts Festival

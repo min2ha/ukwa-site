@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nicola Sturgeon: I will lead Labour talks while Alex Salmond does 'day-to-day' work
-
 None

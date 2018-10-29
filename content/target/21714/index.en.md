@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg on women and ethnic minority representation - video
-
 None

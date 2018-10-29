@@ -10,5 +10,3 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# Llanfair Caereinion & District Agriculture and Horticulture Show
-

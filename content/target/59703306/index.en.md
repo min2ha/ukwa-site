@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Bristol Anarchist Federation
-
 Bristol Anarchist Federation (AFed) are an active group of class struggle Anarchists. 

@@ -10,6 +10,4 @@
   "start_date": "2015-01-29T00:00:00Z"
 }
 
-# British Syrian Centre
-
 <p>British Syrian Centre is a group of activists; Syrians or of Syrian origin, united by concern for their home country and working together to support the Syrian people. The website has been developed and is managed and maintained on their behalf by Rethink Rebuild Society.</p>

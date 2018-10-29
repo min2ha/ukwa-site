@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Sajid Javid: Britain could be better off outside the EU
-

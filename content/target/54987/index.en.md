@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Digital Army
-
 the Digital Army pressure group aims to organise Labour supporters across the internet to secure a Labour Government in the 2017 UK General Election. 

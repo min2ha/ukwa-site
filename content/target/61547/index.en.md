@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: What will Brexit mean for Britain's overseas territories?
-
 Discusses the uncertainties that Brexit is causing for Britain's overseas territories, especially Gibraltar and Anguilla

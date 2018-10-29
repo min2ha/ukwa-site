@@ -10,5 +10,3 @@
   "start_date": "2011-09-28T00:00:00Z"
 }
 
-# Ffresh: Gwyl Delwedd Symudol Myfyrwyr Cymru - Ffresh: The Student Moving Image Festival of Wales
-

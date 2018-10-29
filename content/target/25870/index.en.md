@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories have £30bn black hole in spending plans, says IFS
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# Callander & West Perthshire University of the Third Age (U3A)
-
 Site of the Callander and West Perthshire branch of a national charity for lifelong learning into the 'third age', namely, after retirement. 

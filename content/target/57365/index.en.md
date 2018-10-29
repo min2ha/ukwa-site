@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Crap Local News (@CrapLocalNews) on Twitter
-
 This Twitter account shares what the authors deem to be crap local news from across the UK and beyond.

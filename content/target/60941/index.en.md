@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London GAA
-
 The origins of the GAA in London can be traced back to 1896. Over the intervening one hundred and seventeen years the organisation has grown to the extent that ensures London can lay claim to being the most successful and vibrant unit within the Association outside the island of Ireland. London place in the annals of GAA history has been secured due the contribution of Liam McCarthy and Sam Maguire amongst notable figures in the history of the Association and the State, to the vibrant organisation that the GAA in London is today.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Stuart McMillan MSP
-
 Stuart McMillan is Scottish National Party member of the Scottish Parliament for West Scotland.

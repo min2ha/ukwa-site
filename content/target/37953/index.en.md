@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: UK would struggle to negotiate EU exit in two years, warns O'Donnell
-
 Guardian, The

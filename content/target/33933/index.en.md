@@ -10,6 +10,4 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# Illicit
-
 Illicit is an online magazine based in Scotland covering technology, health, fashion, and culture.

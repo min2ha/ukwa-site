@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# University of Cambridge: Centre for Applied Research in Educational Technologies (CARET)
-

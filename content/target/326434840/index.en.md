@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Swansea City Supporters Trust
-

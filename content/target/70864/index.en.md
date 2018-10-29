@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotland National Team (@ScotlandNT) on Twitter
-
 The official Twitter account for both the men's and women's Scottish national football team.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# London Contemporary Dance School
-
 Official website of the London Contemporary Dance School.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# North Berwick Highland Games
-
 Site of a highland games at North Berwick, East Lothian.

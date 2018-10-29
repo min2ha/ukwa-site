@@ -10,6 +10,4 @@
   "start_date": "2014-12-12T06:00:00Z"
 }
 
-# General Dental Council 
-
 None

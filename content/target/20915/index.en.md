@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Voice: Election Manifesto 2015
-
 Voice is the union for education professionals, their members are teachers, lecturers, nursery nurses and nannies, to head teachers and school support staff, including teaching assistants, technicians and administrators and students* (*free membership). 

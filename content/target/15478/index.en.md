@@ -10,6 +10,4 @@
   "start_date": "2014-12-12T06:00:00Z"
 }
 
-# Index to Ivor Catt's work on Electromagnetic Theory
-
 <p>Books and articles by Ivor Catt.</p>

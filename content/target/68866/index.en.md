@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Our Brexit plan takes back control of money, laws and borders – and here’s how. May and Raab’s letter to Conservative MPs
-
 The Prime Minister and her Brexit secretary attempt to sell their compromise on future UK-EU relations to Tory MPs.

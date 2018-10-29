@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# a-n The Artists Information Company : a-n members EU referendum survey
-
 Survey giving a snapshot of how Brexit might affect visual artists. 

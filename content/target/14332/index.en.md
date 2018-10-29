@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# SCOTTISH REFERENDUM POETRY: Black & BLUE
-
 None

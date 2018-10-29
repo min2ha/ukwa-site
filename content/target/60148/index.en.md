@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BQ Live: Self-help app aiming to support mental health
-
 Article about My Possible Self, a digital app-based self-help programme being made availble to employees and businesses

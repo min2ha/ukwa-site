@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# East Kilbride Rugby Football Club
-
 Site of a Scottish rugby union football club based in Lanarkshire.

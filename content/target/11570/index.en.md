@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Table Tennis Wales
-
 None

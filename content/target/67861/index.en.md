@@ -10,7 +10,5 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Côr Meibion Y Foel, Llannerch-y-medd
-
 Foel Male Voice Choir was formed by Grȇs Pritchard in 2000. Llannerch y medd where the choir is based is an ancient marketing town situated on the
 Foel Hill, which has lent its name to the Choir.

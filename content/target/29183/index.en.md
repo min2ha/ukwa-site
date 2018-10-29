@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# University of Westminster: Westminster Ebola Expert helps advise on the risks of future disease outbreaks
-
 Article on Westminster Senior Lecturer in Medical Microbiology and emerging virus expert Dr Edward Wright's involvement in producing the latest policy draft outlining measures needed to combat previously unseen diseases that can be transmitted between animals and humans, also known as emerging zoonotic diseases.

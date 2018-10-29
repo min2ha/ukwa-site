@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Milestones Trust: Election Information
-
 Milestones Trust is a charity that supports people with learning disabilities, mental health needs and dementia.

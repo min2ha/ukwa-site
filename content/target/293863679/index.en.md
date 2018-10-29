@@ -10,6 +10,4 @@
   "start_date": "2015-04-01T06:00:00Z"
 }
 
-# Holyrood Inquiry
-
 Lord Fraser of Carmyllie published his report into the management of the Scottish Parliament building project on Wednesday 15 September, 2004.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Annie Bielecka Jones, Artist, Maker and Textile Designer 
-
 Annie Bielecka Jones is a Fine Artist. Maker and Textile designer from Criccieth. Her work reflects her love of the sea and the timelessness of landscape. 

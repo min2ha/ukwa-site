@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Stephen Gethins (@StephenGethins) on Twitter
-
 Twitter profile of Stephen Gethins, Scottish National Party candidate for North East Fife in the 2017 general election.

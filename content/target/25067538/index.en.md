@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Diageo plc
-
 Diageo plc is a British multinational alcoholic beverages company. They are a global leader in beverage alcohol with an outstanding collection of brands including Johnnie Walker, Crown Royal, JεB, Buchanan’s and Windsor whiskies, Smirnoff, Cîroc and Ketel One vodkas, Captain Morgan, Baileys, Don Julio, Tanqueray and Guinness.

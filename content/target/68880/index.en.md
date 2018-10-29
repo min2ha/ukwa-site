@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Daniel Hannan: My view of May’s new Brexit plan. It’s just about better than No Deal. But now a line in the sand must be drawn
-
 Predicts that Eurocrats will turn the screw tighter, leaving Britain with a choice between no deal and, in effect, non-voting membership. Preparing for no deal ought therefore to be our national priority. By “preparing for no deal”, I don’t just mean buying lorry parks near Dover or making sure that our driving licences will work abroad. I mean making the kind of preparations that will keep Britain flourishing through any disruption: cuts in corporate and personal taxes, removal of regulations, openness to global business. So far, alas, we have been going in the opposite direction. In Brussels, they have noticed.
 

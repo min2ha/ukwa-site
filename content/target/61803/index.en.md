@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Bryneglwys Community Portal
-
 A community website to the village of Bryneglwys, Clwydian Range and Dee Valley Area of Outstanding Natural Beauty in North Wales.

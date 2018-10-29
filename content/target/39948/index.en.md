@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Owen Paterson, Conservative
-
 Website of Owen Paterson, eurosceptic Conservative MP for North Shropshire. The website offers a biography and news, including articles and speeches. 

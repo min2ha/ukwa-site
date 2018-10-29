@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Kerr on Facebook
-
 This is the Facebook page of Stephen Kerr, the Conservative Party candidate for Stirling in the UK General Election on the 7th May 2015.

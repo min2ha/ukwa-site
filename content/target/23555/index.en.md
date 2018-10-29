@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Geoff Garbett (Green Party candidate for Camborne and Redruth)
-
 Geoff Garbett Green Party candidate for Camborne and Redruth  in the 2015 General Election  but was not elected.  

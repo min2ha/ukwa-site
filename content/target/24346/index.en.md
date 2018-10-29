@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Spiky, inspiring, utterly merciless. Who is Nicola Sturgeon, the leader of the SNP?
-
 None

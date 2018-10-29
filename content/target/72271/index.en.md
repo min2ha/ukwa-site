@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Coleraine Business Improvement District (BID)
-
 The official website of the Coleraine Business Improvement District (BID),

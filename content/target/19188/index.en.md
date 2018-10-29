@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent News: Remarkable discovery says copy of Magna Carta in British Library was ‘Canterbury charter’
-

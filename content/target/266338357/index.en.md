@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum 2014"
 }
 
-# Mike Weir MP - A Strong Voice for Angus
-

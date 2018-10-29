@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# DIY Doctor forum
-
 An online enthusiast community concerned with DIY. Discussing a wide range of related topics.

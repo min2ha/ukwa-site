@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Poll of pollsters - a good week for Ed Milliand means there's now just one seat in it
-
 None

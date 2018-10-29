@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# St Thomas Church Denbigh
-
 St Thomas Church Denbigh is Presbyterian Church of Wales/ Eglwys Bresbyteraidd Cymru.

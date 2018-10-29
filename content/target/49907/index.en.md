@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# New Inn Chapel, Pontypool
-
 New Inn Chapel is a Congregational Chapel in Pontypool.

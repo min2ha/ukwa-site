@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: Nigel Farage: Referendum a tipping point for EU 'project'
-

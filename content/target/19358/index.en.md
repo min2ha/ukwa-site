@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Compton and Shawford players set to perform rendition of fable
-

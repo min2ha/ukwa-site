@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Glasgow Association for Mental Health
-
 Site of a Scottish charity that provides community based support and promotes mental health and well being to people in Glasgow.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Villa Dino Christchurch Jnrs
-
 A new era .... the team splits into two ... an Under 14's and Under 16's team 

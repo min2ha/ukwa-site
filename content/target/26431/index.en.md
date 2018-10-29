@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour and Tory pledges to recruit more GPs 'could take 30 years to fulfil'
-
 None

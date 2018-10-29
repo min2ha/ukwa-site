@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: the hotly contested Olympic medal table of sexism
-
 Female competitors were treated to a welter of irrelevant and insulting comments by broadcasters during the Rio Olympics. This article attributes medals to the worst offenders throughout the games.

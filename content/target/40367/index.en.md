@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Scottish Monumental Inscriptions
-
 Site of a not for profit group who have transcribed monumental inscriptions from graveyards / cemeteries throughout Scotland and offer the results for sale. Group is based in Kennoway, Fife, Scotland.

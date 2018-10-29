@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: Labour government would restore Blair-era cap on class sizes
-

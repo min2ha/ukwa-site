@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Midhurst and Petworth Observer
-
 None

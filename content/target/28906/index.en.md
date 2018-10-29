@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-# Beyond the Border
-
 Beyond the Border Wales International Storytelling Festival 

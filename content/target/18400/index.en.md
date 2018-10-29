@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip already has four seats 'in the bag', says leading expert Matthew Goodwin
-
 None

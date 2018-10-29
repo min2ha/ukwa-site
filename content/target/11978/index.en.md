@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jo Westwood (JoWestwood1) on Twitter
-
 <p>The twitter profile of althete Jo Westwood, hockey player and member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

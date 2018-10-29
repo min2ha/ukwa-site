@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Prestwich Book Festival
-
 Prestwich Book Festival

@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Keith Lodge of Peterhead No. 56, The
-
 Site of a masonic lodge located in Peterhead, Aberdeenshire and affiliated with the Grand Lodge of Scotland.

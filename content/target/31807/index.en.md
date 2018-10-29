@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Selwyn Runnett: Liberal Democrat Campaigner
-
 Selwyn Runnett is a Liberal Democrat campaigner in Carmarthenshire.

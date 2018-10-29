@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Allerdale & Copeland Green Party
-
 Website of Allerdale & Copeland Green Party, providing information on campaigns, events, representatives and candidates and local and national news updates.

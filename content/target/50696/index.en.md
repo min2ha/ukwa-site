@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Edinburgh Butterfly & Insect World
-
 Site of a educational visitor attraction based around a collection of butterflies and insects.

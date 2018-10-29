@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bairn City Rollers on Facebook
-
 Site of a skating roller derby team based in Falkirk.

@@ -10,5 +10,3 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Public Lending Right (PLR)
-

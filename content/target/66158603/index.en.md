@@ -11,6 +11,4 @@
   "subject": "Spending Cuts 2010: Impact on Social Welfare"
 }
 
-# Workplace Reirement Income Commission (WRIC)
-
 None

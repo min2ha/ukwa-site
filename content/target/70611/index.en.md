@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# angie parker (@angieptextiles) on Twitter
-
 Award winning designer & weaver of textiles & floor art: Rugs for lovers of colour. CAA member, Design Nation & #CCDirectory. 

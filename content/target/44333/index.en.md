@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Here's why science should take a seat at the Brexit negotiation table 
-
 Guardian, The

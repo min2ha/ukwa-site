@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Post Ref Racism (@PostRefRacism) on Twitter
-
 Post Ref Racism is a space to document the increase in racism in the UK following the vote for Brexit.

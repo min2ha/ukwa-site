@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Resolution 2018
-
 The UK's biggest dance festival for emerging artists

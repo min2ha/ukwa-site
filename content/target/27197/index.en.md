@@ -10,6 +10,4 @@
   "start_date": "2015-06-03T09:00:00Z"
 }
 
-# Project Britain - British Life and Culture
-
 Project Britain - British Life and Culture is a site promoting British customs and traditions among school children. 

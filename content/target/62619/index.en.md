@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Kernow Beat - Cornwall in the 60s
-
 This is an ongoing project chronicling the bands and venues of the thriving music scene in Cornwall in the 1960s & 70s.

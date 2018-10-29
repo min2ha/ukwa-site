@@ -10,6 +10,4 @@
   "start_date": "2016-02-03T09:00:00Z"
 }
 
-# Ecologist, The
-
 The Ecologist is the title of a British environmental journal, then magazine that was published from 1970 to 2009. Founded by Goldsmith, it addressed a wide range of environmental subjects and promoted an ecological systems thinking approach through its news stories, investigations and opinion articles. 

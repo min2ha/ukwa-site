@@ -10,5 +10,3 @@
   "start_date": "2006-03-15T00:00:00Z"
 }
 
-# Tabernacl, Y: Yr Amgueddfa Gymreig o Gelfyddyd Fodern - The Museum of Modern Art, Wales: MOMA Cymru - MOMA Wales
-

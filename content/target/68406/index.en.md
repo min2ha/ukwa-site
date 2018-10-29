@@ -10,6 +10,4 @@
   "start_date": "2018-06-30T09:00:00Z"
 }
 
-# Laed Inn, The
-
 Site of a public house and micro-brewery located at Kilmahog, Callander, Stirlingshire.

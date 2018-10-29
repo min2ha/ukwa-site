@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# First Aid Nursing Yeomanry (FANY)
-
 None

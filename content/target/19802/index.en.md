@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Conflict within Ukip in Wales takes new twist as constituency plans vote of no confidence in election candidate
-

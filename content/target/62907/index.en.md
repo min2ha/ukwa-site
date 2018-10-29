@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Gallery-Close
-
 Site of a commericial / private art gallery in Edinburgh specialising in photography.

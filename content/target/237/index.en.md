@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yeovil District Hospital
-
 None

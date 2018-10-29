@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Football.co.uk 
-
 A UK based online football magazine.

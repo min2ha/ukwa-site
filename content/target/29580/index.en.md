@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Blog Mawr Cymru | Big Blog Wales
-
 Showcasing Welsh projects funded by the Big Lottery Fund.

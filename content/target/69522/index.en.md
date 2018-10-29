@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic House of Prayer, Iona
-
 Site of a pilgrim / prayer site Cnoc a' Chalmain, on Iona, Argyll & Bute.

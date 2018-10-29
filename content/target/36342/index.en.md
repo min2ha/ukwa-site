@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Brussels will employ dirty tactics to keep us in the EU
-

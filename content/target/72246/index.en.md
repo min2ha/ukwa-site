@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Archifydd LLGC (@ArchifauLLGC) on Twitter
-
 This is the Welsh language twitter feed of Archives and Manuscripts at the National Library of Wales.

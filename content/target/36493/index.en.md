@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron's 'project fact' claim is BALONEY insists Boris Johnson as he hammers away for the Brexit cause    
-

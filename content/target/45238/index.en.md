@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Obstilian
-
 Website that hosts texts (poems) written by Sebastian Schloessingk, who is also the editor of Qualm. 

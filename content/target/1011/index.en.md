@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# RCN fact sheet: Clinical senates and strategic clinical networks
-
 None

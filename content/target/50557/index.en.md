@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Ceredrotian: Harness Racing in Ceredigion
-

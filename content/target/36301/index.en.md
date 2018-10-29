@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Grimsby's Lost Ships of WW1 on Facebook
-
 Project focussing on Grimsby`s Fishing Fleet which lost over 300 ships during WW1, illustrating what these ships did during the First World War.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Knives out for Cameron: Dozens of Tories threaten no-confidence vote over PM's 'shabby' Brexit scaremongering   
-

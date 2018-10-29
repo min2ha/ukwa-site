@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Papa Westray, Orkney
-
 Site providing information on amenities and activities for visitors to Papa Westray, Orkney, and the economic development trust that runs the site.

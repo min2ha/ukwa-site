@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Scottish Maritime Museum
-
 Website for a museum dedicated to recording Scotland's maritime heritage through its collection of historic ships, artefacts, shipbuilding machinery, machine tools, and personal items. The museum has locations in Irvine, Ayrshire and Dumbarton, West Dunbarton.

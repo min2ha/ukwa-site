@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# SPLG (ScotPLG) on Twitter
-
 <p>The twitter profile of the Scottish Public Law Group, which was launched in February 2008 as a forum in which academics, advocates, solicitors and government lawyers can meet and discuss matters of topical interest in public law in Scotland.</p>

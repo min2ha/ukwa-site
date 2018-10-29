@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dunnichen, Letham & Kirkden Church
-
 Letham church encompasses two parishes, Dunnichen and Kirkden. The church is located in Letham. 

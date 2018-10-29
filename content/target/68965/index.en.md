@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Joseph's Catholic Church, Kilmarnock
-
 Site of a Scottish Roman Catholic parish church located at Kilmarnock, Ayrshire incorporating the parish church of St. Michael's. Kilmarnock.

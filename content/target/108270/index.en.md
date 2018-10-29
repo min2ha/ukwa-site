@@ -10,5 +10,3 @@
   "start_date": "2005-05-26T00:00:00Z"
 }
 
-# Epilepsy Action
-

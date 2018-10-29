@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Iain Duncan Smith tells voters that supporting Ukip is 'unfathomable' - interview 
-
 None

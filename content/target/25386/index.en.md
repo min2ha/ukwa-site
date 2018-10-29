@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservatives accused of breathtaking hypocrisy by Danny Alexander
-
 None

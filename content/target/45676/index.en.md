@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Monmouth Festival | Gŵyl Trefynwy
-
 Monmouth Festival is a free festival organised by the local community and established in 1983.

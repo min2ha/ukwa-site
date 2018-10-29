@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Loki the Scottish Rapper
-
 <p>Cultural commentary and criticism by a Glasgow-based blogger.</p>

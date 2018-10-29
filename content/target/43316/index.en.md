@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Democratic Society, The:  Britain can be the real winner of the EU referendum: why we all need to be talking about Europe
-
 The Democratic Society on the need for public engagement and participation in the EU referendum

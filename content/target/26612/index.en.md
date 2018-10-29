@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour leadership: who's in the running and what are their chances?
-
 None

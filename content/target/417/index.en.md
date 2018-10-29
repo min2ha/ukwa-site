@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shropshire Health and Wellbeing Board
-
 None

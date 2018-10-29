@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Fr. Murphy's Camogie & Ladies Football Club London
-
 Fr. Murphy's Camogie & Ladies Football Club London. London Senior Ladies Football Champions 2001, 2007, 2008 and 2009
 All Britain Champions 2013
 Senior League Champions 2006 ,2007.

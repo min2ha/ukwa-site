@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Seven thoughts on a second referendum
-

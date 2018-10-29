@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jamie Cocozza (@CocozzaTUSC1) on Twitter
-
 The Twitter profile of Jamie Cocozza, the Trade Unionist and Socialist Coalition candidate for Glasgow North East in the UK General Election on the 7th May 2015 and Glasgow Shettleston in the 2016 Scottish Parliamentary election.

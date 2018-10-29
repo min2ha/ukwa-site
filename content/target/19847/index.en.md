@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# mp4mp - Getting Matthew Paul elected for Carmarthen East & Dinefwr on 7th May
-
 Conservative candidate for Carmarthen East & Dinefwr.

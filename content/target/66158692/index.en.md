@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Civil Nuclear Constabulary (CNC)
-
 None

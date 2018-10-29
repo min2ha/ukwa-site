@@ -10,5 +10,3 @@
   "start_date": "2011-05-05T00:00:00Z"
 }
 
-# British Reflexology Association, The
-

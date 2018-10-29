@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jack Bovill (UKIP)
-
 Jack Bovill stood as UKIP candidate for Kensington at the 2015 General Election but was not elected

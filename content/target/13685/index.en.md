@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jim Murphy Labour MP for East Renfrewshire
-
 None

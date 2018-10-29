@@ -10,5 +10,3 @@
   "start_date": "2013-02-19T00:00:00Z"
 }
 
-# Artes Mundi
-

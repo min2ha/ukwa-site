@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail, The: Yes, the internet DOES make you depressed (and I've seen it happen to far too many clever women)
-
 Daily Mail article about the internet and depression 

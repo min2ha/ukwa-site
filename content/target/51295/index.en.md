@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# sportscotland Inverclyde
-
 Site of a residential sports centre and provider of world class indoor and outdoor sports facilities to users at all levels of physical and sensory ability, open to high performance athletes, sports clubs, school and education groups, governing bodies and the local community.

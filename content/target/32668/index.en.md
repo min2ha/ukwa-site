@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# British International Institute for Leadership and Management (BIILM)
-
 British International Institute for Leadership and Management (BIILM)  is a body of professionals dedicated to promoting the highest standards and excellence in management and leadership.

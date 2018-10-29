@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Open letter to business on Implementation Period
-
 Secretary of State for Exiting the EU David Davis, Chancellor Philip Hammond, and Business Secretary Greg Clark have written to businesses setting out the UK’s ambitions for an implementation period following Brexit.
 

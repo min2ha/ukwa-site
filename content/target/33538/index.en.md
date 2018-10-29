@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Life and Times of Hayling Island 1914-1919
-

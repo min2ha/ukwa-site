@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Theology and the Arts in Britain Since 1945
-
 None

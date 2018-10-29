@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Marion Turner Hawes (@marion_turner) on Twitter (Green Party candidate for Wellingborough and Rushden)
-

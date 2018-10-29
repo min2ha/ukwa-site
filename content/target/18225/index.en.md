@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Miller Labour Parliamentary Candidate for Preseli Pembrokeshire
-
 Paul Miller is the Labour Parliamentary Candidate for Preseli Pembrokeshire.

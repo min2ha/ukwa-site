@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Musical Hall, The 
-
 The project will explore the literature, music and popular culture traditions which emerged out of World War One with young people in Kingston upon Thames who are at risk of becoming NEET, not in employment, education or training, or who are already.

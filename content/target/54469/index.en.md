@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Brexit vote 'burst the dam' of loyalty for lifelong Labour voters, says Green
-

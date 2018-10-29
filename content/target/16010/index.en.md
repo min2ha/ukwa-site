@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Union Cycliste Inaternationale (UCI) BMX Supercross World Cup
-
 <p>The Union Cycliste Inaternationale (UCI) BMX Supercross World Cup is a BMX racing series in the world. Featuring 5 events on 3 continents, the Supercross World Cup has been taking place at Manchester’s National Cycling Centre since 2013.</p>

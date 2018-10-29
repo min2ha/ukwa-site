@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# BranwenRhonddaPlaid (@RhonddaPlaid) on Twitter 
-
 Branwen Cennard is the Plaid Cymru candidate for Rhondda at the 2017 General Election.

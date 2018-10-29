@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# National Archive of Educational Computing
-
 The UK National Archive of Educational Computing's aim is to research, interpret and represent the history of the UK innovation of computers in education. It offers access to its store of documents, software and technology which tell the story of inventions, applications, policies, practices, organisations and people over the last half century. 

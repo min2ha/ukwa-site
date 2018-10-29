@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Anglotopia.net: Diamond Jubilee
-

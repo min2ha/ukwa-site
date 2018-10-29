@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Arfordir Cymru | Welsh Coast
-

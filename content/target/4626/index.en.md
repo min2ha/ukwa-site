@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Telegraph, The: Nelson Mandela taught the Tories the value of trust in politics
-
 None

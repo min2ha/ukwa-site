@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bradford festival
-
 Website for the Bradford festival

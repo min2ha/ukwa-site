@@ -10,6 +10,4 @@
   "start_date": "2017-02-10T09:00:00Z"
 }
 
-# Richard Huw Cole
-
 Richard Huw Cole is a Welsh composer and conductor of brass band music.

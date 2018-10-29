@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Fiona O'Donnell MP - Member of Parliament for East Lothian
-
 None

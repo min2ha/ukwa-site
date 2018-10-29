@@ -10,6 +10,4 @@
   "start_date": "2016-02-22T09:00:00Z"
 }
 
-# Independent Schools Council (ISC)
-
 The Independent Schools Council brings together seven associations of independent schools, their heads, bursars and governors.

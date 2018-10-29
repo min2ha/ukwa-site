@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU citizens 'denied residency documents'
-
 EU citizens living in the UK say they are being denied a guarantee of permanent residency because they do not have health insurance.

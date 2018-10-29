@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Is This Music?
-
 Is This Music? is a Scotland-based music blog. 

@@ -10,6 +10,4 @@
   "start_date": "2016-03-18T09:00:00Z"
 }
 
-# Cardiff-Stuttgart Association, The
-
 The Cardiff-Stuttgart Association promotes the twinning links of Cardiff with Stuttgart.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Financial Director: Brexit
-

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Clwydian Range Archaeological Group
-
 The Clwydian Range Archaeological Group is a voluntary association who wish to research, share and disseminate information about the history of the Clwydian Range – an area of outstanding natural beauty.

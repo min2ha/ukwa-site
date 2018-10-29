@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# North-West Evening Mail
-
 None

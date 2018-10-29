@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Video games help my mental health – Reader’s Feature  
-
 Feature written by a reader detailing their experiences with mental health and gaming the affect it can have

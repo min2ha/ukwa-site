@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Houghton Rugby Club on Pitchero
-
 The official website of Houghton Rugby Club. Houghton Rugby Club. Houghton Rugby is a  small & friendly Rugby Club situated between Sunderland and Durham. 

@@ -10,6 +10,4 @@
   "start_date": "2018-07-27T09:00:00Z"
 }
 
-# Maynard
-
 Maynard is the resource for dance and and movement arts in rural west Wales. 

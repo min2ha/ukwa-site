@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: On this fourth #EdBallsDay, has the hype become too much?
-
 None

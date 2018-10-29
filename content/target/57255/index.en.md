@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# NIMBA
-
 NIMBA is a Guinean Music & Dance based in Wales.

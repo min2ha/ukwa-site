@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Telegraph, The: World Cup 2018
-
 Fifa World Cup 2018: Latest news, updates and highlights from Russia

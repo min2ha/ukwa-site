@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Oscholars, The
-
 None

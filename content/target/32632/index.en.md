@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T00:00:00Z"
 }
 
-# National Union of Journalists – Leveson Inquiry
-
 Information on the NUJ role in, comments on, and statements and submissions to the Leveson inquiry.

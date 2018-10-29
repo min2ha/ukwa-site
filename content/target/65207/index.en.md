@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: PM Saj-otaged Sajid Javid shocks May by siding with Leavers and shunning her EU customs plan
-
 Sajid Javid, the new Home Secretary, sank Theresa May’s Brexit customs plans by siding with Leavers in the Cabinet... He declared he was “the new kid on the block” as he shredded her customs partnership proposal at a three-hour meeting of her Brexit committee. The ex-Remain supporter tipped the balance of the 11- strong team — leaving Mrs May “visibly shocked to have lost the room” according to one insider

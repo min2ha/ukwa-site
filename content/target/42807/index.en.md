@@ -10,6 +10,4 @@
   "start_date": "2016-06-12T10:00:00Z"
 }
 
-# Past Tense: London's radical histories and possibilities
-
 Past Tense  is a loose collective project that explores working class, social, subversive and underground history and geography, mainly around the areas where we live in London

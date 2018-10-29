@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Welsh Government: Joint Ministerial Committee (JMC) 
-
 The Joint Ministerial Committee (JMC) was established in 1999 and is a 'forum which includes the UK government and the devolved administrations in Wales, Scotland and Northern Ireland. It enables the leaders of the 4 governments to examine matters of common interest and review the workings of devolution.... [and is] a platform for ministers to seek to resolve differences, disagreements and disputes between the administrations'. 

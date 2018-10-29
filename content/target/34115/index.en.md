@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Chris Grayling asked David Cameron for assurance he would not be sacked after Europe vote
-

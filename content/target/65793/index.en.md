@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Home Office Surveys: Migration Advisory Committee - Students Survey
-
 A survey ran by the UK Home Office into the impact of International Students. This survey received a lot of criticism from academic experts who questioned the methodology and ethics employed by the survey makers. 

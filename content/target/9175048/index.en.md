@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Cornwall Ceramics and Glass Group
-
 None

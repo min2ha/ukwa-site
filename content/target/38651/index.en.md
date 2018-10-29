@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Michael Shanks for Glasgow Kelvin
-
 Michael Shanks, the Scottish Labour Party candidate for Glasgow Kelvin in the 2016 Scottish Parliamentary election.

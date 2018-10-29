@@ -10,6 +10,4 @@
   "start_date": "2016-01-08T09:00:00Z"
 }
 
-# Hay, Brecon and Talgarth City of Sanctuary
-
 City of Sanctuary is a UK based movement  to developing a ‘culture of welcome and inclusion’ for people seeking sanctuary in the UK. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: The 15 hours that changed the face of the UK with shock exits and a ballot box bloodbath 
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jack P. Carrington (@JackPCarrington) on Twitter (The Yorkshire Party Politician)
-
 Jack Carrington stood as The Yorkshire Party candidate for Sheffield Central in the 2017 General Election but was not elected.

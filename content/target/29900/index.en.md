@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cirencester's Children's Literary Festival
-
 The Cirencester Children's Literary Festival was held in 2013 organised by Octavia's Book shop in conjunction with Gloucestershire Library Service and the Bingham Library Trust.

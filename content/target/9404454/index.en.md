@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Widecombe-in-the-Moor Website, The
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# AnnualReports
-
 AnnualReports.com (a division of IR Solutions) is the most complete and up-to-date listing of Annual Reports online. We are Americas largest annual report service.

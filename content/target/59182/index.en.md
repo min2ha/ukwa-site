@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Forth Valley Orienteers
-
 Site of an orienteering club based in the Forth Valley, Scotland.

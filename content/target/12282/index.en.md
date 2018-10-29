@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Philip Hindes
-
 The website of cyclist Philip Hindes, member of Team England for the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bridgeton St Francis in the East
-
 Site of a Church of Scotland parish church Bridgeton, Glasgow.

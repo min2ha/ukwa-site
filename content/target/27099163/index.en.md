@@ -10,5 +10,3 @@
   "start_date": "2009-02-11T00:00:00Z"
 }
 
-# Cymdeithas Eryri - Snowdonia Society
-

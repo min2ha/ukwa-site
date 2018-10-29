@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hornsey Road, The
-
 <p>Blog relating to Hornsey Road in the London Borough of Islington.</p>

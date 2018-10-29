@@ -10,6 +10,4 @@
   "start_date": "2016-06-12T10:00:00Z"
 }
 
-# Northern Radical History Network
-
 The Northern Radical History Network was set up on Saturday, 31 March 2012 in Manchester, by a group of people enthusiastic about the value of history as a radical activity in its own right.

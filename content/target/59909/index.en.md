@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Ellen Bell
-
 Ellen Bell is an artist based in Wales and 'her drawings, installations and sculptures are informed by ideas surrounding intimate communication through the written and spoken word'.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Lyng, Somerset
-
 A website with news for Lyng, Somerset.

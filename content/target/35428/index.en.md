@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Liverpool School of Tropical Medicine: Zika virus
-
 Liverpool School of Tropical Medicine Zika virus page

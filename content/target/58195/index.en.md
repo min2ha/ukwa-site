@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail, The: Is Twitter Making Us Depressed?
-
 Daily Mail article asking if Twitter is making us depressed

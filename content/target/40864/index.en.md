@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Zeal Monachorum Community Web
-
 Zeal Monachorum is a small village in Mid Devon that sits on top of a hill some 7 miles to the north of Dartmoor. With a population of about 400 it boasts a church, a pub, some pretty good views over Dartmoor and an excellent community spirit.

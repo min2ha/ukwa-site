@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Liberal Democrat European Group
-
 The Liberal Democrat European Group (LDEG) is an Associate Organisation (AO) of the Liberal Democrats providing a forum for discussion and understanding of European issues. It also  provides campaigning support for members and promote within the party the case for Britain's continued EU Membership

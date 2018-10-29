@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Dáil Éireann Debate,Wednesday, 15 February 2017
-
 Brexit issues for the  Republic of Ireland were discussed

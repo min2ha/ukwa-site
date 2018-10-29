@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Westminster has become a breeding ground for inept, gaffe-prone robots
-
 None

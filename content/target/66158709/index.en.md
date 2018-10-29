@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Gŵyl Gŵyr | Gower Festival
-

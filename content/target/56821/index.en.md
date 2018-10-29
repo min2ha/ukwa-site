@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Spectra : Aberdeen's Festival of Light
-
 Site of an annual artistic light festival taking place in Aberdeen during February.

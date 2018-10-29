@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Dylanwad
-
 Dylanwad is a Dolgellau wine merchant.

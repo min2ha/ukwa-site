@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Horological Workshops
-
 Horological workshops has been selling and repairing fine antique clocks and barometers for nearly 50 years.

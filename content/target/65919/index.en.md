@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Quarry Products Association Northern Ireland (QPANI)
-
 The Quarry Products Association is the trade body for UK companies supplying all types of quarry products.

@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Tonyrefail Communities First
-
 Communities 1st is the Welsh Assembly Government’s flagship programme to improve the living conditions and prospects of people in the most disadvantaged communities across Wales and came to an end in 2017. This is the site for Tonyrefail.

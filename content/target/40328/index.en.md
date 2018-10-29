@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cyprus Mail: No plan for handling a Brexit
-
 Cyprus has no plan of action to address the impact of the United Kingdom’s possible exit from the European Union on British expats living and working on the island, should June’s referendum result in a Leave vote

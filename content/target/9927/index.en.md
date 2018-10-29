@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Animal Welfare Party
-
 Established in December 2006, the Animal Welfare Party is based on the Dutch party ‘Partij voor de Dieren’ also known as PvdD or the ‘Party for the Animals’.  PvdD has over 20 elected representatives at various levels of government, including two MPs and a senator. They aim to represent people, animals and the environment.

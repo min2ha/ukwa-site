@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Eisteddfod Talaith a Chadair Powys
-

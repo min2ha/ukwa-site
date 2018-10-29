@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Post-Brexit Britain would need to keep migration high to prevent economic fallout
-

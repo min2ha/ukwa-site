@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Where You Are
-
 A dynamic website that published 16 personalised maps by 16 artists thinkers and writers. 

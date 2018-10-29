@@ -10,6 +10,4 @@
   "start_date": "2015-05-06T08:00:00Z"
 }
 
-# Coleg y Bala
-
 Coleg y Bala is the Children and Youth Centre of the Presbyterian Church of Wales.

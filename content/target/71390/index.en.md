@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# V&A Dundee: Huge queue as museum opens to wider public after debut weekend
-
 V&A Dundee: Huge queue as museum opens to wider public after debut  Article about the opening of the V&A Dundee. 

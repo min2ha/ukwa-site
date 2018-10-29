@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Viper Marketing & Communications Group
-

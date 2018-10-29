@@ -10,6 +10,4 @@
   "start_date": "2015-09-10T10:00:00Z"
 }
 
-# Cyngor Cymuned Glyn Tarell | Glyn Tarell Community Council
-
 The community of Glyn Tarell is in the Brecon Beacons National Park and contains the villages of Libanus and Llanspyddid. 

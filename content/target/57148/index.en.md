@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Kayo Chingonyi
-
 Personal site of British Zambian poet Kayo Chingonyi

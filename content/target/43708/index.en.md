@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Proof
-
 Themed issue-based annual magazine of poetry, prose, art, design and flash-based work hosted by Sheffield Hallam. Now defunct.

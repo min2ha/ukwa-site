@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: David Cameron vows to remain PM if he loses EU referendum
-

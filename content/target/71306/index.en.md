@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  East Neuk Episcopal Churches
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Pittenweem (St. John the Evangelist) and Elie (St. Michael & All Angels'), Elie.

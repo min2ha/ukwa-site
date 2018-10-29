@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# United Kingdom Referendum on European Union Membership: Statements
-
 A transcript of the debate on the result of the EU Referendum from the Irish parliament.

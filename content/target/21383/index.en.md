@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tim Brett
-
 The website fo Tim Brett, Liberal Democrat candidate for North Ayrshire and Arran in the UK General Election on 7th May 2015.

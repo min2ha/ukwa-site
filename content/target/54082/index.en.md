@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mike Bayley-Sanderson (@mikebs1966) on Twitter (UKIP Politician)
-
 Mike Bayley-Sanderson stood as UK Independence Party (UKIP) candidate in the constituency of Wythenshawe and Sale East in the 2017 General Election but was not elected.

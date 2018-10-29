@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kirsten Oswald on Facebook
-
 This is the Facebook page of Kirsten Oswald, the Scottish National Party (SNP) candidate for East Renfrewshire in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Somerville College: University of Oxford: College flag flies at half-mast in honour of Nelson Rolihlahla Mandela
-
 None

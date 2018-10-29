@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Post, The
-
 Website of The Irish Post, "the Voice of the Irish in Britain since 1970"

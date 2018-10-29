@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# British Equestrian Trade Association
-
 BETA was formed in 1979 and has grown to be recognised and accepted as the official representative body for the equestrian manufacturing, wholesale and retail trade by Government and leading riding organisations.

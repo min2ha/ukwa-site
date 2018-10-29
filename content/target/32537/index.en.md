@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Welsh International Business Council (WIBC)
-
 Welsh International Business Council (WIBC) is a private sector initiative the WIBC Board comprises of individuals selected for their significant expertise in business and international markets.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Cambrian Savings and Loans
-
 Cambrian Credit Union is the largest credit union in Wales and cover the counties of Anglesey, Conwy, Denbighshire, Flint, Gwynedd, Powys and Wrexham.

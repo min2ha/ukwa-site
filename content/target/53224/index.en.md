@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Skwarkbox: Did you know homeless people can register to vote? Here’s how. #GE17
-
 An article about how homeless people can register to vote in the 2017 UK General Election..

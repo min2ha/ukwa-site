@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Volunteer Dundee
-
 Site of an organisation working to involve, inspire and engage people in volunteering and make Dundee a better place.

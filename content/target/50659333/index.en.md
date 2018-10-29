@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Arachne Greek Cypriot Women's Group
-
 None

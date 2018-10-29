@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Newarthill and Carfin Parish Church of Scotland
-
 The website of the linked churches of Newarthill and Carfin.

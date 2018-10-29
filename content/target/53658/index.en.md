@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Davids Diocesan Guild of Bellringers
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: David Cameron told EU deal cannot be legally-binding as he holds last-ditch Brussels talks
-

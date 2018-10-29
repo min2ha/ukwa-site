@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE MS&F (@RISEMSF1) on Twitter
-
 Twitter profile of the Mid Scotland and Fife branch of RISE: Scotland's Left Alliance.

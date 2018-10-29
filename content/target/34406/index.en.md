@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Valerie Ganz
-
 Valerie Ganz (1936 – 2015) was born in Swansea andn is known for her paintings of South Wales coal miners. 

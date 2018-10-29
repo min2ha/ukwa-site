@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dunbar United Football Club
-
 Site for a Scottish junior football club based in Dunbar, East Lothian, Scotland.

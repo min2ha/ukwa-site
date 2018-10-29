@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May caves in to Brexiteer revolt on Customs Bill after ANOTHER ministerial aide quits and her Chequers plan is declared 'dead' by Eurosceptics AND Remainers
-

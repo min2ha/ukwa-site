@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Kirkcudbright History Society
-
 Site of a local history society focusing on Kirkcudbright and dedicated to research and promotion of local history of the area. Dumfries and Galloway, and the former Stewartry of Kirkcudbrightshire.

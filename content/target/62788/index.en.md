@@ -10,6 +10,4 @@
   "start_date": "2018-03-17T09:00:00Z"
 }
 
-# Glaschu
-
 "Glaschu is an initiative aimed at better communicating and sharing Gaelic culture within Glasgow. A range of projects and events will be taking place in the lead up to the Royal National Mod 2019."

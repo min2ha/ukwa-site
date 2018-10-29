@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Trinovantes RFC (@TrinovantesRFC) on Twitter
-
 The official Twitter account of Trinovantes Rugby Football Club.
 
 

@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Teleri Lea Visual Artist Gweledol
-
 Teleri Lea is a Visual Artist from Gwynedd.

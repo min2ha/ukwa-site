@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Edinburgh Unitarians
-
 Site of a Unitarian church located in central Edinburgh.

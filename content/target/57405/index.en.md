@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bendith 
-
 Bendith is a music collaboration between the Welsh bands Plu and Colorama.

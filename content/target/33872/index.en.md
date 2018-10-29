@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Laura Deas
-
 Laura Deas is a Welsh bob-skeleton athlete.

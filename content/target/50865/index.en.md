@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Hispanic Society of Scotland, The
-
 The website of the Hispanic Society of Scotland.

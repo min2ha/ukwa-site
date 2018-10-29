@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Radcliffe (@Jradcliffeplaid) on Twitter (Plaid Cymru candidate for Bridgend)
-
 Plaid Cymru candidate for Bridgend for the 2015 General Election and 2016 National Assembly for Wales elections.

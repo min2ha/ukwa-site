@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# No Hate, No Fear. Stop Trump's Ban on Muslims and Refugees on Facebook
-
 Emergency protest called in solidarity with everyone in the U.S. who is opposing Donald Trump's executive order which targets Muslims and refugees. Monday, January 30 2017 at 5 PM.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# Who Cares? Scotland
-
 Who Cares? Scotland is a national voluntary organisation, working with care experienced young people and care leavers across Scotland. 

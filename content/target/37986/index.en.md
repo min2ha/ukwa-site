@@ -10,5 +10,3 @@
   "start_date": "2016-03-31T10:00:00Z"
 }
 
-# Hebrides News
-

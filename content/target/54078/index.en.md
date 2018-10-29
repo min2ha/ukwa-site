@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alan Craig (@aalancraig) on Twitter (UKIP Politician)
-
 Alan Craig stood as the UK Independence Party (UKIP) candidate for Witney at the 2017 General Election but was not elected.

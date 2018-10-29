@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Royal College of Anaesthetists: 2015 Challenge: Prescription for the Election
-
 The Royal College of Anaesthetists (RCoA) is the professional body responsible for the specialty of anaesthesia throughout the United Kingdom. It sets standards in anaesthesia, critical care, pain management, and for the training of anaesthetists, physician assistants (anaesthesia) - (specialist non-doctor anaesthetists) and practising critical care physicians. It also holds examinations for anaesthetists in training, publishes the British Journal of Anaesthesia, and informs and educates the public about anaesthesia. 

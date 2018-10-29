@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit scuppers Dundee's 2023 European Capital of Culture bids
-
 Dundee will not be able to compete in the European Capital of Culture 2023 competition due to Brexit, the European Commission has confirmed.

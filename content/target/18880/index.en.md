@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: The Magna Carta: an old piece of parchment that made England a nation – let's celebrate it
-

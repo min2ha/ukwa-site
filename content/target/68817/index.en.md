@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Queen's English Society, The
-
 The Queen's English Society was founded in 1972 by Joe Clifton, an Oxford graduate and schoolteacher. A letter he had sent to his local newspaper (the West Sussex Gazette) deploring the current decline in standards of English had resulted in so many sympathetic letters from readers that he was encouraged to form a group to try to do something about the problem. 

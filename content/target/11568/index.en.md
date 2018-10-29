@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ulster Squash
-
 None

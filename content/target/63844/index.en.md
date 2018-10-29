@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Scarborough Open Air Theatre
-
 Scarborough Open Air Theatre is an outdoor theatre in Scarborough, North Yorkshire, England. It was built in Northstead Manor Gardens in 1932, and originally closed in 1986.

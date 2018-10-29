@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson's joke-free pitch to MPs
-
 Argues that Boris Johnson's personal statement to MPs on July 18th 2018 was designed to start the process of restoring him to the status of a serious politician. It also considers whether the speech will make any difference to Brexit

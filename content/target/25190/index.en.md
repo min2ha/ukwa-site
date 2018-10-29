@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed invades his son’s privacy for the FOURTH time! Miliband’s son Daniel wades into kitchen row by declaring it ‘the best’ in his house
-
 None

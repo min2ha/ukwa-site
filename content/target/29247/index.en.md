@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derbyshire Literature Festival
-
 Derbyshire Literature Festival

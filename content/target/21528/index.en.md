@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nick Clegg urges party to learn from audacious Rosetta space mission
-
 None

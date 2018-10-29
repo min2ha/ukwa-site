@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Churches of Ss Mary & David, Hawick and Our Lady & St Joseph, Selkirk
-
 Site of two Roman Catholic Churches in Scotland, located at Hawick and Selkirk.

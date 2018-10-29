@@ -11,8 +11,6 @@
   "subject": "Blogs"
 }
 
-# KenFrost.com
-
 <p>Ken Frost runs a well known network of websites under the "Living Brand" label (<a href="http://www.kenfrost.com">www.kenfrost.com</a>).</p>
 <p>He has over 20 years' international business experience of FMCG industries, consumer electronics, rough diamond distribution and the internet. He has worked for KPMG, Philips Electronics and De Beers.</p>
 <p>In January 2011 Accountancy Age placed him on their Financial Power List for 2011. He was also ranked 11th by Accountancy Age in their 2006 Financial Power List of the most influential people in the world of finance. He is a Fellow of the Institute of Chartered Accountants (FCA), and a member of Gerson Lehrman Group Councils.</p>

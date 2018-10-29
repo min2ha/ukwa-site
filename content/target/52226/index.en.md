@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret of Antioch, Fernhurst
-
 St. Margaret of Antioch is a village-based welcoming Anglican Church which traces its history back to the 12th century, but which seeks to be active, authentic and accessible in the 21st.

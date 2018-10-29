@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Scottish Communities for Health and Wellbeing
-
 Site of an organisation dedicated to promoting and delivering health improvements and reducing health inequalities in Scotland’s communities in most need.

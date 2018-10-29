@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Is the Tory plan to strip benefits from workless young people a good idea?
-
 None

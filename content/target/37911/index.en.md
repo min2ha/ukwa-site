@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Société Jersiaise Member's Pages
-
 Société Jersiaise Member's Pages

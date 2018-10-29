@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: 'Medieval' musician launches goose bone appeal for Magna Carta ceremony
-

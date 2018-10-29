@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Magna Carta anniversary at heart of special 2015 for Lincoln
-

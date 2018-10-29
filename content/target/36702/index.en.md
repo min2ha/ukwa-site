@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: German Finance Minister says UK would be shut out of European single market in event of a Brexit
-

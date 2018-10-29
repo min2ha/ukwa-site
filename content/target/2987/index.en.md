@@ -10,6 +10,4 @@
   "start_date": "2013-07-26T00:00:00Z"
 }
 
-# BBC News: Lindisfarne Gospels in rare exhibition in Durham
-
 None

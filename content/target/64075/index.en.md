@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Feminist Agenda LDN (@femiagendaldn) on Twitter
-
 Feminist events and campaigns in London

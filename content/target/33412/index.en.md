@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# T Llew Jones
-
 This is a teaching educational interactive resource on the Welsh children's author T. Llew Jones.

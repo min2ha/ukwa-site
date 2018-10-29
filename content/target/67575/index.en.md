@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# UK Protection and Indemnity (UK P&I Club)
-
 A group of protection and indemnity insurance (P&I) companies for mutual maritime insurance representing global ship-owners.

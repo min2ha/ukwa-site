@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory-Labour coalition could avert SNP 'nightmare', says Conservative peer
-

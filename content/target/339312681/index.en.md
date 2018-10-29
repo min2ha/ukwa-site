@@ -10,5 +10,3 @@
   "start_date": "2015-11-16T00:00:00Z"
 }
 
-# Coleg Brenhinol Cerdd a Drama Cymru | Royal Welsh College of Music & Drama
-

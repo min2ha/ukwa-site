@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# From Now On Festival
-
 From Now On Festival is a contemporary music festival held in Cardiff. From Now On is produced by Shape and Chapter.

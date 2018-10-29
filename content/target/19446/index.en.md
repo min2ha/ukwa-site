@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Get an insight into how Magna Carta parchment was made
-

@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Seaboardgàidhlig
-
 Bilingual [Scottish Gaelic and English] blog site regarding news articles relating to the Seaboard villages of Easter Ross, Highland.

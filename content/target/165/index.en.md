@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peterborough and Stamford Hospitals
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A ‘green guarantee’ could stop Brexit ruining our environment
-

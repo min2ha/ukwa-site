@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bolton Abbey
-
 Bolton Abbey is an estate in Wharfedale in North Yorkshire, England, which takes its name from the ruins of the 12th-century Augustinian monastery—now generally known as Bolton Priory.

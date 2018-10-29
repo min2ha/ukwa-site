@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# What charities need to consider when campaigning or engaging in political activity. Also includes guidance about Elections and Referendums. 
-
 What charities need to consider when campaigning or engaging in political activity. Also includes guidance about Elections and Referendums. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Canary, The: I went undercover at the Labour Party conference, and what I saw left me speechless
-
 The Fabian Society fringe event was held at Liverpool’s Merseyside Maritime Museum during the same week as the Labour Party conference. A Canary reporter went to the event to report on it.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tir Chonaill Gaels GAA
-
 Founded in 1962. The clubhouse and grounds are based in Greenford, West London and we accommodate Men's Senior, Juniors, Reserve, Ladies and Underage football.

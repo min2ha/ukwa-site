@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cartha Queen's Park Rugby Football Club
-
 Site of a Scottish rugby union football club based in south west Glasgow.

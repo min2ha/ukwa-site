@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# What Scotland Thinks (WhatScotsThink) on Twitter
-
 The official Twitter account for What Scotland Thinks.

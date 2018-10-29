@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# LGBT Cymru Helpline & Counselling Service
-

@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Islwyn High School | Ysgol Uwchradd Islwyn
-
 Islwyn High School was opened in 2016 and is the result of an amalgamation of the former Pontllanfraith and Oakdale Comprehensive Schools.

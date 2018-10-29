@@ -10,6 +10,4 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Cornwall Community Foundation
-
 The Cornwall Community Foundation is an organisation that aims to improve the lives of others in Cornwall, those who are isolated, disadvantaged and vulnerable.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shine: Mental Health support network in Lincolnshire
-
 Website created by Shine an award winning network of people and organisations involved in or with experience of mental health and mental ill health and distress. The website was created and designed to help make that happen providing a place where people can exchange information about themselves and what they do 

@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Council for British Archaeology: Manifesto for Heritage National Assembly for Wales Manifesto 2016
-

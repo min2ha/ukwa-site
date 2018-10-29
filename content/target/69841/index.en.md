@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Adrian Williams Composer
-
 Adrian Williams is a composer, pianist and arranger from Hertfordshire. He also established the Presteigne International Festival in Wales.

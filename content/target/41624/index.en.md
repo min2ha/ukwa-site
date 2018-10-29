@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Pulmans Weekly News (Ottery St Mary)
-

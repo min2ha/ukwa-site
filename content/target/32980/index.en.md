@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Everyman Theatre
-
 Everyman Theatre is a community theatre company based in Cardiff.

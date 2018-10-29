@@ -10,6 +10,4 @@
   "start_date": "2016-07-14T11:00:00Z"
 }
 
-# Bird Watching and Wildlife Club
-
 Site of a company offering wildlife and bird watching breaks in and around Grantown-on-Spey, Highland, Scotland.

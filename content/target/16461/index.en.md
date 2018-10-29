@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: A 'rainbow Coalition' after May would lead to a second general election this year, says Tory minister
-
 None

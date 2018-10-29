@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: PM's new scare: Cameron says the cost of your holidays will rise because EU membership keeps fare prices down   
-

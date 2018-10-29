@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Carrow Road Stadium
-
 Carrow Road is an association football stadium located in Norwich, Norfolk, England, and is the home of Norwich City Football Club. The stadium is located toward the east of the city, not far from Norwich railway station and the River Wensum.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# John Redwood (Conservative  Politician)
-
 John Redwood stood as Conservative candidate for Wokingham at the 2015 General Election. He was first elected to serve as MP for Wokingham in 1987 and re-elected in 1992, 1997, 2001, 2005, 2010, and 2015. He campaigned in favour of Brexit in the run up to the June 23rd 2016 referendum and stood successfully for re-election at the 2017 General Election and was successful.

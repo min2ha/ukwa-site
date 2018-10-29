@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# National Society for Phenylketonuria 
-
 Phenylketonuria (PKU) is a rare inherited condition in which there is a build up of phenylalanine in the body. Phenylalanine is a natural substance; it is a building block of protein. PKU is looked for in all newborns in the United Kingdom by measuring phenylalanine levels in the heel-prick blood test. All babies should have this test as it allows treatment to start early in life.

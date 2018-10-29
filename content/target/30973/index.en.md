@@ -10,6 +10,4 @@
   "start_date": "2015-09-30T10:00:00Z"
 }
 
-# Brian May
-
 Official website of Brian May, a British musician and scientist.

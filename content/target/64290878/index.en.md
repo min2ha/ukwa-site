@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Scouts: The Queen's Jubilee
-
 Additional urls: http://www.scouts.org.uk/documents/events/Jubilee_Beacons/1667_DJubileeActivities_120911.pdf http://www.scouts.org.uk/jubileebeacons

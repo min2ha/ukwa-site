@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Am I Pretty Now?: TROLLS AND HATEFUL COMMENTS: THEY NEED TO STOP!
-
 Am I Pretty Now?: Blog Post

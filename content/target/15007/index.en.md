@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Draycott in the Moors Website
-

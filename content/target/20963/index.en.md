@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Robb (@mgrobb) on Twitter
-
 Twitter profile of Mike Robb, Scottish Labour candidate for Inverness, Nairn, Badenoch and Strathspey in the 2017 general election.

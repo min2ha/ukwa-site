@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage appears to dump cap on migrants with 'ethical' policy pledge 
-

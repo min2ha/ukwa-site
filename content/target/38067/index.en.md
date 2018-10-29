@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stronger IN Technology (@StrongerIn_Tech) on Twitter
-
 Campaign for the UK to stay in the EU from the digital technologies industry perspective.

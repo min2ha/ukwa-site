@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Government: Subscribe to our Alerts and Newsletters - Step 1
-
 None

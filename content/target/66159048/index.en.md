@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Open Data Institute (ODI)
-
 The Open Data Institute is catalysing the evolution of open data culture to create economic, environmental and social value. They bring together experts to collaborate, incubate, nurture and mentor new ideas, and promote innovation.

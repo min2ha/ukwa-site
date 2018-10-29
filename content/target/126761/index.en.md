@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Scientists for Global Responsibility (SGR)
-
 SGR is an independent UK-based membership organisation of hundreds of natural scientists, social scientists, engineers, IT professionals and architects. We promote science, design and technology that contribute to peace, social justice, and environmental sustainability.

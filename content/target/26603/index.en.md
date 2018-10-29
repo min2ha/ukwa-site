@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Inside the campaigns: 'Pursuing a Tory wish list would misread country's mood'
-
 None

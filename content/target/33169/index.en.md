@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# Diaspora Cardiff: The refugee crisis as seen from Cardiff
-
 Diaspora Cardiff is a blog by Alessio Perrone, an Italian trainee journalist at Cardiff University, on how the refugee crisis reflects in Cardiff’s life.

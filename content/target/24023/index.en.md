@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015 UK: Voters head to the polls - live
-
 None

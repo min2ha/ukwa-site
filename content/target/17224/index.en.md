@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tory plan to give away council houses in pre-election bribe dismissed as 'bonkers'
-
 None

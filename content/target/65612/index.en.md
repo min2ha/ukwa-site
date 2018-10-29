@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Русскоязычная Британия / Russkoiazychnaia Britaniia (Russian-language Britain)
-
 Russian-language online daily news platform.

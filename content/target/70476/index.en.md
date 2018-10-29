@@ -10,6 +10,4 @@
   "start_date": "2018-08-28T09:00:00Z"
 }
 
-# Kinneil Estate, Bo'ness
-
 Site of a historic parkland near near Bo'ness, Falkirk [formerly West Lothian] and part of the Frontiers of the Roman Empire World Heritage Site.

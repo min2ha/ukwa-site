@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour MP Kate Hoey vows to fight deselection
-
 Pro-Brexit Labour MP Kate Hoey vowed to resist efforts to deselect her after her local party in Vauxhall passed a vote of no confidence in her.
 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Families save £10 every time they fill up their cars under the Coalition, says George Osborne
-
 None

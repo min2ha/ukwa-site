@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# Stop the Saatchi Bill
-
 This website was a campaign to try to prevent a Private Members Bill presented by Lord Maurice Saatchi.

@@ -11,6 +11,4 @@
   "subject": "Open Access Repositories"
 }
 
-# ORA - Oxford University Research Archive
-
 Research publications from the University of Oxford

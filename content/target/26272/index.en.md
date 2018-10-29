@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Neuadd, Y
-
 A Welsh Literature initiative provided a publishing platform for writers who wish to push traditional boundaries in Wales.

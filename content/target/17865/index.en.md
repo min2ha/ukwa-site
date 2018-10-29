@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ukip to eradicate Tories in the north of England, vows Nigel Farage
-
 None

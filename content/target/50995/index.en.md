@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Morrison (Wm) Supermarkets plc
-
 Wm Morrison Supermarkets plc, trading as Morrisons they are the fourth largest chain of supermarkets in  the UK.  Retailing mainly food drink & groceries.

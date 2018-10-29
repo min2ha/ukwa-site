@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Monmouthshire Moth and Butterfly Group Blog
-

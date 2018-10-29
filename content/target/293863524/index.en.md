@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Making Games for Libraries 
-
 <p>Blog recording information from the making games for libraries events.</p>

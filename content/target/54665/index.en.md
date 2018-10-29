@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Limbless Association, The 
-
 The leading charity in the UK for people with limb loss.

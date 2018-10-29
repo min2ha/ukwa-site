@@ -10,6 +10,4 @@
   "start_date": "2016-02-09T09:00:00Z"
 }
 
-# Manband Archive
-
 The website Celebrates the past, present and future of the legendary Welsh rock band Man who were formed in 1968 and are still active.

@@ -11,5 +11,3 @@
   "subject": "French in London"
 }
 
-# La Poule au Pot Restaurant
-

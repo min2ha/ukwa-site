@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Campaign for Nuclear Disarmament
-
 The Scottish Campaign for Nuclear Disarmament works for the abolition of all nuclear weapons in Britain as a step toward the global elimination of these weapons of mass destruction.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU negotiator says 'time's short' for reaching deal
-
 The UK will have to reach a Brexit deal by October 2018, according to the EU's chief negotiator for Brexit, Michel Barnier.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Town Hall Campbeltown
-
 Website regarding the renovation of the Town Hall in Campbeltown, Argyll & Bute, with the view of the completed building being used for events in the town and for the community.

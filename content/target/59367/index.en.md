@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The jingoistic, xenophobic Brexiteer statements about Ireland must stop
-

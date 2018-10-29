@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The West Row Boys
-

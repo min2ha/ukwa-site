@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# University of Liverpool, The
-
 <p>The official website of the University of Liverpool.</p>

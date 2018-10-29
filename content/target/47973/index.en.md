@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Anfield Bicycle Club
-
 The Anfield Bicycle Club was formed in 1879 in the Anfield district of Liverpool.

@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: 11 great events to look forward to in east Kent now Easter is over
-
 None

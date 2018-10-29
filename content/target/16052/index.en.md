@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Nuffield Department of Medicine, University of Oxford: Ebola research taking place in NDM
-
 <p>Information about the trials of a potential treatment and a vaccine against Ebola.</p>

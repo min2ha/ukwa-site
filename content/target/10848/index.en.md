@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Labour Movement for Europe
-
 The Labour Movement for Europe is a Socialist Society affiliated to the Labour Party whose aim is to improve and broaden the understanding of the European Union and its potential throughout the wider Labour movement and the United Kingdom. It is the home of the pro-Europeans in the Labour and trade union movement.

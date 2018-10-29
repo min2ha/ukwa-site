@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Can David Cameron change the United Kingdom in order to save the Union?
-
 None

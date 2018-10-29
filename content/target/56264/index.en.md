@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: London Mayor's threat to derail Brexit: Sadiq Khan vows to make staying in Europe a Labour policy so it would 'trump the referendum result' if they win power   
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Red Road flats saga is a reminder that attitudes to council housing are vile
-
 <p>Article by Gerry Mooney about the decision not to demolish Glasgow’s iconic Red Road Flats as part of the opening ceremony of the XX Commonwealth Games and what it tells us about Glasgow’s housing and planning policies. From “The Conversation”  an independent source of news and views, sourced from the academic and research community.</p>

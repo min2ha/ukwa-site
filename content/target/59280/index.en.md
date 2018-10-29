@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Irish warn Theresa May: change course or risk Brexit chaos
-
 Ireland's EU Commissioner for Agriculture remaining inside the single market and customs union, or allowing Northern Ireland to do so, would mean that there need be no hard border between the Irish Republic and Northern Ireland. The Republic is threatening to veto trade talks unless it receives guarantees over the border with Northern Irealnd

@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# South Tyrone Empowerment Programme (STEP)
-
 Established in 1997, STEP is a not for profit community development organisation based in Dungannon, Northern Ireland. Our range of services has continually diversified in response to changing community needs and gaps in service provision. We have grown to provide both local and regional services to the community.

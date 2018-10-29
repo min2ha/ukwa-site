@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marc Brew
-
 <p>Marc Brew Company makes tender, precise choreographic material that exemplifies the beauty of the moments shared between people. The choreography draws out the unexpected physicality of each performer and works with a range of disabled and non-disabled artists. Part of the Glasgow 2014 Cultural Programme.</p>

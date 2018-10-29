@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Ross O'Hennessy
-
 Ross O'Hennessy is a Welsh actor who has appeared in Film, TV and Thetare. He is known for his roles in Hollyoaks Later, Da Vinci's Demons, The Musketeers and the HBO series Game of Thrones. 

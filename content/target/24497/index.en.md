@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: George Osborne: We want to give everyone a fair share in this country’s future
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# International Business Times: Smartphone addiction disrupts important chemicals in your brain
-
 News article about growing concerns from the scientific community regarding smartphone and internet usage. Smartphone and internet addiction can create imbalances in the brain chemistry of young people, according to a new study presented at the Radiological Society of North America (RSNA) 

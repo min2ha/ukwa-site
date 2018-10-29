@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T09:00:00Z"
 }
 
-# OR Society, The
-
 The OR Society is the professional membership body for Operational Research (O.R.) in the UK, Professional Learned Society for the advancement of knowledge by fostering, promoting and furthering interest in Operational Research.

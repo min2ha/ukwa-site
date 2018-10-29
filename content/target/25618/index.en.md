@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: If Russell Brand is pushing 40, who represents the actual youth?
-
 None

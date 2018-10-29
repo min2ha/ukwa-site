@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Own your own home
-
 Government site to help people buy their own home.

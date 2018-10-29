@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Mountaineering Scotland
-
 Mountaineering Scotland acts to represent, support and promote Scottish mountaineering.

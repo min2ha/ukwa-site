@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Idbury Prints
-
 This website is a commercial art gallery, but contains a great deal of research into print-makers and printmaking. .

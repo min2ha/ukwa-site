@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Together for mental wellbeing
-
 A UK mental health charity site

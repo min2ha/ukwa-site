@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Natalie Bennett on Facebook 
-

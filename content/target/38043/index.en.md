@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# RemoveTheSpin (@RemoveTheSpin) on Twitter
-
 Aiming to bring together information sources about referendum to allow readers to form an opinion,

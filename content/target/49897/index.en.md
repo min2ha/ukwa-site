@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# About My Vote: Northern Ireland Assembly
-
 Information about the Northern Ireland Assembly.

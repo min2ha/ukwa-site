@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Kelso Folk & Live Music Club
-
 Site of a Scottish traditional music club active in Kelso, Scottish Borders.

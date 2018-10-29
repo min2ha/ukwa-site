@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The War and Peace Revival
-
 Website for the War and Peace military and vintage festival.

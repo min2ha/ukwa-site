@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Revealed: Labour's secret plan to target higher earning professionals' pensions
-
 None

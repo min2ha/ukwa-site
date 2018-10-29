@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# Tony Attwood
-
 This website is a guide for parents, professionals and people with Asperger's Syndrome and their partners.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sturgeon facemasks can't hide flaws in Tories' Scottish policy
-
 None

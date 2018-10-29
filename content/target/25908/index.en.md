@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron left looking dangerously fallible after leaders' debate
-
 None

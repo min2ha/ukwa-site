@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Association of Ukrainians in Great Britain, Edinburgh Branch
-
 Site of an association of Ukrainians, and people of Ukrainian descent, living in Edinburgh and throughout Scotland.

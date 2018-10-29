@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Grassroots student movements on both sides emphasize participation and becoming informed about the EU referendom
-
 On the “out” side, Students for Britain, are affiliated to Vote Leave. On the “in” side stand Students for Europe, supported by Britain Stronger in Europe. Over a hundred individual student groups on either side of the debate are up and running at universities around the country. 

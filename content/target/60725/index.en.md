@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Beacon Hill Benefice
-
 The Beacon Hill Benefice is in the diocese of Brecon & Swansea and includes four churches: St. Michael’s, Beguildy; St. David’s, Heyope; St.Cynllo’s, Llangunllo; and St. Mary Magdalene, Bleddfa.

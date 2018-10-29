@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Coffee Spout
-
 A blog site for coffee enthusiasts

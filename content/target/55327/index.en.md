@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Rosie Swale-Pope
-
 Rosie Swale Pope is a Global adventurer, author, and marathon runner who successfully completed a five-year around-the-world run, raising £250,000 for a charity that supports orphaned children in Russia. Rosie Swale Pope is from Tenby.

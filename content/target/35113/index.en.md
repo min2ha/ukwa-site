@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Gwynoro Jones Blog (Wales and World)
-
 A blog by Gwynoro Jones, former Labour MP and now Liberal Democrat activist, focusing on today’s political issues in Wales and the UK. 

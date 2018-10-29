@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Britain GAA (@BPCGAA) on Twitter
-
 The Provincial Council of Britain Gaelic Athletic Association are the governing body for the GAA in Britain. This is their official Twitter account.

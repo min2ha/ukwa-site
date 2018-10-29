@@ -10,6 +10,4 @@
   "start_date": "2015-01-23T00:00:00Z"
 }
 
-# gov.uk: Innovate UK
-
 <p>Innovate UK is the new name for the Technology Strategy Board. Innovate UK is an executive non-departmental public body, sponsored by the Department for Business, Innovation &amp; Skills.</p>

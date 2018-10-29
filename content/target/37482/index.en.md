@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Nonsuch HP: A Politics Student's view on the European Referendum
-
 When David Cameron returned from the European Parliament clutching his ‘new deal for Britain’ it seemed to me that the concessions that had been granted were minor and didn’t address any of the real problems that the British people wanted resolving in the first place. The whole renegotiation process seemed to be a pre-arranged charade agreed by EU leaders which aimed to fool the UK public into rejecting Brexit and stay in a virtually unreformed European Union. 

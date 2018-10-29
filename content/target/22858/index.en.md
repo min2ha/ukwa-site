@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# Stop Climate Chaos Cymru | Atal Anrhefn Hinsawdd Cymru
-
 Welsh Climate Change Coalition. The main organizations in Wales include: Oxfam Cymru, Unison, National Union of Students, Friends of the Earth Cymru, RSPB Cymru, Sustrans Cymru, WWF Cymru, CAFOD, Christian Aid Wales, Coed Cadw – The Woodland Trust, Tearfund, National Federation of Women’s Institutes Wales, the Wildlife Trusts Wales and the Centre for Alternative Technology.

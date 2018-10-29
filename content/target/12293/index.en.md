@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Guardian, The: Serbs boycott Archduke Franz Ferdinand assassination centenary
-
 None

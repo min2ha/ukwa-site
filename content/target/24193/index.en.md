@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband took a risk meeting with Russell Brand. He may very well be rewarded 
-
 None

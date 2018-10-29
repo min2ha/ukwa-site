@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 19th March 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a committee of the whole House, continues to debate amendments to the EU (Withdrawal) Bill, focusing on maintenance of standards after Brexit, insolvency law, co-operation with the EU on child maintenance and tackling violence against women and girls, and holding a referendum on the Withdrawal Agreement.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 9th October 2017: UK Plans for Leaving the EU
-
 The Prime Minister gave a statement to Parliament after her Florence speech on the Brexit negotiations.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Lakeside Gallery
-
 Lakeside gallery was established in 1989 by Linda and Roger Garland primarily to exhibit their own work,but also to promote book illustration as a serious art form and to make this accessible to a wider audience.

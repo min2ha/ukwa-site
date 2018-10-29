@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sun and Moon Festival
-
 Small festival focussed on health and well being for the whole family

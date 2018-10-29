@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# ABPI (Association of the British Pharmaceutical Industry) Cymru Wales 2016 Manifesto
-

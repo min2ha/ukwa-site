@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: How George Osborne's Budget jokes cost Britain £81m
-
 None

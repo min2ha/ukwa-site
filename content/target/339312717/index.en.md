@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Changed Utterly: Ireland and the Easter Rising
-
 1916 Easter Rising blog created by the Manuscripts & Archives Research Library of Trinity College, Dublin. It consists of blog posts based on the archival materials held by Trinity College Library.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Magna Carta’s lesson
-

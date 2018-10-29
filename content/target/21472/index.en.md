@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Bedroom Tax champion Esther McVey set to lose Tory seat at General Election 
-
 None

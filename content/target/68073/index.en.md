@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Grove RFC (@GroveRFC) on Twitter
-
 The official Twitter account of Grove Rugby Football Club. Grove RFC is a family friendly community rugby club. 

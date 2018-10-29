@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Manchester Conservatives: latest information and updates
-
 Manchester Conservative Federation, covering the Parliamentary constituencies and council wards within Manchester.

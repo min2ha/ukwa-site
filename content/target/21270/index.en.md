@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Leanne Wood on Facebook
-

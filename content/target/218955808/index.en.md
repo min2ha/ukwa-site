@@ -10,6 +10,4 @@
   "start_date": "2014-01-30T04:15:00Z"
 }
 
-# 24th International Congress of History of Science, Technology and Medicine (The University of Manchester)
-
 None

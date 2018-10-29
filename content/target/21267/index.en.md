@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rob Walsh for Wrexham on Facebook
-
 Liberal Democrat candidate for Wrexham.

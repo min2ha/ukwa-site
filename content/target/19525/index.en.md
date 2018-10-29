@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily News: America to see Hereford Magna Carta
-

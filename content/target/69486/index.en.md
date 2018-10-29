@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# New Rider Forum
-
 An online forum about horse riding

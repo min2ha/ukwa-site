@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Novara Media
-
 <p>Novara Media broadcast and publish, in text, sound and moving image, articles relating to society and politics in the UK and from a global perspective. Contributions focus on challenges to the political left, and new responses to the global economic crisis and austerity politics.</p>

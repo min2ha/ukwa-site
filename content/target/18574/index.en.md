@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Hopkin on Facebook
-
 Richard Hopkin is Prospective Conservative MP for Cardiff Central.

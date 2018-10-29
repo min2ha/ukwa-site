@@ -10,6 +10,4 @@
   "start_date": "2005-07-06T00:00:00Z"
 }
 
-# In Vitro Toxicology Society
-
 To provide a forum for discussion for scientists actively involved in the study, practice or development of in vitro toxicology

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Paul's & St. Mary's, Glenrothes
-
 Site of a Scottish Roman Catholic parish church located in Glenrothes, Fife.

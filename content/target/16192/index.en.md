@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# York Minster Library
-
 <p>York Minster Library is the largest cathedral library in England, with a collection of some 120,000 volumes. Over 25,000 of these were printed before 1801, including 115 incunabula.</p>

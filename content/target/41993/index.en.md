@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Johnson's 'obscene remarks' may have ruined his chances as PM, says Heseltine
-
 Guardian, The

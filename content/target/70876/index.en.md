@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# HanesCymraegCaerdydd (@CymraegCaerdydd) on Twitter 
-
 The site covers the history of the Welsh language in Cardiff and is written by Dylan Foster Evans, Head of Welsh at Cardiff University. It is mainly in Welsh.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Evangelical Alliance: Evangelical votes are up for grabs   
-
 Ecumenical and cross-church	Evangelical<br /> Established in the nineteenth century, the Evangelical Alliance is the principal umbrella body for evangelical Christians in the UK.

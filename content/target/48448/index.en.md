@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Business and industry react to May's speech
-
 Theresa May's Brexit speech on January 17th 2017 was broadly welcomed by UK business and finance for adding clarity. But the widespread reaction was that it's the final detail of the EU exit terms that matter, not laying out the direction of travel. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror, The: Social media has teens on the brink of a 'major mental health crisis'
-
 News article that suggests there is a link between the increased number of school children with mental health problems and access to smart phones and the internet

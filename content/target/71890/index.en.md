@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Knaresborogh Rugby Club on Pitchero
-
 The official website of Knaresborogh Rugby Club currently play in Yorkshire four and were formed in 1982.

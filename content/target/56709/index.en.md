@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Preservation Exemplar at King's
-
 The Preservation Exemplar at King’s (PEKin) project investigated, scoped and implemented a solution for the management of electronic business records and research materials in an HE institution. 

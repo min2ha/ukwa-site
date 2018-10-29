@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# Research on the Olympic Games
-
 The first part of this collection will take you through the run-up to the event, with research on planning and preparation from the training and coaching of athletes to issues surrounding marketing and promotion of this global brand.
 
 The second section of research takes an in-depth look at the various events that individuals and teams from around the world will participate in during August, with research on sports as varied as football, cycling, swimming and wrestling.

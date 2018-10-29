@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Michael Gove, brilliant but unloved, plays the game of thrones
-

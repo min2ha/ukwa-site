@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UCL European Institute: "This time it's different" – The Impact of the European Election
-
 None

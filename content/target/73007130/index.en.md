@@ -10,5 +10,3 @@
   "start_date": "2012-11-13T00:00:00Z"
 }
 
-# Union Makes Us Strong, The - TUC History Online
-

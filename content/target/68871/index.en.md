@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM words at Chequers press conference: 13 July 2018
-
 In a speech at a press conference with US President Donald Trump in July 2018, the Prime Minister calls for continued transatlantic cooperation to ensure shared security and prosperity for years to come.
 

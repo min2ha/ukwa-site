@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Celia Downie (@celiabristol) on Twitter (Liberal Democrats Politician)
-
 Celia Downie stood as Liberal candidate for Bristol North West at the 2017 General Election but was not elected.

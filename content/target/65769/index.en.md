@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Wales Association of Standing Advisory Councils for Religious Education, WASACRE
-
 The Standing Advisory Councils for Religious Education (SACREs) of all 22 Local Authorities in Wales are members of the Wales Association of SACREs (WASACRE). The purpose of WASACRE is to provide a forum for the exchange of good practice and to represent the aims, work, and views of its member SACREs. 

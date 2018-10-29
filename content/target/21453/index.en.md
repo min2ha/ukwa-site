@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Hedge fund chief revealed as Red Ed's £600,000 donor as Lib Dem peer resigns over second funding row
-
 None

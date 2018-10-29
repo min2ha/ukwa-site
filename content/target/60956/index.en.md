@@ -11,5 +11,3 @@
   "subject": "UK relations with the Low Countries"
 }
 
-# Patrick van Ijzendoorn, Dutch correspondent in London (@IjzendoornV) at Twitter.
-

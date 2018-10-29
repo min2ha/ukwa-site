@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Anita Davies on Facebook (Liberal Democrats candidate for Ogmore) 
-
 Anita Davies is the Liberal Democrats candidate for Ogmore at the 2016 National Assembly Election.

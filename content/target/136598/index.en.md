@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Manchester Poetry Festival
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Treasury:  HM Treasury analysis on the immediate economic impact of leaving the EU: George Osborne's speech
-
 Treasury's analysis on the immediate economic impact of leaving the EU, shows a vote to leave will push the UK economy into recession - the Chancellor explains

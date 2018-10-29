@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Next Tory leader will be 'some babe unborn', says Boris Johnson
-
 None

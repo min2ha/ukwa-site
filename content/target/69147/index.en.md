@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# National Army Museum: A timeline of women in the army
-
 A timeline showing women's roles in the army

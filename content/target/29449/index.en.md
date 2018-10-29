@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lavenham Literary Festival
-
 Lavenham Literary Festival

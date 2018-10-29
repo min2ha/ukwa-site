@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: IMF forecast blows hole in George Osborne’s deficit reduction plan
-
 None

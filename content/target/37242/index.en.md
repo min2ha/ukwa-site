@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: Brexit would result in major funding blow to universities and scientific research, claim academics
-
 The benefits of the EU for academia 

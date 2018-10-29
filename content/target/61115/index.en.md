@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of Hamilton
-
 Site of a body of Church elders and ministers and the administrative body representing local Church of Scotland congregations in Lanarkshire, covering Hamilton, Wishaw, East Kilbride, Strathaven, Airdire, Uddingston/Bothwell, Motherwell and Coatbridge.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Faversham's '£20m Magna Carta' to be discussed by council
-

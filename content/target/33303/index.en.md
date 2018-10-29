@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# North Tolsta Historical Society
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liberal Democrats (@LibDems) on Twitter
-
 The Liberal Democrats exist to build and safeguard a fair, free & open society in which no one is enslaved by poverty, ignorance or conformity 

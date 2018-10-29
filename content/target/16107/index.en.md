@@ -10,6 +10,4 @@
   "start_date": "2015-01-23T00:00:00Z"
 }
 
-# Rivington and Blackrod High School and Sixth Form
-
 <p>Website of Rivington and Blackrod High School and Sixth Form, a Church of England Voluntary Controlled School which was founded in 1566 by the Bishop of Durham.</p>

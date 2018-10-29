@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Stonewall: UK General Election Manifesto 2017
-
 Stonewall is seeking commitments from all parties and all candidates to help  achieve true equality for LGBT people so that everyone is accepted without
 exception, whoever they are, wherever they are.

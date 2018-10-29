@@ -10,6 +10,4 @@
   "start_date": "2018-08-09T09:00:00Z"
 }
 
-# Timber Trade Federation
-
 Association representing the timber and wood construction industries

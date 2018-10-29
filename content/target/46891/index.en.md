@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum: Shall I Stay or Shall I Go?, Second Year London South Bank University Blog
-
 Blog run by London South Bank University students discussing the EU Referendum.

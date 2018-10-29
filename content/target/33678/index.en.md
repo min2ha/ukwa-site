@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  EU referendum: Where Conservative cabinet ministers stand on Europe
-
 Newspaper

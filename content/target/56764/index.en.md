@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Linlithgow Folk Festival
-
 Site of an annual folk and Scottish traditional music festival at Linlithgow, West Lothian.

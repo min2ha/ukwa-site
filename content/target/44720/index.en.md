@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T12:00:00Z"
 }
 
-# Abergavenny Local History Society Street Survey
-
 The original Abergavenny Street survey lasted from 1979 to 1984, with the aim of recording the central historic area of the town. The street survey has recently been updated by Abergavenny Local History Society.

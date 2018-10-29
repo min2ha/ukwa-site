@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# International Longevity Centre-UK, The (ILC-UK)
-
 The International Longevity Centre-UK (ILC-UK) is an independent, non-partisan think-tank dedicated to addressing issues of longevity, ageing and population change. ILC-UK was established in 2000 and is a registered as a charity with the Charity Commission (no. 1080496).

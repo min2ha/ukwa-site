@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Statslife: The EU referendum - one week to go: extracting insights from Facebook using R
-
 Summary of EU referendum analysis from Facebook using R

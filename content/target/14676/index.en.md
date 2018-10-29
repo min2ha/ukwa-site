@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# UK-Med: Ebola
-
 <p>Information about the Ebola on the UK-Med website.</p>

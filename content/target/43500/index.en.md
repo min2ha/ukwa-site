@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Barker Illustration: EU Brexit International Trade cartoon
-
 UK International trade and the EU bloc

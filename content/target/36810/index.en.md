@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# On the Somme with the13th(Service) Battalion The Rifle Brigade: Europeana 1914-1918 
-

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Quakers at COP (Copenhagen Climate Change Conference)
-

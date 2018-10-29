@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Lib Dem leader resigns: The Nick Clegg Story
-
 None

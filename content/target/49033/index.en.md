@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Leith Rules Golf Society
-
 Site of a society whose aim is to promote Leith Links, Edinburgh, as the one of the earliest locations where golf was played, and where the earliest rules were recorded.

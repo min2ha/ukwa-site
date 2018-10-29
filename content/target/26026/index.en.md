@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Steve Bell's If … David Cameron heads back into No 10
-
 None

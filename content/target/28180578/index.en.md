@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Web Log of Dan Roberts, The
-
 None

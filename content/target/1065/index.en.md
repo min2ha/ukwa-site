@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Quality Intelligence East
-
 None

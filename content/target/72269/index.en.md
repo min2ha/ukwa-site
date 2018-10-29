@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# ColeraineBID (@ColeraineBID) on Twitter
-
 The official Twitter account of the Coleraine Business Improvement District (BID),

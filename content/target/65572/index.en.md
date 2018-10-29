@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# TMA UK
-
 The TMA UK brings together professionals from across the UK, Europe and worldwide to meet, network and hear the latest news within business recovery, corporate turnaround and restructuring.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-01T10:00:00Z"
 }
 
-# Making a mark
-
 A top art blog for artists and art lovers: news about major art competitions and exhibitions, interviews with artists, techniques and tips for art and business

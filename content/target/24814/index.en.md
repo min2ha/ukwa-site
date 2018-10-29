@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kevin McNamara (Liberal Democrats candidate for Ealing North) on Facebook
-
 Kevin McNamara stood as Liberal Democrats candidate for Ealing North at teh 2015 General Election but was not elected. 

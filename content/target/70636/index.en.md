@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# UnivMuseumsGroup (@UnivMuseumsGrp) on Twitter
-
 Representing the interests of university museums, galleries and collections in England, Wales and Northern Ireland. 

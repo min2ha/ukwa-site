@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Catwg's Llangattock Church
-

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# British GQ: How the European elections may define British politics in 2014
-
 None

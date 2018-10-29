@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jade Nimmo | Scottish Long Jump Record Breaker
-
 <p>The website of Jade Nimmo, the Scottish national long jump record holder and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

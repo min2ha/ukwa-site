@@ -10,6 +10,4 @@
   "start_date": "2015-07-10T10:00:00Z"
 }
 
-# Prifysgol y Gymuned Gogledd Cymru | Community University of North Wales
-
 The Community University of North Wales is a partnership of ten further and higher education institutions in north Wales and was disbanded circa. 2005.

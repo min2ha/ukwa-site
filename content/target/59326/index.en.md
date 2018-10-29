@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tayside Orienteers
-
 Site of an orienteering club based on Tayside. 

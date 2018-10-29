@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Anson Trust
-
 The Anson sisters established The Anson Trust in memory of their brother, Arthur Anson in 1913. It was set up to provide amenities for the welfare, recreation and leisure of the parishioners of Marcham. 

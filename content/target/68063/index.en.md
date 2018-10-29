@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chinnor RFC
-
 Chinnor RFC is a  friendly but ambitious local club, with a 1st XV playing in the National Leagues, 5 other senior sides, and highly respected well-organised Junior and Mini sections. 

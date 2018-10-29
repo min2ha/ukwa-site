@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Kwalee
-
 Kwalee is a developer and publisher of mobile games based in Leamington Spa, England.

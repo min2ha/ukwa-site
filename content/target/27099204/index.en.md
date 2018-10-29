@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Wishful Thinking
-
 None

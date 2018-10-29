@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Telegraph: Ireland pressures Britain to return pictures in Easter Rising anniversary year
-

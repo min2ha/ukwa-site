@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# UKIP Cymru (@UKIPCymru) on Twitter
-
 This is the official Welsh language page for UKIP Wales/ Cymru.

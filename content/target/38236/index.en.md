@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Better Off Out (@BetterOffOut) on Twitter
-
 Cross-party campaign dedicated to explaining why the UK would be better off outside the EU.

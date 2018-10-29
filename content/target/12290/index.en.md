@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harry Aikines (@HarryAA100m) on Twitter
-
 This is the twitter profile of Harry Aikines-Aryeetey, Team England 100m race competitor for the 2014 Commonwealth Games.

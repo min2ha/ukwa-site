@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Malcolm Bull's Calderdale Companion
-
 This Foldout collects the entries for some of the Calderdale has around 250 monuments and memorials to those who died in World War I and World War II and other conflicts.

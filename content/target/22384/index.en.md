@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: We will borrow more if we win the election, Labour admits
-
 None

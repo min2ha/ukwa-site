@@ -10,6 +10,4 @@
   "start_date": "2018-10-12T09:00:00Z"
 }
 
-# Mòd Dhùn Omhain on Facebook
-
 Facebook page for the Royal National Mòd / Mòd Nàiseanta Rìoghail at Dunoon in 2018.

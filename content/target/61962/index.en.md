@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Everton Ladies (@EvertonLadies ) on Twitter
-
 he official Twitter page of Everton Ladies, with news, fixture details, ticket offers and much, much more from the team.

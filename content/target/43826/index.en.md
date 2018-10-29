@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: EU must stop others following Britain out of the door, Merkel warns amid market fears bloc is 'no longer governable' after Brexit   
-

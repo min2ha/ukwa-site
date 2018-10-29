@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Selkirk Parish Church
-
 Site of a Church of Scotland parish church at Selkirk, Scottish Borders (historically Selkirkshire), incorporating Ashkirk Parish Church.

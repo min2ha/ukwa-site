@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bootstock Festival
-
 WordPress site of an annual Scottish charitable music festival located on the Black Isle, Highland, and established to raise funds for Nepal.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City of London: London to welcome Global Law Summit 2015
-

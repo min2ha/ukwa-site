@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Fistful Of Cinctans: A Natural History Museums Blog
-
  Fistful of Cinctans is all about natural history museums and zoology. It is  the personal blog of Mark Carnall, a curator at Oxford University Natural History Museum. 

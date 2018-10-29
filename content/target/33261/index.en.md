@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital History Seminar
-
 Digital History Seminar has been running since 2012 focusing on the discussion of new historical work that has been made possible by the use of electronic tools and resources. 

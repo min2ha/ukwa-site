@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Life (@LifeCharity) on Twitter
-
 An anti abortion Pro-Life campaign group.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Stretching the City
-
 We deliver bespoke workplace wellbeing solutions, that have been specifically designed to address the aches and pains, stresses and strains of corporate life. 

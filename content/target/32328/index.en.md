@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Good Pitch
-
 Good Pitch is run by BRITDOC, a UK-based non-profit working globally with documentary film. Good Pitch brings together selected foundations, NGOs, social entrepreneurs, broadcasters and potential corporate and brand partners to form alliances around groundbreaking films.

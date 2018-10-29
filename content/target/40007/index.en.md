@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Broadland District Council
-
 Provides information about Broadland District Council activities and services, local news and events, policies and plans, spending and performance, and council committee papers

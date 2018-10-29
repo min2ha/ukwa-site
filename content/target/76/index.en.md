@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Blue Cross Animal Charity
-
 Website of a uk based animal welfare organisation. Includes details of animals needing re-homing.

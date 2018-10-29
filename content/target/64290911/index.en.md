@@ -11,6 +11,4 @@
   "subject": "Dickens Bicentenary"
 }
 
-# Charles Dickens Birthplace Museum
-
 None

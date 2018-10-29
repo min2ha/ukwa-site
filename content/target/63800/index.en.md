@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-#  BBC News: Facebook suspends AIQ data firm used by Vote Leave in Brexit campaign
-
 Facebook has suspended a Canadian data firm that played a key role in the campaign for the UK to leave the EU. The social media giant said AggregateIQ (AIQ) may have improperly received users' data.
 
 

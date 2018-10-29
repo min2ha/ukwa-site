@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Blind Cat Festival
-

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Save Withybush Hospital
-
 Save Withybush Hospital is a fight to Save the Emergency and Urgent Care Centre (A&E) at Withybush Hospital in Pembrokeshire and to prevent further downgrading.

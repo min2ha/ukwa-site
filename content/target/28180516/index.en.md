@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Forced Entertainment
-
 Forced Entertainment are a group of six artists who make work in theatre and performance from their base in Sheffield, they tour their performances around the world.

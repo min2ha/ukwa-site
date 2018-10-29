@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# Digital Learning Community
-
 A community interested in using digital technology to support learning and teaching.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# Angharad Morgan Soprano
-
 Angharad Morgan is soprano mentored by Dame Kiri Te Kanawa and and a recipient of the Bryn Terfel Foundation. 

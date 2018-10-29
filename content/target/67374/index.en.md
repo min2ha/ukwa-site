@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hayle RFC (@HAYLERFC) on Twitter
-
 The official Twitter account of Hayle Rugby Football Club.

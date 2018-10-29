@@ -10,6 +10,4 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# 38 Degrees: Keep the BBC Travel website and App open
-
 A public petition set up to keep the BBC Travel website and App open. This App was just one of the many BBC services that will either be closed or scaled down, subject to any regulatory approval required. This announcement was made on the 17/05/2016.

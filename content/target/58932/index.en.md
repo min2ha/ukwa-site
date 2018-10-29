@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: 'Don't put politics above prosperity', Davis urges EU
-
 Comments on David Davis' speech Suddeutsche Zeitung Economic Summit, in which he warned against "putting politics above prosperity" in Britain's post-Brexit relationship with the EU.

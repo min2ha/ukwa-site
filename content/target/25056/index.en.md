@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: PM says child benefit is safe as he's forced to rule out cuts after smear bid by Lib Dems
-
 None

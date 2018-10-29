@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Cyngor Cymuned Bro Machno | Bro Machno Community Council
-
 Penmachno Parish Council was established in 1894 and, contrary to the general practice of that era, conducted its business through the medium of Welsh from the start.  Following local government re-organisation in 1974, Bro Machno Community Council came into being.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Islay North Churches
-
 Website of the Islay North Churches, which include the parishes of Kilchoman, Portnahaven,and Kilmeny. 

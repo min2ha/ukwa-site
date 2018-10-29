@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  Ukip's official election merchandise made in foreign factories by foreign workers  
-
 None

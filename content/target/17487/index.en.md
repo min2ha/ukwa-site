@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: Lord Fink tax avoidance comments 'defining moment' for David Cameron - video
-
 None

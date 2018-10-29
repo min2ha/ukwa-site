@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Tania Mahmood on Facebook (Peace Party candidate for Tottenham)
-
 None

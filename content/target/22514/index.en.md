@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Boost for David Cameron as he avoids Nigel Farage in seven way debate
-
 None

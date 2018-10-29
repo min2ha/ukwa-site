@@ -10,7 +10,5 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# CNA International
-
 CNA International is one of the worlds leading Executive Search firms and part of the largest independent recruitment company in the UK, The Pertemps Network Group Ltd.
  

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Daring. Decisive. A hint of steel. Truly, May's momentous speech was like watching the Iron Lady in full flight
-
 Comments on Theresa May's Lancaster House speech in which she set out her strategy for leaving the EU.

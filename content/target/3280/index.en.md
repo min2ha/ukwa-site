@@ -10,6 +10,4 @@
   "start_date": "2013-09-16T10:00:00Z"
 }
 
-# Open House London
-
 <p>Open House London is an annual event in September when over 700 buildings of all kinds in London are open forto the general public, for free, to celebrate the capital’s architecture.</p>

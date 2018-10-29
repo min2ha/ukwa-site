@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Guardian, The: The real story of the Scottish referendum | Severin Carrell, Nicholas Watt and Patrick Wintour | Politics
-
 None

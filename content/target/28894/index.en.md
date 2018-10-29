@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Ghosts in Armour
-
 ‘Ghosts in Armour’ is a multi-disciplinary artistic exploration into the post-industrial landscape of Europe’s Steel Industry. 

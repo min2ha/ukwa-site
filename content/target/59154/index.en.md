@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# Students Association of the University of the West of Scotland
-
 Site of a students' representative body at the University of the West of Scotland, located in Ayr, Hamilton and Paisley.

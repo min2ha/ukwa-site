@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Prestatyn Town Football Club
-

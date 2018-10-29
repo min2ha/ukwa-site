@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Scottish Criminal Cases Review Commission
-
 The Commission "review[s] and investigate cases where it is alleged that a miscarriage of justice may have occurred in relation to conviction, sentence or both."

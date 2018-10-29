@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Manchester District Music Archive
-
 Manchester District Music Archive is a user-led online archive established to celebrate Greater Manchester's music and its social history. It was established in 2003.

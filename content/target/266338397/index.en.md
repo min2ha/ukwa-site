@@ -10,6 +10,4 @@
   "start_date": "2014-11-25T23:00:00Z"
 }
 
-# Making prudent healthcare happen
-
 None

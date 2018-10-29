@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The :  Ed Miliband lost the election because he ditched New Labour, says Tony Blair
-
 None

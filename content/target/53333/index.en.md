@@ -10,6 +10,4 @@
   "start_date": "2017-07-18T09:00:00Z"
 }
 
-# Michael Takeo Magruder
-
 Michael Takeo Magruder is a visual artist and researcher who works with new media including real-time data, digital archives, immersive environments, mobile devices and virtual worlds.

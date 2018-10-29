@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David Peel (@PeelAndrewd) on Twitter (Class War candidate for Norwich South)
-

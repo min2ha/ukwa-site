@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Grant given to allow 800 school children to perform in Cathedral
-

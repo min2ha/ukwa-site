@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BlackRock: Investment and Independence the Scottish Referendum
-
 None

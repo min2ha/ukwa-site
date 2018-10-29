@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Scottish Transgender Alliance
-
 Site of an organisation providing support and information for transgender people in Scotland.

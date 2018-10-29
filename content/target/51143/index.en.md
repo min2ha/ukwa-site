@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# United Kingdom Chapter of the Association of Old Crows
-
 Electronic Warfare has been, and remains, a critical enabling capability in military operations in peace and war.  With the evolution of digital and computer technology, EW, IO and related disciplines are increasingly necessary to achieve situational awareness, knowledge superiority, strategic and tactical dominance, and force and platform protection in both offensive and defensive operations.

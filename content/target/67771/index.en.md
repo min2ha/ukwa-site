@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Allegra Ladies Choir
-
 Allegra is a Ladies Choir formed in 2011. They meet at Llanwern High School, Newport. 

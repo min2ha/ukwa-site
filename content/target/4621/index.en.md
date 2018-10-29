@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Times Higher Education: Mandela tributes pour in from academia
-
 <p>Times Higher Education article reporting on tributes to Nelson Mandela from UK universities.</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-03-10T09:00:00Z"
 }
 
-# International Gospel Outreach (IGO)
-
 International Gospel Outreach (IGO) is a fellowship based in Conwy and is affiliated to the Evangelical Alliance.

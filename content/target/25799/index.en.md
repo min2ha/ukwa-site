@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Humiliation seems likely but the Lib Dems must survive
-
 None

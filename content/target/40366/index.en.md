@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Jewish Archives Centre
-
 Site of an archive preserving documenting, exhibiting and publishing aspects of their collections relating to Scotland's Jewish heritage.

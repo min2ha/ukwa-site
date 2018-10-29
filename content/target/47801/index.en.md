@@ -10,6 +10,4 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# Menevia Cathedral: Cathedral Church of St Joseph
-
 Menevia Cathedral is in Greenhill, Swansea.

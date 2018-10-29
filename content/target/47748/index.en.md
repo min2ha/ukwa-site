@@ -10,6 +10,4 @@
   "start_date": "2016-12-13T09:00:00Z"
 }
 
-# South West Wales Waste Partnership | Partneriaeth Gwastraff De-orllewin Cymru
-
 The South West Wales Waste Partnership includes the City and County of Swansea Council, Carmarthenshire County Council, Neath Port Talbot County Borough Council, Pembrokeshire County Council and Bridgend County Borough Council.

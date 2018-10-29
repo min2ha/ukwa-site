@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK wants £1bn back from EU if it is excluded from Galileo
-
 The UK warned the EU that it would ask it to repay £1bn if it is excluded from the Galileo satellite navigation system after Brexit. UK ministers were angry about the EU's decision to limit access to Galileo, an alternative to the US GPS system.
 
 

@@ -10,6 +10,4 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# Cranfield University
-
 Official website of Cranfield University.

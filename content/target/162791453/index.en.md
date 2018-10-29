@@ -11,6 +11,4 @@
   "subject": "London Terrorist Attack 7th July 2005"
 }
 
-# J7 - The July 7th Truth Campaign Blog
-
 None

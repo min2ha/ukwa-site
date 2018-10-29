@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Bearcat Comedy Club, Twickenham
-
 Website for the Bearcat Comedy Club at The Turk's Head, Twickenham, established in 1984.

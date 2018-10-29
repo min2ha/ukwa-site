@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Huffington Post UK: 2014 Winter Olympics
-

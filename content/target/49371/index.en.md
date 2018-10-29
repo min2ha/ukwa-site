@@ -10,6 +10,4 @@
   "start_date": "2017-02-15T09:00:00Z"
 }
 
-# Father Fitness Blog
-
 A health and fitness blog. it also has advice on how parents can help their kids get active.

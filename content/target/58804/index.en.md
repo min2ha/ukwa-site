@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Kitchen Garden Magazine Forums
-
 An online enthusiast community concerned with growing vegetables and cooking. Discusses planting & growing, harvesting & cooking and various other related topics.

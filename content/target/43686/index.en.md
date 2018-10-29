@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Litter Magazine
-
 Magazine of contemporary poetry, which includes essays, reviews and visual art.

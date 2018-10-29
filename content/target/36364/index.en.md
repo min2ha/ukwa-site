@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Lord Stuart Rose: We will never kowtow to Europe but we are all stronger in the EU
-
 Comment by Lord Stuart Rose

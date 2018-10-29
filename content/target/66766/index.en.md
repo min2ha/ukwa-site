@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Swansea & Brecon Mothers' Union
-
 Mothers’ Union is an international Christian charity that seeks to support families worldwide. This is the Mothers' Union for the Diocese of Swansea and Brecon.

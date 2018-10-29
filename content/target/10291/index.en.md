@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jonathan Fryer, Liberal Democrat on Facebook
-
 None

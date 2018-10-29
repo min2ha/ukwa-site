@@ -10,6 +10,4 @@
   "start_date": "2016-04-25T10:00:00Z"
 }
 
-# Eckington Town Team First World War Interactive Experience and Local Exhibiton
-
 Project on local people from Eckington Town who fought or were involved in the First World War.

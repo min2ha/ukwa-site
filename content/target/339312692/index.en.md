@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Relatives Association, The 
-
 This is the website of the ‘1916 Relatives Association’ which aims to encourage understanding of the events of 1916 and supports involvement of the relatives of those who died during the Easter Rising in centenary commemorations.

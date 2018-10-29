@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Clydebank Independent Resource Centre
-
 Site for a community organisation providing resources in Clydebank, Scotland aiming to alleviate financial exclusion.

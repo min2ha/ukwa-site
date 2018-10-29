@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mabon ap Gwynfor (@mabonapgwynfor) on Twitter (Plaid Cymru candidate for Clwyd South)
-
 Mabon ap Gwynfor is the Plaid Cymru candidate for Clwyd South at the 2015 General Election and the 2016 National Assembly for Wales Election.

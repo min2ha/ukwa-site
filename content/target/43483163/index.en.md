@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Papyrus - prevention of young suicide
-
 None

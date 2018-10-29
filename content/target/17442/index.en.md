@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Harriet Harman's pink bus hits the campaign trail
-
 None

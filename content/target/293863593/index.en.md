@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# NHSScotland Event
-
 An annual event for those working in and with NHS Scotland.

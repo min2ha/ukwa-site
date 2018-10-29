@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Mackintosh Church
-
 Site of a museum inside a former Glasgow church designed by Charles Rennie Mackintosh, and run by the Charles Rennie Macintosh Society

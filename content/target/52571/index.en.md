@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tim Farron (Liberal Democrats Politician)
-
 Tim Farroin stood as Liberal Democrat candidate for Westmorland and Lonsdale in the 2017 General Election and was elected. He was first elected for Westmorland and Lonsdale in 2005 and has held the seat ever since.

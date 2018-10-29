@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T10:00:00Z"
 }
 
-# North Wales Womens Centre
-
 North Wales Women’s Centre is located in Rhyl and provides access to information, support and training on issues relating to health wellbeing and work.  

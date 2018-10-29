@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Peckham War Horse Project on Facebook
-
 Peckham War Horse Project seeks to recreate a photograph taken in 1915 in collaboration with local residents, community groups, schools and the horses, officers and soldiers from The Kings Troop. 

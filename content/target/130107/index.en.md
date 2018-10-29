@@ -10,5 +10,3 @@
   "start_date": "2006-04-13T00:00:00Z"
 }
 
-# Hypoparathyroidism UK
-

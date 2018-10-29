@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# SSE: Building a competitive, productive and sustainable UK economy, and an energy sector that works for customers: SSE proposals for the next UK Government, May 2017 
-
 With the UK’s forthcoming exit from the European Union, the next UK Government has a genuinely pivotal opportunity to shape a competitive, productive and sustainable future for the UK economy. With plans to invest around £6bn in the period 2016 to 2020 and with operations, and people, spanning the four constituent nations of the UK, SSE wants to work constructively with the incoming government in the interests of consumers and the economy. From offshore wind to fair tax; cost-effective decarbonisation to competition in the retail market, in this short document SSE outlines five recommendations the next government could pursue.
 

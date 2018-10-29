@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Libcom.org
-
 The libcom.org group is a small collective of libertarian communists based mainly in the UK and the US. 

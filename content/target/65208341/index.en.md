@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Cabinet of Curiosities
-
 None

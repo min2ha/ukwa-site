@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cardiac Risk in the Young: CRY Manifesto
-
 CRY supports young people diagnosed with potentially life-threatening cardiac conditions and offers bereavement support to families affected by YSCD. CRY promotes and develops heart screening programmes and funds medical research. CRY publishes and distributes medical information written by leading cardiologists for the general public. CRY funds fast track referral, screening and cardiac pathology services at leading UK hospitals.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Angel of the North backs Brexit: Famous work of art hijacked by the Vote Leave campaign in a political stunt sparking outrage from artist Antony Gormley   
-

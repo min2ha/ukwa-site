@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Man City Women (@ManCityWomen) on Twitter
-
 The official Manchester City Women match day account | Follow the women’s team beyond the game.

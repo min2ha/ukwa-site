@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Recording Angels
-
 Site of a group recording monumental inscriptions in all the graveyards, church yards and cemeteries in Midlothian, Scotland, and publishing the results.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kensington, Chelsea & Fulham Conservatives on Facebook
-

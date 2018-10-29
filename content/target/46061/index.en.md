@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Barco
-
 Barco, a global technology company, designs and develops networked visualization products for the Entertainment, Enterprise and Healthcare markets.

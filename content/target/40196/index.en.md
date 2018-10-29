@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Wild Goose Publications
-
 The Wild Goose site is the online presence of the publishing house of the Iona Community, a Christian a dispersed Christian ecumenical community working for peace and social justice, rebuilding of community and the renewal of worship.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Artists Information Company (A-N): EU referendum: artists voice concern at Brexit in #EUartsdebate
-
 An article reporting on the 'Great British Artists' EU Referendum Debate'.  In a wide-ranging discussion that covered the impact on working in different countries, the effect on freelancers and scepticism about the reasons for the referendum, artists voiced their concern over a potential Brexit.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-08T09:00:00Z"
 }
 
-# Dylan Thomas - Bardd Roc a Rol | Rock and Roll Poet
-
 This is an educational resource on the poet Dylan Thomas.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'Theresa the Appeaser has given in on virtually everything!' Farage rages at PM's Brexit divorce deal as MEPs sign off starting trade talks and gloat that Britain will 'lose a lot'   
-

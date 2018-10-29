@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Truth Scotland Blog
-
 Blog site of a society promoting the Roman Catholic church and its ideas in Scotland.

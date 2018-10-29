@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron: I feel bloody lively about election
-
 None

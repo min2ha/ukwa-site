@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# GPO: Witness to History
-
 GPO Witness History is an exhibition opening in March 2016 in the GPO building in Dublin. The GPO was the rebel headquarters during the Easter Rising

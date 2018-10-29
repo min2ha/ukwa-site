@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Barclay Viewforth Church
-

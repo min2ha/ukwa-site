@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Newcastle Poetry Festival
-
 A new international festival celebrating contemporary poetry.

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Filmore & Union
-
 A UK restaurant based in Yorkshire and other parts of the north east.

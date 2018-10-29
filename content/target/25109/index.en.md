@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Wrong! Wrong! Wrong! Ed's Newsnight TV grilling on jobs, crime and fees where he repeatedly refused to admit he was incorrect about effects of Tory policy
-
 None

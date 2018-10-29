@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Indpendent: Alex Salmond says Brexit will lead to second Scottish independence referendum
-

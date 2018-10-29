@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Miliband and Cameron get personal in TV debate row
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP MPs flout Commons etiquette with first day tweets
-
 None

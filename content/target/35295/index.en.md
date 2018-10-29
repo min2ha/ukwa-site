@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Embassy of the Slovak Republic in London
-
 The website of the embassy of the Slovak Republic in London offers news, travel advice and information about trade and investment

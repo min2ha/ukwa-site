@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Friends of of SFX (Saint Francis Xavier's)
-
 SFX is Saint Francis Xavier's Church, Liverpool. The Friends of SFX Church was launched on 3 December 2010, the feast of St Francis Xavier. Membership is spread throughout the UK, in North America and Asia. It is run by a small Working Group.

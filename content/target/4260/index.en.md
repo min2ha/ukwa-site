@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Greens
-
 The Scottish Green Party (Scottish Gaelic: Pàrtaidh Uaine na h-Alba; Scots: Scots Green Pairty) is a green political party in Scotland.

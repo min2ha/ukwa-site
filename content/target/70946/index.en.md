@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Great Escape
-
 Website for he Great Escape music festival.

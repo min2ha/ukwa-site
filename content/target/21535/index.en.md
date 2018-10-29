@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Budget 2015: End of austerity to come a year earlier
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# BBC iWonder (@BBCiWonder) on Twitter
-
 This is the Twitter profile for the BBC iWonder website. They tweet stories that make you think, from across BBC TV, radio, online and beyond.

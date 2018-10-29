@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Syriza stood up to the money men - the UK left must do the same
-
 None

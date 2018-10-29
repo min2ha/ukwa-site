@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# UnstFest
-
 Weebly site of a festival of arts and events taking place in July each year on the island of Unst, Shetland.

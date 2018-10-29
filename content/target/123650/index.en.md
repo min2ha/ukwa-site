@@ -10,6 +10,4 @@
   "start_date": "2016-01-08T09:00:00Z"
 }
 
-# Chrissie Gittins
-
 Chrissie Gittins writes poetry, radio drama, short stories, and poetry for children.

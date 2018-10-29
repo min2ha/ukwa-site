@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Social Care Institute for Excellence (SCIE)
-
 The Social Care Institute for Excellence (SCIE) improves the lives of people who use care services by sharing knowledge about the system. SCIE is an improvement support agency and an independent charity working with adults’, families’ and children's care and support services across the UK.

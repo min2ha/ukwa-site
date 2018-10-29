@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T09:00:00Z"
 }
 
-# Ruthin Air Cadets
-
 Ruthin Air Cadets are a RAF sponsored uniformed youth organisation for young people 13 to 17 years old. 

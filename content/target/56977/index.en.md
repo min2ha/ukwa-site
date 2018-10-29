@@ -10,6 +10,4 @@
   "start_date": "2017-09-05T09:00:00Z"
 }
 
-# Edinburgh Oktoberfest
-
 Site of a celebration of German beer located in Edinburgh.

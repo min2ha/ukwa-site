@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Aloysius, Springburn
-
 Site of a Scottish Roman Catholic parish church located in Springburn, Glasgow.

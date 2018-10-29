@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: PM 'no regrets' over NHS 'death' line comment
-
 None

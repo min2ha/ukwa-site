@@ -10,6 +10,4 @@
   "start_date": "2016-12-31T09:00:00Z"
 }
 
-# Norfolk Community Foundation
-
 Norfolk Community Foundation is part of a worldwide charitable network of community foundations. They aim to build a stronger community in Norfolk by making it easier to give to address the real needs that exist in our communities.

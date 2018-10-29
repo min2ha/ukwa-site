@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Alan Bissett (@alanbissett) on Twitter
-
 The twitter profile of Alan Bissett, Scottish novelist and playwright.

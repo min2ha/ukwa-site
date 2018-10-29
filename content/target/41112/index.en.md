@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Spokes : the Lothian Cycle Campaign
-
 Site of a campaign group based in Edinburgh, promoting cycling as a sustainable form of transport while urging government to agree, and publicising the benefits of cycling to individuals and the community.

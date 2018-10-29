@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Nia Wyn
-
 Nia Wyn is a singer songwriter from Llandudno. She plays blues and soul-inspired music. Her release was produced by Paul Weller in his Surrey studio.

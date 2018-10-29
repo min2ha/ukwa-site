@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Olympic Association (BOA)
-

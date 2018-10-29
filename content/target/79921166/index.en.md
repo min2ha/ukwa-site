@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Poynder - Independent Journalist
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Archives Hub
-
 The Archives Hub provides a gateway to thousands of the UK’s richest archives. Representing over 220 institutions across the country, the Archives Hub is an effective way to discover unique and often little-known sources to support research.

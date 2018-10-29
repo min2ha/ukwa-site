@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# NHS National Genetics Education and Development: telling stories understanding real life genetics
-
 A section of the NHS National Genetics Education and Development Centre's website that is dedicated to communicating to health professionals the stories of real life genetics.

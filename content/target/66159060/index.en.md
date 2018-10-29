@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Robert Louis Stevenson
-
 A web resource dedicated to Robert Louis Stevenson, designed for academics, school children and everybody interested in learning about the author of 'Treasure Island' and 'Dr Jekyll and Mr Hyde'. 

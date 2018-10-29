@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ann McKechin for Glasgow North
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Centre for Policy Studies: Brexit, agriculture and agricultural policy
-
 Former agriculture permanent secretary, Sir Richard Packer, reveals the huge potential agricultural policy has for Britain, both in the negotiations before Brexit and benefits afterward.

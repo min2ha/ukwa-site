@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Cambrian Railway Line
-
 The Cambrian Lines include the Shrewsbury to Aberystwyth Main Line and the Machynlleth to Pwllheli Coast Line.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Berwick Rugby Football Club
-
 Site of a Scottish rugby union football club based in Northumberland, but playing in Scottish leagues.

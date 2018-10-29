@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Island Ministry Area, Bro Cybi
-

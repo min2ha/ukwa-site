@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Noel Matthews (@uknoel) on Twitter (UKIP Politician)
-
 Noel Matthews stood as UK Independence Party (UKIP) candidate in the 2015 General Election but was not elected. He ran again in 2017 in the Blackpool South constituency but was not elected.

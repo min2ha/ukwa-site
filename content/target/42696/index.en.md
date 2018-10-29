@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Critical Mass London
-
 Documents Critical Mass bike rides in London on the last Friday of every month from South Bank under Waterloo Bridge

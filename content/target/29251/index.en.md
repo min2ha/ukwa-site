@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# London Irish Centre: Reinterpreting the Revolution: A Centenary Discussion on the Easter 1916 Rising  
-
 Discussion event organised by the London Irish Centre, on 'Reinterpreting the Rising.'

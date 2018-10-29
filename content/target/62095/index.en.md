@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Burton Albion Football Club
-
 Burton Albion Football Club is a professional association football club based in the town of Burton upon Trent, Staffordshire, England.

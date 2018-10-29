@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Cash for access scandal as it happened: Malcolm Rifkind to quit Parliament
-
 None

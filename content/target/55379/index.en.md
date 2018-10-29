@@ -10,7 +10,5 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Kernow Matters to Us
-
 Campaign group with the mission to ensure that every Cornish person is represented to decision makers, and is healthy, housed, educated and safe.
 Its Vision Statement begins: A Cornwall where Cornish people have a voice and are listened to.

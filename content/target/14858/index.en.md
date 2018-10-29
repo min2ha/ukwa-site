@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - The Choice We Face
-
 Better Together post a video: "The Choice We Face" at 4.11pm 14th September, 2014

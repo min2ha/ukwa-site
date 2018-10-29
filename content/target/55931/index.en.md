@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Tom Green Composer
-
 Tom Green is a composer of 'music for theatre, dance and primarily the concert hall.'

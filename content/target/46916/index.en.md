@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chris Hanretty: Does the #Brexit referendum franchise matter? 
-
 Blog post questioning the impact of who is able to vote in the EU Referendum.

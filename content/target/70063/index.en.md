@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football on Tees
-
 This blog will focus on football across the Tees Valley and North Yorkshire with a particular emphasis on the Evo-Stik League and the EBAC Northern League.

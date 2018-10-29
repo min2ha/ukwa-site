@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hillingdon Conservatives
-
 Website of Hillingdon Conservatives, providing information on candidates and representatives, events, assembly, local and national news.

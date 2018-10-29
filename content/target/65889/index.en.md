@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Mental Wealth Festival
-
 A two day festival of talks, debates and workshops; providing access across the community to share knowledge and good practice to focus on mental health and wellbeing. 

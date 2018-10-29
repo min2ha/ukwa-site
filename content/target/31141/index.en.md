@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Spectrum Computer Supplies
-
 Spectrum Computer Supplies is an IT consumables company based in Bradford.

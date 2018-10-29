@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The Socialist Case Against the EU - Public Meeting
-
 A public meeting hosted by TUSC around the UK.

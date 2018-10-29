@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Universities Scotland (@uni_scot) on Twitter
-
 Universities Scotland represents and promotes Scotland's 19 universities.

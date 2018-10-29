@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Almost a million students from 60 UK universities join forces to back a 'people's vote' on final Brexit deal amid fears it could hamper their futures   
-

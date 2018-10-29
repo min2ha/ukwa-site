@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# The Gate Arts Centre, Cardiff 
-
 The Gate Arts centre is located in the Roath area of Cardiff.

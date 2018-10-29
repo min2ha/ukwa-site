@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Knight (Animal Welfare Party)
-
 Andrew Knight stood as Animal Welfare Party candidate for Kensington at the 2015 General Election but was not elected.

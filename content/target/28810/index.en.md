@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas Enwau Lleoedd Cymru | Welsh Place-Names Society
-

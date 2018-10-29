@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour 'to pledge to cut tuition fees by a third'
-
 None

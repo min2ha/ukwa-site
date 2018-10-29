@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Daisy Trail
-
 An online crafting platform published by Serif. It closed on the 11/08/2017 after 9 years of service.

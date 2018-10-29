@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tony Blair calls for people to 'rise up' against Brexit
-
 Speaking in the City of London on February 17th, the former prime minister Tony Blair claimed that people voted in the referendum "without knowledge of the true terms of Brexit". He urged "a way out from the present rush over the cliff's edge".

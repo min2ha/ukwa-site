@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: The cabinet - Report, summer 2017
-
 Describes tensions and rivalries within Theresa May's Cabinet about Brexit and other issues.

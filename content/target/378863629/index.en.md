@@ -10,6 +10,4 @@
   "start_date": "2016-03-03T09:00:00Z"
 }
 
-# Cardiff People First
-
 Cardiff People First is a self advocacy organisation run by and for people with a learning disability in Cardiff. 

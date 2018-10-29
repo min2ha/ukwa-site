@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Cwmbran Baroque Singers
-
 Cwmbran Baroque Singers was founded in 1971 by Dr Geoffrey Tyler. They are based in Cwmbran, Torfaen, South Wales.

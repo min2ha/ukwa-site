@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Christ Church University: Public Lecture - Canterbury, King John and Magna Carta
-

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Mrs May’s ‘awayday’ was a sideshow: the big Brexit crunch will be in parliament
-

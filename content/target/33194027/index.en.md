@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Quaker Housing Trust
-

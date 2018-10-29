@@ -10,6 +10,4 @@
   "start_date": "2014-10-06T01:00:00Z"
 }
 
-# visitlondon.com
-
 Website promoting tourism in London.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Fyvie Parish Church
-
 The website of Fyvie Parish Church.

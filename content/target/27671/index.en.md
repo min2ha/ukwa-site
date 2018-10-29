@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour's civil war over spending record: Leadership candidates clash over whether party spent too much when last in power
-
 None

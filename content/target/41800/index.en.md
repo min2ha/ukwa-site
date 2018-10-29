@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Non-Binary Scotland
-
 Site of a group providing support to people in Scotland who identify as non-binary.

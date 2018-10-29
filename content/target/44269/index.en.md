@@ -10,6 +10,4 @@
   "start_date": "2016-07-13T10:00:00Z"
 }
 
-# Time Machine Go
-
 A splash page for other blogs run by a London resident.

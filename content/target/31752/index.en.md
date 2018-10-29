@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Down Syndrome Education International
-
 Down Syndrome Education International works to improve early intervention and education for children with Down syndrome.

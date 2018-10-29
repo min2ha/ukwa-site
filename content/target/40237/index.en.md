@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Makers
-
 Site celebrating and providing information on Scottish crafts.

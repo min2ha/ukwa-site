@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Newcastle Quaker Meeting
-

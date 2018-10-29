@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Paul Croft
-
 Paul Croft  is Lecturer in Fine Art Printmaking at Aberystwyth University.

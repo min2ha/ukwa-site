@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Scotcampus
-
 Site of a magazine aimed at students in Scotland's further and higher education institutions.

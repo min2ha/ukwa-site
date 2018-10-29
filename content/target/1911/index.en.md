@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barnsley Metropolitan Borough Council
-
 The website of Barnsley Metropolitan Borough Council provides information about its activities and services, planning policy, financial performance  and news.  You can also access committee papers and agendas and respond to consultations

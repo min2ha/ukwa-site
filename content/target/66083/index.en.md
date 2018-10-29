@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Economic and Social History Society of Scotland, The
-
 Site of a society formed to provide a focus and outlet for new historical research into the history of Scoland.

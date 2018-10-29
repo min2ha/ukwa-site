@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Eventbrite: Social Media and Mental Health Innovation Conference
-
 Details of a social media and mental health innovation conference, organised by Learning and Development Bureau UK.
  

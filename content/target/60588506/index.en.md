@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Westminster Memories
-
 None

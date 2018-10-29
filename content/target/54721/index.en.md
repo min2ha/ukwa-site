@@ -10,7 +10,5 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# AUD Architects
-
 AUD Architects was established in 2003 by Andrew Ball. He brings a wealth of experience, technical expertise and passion to this young design practice.
 Located in Hale, Cheshire, AUD Architects provide architectural services throughout the north of England.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-18T09:00:00Z"
 }
 
-# Cardiff University: Illustration Archive, The
-
 The Illustration Archive was 'created on the ‘Lost Visions’ project, funded by the Arts and Humanities Research Council (2014-15). An earlier online illustration resource, The Database of Mid-Victorian Illustration (www.dmvi.org.uk), the objective of Lost Visions was to make more historic illustrations than ever before available to the public in a searchable form. The project is based at Cardiff University.

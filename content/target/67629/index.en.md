@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Romford & Gidea Rugby club (@RGPRFC) on Twitter
-
 The official Twitter account of Romford and Gidea Rugby club.

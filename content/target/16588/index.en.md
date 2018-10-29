@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg vows to protect education budget in Lib Dem election manifesto
-
 None

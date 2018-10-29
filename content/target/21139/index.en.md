@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Catherine West on Facebook (Labour candidate for Hornsey and Wood Green)
-

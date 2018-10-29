@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: It is the EU's turn to compromise on Brexit, says Dominic Raab
-
 Brexit Secretary Dominic Raab calls on the EU to show more flexibility and willingness to compromise in the EU exit negotiations

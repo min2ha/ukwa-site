@@ -10,5 +10,3 @@
   "start_date": "2006-03-13T00:00:00Z"
 }
 
-# Association for Learning Technology
-

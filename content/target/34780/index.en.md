@@ -10,6 +10,4 @@
   "start_date": "2016-01-29T09:00:00Z"
 }
 
-# Dan Phelps
-
 Dan Phelps is a composer and pianist based in Llantwit Fardre near Pontypridd.

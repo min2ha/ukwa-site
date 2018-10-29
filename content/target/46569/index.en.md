@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Gaelic version of Sabhal Mor Ostaig website
-
 Gaelic version of the Sabhal Mor Ostaig website

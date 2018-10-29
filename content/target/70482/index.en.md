@@ -10,5 +10,3 @@
   "start_date": "2018-08-28T09:00:00Z"
 }
 
-# Film Access Network Scotland (FANS)
-

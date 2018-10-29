@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Troon Pétanque Club
-
 Site of a club based in Troon in Ayrshire, which plays pétanque, a form of bowls.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Chapel of St. Peter-on-the-Wall, Bradwell-on-Sea, Essex
-
 St Peter’s Chapel, a uniquely spiritual place that is the focus for people all over the world.

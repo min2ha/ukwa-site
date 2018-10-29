@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady & St. Joseph Church, Kirkwall
-
 Site of a Scottish Roman Catholic parish church located in Kirkwall, Orkney.

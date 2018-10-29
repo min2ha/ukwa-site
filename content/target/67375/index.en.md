@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Helston RFC on Twitter
-
 The official Twitter account of Helston Rugby Football Club.

@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Natural Spaces - Scottish Natural Heritage
-

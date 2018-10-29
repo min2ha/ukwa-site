@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pandas Foundation (@Pandas_uk) on Twitter
-
 Twitter profile for PANDAS the leading UK charity in supporting families suffering from pre (antenatal) and postnatal mental illnesses. 

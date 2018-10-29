@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Mappa Mundi Hereford Cathedral
-
 The Hereford Mappa Mundi Trust was formed in 1988 for the long term preservation of Mappa Mundi in its ancient home at Hereford Cathedral.

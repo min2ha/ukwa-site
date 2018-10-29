@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sacred Heart, Bridgeton, Glasgow
-
 Site of a Scottish Roman Catholic parish church located in Bridgeton, Glasgow.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Pulling the Flag
-
 Pulling the Flag is a news website for flag football. 

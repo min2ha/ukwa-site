@@ -10,6 +10,4 @@
   "start_date": "2018-06-30T09:00:00Z"
 }
 
-# Strathmore Brewery
-
 Site of a brewer located in Forfar, Angus.

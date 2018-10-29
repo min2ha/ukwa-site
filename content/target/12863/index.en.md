@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Council for Arab-British Understanding, The (Caabu)
-
 <p>The Council for Arab-British Understanding (Caabu) is a London-based advocacy group that works with government, parliament and media to further the United Kingdom's positive engagement with the Arab world. It was founded in 1967.</p>

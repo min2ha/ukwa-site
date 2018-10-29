@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British BBQ Society Forum
-
 An online enthusiast community concerned with Barbecuing. Discusses competitions, cook-offs, and events. BBQ news. BBQ reviews. BBQ advice and techniques.Recipe section, and various other related topics.

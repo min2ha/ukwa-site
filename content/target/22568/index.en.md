@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tory minister filmed cracking jokes about people on benefits at glamorous party fundraiser
-
 None

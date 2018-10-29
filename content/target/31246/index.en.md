@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Michael Palin
-
 Official website of Michael Palin, British actor and presenter, who formed the group the Monty Python.

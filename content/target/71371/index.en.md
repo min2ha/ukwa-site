@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# MQ: Could smartphones hold the key to preventing suicide?
-
 Blog post by MQ providing information on research into using smartphone data to prevent suicide.

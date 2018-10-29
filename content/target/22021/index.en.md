@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Liam Byrne on Facebook (Labour candidate for Birmingham Hodge Hill)
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Lexology: The equality of parenting 
-
 A blog post about the equality of parenting 

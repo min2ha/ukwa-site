@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kelly Tolhurst ( @KellyTolhurst ) on Twitter (Conservative  Politician)
-
 Kelly Tolhurst stood as Conservative candidate for Rochester and Strood at the 2015 General Election and was elected to serve as MP. She stood for re-election in 2017 and was successful. 

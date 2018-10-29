@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gwilym Bowen Rhys
-
 Gwilym Rhys Bowen is a Welsh folk singer and member of the band Plu and Bandana.

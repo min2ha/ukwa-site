@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Runnymede Trust: post-Brexit hate crime will get worse - David Lammy
-
 Following an debate on what can be done to tackle the rise in hate crime in the UK, Runnymede's Communications Coordinator Lester Holloway summarises the lively discussion.

@@ -10,6 +10,4 @@
   "start_date": "2016-12-06T09:00:00Z"
 }
 
-# Black Watch Museum
-
 Site of a museum and visitor attraction located at Balhousie Castle, Perth, Scotland, dedicated to the regimental history of the Black Watch.

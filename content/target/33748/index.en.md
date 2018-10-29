@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Irish Post, The: Daughter of 1916 hero dreams of returning to Ireland for Easter Rising centenary
-

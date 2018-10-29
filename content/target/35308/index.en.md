@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daniel Dalton (Conservative)
-
 Daniel Dalton MEP for the West Midlands

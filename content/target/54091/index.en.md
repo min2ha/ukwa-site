@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Bury Liberal Democrats 
-
 A local Liberal Democrats website, representing the towns: Bury, Prestwich, Radcliffe, Ramsbottom, Tottington and Whitefield.

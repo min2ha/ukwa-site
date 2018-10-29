@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T06:00:00Z"
 }
 
-# HI-energy
-
 HI-energy represents the energy industry within the Highlands and Islands of Scotland and is managed by Highlands and Islands Enterprise in partnership with the wider industry.

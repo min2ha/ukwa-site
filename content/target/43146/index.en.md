@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# What are EU up to? Jeremy Corbyn gives another boost to Brexit camp after defending controversial EU rules on free movement
-
 Sun, The

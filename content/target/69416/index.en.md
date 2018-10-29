@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tongues on Fire
-
 Website for Tongues on Fire, a UK based Asian Film Festival.

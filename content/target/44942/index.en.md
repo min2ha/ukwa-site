@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Pool, The
-
 A women's online newspaper with articles on everything, from people and politics to film, fashion and food.

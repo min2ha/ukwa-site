@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dance Umbrella
-
 Celebrating 21st century choreography

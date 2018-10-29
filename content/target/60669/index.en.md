@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Glamorgan Birds – bird news
-
 This is a bird sightings blog established in 2003 for Glamorgan. It is run by Glamorgan Bird Club and Gower Ornithological Society. 

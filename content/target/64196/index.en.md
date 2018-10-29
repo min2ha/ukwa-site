@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# The Octopus was very scary: The blog of he's a writer Mark Williams
-
 This is a blog for Mark Williams, freelance writer of scripts, books and plays. He has written extensively for radio, theatre and television mostly in Wales.

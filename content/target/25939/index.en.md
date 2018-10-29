@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election photo highlights: pizzas, hard hats and selfies on day two
-
 None

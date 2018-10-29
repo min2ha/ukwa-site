@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Neighbourhood Predators by Jon Ingold
-
 Jon Ingold is a British author of interactive fiction and co-founder of inkle, a company that makes interactive stories; this is one of his stories.

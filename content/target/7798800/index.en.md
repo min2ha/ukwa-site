@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Post Political Times
-
 None

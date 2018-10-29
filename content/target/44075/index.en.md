@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Theresa May  (@TheresaMay2016 ) on Twitter (Conservative MP for Maidenhead)
-
 Twitter account supporting Theresa May's campaign to be elected Conservative Party leader following the resignation of David Cameron.

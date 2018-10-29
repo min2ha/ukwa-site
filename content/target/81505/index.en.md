@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# Ysgol Penrhyn Dewi
-
 Penrhyn Dewi is a 3 – 16 through school located on three campuses on the St David’s peninsula. The school opened in September 2018. 

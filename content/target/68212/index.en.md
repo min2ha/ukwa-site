@@ -10,5 +10,3 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Ness and Beauly Fisheries Trust, The
-

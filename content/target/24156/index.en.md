@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Michael Gove moves to justice in post-election reshuffle
-
 None

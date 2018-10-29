@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Borderlands Line, The
-
 The Borderlands Line connects the towns of Liverpool, Wirral, Cheshire and North Wales and runs from Bidston to Wrexham.

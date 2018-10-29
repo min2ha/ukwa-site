@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Durham at War - Mapping the story of County Durham and its people in the First World War 
-

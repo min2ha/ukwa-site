@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Law and Freedom Foundation
-
 Law and Freedom Foundation was established in 2011, in order to preserve the traditions of law, freedom, and public order, as exemplified by British Common Law. They oppose the propagation of brutality against women, violence towards gay people, intimidation of communities and persecution of Jews. They provide assistance with the planning permission process when a mosque is planned to be built in the area.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hear My Voice
-
 The Hear My Voice campaign is about giving people with a learning disability and their families the chance to speak to their political candidates.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Torbay Health and Wellbeing Board
-
 None

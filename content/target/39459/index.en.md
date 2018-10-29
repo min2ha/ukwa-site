@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Himalayan Centre for Arts and Culture 
-
 Site promoting the culture and arts of the Nepalese community in Scotland.

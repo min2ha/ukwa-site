@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Galloway Forest Park
-
 Site of a forst park located in Galloway, south-west Scotland.

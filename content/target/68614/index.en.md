@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# Department For Communities
-
 The Department for Communities is a devolved Northern Ireland government department in the Northern Ireland Executive. The minister with overall responsibility for the department is the Minister for Communities.

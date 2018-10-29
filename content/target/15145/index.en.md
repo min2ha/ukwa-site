@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Malling Online
-
 <p>A website that gives a possibility to link up with people who live, work or visit within 10 parishes around the market town of West Malling, Kent, England.</p>

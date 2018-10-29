@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily, Express, The: Desperate pro-EU forces wheeling out scaremongering tactics with nonsense shopping leaflet
-

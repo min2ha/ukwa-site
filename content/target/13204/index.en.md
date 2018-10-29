@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Council for Voluntary Organisations (scvotweet) on Twitter
-
 <p>The twitter profile of Scottish Council for Voluntary Organisations (SCVO), the national body representing the third sector in Scotland.</p>

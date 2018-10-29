@@ -11,6 +11,4 @@
   "subject": "SmashFest UK"
 }
 
-# Little Gate Care Farm
-
 Little Gate Farm is an innovative and purposeful care farm project located in Beckley, near Hastings and Rye in East Sussex. They aim to help vulnerable kids & adults in our community to develop farm and woodland skills, which in turn will help promote self-confidence, enterprise and employment skills. Nominated by a Smashfest 2015 visitor, who commented: "This is an amazing place in the countryside that cares for all sorts of people with disabilities, the website show the diversity of what they do here. and tells us about exciting festivals and events. This website should be saved too!"

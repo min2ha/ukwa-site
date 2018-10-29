@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Shipley Feminist Zealots
-
 They are a grassroots group of women and men in Shipley, West Yorkshire, working for gender equality.

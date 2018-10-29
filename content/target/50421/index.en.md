@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Larkhall Thistle Football Club
-
 Site for a Scottish junior football club based in Larkhall, Lanarkshire.

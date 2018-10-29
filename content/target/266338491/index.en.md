@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-#  Newry Beach Holyhead Action Group 
-
 <p>Waterfront Action Group is a campaign to save our coastline between the Maritime Museum on Newry Beach to the start of the Breakwater at Soldiers Point, from destruction by Conygar Stena’s proposed Waterfront Development.</p>

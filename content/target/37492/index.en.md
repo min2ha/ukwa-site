@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: Stella Creasy hits back over Priti Patel’s suffragette comments: ‘Brexit is the spirit of surrendered wives’
-
 Stella Creasy's comments on Priti Patel's comparison between Brexit campaigners and sufragettes

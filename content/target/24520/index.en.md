@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Watch the debate? I was in the pub, says Nick Clegg
-
 None

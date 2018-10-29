@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Treasury: Statement by the Chancellor following the EU referendum
-
 Statement by the Chancellor of the Exchequer, George Osborne following the outcome of the EU referendum in which he attempts to reassure the markets

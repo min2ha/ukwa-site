@@ -10,5 +10,3 @@
   "start_date": "2010-06-29T00:00:00Z"
 }
 
-# David Miliband - bringing Labour together leading Labour to power
-

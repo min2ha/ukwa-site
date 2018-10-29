@@ -10,6 +10,4 @@
   "start_date": "2018-08-26T09:00:00Z"
 }
 
-# Shape Real Estate Ltd. 
-
 Property development company specialising in housing projects.

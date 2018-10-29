@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Tools for Self Reliance 
-
 Tools for Self Reliance was started in 1979 by a handful of dedicated volunteers. Disillusioned by their experiences of development projects in Africa and the failure of overseas development assistance at that time.

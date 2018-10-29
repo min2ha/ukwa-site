@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Keep calm and Tory on: Nigel Farage admits he wants David Cameron to win election 
-
 None

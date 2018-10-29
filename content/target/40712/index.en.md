@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Wirral Remembers: War, Peace and Remembrance
-
 This is an intergenerational project to engage local community groups and schools culminating in a commemorative community festival for Wirral.

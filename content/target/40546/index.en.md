@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Together we won the war
-
 The project will research the differing people and nationalities that assisted the British Armed Forces during World War 1 and collate this information in a final static exhibition and publication.

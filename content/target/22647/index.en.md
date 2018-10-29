@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour left red-faced over pledge after high profile backers 'use zero hour contracts'
-
 None

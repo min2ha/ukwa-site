@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nairn Gaelic Choir / Còisir Ghàidhlig Inbhir Narann
-
 Site of a choir located at Nairn Moray

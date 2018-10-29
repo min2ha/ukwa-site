@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shepway District Council
-
 Shepway District Council website offers information on local services, news, consultations,  committee meeting minutes and agendas and budgets and spending

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# UCL European Institute, University College London: Britain & Europe
-

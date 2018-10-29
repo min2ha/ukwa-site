@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Merthyr Noise
-
 A website for young people in Merthyr Tydfil that operates within the Ten Entitlements (the rights of young people as set out by the Welsh Assembly Government) and is in line with the European Youth Information Charter.

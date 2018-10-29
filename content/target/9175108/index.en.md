@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eastern Baptist Association (EBA)
-
 None

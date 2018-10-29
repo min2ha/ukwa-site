@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Chartered Institute of Linguists (CIOL)
-
 The Chartered Institute of Linguists (CIOL) is a UK-based professional membership body for language practitioners. It aims to enhance the recognition and promote the value of languages and language skills in the public interest. 

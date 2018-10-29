@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bobsleigh Team Deen on Twitter
-
 None

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# East Mainland Church
-

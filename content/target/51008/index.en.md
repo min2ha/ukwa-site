@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Fleet Air Arm Officers Association
-
 The Fleet Air Arm Officers Association is a thriving organisation whose serving and retired members want to keep in touch, keep informed about today's Fleet Air Arm and keep alive the unique comradeship, professionalism and can-do spirit epitomised by the Fleet Air Arm.

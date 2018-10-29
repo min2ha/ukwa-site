@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Danny Gascoigne (@dannyjgascoigne) on Twitter (The Yorkshire Party  Politician)
-
 Daniel Gascoigne stood as The Yorkshire Party candidate for Normanton, Pontefract and Castleford in the 2017 General Election but was not elected.

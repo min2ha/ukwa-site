@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# GHA Rugby (@GHArugby) on Twitter
-
 The official Twitter account of Rugby Football Club. GHA RFC (Glasgow Hutchesons' Aloysians Rugby Football Club) is one of Scottish rugby's premier clubs. The club was established by the 2002 merger between Glasgow Southern RFC and Hutchesons - Aloysians RFC. 

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Wor Life 1914-18 
-
 Wor Life 1914-18 is a programme of exhibitions, events and digital projects exploring life on the home front in Tyne & Wear during WW1. Supported by the Heritage Lottery Fund.

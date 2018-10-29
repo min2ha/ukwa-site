@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU 'not in hostile mood' as Brexit talks beckon, says Juncker
-
 Report of an exclusive interview with European Commission President Juncker about the future of the EU.

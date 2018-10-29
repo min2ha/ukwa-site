@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Tomorrow's Calling
-
 Site created by the Church of Scotland to provide guidance for people considering becoming ministers.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK election 2015: can young voters make a difference?
-
 None

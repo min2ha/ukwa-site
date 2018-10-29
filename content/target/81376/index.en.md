@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bracknell RFC on Pitchero
-
 The official website of Bracknell Rugby Club. Founded 1955.

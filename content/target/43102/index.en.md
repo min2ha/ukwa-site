@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Refugee Festival Scotland
-
 Site of an annual Scottish festival arts, culture, education, heritage and sport based around refugees in Scotland. 

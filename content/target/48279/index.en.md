@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Cardiff Capital Region City Deal | Cytundeb Dinesig Prifddinas Ranbarth Caerdydd
-
 This is tri-partite City Deal agreement between the UK Government, the Welsh Government and the ten local authorities of the Cardiff Capital Region. The Commission will undertake an in-depth review of the Cardiff Capital Region economy, and to provide recommendations for the sustainable development of the city-region. 

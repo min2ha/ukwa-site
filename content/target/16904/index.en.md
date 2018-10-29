@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Royal College of Nursing (RCN): Nursing Counts – RCN launches General Election manifesto 
-
 The Royal College of Nursing is the world's largest union and professional body for nursing staff.

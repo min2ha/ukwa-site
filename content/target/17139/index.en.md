@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Steve Richards: Don't mistake Ed Miliband for Neil Kinnock - he is in a far better place
-

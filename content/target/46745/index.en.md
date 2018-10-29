@@ -10,6 +10,4 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Carl Sargeant AM (@Carl4AandD) on Twitter
-
 Carl Sargeant is the AM for Alyn and Deeside.

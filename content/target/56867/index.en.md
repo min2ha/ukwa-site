@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. George’s Church, Dumfries
-
 Site of a Church of Scotland parish church located in Dumfries, Dumfries & Galloway.

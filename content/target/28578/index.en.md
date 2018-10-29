@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Fair Play for Children
-
 Fair Play for Children is a charity promoting the child's right to play. It was established in 1973.

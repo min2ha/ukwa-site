@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Precious Life (@PreciousLifeCom) on Twitter
-
 The official Twitter account of a Northern Ireland pro-life group.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Northern Ireland Conservatives: Our Brexit Plan
-
 The Northern Ireland Conservative party Brexit plan.

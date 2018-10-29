@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Peniel Evangelical Church, Bridgend 
-

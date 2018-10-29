@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jenny Sutton (@jenny4sutton) on Twitter (Trade Unionist and Social Coalition (TUSC) for Tottenham)
-

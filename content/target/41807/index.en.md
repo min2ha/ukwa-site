@@ -10,5 +10,3 @@
   "start_date": "2016-05-26T11:00:00Z"
 }
 
-# Llandeilo Book Fair
-

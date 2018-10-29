@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints, Lindfield
-
 All Saints is an Anglican church with a strong evangelical tradition serving the parish of Lindfield in the Diocese of Chichester in West Sussex. 

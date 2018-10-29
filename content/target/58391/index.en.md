@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Oban Phoenix Cinema
-
 Site of a cinema located in Oban, Argyll & Bute.

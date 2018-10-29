@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Kingussie Parish Church
-
 Site for the Church of Scotland parish church in Kingussie, Highland, Scotland [formerly Inverness-shire] - also incorporates the church in the village of Insch.

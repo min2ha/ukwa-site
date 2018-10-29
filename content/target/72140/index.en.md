@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Target Hitchin Rugby Football Club
-
 The official website of Hitchin Rugby Football Club.

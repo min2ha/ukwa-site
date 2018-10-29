@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Open House London (@openhouselondon) on Twitter
-
 Open House London is the capital's largest annual festival of architecture and design

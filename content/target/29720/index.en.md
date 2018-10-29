@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# States of Jersey
-
 Official website of the States of Jersey 

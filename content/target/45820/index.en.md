@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Wipe Out Transphobia
-
 Wipe out Transphobia is an international project, with the sole aim of reducing and wiping out if possible the transphobia in society that regularly affects both trans* and non-trans* people. Wipe out Transphobia is based in Swansea.

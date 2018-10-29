@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Perch Carnival
-
 <p>Perch Carnival. A major outdoor performance that takes place in Rottenrow Gardens, Glasgow and involves aerial performers, street artists, circus performers and NYOS senior orchestra performing a new score by Stephen Deazley. A number of websites for collaborators in this performance.</p>

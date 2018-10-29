@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Axe The Housing Act Campaign
-
 The ‘Axe The Housing Act’ campaign – formerly the ‘Kill The Housing Bill’ campaign – was started in late 2015 to bring together campaigners, groups, trade unions and anyone who wants to fight the current Conservative Governments Housing & Planning Act.

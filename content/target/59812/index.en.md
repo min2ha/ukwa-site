@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bo'ness Rugby Club
-
 Site of a Scottish rugby union football club based at Bo'ness, West Lothian.

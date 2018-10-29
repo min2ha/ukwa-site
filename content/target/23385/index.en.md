@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James McMurray (UKIP)
-
 James McMurray stood as UKIP candidate for Bristol East at the 2015 General Election but was not elected.

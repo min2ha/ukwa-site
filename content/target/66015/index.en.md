@@ -11,6 +11,4 @@
   "subject": "Global UK"
 }
 
-# Why, That's delightful with Graham Linehan
-
 Graham Linehan is an Irish television comedy writer and director who has written or co-written, a number of popular television comedies. 

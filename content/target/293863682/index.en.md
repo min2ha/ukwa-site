@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Crickhowell and District History Society
-
 <p>Crickhowell and District History Society was establised to promote and encourage the public study of history of the local area.</p>

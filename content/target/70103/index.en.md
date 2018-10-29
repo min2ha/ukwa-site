@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Portadown FC Ladies
-
 The official site of Portadown Integrated Ladies FC.

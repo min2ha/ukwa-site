@@ -10,5 +10,3 @@
   "start_date": "2015-09-25T11:00:00Z"
 }
 
-# Montgomeryshire Genealogical Society
-

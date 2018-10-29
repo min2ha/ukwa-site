@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Derby Cathedral
-
 Derby Cathedral is the seat of the Bishop and a centre of worship and mission. It involves schools work and adult education, welcome and hospitality to visitors, pilgrims and to people in distress, sharing the Christian faith and engaging in dialogue with enquirers and with those of other faiths, and working in close co-operation with the City, the University and other institutions.

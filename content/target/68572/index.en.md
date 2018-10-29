@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. James’, St. Andrews and Christ the King, Pittenweem, with Most Holy Trinity, Crail
-
 Site of three Roman Catholic parish churches in Scotland, located in Fife.

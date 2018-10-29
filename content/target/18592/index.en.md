@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matthew Paul (@matthewgpaul) on Twitter
-
 Welsh Conservative parliamentary candidate for Carmarthen East & Dinefwr. 

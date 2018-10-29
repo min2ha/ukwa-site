@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# CIPD: CIPD Manifesto for Work 2017
-
 Following the UK’s vote to leave the European Union, the next two years will be characterised by much uncertainty for our work and home lives. And since work is fundamental to so much of our lives, whether we work in paid employment ourselves or not, CIPD believes that a key focus of this general election and for the next government should be on addressing workplace issues through a much more human lens than ever before. Brexit poses many challenges, not least relating to skills and immigration, but it also creates opportunities. Capitalising on the creativity and potential of our people, or ‘human capital’, can position the UK as the global leader in high-value, high-skills economies, and as a great place to work and do business

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh Central Labour (@CentralCLP) on Twitter
-
 Twitter profile of the Constituency Labour Party (CLP) in the Edinburgh Central constituency for the Scottish Parliament.

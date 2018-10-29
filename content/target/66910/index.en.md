@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Developer Tech News
-
 Developer News, Jobs & SDK Coding Insight: App Development Software, iOs, Android, Windows, .net, App Store, Platforms, hacking, HTML5, PHP, J2ME, 3D, CMS, Ajax.

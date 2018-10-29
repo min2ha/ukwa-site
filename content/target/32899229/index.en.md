@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Borders & Southern
-
 Borders & Southern is an independent oil and gas exploration company. Headquartered in London, the Company’s principal area of activity is in the Falkland Islands.

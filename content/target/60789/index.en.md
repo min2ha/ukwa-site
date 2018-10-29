@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Great Britain Luge Association (GBLA)
-
 Luge is one of the oldest winter sports which at its grass roots level of tobogganing down a snowy hillside has mass participation in the UK, indeed the Great Britain Luge Association (GBLA) came out of the British Racing Tobogganing Association. 

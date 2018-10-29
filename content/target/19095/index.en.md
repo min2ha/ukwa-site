@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Get Surrey: Students create new app ahead of 800th Magna Carta anniversary 
-

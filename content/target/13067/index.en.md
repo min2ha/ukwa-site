@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chelsea Football Club
-
 Chelsea Football Club is a professional football club in London, England, that competes in the Premier League. Founded in 1905, the club's home ground since then has been Stamford Bridge.

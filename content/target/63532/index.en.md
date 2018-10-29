@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: STEPHEN GLOVER: Despite the deviousness of our rulers we’ll leave the EU a year from today thanks to the good sense of the people
-
 Reflects that, despite on-going opposition from politicians and the media, the UK will leave the EU on March 29th 2019

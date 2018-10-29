@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# West Lothian Archaeological Trust
-
 Site of an organisation set up to investigate, record and publicises the archaeological and heritage sites of West Lothian, and elsewhere. 

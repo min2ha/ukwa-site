@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: Could YOU give up social media? Survey finds 59% of people think it would be easy to quit (despite most admitting they check Facebook every day)
-
 News article about recent Pew Reserach Center study into social media use and social media app addicition linked to smart phone use

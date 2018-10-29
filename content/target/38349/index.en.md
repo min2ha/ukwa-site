@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# WalesVote16
-
 WalesVote16 is an online application that enables voters to compare their views with the policy positions of the main political parties that are competing in the 2016 Welsh Assembly elections. WalesVote16 aim is calculate how well users and political parties match.

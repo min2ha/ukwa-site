@@ -10,5 +10,3 @@
   "start_date": "2012-04-18T00:00:00Z"
 }
 
-# Cardiff City Temple
-

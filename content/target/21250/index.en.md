@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Geraint Davies on Facebook
-
 Labour & Co-op Candidate for Swansea West.

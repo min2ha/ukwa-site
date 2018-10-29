@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Advertising Research Consortium
-
 Advertising Research Consortium is a research company on marketing communications management in Europe.

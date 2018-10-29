@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Dr. James Davies MP on Facebook
-
 Conservative MP  for the Vale of Clwyd.

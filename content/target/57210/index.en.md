@@ -10,6 +10,4 @@
   "start_date": "2017-09-16T09:00:00Z"
 }
 
-# Octavo Book House and Cafe Bar
-
 Octavo Book House and Cafe Bar Octavo’s is located in the oldest surviving building in Cardiff Bay, the former the Bute Dock Hotel. The book cafe opened in 2013.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# North East Wales Altogether Brilliant
-
 An official tourist information guide to North East Wales managed by the Borough Councils of Wrexham, Denbighshire and Flintshire.

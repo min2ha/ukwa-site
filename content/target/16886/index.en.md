@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Wine and Spirit Trade Association (WSTA), The: WSTA’s 2015 General Election manifesto calls on political parties to support wine and spirit industry 
-
 The Wine and Spirit Trade Association (WSTA) represents over 340 companies producing, importing, exporting, transporting and selling wines and spirits in the United Kingdom. 

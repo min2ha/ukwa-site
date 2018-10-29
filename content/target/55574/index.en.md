@@ -10,6 +10,4 @@
   "start_date": "2017-07-08T09:00:00Z"
 }
 
-# Cardiff Shakespeare
-
 The Cardiff Shakespeare website was established in 2010 and provides news, events and research tools informing those about Shakespeare events and resources in Cardiff and further afield. Blog creator is Johann Gregory of Cardiff University.

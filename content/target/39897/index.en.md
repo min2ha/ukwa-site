@@ -10,6 +10,4 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# Scottish Fisheries Museum
-
 Site of a museum located in Anstruther, Fife, Scotland, with the aim is to excite informed interest in the development of the Scottish commercial fishing industry among people of all ages in and beyond Scotland.

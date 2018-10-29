@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Joanna Skelt obituary
-
 The Guardian newspaper's online obituary for Joanna Skelt.

@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Whitton, North Lincolnshire  - notes on the history of a village.
-
 None

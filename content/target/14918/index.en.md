@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bitterne Park local info
-

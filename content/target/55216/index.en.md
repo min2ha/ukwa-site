@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 8th Mar. 2017: Financial Statement
-
 This 2017 Budget  takes forward the government's plan to prepare Britain for a brighter future. It provides a strong and stable platform for those negotiations; it extends opportunity to all our young people; it delivers further investment in our public services; and it continues the task of getting Britain back to living within its means.

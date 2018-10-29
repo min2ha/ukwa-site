@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Leeswood Community Online
-
 Leeswood is a small village in Flintshire, about four miles from the historic market town of Mold.

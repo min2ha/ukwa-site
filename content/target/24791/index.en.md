@@ -10,5 +10,3 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Sam Webber (Liberal Democrat candidate for Bromley and Chislehurst)
-

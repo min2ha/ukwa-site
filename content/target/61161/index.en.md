@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Annandale & Eskdale Further Ministries Team
-
 Site of a group established by the Presbytery of Annandale & Eskdale, Church of Scotland, aiming to equip congregations for mission and service.

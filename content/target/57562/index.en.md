@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# City Moves Dance Agency
-
 Site of the dance agency for the North East of Scotland,  aiming to forge strong partnerships, increase participation, develop audiences and nurture talent in the area. A Scottish Charitable Incorporated Organisation (SCIO).

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vaughan Williams (@Vaughan_Wms) on Twitter
-
 Vaughan Williams is the Plaid Cymru candidate for Llanelli

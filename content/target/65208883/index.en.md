@@ -10,5 +10,3 @@
   "start_date": "2014-07-28T00:00:00Z"
 }
 
-# Mudiad Meithrin
-

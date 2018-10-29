@@ -10,5 +10,3 @@
   "start_date": "2011-11-04T00:00:00Z"
 }
 
-# Independent Commission on Social Services in Wales | Y Comisiwn Annibynnol ar Wasanaethau Cymdeithasol yng Nghymru
-

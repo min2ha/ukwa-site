@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Trident future back on election agenda as costs spiral
-
 None

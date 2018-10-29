@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit: EU considers migration ‘emergency brake’ for UK for up to seven years
-

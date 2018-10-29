@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: There's a reason why it's called Project Fear: From the ex-Chancellor who battled maelstrom of the 2008 crash, a dire warning against voting 'Out'    
-

@@ -10,6 +10,4 @@
   "start_date": "2016-07-21T11:00:00Z"
 }
 
-# An Seotal - The Gaelic Terminology Database
-
 ‘An Seotal’ is an on-line terminology database, particularly aimed at Gaelic-medium subject teaching in the secondary school, but with provision for and accessible to all other users.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Pippa Bartolotti Green Party on Twitter
-
 Pippa Bartolotti is the Green Party candidate for Newport West at the 2017 General Election.

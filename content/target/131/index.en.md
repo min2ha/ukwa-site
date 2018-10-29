@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hull and East Yorkshire Hospitals
-
 None

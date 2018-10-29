@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Pankhurst relative condemns Priti Patel's Brexit-suffragette comparison 
-
 Great-granddaughter of Emmeline Pankhurst says leave campaign is out of line with spirit of international solidarity of suffragette movement

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rossendale Rugby (@RossendaleRugby) on Twitter
-
 The official Twitter account of Rossendale Rugby Union Football Club.

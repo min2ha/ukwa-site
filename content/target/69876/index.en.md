@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Cuthberts' Roman Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Slateford, Edinburgh.

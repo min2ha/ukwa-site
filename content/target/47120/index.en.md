@@ -10,8 +10,6 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# The Partnership Brokers Association
-
 The Partnership Brokers Association is the international professional body for those managing and developing collaboration processes. Their primary aims are to:
 •	Challenge and change poor partnering practices so that multi-stakeholder collaboration can become truly transformational
 •	Ensure those operating in partnership brokering roles are skilled, principled and work to the highest standards

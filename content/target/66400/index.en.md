@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# British Zeolite Association
-
 The British Zeolite Association promotes zeolite and ordered nanoporous materials science in the UK.

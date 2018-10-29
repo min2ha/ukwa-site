@@ -10,6 +10,4 @@
   "start_date": "2016-08-09T12:00:00Z"
 }
 
-# EnergiZe Radio 
-
 Energize Radio is a project of EnergiZe Media CIC, based in Betws in Newport, a 'non profit which provides access, information, entertainment and training as well as  a voice for those who are under represented and socially excluded to provide creativity, shared vision and expression to create a positive role model for everyone'.

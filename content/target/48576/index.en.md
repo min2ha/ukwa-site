@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Boroughbridge and District Historical Society
-
 The Society was founded in 1994 to encourage and develop interest in the heritage of the area. The society holds an archive of photographs and related material from Boroughbridge and surrounding villages and many members are actively involved in researching the history of the local area. In recent years the society was successful in securing national lottery funding for a local study which became known as the Dog Kennel Lane Project.

@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Oxford Vaccine Group
-
 <p>Oxford Vaccine Group is a website for the "Evaluating Vaccines against Ebola" study at the Oxford Vaccine Group, part of the University of Oxford.</p>

@@ -10,6 +10,4 @@
   "start_date": "2015-08-08T10:00:00Z"
 }
 
-# Hand in Hand for Syria
-
 Describes the work of UK charity Hand in Hand for Syria delivering humanitarian aid to communities in Syria.

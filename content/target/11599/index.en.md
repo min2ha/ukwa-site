@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Exhibition and Conference Centre Precinct: Commonwealth Games
-
 None

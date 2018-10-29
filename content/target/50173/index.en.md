@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Rosetta Art Centre
-
 Rosetta Art Centre is a visual art centre based in East London established in 1993.

@@ -10,7 +10,5 @@
   "start_date": "2016-06-20T10:00:00Z"
 }
 
-# Gareth Calway - Bard on the Wire
-
 Welsh author listed in Literature Wales' Writers of Wales database.
 

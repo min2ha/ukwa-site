@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Geoff Garbett (Green Party  Politician)
-
 Geoff Garbett stood as Green Party candidate for Camborne and Redruth at the 2017 General Election but was not elected.

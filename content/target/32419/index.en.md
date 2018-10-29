@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# British Society for the History of Paediatrics and Child Health (BSHPCH)
-
 The British Society for the History of Paediatrics and Child Health (BSHPCH) was established by Professor Peter Dunn in 2002. The aim of the Society is to stimulate and advance the development of individuals and groups on the emergence and development of all factors related to the management and well-being of infants and children.

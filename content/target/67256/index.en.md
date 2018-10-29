@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Six° North
-
 Site of a brewer and publican based in Laurencekirk, Aberdeenshire.

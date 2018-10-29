@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Old Boatstore Kingsand, The
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tony Pycroft (@pycroft235) on Twitter (UKIP Politician)
-
 Tony Pycroft stood as UK Independence Party (UKIP) candidate for Selby and Ainsty in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Natalie Bennett: Election 2015: The Green Party can create a humane society that supports everyone's needs
-
 None

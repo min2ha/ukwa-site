@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip is now a national 'major party', regulator rules
-
 None

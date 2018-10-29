@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford University Students' Union: Mind your Head Campaign
-
 Webpage for the 'Mind Your Head Campaign' which aims to increase awareness of mental health issues among students and to reduce the stigma and misconceptions surrounding mental illness. We work to empower students to look after their mental wellbeing, to encourage them to seek help when needed, and to look out for others in need of support.

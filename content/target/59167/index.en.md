@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: the October negotiations
-
 The fifth round of Brexit negotiations ran from 9 to 12 October. Some progress was made in the areas of citizens’ rights and the Irish border, but not on the ‘divorce bill’. The Secretary of State for Exiting the EU, David Davis, maintains that many issues can only be discussed in the context of the UK’s future relations with the EU.

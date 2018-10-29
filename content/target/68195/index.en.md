@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Longton Rugby (@LongtonRugby) on Twitter
-
 The official Twitter account of Longton Rugby Club.

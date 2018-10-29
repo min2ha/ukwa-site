@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: A post-EU agricultural policy for people and planet
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

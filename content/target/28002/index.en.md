@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Caron's Musings
-
 Caron Lindsay is a Scottish Liberal Democrat activist and blogger.

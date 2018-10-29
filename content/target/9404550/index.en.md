@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# Frititi - Traditional African Drumming & Dance Ltd
-
 None

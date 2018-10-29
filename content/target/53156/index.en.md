@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Insurance Brokers Association: BIBA's Manifesto Calls to Enable the Insurance Market
-
 The British Insurance Brokers’ Association (BIBA) called for the government to commit to no further increases to Insurance Premium Tax (IPT) and to negotiate for single market access in the EU exit. BIBA also called for the Financial Conduct Authority (FCA) to prioritise cost-effective supervision following a 70% increase in regulation costs for small insurance brokers

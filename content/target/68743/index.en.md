@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Montgomery County Music Festival | Gŵyl Gerdd Maldwyn
-
 The Montgomery County Music Festival Choir consists of two affiliated choirs - Llanidloes Choral Society and Welshpool Choral Society.

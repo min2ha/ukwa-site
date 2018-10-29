@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# CILIP Conference
-
 The Chartered Institute of Library and Information Professionals (CILIP) is the leading professional body for librarians, information specialists and knowledge managers, with members in the UK. This is their dedicated conference website.

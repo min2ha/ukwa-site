@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Nannau
-
 Nannau is located around three miles north of the town of Dolgellau and has been home to one of the most powerful and influential families in the county for hundreds of years, the Nanneys and the Vaughans.

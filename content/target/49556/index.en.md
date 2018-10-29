@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# UK Parliament Joint Committee on Human Rights: The human rights implications of Brexit
-
 Report on a short inquiry into the potential impact of the United Kingdom’s proposed withdrawal from the European Union on human rights. The process of withdrawing from the European Union will have a significant impact on the legal framework that protects human rights in the United Kingdom. A complete withdrawal from the EU would mean that the UK would no longer have to comply with the human rights obligations contained within the EU Treaties, the General Principles of EU law, which include respect for fundamental rights, or EU directives and regulations protecting fundamental rights. 

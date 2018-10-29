@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ukip at war over £3.3million: Party's only MP Douglas Carswell turns down parliament cash but Farage wants to take it
-
 None

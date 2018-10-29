@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# A.W. Communication Systems Limited
-
 A.W. Communication Systems Limited specialise in the design and manufacture of radio communications control centre solutions, predominately for the private mobile radio industry and the emergency services.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Civitas: The Left Case for Brexit: Active government for an independent UK
-
 In this pamphlet the economist Professor Philip B. Whyman warns that anxiety about the challenges Brexit may bring is leading too many people – particularly on the Left – to overlook the opportunities it offers to move on from the economic failings of recent decades. Brexit can, and should, provide a wider range of levers to develop a stronger and more balanced economy that ensures that no areas are left behind.
 

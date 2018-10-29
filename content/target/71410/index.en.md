@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:    A humiliating Brexit deal risks a descent into Weimar Britain
-

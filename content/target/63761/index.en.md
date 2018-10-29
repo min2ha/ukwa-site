@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Pembroke College on Hubbub: The Development of Abortion Rights in a Changing Europe
-
 A crowd funding campaign for a student-led conference exploring what human rights law has to say on the issue of abortion in 2018.

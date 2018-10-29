@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Siobhan Collingwood (@SiobhanHead) on Twitter
-
 Twitter account of Siobhan Collingwood, head of Morecambe School Primary School, who campaigned against Conservative reforms of school funding at the 2017 general election.

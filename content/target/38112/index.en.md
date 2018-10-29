@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Richard Laird (@Richard_Laird) on Twitter
-
 Twitter profile of Richard Laird, the Scottish National Party list candidate for Highlands & Islands region in the 2016 Scottish Parliamentary election.

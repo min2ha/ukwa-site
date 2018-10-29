@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liam Davie (@LiamDavie_1993) on Twitter
-
 The twitter profile of althete Liam Davie, gymnast and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

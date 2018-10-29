@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# The Den Stadium
-
 The Den is a football stadium in Bermondsey, south-east London, and the home of Millwall Football Club. It is situated adjacent to the South London railway line originating at London Bridge, and a quarter-of-a-mile from The Old Den, which it replaced in 1993. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Tory benefit clampdown on alcoholics, drug addicts and the obese
-
 None

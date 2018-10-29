@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ann’s Church, Manchester
-
 Before the 18th century Manchester had only one church, now the Cathedral. As the town grew a new one was needed. Funds were provided by Lady Ann Bland and the design in the fashionable classical style is thought to be the work of John Barker. St Ann’s was consecrated in July 1712.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow Caledonian University Students' Association
-
 Site of a students' association at Glasgow Caledonian University, a centre for welfare advice, social activities and sport at the university.

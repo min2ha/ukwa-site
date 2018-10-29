@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Index to the Historical Place Names of Cornwall, An
-
 None

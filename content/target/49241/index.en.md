@@ -10,6 +10,4 @@
   "start_date": "2017-02-10T09:00:00Z"
 }
 
-# Alan Edward Williams Composer Cyfansoddwr
-
 Alan Edward Williams is a Professor at Salford University and a composer and writer on contemporary music and culture.

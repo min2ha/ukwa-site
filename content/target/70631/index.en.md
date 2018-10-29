@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Archive Hour (@archivehour) on Twitter
-
 Last Thursday of the month, 8-9pm GMT #archivehour hosted each month by one of nine Archive and Records Association (ARA) nations/regions/sections plus a guest host.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fulham Irish GAA (@FulhamIrish) on Twitter
-
 London based GAA club founded in 2006. Mens Senior & Reserve Football teams and Senior Hurling Team. 2017 London SFC Champions. 3 teams, 2 codes, 1 club, 1 goal

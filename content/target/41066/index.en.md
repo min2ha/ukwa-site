@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Colinton Community Conservation Trust
-
 Site of a hyperlocal community organisation based in Colinton, South West Edinburgh, seeking to improve the local environment in partnership with other local organisations.

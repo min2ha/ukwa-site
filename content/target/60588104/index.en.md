@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calderdale Methodist Circuit
-
 None

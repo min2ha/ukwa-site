@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# David Green (@DavidMGreen92) on Twitter
-
 Twitter profile of David Green, the Scottish Liberal Democrat list candidate for Highlands and Islands region in the 2016 Scottish Parliamentary election.

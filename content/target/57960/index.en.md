@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU leaders seek Brexit talks progress
-
 EU leaders urged Theresa May to do more to break the deadlock in the Brexit negotiations as they gathered at a crunch Brussels summit on 19th October 2017.

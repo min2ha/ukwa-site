@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Blue Skies Research
-
 Website from two people engaged in independent research related to past and future climate change.

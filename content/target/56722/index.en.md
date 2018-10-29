@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Banfor University: The Sustainability Lab | Y Lab Cynaliadwyedd
-
 The Sustainability Lab is based at Bangor University and is a centre for promoting sustainability. 

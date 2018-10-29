@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Kiteboarder 
-
 An online community for kite boarders.

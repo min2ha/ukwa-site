@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# About Milton Keynes
-
 A newspaper severing the community of MILTON keynes.

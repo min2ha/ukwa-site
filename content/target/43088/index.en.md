@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: George Osborne is trying to bully the nation into voting remain
-

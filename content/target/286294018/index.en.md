@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Wales International Development Hub 
-
 <p>The Wales International Development Hub (also known as "the Hub") supports the international development sector in Wales and is managed by the Welsh Centre for International Affairs.</p>

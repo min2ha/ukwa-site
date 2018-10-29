@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Liberty Gallery
-
 Liberty Gallery is known for representing artists especially selected for their diverse use of media. 

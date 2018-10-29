@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Overtake (@theovertake) on Twitter
-
 An independent online news site. This is their official Twitter account. 

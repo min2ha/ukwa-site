@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Rona Lee
-
 Rona Lee is a fine artist whose work encompasses a range of media; photography, video, sculpture, performance and digital media, alongside other forms of engagement and intervention.

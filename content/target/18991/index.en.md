@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: New trainee director for Salisbury Playhouse - Jo Newman
-

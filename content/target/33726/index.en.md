@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: 2016: what lies in store?
-

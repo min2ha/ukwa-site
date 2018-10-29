@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Orkney Wireless Museum
-
 Site of a museum of domestic and miltary radio equipment collected by an Orkney resident.

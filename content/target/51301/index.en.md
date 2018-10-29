@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Chris Grey: The Brexit blog
-
 Chris Grey is  Professor of Organization Studies at Royal Holloway, University of London, and was previously a professor at Cambridge University and Warwick University. 
  

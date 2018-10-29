@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hackney Remembers
-
 <p>First World War Centenary theatre project working with schools, run in partnership with Hackney Museum and the Jewish Military Museum.</p>

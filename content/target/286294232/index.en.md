@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Micro Philosophy
-
 <p>Official website and blog of the philosopher Julian Baggini.</p>

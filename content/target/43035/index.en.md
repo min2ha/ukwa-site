@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Orgreave Truth and Justice Campaign (OTJC)
-
 The Orgreave Truth and Justice Campaign includes ex-miners, Trades Unionists, activists and others who are determined to get justice for miners who were victims of police lies and cover ups at Orgreave in June 1984.

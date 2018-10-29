@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T11:00:00Z"
 }
 
-# Science Policy in the News (SPIN)
-
 The science policy newsletter SPIN was published by the Wellcome Trust between 1992 and 2015. The website contains an archive of every edition published electronically during that time (over 1000 issues). 

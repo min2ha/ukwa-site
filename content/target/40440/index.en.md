@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Stephen Paton (@stephenpaton134) on Twitter:
-

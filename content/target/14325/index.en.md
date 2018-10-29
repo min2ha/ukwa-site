@@ -10,6 +10,4 @@
   "start_date": "2014-10-30T06:00:00Z"
 }
 
-# Redoubt Fortress & Eastbourne Heritage Service
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints Church, Crowborough
-
  All Saints church, a flourishing, active church is situated in the heart of Crowborough.

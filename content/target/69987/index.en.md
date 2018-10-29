@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Radnor Hills
-
 Radnor Hills is a Mineral Water Company based near Knighton in Powys.

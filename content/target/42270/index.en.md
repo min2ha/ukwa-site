@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# The Royal Burgh of Auchtermuchty
-

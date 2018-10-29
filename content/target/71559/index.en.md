@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Columba, Gruline, Isle of Mull
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Gruline, Isle of Mull, Argyll & Bute.

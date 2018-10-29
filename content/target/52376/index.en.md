@@ -10,6 +10,4 @@
   "start_date": "2017-04-25T09:00:00Z"
 }
 
-# Rhema Scotland
-
 Site of a Scottish Pentecostal church based on Kirkcaldy, Fife, and in Edinburgh.

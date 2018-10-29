@@ -10,6 +10,4 @@
   "start_date": "2016-08-02T10:00:00Z"
 }
 
-# Tree Hunter
-
 Rob McBride is a a passionate Tree hunter and campaigner for ancient trees of the UK & Europe. He has been recording trees along the Offa's Dyke since 2008.

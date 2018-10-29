@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Cantref Housing Association
-
 Cantref housing association provides good quality affordable homes and housing services for people across Ceredigion, North Pembrokeshire, North Carmarthenshire and the Machynlleth area in Powys.

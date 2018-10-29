@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# South Lakes Labour
-
 Westmorland and Lonsdale Labour constituency website provides news and biographies of office holders. 

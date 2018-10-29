@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Catholic Media Office
-
 Site of the an organisation established by the Catholic Church in Scotland / Bishops Conference of Scotland, providing press and media services on behalf of the Church and offering information and guidance on their activities in Scotland.

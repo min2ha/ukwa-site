@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Kenfig Society, The
-
 Local history society for Kenfig near Bridgend.

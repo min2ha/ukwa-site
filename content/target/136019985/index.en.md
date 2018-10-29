@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Leicestershire County and Rutland
-
 None

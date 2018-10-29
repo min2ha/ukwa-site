@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Pitcairn Miscellany Web Site
-
 The Miscellany is full of island news, stories of trips to Oeno and Henderson Island, ship arrivals, local gossip, birthdays, articles written by visitors, events and activities that have happened during each particular month. This publication provides its world-wide readers with a glimpse of life on Pitcairn.

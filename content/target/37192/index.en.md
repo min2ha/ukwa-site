@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The EU cheerleaders are starting to panic
-
 Telegraph, The: The EU cheerleaders are starting to panic

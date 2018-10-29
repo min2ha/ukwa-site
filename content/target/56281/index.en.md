@@ -10,6 +10,4 @@
   "start_date": "2017-08-01T09:00:00Z"
 }
 
-# North Wales Coast Railway
-
 This site is compiled by Charlie Hulme and is devoted to the railways of North Wales: the main lines from Manchester and Crewe to Bangor and Holyhead, and the branch lines to Blaenau Ffestiniog and Llandudno, plus the connecting routes from Manchester and Shrewsbury, and the line around the Cambrian Coast. 

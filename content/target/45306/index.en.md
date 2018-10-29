@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# Catrin Llwyd Evans
-
 Catrin Llwyd is an artist from Mid Wales.

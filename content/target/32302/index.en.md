@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# National Association for Biomedical Research
-
 The NABR represents and supports organisations in the USA who are engaged in research using animals. The website provides guidance on regulation and animal welfare. There are also pages describing Animal Rights activism and the Animal Enterprise Terrorism Act, which came into force in 2006.

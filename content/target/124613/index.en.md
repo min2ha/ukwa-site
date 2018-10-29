@@ -10,6 +10,4 @@
   "start_date": "2015-12-02T09:00:00Z"
 }
 
-# Cyfle
-
 Cyfle is the training company for the creative industries in Wales, with training centres in Caernarfon and Cardiff due to close in 2015.

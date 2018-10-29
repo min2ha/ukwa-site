@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Drug Treatment Monitoring System
-
 None

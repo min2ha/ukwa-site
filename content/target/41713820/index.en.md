@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Hart MP for Carmarthen West and South Pembrokeshire
-
 Simon Hart is the prospective parliamentary candidate for Carmarthen West and South Pembrokeshire. He is also the current MP.

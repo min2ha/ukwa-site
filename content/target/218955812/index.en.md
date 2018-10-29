@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Y Bartneriaeth Awyr Agored | The Outdoor Partnership
-

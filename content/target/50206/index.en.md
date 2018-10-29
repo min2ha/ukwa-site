@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dunblane Cathedral
-
 The website of Dunblane Cathedral Church of Scotland. 

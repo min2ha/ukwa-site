@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Gŵyl Beaumaris | Beaumaris Festival
-
 The Beaumaris Festival is an Annual Arts festival held on Anglesey featuring Classical Music, Jazz, Talks, Theatre, Poetry and Art.

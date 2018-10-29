@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# March To Parliament Against Brexit
-
 A protest organised by remain supporters opposed to the UK leaving the EU.

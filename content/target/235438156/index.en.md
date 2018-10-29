@@ -10,5 +10,3 @@
   "start_date": "2014-04-03T00:00:00Z"
 }
 
-# Caeau Cymru
-

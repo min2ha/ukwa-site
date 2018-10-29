@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Marna Gilligan (Green Party Politician)
-
 Marna Gilligan stood as Green Party candidate for Gravesham in the 2017 General Election but was not elected.

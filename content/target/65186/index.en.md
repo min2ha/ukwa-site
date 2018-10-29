@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Hatzola
-
 Hatzola North London is a fast and free volunteer ambulance team, responding to medical emergencies and casualty incidents in the community – 24 hours a day, seven days a week.

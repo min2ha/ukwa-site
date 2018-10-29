@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Parliamentary Business: Combatting Doping in Sport inquiry
-
 Due to the unexpected general election on 8 June 2017 the Committee completed this inquiry. 

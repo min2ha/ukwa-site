@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# York Teaching Hospitals
-
 None

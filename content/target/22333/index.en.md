@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sandy Batho (@SandyBatho) on Twitter
-
 Twitter profile of Sandy Batho, Scottish Conservative and Unionist Party candidate for Edinburgh West in the 2017 general election.

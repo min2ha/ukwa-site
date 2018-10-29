@@ -10,5 +10,3 @@
   "start_date": "2012-07-12T00:00:00Z"
 }
 
-# Sustainable Learning Networks in Ireland and Wales | Rhwydweithiau Dysgu Cynaliadwy Iwerddon a Chymru (SLNIW)
-

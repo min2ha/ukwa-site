@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Renew Holdings plc
-
 Renew provides multidisciplinary engineering services through its independently branded subsidiary businesses supporting essential UK infrastructure.

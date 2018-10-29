@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC under fire for failing to declare David Cameron as winner of Battle for Number 10
-
 None

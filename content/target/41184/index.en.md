@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Friends of the West Highland Lines
-
 Site of an organisation promoting development of the train services through the West Highlands, campaigning for high quality trains, more frequent services, through tickets and reliable connections with ferries and local buses.

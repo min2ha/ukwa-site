@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: United Kingdom torn apart' - how papers around the world reacted to Brexit on Monday
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# SNP Bearsden South (@SNPBearsdenS) on Twitter
-
 Twitter profile of the Bearsden South branch of the Scottish National Party (SNP).

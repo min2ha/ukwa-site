@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# Queen's Regimental Association
-
 The Queen’s Regimental Association is open to all officers and soldiers who have served in the order of battle of one of The Queen's Regiment Regular and Territorial battalions, and those who have served in the forebear regiments.

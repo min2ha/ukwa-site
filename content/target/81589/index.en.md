@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# This is It
-
 Scottish Independence Convention fundraising site.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# History of The North Staffordshire Symphony Orchestra
-
 The NSSO is one of the oldest orchestras in the world, founded in 1904 by the 25 year old John Cope and his mentor Madame Marie Reymond. This blog has been created to supplement the well-regarded history of the orchestra, written by Kathy Niblett in 2004, in celebration of the orchestra's centenary.

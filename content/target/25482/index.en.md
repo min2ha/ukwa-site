@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Politicians love dressing up in hi-vis vests, but they ignore what’s really happening to modern workers
-
 None

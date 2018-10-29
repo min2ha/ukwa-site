@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Owain Doull (@owaindoull) on Twitter
-
 The twitter profile of Owain Doull competing in track and road events for Team Wales for the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Political parties are neglecting young people – it's time for unis to step in
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Monifieth Carnoustie Labour
-
 The Monifieth and Carnoustie branch of the Scottish Labour Party

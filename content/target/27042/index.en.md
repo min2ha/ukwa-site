@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Business for Britain
-
 Business for Britain exists to see fundamental changes made to the terms of our EU membership. They are independent and non-partisan. 

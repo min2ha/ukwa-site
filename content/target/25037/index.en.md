@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: You won't get far without us Ed, scoffs Sturgeon
-
 None

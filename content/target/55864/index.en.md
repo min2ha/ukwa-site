@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Hammond warns of UK investment uncertainty
-
 Chancellor Philip Hammond told the BBC's Andrew Marr Show that businesses were holding off from investing in the UK because of uncertainty about Brexit.

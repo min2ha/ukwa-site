@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# United Kingdom Overseas Territories Conservation Forum (UKOTCF)  
-
 The UK Overseas Territories Conservation Forum (UKOTCF) exists to promote the coordinated conservation of the diverse and increasingly threatened plant and animal species and natural habitats of the UK Territories Overseas. It aims to do this by providing assistance in the form of expertise, information and liaison between non-governmental organisations and governments, both in the UK and in the Territories themselves.

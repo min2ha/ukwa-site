@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Amber Rudd (@AmberRudd_MP ) on Twitter
-
 Amber Rudd is Conservative MP for Hastings & Rye and Secretary of State for Energy and Climate Change. She supports remaining in the EU.

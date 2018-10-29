@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Rhidian Brook
-
 Rhidian Brook is a Welsh novelist, screenwriter and broadcaster.

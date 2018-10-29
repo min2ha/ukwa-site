@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# North East Scotland Labour
-
 The North East Scotland branch of the Scottish Labour Party

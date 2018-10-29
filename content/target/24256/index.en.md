@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Miliband says Tories 'using SNP to distract voters'
-
 None

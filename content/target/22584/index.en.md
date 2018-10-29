@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Labour Party launches General Election 2015 campaign - with Ed Miliband ready to 'go to the wire' 
-
 None

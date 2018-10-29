@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon's TV success exposes fallacy of so-called 'national' press
-
 None

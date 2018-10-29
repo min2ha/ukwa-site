@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Strip away the layers and Brexit becomes ever more murky
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mind: 2017 Election Manifesto for Better Mental Health
-
 Mind calls on all political parties to honour six commitments that would improve the lives of everyone affected by mental health problems.

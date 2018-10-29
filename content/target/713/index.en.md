@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Berkshire East
-
 None

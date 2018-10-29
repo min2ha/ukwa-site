@@ -10,5 +10,3 @@
   "start_date": "2015-09-30T10:00:00Z"
 }
 
-# Cyngor Cymru ar Alcohol a Chyffuriau eraill | Welsh Council on Alcohol and Other Drugs 
-

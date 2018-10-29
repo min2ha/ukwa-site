@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Women in Parliament: Number of femal MPs hits all-time high after shock election results
-
 None

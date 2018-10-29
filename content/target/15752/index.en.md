@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# Wallace and Gromit
-
 <p>Website dedicated to 'Wallace and Gromit' a British animation series created by Nick Park of Aardman Animations.</p>

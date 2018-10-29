@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: What Britain in the EU means to us: five leading European writers on the threat of Brexit 
-
 Public opinions regarding Britain leaving the EU from writers in Germany, Italy, France, Spain and Poland. 

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Dawlish Gazette & Teignmouth News
-
 None

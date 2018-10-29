@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Britain is still clueless about the EU’s motives in Brexit negotiations
-

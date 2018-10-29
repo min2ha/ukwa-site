@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Henna Foundation, The
-
 The Henna Foundation (formally known as All Wales Saheli Association) is a third sector charity, committed to strengthening families within the Muslim Community and advance the needs, concerns and aspirations of Muslim women, children and the families that they live with in. They are based in Cardiff.

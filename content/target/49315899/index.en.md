@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Sue Wilkes
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Brexit doom-mongers predict 'empty shelves' at M&S and price hikes for electrical goods, energy and petrol as a result of leaving the EU  
-

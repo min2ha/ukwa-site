@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: With his distracting assault on tax avoidance, Miliband is peddling class-war populism
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gordon Lindhurst on Facebook
-
 This is the Facebook page of Gordon Lindhurst, the Conservative Party candidate for Edinburgh South West in the UK General Election on the 7th May 2015.

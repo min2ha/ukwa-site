@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Chronicle Live
-
 The Chronicle is dedicated to consolidating and building on its market-leading position and broad market appeal, by continuing to deliver passionate and entertaining coverage of local news, sport and what's on, as well as retaining its position as the number one place adults in the region turn to for jobs.

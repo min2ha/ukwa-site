@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Planet Rugby
-
 Rugby news, scores, results, and features .

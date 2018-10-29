@@ -11,7 +11,5 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Budget 2017: the measures designed to soften blow of Brexit
-
 Tax relief for small businesses and exporters, a farmer loan fund and retention of 9% Vat was announced in the 2017 Budget Statement in order to lessen the impact of the UK EU Referendum result.
 

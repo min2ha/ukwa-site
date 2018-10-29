@@ -10,5 +10,3 @@
   "start_date": "2013-05-08T00:00:00Z"
 }
 
-# Denbighshire County Council  | Cyngor Sir Dinbych
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sarah Collins (@SCollins08) on Twitter
-
 This is the twitter profile of Sarah Collins, RISE candidate for South Scotland in the 2016 Scottish Parliamentary election.

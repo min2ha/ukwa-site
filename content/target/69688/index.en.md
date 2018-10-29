@@ -10,6 +10,4 @@
   "start_date": "2018-08-06T09:00:00Z"
 }
 
-# BBC News: Brexit: What would 'no deal' mean for food and medicine?
-
 Considers what a "no deal" Brexit could mean for food and medicine supplies.

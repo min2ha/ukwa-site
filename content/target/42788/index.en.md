@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Campaign to Strengthen the Hunting Act
-
 Initiative by Protect our Wild Animals aiming to secure amendments to the Hunting Act 2004 to ease enforcement and enhance deterrence, so that the Act pprotects wild mammals from being hunted for 'sport' with dogs

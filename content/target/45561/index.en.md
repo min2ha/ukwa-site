@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Lloyds of London: Lloyds plans in Europe
-
 Lloyd’s remains committed to its European markets following the ‘Brexit’ vote and is now working on plans to protect its access to the single market and the passporting rights it currently operates under. 

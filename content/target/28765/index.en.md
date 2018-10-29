@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate Just
-
 Climate Just is an information tool designed to help with the delivery of equitable responses to climate change at the local level.

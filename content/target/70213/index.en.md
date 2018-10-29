@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Workers Party Northern Ireland: ‘Free, safe legal’ and accessible - removing barriers to reproductive rights
-
 The Workers Party's position on abortion in Ireland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Moore
-
 The website of Michael Moore, Liberal Democrat candidate for Berwickshire, Roxburgh and Selkirk in the UK General Election.

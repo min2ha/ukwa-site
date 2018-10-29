@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Carswellians vs Faragites – meet the Ukip figures lining up behind each man
-
 None

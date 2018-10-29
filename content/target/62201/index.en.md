@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Preston North End
-
 Preston North End Football Club is a professional association football club located in the Deepdale area of Preston, Lancashire. They play in the Championship, the second tier of the English football league system.

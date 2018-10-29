@@ -10,5 +10,3 @@
   "start_date": "2018-10-18T09:00:00Z"
 }
 
-# John Byrne Award, The
-

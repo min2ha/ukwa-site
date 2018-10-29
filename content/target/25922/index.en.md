@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron’s seven-day NHS is shameless political game-playing
-
 None

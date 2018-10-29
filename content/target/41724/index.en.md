@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Norfolk Blogger
-
 A personal blog by David Hobart about North Norfolk featuring news, updates and tourist tips.

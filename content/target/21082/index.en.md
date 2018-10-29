@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish British National Party (BNP) on Facebook
-
 Facebook page of the British National Party Scotland.

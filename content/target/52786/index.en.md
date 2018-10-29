@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Who'd want to be ruled by the risible Juncker and his poison-spreading Brussels sidekick? 
-
 Comments on leaked account of disagreements between Theresa May and Jean-Claude Juncker at a Downing Street dinner on April 27th 2017.

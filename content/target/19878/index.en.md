@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Blog yr Hogyn o Rachub
-
 The political blog is written by Jason Morgan who lives in Cardiff.

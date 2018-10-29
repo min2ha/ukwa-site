@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems will not enter Tory coalition if £12bn welfare cuts made – Nick Clegg
-
 None

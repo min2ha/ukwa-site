@@ -10,5 +10,3 @@
   "start_date": "2015-07-10T00:00:00Z"
 }
 
-# Lady Llanofer, The Bee of Gwent
-

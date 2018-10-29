@@ -11,5 +11,3 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# The Bow-Wow Shop
-

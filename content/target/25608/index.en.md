@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green party plan to limit copyright attacked by writers and artists
-
 None

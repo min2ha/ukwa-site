@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Evolve Politics
-
 Evolve Politics is an online news site that aims to expose injustice, inequality and unfairness within UK politics, and throughout society in general.

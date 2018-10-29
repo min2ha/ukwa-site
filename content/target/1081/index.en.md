@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East of England Screening Quality Assurance Reference Centre
-
 None

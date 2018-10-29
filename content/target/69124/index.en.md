@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Facebook and body image concern in adolescent girls: A prospective study
-
 A study examining the relationship across time
 between Facebook use and body image concern in adolescent girls

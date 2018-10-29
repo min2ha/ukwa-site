@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# North West Wales Health & Safety Group
-
 North West Wales Health and Safety Group (NWWHSG) consists of members from a wide range of employers and organisations from all areas of North Wales. The aim is to: ‘Work in partnership to ensure workplaces are healthy and safe for all’.

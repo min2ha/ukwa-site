@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Blair FINALLY gets it! Former PM admits that immigration must be curbed – but insists Britain doesn't need to leave the EU to do it   
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huw Irranca-Davies (@IrrancaDaviesMP) on Twitter
-
 Labour candidate for Ogmore.

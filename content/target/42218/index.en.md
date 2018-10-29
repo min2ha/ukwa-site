@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Our Wee Country
-
 A Northern Ireland supporters club website.

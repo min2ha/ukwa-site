@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Maggie Brown
-
 Maggie Brown is a Pembrokeshire based artist. Her art is of nature and art and the Pembrokeshire landscape.

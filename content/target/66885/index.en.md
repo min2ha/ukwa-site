@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Incorporation of Candlemakers of Edinburgh, The
-
 Site of a traditional trade and craft guild located in Edinburgh now focusing on charitable work and promoting their trade.

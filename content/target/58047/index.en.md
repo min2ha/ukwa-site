@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Boat Banter Forum
-
 An online enthusiast community forum concerned with boats and boating. Discusses motor boats, sailing boats and paddle boats. Covers various aspects of boat maintenance, boat projects, boat equipment and other related topics. 

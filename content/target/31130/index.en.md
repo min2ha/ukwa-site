@@ -10,6 +10,4 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# Welsh Independent Schools Council (WISC)
-
 The Independent Schools Council brings together seven associations of independent schools, their heads, bursars and governors.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Campaign to Protect Rural England: The future of agricultural policy is in our hands
-
 Brexit presents a real opportunity to design a food and farming system fit for the 21st Century.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Henry McDonald (@henrymcdonald) on Twitter
-
 Ireland Correspondent for the Guardian and Observer. Frustrated novelist. Even more frustrated Everton supporter. Work tweets: @henry_mcdonald

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isle Of Wight Health and Wellbeing Board
-
 None

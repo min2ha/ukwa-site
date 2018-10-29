@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Raeburn Place Foundation
-
 Site of a charitable foundation established to advance public participation in sport and
 advance sport heritage, while redeveloping the site of Raeburn Place rugby football ground, attached to Edinburgh Academicals.

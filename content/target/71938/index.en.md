@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Network Rail: Birmingham New Street artwork to celebrate 100 years of women’s suffrage
-
 An Article about Birmingham New Street stations' artwork to celebrate 100 years of women’s suffrage

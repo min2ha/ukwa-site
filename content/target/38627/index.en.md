@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Greenock Morton Football Club
-
 Site of a senior Scottish association football club based in Greenock, Scotland.

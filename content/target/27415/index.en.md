@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Southwark
-
 Official website of the Diocese of Southwark.

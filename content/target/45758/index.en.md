@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cofebion Rhyfel Powys | Powys War Memorials
-
 The project commemorates the centenary of World War 1 and is run by Powys County Council following funding from funding from the Heritage Lottery Fund, Cadw (the Welsh Government's historic environment service) and the Brecon Beacons National Park Authority.

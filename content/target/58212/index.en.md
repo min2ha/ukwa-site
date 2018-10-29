@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Business Insider: Here's how social networks like Instagram could help identify when someone is depressed
-
 Business Insider article about social media and depression 

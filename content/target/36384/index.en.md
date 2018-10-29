@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Voting to leave the EU is the only way to guarantee real change – not PM's watery reforms
-

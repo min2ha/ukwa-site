@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isle Futures
-
 Isle Futures is a regeneration project dedicated “to improving the economic, social and environmental life of the Isle of Whithorn.” Isle Futures is a Registered Charity and community-led Company limited by guarantee with currently 10 Trustees and over 300 Members. 

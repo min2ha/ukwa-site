@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Brewgooder
-
 Site of a brewing initiative located in Edinburgh redirecting all its profits into providing clean water to people in Malawi.

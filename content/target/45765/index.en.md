@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T11:00:00Z"
 }
 
-# Wellcome Trust
-
 The Wellcome Trust are a global charitable foundation and is the world's largest medical research charity funding research into human and animal health.

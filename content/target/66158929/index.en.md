@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Association of Ukrainian Women in Great Britain
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Displaced People in Action, DPIA
-
 Displaced People in Action (DPIA) is a charity based in Cardiff that help displaced people (refugees and asylum seekers) integrate into their new lives in Wales.

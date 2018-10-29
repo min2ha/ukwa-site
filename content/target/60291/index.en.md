@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# A message from The Queen following the fire in Grenfell Tower
-
 A message from The Queen following the fire in Grenfell Tower

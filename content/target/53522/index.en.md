@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jennifer Nadel (Green Party Politician)
-
 Jennifer Nadel stood as Green Party candidate for Kensignton at the 2017 General Election but was not elected.

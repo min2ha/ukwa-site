@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# Russian Revolution - meetings in London on Facebook
-
 A series of meetings across London and throughout 2017 to celebrate the Russian Revolution of 1917 organised by the London section of the Socialist Party of England and Wales.

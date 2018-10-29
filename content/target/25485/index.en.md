@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Press split: a Tory tax promise versus a Labour budget pledge
-
 None

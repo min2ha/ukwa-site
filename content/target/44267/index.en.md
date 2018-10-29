@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# LibDems 404 page "Just like Theresa May's mandate, this page does not exist"
-

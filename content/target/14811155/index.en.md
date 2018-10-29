@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Media.info
-
 Media.info, previously known as Media UK provides information including contacts, jobs, news and analysis for the British media industry.

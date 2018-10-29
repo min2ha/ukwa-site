@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swindon St George RL on Pitchero
-
 The official website of Swindon St George Rugby League.

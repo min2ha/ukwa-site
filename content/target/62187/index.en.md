@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Millwall F.C.
-
 Millwall Football Club is a professional football club in Bermondsey, South East London, England. The team competes in The Championship, the second tier of English football. Founded as Millwall Rovers in 1885, the club has retained its name despite having last played in the Millwall area of the Isle of Dogs in 1910. 

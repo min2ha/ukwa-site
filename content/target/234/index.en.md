@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Worcestershire Acute Hospitals NHS Trust
-
 None

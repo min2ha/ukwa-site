@@ -10,5 +10,3 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# John Woodcock (Labour candidate for Cumbria Barrow and Furness)
-

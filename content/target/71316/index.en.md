@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  NGN Sevens (@NGNSevens) on Twitter
-
 The NGN 7's have been set up in conjunction with the Spence family as a way of remembering and honouring the lives of Noel, Graham and Nevin Spence.

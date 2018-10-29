@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stewart Hosie, Depute Leader of the SNP
-

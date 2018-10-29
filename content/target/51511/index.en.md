@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dundee Women's Festival
-
 Site of an annual festival in and around Dundee recognising women’s rights, their qualities and their achievements.

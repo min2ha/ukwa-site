@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cat Boyd for Glasgow on Facebook
-

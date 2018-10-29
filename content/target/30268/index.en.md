@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Spirit of Moray Book Festival - The Moray Council
-
 Homepage of Spirit of Moray Book Festival, celebrating Scottish culture, writing, publishing and illustration, promoting reading and encouraging debate.

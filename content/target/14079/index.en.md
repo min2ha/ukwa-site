@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# AndrewSparrow (AndrewSparrow) on Twitter
-

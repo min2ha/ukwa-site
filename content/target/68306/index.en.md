@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Five Ways Old Edwardians
-
 Formed in 1892, Five Ways was originally formed as the old boys club for King Edward`s Five Ways School. 

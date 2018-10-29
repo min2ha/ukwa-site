@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily News: Now this is a big landing for Houston
-

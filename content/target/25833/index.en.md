@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon keeps up pressure on Ed Miliband in bid to lock Tories out
-
 None

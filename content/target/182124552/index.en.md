@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of St Thomas a Becket, Shirenewton
-
 Shirenewton Church is the Parish Church for the village of Shirenewton near Chepstow.

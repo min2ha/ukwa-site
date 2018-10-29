@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Iain Duncan Smith leads Brexit ministers’ fightback against Cameron’s EU muzzle
-
 Article by Greg Heffer

@@ -10,6 +10,4 @@
   "start_date": "2018-08-29T09:00:00Z"
 }
 
-# Project X
-
 "Project X are an artist collective who champion dance and performance within the African Caribbean Diaspora in Scotland."

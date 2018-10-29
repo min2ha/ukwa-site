@@ -11,5 +11,3 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Royal Family Official Website: The Queen launches the 2017 UK-India Year of Culture
-

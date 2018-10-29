@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# One Team Jersey
-
 Website relating to Public Sector Reform in Jersey

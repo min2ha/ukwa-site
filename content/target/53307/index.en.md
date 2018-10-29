@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Your vote can stop the Tories
-
 stopthetori.es is a @votetools project for the 2017 UK general election. It highlights how people can tactically vote to ensure that the Conservative Party is not re-elected to government.

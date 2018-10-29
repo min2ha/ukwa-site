@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Leicester City Council
-
 We serve the people, communities and businesses of Leicester, the biggest city in the East Midlands.
 We are a unitary authority, which means we take responsibility for many of the major decisions which affect people’s lives. This includes decisions around schools, roads and setting council tax.

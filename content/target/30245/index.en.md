@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bloody Scotland on Facebook
-
 Facebook page for Bloody Scotland, a specialist crime book festival based in Stirling, Scotland.

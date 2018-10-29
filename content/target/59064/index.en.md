@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library Labs (@BL_Labs) on Twitter
-
 Experiment with British Library Digital Collections.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson tells PM she is suffocating Brexit 'dream'
-
 Boris Johnson resigned as Foreign Secretary on June 9th and launched a scathing attack on Theresa May's Brexit strategy, saying the "dream is dying, suffocated by needless self-doubt".

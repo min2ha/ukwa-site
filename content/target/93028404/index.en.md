@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Galson Sciences Ltd (GSL)
-
 None

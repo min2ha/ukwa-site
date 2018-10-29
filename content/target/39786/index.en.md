@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Obama warns it would take a DECADE to get a trade deal with the US - but Vote Leave blasts there is NO 'queue' as the Brexit team hit back at the President   
-

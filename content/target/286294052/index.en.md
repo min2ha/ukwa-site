@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Webzesty
-
 <p>Webzesty is a web design and development company based in Manchester.</p>

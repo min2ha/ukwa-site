@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Ampthill & District Community Rugby Union Football Club
-

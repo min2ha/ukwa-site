@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Meibion Goronwy
-
 Meibion Goronwy is a relatively new choir based in Anglesey and established in 2016.

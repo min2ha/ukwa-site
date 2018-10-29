@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lee Valley - For nature, sport and discovery
-

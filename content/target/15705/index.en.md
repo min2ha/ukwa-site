@@ -10,6 +10,4 @@
   "start_date": "2015-01-08T00:00:00Z"
 }
 
-# Brain Tumour Charity, The
-
 The Brain Tumour Charity is the result of the merger of The Brain Tumour Charity (formerly Samantha Dickson Brain Tumour Trust), Brain Tumour UK and The Joseph Foote Trust. It funds research, raise awareness and provide support to patients and their families.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yorkshire Festival of Cycling
-
 Festival of cycling in Yorkshire at time of Tour de France

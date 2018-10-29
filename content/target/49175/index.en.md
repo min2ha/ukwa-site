@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Single Market Justice
-
 Pressure group running a legal campaign to ensure that Britain stays in the single market or European Economic Area after Brexit.

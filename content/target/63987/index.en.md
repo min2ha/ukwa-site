@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Barrhead Bourock Parish Church
-

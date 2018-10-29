@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Blog Carl Morris
-
 Carl Morris blogs about contemporary media and the Welsh language. His interests include: My work interests lie in the social web, open source and how digital media can be used, particularly in the cultural industries and social enterprise sector.

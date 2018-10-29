@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Library Carpentry: Data lessons/library Git on Github
-
 An Introduction to Git/Github for librarians.

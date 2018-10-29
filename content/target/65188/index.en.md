@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Goodman Masson
-
 Financial recruitment business in London recruiting professionally qualified accountants and other finance professionals for over 20 years.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Liz Wilks (@wilks_liz) on Twitter 
-
 Liz Wilks is the UKIP candidate for Cynon Valley at the 2016 National Assembly Elections and Caerphilly at the 2017 General Election.

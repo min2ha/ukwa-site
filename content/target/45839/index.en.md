@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cynon Valley Party, The
-
 The Cynon Valley Party (The CVP) is a political party established to represent the best interests of the residents and businesses of the Cynon Valley at a local authority level.

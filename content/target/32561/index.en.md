@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Neighbourhood Statistics
-
 Office for National Statistics website that allows you to search for and compare a range of social indicators at local level.

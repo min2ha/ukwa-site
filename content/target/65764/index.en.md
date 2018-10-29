@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Cantorion Creigiau Singers
-
 Cantorion Creigiau Singers is a mixed choir established in 1968 in the village of Creigiau near Cardiff.

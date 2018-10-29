@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Leader of the House of Commons (@commonsleader) on Twitter
-
 Official Twitter channel for the Office of the Leader of the House of Commons. Follow for confirmation of Government statements and future Commons business

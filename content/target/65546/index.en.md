@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Scottish Historic Buildings Preservation Trust
-
 Site of a charity and trust that secures the future of under-used historic buildings across Scotland by expertly restoring them for the nation and finding new uses that can regenerate local communities and the historic environment.

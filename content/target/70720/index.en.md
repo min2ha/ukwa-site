@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexit breakthrough sends the pound soaring as Barnier FINALLY says the EU will offer Britain a unique deal after months of stalemate - but warns he still will not allow 'a la carte' choice from the single market
-
 Reports that, in remarks that sent the pound soaring up against the euro and the dollar, Mr Barnier promised a 'partnership with Britain such as has never been with any other third country'.
 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Boardgames in Blighty
-
 UK Board Game news, reviews and comment

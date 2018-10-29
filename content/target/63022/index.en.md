@@ -10,6 +10,4 @@
   "start_date": "2018-03-24T09:00:00Z"
 }
 
-# Cave Script Translation Project
-
 The Cave Script Translation Project is an independent research project that looks at 100,000 years of symbolic communication.

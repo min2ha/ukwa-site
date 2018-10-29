@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Jo Hunt (@johunt) on Twitter
-
 Dr Jo Hunt, reader at Cardiff University’s School of Law, is an expert in EU law and its implications for the UK, particularly in respect to how it may be applied differently across the devolved regions. 

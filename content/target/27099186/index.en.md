@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Tim Etchells
-
 This page focuses on Tim Etchells current activities in visual art, writing and independent performance projects. 

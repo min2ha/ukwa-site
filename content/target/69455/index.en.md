@@ -10,6 +10,4 @@
   "start_date": "2018-07-31T09:00:00Z"
 }
 
-# Arpita Shah
-
 Arpita Shah is a visual artist and arts community facilitator based in Edinburgh.

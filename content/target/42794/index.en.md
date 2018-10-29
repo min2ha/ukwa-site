@@ -10,6 +10,4 @@
   "start_date": "2016-06-11T10:00:00Z"
 }
 
-# Justice for the 21
-
 Birmingham-based campaign for the re-opening of the inquest into the deaths of 21 people killed in the bombing of two pubs in Birmingham in 1974

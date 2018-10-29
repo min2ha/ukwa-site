@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Don’t rejoice in Brexit failings. We remoaners must shape the future
-

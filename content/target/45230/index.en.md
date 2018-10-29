@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis Op-Ed: I will ensure that Northern Ireland's voice is heard in negotiations
-
 Secretary of State for Exiting the European Union David Davis wrote in the Belfast Telegraph ahead of his trip to Northern Ireland that he would  ensure that Northern Ireland’s voice was heard as the government worked towards a Brexit deal that enabled every part of the UK to build on what it has achieved and embrace new opportunities.
 

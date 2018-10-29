@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Kirkcudbright Jazz Festival
-
 Site of an annual festival of jazz, featuring trad New Orleans, Dixieland and Swing jazz, and located in Kirkcudbright, Dumfries & Galloway.

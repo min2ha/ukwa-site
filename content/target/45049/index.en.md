@@ -10,6 +10,4 @@
   "start_date": "2016-08-16T10:00:00Z"
 }
 
-# Frowning
-
 Site of an arts magazine aimed at young adults and based in Glasgow.

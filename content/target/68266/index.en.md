@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Prehistoric Jersey
-
 Site created to provide those interested with photographs of as many of the main prehistoric sites and structures that can be identified in Jersey today.

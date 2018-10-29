@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Steve Sparky Roberts (Independent candidate for Gower)
-

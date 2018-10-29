@@ -10,5 +10,3 @@
   "start_date": "2006-03-20T00:00:00Z"
 }
 
-# Animal Defenders International
-

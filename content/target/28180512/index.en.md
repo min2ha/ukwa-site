@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Publishers Association, The (PA)
-
 The Publishers Association is the leading representative voice for books, journal, audio and electronic publishers in the UK. 

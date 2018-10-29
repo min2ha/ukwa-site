@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# David Ions (@DavidIons) on Twitter (UKIP Politician)
-
 David William Ions stood as UK Independence Party (UKIP) candidate for Esher and Walton in the 2017 General Election but was not elected.

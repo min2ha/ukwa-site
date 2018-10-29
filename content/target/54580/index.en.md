@@ -10,6 +10,4 @@
   "start_date": "2017-06-10T09:00:00Z"
 }
 
-# Isle of Skye Accordian and Fiddle Club
-
 Site of a Scottish traditional music club based on the Isle of Skye.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newburgh Juniors Football Club
-
 WordPress site for a Scottish junior football club based in Newburgh, Fife.

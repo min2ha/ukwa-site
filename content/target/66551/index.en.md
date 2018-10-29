@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Technical note on consultation and cooperation on external security
-
 The note outlines options for future UK-EU consultation and cooperation arrangements across foreign policy, common security and defence policy (CSDP), defence capabilities and development and external instruments.
 

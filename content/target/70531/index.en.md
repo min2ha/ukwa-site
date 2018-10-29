@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Stonewall Cymru (@StonewallCymru) on Twitter
-
 Twitter account for Stonewall Cymru. Yr elusen lesbiaidd, hoyw, deurywiol a thraws. Derbyn yn ddieithriad. The LGBT charity. Acceptance without exception.

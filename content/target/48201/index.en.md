@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Discover Donside
-
 Site promoting tourist attractions and activities of the areas of Speyside, the Cairngorm Mountains, Royal Deeside and the city of Aberdeen.

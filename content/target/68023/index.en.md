@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival Republic
-
 Website for the Festival Republic website

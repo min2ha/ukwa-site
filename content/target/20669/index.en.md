@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Councillor Ross Thomson on Facebook
-
 The Facebook page of Ross Thomson, Scottish Conservative candidate for Aberdeen South in the UK General Election, 7th May 2015 and Aberdeen South & North Kincardine in the 2016 Scottish Parliamentary election.

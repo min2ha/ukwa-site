@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# The Association of Mixed Race Irish (AMRI)
-
 The Association of Mixed Race Irish (AMRI) was set up to positively promote and support Irish people of mixed race backgrounds and their families/relatives. We also support those in mixed families regardless of colour. AMRI is currently researching racism in institutional care and working to trace missing mixed race children of the care system to establish their welfare needs. We are also working on a number of events and media activities to raise awareness of this changing face of Ireland.

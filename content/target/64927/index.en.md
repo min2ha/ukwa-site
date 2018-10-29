@@ -10,6 +10,4 @@
   "start_date": "2018-04-29T09:00:00Z"
 }
 
-# Islander Kayaks (Palm Equipment International Ltd.)
-
 Makers of kayaks from recycled plastic.

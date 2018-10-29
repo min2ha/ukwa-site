@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Simon Thomson (@simontthomson) on Twitter (Labour candidate for Dartford)
-

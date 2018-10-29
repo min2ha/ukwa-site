@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Reading FC Women (@ReadingFCWomen) on Twitter
-
 Latest news, behind the scenes content & live game updates from Reading FC Women.

@@ -11,6 +11,4 @@
   "subject": "Global UK"
 }
 
-# Graham YES Linehan (@Glinner) on Twitter
-
 Graham Linehan is an Irish television comedy writer and director who has written or co-written, a number of popular television comedies. This is is his official Twitter account.

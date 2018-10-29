@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Miliband attacks 'dodgy' PM in HSBC donor row
-
 None

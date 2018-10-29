@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Keith Rowe (@KeithRoweUKIP) on Twitter (UKIP candidate for Birmingham Northfield)
-

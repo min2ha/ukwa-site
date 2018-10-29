@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Academy of Medical Educators
-
 The Academy of Medical Educators is the professional organisation for all those involved in medical education – the education and training of students and practitioners in medicine, dentistry and veterinary science.

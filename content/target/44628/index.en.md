@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Savills: The impact on the mainstream market. Brexit briefing.
-
 Savills plc is a global real estate services provider listed on the London Stock Exchange.

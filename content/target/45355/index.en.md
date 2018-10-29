@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# Raymond Humphreys
-
 Raymond Humphreys is a writer of fiction and essays, occasional poet. Born in London, to a Welsh family, he has lived in Wales since 1972.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UKIP Enfield & Haringey Branch
-
 None

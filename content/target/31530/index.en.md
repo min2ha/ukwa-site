@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Currys
-
 Currys is a UK technology and home appliances retailer.

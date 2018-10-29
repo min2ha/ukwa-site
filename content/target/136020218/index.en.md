@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northumberland LINk
-
 None

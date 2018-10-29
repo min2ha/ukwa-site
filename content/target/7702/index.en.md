@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# JewishNews Online: South African Jews fume at Bibi's "embarrassing" snub of Nelson Mandela's funeral
-
 <p>News report of 12 December 2013 relating to Israeli Prime Minister Benjamin Netanyahu's decision not to attend Nelson Mandela's funeral.</p>

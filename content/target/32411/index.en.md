@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Bankside Gallery
-
 Bankside is the Gallery of the Royal Watercolour Society (RWS), and the Royal Society of Painter‑Printmakers (RE). It specialises in contemporary water-based media and original prints, championing the work of new and established artists. It displays and promotes art work on paper.

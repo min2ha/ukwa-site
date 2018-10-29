@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Glasgow Unitarian Church
-
 Site of a Unitarian church in Glasgow.

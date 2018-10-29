@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# NickGrant  (@Nick4Twick) on Twitter (Labour Candidate for Twickenham)
-

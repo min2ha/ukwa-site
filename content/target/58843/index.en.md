@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Therapy via the internet can only ever be a pale imitation
-
 News article about how how online therapy for mental health conditions compares to traditional methods and the associated risks

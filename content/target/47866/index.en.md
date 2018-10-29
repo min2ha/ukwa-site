@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Chancellor urges Brexit interim deal
-
 Chancellor Philip Hammond backed a transitional deal for Brexit saying it would be "helpful" to allow longer than two years for the UK's EU exit.  Mr Hammond told the Treasury select committee that there was an "emerging view" that having longer would tend towards a "smoother transition" .

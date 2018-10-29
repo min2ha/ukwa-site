@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Musker Turner
-
 Judith Musker Turner and Shelley Musker Turner are two sisters and artists from Ceredigion. Judith Musker Turner creates textile art and wearable art and Shelley Musker Turner is a leather worker who specialises in saddlery and bespoke leather goods

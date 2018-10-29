@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Weightlifting Association of Ulster and Northern Ireland
-
 None

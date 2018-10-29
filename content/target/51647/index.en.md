@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Dundee and Angus College
-
 Site of a further education college in Dundee, Scotland.

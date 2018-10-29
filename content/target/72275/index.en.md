@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Wales at War (@walesatwar) on Twitter 
-
 Wales at War was a WW1 digital project for schoolchildren in Wales managed by the National Library of Wales.

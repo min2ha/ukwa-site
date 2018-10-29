@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Cuttlefish Multimedia
-
 Cuttlefish is a creative web and mobile app development company based in Loughborough, Leicestershire in the UK's East Midlands.

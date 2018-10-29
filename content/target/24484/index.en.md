@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Revealed: Labour wants to 'get rid' of Trident, admits shadow cabinet minister
-
 None

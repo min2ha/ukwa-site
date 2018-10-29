@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Joint Council for the Welfare of Immigrants: UK EU Referendum Negotiations – What has been agreed and what does this mean for migration?
-

@@ -10,5 +10,3 @@
   "start_date": "2010-03-02T00:00:00Z"
 }
 
-# Insulin Pumpers UK
-

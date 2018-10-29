@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# NewsLetter, The: Brexit: Both sides say Northern Ireland to be a key part of negotiations
-

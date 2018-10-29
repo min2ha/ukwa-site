@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# JIMAS
-
 JIMAS is a Muslim educational charity which works to create greater understanding about Islam amongst Muslims and People for other faith and no faith backgrounds. JIMAS works to do this through Education, Engagement and Service.

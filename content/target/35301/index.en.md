@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: William wades into Euro-row: Prince signals support for Britain to stay in EU as he says UK's partnership with international allies is the 'bedrock of our security and prosperity'   
-

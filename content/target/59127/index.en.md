@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail:, The: The EU's imploding as nation after nation turns to the ugly far Right but Brussels and the Remainers just wont talk about it
-
 The EU leadership and the European Commission are far too preoccupied with political chaos in Germany and with Brexit to deal with a much greater threat to their grand European dream. In Hungary, the Czech Republic and Poland, there is now a stridently anti-Brussels, anti-migrant and anti-Establishment movement with the increasingly angry peoples of these nations convinced they are being treated as second-class citizens.

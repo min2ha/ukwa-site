@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Mid and West Wales Adoption Service | Mabwysiadu –Canolbarth a Gorllewin Cymru
-
 This is the Regional Adoption Service for Carmarthenshire, Ceredigion, Pembrokeshire and Powys Local Authorities.

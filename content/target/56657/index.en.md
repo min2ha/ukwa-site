@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Marged Owen
-
 Marged Owen is a glass designer from Wales.

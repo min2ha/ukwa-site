@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# OpenLearn: Stephen Hawking
-
 Pages tagged 'Stephen Hawking'

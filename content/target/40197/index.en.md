@@ -10,7 +10,5 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# John Conway …. rocks, soil, landscapes of Anglesey (mainly) …….
-
 John Conway is the director of GeoMon, the Anglesey Geopark. The site covers geodiversity – the wonderful range of rocks, landscapes and soils mainly in Anglesey and Wales. 
 

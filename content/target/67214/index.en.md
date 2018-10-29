@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Stewart Brewing Limited
-
 Site of a brewer, publican and their visitor centre based at Loanhead, Midlothian.

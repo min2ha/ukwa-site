@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Wymondham's Great War
-
 Project to commemorate the 100th anniversary of World War One with a Festival Day in July 2014.

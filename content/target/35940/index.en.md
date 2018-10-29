@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Johanna Boyd (@BoydJohanna1) on Twitter
-
 The Twitter profile of Johanna Boyd, the Scottish Labour candidate for the Mid Scotland and Fife list in the 2016 Scottish Parliament election.

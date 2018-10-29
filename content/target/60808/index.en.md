@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Guidance and tips for fans travelling to the 2018 Winter Olympics and Paralympics in Pyeongchang
-
 Guidance and tips for fans travelling to the 2018 Winter Olympics and Paralympics in Pyeongchang; advice given https://www.gov.uk

@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Jon Blake Books
-
 Jon Blake is the author of over sixty books for children and teenagers. He was brought up in Southampton and has lived in Cardiff since 1987. This is his personal website.

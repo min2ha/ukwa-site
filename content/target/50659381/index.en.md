@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Green Fiscal Commission Blog, The
-
 None

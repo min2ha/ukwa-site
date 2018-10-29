@@ -10,5 +10,3 @@
   "start_date": "2014-09-16T00:00:00Z"
 }
 
-# Asiantaeth Ynni Severn Wye Energy Agency
-

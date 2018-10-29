@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jen McIntosh
-
 <p>The website of Jen McIntosh rifle shooter and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

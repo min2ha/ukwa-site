@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL English and Drama (@BLEnglish_Drama/) on Twitter
-
 From Shakespeare's First Folio to Wendy Cope's emails, the literature and drama collections at the British Library are unparalleled.

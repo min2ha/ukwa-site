@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The SNP doubles its crowdfunding appeals for its biggest election campaign ever
-

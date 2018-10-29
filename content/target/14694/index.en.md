@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Elysium Gallery
-
 <p>Elysium gallery is an artist led, self sustaining enterprise comprising of 25 artist studios and a contemporary art gallery in Swansea.</p>

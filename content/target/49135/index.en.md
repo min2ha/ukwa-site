@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# LEAF Open Farm Sunday
-
 LEAF Open Farm Sunday, is managed by LEAF (Linking Environment And Farming). Since the first Open Farm Sunday in 2006, over 1500 farmers across the UK have opened their gates and welcomed 1.8 million people onto their farm for one Sunday each year. 
 
 It is an opportunity for everyone, young and old, to discover first hand what it means to be a farmer and the work they do producing food, enhancing the countryside and all the goods and services farmers provide.

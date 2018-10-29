@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Faith Healers
-
 A webcomic published by Hellbound Media. Written by Mark Adams and Matt Warner, artwork by Anna Susanne, lettering by Nikki Foxrobot. Created by Mark Adams, Matt Warner and Tony Emson. The series follows nurses Abi, Gwen, Lily and Rashme as they become embroiled in a world of monsters, demons, and half-angels. Contain content that may not be suitable for all ages. 

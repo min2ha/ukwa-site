@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Children cannot play in the streets because of immigrants, says Nigel Farage
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# How the Light Gets in
-
 Music and philosophy festival

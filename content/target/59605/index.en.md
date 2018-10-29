@@ -10,6 +10,4 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# Kelmarsh Hall and Gardens Northamptonshire
-
 Kelmarsh Hall is a Grade I listed country house built in 1732. The Kelmarsh Estate is now in the care of a charitable trust, charged with maintaining it in perpetuity for the benefit of the nation. In 2004, Kelmarsh Events Limited was set up as a commercial arm of the business to support the Charitable Trust.

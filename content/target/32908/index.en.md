@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Preservation News
-
 Blog run by Paul Wheatley, Digital Preservation Coalition’s Head of Research and Practice.

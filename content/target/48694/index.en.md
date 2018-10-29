@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Redemption Faith Assemblies UK
-
 Redemption Faith Assemblies UK is an affiliate of Redemption Faith Ministries International.

@@ -10,5 +10,3 @@
   "start_date": "2011-07-19T00:00:00Z"
 }
 
-# Postnatal Depression
-

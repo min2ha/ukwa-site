@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wallingford Rugby Club
-
 The official website of Wallingford Rugby Club.The club was founded in 1967 as Cholsey RFC, but was renamed after moving 3 miles to Wallingford in 1997.

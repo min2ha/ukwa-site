@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Wilfred Owen's War
-
 Project using Wilfred Owen's view of the realities of life in the trenches and the close relationship he built with fellow poet Siegfried Sassoon to inspire a local project in which Young People in Wythenshawe, Manchester will work together to research and interpret the historical and literary evidence.

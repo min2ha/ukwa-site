@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Singing Campfire Songs with Mr Spock
-
 None

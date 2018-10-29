@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Fields in Trust: A Manifesto for Playing Fields
-

@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Gwynedd a Mon Camra
-
 This is the Gwynedd a Mon branch of CAMRA, the Campaign for Real Ale.

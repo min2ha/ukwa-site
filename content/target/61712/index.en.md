@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Shotts Calderhead-Erskine Parish Church of Scotland
-
 Site of a Church of Scotland parish church at Shotts, Lanarkshire.

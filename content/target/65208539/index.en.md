@@ -10,5 +10,3 @@
   "start_date": "2012-05-03T00:00:00Z"
 }
 
-# Flickr: Welsh Government / Llywodraeth Cymru
-

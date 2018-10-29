@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Cardiff Book Talk
-
 Cardiff BookTalk was established by Cardiff University in 2011, and is run by the School of English, Communication and Philosophy since spring 2015. 

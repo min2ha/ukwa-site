@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tell us the whole truth on cuts, leaders urged
-
 None

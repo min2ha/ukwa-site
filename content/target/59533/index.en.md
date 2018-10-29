@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Jaguar Enthusiast Community Forum
-
 An online enthusiast community concerned with Jaguar cars. Discusses various Jaguar car models by type.

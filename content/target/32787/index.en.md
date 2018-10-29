@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cwmni Cyhoeddi Gwynn Publishing
-
 Cwmni Cyhoeddi Gwynn is a Welsh music publisher.

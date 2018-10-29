@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Orchard Place Baptist Church, Neath
-

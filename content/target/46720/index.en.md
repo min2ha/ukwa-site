@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Carnival plc
-
 Carnival plc are the world’s largest leisure travel company, The company’s portfolio of global cruise line brands includes Carnival Cruise Line, Fathom, Holland America Line, Princess Cruises and Seabourn in North America; P&O Cruises (UK) and Cunard in Southampton, England; AIDA Cruises in Rostock, Germany; Costa Cruises in Genoa, Italy; and P&O Cruises (Australia) in Sydney. Additionally, Carnival owns a tour company that complements its cruise operations: Holland America Princess Alaska Tours in Alaska and the Yukon. 

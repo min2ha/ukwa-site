@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# Glastonbury Abbey
-
 Glastonbury Abbey is a registered charity and a company limited by guarantee with visitor income and donations the only source of income.
 
 In 1907 the ruins and neighbouring Abbey House were sold at public auction and the whole property was bought by Ernest Jardine from Nottingham who offered it to the Church of England at cost price.

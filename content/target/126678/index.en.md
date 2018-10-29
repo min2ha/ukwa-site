@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Institute of Cancer Research, The
-
 Official website of the Institute of Cancer Research.

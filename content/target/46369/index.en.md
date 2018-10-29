@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# ALMR: Employment brief
-
 Analysis by a body representing the licensed hospitality sector decision on the effect of Brexit on employment in the sector.

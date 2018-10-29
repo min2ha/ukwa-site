@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Dáil Éireann Debate - Thursday, 13 October 2016
-
 A transcript of the parliamentary debate from Thursday 13 October 2016. This was a continuation of the debate on the Budget 2017 Statement that was first discussed on the Tuesday 11 October 2016.

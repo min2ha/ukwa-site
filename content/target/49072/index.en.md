@@ -10,6 +10,4 @@
   "start_date": "2017-02-07T09:00:00Z"
 }
 
-# Hospital Broadcasting Service (HBS)
-
 The Hospital Broadcasting Service (HBS) is a voluntary organisation that has been providing patients in Glasgow and Paisley with their own dedicated radio channel since Christmas Day 1970.  

@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Alder Hey Children's Hospital (@AlderHey) on Twitter
-
 Alder Hey Children's Hospital is a major national children's hospital and NHS foundation trust located in the suburb of West Derby; in the city of Liverpool.

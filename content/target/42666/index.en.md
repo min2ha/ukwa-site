@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# SQUASH Campaign
-
 Squatters' Action for Secure Homes

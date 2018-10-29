@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# Partneriaerth Arloesi'r Ddraig | Dragon Innovation Partnership
-
 The Dragon Innovation Partnership (DIP) is a partnership between Swansea University, University of Wales Trinity Saint David and the Open University funded by the Higher Education Funding Council for Wales (HEFCW). The objective is to assist businesses and other organisations in reaching the relevant expertise and resources from the universities and to facilitate and support that development.

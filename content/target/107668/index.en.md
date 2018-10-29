@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Sheena Cleland for Edinburgh West [SNP candidate]
-
 None

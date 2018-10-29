@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: It is easy to despair of our leaders, but Brexit has exposed Britain’s rotten core
-
 Guardian, The

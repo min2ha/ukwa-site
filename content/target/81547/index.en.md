@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC: Where new dads are encouraged to take months off work
-
 An article about paternity leave in Sweden

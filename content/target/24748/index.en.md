@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Roland Courtenay (New Independent Centralists candidiate for Kensington) (@rolandatnic) on Twitter
-
 None

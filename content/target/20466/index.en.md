@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour cannot reverse Tory legal aid cuts, Sadiq Khan says
-
 None

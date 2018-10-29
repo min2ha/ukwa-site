@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# British Empire & the First World War - The Ahmed Iqbal Ullah Education Trust
-
 The project will create a dramatic monologue to share it with a wider public, including young people, to raise awareness of the important contribution of British India to the First World War.

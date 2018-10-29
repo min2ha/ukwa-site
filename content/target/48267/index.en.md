@@ -10,5 +10,3 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Public Defence Solicitor's Office (PDSO)
-

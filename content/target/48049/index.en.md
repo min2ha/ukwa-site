@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Hiraeth Hope/Croeso Abergwaun on Facebook
-
 Hiraeth Hope/Croeso Abergwaun are working with Citizens Cymru Wales, the Home Office and Pembs County Council, aiming to resettle three Syrian families in Abergwaun/ Fishguard. 

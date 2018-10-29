@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Eventbrite: Teacher hub English Forum 2018 -Suffrage 2018 and Women's voices from WW1
-
 Teacher Hub>English Forum 2018 event for English Teachers on Suffrage and Voices of Women in WW1. Hosted on Eventbrite. 

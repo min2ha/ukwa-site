@@ -10,5 +10,3 @@
   "start_date": "2012-09-07T00:00:00Z"
 }
 
-# Anthologizr: On demand e-publishing from OA repositories
-

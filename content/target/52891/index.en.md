@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Culture Perth & Kinross
-
 Site of a trust that manages museums, galleries, libraries, archive and local history services previously operated directly by Perth & Kinross Council - their purpose is to advance the visual and applied arts, heritage and culture within the Perth and Kinross region.

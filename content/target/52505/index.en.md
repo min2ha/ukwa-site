@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Terry Stacy (@TerryStacyLD) on Twitter (Liberal Democrat Politician)
-
 Terry Stacy stood as Liberal Democrats candidate for Islington South and Finsbury in the 2017 General Elections but was not elected.

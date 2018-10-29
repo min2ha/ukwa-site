@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Why the Brexit referendum will be swung by the horrific events in Cologne
-

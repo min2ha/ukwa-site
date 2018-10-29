@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Fairlie's Men of the Great War
-
 Project to research and record the lives of the 126 Fairlie men who served in WW1, and examine how the Fairlie community has changed physically, socially and economically over the last century.

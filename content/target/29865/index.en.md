@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Giles' Cathedral (@StGilesHighKirk) on Twitter
-
 Twitter profile of St. Giles' Cathedral in Edinburgh; it often participates as a venue in the Edinburgh Fringe.

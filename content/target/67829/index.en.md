@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Albans RFC (@StAlbansRFC) on Twitter
-
 The official Twitter account of St Albans Rugby Club.

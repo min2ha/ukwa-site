@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Ankst
-
 Ankst was a Welsh independent record label formed in 1988 at the University of Wales, Aberystwyth.

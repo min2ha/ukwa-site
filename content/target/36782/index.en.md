@@ -10,6 +10,4 @@
   "start_date": "2016-03-08T09:00:00Z"
 }
 
-# Grwp Tanddaearol Parys | Parys Underground Group
-
 This web site is about the historic Parys Mountain copper mines near Amlwch in Anglesey. The mines have been worked since the Bronze age almost 3500 year's ago. 

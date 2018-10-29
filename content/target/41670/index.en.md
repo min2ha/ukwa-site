@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Work Place Chaplaincy
-
 Site of an ecumnenical organisation aiming to provide pastoral and spiritual support to people in their work place.

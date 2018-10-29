@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Manford's Comedy Clubs
-
 Website for Manford's Comedy Clubs, established by comedian Jason Manford.

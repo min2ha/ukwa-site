@@ -10,5 +10,3 @@
   "start_date": "2006-06-29T00:00:00Z"
 }
 
-# College Ystrad Mynach, The
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lochside Press, The
-
 News and events from around the Clyde sea lochs.

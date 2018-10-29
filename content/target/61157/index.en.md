@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of Perth
-
 Site of a body of Church elders and ministers and the administrative body representing local Church of Scotland congregations in Perth & Kinross [historic counties Perthshire and Kinross-shire].

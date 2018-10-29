@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Robbins bit his lip and flashed a pair of dimples: QUENTIN LETTS watches on as May's increasingly powerful fixer gives evidence alongside Dominic Raab - as he is interrupted by news of his own demotion
-
 Parliamentary sketch writer Quentin Letts describes Olly Robbins' and Dominic Raab's appearance before the Brexit Committee on June 14th 2018

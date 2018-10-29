@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Essex Book Festival
-
 The Festival was established by Essex County Council in 1999 to celebrate the book in all its forms with the widest possible audience in Essex.

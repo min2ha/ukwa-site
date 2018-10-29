@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour’s 10p tax rate dismissed as ‘gimmick’
-
 None

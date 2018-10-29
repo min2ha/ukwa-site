@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish National Party Annabelle Ewing Ochil and South Perthshire Candidate
-

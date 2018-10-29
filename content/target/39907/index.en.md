@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Highland Games Association
-
 Site of the official governing body of traditional Highland games in Scotland.

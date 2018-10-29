@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit so complex it could overwhelm politicians, warn senior academics
-

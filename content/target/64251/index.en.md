@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Forth St. Paul's Parish Church
-

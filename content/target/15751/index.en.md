@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# Tudor Society, The
-
 <p>The Tudor Society is an exclusive membership club for all those who love Tudor history and who want to keep learning more.</p>

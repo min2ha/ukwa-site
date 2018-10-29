@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Crail Festival
-
 Site of an annual multi-arts, sports and craft festival based in Crail, Fife, Scotland.

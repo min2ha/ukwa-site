@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Union démocratique du centre
-
 The Union democratique du centre adheres to national conservatism, aiming at the preservation of Switzerland's political sovereignty and a conservative society.[13] Furthermore, the party promotes the principle of individual responsibility and is skeptical toward any expansion of governmental services. This stance is most evident in the rejection of an accession of Switzerland to the European Union, the rejection of military involvement abroad, and the rejection of increases in government spending on social welfare and education.

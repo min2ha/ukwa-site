@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Bicester Local History Society
-
 the ultimate aim of the Bicester Local History Society (BLHS) is to bring the local history of Bicester to life, and to make it accessible to as many people as possible.

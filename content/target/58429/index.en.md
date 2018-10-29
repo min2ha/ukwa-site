@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit studies details 'will be published'
-
 The government said it would release information from Brexit impact studies, after Labour won a Commons vote on November 1st effectively forcing their hand.

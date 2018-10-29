@@ -10,6 +10,4 @@
   "start_date": "2017-02-18T09:00:00Z"
 }
 
-# Cardiff University: Digital Citizenship and Surveillance Society
-
 The ESRC funded project “Digital Citizenship and Surveillance Society” (2014-16) based at Cardiff School of Journalism, Media and Cultural Studies (JOMEC) explored the 'challenges of digital citizenship in light of the governmental surveillance measures revealed by whistle-blower Edward Snowden' by analysing four central themes: policy, technology, civil society, and news media.

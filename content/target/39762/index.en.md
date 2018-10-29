@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Prestwick Branch SNP (@PrestwickSNP) on Twitter 
-
 Twitter profile of the Glasgow Prestwick branch of the Scottish National Party (SNP).

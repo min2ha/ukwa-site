@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh Western Scottish National Party (SNP)
-
 The Edinburgh Western branch of the Scottish National Party (SNP).

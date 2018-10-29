@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Which election 'truths' should we be mythbusting?
-
 None

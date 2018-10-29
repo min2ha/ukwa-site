@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# North Coast Parish Church of Scotland
-
 Site of a Church of Scotland parish church located at Thurso [Caithness], Highland.

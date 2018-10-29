@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Miliband defends 'financially illiterate' plan to cut student fees to £6,000 
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Arts
-
 Digital Arts is a resourse for digital media designers.

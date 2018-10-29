@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Ullapool Museum
-
 Site of a museum of local and family history about and located in Ullapool, Highland.

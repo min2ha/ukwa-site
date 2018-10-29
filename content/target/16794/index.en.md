@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Royal College of General Practitioners: RCGP Election manifesto
-
 The RCGP is the professional membership body for family doctors in the UK and overseas. They are committed to improving patient care, clinical standards and GP training. 

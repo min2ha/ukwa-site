@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Arisaig Community Trust
-
 Site of a community trust set up to support and promote the sustainable development of the Arisaig community, in terms of education, environment, recreation, culture, employment and for all generations.

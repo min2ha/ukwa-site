@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of Surgeons Facebook
-
 None

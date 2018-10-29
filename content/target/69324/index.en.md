@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Forever Delayed
-
 Forever Delayed is a Manic Street Preachers Fansite.

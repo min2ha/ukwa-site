@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservative party is losing our support over Scotland, warns DUP
-
 None

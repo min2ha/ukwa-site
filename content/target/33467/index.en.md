@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Song Project, The
-
 The 1916 Song Project is a research and performance project devised and produced by Michael Fortune and Aileen Lambert. The project features ten traditional singers from throughout the island of Ireland who will research, compose and present a body of traditional songs based on the 1916 Easter Rising and the events surrounding it.

@@ -10,6 +10,4 @@
   "start_date": "2017-04-11T09:00:00Z"
 }
 
-# Tron Media
-
 Tron Media is a  subsplash platform developed for The Tron Church of Glasgow. The platform dellivers relevant media to its users, such as video and audio content. 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Vapers Forum
-
 An online enthusiast forum concerned with vaping. Discusses reviews, technical issues, tutorials and various other topics.

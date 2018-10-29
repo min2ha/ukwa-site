@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: EU referendum: UK proposals, legal impact of an exit and alternatives to membership
-
 Research briefing

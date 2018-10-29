@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Miserable Old Fart
-

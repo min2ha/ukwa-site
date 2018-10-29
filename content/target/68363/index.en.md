@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Strathcarron Brewery
-
 Site of a brewer located at Strathcarron, Highland.

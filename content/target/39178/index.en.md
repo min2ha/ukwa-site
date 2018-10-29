@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dr Victor Babu (@Bathula_Victor) on Twitter 
-
 Dr Victor Babu is the Liberal Democrat candidate for North Wales at the 2016 National Assembly Election and Clwyd West at the 2017 General Election.

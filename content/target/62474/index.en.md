@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NFM Learning (@NFM_learn) on Twitter
-
 This is the official Twitter account of the National Football Museum's Learning & Communities team. They tweet about education and engagement activities at the museum.

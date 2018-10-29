@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roddy Grant (roddygrant) on Twitter
-
 <p>The twitter profile of Roddy Grant, rugby player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

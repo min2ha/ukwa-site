@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Channel 4 News: Jon Snow: Election 2015: Political exuberance in Scotland, indecision and indifference elsewhere
-

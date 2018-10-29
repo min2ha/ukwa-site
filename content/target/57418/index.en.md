@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Ruth Mclees
-
 Ruth Mclees is a freelance artist specialising in contemporary figurative work and portraiture. 

@@ -10,6 +10,4 @@
   "start_date": "2018-03-21T09:00:00Z"
 }
 
-# Lodge Kildrummie 906
-
 Site of a masonic lodge located in Methven, Perth and Kinross and affiliated with the Grand Lodge of Scotland.

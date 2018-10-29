@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Institute for Health and Care Excellence (NICE)
-
 The National Institute for Health and Care Excellence (NICE) provides national guidance and advice to improve health and social care.

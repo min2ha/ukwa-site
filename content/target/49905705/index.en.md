@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Mind and Soul
-
 None

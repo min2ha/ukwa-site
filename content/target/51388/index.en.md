@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Portsmouth Historic Dockyard
-
 Situated within a working Naval Base, Portsmouth Historic Dockyard is home to a collection of attractions, historic ships and museums.

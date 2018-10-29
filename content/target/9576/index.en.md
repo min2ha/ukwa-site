@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Wales Green Party: A Green Wales for Europe
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Anwen Barry (@Anwen4Arfon) on Twitter (Conservative candidate for Arfon)
-

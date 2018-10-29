@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Election 2015: Ed Miliband RESIGNS saying 'It's all my fault we lost'
-
 None

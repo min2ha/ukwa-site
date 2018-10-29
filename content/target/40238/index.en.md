@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maybole
-
 Site of the local community of Maybole, Ayrshire, Scotland, providing local information, history and family history; includes community pages for Crosshill, Dailly, Dunure, Kirkmichael, Kirkoswald, and Maidens.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alexander Burnett on Facebook
-
 This is the Facebook page of Alexander Burnett, the Conservative Party candidate for West Aberdeenshire and Kincardine in the UK General Election on the 7th May 2015 and Aberdeenshire West in the 2016 Scottish Parliamentary election.

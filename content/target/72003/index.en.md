@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Hereford Cattle in Wales
-
 The Welsh Herefords website aim is to support the Hereford Cattle Society in their work, by highlighting the attributes of the breed and also providing a simple way of contacting the Hereford Breeders in Wales.

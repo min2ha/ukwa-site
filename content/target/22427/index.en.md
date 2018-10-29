@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: No decisions yet on benefit cuts, says Duncan Smith
-
 None

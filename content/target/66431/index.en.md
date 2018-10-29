@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Leiths (Scotland) Limited
-
 Leiths (Scotland) Limited is a Scotland-based manufacturer of concrete products. 

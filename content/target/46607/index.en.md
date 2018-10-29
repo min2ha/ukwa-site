@@ -10,6 +10,4 @@
   "start_date": "2016-10-29T10:00:00Z"
 }
 
-# Glaschu Beo
-
 A hub for the Gaelic community of Glasgow

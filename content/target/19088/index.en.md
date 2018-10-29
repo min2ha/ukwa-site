@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Get Surrey: Magna Carta legacy bid is back on
-

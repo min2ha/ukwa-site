@@ -10,8 +10,6 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Druid College UK
-
 Dedicated to Earth-centred spirituality, to the integrity of our natural home, and to the crafting of sacred relationship.
 
 

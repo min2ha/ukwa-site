@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Disability Benefits Consortium: Five Things You and Your Party Can Do for Disabled People
-
 The Disability Benefits Consortium (DBC) is a national coalition of over 60 different charities and other organisations committed to working towards a fair benefits system.

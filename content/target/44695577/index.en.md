@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Trade Unionist and Socialist Coalition (TUSC)
-
 Trade Unionist and Socialist Coalition (TUSC) is a socialist electoral alliance that originally launched in Britain for the 2010 General Election. The alliance has been characterised as left-wing by some elements of the media and hard left or far-left by others.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Memorabilia from the 1916 Easter Rising
-
 A website detailing memorabilia from the 1916 Easter Rising, its prelude and aftermath

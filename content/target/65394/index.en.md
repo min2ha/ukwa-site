@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Chepstow Male Voice Choir
-
 The Chepstow Male Voice Choir was founded in 1988 and rehearse at the Dell School Chepstow.

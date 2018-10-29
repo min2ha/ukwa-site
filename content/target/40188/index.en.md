@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Glasgow Film
-
 Site for the Glasgow Film Theatre and festival, screening international and Scottish films

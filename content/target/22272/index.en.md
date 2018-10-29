@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sandra Skinner (@sanskinner) on Twitter
-
 Twitter page of Sandra Skinner, UK Independence Party (UKIP) candidate for Aberdeen South in the 2015 UK General Election.

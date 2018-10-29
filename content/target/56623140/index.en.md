@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# Edinburgh Gadda Prize, The
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Budget 2015: George Osborne hands out sweeteners to rich and £30BILLION cuts to the poor 
-
 None

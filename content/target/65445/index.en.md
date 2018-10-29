@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Felicia Pennant (@FeliciaPennant) on Twitter
-
 Twitter account of Felicia Pennant, founder of season zine

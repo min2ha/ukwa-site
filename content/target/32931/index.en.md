@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Other Room Theatre, The
-
 Founded in 2014, The Other Room is Cardiff’s first pub theatre.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# John Mason MSP (JohnMasonMSP) on Twitter
-
 The twitter profile of John Mason, the Scottish National Party member of the Scottish Parliament for Glasgow Shettleston.

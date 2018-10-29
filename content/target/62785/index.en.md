@@ -10,6 +10,4 @@
   "start_date": "2018-03-17T09:00:00Z"
 }
 
-# Grosmont
-
 A community website for the village of Grosmont in Monmouthshire.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-07T10:00:00Z"
 }
 
-# Caithness Family History Society 
-
 Family history society

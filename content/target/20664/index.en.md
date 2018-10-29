@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Aberdeen SNP Westminster 2015 Campaign
-

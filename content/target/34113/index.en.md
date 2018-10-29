@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Remaining in the European Union will increase likelihood of Cologne-style sex attacks, warns Vote Leave boss
-

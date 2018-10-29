@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Involve Yorkshire & Humber: Doing Better Together: a Manifesto for the VCS in Yorkshire and the Humber
-
 Involve Yorkshire & Humber supported the voluntary and community sector (VCS) to create a strong society and fair communities, with opportunities for all, throughout Yorkshire and the Humber. It closed down on 30th November 2015.

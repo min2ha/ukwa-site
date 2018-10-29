@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# National Union of Mineworkers
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Carnegie Football (@CarnegieAFC) on Twitter
-
 Carnegie American Football Club play Flag and tackle Football in the BAFA National Leagues. Aged from 16 onwards all new members welcome (male and female).

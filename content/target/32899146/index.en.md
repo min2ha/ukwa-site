@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# North East Thames Area Meeting
-

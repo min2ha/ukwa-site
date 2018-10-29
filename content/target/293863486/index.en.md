@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Can Stop Smoking
-

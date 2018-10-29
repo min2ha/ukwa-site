@@ -10,5 +10,3 @@
   "start_date": "2007-01-11T00:00:00Z"
 }
 
-# Empty Homes Agency
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave Watch on Facebook
-
 Grassroots campaign holding #VoteLeave campaigners to account on the promises made in the #EUref. Exposing their #Brexit myths and untruths. 

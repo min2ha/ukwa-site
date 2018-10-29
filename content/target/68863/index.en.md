@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Donald Trump gives May's Brexit plan both barrels
-
 The government was clinging to the idea of trade deals with countries outside the EU as one of the benefits of Brexit, and claiming that the choice in the Chequers deal to stay close to the EU didn't exclude those opportunities. President Trump, with brutal frankness, pointed out that this was a fantasy.

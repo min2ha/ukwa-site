@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Association of Corporate Treasurers (ACT): Breifing note: Brexit 2016. 
-
 Chartered profressional body for treasury

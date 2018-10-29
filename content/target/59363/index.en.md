@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Jayda Fransen (@JaydaBF) on Twitter
-
 Jayda Fransen is the Deputy Leader of Britain First.

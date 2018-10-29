@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Towcestrians RFC (@TowcestriansRFC) on Twitter
-
 The official Twitter account of Towcestrians Rugby Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# UK Safari
-
 UK Safari is a website for anyone interested in the wildlife of the UK.

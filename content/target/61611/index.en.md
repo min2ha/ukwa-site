@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 22nd February 2018: Nuclear Safeguards Bill
-
 The Lords, sitting as a committee of the whole house, debate the implications of leaving Euratom

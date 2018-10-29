@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Brand-Rex Limited
-
 The website of Brand-Rex Limited, a company involved in the development, manufacture and supply of structured cabling systems for network infrastructure and industrial applications. The company was founded in 1972 and is headquartered in Glenrothes, Scotland, and since 2015 has operated as a subsidiary of Leviton Manufacturing Co. Inc.

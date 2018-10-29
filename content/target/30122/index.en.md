@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Royal Mòd 2015 (@RoyalMod2015) on Twitter
-
 Twitter profile of the 2015 Royal National Mòd. The Mòd is an annual, peripatetic festival of Gaelic language and culture, organised by An Comunn Gàidhealach since 1891.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Nestle Rowntree (York) RUFC on Pitchero
-
 The official website of Nestle Rowntree Rugby Union Football Club. 

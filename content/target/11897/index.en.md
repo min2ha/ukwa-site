@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sean McGoldrick (Sean1mc) on Twitter
-
 The twitter profile of althete Sean McGoldrick, boxer and member of Team Wales for the Glasgow 2014 Commonwealth Games.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Trace and Invest Wales
-
 This site is the 'inward investment' arm of the Welsh Government and provides information and support to businesses and industries wishing to pursue this option.

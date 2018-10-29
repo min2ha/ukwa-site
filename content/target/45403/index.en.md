@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# If Ryan Lochte misled us about armed robbery, how can we trust any man who says he is a victim of theft?
-
 An article comparing how men and women are treated differently in the media particularly when it comes to the false accusation of rape. This article uses the Ryan Lochte false claim of robbery at Rio 2016 as an example.

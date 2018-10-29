@@ -10,6 +10,4 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Corn Exchange Action Group (CEAG)
-
 The Corn Exchange public house is in Crickhowell. The Corn Exchange Action Group (CEAG) was set up to oppose turning the Corn Exchange public house into a nationally owned supermarket/convenience store.

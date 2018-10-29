@@ -10,5 +10,3 @@
   "start_date": "2006-09-29T00:00:00Z"
 }
 
-# Highland 2007 = Ghàidhealtachd 2007
-

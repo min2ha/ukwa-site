@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# South Wales Regional Aggregates Working Party (SWRAWP)
-
 The SWRAWP is a technical working group with membership drawn from officers of the 18 Mineral Planning Authorities, representatives of the Mineral Products Association, British Aggregates Association, Natural Resources Wales, Welsh Government, Communities and Local Government(CLG), Cuddy Demolition, British Geological Survey, Crown estate and RWEnpower.

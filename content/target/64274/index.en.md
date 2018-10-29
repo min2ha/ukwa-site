@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Kirk of Keith
-
 The website of the Kirk of Keith, encorporating St. Rufus Church, Botriphnie Kirk and Grange Kirk.

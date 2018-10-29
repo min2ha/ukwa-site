@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Arts For EU
-
 Group of visual artists of the UK campaigning for the UK to stay in the EU.

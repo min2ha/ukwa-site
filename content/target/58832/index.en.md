@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Roger Boore Teithlyfrau Cymraeg arloesol | Pioneering Welsh travel books
-
 Roger Boore is a travel writer from Wales and the founder of Gwasg y Dref Wen.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-01T10:00:00Z"
 }
 
-# Monica Lennon (@MonicaLennon7) on Twitter
-
 The Twitter profile of Richard Leonard, the Scottish Labour candidate for the Central Scotland list in the 2016 Scottish Parliament election.

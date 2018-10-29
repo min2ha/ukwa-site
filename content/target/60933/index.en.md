@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Church Porthcawl
-

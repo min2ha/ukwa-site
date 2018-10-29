@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Boys that went to War, The - Sussex Road School and the First World War
-
 Project enabling year 7 pupils from Chesswood Middle School to research the lives and family backgrounds of the 89 people who appear on the two war memorials at Sussex Road School.

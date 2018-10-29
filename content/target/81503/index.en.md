@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Panini Cheapskates (@CheapPanini) on Twitter
-
 The official Twitter account for hand drawn Panini Football Sticker style art for sale on Etsy, an online shopping platform.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May faces taunts at PMQs over Boris Johnson's 'crazy' jibe about her Brexit trade plans as she scrambles to find compromise that can unite Cabinet   
-

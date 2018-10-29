@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Our Vote 2015
-
 Our Vote 2015 is a temporary campaign website calling on the politicians running in the general election for a fair approach to migration. To celebrate rather than scapegoat migrants, and to oppose discriminatory policy in parliament.

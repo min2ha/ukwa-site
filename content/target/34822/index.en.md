@@ -10,5 +10,3 @@
   "start_date": "2018-02-20T09:00:00Z"
 }
 
-# Change.org: Petition · Scottish Government, Creative Scotland, and Scottish Enterprise: Support the development of Pentland Film Studios!
-

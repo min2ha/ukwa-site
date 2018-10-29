@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Townhill Baptist Church Swansea
-

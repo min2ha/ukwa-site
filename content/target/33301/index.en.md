@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# North Lochs Historical Society
-

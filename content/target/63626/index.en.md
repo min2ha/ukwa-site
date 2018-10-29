@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Alva Parish Church
-
 Site of a Church of Scotland parish church at Alva, Clackmannanshire.

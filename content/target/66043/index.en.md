@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: NI parties unite in EU border appeal
-
 Sinn Féin, the Green Party, Alliance and the SDLP have issued a joint statement saying that there should be no hard border on the island of Ireland or between Ireland and the UK.

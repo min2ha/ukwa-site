@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Faversham gets ready to celebrate its Magna Carta artefact
-

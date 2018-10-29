@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kirsten Muat (@kirstenRoseMuat) on Twitter
-
 Twitter profile of Kirsten Muat, Scottish Labour candidate for Gordon in the 2017 general election.

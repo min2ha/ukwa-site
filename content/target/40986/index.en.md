@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Tata Steel Port Talbot Rugby Football Club
-

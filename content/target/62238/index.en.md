@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Kenilworth Road Stadium
-
 Kenilworth Road is a football stadium in Luton, Bedfordshire, England. It has been home to Luton Town Football Club since 1905 when they left Dunstable Road. The ground has also hosted women's and youth international matches.

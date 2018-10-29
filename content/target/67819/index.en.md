@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Datchworth Sports Club
-
 Datchworth rugby club organises rugby for all ages with a thriving mini and youth section, 4 senior teams and vets rugby. 

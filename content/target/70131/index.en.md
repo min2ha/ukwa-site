@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John Bosco's Parish
-
 Site of a Scottish Roman Catholic parish church in Erskine, Renfrewshire.

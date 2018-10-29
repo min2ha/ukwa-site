@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Huw Irranca-Davies (@huw4ogmore) on Twitter (Labour candidate for Ogmore) 
-
 Huw Irranca-Davies is the Labour candidate for Ogmore at the 2016 National Assembly for Wales elections. 

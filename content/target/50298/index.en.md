@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# North Wales Lepidoptera
-
 This online database contains all available* butterfly and moth records from the six vice-counties of North Wales: Montgomeryshire, Merionethshire, Caernarvonshire, Denbighshire, Flintshire and Anglesey. 

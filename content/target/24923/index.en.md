@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shane O'Donnell (Cannabis Is Safer Than Alcohol)
-
 Shane O'Donnell stood as Cannabis Is Safer Than Alcohol candidate for Holborn & St Pancras at the 2015 General Election but was not elected.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: The claims that don't add up: JAMES SLACK analyses the Prime Minister's striking assertions - and the rebuttals of senior Tories and EU leaders    
-

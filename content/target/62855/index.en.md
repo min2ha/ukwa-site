@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester 1824, University of Manchester: Public invited to take part in national loneliness survey
-
 Web page displaying information regarding a National survey led by the BBC and The University of Manchester. The survey is being conducted online to explore the UK’s experiences of loneliness, and attitudes towards social connections and belonging. The results from the survey will increase understanding of people’s perceptions of loneliness and the way it is linked to health, internet use, and emotion processing across different ages and among different groups in society

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Will Danny Alexander lose his seat in May?
-
 None

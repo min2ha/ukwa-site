@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Magna Carta goes on display in St Albans for 800th anniversary
-

@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Performance Magazine
-
 Performance Magazine was published between 1979-1992. Rob La Frenais (founding editor 1979 – 1987) has collaborated with Live Art Development Agency (LADA) to develop this project – Performance Magazine Online. All sixty-six ISSUES of Performance Magazine have been digitised and are accessible on this site.

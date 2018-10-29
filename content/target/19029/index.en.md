@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Cartmel Priory: Cartmel Magna Carta 800
-

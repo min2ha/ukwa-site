@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Rory Duckhouse Artist | Writer
-
 Rory Duckhouse is an artist and writer based in Cardiff.

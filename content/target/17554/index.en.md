@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-#  Guardian, The: The Guardian view on the church and the election: talking sense
-
 None

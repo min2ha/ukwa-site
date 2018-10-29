@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# St. Andrews University Film Society
-
 Site of a film society based at the Univeristy of St. Andrews, Fife.

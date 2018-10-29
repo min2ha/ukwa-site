@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# West Coast Cinemas
-
 Site of an organisation running two cinemas, one in Greenock, one in Dunoon, on the West coast of Scotland.

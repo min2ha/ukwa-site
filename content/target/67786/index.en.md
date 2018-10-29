@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Glynneath Male Voice Choir
-
 Glynneath Male Voice Choir was established in 1962. They rehearse at Glynneath Rugby Club.

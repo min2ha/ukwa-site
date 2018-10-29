@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# LocalGov: Council leaders call for ‘swift’ safeguarding of EU citizens
-
 The leaders of three London councils wrote directly to the EU’s chief negotiator on Brexit, urging him to safeguard the rights of EU citizens living in the capital.

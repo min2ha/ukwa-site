@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Simon Elliston Ball
-

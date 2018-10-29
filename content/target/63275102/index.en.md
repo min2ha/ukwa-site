@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rio Tinto: London 2012
-

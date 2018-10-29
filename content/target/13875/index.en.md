@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Frank Roy MP for Motherwell and Wishaw
-
 <p>The website of Frank Roy, Labour Member of Parliament for Motherwell and Wishaw.</p>

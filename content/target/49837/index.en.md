@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ulster Fry, The: Liam Neeson urged to run for First Minister
-
 A satirical news site based in Northern Ireland.

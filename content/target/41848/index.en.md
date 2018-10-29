@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Ashfield District Council
-
 Website of Ashfield District Council offers information about council services, spending and finance, and policies and strategies. You can also read council committee reports and minutes.

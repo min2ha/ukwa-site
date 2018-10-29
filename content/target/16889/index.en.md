@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# ADS
-
 <p>ADS is a trade organisation advancing the UK aerospace, defence, security and space industries. Farnborough International Limited (FIL), which runs the Farnborough International Airshow, is a wholly-owned subsidiary.</p>

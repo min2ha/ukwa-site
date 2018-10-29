@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cwm Dulais Historical Society
-

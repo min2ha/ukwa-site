@@ -10,6 +10,4 @@
   "start_date": "2018-02-27T09:00:00Z"
 }
 
-# Lodge Burns Immortal 1730
-
 Site of a masonic lodge located in Hamilton, Lanarkshire and affiliated with the Grand Lodge of Scotland.

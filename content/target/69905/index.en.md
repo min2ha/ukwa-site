@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba's RC Church
-
 Site of a Scottish Roman Catholic parish church located in Edinburgh.

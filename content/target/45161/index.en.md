@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Reaction
-
 Pro-market commentary and analysis on politics, economics and culture, including Brexit.

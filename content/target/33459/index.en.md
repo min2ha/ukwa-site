@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Tiwtor, Y
-
 Y Tiwtor was an online magazine for Welsh learners published by the Welsh Joint Education Committee (WJEC).

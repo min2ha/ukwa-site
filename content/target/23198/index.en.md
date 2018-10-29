@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Normanby Local History Group
-
 The Normanby Local History Group is a non-profit making group who are interested in keeping the rich history of this small area in the North East of England alive for future generations to enjoy.

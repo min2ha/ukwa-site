@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sandra White MSP
-
 Sandra White is Scottish National Party member of the Scottish Parliament for Glasgow Kelvin.

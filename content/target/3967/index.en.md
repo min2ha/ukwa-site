@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Telegraph and Argus, The
-
 None

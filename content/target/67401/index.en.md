@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Tories’ chaotic Brexit has lost the trust of business – and jobs will go
-

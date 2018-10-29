@@ -10,6 +10,4 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Unique
-
 Unique has been a source of mutual support and self-help to families of children with a rare chromosome disorder since it was founded by Edna Knight MBE in the UK in 1984 as the Trisomy 9 Support Group.

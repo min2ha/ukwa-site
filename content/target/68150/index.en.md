@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# People's Vote UK (@peoplesvote_uk) on Twitter
-
 Pro-remain group campaigning for a referendum on the final Brexit deal negotiated by the government.

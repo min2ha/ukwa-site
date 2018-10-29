@@ -10,6 +10,4 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# Bizzibox Films
-
 Bizzibox Films is a small London company specialising in video production.

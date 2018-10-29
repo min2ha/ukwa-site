@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# CGI
-
 CGI is a global business with 65,000 professionals in 40 countries across the Americas, Asia-Pacific and Europe who provide end-to-end IT and business process.

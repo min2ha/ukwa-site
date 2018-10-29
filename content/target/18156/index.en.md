@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Jack Straw and Sir Malcolm Rifkind in latest 'cash for access' scandal 
-
 None

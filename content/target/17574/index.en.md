@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# British Lymphology Society (BLS)
-
 The British Lymphology Society (BLS) promotes awareness about lymphoedema to the public, health care professionals including awareness about patients who are ‘at risk’, and those with chronic oedema with lymphatic deficiency (COLD).

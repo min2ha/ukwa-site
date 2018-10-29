@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election photo highlights: tanks, secret plans and ice sculptures 
-
 None

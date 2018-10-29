@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Government, The [Beta]
-
 Beta site for Scottish Government information.

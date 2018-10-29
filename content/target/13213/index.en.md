@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# TheyWorkForYou
-
 TheyWorkForYou takes open data from the UK Parliament, and presents it in a way that’s easy to follow – for everyone.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Britain's 'huge green spaces' means immigration is NOT too high, says ex Labour minister
-
 None

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Radio Times: Stewart Lee's history of TV stand-up
-
 Stewart Lee writes in the Radio Times about the changing face of live comedy on television.

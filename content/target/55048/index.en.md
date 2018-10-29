@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Ross Pavilion International Design Competition
-
 Site of an architectural competition to redesign the Ross Pavilion located in Princes Street Gardens, Edinburgh.

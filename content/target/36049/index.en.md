@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# David Torrance MSP (@DavidHTorrance) on Twitter
-
 The Twitter profile of David Torrance, the Scottish National Party candidate for Kirkcaldy in the 2016 Scottish Parliament election.

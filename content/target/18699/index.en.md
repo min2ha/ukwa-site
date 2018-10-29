@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Economist, The: Great paper
-

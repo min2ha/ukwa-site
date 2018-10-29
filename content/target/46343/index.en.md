@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# HM Govt of Gibraltar (@GibraltarGov) on Twitter
-
 "In Glasgow at SNP conference Gibraltar's Deputy CM Dr Joseph Garcia & Scotland's First Minister Nicola Sturgeon."

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Ewenny Arts Festival
-
 <p>Ewenny Arts Festival is an international programme of music held at Ewenny Priory Church in the Vale of Glamorgan.</p>

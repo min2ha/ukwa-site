@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Effect of the EU Referendum on Gibraltar
-
 This is a selection of relevant material for the Westminster Hall debate on Wednesday 20 July 2016, between 9:30am and 11:00am. The Member who secured the debate is Jack Lopresti MP (Conservative, Filton and Bradley Stoke).

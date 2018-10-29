@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Edinburgh Folk Club
-
 Site of a traditional music club based in Edinburgh, Scotland, and focusing on live music from Scottish, UK and international traditional musicians.

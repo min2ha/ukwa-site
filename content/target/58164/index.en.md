@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Tweed Foundation
-
 Site of a Scottish charitable company which promotes environmental protection and improvement by conserving and enhancing all species of freshwater fish and their environments in the Tweed District, advances the understanding of aquatic ecosystems, including economic and social activity and river catchment management including the protection, conservation, rehabilitation and improvement of aquatic environments, and encourages the use, conservation and the management of fishery resources in recreational activities.

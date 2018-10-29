@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Cornwall Sustainable Energy Partnership
-
 None

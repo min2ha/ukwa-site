@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brora Rangers Football Club
-
 Site of a Scottish football club based in Brora, Highland, Scotland.

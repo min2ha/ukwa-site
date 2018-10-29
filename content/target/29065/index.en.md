@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Barrow & Furness Liberal Democrats
-
 Website of Barrow & Furness Liberal Democrats, providing information on representatives and candidates, events, campaigns and local and national news updates.

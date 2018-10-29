@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Spain would demand control of Gibraltar the 'very next day after Brexit' warns foreign minister as he sparks fresh row over The Rock   
-

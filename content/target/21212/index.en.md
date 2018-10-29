@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nathan Somerville (@yer_awizard) on Twitter
-
 Twitter profile of Nathan Somerville, the UK Independence Party (UKIP) candidate for Livingston in the 2015 UK General Election.

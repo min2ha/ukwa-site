@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Portree Parish Church
-
 Site of a Church of Scotland parish church at Portree, Isle of Skye, Highlands.

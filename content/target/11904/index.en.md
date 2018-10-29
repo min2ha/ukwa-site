@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Phoebe Richards (@phoeberich) on Twitter
-
 The twitter profile of althete Phoebe Richards, hockey player and member of Team Wales for the Glasgow 2014 Commonwealth Games.

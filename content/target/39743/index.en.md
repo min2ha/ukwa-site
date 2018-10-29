@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Home Front Dean - Life in the Forest of Dean during the First World War
-
 Project to launch an exhibition, educational activites and a commemoration event which will focus on the home front in the Forest of Dean during the First World War.

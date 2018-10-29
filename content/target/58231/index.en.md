@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Our minds can be hijacked': the tech insiders who fear a smartphone dystopia
-
 News article about Google, Twitter and Facebook workers who helped make technology so addictive who are now disconnecting themselves from the internet

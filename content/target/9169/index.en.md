@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Vote Yes for Scottish Independence on Facebook
-
 None

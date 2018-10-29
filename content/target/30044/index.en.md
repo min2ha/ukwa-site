@@ -10,5 +10,3 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Older People & Ageing Research & Development Network (OPAN Cymru) 
-

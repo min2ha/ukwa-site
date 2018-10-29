@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Headteachers unhappy with all parties’ education policies
-
 None

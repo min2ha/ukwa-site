@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hebden Bridge Web
-

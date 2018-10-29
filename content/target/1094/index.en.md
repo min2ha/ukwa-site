@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Fetal Anomaly Screening Programme
-
 None

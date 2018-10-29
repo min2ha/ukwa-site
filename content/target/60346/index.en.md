@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Lisa Spaull
-
 Lisa Spaull is an Independent Dance Artist based in North Wales.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scott Mann (Conservative Politician)
-
 Scott Mann stood as Conservative candidate for North Cornwall at the 2015 General Election and was elected to serve as MP. He then stood for re-election in 2017 and was re-elected.

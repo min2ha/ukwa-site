@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Poole Hospital
-
 None

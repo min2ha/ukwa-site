@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Cabinet leaks : not before time, the battle of Brexit
-

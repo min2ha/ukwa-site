@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UK Parliament: Referendum and independence. A select bibliography
-
 <p>Commons Library Standard Note</p>

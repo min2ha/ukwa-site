@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Comedy Blogedy
-
 Comedy Blogedy is a website about stand-up comedy, including interviews with comedians and thought pieces.

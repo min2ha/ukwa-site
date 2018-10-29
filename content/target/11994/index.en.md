@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: The European elections explained in 99 seconds - video animation
-
 None

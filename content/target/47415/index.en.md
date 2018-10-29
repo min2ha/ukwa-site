@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# AdventFest
-
 Site of an arts festival located in St. James the Less Scottish Episcopal Church in Leith, Edinburgh, and based around observation of the Christian season advent.

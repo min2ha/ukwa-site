@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dan Foley (@DanTM87) on Twitter
-
 The twitter profile of Dan Foley, RISE Alliance candidate for South Scotland.

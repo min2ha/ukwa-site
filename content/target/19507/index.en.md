@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Christ Church, University of Oxford: Magna Carta Anthem comes to Christ Church
-

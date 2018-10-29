@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: CBI chief: Industry sectors face Brexit extinction 
-
 The President of the CBI claimed that sections of British industry would be annihilated unless the UK stayed in the customs union after Brexit.

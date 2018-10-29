@@ -10,5 +10,3 @@
   "start_date": "2016-12-09T09:00:00Z"
 }
 
-# London Pembrokeshire Society | Cymdeithas Sir Benfro Llundain
-

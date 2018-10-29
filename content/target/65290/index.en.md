@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# Rannoch and Tummel
-
 Community site providing local news, leisure and general information for visitors to and residents of Kinloch Rannoch and Tummel, Perthshire.

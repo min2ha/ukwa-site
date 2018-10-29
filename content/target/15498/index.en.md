@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# British Medical Journal (BMJ), The: Ebola virus disease
-
 None

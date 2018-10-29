@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Croeso Teifi on Facebook
-
 Croeso Teifi is an organisation that sprang up in September 2016 to help bring Syrian refugees to safety in Cardigan town.

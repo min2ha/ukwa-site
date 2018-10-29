@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Ale House Rock Brewery on Facebook
-
 Facebook page of a brewer based in Peebles, Scottish Borders.

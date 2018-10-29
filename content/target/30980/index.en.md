@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Science Museum: Computing
-
 Computing page of the Science Museum, London.

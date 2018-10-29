@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Airgunforum
-
 An online enthusiast community concerned with airguns. Discusses technical aspects of airgun care, vintage airguns, air pistols, target shooting, airgun reviews and various other related topics.

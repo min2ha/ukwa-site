@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Tory manifesto - the cross-dressing goes on
-
 None

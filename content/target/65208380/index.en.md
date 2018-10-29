@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Get Together South Staffordshire
-

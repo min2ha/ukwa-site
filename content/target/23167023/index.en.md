@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tristan da Cunha Website, The
-
 This website is run jointly by the Tristan da Cunha Government and the Tristan da Cunha Association. It has news, facts and practical information about our island.

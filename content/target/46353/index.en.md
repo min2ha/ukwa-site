@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Colin McAllister (@McAllister1973) on Twitter
-

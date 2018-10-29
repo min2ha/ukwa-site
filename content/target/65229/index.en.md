@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Teresa Dillon
-
 Teresa Dillon is an artist and researcher, who writes, studies, performs and tell stories about technology, urban life and sound.

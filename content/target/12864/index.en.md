@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Duff House: Katy Dove Exhibition
-
 <p>A solo exhibition from Glasgow based artist Katy Dove at Duff House, Banff. Katy Dove's exhibition is a Generation event, a national programme of events featuring 100 international artists celebrating contemporary art in Scotland part of the Glasgow 2014 Cultural Programme.</p>

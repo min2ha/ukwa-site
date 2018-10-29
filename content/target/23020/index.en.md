@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Anwen Barry on Facebook (Conservative candidate for Arfon)
-

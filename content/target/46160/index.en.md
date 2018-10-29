@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Platt War Memorial Roll of Honour
-
 Comprehensive details about the fallen men and women from both world wars who lived in the Parish of St. Mary's Platt in Kent.

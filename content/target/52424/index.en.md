@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Mat Fraser
-
 Mat Fraser is an English rock musician, actor, writer and performance artist.

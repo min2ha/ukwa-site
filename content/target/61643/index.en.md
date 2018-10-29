@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Glasgow Men's Roller Derby on Facebook
-
 Facebook page for a skating roller derby team based in Glasgow.

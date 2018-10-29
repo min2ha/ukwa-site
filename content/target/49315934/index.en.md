@@ -10,5 +10,3 @@
   "start_date": "2010-06-07T00:00:00Z"
 }
 
-# Stand Up For Stockwell
-

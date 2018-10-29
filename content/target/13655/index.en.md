@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# SNmr: Stephen Noon Mr.
-
 <p>The personal blog of Stephen Noon, Chief Strategist for Yes Scotland.</p>

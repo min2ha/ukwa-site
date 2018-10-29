@@ -10,5 +10,3 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Welsh Field Archery Association
-

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Laura Anne Jones (@LauraJ4SWEast) on Twitter (Conservative candidate for South Wales East)
-
 Laura Ann Jones is the Conservative candidate for South Wales East at the 2016 National Assembly Elections.

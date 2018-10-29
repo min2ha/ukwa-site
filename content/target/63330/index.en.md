@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hamilton South and Quarter Parish Churches on Facebook
-
 Facebook page of two Church of Scotland parish churches located in Hamilton, Lanarkshire.

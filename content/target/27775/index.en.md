@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: David Cameron's thumbs up to Lincoln Magna Carta celebrations
-

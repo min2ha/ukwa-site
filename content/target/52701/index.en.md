@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nigel Bakhai (@NigelBakhai) on Twitter (Liberal Democrats Politician)
-
 Nigel Bakhai stood as Liberal Democrats candidate for Ealing Southall at the 2017 General Election but was not elected.

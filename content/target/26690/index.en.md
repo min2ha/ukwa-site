@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: We thought we could tweet our way to a socialist paradise. The election changed that
-
 None

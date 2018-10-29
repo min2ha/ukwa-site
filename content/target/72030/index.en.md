@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-#  BBC News: Owen Paterson's Brexit 'cockroach' jibe at May's Chequers plan
-
 At the 2018 Conservative Party conference, a former Conservative minister compared Theresa May's Brexit plan to a "ghastly cockroach" and vowed to vote against it in Parliament. Owen Paterson said the package agreed at Chequers in July would hamper the UK's ability to negotiate free trade deals with other countries.
 
 

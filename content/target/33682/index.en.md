@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU Referendum: David Cameron forced to let ministers campaign for Brexit after fears of a Cabinet resignation
-
 Newspaper

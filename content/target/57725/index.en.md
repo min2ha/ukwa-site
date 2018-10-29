@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Why it’s not too late to step back from the Brexit brink
-

@@ -10,6 +10,4 @@
   "start_date": "2017-08-08T09:00:00Z"
 }
 
-# CDC Group plc
-
 Supporting the building of businesses throughout Africa and South Asia, to create jobs and make a lasting difference to people’s lives in some of the world’s poorest places.

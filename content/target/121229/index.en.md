@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Froglife
-
 Froglife is a national wildlife charity committed to the conservation of amphibians and reptiles – frogs, toads, newts, snakes and lizards – and saving the habitats they depend on.

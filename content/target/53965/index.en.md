@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hoong-Wai Cheah in the UK (UKIP  Politician)
-
 Hoong-Wai Cheah stood as UK Independence Party (UKIP) candidate in the constituency of Lewisham West and Penge in the 2017 General Election but was not elected.

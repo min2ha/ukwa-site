@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Scottish Regional Association of the Handbell Ringers of Great Britain
-
 Site of an association dedicated to promoting the making of music with handbells, handchimes and belleplates throughout Scotland.

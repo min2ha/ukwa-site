@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Northwest London Quakers
-

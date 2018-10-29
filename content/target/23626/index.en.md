@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Wright (Liberal Democrat candidate for Norwich South)
-
 Simon Wright stood as Liberal Democrat candidate for Norwich South at the 2015 General Election but was not elected. 

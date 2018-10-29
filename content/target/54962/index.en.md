@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Carney and Hammond join forces on Brexit risk
-
 Mark Carney made the direct link between "weaker real income growth" and the process of leaving the European Union. Speaking alongside the governor, Philip Hammond said that no-one voted for Brexit to become poorer. He also made it clear that he wants to put the economy at the heart of the Brexit negotiations.

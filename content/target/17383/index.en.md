@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Press Association: General Election 2015
-
 The Press Association (PA) is the national news agency for the UK and Ireland and a leading multimedia content provider across web, mobile, broadcast and print. This is a sub domain of the main website they manage solely for elections.

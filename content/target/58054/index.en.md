@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Juncker rejects claim May begged for help at dinner meeting
-
 Jean-Claude Juncker rushed to salvage relations with Downing Street at a dangerous point in the Brexit negotiations by denying claims that the prime minister had begged for help at a recent private dinner, instead insisting she had been in “good shape” and “fighting”.

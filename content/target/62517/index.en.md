@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kelvinbridge Parish Church
-
 Site of a Church of Scotland parish church at Kelvinbridge, Glasgow.

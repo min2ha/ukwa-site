@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Moray Heritage Connections
-
 Visitor information and sources for genealogical research for the Moray area in Scotland. Moray Heritage Connections is a membership organisation that aims to promote the culture and heritage of Moray through its heritage centres and museums.

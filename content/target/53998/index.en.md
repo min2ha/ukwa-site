@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Support 4 the Family (UKIP)
-
 Support 4 the Family are members of UKIP, concerned about restoration of the family as the fundamental unit of society. They have a committee consisting of the officers, and supporters with various backgrounds and interests including many who signed up to a contact list at the UKIP National Conference in Doncaster in September 2015.

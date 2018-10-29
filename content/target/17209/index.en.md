@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Cameron defends decision to cut immigration from his six 'key themes' for general election
-
 None

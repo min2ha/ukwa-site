@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# TMuscle Bodybuilding & Muscle Forum
-
 An online enthusiast community forum concerned with bodybuilding. Discusses supplements & performance enhancing drugs, diet & nutrition, training and various other related topics. Includes sections of the forum for users to upload photos and videos.

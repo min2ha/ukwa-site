@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC, The (@BBC) on Twitter: Leading Lady Parts
-
 Status on the BBC Twitter account posting BBC produced short comedy, 'Leading Lady Parts' highlighting gender inequality and lack of diversity in the arts. References the #Metoo campaign. 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Richmond Road Baptist Church, Pontnewydd
-

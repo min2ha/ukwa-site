@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Libertine Blog, The: The EU Referendum - What happens if we lose? 
-
 Liberal Democrat blog 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Langholm, Eskdalemuir, Ewes and Westerkirk Parish Churches 
-
 Site of a group of Church of Scotland parish churches in Dumfries and Galloway.

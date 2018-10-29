@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Trump's Brexit comments spark backlash from MPs
-
 Donald Trump's criticism of Theresa May's Brexit strategy sparked a backlash from UK politicians - including some government ministers. Some Tories were furious at his "deeply insulting" remarks, but backbencher Jacob Rees-Mogg thought what he said was "perfectly reasonable".
 
 

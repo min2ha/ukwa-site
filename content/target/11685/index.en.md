@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Joe Welstead (JoeWelstead) on Twitter
-
 The twitter profile of althete Joe Welstead, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

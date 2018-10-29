@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Say Yes 2 Europe (@sayyes2europe) on Twitter
-
 Grassroots campaign to make the pro-EU voice heard in the UK and secure a decisive result in the Referendum in favour of the UK remaining in the EU.

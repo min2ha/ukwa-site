@@ -10,6 +10,4 @@
   "start_date": "2015-08-18T10:00:00Z"
 }
 
-# Le Monde (@lemondehotel) on Twitter
-
 Twitter profile of Le Monde Hotel in Edinburgh, a boutique hotel and Edinburgh Fringe Festival venue on George Street.

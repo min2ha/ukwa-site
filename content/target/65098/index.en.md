@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# gartocharn.org
-
 Community website for the area of Gartocharn, Loch Lomond, in West Dunbartonshire, with information about the Community Council, Community Trust, local amenities and services and tourist information.

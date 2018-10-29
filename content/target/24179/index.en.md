@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: "Good Heavens! I don't think he knows anything about science!" Stanley Johnson on son Jo’s promotion
-
 None

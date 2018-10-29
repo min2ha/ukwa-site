@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Jeremy Clarkson is in, Katie Hopkins is out – who’s said what so far on Europe?
-
 Guardian, The

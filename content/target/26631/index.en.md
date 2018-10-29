@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The marginal seats that swung the wrong way for Labour
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# British Computer Association of the Blind (BCAB)
-
 Established in 1969, BCAB was originally created to support computer professionals, they now promote and encourage the use of technology amongst all blind and partially sighted people.

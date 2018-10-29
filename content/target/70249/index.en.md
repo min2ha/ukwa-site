@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Northern Ireland's Footballing History
-
 The purpose of this website is to correlate various historical information in both text and media format of the Irish Football Association and it’s international teams i.e. Ireland and Northern Ireland.

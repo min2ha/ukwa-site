@@ -10,6 +10,4 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# Natural Mid Wales
-
 Natural Mid Wales is a tourist information site for local wildlife enthusiasts planning to stay in Mid Wales.

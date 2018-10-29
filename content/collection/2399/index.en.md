@@ -287,6 +287,4 @@
   "endDateText": ""
 }
 
-# Northern Ireland
-
 Collection of websites relating to Northern Ireland, a constituent country within the United Kingdom, lying in the northeast of the island of Ireland, intended to reflect a wide range of related issues such as economy, environment, culture, heritage and tourism. The collection is ongoing.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Neilston Juniors Football Club
-
 Fan site, therefore unofficial, for a Scottish junior football club based in Neilston, Renfrewshire.

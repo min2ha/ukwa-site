@@ -10,5 +10,3 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Anglesey Federation of Women's Institutes (AFWI)
-

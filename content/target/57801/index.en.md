@@ -10,6 +10,4 @@
   "start_date": "2017-10-14T09:00:00Z"
 }
 
-# Potters Gallery | Oriel y Crochenwyr
-
 Potters’ Gallery is in Conwy, North Wales and specialises exclusively in contemporary ceramics.

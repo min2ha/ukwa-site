@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hullensians RUFC (@HullensiansRUFC) on Twitter
-
 The official Twitter account of Hullensians Rugby Union Football Club. Established 1924.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Public Reading Rooms (PRR)
-
 PRR is a collective project, they aim to include those from across the left who share common goals while encouraging debate on strategy and tactics.

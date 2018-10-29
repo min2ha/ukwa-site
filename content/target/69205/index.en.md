@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Take Me Somewhere
-
 Glasgow’s new festival of contemporary performance, building on the legacy of the Arches arts venue following its closure in 2015

@@ -10,5 +10,3 @@
   "start_date": "2017-03-02T09:00:00Z"
 }
 
-# St Martins School, Caerphilly
-

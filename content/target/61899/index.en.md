@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# New Town Roller Girls
-
 Site of a skating roller derby team located in Livinston, West Lothian.

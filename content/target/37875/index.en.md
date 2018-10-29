@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Heritage of Chapmanslade and Surrounding Areas in World War I, The 
-
 This project will focus on the war memorials of Chapmanslade and surrounding areas.

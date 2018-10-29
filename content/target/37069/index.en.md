@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Financial Times, The: UK's EU Referendum 
-
 Website for The Financial Times newspaper

@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Helen 11 Nobby Project 
-
 Helen 11 Nobby vessel was built in 1910 and is 40' long built of an oak frame with pitch pine. Helen II, has now being restored by craftsmen, volunteers and students at Conwy Harbour in North Wales.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Alcohol Concern
-
 They work to reduce alcohol-related harm.

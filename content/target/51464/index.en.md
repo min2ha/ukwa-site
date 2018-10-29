@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Eight key points you need to know about the Brexit negotiations
-

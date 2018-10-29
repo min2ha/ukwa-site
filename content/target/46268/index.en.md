@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Welsh Affairs Committee
-

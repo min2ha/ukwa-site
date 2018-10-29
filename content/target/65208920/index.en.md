@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Roisin Tierney
-
 None

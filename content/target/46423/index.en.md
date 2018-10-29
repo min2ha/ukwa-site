@@ -10,6 +10,4 @@
   "start_date": "2016-10-22T11:00:00Z"
 }
 
-# Cor Meibion Ynysowen | Ynysowen Male Voice Choir
-
 Ynysowen Male Voice Choir was established in the wake of the Aberfan Disaster twith the intention of raising money for charity.

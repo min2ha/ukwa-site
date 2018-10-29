@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Black Country Society
-
 The Black Country Society was formed in 1967 to foster interest in the past, present and future of the Black Country.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Braintree Town F.C.
-
 Braintree Town Football Club is a semi-professional football club based in Braintree, Essex, England. They are currently members of the National League South, the sixth tier of English football, and play at Cressing Road.

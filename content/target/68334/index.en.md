@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bradford on Avon Rugby Club
-
 Thriving community rugby club, with an inclusive culture and strong values.

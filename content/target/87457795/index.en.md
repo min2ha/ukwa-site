@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Video Standards Council, The
-
 The Video Standards Council is an Administrator of the PEGI age rating system which is used in over 30 countries throughout Europe. 

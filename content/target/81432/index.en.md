@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Women's Trad Festival
-
 Website for the Women's Trad Festival.

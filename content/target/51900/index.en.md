@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Craigiebuckler Church
-
 Craigiebuckler Parish Church is one of the largest congregations in the Aberdeen Presbytery of the Church of Scotland.

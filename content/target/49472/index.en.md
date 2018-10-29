@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Menier Chocolate Factory, London
-
 The Menier Chocolate Factory has been a full time producing house since 2004, and comprises a theatre, restaurant, bar and rehearsal space. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: EU judges 'will STILL have the final say post-Brexit' on key battlegrounds including payments to Europe and rights of millions of migrants to stay in Britain
-

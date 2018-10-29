@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# YouGov UK: How British fictional characters might vote
-
 Article explaining the hypothetical voting preferences of British fictional characters in the EU referendum

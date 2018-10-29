@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Athanasius Church Carluke
-
 Site of a Scottish Roman Catholic parish church located in Carluke, Lanarkshire.

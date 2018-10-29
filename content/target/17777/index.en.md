@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Vince Cable: Cutting tuition fees would be populist and pointless
-
 None

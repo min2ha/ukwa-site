@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Twigg (@StephenTwigg) on Twitter (Labour Politician)
-
 Stephen Twigg stood as Labour Party candidate for Liverpool West Derby at the 2017 General Election and was elected. He was first elected for Liverpool, West Derby in 2010 and has held the seat ever since.

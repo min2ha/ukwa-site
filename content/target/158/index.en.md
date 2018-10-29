@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Devon Healthcare Trust
-
 None

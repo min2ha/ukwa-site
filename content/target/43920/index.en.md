@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Film Hub Scotland
-
 Site of the Scottish section of the British Film Institute's Film Audience Network set up to extend film choice, increase and broaden film audiences, and enhance opportunities for audiences to engage with and learn about film.

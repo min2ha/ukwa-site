@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Open Data Institute (ODI): UK general election: how data can and should inform our decisions
-
 Offers some sentences that the ODI would like to see in the party manifestos. In many cases they are based on the ideas they recently proposed in response to the UK Government’s industrial strategy green paper. They expect many of them to be applicable outside the UK.

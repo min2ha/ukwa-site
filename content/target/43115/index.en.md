@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-#  Stow & Fountainhall Community Web
-
 Site of the community of Stow and Fountainhall, Scottish Borders, providing information on the local area, amenities and the community council.

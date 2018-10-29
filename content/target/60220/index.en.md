@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War I Graves 
-
 As part of our Heritage Lottery funded WW1 project we have researched the lives of over 340 people who served in WW1 and are remembered in our cemetery. 

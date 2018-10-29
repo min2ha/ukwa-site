@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# First Division Association: FDA says "Now is the time to change the Government’s approach to public sector pay."
-
 The challenges of Brexit and existing Government priorities are pushing the service to its limits, while the senior civil servants work more hours for falling real-terms pay

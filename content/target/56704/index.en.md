@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Centenary Stitches WW1 Commemorative Knitting Project
-
 The WAG Screen knitting project, Centenary Stitches, has gathered over 300 volunteers, including expert knitters, designers and historians. This project explores women’s contribution to the war effort in the shape of their knitting. The ancient industry of creating yarn and textiles is often called a hidden history of women.

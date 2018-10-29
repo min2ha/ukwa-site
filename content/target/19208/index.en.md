@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Legal Cheek: Lib-Dem justice minister bombarded with flack for pompous Magna Carta tweet
-

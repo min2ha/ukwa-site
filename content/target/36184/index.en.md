@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Analysis, Opinion and Information on The Middle East & North Africa
-
 Pauline McNeill is the Scottish Labour candidate for the Glasgow list in the 2016 Scottish Parliament election.

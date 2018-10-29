@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Home Office: EU Settlement Scheme: employer toolkit
-
 The employer toolkit will equip employers with the right tools and information to support EU citizens and their families on the EU Settlement Scheme.
 

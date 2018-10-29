@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Let’s judge the EU by past experience, says Frederick Forsyth
-
 Column by Frederick Forsyth

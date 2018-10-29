@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Byron Davies (@Byron_Davies) on Twitter 
-
 Welsh Conservative Assembly Member for South Wales West and PPC for Gower. 

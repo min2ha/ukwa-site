@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Dost Centre for Young Refugees & Migrants
-
 The Dost Centre for Young Refugees & Migrants is part of Trinity Community Centre.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John B Stanyer (@StanyerB) on Twitter:
-
 John Stanyer stood as UKIP candidate for Penrith & The Border at the 2015 General Election but was not elected and stands as a list candidate for South Scotland region in the 2016 Scottish Parliamentary election.

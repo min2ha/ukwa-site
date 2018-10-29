@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Seebibyte
-
 Seebibyte: Visual Search for the Era of Big Data is a large research project based in the Department of Engineering Science, University of Oxford. It is funded by the EPSRC (Engineering and Physical Sciences Research Council), and will run from 2015 - 2020.

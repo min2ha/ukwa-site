@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: European Union (Notification of Withdrawal) Bill
-
 This House of Lords Library briefing provides information on the European Union (Notification of Withdrawal) Bill which was introduced in the House of Commons on 26 January 2017, following the Supreme Court judgment that legislation was required to authorise the triggering of Article 50.

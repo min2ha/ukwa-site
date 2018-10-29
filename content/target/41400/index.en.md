@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Spratton Parish Council
-
 This website is managed by the Parish Council for the benefit of the residents of the village of Spratton in Northamptonshire.

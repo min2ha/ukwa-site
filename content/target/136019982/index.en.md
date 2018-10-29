@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Derby City and NHS Derbyshire County
-
 None

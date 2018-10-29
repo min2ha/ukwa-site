@@ -10,6 +10,4 @@
   "start_date": "2015-11-23T09:00:00Z"
 }
 
-# Deconstructive Wasteland: the website of poet and critic Ben Wilkinson
-
 Website of a Sheffield based poet.

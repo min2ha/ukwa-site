@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Charley's War
-
 Over the last few years Moose Harris and John Freeman have maintained the semi-official Charley’s War web site, originally established by Neil Emery, which helped generate enough renewed interest in the World War One comic strip by Pat Mills and Joe Colquhoun to persuade Titan Books to reprint it.

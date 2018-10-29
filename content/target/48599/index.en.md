@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black Presence in Britain, The
-
 The Black Presence website was formerly the Black Presence in Britain, a history site about black British history.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lincolnshire Partnership NHS Foundation Trust
-
 None

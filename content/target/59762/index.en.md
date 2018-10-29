@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Parliament-House of Commons Library: Effect of social media on the mental health of young people
-
 House of Commons Library briefing for Mps debate on the effect of social media on the mental health of young people

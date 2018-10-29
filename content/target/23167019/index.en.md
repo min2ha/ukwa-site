@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Sea Spell Holiday Apartments
-
 None

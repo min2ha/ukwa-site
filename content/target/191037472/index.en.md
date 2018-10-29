@@ -11,8 +11,6 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Muslim Youth Helpline
-
 MYH is a national award winning charity that provides free and confidential faith and culturally sensitive support services targeted at vulnerable young people in the UK.
 
 MYH was founded in August 2001 by young people to respond to the social problems endured by Muslim youth in the UK.

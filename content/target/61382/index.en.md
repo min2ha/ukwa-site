@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Fontanka
-
 Fontanka a Russian and English-language publisher based in London which also works with museums, galleries and private collections, undertaking translation and collaborating with institutions and individuals on projects requiring a knowledge of the country and the language.

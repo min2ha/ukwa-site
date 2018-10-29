@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Let’s treat online abuse as a public health hazard 
-
 guardian article about social media bullying 

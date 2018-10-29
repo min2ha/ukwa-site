@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Michael Russell MSP | MSP for Argyll and Bute (SNP)
-
 Michael Russell is Scottish National Party member of the Scottish Parliament for Argyll and Bute and Professor of Scottish Culture & Governance, at the University of Glasgow.

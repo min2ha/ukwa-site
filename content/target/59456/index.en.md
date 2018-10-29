@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Vale Village Church, Vale of Glamorgan
-
 Vale Village Church, Wenvoe is a congregation of City Temple Church Cardiff and is an Elim Pentecostal church.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Neidpath Castle
-
 Site of an historic castle, hotel and events venue located near Peebles, Scottish Borders.

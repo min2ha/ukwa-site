@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Science of the Invisible
-

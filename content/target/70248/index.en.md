@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# A Wee Spot In Europe (@WeeSpotInEurope) on Twitter
-
 Tweeting the latest news on Northern Ireland's international football teams & players.

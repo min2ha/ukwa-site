@@ -10,6 +10,4 @@
   "start_date": "2006-03-13T00:00:00Z"
 }
 
-# Eco-Logica
-
 None

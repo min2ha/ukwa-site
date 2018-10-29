@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lynsey Sharp (@LynseySharp) on Twitter
-
 The official twitter account of 800m athlete, Lynsey Sharp.

@@ -10,5 +10,3 @@
   "start_date": "2015-07-25T10:00:00Z"
 }
 
-# Addysg Cymunedol Cymru | Community Learning Wales
-

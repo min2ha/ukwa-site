@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Pocahontas 2017 (Spotify)
-
  Spotify Page for the Pocahontas and After: Historical culture and transatlantic encounters, 1617-2017

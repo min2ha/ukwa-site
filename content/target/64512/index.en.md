@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Bancbwyd Ynys Môn | Anglesey Food Bank
-
 Anglesey Food Bank part of a nationwide network of foodbanks, supported by The Trussell Trust, working to combat poverty and hunger across the UK.

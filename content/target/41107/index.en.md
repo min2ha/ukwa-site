@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Dalkeith Country Park
-
 Site of a stately home and visitor attraction at Dalkeith, Midlothian, Scotland

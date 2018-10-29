@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Stand of Defiance European Movement (SODEM)
-
 SODEM demonstrates daily against Brexit outside the Houses of Parliament.

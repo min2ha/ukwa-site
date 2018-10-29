@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Michael Bogdanov
-
 Michael Bogdanov is a British theatre director known for his work with new plays, modern reinterpretations of Shakespeare, musicals and work for Young People and has worked with major theatre companies including the Royal Shakespeare Company.

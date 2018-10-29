@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Sub - Sahara Advisory Panel
-
 The Sub-Saharan Advisory Panel (SSAP) works across a range of international development themes and is run by Welsh Centre for International Affairs.

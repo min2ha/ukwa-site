@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Three million people work but are still poor. What are the Conservatives going to do for them?
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2014-04-09T00:00:00Z"
 }
 
-# Cymru Sofren | Sovereign Wales
-

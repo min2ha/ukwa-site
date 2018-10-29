@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Marlow Rugby Union Football Club
-

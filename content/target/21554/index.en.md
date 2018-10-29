@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Economic optimism is returning. Will the Conservatives get the credit?
-
 None

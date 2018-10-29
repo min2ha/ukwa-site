@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Love2Walk
-
 Love2Walk aims to encourage local people and visitors alike to get out and about, walking and exploring the stunning scenery of the Bridgend Valleys to the coastline.

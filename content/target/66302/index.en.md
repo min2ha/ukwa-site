@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Long Distance Walkers Association
-
 An association of people with the common interest of walking long distances in rural, mountainous or moorland areas

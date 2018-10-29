@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alan Stone UKIP (@alan_h_stone) on Twitter (UKIP Politician)
-
 Alan Stone stood as the UK Independace Party (UKIP) candidate for Basingstoke at the 2017 General Election but was not elected.

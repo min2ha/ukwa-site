@@ -11,6 +11,4 @@
   "subject": "Celtic Studies"
 }
 
-# Gorseth Kernow
-
 None

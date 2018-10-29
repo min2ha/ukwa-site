@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Aberystwyth University Art Collections
-
 This blog provides a hub for news, events, writing and images relating to the School of Art Gallery and Museum at Aberystwyth University. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Supporters' Federation (FSF)
-
 The Football Supporters’ Federation (FSF) is the democratic organisation representing the rights of fans and arguing the views of football supporters in England and Wales. 

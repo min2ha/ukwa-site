@@ -10,5 +10,3 @@
   "start_date": "2014-09-23T00:00:00Z"
 }
 
-# Y Rhyfel Byd a'r Cymoedd | The Great War and the Valleys
-

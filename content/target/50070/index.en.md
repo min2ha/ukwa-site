@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Duckpool Road Baptist Church
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Asian Lite News: Voters should pay attention to the opinions of Mark Carney in the Eu Referendum debate
-
 Discussion of Carney's logical consideration on financial affects: Carney told the Treasury Committee last week that an EU exit is “the biggest domestic risk to financial stability.” He went on to say that firms in the City would “without question” cut back on business activity and that “in the shorter term the transition could bring some challenges to financial stability.”

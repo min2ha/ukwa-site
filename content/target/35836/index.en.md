@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Revealed: Two thirds of British voters are Eurosceptics – but they aren't convinced we should leave
-

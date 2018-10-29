@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: UK agriculture policy
-
 Briefing summarises the emerging policy for support of farming in England after Brexit.

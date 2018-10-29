@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Francis RFC (@StFrancisRFC) on Twitter
-
 The official Twitter account of St Francis Rugby Football Club.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Theresa May slaps down Boris Johnson after he lashes her 'dithering' Brexit strategy in a fiery Commons resignation speech - saying she won't even bother watching it
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Tech Digest
-
 Tech Digest - the UK and Europe's leading blog for consumer tech news, reviews and opinion

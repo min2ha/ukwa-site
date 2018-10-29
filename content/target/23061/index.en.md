@@ -10,6 +10,4 @@
   "start_date": "2017-05-27T09:00:00Z"
 }
 
-# Piers Wauchope (@PiersUKIP) on Twitter (UKIP candidate for Dover)
-
 Piers Wauchope stood as UK Independence Party (UKIP) candidate for North Thanet in 2015 and Dover in the 2017 General Election and was not successful in neither.

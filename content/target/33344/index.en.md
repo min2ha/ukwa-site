@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Margaret  Stewart
-
 Margaret Stewart is a Gaelic singer from the Isle of Lewis in the Outer Hebrides.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-04T10:00:00Z"
 }
 
-# Dilys Jackson
-
 Dilys Jackson is a sculptress from Wales.

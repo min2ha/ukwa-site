@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# Papworth Trust
-
 None

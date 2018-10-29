@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lesmahagow Old Parish Church and Coalburn Parish Church
-
 The website of the linked congregations of Lesmahagow Old Parish Church and Coalburn Parish Church.

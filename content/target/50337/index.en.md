@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church at Castle
-
 We are a family of Community-serving Churches: St. Augustine’s Church, Richmond Rd, St. Giles’ Church, Castle Hill and St. Luke’s Church, Victoria Road. All are based around Castle Hill and serve the residents of Castle Ward – and beyond (north of the river, as far as Gilbert Road, West Road, Histon Road and Madingley Road, beyond the M11).

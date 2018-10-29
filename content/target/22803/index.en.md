@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jon Ashworth (@JonAshworth) on Twitter (Labour  Politician)
-
 Jon Ashworth stood as labour candidate for Leicester South at the 2017 General Election and was elected to serve as MP. He was first elected to serve in 2015 for the same seat.

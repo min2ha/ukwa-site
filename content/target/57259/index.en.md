@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Celfwaith | Public Art in Wales 
-
 Celfwaith is a public art consultancy working with craftspeople, designers and artists to animate and enhance our public realm. They are involved in many public projects across Wales.

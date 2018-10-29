@@ -10,6 +10,4 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# Dai David Fine Artist
-
 Dai David is a fine artist from south Wales. His work is centred on the representation of Nature, Space and Light. 

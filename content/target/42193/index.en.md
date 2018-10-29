@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The Blue Anchor Blog
-
 Blog by Brighton based musician and aritist, including many posts relating to the Brexit debate

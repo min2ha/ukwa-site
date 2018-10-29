@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wick Curiosity Shop 
-
 None

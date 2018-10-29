@@ -10,6 +10,4 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Gwyl Ffilm Plant a Phobl Ifanc | Film Festival for Children and Young People (PICS)
-
 PICS is an annual Film Festival for Children and Young People organised and hosted at Galeri, Caernarfon.

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Trade Union Congress (TUC): Challenging racism after the EU referendum
-
 The immediate aftermath of the referendum on the UK’s membership of the European
 Union has seen a dramatic upsurge in reports of racist abuse and hate crime directed at
 EU and other migrants and British BME communities. This paper sets out what government and employers can and should do now to tackle

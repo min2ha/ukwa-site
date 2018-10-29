@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Eurosceptic Cabinet minister hits out at David Cameron's 'Project Fear' referendum scare tactics
-

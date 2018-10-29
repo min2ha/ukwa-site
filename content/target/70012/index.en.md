@@ -10,7 +10,5 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Paul Eastwood
-
 Paul Eastwood is from Wrexham and previously studied at Wimbledon School of Art.
 He is is interested in archaeological finds, decayed objects and ruins and concerned with displaced fragments and how they take on new meanings.

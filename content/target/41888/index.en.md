@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Rushcliffe Borough Council
-
 Website of Rushcliffe Borough Council provides information on council services, news, consultations, planning policy, committee papers, and budget and finance.

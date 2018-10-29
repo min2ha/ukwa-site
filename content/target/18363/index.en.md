@@ -10,6 +10,4 @@
   "start_date": "2015-03-21T09:00:00Z"
 }
 
-# International Association of Entertainment Lawyers (IAEL)
-
 The International Association of Entertainment Lawyers (IAEL) provides a specialist, international forum for the sharing of knowledge and experience of legal and commercial issues of interest and concern to its members. IAEL members are all lawyers, either in private practice or industry, whose areas of expertise cover nearly every aspect of entertainment law.

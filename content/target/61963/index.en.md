@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Durham Women's F.C.
-
 Durham Women F.C. is a women's football club based in Durham, North East England. They play their home games at New Ferens Park, Belmont. The team was founded in 2013 as a collaboration between South Durham and Cestria Girls and Durham University

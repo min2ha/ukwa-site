@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Young Minds (@youngmindsuk) on Instagram
-
 An instagram account tackling mental health

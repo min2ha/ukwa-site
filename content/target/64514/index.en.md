@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Project 2020 cic
-
 Project 2020 is a not-for-profit organisation based in Cardiff and work across Wales and England developing innovative community projects.

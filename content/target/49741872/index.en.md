@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# IT is English Blog
-
 None

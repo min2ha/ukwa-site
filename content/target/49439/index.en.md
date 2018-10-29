@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Wine Society, The
-
 The Wine Society, or The International Exhibition Co-operative Wine Society to give it its full name, was established in London in 1874. The Society operates as a co-operative and aims to buy wines direct from growers and to offer them to members at fair prices. In 1965 the Society moved to premises in Stevenage, where all The Society's operations have since been concentrated.

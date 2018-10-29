@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brian Smith on Facebook
-
 This is the Facebook page of Brian Smith, the Trade Unionist and Socialist Coalition candidate for Glasgow South in the UK General Election on the 7th May 2015.

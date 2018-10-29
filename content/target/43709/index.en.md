@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Pulsar Poetry
-
 Quarterly poetry web-zine. Successor of print edition which was last published in 2009.

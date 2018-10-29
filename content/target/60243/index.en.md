@@ -10,6 +10,4 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Ynysfach Ironworks
-
 The investigations at Merthyr Tydfil College, on the site of the former Ynysfach Ironworks, was undertaken by Archaeologists from the Glamorgan-Gwent Archaeological Trust between 2011 and 2012. They excavated and recorded structures belonging to the former ironworks, which had survived unexpectedly well, buried underneath the college buildings. This website is an interpretation of the site.

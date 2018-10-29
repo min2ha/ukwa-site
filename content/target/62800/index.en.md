@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Wonder Women: Pioneering Women of the University of Manchester and Manchester Museum
-
 A website focused on the pioneering women of the University of Manchester and Manchester Museum.

@@ -10,5 +10,3 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Cyngor Cymuned Llanfihangel Aberbythych | Aberbythych Community Council
-

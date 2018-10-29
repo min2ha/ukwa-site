@@ -10,6 +10,4 @@
   "start_date": "2018-08-18T09:00:00Z"
 }
 
-# Barron Knights
-
 The Barron Knights are the only group to have toured with the Beatles and the Rolling Stones.

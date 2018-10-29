@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# True North Festival
-
 Urban music festival

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Foundation (@FootballFoundtn) on Twitter
-
 A UK sports charity which channels funding from the Premier League, FA and DCMS, via Sport England, into grassroots sport in England. This is their official Twitter account.

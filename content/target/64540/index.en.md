@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# West Mercia Women's Aid
-
 Women's Aid grew out of the women's movement of the late 1960s and early 70s, when the issue of violence in the home became highlighted.

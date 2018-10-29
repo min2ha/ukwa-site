@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Forward in Faith Scotland
-
 Site within the Scottish Episcopal tradition in Scotland that promotes and encourages the orthodox practices and doctrines of the universal Christian Church following the decision of the Anglican Communion to allow the ordination of women.

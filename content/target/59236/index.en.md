@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Llandyfaelog Show
-
 Llandyfaelog Show website features information about Llandyfaelog's annual Agricultural and Horticultural Show.

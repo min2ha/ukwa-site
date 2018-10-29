@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Association of British Counties, The (ABC)
-
 The Association of British Counties (ABC) is a society dedicated to promoting awareness of the continuing importance of the 92 historic (or traditional) counties of the United Kingdom.

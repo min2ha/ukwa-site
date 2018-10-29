@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: Magna Carta: public commemoration, celebration and meaning, 1215-2015
-

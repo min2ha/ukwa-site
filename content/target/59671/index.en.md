@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Civilian Aviation.co.uk
-
 An online enthusiast community concerned with civil aviation. Discusses civil aviation rules & regulations, civil aviation photography, the civil aviation community, airfields and airports, flight simulators & modelling and various related topics. Some areas of the forum are restricted to forum members.

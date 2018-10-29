@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stuart Benson Bobsleigh on Twitter
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lucy Care (Liberal Democrats Politician)
-
 Lucy Care stood as Liberal Democrats candidate for Derby North in the 2017 General Election but was not elected.

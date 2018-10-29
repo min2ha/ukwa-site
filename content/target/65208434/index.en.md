@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# STEM4
-
 None

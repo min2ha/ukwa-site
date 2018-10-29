@@ -10,6 +10,4 @@
   "start_date": "2016-09-28T10:00:00Z"
 }
 
-# Alec Finlay
-
 The blog of the poet Alec Finlay.

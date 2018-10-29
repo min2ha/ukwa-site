@@ -10,8 +10,6 @@
   "start_date": "2010-07-27T00:00:00Z"
 }
 
-# Iritis uveitis (iritis.com)
-
 Home page has title 'iritis.com',
  displays in address bar as 'Iritis uveitis'
  has URL 'iritis.co.uk'

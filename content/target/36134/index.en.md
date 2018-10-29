@@ -10,5 +10,3 @@
   "start_date": "2016-02-29T09:00:00Z"
 }
 
-# Central Station
-

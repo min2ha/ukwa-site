@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Essex Liberal Democrats
-
 Website of Essex Liberal Democrats, providing news and updates on local and national issues, policies and campaigns.

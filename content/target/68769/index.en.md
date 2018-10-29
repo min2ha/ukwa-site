@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Stonewall Impact
-
 Overview of Stonewall's finances and operations

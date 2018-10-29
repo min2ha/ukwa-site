@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hackney Labour
-
 Website of Hackney Labour, providing information on representatives, candidates, campaigns, local, national and party news.

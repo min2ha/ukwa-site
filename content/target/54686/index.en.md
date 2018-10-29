@@ -10,5 +10,3 @@
   "start_date": "2017-06-12T15:38:00Z"
 }
 
-# Sun, The: What YOU post and ‘like’ on Facebook ‘reveals if you’re at risk of depression and schizophrenia
-

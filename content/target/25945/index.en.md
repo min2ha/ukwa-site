@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: From Grayson Perry to Kirstie Allsopp, meet our 2015 election panel
-
 None

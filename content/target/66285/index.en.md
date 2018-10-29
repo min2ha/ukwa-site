@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sir Arthur Conan Doyle Centre
-
 Site of an organisaiton formed to provide for the physical, emotional and spiritual well-being of society and community needs in Edinburgh, oncorporating The Edinburgh Association of Spiritualists.

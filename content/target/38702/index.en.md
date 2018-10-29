@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# National Council for Voluntary Organisations (NCVO): NCVO discussion paper explores implications of EU membership for charities 
-

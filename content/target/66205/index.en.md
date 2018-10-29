@@ -10,5 +10,3 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Australian Welsh Male Choir | Côr Meibion Cymreig Awstralia
-

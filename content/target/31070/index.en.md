@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Prison Me No Way (Jersey)
-
 The aim of ‘Prison! Me! No Way!!! Jersey’ is to raise the awareness of young people in the Island about the causes, consequences and penalties of crime, by using a non threatening and non lecturing style of education.

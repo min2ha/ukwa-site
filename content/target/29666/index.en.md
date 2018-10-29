@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Asian Literature Festival
-
 South Asian Literature Festival

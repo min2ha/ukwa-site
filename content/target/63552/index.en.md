@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirk of Calder
-
 The website of the Kirk of Calder; the Church of Scotland Parish Church serving the communities of Mid Calder and Pumpherston.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home:  A customs union 1) Greg Hands – As a former Remainer, and an ex-Trade Minister, I know that joining one would deliver Britain the worst of all worlds
-
 There are at least three principled arguments against being in a customs union with the EU. First, the only other country which does this, Turkey, shows the huge disadvantage. Second, that the UK would no longer have an independent trade policy, including the ability to have its own trade defences. Third, that being in a customs union could mean surrendering some aspects of the control of our NHS and other public services to the European Union, whilst having no voice.

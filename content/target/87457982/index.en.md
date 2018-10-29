@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Association of Police and Crime Commissioners (APCC)
-
 None

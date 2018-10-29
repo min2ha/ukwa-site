@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories may not reveal details of £12bn welfare cuts until after election
-
 None

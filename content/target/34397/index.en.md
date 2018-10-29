@@ -10,5 +10,3 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Menter Ysgolion Y Dreftadaeth Gymreig | Welsh Heritage Schools Initiative, The
-

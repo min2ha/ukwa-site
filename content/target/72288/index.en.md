@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: BARNIER'S BOOST EU negotiator Michel Barnier signals Brexit breakthrough is ‘very close’ after fresh compromise from Britain
-
 Reports that the deadlock in the Brexit negotiations was about to be broken as Theresa May prepared to cave into Brussels demands by agreeing that the whole of the UK would remain in a customs union to avoid a hard border between Northern Ireland and the Republic

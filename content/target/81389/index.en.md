@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Holy Sepulchre London
-
 Holy Sepulchre is a vibrant Anglican church in the City of London, with a vision of ‘Living for God in the heart of the City’.

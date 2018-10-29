@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon proves that when you’re hot, you’re hot
-
 None

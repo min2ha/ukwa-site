@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: George Osborne rejects Lib Dem 'child benefit cut' claim
-
 None

@@ -11,5 +11,3 @@
   "subject": "19th Century English Literature"
 }
 
-# McGonagall online
-

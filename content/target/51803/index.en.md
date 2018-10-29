@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Parish of St Thomas of Hereford, Weobly with St Bede the Venerable, Kington within the Roman Catholic Archdiocese of Cardiff
-

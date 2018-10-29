@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Former Tory candidate tells Sheffield Hallam to vote Clegg
-
 None

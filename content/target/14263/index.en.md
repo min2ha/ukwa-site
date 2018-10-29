@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Labour: Powers for a Purpose. Strengthening Accountability and Empowering People
-
 <p>Final report of Scottish Labour's Devolution Commission, dated March 2014. This was submitted in October 2014 to the Smith Commission on the future of devolution of powers to Scotland.</p>

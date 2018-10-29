@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: UK general election: is it illegal to take a slefie in a voting booth - and why is the TV coverage so boring?
-
 None

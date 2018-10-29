@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Digipal
-
 DigiPal is a new resource for the study of medieval handwriting, particularly that produced in England during the years 1000–1100, the time of Æthelred, Cnut and William the Conqueror. It is designed to allow you to see samples of handwriting from the period and to compare them with each other quickly and easily. Funded by the European Union Seventh Framework Programme (FP7), it is based at the Department of Digital Humanities at King's College London.

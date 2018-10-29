@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta 800th
-
 The official website of the Magna Carta Trust's 800th anniversary commemorations of Magna Carta and the most extensive website co-ordinating and promoting the many hundreds of events and activities taking place to celebrate Magna Carta in 2015.

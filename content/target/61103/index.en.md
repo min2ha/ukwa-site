@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dick, Kerr Ladies FC 1917-1965: Women's Football History
-
 Website of Gail Newsham presenting information about Dick, Kerr Ladies FC, "the most successful team in the history of women's football".

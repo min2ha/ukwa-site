@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Edinburgh Academical Football Club
-
 Site of a Scottish rugby union football club based in Stockbridge, Edinburgh and associated with the Edinburgh Academy independent school.

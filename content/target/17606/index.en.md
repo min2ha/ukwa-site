@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ukip candidate wonders "what happens when renewable energy runs out?" 
-
 None

@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# St Andrews Great Ryburgh: World War 1 Commemorations 
-

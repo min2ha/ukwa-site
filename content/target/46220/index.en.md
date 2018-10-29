@@ -10,6 +10,4 @@
   "start_date": "2016-10-14T10:00:00Z"
 }
 
-# Athrofa Padarn Saint | Saint Padarn's Institute
-
 St Padarn's delivers theological education and trainingand ministry development in the Church in Wales.

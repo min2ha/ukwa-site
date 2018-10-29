@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Rhys Tranter
-
 Rhys Tranter is a writer and academic based in Wales. He writes criticism across the arts, and specialise in twentieth-century and contemporary literature. 

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Corpws Hanesyddol yr Iaith Gymraeg 1500-1850 | Historical Corpus of the Welsh Language 1500-1850, A
-
 The Historical Corpus of the Welsh Language 1500-1850 is a collection of Welsh texts from the period 1500-1850 in an electronic format. It is the result of a project to encode Welsh texts of the period funded by the Arts and Humanities Research Board and was based in the Department of Linguistics at the University of Cambridge between 2001 and 2004. 

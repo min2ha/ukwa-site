@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Udny and Pitmedden Parish Church
-
 Site of a Church of Scotland parish church at Udny Green, Ellon, Aberdeenshire, also incorporating the parish of Pitmedden.

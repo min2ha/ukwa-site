@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Craven's Part in the Great War - A Legacy for the Future
-
 A stand-alone digital project that aims to re-engineer a community heritage website that is at risk of becoming redundant and inaccessible.

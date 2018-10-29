@@ -10,6 +10,4 @@
   "start_date": "2018-05-08T09:00:00Z"
 }
 
-# Near Future Teaching
-
 The Near Future Training project aims "to design the future of digital education at [the University of] Edinburgh".

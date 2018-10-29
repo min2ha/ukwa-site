@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Honourable Society of the Middle Temple, The: Brexit
-
 These links provide members with a guide to relevant information regarding the UK’s referendum and Brexit from various sources. 

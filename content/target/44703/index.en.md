@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# European Movement Northern Ireland
-
   The European Movement Northern Ireland is a not-for-profit, independent, all party and grass roots organization and is part of European Movement International.

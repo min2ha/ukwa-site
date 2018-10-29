@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Johnstone Football Club
-
 Site of a senior professional football club based in Perth, Scotland.

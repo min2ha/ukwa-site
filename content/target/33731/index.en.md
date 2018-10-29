@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Stuart Rose on the EU referendum: 'The sooner we get it done, the better'
-

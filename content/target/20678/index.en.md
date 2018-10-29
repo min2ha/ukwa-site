@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Matthew Williams - UKIP for Airdrie & Shotts
-

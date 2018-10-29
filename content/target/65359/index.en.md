@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirkwall East linked with Shapinsay on Facebook
-
 Facebook page of a Church of Scotland parish church at Kirkwall, Orkney.

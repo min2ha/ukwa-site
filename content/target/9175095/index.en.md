@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Sinclair C5 - The Site for Sinclair C5 Enthusiasts Worldwide
-
 None

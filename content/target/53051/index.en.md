@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Stuart Tuckwood (Green Party Politician)
-
 Stuart Tuckwood stood for Green Party candidate for Cambridge in the 2017 General Election but was not elected.

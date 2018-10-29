@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Henry Taylor Wyse
-
 Wordpress site dedicated to the life, art and pottery of Henry Taylor Wyse.

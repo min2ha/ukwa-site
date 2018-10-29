@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Fiona Wright
-
 Fiona Wright (b. London 1966) is an independent artist currently based in Newcastle upon Tyne, England. She has been making performances since the late 1980s and is best known for her solo projects, working through writing, choreography and installation.

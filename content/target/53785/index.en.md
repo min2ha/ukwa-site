@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Steve Barclay (@SteveBarclay) on Twitter (Conservative Politician)
-
 Steve Barclay stood as Conservative candidate for North East Cambridgeshire at the 2017 General Election and was elected. He was first elected in 2010 and has held the seat ever since.

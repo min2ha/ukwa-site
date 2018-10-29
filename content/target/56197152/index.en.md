@@ -11,6 +11,4 @@
   "subject": "Free e-Journals"
 }
 
-# Oxford Medical School Gazette (OMSG)
-
 None

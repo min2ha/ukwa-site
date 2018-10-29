@@ -10,6 +10,4 @@
   "start_date": "2017-09-28T09:00:00Z"
 }
 
-# Natasha Brooks: my explorations into communication and understanding.
-
 Natasha Brooks is a film maker and visual artist based on Anglesey. She has received awards including the BMC Women In Adventure Film award and the BMC Peoples choice award 2015. Her film BlueHue has toured over 40 countries world wide with the BANFF World Tour. This is her blog.

@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# Youth Work Wales | Gwaith Ieuenctid Cymru
-
 youthworkwales is supported by the YMCA Wales Community College and University of Wales Trinity Saint David and provides youth workers in Wales with a range of historical and current information on youth work.

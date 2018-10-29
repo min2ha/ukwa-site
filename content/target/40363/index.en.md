@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Representing Communities
-
 According to the site, Representing Communities 'explores how community representations produced through creative arts practices can be used as forms of evidence or knowledge to inform health-related policy and service development as well as social action'. Areas participated in the project include: North Merthyr (Post-industrial) Butetown, Cardiff (African-Caribbean Diaspora) Hodge Hill, Birmingham (Pakistani-Asian Diaspora) Dennistoun, Glasgow  (Inner-city) Cromarty, the Black Isle peninsula (Deep rural). The Project is funded by the Arts & Humanities Research Council (AHRC) and managed by Cardiff Institute of Society, Health and Wellbeing, Cardiff University.

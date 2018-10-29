@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Spirit of 45: Glasgow after the referendum: Our Kingdom
-
 None

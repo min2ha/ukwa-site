@@ -10,6 +10,4 @@
   "start_date": "2018-01-16T09:00:00Z"
 }
 
-# Digital Stuff Cardiff
-
 The Digital Stuff Cardiff research group regularly meets at Cardiff University, the group comprises of a number of academics from a range of disciplines including the Social Sciences and Computer Science.

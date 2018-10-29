@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Surrey County Council: Magna Carta: Freedom under Law (31 January - 31 December)
-

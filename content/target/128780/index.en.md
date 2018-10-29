@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# Ulster American Folk Park
-

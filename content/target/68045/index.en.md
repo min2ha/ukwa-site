@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Scottish Craft Beer Clan
-
 Site of a group marketing independent, craft beer brewers and distillers based in Scotland.

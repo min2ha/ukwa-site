@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Association of Colleges: Briefing. The EU referendum and colleges
-

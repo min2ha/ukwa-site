@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Business for Britain: The European Union is falling apart: why is getting out the risky option?
-
 A commentary on the risks and uncertanities of remaining in the EU

@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# Naitbabies
-
 Naitbabies are a non-profit patient organisation started in 2011 to provide support to parents and families and raise public knowledge of a rare and serious genetic disorder of the blood Neonatal Alloimmune Thrombocytopenia known as NAIT or FNAIT.

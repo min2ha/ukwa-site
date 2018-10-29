@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Darren Millar AM on Facebook 
-
 Darren Millar is the Conservative candidate for Clwyd West at the 2016 National Assembly for Wales elections.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Huntly Football Club
-
 Site of a Scottish football club based in Huntly, Aberdeenshire, Scotland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Forget scaremongering over the SNP. The real crisis will come if the Tories win
-
 None

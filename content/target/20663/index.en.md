@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Callum McCaig for Aberdeen South on Facebook
-
 The Facebook page of Callum McCaig, Scottish National Party Parliamentary candidate for Aberdeen South in the UK General Election, 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Young people out of love with their own bodies, says report
-
 News article about a report compiled by the Youth Select Committee a British Youth Council initiative, supported by the House of Commons, with 11 members aged from 13 to 18. The findings will be presented in a report to Parliament and ask the Government to adress key issues such as the impact of social media on mental health

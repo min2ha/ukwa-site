@@ -10,5 +10,3 @@
   "start_date": "2015-02-06T06:00:00Z"
 }
 
-# Aboutscotland.in: The Official Gateway to Scotland
-

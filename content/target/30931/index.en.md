@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Transreal Fiction
-
 Transreal Fiction is a bookshop selling science fiction and fastasy books based in Edinburgh.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Message to black voters: 'Vote or expect crumbs'
-
 None

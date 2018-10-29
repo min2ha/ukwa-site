@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# ICH Scotland Wiki
-
 Wiki recording Scotland’s Intangible Cultural Heritage practices.

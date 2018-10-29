@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Democratic Unionist Party (DUP): Brexit
-
 A subsection of the DUP website with articles related to Brexit.

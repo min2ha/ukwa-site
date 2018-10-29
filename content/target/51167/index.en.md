@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Grid Iron Theatre Company
-
 Website for a Scottish theatre company based in Edinburgh that specialises in new writing and site-specific and location theatre, as well as producing work for the stage.

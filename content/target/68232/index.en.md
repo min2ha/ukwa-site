@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Literature across Frontiers: Poetry Connections India/Wales
-
 Ten poets from India and Wales are taking part in an exchange organized by Literature Across Frontiers and partners to mark the 70th anniversary of independent India. 

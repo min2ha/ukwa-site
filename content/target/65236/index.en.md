@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Crystal Mahey-Morgan (@CrystalMMorgan) on Twitter
-
 Founder/MultiMedia Publisher of Own It! publishing.

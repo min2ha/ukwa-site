@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 20th July 2018: European Union (Information, etc.) Bill [HL]
-
 Second Reading Debate on this bill, which makes provision for information about the European Union and about its town twinning scheme to be made available by local authorities.

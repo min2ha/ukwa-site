@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Association of Wales on Facebook
-
 Official Facebook page of the Football Association of Wales. News, photos, videos and insights into Welsh Football. 

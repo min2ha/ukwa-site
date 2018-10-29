@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Bowers (@chris1bowes ) on Twitter (Liberal Democrats Candidate for Brighton Pavilion)
-
 Chris Bowers stood as Liberal Democrats candidate for Brighton Pavilion at the 2015 General Election but was not elected. 

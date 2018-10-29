@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Smurfit Kappa Group plc
-
 The Smurfit Kappa Group plc is Europe's leading corrugated packaging company and one of the leading paper-based packaging companies in the world. They are located in 21 countries in Europe, and 13 in the Americas.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# CS Stags 1863 on Pitchero
-
 The official website of Civil Service Rugby Football Club. Formed in 1863.

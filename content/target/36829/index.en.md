@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Relate Cymru: The Relationships Manifesto for Wales
-
 Relate Cymru is the national charity for relationship support in Wales. 

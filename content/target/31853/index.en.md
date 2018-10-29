@@ -10,5 +10,3 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Maryhill Integration Network
-

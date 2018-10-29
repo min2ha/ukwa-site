@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Northumbria Police Authority
-
 None

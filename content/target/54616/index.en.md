@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# E3G: UK General Election: Cooperation out of Chaos
-
 Results of UK 2017 general election present new opportunity for cooperation between UK and European Union on Brexit negotiation. Cooperative approach on energy and climate change vital to stability of the upcoming negotiations.
 

@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Public Standards
-
 Public Standards is a website of the Commissioner for Ethical Standards in Public Life in Scotland, a body established by an Act of the Scottish Parliament. It covers the Commissioner's duties to investigate complaints about the conduct of elected officials.

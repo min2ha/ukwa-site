@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Point, The
-
 A Scottish left of centre online magazine, written from socialist and progressive perspectives.

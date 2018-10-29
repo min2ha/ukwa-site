@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Rosenthal - LibDem Candidate for Ynys Mon on Facebook
-
 Liberal Democrat candidate for Ynys Mon.

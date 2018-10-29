@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Official Monetary and Financial Institutions Forum: OMFIF series on UK EU referendum
-
 The Official Monetary and Financial Institutions Forum is an independent platform for dialogue and research. It serves as a non-lobbying network for worldwide public-private sector interaction in finance and economics. The Commentary series includes extensive analysis of the UK's relationship with the EU and the consequences of Brexit

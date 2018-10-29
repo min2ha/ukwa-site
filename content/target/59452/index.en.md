@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# (New) IslayBlog.com
-
 Armin Grewe's blog about the Isle of Islay.

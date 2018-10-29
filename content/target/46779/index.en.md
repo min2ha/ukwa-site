@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# Scriptonite Daily
-
 A blog created by Kerry-anne Mendoza, Editor of The Canary,  to "tell the big stories behind the news; to challenge the neoliberal status quo."

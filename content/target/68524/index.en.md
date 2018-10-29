@@ -10,5 +10,3 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Hannah Bardell MP – for the Livingston Constituency
-

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Conversation, The: Manifesto Check 2015 News, Research and Analysis
-

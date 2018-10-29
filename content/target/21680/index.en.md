@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: HS2 could become bargaining tool between SNP and Labour, says Salmond
-
 None

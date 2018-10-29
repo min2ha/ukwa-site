@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# UK Centre for Legal Education (UKCLE) - The Higher Education Academy
-
 None

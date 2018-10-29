@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Leaders' election debate: Farage and Sturgeon win, says poll - live reaction
-
 None

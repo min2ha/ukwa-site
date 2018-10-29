@@ -10,5 +10,3 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Convention of the Baronage of Scotland
-

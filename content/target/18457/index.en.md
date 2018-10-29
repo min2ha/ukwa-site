@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Scottish Labour conference: Murphy pledges to help teenagers not at university
-
 None

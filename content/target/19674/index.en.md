@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bridgwater and West Somerset UKIP
-
 Website of Bridgwater and West Somerset UKIP, providing information on parliamentary candidate, constituency association officers and committee members, policies and events.

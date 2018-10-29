@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# MòR Brewing
-
 Site of a brewer and brewery at Kellas, Angus near Dundee.

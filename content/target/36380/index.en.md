@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Inside Politics: Backing the EU is a big risk for Corbyn's party 
-
 Column by Macer Hall

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sarah Duncan (@SarahDuncan70) on Twitter
-
 The Twitter profile of Sarah Duncan, the Scottish Labour candidate for Aberdeenshire West in the 2016 Scottish Parliament election.

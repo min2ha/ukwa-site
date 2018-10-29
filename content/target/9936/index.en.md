@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# British Medical Association: European Election Manifesto
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Knowledge Transfer Partnerships Scotland
-
 Site of a programme helping business to improve their competitiveness and productivity through the better use of knowledge, technology and skills that reside within the UK knowledge base.

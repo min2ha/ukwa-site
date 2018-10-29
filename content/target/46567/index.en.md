@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# All-Party Parliamentary Group on Modern Languages : Brexit and languages
-
 The APPG calls on the Government to ensure Brexit negotiations protect the UK’s strategic need for language skills.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of Radiologists
-
 None

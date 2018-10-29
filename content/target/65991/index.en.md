@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Historical Perspectives
-
 Site of an established history society run by and for postgraduates studying at universities throughout the United Kingdom.

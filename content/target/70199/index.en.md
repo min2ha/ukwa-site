@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Dungannon Swifts (@DgnSwifts) on Twitter
-

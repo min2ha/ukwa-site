@@ -10,5 +10,3 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# Heathrow Airport: Expansion (Taking Britain Further)
-

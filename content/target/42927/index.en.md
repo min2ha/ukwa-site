@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Visit Wales: Why Euro 2016 means the world to Wales
-
 The official Welsh tourist website outlining the benefits of Euro 2016 for tourism in Wales.

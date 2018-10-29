@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Linfield FC (@OfficialBlues) on Twitter
-
 The official Twitter account of Linfield Football club. Linfield FC is based in Belfast, Northern Ireland.

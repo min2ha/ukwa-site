@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rhondda Cynon Taff Gazette
-
 A volunteer run news site for the Rhondda and Cynon Valleys. 

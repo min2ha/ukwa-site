@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Winfrid's, Totton
-
 The official website of St. Winfrid's, Totton.

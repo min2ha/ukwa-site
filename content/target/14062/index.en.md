@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Arches, The: Symposium: Imagining Scotland – Pasts, Presents, Futures
-
 None

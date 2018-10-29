@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# West Kent Green Party
-
 Website of West Kent Green Party, providing information on campaigns, elections, MEPs, and local, national and party news.

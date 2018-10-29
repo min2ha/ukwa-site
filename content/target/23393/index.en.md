@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Darren Hall on Facebook (Green Party Candidate for Bristol West)
-

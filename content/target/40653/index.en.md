@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Social Enterprise Scotland
-
 Site of an organisation uniting social enterprises and their supporters into a campaigning force and acting as a gateway to Scotland's social enterprise community.

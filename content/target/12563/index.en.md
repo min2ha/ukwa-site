@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow 2014: Team Scotland parade outfit unveiled - The Scotsman
-
 <p>Article on the launch of Team Scotland’s parade uniforms for the opening cermony of Commonwealth XX from the Scotsman 7/7/2014,  featuring photographs of the uniforms and the designer Jilli Blackwood.</p>

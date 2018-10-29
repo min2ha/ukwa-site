@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Conversation, The: Scottish independence News
-
 <p>Analysis and comment on the Scottish independence debate from researchers at UK universities. "The Conversation" is an online news website, which aims to bring leading edge research in social sciences to a wider audience.</p>

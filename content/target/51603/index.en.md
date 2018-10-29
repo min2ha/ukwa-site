@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Welsh Church of Central London, The | Eglwys Gymraeg Canol Llundain
-

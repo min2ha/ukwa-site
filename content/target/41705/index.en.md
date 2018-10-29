@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Trade Union Congress (TUC): The NHS : how BREXIT could affect our health service
-

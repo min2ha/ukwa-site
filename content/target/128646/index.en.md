@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Welsh Harp Conservation Group (WHCG)
-
 None

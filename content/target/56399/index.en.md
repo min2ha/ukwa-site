@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# Jami
-
 Jami is committed to supporting people to fulfil their individual potential, maximise their self-esteem and progress along their own unique path towards recovery.
 
 Jami was set up in 1989 by parents, relatives and friends of people who suffered from mental health problems.

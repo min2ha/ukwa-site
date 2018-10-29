@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Douglasdale Folk Festival
-
 Site of a folk festival in the South Lanarkshire village of Douglas.

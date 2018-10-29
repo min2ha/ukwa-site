@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Welcome to Scotland
-
 Site of a commercial organisation offering information on how to get to, where to stay, what to see on visits to Scotland.

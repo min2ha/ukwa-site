@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# yaketyyak Language Cafe
-
 Improve your foreign language conversation in a local café, in a small group with an experienced tutor

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Evangelical Alliance: Nelson Mandela -  Alliance pays tribute to a man of unity
-
 <p>The statement by the Evangelical Alliance, released on 6 December 2013. Includes an editorial from the EA's magazine 'Crusade' from October 1956.</p>

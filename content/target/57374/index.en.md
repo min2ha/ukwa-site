@@ -10,6 +10,4 @@
   "start_date": "2017-09-23T09:00:00Z"
 }
 
-# Liverpool Catholic Ramblers Association (LCRA) Remembered 
-
 This a website to remember previous Liverpool Catholic Ramblers events.

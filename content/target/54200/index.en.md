@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tasha Osben (@Tasha4Clacton) on Twitter (Labour Party Politician)
-
 Tasha Osben stood as Labour Party candidate for Clacton in the 2017 General Election but was not elected.

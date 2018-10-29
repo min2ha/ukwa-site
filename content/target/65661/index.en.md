@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Pembroke and District Male Voice Choir
-
 The choir was founded as Borough Male Voice Choir in 1952, and subsequently renamed Pembroke & District Male Voice Choir in 1974.

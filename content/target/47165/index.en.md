@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Don’t be divided by Trump and Brexit: minorities are part of the working class
-

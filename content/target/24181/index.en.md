@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Osborne's allies welcomed into key business posts after the reshuffle
-
 None

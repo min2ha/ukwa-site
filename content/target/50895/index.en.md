@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Abundant Life Newport
-

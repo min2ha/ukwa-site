@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Crabb on Facebook
-
 Secretary of State for Wales + Conservative MP for Preseli Pembrokeshire

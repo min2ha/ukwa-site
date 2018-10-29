@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Lodge Abington Arbory No. 1081
-
 Site of a masonic lodge located in Abington, South Lanarkshire and affiliated with the Grand Lodge of Scotland.

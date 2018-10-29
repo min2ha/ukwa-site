@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# European Union (Notification of Withdrawal) Bill
-
 Confers power on the Prime Minister to notify, under Article 50(2) of the Treaty
 on European Union, the United Kingdom’s intention to withdraw from the
 EU.

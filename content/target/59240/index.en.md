@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# PAVO Health and Social Care Network News
-
 The blog provides health and care news from Pembrokeshire Association of Voluntary Organisations (PAVO). The blog has been in operation since 2013.

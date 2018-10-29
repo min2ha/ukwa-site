@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kavin Gore on Facebook
-
 Facebook profile of Kevin Gore, Solidarity list candidate for Lothian region in the 2016 Scottish Parliamentary election.

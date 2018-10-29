@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Sight & Sound (@SightSoundmag) on Twitter
-
 Sight & Sound is the international film magazine, published since 1932 by the BFI.

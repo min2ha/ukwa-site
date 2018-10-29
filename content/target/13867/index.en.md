@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheila Gilmore | Scottish Labour candidate for Edinburgh East
-
 <p>The website of Shiela Gilmore, Labour Member of Parliament for Edinburgh East.</p>

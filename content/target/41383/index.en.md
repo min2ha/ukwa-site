@@ -10,5 +10,3 @@
   "start_date": "2016-05-20T12:00:00Z"
 }
 
-# Felinfach Community Council
-

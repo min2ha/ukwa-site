@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Further certainty on EU funding for hundreds of British projects
-
 The Chancellor confirmed that the government will guarantee EU funding for structural and investment fund projects, including agri-environment schemes, signed after the Autumn Statement and which continue after we have left the EU.

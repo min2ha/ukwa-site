@@ -10,6 +10,4 @@
   "start_date": "2016-01-09T09:00:00Z"
 }
 
-# Communities First Tredegar Cluster
-
 Communities First is a Welsh Assembly programme that supports the Tackling Poverty agenda. The Tredegar Clsuter, along with that of Ebbw Fawr are managed by GAVO (Gwent Association Voluntary Organisations).

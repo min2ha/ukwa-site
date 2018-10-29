@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shona Marshall (ShonaMarshall_1) on Twitter
-
 <p>Official twitter profile of Shona Marshall trap shooter and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

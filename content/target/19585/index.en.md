@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# French Walks & Sunday Roasts
-
 This association organizes hikes outside London one Sunday per month. 

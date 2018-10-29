@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Jamie Donaldson
-
 Jamie Donaldson is a Welsh professional golfer from Pontypridd.

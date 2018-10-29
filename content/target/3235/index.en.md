@@ -10,6 +10,4 @@
   "start_date": "2016-02-25T09:00:00Z"
 }
 
-# Army Cadet Force
-
 <p>Website of UK Voluntary youth organisation.</p>

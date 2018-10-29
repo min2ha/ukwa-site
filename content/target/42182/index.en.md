@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Love Music Hate Racism
-
 Website of Love Music Hate Racism (LMHR) - set up in 2002 in response to rising levels of racism and electoral successes for the Nazi British National Party (BNP). LMHR "uses the energy of our music scene to celebrate diversity and involve people in anti-racist and anti-fascist activity as well as to urge people to vote against fascist candidates in elections."

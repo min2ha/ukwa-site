@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The party leaders can’t even pretend they are in charge
-

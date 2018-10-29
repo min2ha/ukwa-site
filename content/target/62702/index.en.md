@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library: British Library publishes Gender Pay Gap information
-
 The British Library press release on the gender pay gap report. 

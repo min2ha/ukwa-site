@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: Export Strategy: supporting and connecting businesses to grow on the world stage
-
 Strategy setting out how the government will support businesses of all sizes to make the most of the opportunities presented by markets around the world after Brexit.
 

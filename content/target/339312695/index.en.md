@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Come Here to Me
-
 This is a group blog that focuses on the life and culture of Dublin city and includes entries on a range of topics including history and politics.

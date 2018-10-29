@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# London Review of Books
-
 <p>The London Review of Books is a magazine, which promotes the tradition of the literary and intellectual essay in English. Each issue contains up to 15 long reviews and essays by academics, writers and journalists. There are also shorter art and film reviews, as well as poems and a lively letters page. It was established in 1979.</p>

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Why staying in Europe gives Britain more control over its destiny, not less
-

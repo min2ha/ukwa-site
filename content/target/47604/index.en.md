@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Joio
-
 Joio is a television company based in Wales.

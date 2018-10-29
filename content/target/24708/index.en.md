@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Charalambous (UKIP)
-
 Andrew Charalambous stood as UKIP candidate for Cambridgeshire North East at the 2015 General Election but was not elected.

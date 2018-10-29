@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK to withdraw from international fishing arrangement
-
 The government has announced its intention to withdraw from the London Fisheries Convention. The convention allows Irish, Dutch, French, German and Belgian vessels to fish within six and 12 nautical miles of UK coastline.

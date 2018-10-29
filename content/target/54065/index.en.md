@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Debbie Caplin (@CaplinDebbie) on Twitter (UKIP Politician)
-
 Debbie Caplin stood as UK Independence Party (UKIP) candidate in the constituency of Wallasey in the 2017 General Election but was not elected.

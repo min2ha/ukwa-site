@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Manchester councils to be handed control of entire £6 billion NHS budget for the area but is it a 'poisoned chalice' ?
-
 None

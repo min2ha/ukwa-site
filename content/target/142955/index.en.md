@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Ataxia-Telangiectasia Society
-
 None

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Nasty smears and hysteria': Senior Tory lashes out at David Cameron's EU campaign saying the party may not heal after the EU referendum  
-

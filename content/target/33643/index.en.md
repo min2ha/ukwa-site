@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Spectator, The: Ireland's getting ready to forget the real Easter Rising
-
 Article by Roy Foster on the Easter Rising commemorations.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Douglas Alexander (DAlexanderMP) on Twitter
-
 <p>The twitter profile of Dougas Alexander, Shadow Foreign Secretary and Labour Member of Parliament for Paisley and Renfrewshire South.</p>

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Molesey Local History Society
-
 Molesey comprises the two villages of East and West Molesey in North Surrey, England. It lies to the south of the River Thames close to Hampton Court Palace. The rivers Mole and Ember flow through Molesey down to the Thames and the three rivers have played an important part in shaping the rich history of the area.

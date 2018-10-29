@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oktoberfest
-
 Website for the Oktoberfest in Swindon.

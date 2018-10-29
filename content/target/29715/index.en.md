@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Throckmorton Literary Festival 
-
 Festival organised by the British Council

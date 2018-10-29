@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# EastMidsTogetherForYes (@EMtogether4yes) on Twitter
-
 East Midlands (UK) branch of the Irish campaign to repeal the 8th amendment to the constitution of the Republic of Ireland, fighting for free, safe, legal abortion for all who need it 

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ming Campbell | Liberal Democrat MP for North East Fife
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dudley Health and Wellbeing Board
-
 None

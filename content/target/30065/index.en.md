@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# Annie Lennox
-
 Official website of the British singer Annie Lennox.

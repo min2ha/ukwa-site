@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Fun House
-
 Site of a family activity centre, primarily aimed at children, and located at Aviemore, Highlands.

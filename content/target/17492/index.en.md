@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: If one thing will cost the Tories this election, it is their arrogance
-
 None

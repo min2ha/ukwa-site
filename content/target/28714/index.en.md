@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Will Yeates (@WYeates) on Twitter
-
 Twitter feed of Will Yeates

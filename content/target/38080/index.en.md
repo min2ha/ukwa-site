@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Croydon Stronger in Europe (@croydon_in) on Twitter
-
 Croydon local campaign for the UK to stay in the EU

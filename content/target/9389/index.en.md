@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ben Sneesby: British Disabled Ski Team
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May needed to master the new politics that Brexit demands. But she’s failed
-

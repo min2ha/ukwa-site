@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: MPs vote on Brexit talks bill
-
 MPs debated whether to allow the government to get negotiations for Brexit under way.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Truth about Labour and immigration: 90 per cent of households established at height of open-door policy headed by a migrant
-
 None

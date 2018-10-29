@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: "Anorexic girl credits Instagram recovery accounts for saving her life"
-
 News article about Instagram recovery accounts and anorexia 

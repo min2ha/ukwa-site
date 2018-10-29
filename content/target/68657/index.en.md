@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: David Davis says May's new Brexit customs plan is unworkable
-
 The Brexit secretary criticised the PM’s compromise proposal on single market membership and customs arrangements after Brexit, saying EU would not accept it

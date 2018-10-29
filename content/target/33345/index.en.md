@@ -11,5 +11,3 @@
   "subject": "Housing and Social Housing"
 }
 
-# Cymdeithas Tai Cymuned Caerdydd | Cardiff Community Housing Association
-

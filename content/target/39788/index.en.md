@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Barack Obama says UK will go to 'back of the queue' for US trade deals if Britain leaves EU
-

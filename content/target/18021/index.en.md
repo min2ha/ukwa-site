@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# French touch properties
-
 French touch properties is a property search company dedicated to French who want to settle in London

@@ -10,7 +10,5 @@
   "start_date": "2018-02-09T09:00:00Z"
 }
 
-# Great Gardens of West Wales
-
 This is a guide to Great Gardens of West Wales - Aberglasney, Cae Hir, Colby Woodland Garden, Dyffryn Fernant, National Botanic Garden of Wales, Picton Castle and Upton Castle.
 , 

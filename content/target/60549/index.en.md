@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Arolygiaeth Gofalaeth Cymru | Care Inspectorate Wales
-
 Care Inspectorate Wales is a body that regulate and inspect to improve adult care, childcare and social services for people in Wales.

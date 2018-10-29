@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hertfordshire Partnership University NHS Foundation Trust 
-
 None

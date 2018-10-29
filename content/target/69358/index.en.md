@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Fassett Square, E8
-
 Short history of Square in Hackney, used as the model for Albert Square in EastEnders

@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# SRO Audiences
-
 SRO Audiences, is a TV audience company which provides tickets to many of the UK's favourite TV shows.

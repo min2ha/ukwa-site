@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Soccer History (@soccerarchive) on Twitter
-
 The official Twitter account of the Soccer History Magazine.

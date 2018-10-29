@@ -10,6 +10,4 @@
   "start_date": "2018-01-13T09:00:00Z"
 }
 
-# Cymdeithas Hynafiaethau Cymru | Cambrian Archaeological Association.
-
 The Cambrian Archaeological Association is devoted to the study of the history and archaeology of Wales and the Welsh Marches.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-#  ScotlandRussia Forum (@ScotRussiaForum) on Twitter
-
 An independent Scottish charity working for mutual understanding in Scotland and Russia. Events listings, information, education, and many other activities.

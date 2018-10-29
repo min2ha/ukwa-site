@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hugh Lanning (@Lanning4Labour) on Twitter (Labour candidate for Canterbury)
-

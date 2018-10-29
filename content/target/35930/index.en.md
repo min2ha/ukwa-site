@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Alun Llewelyn (@AlunLlewelyn) on Twitter (Plaid Cymru candidate for Neath and South Wales West) 
-
 Alun Llywellyn is the Plaid Cymru candidate for Neath and South Wales West at the 2016 National Assembly for Wales elections. 

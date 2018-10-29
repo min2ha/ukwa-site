@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War, The: How a global conflict affected a local area
-
 Project to look at south Leeds, especially the areas of Beeston and Hunslet, and to find out how a local area was affected by being a part of a global conflict.

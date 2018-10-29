@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Cambridge (@SfB Cambridge) on Twitter
-
 Cambridge branch of Students for Britain, campaigning for the UK to leave the EU

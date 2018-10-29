@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# UK Music: The UK Music 2017 Manifesto
-
 UK Music, the umbrella body for the commercial music industry, has produced a manifesto for the 2017 General Election focusing on the main priorities to enable the sector to thrive.
 

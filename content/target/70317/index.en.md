@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# African Youth Development Association (AYDA)
-
 African Youth Development Association (AYDA) s a Diaspora organisation set up as a platform to advocate, support and empower young people to overcome the challenges they face especially those with learning difficulties.

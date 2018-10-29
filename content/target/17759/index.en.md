@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Alice Jones. If I were Prime Minister: I'd abolish PMQs
-
 None

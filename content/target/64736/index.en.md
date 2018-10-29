@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# OMD UK Blog
-
 Media agency OMD UK are dedicated to our clients’ growth. It starts with our unwavering commitment to deliver sharper insights, smarter ideas and stronger results.

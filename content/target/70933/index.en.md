@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# CAMRA Somerset Branch Real Ale & Cider Festival
-
 Local ale and cider festival

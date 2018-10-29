@@ -10,6 +10,4 @@
   "start_date": "2017-10-14T09:00:00Z"
 }
 
-# Simply Solar: Tina Carr & Anne Marie Schöne
-
 Simply Solar is the website for the artists Tina Carr & Anne Marie Schöne. Both are a UK based collaborative duo, Tina Carr (b. 1950) and Annemarie Schöne (b. 1947) and have been working together for 30 years on many diverse projects combining both photography and video.

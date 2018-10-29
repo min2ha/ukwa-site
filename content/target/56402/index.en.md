@@ -11,5 +11,3 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# A new South Asia Gallery for Manchester Museum: Museum of the Citize
-

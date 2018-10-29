@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Magna Carta manuscripts displayed together at British Library
-

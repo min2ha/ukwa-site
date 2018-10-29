@@ -10,6 +10,4 @@
   "start_date": "2016-07-22T10:00:00Z"
 }
 
-# Air Wars: monitoring the coalition war against ISIS
-
 Air Wars monitors international airstrikes against so-called Islamic State (Daesh) and other groups in Iraq and Syria.

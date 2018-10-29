@@ -10,6 +10,4 @@
   "start_date": "2013-09-25T00:00:00Z"
 }
 
-# what is selling
-
 None

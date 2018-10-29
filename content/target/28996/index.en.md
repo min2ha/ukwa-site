@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Greater Reading Liberal Democrats
-
 Website of Greater Reading Liberal Democrats, providing information on events, campaigns and local and national news updates.

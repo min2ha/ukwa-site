@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# The Iraq Inquiry
-
 The inquiry covers all aspects of the UK’s involvement in, and planning for, conflict in Iraq. The website includes video and written evidence given at the inquiry, as well as reports and timetables for inquiry sessions.

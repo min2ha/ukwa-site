@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Your Heathrow
-
 Produced on behalf of Heathrow Airport, this website presents information about the working of the airport, news related to the airport, and promotes the expansion of Heathrow airport. 

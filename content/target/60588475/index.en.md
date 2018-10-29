@@ -10,6 +10,4 @@
   "start_date": "2015-08-28T10:00:00Z"
 }
 
-# Overseas Service Pensioners' Association (OSPA)
-
 The Overseas Service Pensioners' Association (OSPA) was founded in 1960 in order to protect the pension rights of members of the Colonial Service (since 1954 called Her Majesty’s Overseas Civil Service – HMOCS), who worked for the governments of the former British colonial territories, ultimately under the former Colonial Office in London.  

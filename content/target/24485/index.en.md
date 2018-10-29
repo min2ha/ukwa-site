@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The:  Ed Balls refuses to rule out corporation tax hike
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Which?: A Government for All Consumers
-
 Which? is a consumer organisation providing unbiased reviews and advice on products and services. 

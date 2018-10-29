@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Government of Anguilla, The  
-
 The Government of Anguilla official website.

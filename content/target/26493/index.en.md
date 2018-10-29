@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tory response to the pain of austerity: carry on regardless
-
 None

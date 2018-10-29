@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Discover Dundee Waterfront
-
 Site of the thirty year renewal project for the waterfront at Dundee.

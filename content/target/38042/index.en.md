@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SWStronger In Europe
-
 Group from the Southwest campaigning for the UK to stay in the EU

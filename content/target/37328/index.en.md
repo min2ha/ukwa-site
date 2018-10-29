@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Nouse: Predictions: Early EU referendum for 2016? Britain would still say no
-
 Nouse: Predictions: Early EU referendum for 2016? Britain would still say no

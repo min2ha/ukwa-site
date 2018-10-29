@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: SNP manifesto tailored towards power-share deal
-
 None

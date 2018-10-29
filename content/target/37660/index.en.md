@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# TruePublica: EU referendum
-
 Independent research media organisation. Non Profit privately managed organisation with board of membe

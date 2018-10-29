@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Football Association
-
 The Scottish FA exists to promote, foster and develop the game at all levels in Scotland. It was founded in 1873.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Try not to smirk too much, Boris: Johnson poses for picture of himself signing his lengthy resignation letter as he accuses May of letting 'Brexit dream die'... and Jacob Rees-Mogg says he will make a 'brilliant' Prime Minister
-

@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Fife Mining Heritage Society
-

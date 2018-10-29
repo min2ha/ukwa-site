@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Intolerant post-Brexit Britain: history shows we can be better than this
-

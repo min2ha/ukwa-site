@@ -10,6 +10,4 @@
   "start_date": "2016-01-05T09:00:00Z"
 }
 
-# How To Go Bankrupt - Bankruptcy Advice Online
-
 Free advice resource for those considering bankruptcy.

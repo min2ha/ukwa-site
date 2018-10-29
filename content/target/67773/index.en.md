@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NMRFC (@NewMiltonRFC) on Twitter
-
 The official Twitter account of New Milton and District Rugby Football Club. This long established club founded in 1927, situated on the edge of the New Forest between Southampton and Bournemouth ranks as one of Hampshires longest established rugby clubs.

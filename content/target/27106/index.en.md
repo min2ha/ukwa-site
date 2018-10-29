@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T08:00:00Z"
 }
 
-# British Academy of Sound Therapy, The
-
 The British Academy of Sound Therapy offers training courses in the UK and overseas. They also conduct ongoing research and development programmes with the aim of furthering the field. The Academy was founded by Lyz Cooper in 2000.

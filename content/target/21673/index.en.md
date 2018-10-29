@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Future leadership of Tory party thrown open after Cameron's surprise remarks
-
 None

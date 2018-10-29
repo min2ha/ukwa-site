@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# Do-it Trust
-
 Launched in 2012 with the aim of modernising volunteering and social action through the use of new and emerging technologies, it brings people together to help solve society’s problems through voluntary and civic action. 

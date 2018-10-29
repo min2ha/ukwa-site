@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Politeia: a Blueprint for Brexit: 
-
 This paper explains the best legal and regulatory framework for Britain after Brexit. It proposes how the UK’s financial services and global markets can continue to flourish from outside the EU. The author, Barnabas Reynolds, is a lawyer and partner at Shearman & Sterling LLP, where he is the head of the global financial institutions advisory practice.

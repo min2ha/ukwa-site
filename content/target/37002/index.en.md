@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rhondda People
-
 Rhondda People is supported by Cardiff University’s Centre for Community Journalism in partnership with National Theatre Wales and launched in 2014. The community news project is run by a group of volunteers.

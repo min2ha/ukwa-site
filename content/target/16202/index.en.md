@@ -10,6 +10,4 @@
   "start_date": "2015-01-29T00:00:00Z"
 }
 
-# Made in Britain
-
 <p>The Made in Britain campaign supports and promotes British manufacturing in the UK and overseas by enabling customers to identify British made products. It was launched in 2011.</p>

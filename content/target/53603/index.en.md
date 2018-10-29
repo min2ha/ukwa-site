@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Adrian Holmes (@AdrianSHolmes) on Twitter (Green Party Politician)
-
 Adrian Holmes stood as Green Party candidate for Norwich North at the 2017  General Election but was not elected.

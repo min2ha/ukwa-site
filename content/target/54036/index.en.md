@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Maz Rahman (@muzafar66) on Twitter (Social Democratic Party Politician)
-
 Muzafar Rahman stood as Social Democratic Party candidate for Sheffield, Brightside and Hillsborough in the 2017 General Election but was not elected.

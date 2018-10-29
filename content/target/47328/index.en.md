@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Gabbro Photography
-
 Site of the Skye based photographer and writer Alistair Young. 

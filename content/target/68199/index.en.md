@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Telegraph, The: Business - Give dads more pay and paternity leave to fight gender gap, MP's demand. 
-
 A Telegraph article exploring how poor paternity leave and rights for new fathers undermines the drive for gender equality in the UK

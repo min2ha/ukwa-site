@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  What does Germany’s political crisis mean for Brexit?
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anthony Slaughter (@as_penarth) on Twitter
-
 Anthony Slaughter is the Green Party candidate for Cardiff South and Penarth and South Wales Central at the 2016 National Assembly Election and 2017 General Election.

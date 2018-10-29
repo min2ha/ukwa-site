@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Conservatives at war over another Lib Dem coalition after the generation election 
-
 None

@@ -299,6 +299,4 @@
   "endDateText": ""
 }
 
-# Black and Asian Britain
-
 Collection focussing on Black and Asian communities and culture in the UK as well as the history of the Black and Asian presence in the UK.

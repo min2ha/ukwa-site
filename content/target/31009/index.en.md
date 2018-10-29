@@ -10,6 +10,4 @@
   "start_date": "2015-09-30T10:00:00Z"
 }
 
-# Cardiff Transport Preservation Group
-
 Cardiff Transport Preservation Group preserve representative examples of the buses that ran in South East Wales and the Valleys.

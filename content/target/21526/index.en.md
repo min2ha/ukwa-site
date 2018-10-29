@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tony Blair insists: EU immigration was not a mistake
-
 None

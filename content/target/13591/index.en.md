@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# British American Security Information Council (BASIC)
-
 BASIC works towards a world free from the threat of nuclear weapons, established by a cooperative global security agenda and formalized in negotiated treaties and building confidence in a shared sustainable security agenda.

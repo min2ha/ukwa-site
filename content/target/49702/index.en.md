@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Rosyth and District Musical Society
-
 Site of a amateur musical theatre society based in Rosyth, Fife.

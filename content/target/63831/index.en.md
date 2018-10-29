@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Davidson's Mains Parish Church
-

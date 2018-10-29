@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Her Majesty's Government: Dress codes and sex discrimination: What you need to know
-
 Central government site advising employers in the UK who set dress codes for employees

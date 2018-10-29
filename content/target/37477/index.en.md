@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Business Insider: Priti Patel launches Women for Britain
-
 UK minister says 'risk averse' women need to learn from the suffragettes and back Brexit

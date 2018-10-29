@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hannah Starling (HannahfStarling) on Twitter
-
 <p>The twitter profile of diver Hannah Starling, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

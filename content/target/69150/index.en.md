@@ -10,6 +10,4 @@
   "start_date": "2018-07-20T09:00:00Z"
 }
 
-# Resonance 104.4 FM: Schedule
-
 Programme schedule for London-based community radio station Resonance FM

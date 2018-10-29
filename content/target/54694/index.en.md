@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Depression and Schizophrenia could be spotted using your Facebook posts and likes, study suggests
-
 News article: Facebook and mental health

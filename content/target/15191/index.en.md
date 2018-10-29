@@ -10,5 +10,3 @@
   "start_date": "2014-11-29T10:00:00Z"
 }
 
-# One Guy From Barlick (OGFB)
-

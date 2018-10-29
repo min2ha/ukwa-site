@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Yorkshire Post: Bernard Ingham: My advice to Theresa May ahead of EU summit on Brexit. Show ‘em your nasty side, Prime Minister
-
 Now the decent vicar’s daughter, Mrs May, is in a terrible fix. She has no natural majority in the Commons. Her party is not merely split, but her Government rebellious to the point of resignation over Brexit. She has a Civil Service that seems to be Europhile in spite of the referendum.

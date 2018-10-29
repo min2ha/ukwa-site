@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# Na i Ffair Arfau Caerdydd | No to Cardiff Arms Fair
-
 Pressure group campaigning against DPRTE (the Defence Procurement, Research, Technology and Exportability exhibition), one of the UK’s biggest arms fairs, holding their events to Cardiff.

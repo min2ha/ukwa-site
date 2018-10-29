@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Hampshire OktoberFest
-
 Local Oktoberfest held at Basingstoke Cricket and Sports Club

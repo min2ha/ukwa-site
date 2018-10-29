@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Reeds Weybridge RFC
-
 The official website of Reeds Weybridge Rugby Football Club.

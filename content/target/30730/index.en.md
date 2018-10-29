@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Royal Conservatoire of Scotland
-
 Official website of the Royal Conservatoire of Scotland.

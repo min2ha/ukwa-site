@@ -10,6 +10,4 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# Royal School of Mines, The
-
 Official website of the Royal School of Mines, London.

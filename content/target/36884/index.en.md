@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: How Brexit would affect British farmers
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Council of Mortgage Lenders: CML manifesto 2015
-
 The CML is a trade body representing UK mortgage lenders. Their members are banks, building societies, and other lenders who together account for around 95% of the nation's residential lending.

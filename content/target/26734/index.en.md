@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# i100 : Nine excuses the Lib Dems gave for their crushing election defeat
-
 None

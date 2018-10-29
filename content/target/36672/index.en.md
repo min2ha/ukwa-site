@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Democratic Left (@demleftscotland) on Twitter
-
 The twitter account of Democratic Left Scotland.

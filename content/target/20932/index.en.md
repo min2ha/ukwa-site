@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anne McLaughlin (@AnneMcLaughlin) on Twitter
-
 https://twitter.com/AnneMcLaughlin/

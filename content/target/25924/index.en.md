@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Diane Abbott: Labour's 'controls on immigration' mugs are shameful
-
 None

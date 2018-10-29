@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Dalneigh and Bona Church
-
 Site of a Church of Scotland church in Inverness.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ofcom deals blow to Greens' election debate hopes - but boosts Ukip's
-
 None

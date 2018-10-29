@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# STEM East
-
 STEM East coordinates a STEM Learning "Ambassador Hub" in the East of Scotland. STEM Learning is an organisation which aims to encourage young people to develop careers in science, technology, engineering and mathematics.

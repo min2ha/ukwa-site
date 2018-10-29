@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Hill Radnor Flock Book Society 
-
 The Hill Radnor Flock Book Society was established in 1949 and promotes and support Hill Radnor sheep, a native breeds that has suffered a decline in number in recent decades. Hill Radnor are from the Welsh and English border shires of Radnor, Hereford, Monmouth and Brecon.

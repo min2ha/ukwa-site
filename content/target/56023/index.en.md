@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# Susan Richardson Writer
-
 Susan Richardson is a member of The Welsh Academy and a Fellow of the International League of Conservation Writers. Her work is published by Cinnamon Press.

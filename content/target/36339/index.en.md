@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angela Constance
-
 Angela Constance is the Scottish National Party candidate for the Almond Valley constituency in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Stewart Home
-
 Stewart Home was born in south London in 1962. Home pursued cultural and political interests through writing books and participating in gallery exhibitions.

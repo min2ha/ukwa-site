@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Radio Times: Euro 2016 TV coverage guide and fixtures list
-
 The Radio Times listings of Euro 2016 fixtures broadcast on ITV and BBC.

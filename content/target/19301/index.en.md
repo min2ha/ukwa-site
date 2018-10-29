@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: Time for Magna Carta 2.0
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Chemikal Underground Records
-
 Chemikal Underground Records is an independent record label based in Glasgow, Scotland. It was established in 1994 by members of rock band The Delgados. The label also owns a recording studio, Chem19.

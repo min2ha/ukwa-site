@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hendon Rugby Football Club on Pitchero
-
 The official website of Hendon Rugby Football Club. Hendon Rugby Club was founded in 1932 and has since 1944 played rugby on Copthall Playing Fields.

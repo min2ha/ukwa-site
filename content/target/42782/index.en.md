@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Mapping for Change
-
 Mapping for Change works with groups and organisations who want to understand, improve and produce information about the places that matter to them.

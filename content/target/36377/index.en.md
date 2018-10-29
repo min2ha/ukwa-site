@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: EU referendum notebook: Problems loom for Brit workers if free movement of labour goes on
-
 Column by Patrick O'Flynn

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lee Merrien's Blog
-

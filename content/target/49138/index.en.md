@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Amble and District Local History 
-
 Amble town is located on the Northumberland coast at the mouth of the river Coquet, sitting on a modest promontory dividing Druridge Bay to the south and Alnmouth Bay to the north.

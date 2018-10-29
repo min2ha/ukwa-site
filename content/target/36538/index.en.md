@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: People arguing to leave the EU are being 'simplistic', Labour Remain campaign chief Alan Johnson says
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Green Party Loughborough (@greenpartylboro) on Twitter
-
 Twitter account of the Loughborough Green Party, providing information on campaigns, events, representatives and candidates and local and national news updates.

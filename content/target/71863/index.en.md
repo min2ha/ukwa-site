@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: Five reasons why Liam Fox's “ideal” US-UK trade deal would be a disaster for workers
-
 The same right-wing thinktanks behind the Trump agenda want to carve up our NHS, tear down hard-won workers’ rights, and rip up the UK’s high food safety standards

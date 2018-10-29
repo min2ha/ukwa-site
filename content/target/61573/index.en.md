@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ayrshire Roller Derby
-
 Site of a skating roller derby team based in Irvine, Ayrshire.

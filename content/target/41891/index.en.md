@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Listen Well Scotland
-
 Site of a Scottish Christian charity encouraging development of active listening as the basis of health personal and community relationships.

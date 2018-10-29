@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Òran Mór
-
 The website of Òran Mór, a bar, club, theatre, restaurant, live music venue and event space in Glasgow, Scotland. 

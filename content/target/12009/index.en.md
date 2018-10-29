@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: 10 key lessons from the European election results
-
 None

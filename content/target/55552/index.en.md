@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# United Purpose 
-
 United Purpose is an international development charity based in Cardiff.

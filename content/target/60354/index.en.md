@@ -10,8 +10,6 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# FISP: Independent guidance for the Information Society
-
 FISP, or Foundation for Information Society Policy. A think tank that is entirely independent of political parties, communications & network providers and any other commercial interests in technologies, products and services.
 
 FISP exists to formulate inputs for policy and regulatory development with the over-riding objective of encouraging maturity in the digitalised economy – our ‘Information Society’.

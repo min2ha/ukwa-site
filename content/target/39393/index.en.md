@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Ruddy for Angus North & Mearns on Facebook
-

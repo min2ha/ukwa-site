@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanes a Chofnodion Sir Feirionnydd
-

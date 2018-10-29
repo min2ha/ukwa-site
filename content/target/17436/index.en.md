@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Ed Balls vows to crack down on tax evasion
-
 None

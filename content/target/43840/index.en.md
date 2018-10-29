@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The polls say remain. This time, can we trust them?
-
 Guardian, The

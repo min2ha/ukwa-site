@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Fort William  Mountain Festival
-
 Site of an annual festival of moutaineering in and around Fort William, Lochaber, Highland.

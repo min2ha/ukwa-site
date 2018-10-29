@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Business and Professional Women UK (BPWUK)
-
 None

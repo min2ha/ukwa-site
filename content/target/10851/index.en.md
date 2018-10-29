@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# LME (@labour4europe) on Twitter
-
 Labour's pro-European campaign group. 

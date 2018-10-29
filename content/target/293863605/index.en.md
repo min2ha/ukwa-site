@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Office of the First Minister of Scotland / Príomh Mhinistear na h-Alba
-

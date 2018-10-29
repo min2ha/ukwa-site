@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ed Miliband to scrap controversial 'non-dom' status that lets rich pay barely any tax
-
 None

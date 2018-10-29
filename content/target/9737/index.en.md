@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Green House Think Tank
-

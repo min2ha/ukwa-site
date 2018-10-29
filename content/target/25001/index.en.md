@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Diane Abbott blasts Hackney Council over polling card fiasco
-
 None

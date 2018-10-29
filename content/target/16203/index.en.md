@@ -10,6 +10,4 @@
   "start_date": "2015-01-29T00:00:00Z"
 }
 
-# Love Food Hate Waste
-
 <p>Love Food Hate Waste is a campaign, launched by the Waste &amp; Resources Action Programme in 2007, with the aim of reducing the amount of food waste in the United Kingdom.</p>

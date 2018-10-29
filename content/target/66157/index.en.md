@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Lodge St. Anthony 154
-
 Site of a masonic lodge located in Inverurie, Aberdeenshire and affiliated with the Grand Lodge of Scotland.

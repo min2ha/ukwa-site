@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ed Miliband's rock solid judgment called into question over 'commandments gimmick'
-
 None

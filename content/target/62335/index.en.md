@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Basingstoke Town F.C.
-
 Basingstoke Town Football Club is a football club based in Basingstoke, Hampshire, England. The club are currently members of the Southern League Premier Division and play at the Camrose. Their motto, 'Vestigia Nulla Retrorsum', means 'No stepping back'.

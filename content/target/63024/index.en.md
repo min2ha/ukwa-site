@@ -10,6 +10,4 @@
   "start_date": "2018-03-24T09:00:00Z"
 }
 
-# The Friends of Regent’s Park & Primrose Hill
-
 The Friends of Regent’s Park & Primrose Hill aims are to help conserve, defend and, where necessary, urge the improvement of all the area within the Park boundary and the adjoining Primrose Hill.

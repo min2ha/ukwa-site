@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour government would overhaul school inspections – Tristram Hunt
-
 None

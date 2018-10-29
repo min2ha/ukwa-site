@@ -10,6 +10,4 @@
   "start_date": "2015-12-02T09:00:00Z"
 }
 
-# District Heating Scotland
-
 The Heat Network Partnership, is a collaboration of agencies in Scotland focused on the promotion and support of District Heating schemes in Scotland. 

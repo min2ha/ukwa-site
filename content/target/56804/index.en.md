@@ -10,6 +10,4 @@
   "start_date": "2017-08-24T09:00:00Z"
 }
 
-# Explore Islay and Jura
-
 Site of an organisation marketing the amenities, events and visitor information for the islands of Islay and Jura, Argyll & Bute / Inner Hebrides.

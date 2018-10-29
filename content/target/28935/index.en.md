@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Longbridge Labour
-
 Website of Labour party in Longbridge, Birmingham, with blog posts on local issues and contact details

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# UK Web Focus
-

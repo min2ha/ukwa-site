@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: While Nicola Sturgeon fiddles, Scotland burns. Or at least smoulders
-
 Argues that the Scottish National Party is obsessed with gaining independence from the UK to the point that it neglects domestic problems, such as inequality in educational outcomes.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# The FSRH (@FSRH_UK) on Twitter
-
 The Faculty of Sexual & Reproductive Healthcare of the RCOG has 16,000 medical members. Setting Standards in contraception 

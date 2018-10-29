@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Wesley Guild, The
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Folkebevægelsen mod EU
-
 Website of Danish eurosceptic political party

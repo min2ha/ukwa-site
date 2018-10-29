@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Mold & District Choral Society | Cymdeithas Gorawl Yr Wyddgrug A'r Cylch
-
 This is Flintshire's biggest mixed voice choir with around around 70 voices strong who rehearse in the town of Mold. 

@@ -10,6 +10,4 @@
   "start_date": "2017-12-16T09:00:00Z"
 }
 
-# Comann nam Pàrant
-
 Site of a Scottish national organisations established to offer advice and support on Gaelic medium education to parents, and to promote and support the establishment and maintenance of education through the medium of Gaelic. Site written in English and Scottish Gaelic (Gàidhlig)

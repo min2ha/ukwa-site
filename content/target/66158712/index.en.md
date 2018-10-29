@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Planning Renewables
-
 None

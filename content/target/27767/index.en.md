@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# International Business News UK: United States Declaration of Independence and Bill of Rights go on display in the UK for first time
-

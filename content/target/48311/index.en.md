@@ -10,6 +10,4 @@
   "start_date": "2017-01-17T09:00:00Z"
 }
 
-# Scottish Tribunals & Administrative Justice Advisory Committe (STAJAC)
-
 STAJAC provides external scrutiny of the devolved administrative justice and tribunals system in Scotland.

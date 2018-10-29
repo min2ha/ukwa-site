@@ -10,6 +10,4 @@
   "start_date": "2016-02-23T09:00:00Z"
 }
 
-# Millennium Bridge at Lancaster, The
-
 Information about the bridge over the River Lune built in 2001.

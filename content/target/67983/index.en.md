@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Birdfair
-
 celebrating birds and nature conservation

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rhiannon Spear on Facebook
-
 Facebook page of Rhiannon Spear, Scottish National Party list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

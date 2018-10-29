@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Michael Greenwell: The Scottish Independence Podcast
-
 None

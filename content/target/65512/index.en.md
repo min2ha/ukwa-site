@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Brett Johns MMA | Professional fighter in the UFC
-
 Brett Johns is a professional mixed martial artist from Swansea who competes in the Bantamweight division of the Ultimate Fighting Championship.

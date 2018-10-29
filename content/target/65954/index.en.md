@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Oil & Gas Innovation Centre (OGiC)
-
 Site of a programme that brings top quality research and development expertise to the oil and gas industry’s innovation challenges, enabling rapid route to problem solving and the acceleration of new technology development.

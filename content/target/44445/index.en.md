@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# OXPOL:Brexit Buyers’ Remorse? Non, on ne bregrette rien
-
 An article speculating about the vote to leave the EU Referendum, and whether leave supporters regret their decision.

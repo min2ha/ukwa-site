@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotland qualify for Women’s World Cup for first time as England win 6-0
-
 Online news article about the Scotland women's team qualification for the World Cup in France, 2019.

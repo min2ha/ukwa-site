@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Badenoch and Strathspey Ladies Shinty Club on Facebook
-
 Facebook page for the Badenoch and Strathspey women's shinty team.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: White Tory men dominate EU referendum coverage, research finds 
-
 Guardian The

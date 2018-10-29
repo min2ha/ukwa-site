@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Charlton Atheltic Women FC
-
 Charlton Athletic Women's Football Club

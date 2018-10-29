@@ -10,5 +10,3 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# West Wales for Refugees Cymru on Facebook
-

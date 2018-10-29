@@ -10,5 +10,3 @@
   "start_date": "2012-07-30T00:00:00Z"
 }
 
-# Golf Visit Wales | Golfing Breaks and Weekends
-

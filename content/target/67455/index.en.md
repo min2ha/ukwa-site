@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Leading Tory rebel Dominic Grieve rejects May's Brexit compromise
-
 The government's compromise amendment to the "meaningful vote" clause in the EU Withdrawal Bill to avoid a Commons defeat on Brexit was rejected as "unacceptable" by leading rebel Dominic Grieve. BBC political editor Laura Kuenssberg said Remain-leaning Tory MPs were furious and it set the scene for another big showdown when the bill returned to Parliament.
 

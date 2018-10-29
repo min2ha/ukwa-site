@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: People power should be front and centre in Labour’s new political vision
-
 None

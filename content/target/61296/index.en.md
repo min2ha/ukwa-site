@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# British Library: LGBTQ histories
-
 A subsection of the British Library website that highlights the collections items that document the LGBTQ histories.

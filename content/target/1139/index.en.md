@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Greater Manchester and Cheshire Cancer Network
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-12-17T09:00:00Z"
 }
 
-# Medingen Manuscripts
-
 The website reassembles the scattered manuscripts and prints of the Cistercian nuns of Medingen

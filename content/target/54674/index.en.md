@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Parentzone: The Perfect Generation: Is the Internet Undermining Young Peoples Mental Health?
-
 A new report from Parent Zone on the effects of the internet on young people’s mental health.

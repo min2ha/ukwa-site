@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Association of Colleges : Leaving the EU - support for colleges
-
 AoC updates providing advice for colleges following the referendum result to leave the EU.

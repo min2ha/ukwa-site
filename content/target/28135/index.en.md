@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Doug McNeall (@dougmcneall) on Twitter
-
 Twitter feed of climate scientist Doug McNeall from the UK Met Office Hadley Centre.

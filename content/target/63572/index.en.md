@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Pencaitland Parish Church
-

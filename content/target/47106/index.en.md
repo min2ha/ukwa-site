@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Priocept
-
 Priocept helps businesses to create digital products and services. They design, build and run web technology platforms. 

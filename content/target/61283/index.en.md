@@ -10,8 +10,6 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# CRSH Architecture and Energy
-
 
 
 CRSH Architecture and Energy are an Architectural Practice based in Abergavenny and specialise in zero and low energy buildings, with innovative design.

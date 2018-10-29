@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Tony Blair claims the UK would break up if Britain leaves the EU in first intervention from former Prime Minister   
-

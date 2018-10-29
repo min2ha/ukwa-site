@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dumfries Northwest Church of Scotland
-
 The website of Dumfries Northwest Church of Scotland. 

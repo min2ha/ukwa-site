@@ -10,6 +10,4 @@
   "start_date": "2014-11-06T06:00:00Z"
 }
 
-# Stumbling blocks to stepping stones
-
 <p>Blog written by a retired (Quaker) librarian.</p>

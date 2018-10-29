@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# The Tony Douglas-Jones  Online Gallery  of paintings
-
 Tony Douglas-Jones is an oil and watercolour. Much of his works is of the steel industry in Wales.

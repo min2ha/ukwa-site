@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Pontypool Male Choir | Côr Meibion Pont y pwl
-
 Pontypool Male Voice Choir was founded in 1930 and was originally known as the Pontypool Comrades Gleeman. They rehearse at Panteg House, Griffithstown.

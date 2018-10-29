@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Swansea Gospel Male Voice Choir
-
 Swansea Gospel Male Voice Choir are a choir of around fifty Christian men. The choir began in the 1970s.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Grant Shapps sacked from Cabinet by David Cameron
-
 None

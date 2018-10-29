@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Media Diversified
-
 Media Diversified is a non-profit organisation that seeks to promote skilled writers of colour by providing advice and contacts, and providing content online through its own platform. With a UK base, it contributes to ongoing global discussions on issues of social justice, equality, gender, politics, economics and pop culture.

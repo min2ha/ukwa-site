@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Target Ovarian Cancer: Our General Election 2015 Manifesto
-
 Target Ovarian Cancer is the national ovarian cancer charity working to save lives and help women diagnosed.

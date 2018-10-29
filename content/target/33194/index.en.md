@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War 1 memorial stained glass window, Peace Chapel, Stoke Minster
-
 The aim of this project is to restore the Peace Chapel stained glass window to ensure it remains as a permanent memorial to those who fought and died in World War 1 and a legacy of those students who created it.

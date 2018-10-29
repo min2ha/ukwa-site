@@ -10,6 +10,4 @@
   "start_date": "2013-03-12T00:00:00Z"
 }
 
-# Ottawa Welsh Society | Cymdeithas Cymru Ottawa
-
 Cymdeithas Cymraeg

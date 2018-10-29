@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Caerau Metals
-
 Caerau Metals is the website for Pamela Rawnsley (jeweller and silversmith) and Matthew Tomalin (ironcaster). Both work from the Caerau Farm workshops.

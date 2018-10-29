@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great Wakering World War 1 Community Mosiac
-
 Project to create a community mosiac sited at the school seeking to highlight the heritage of the community arising from the events of World War 1.

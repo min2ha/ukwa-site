@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May tells EU leaders their plans must 'evolve'
-
 Theresa May has said the EU must "evolve" its stance on the Irish border as she sought to persuade fellow leaders about the viability of her Brexit plan at the September 2018 European Council meeting..
 

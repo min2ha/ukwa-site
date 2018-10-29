@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: David Cameron has just become the best advert for leaving the EU says LEO MCKINSTRY
-
 Column by Leo McKinstry

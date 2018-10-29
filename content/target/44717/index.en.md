@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T11:00:00Z"
 }
 
-# Amelia Trust Farm
-
 Amelia Trust Farm is located in Barry and supports disadvantaged and vulnerable people through alternative education interventions and community engagement. 

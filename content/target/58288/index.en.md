@@ -10,6 +10,4 @@
   "start_date": "2017-11-01T09:00:00Z"
 }
 
-# Honey Farm Books
-
 Honey Farm Books is a small independent book publishers based in Wales.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Labour Birmingham (@Labour+Birimingham) on Twitter
-
 Twitter account of Labour for Birmingham, providing information on campaigns, events, representatives and candidates and local and national news updates.

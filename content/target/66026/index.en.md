@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# McDuff Revival
-
 Site of a contemporary art, heritage and food project in the town of McDuff (traditionally Banffshire) Aberdeenshire, aiming to raise the profile of Macduff by revealing and re-interpreting its history, its place and its people.

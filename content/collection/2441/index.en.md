@@ -203,6 +203,4 @@
   "endDateText": "31-03-2013"
 }
 
-# Queen's Diamond Jubilee, 2012
-
 This is a special collection of websites selected by the Royal Archives, the British Library and the Institute of Historical Research around a subject of topical interest and national importance to the UK, the Diamond Jubilee of Queen Elizabeth II, 2012. The collection includes archived copies of websites produced by the Royal Household together with a wide range of related material such as Blogs, commentaries and news articles. 

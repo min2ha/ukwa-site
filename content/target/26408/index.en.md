@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Farage sips tea and talks contradictions in the Last Chance saloon
-
 None

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Dr Sarah-Louie Quinnell
-
 None

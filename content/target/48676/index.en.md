@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Downfield Junior Football Club
-
 Site of a Scottish junior football club based in Dundee, Angus, Scotland.

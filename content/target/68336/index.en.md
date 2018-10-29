@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chippenham Rugby Club
-
 Est 1898. Chippenham RFC is a Community Club with the policy of Rugby for All.

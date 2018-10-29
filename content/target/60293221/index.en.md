@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# UK Political Info: Women MPs and parliamentary candidates since 1945
-

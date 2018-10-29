@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Rhys Milsom
-
 Rhys Milsom is a Welsh author.

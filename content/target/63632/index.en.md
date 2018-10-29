@@ -10,5 +10,3 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Alexandria Parish Church
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London Bees
-
 London Bees is an English women's football club affiliated with Barnet F.C.. They play in the FA WSL 2. The club has been in existence under several names since 1975. Originally titled District Line Ladies F.C.

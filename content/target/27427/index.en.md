@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# Mostyn Art Gallery
-
 Llandudno art gallery.

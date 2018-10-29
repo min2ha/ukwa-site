@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# The Hawick Paper
-

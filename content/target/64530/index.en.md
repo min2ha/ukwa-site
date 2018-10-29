@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Mick Sheridan Upholstery Blog 
-
 Mick Sheridan is a second generation upholsterer based at the Last Gallery Workshops, Llangadog. His specialisty is British wool fabrics. This is his blog published since 2011.

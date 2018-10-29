@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Pankhurst Centre
-
 The Pankhurst Centre provides a museum area open to all and a women-only space that is a unique environment in which women can learn together, work on projects and socialise. The Centre is of historical significance as it was the home of Emmeline Pankhurst and her daughters Sylvia, Christabel and Adela, and is the place where the first meeting of the Women's Social and Political Union took place. 

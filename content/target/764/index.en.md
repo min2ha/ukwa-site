@@ -11,6 +11,4 @@
   "subject": "Health and Social Care Act 2012 - NHS Reforms"
 }
 
-# Royal College of Physicians (RCP)
-
 They are the professional membership body for physicians, with over 30,000 members and fellows across the globe. Physicians diagnose and treat illness, and they promote, maintain and restore health.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Collective Imagery: CoDesign with Communities
-
 <p>Dr. Pricilla Cheung-Nainby's blog, recording the imagery and words of her practice, including a series of creative weave community art installations on the Scottish Referendum.</p>

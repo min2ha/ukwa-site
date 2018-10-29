@@ -10,5 +10,3 @@
   "start_date": "2010-09-06T00:00:00Z"
 }
 
-# Gareth Hughes : The First Welsh Film Star & Missionary
-

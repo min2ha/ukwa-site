@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Would Labour government be legitimate if it had fewer MPs than the Tories
-
 None

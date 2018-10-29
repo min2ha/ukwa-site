@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Thomas Docherty for Mid Scotland and Fife on Facebook
-

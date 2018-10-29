@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# CommonSpace: Poll: Europeans push EU governments to accept independent Scotland
-

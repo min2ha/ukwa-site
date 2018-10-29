@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Green Party Fermanagh South Tyrone (@greenpartyfst) on Twitter
-
 Twitter feed of Green Party Fermanagh South Tyrone

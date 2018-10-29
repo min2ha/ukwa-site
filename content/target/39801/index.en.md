@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Arthur Horner (@WelshCommunists) on Twitter
-
 The Welsh Communist Party is a bi-lingual party, active in union and community struggles as well as solidarity with the Cuban revolution and Venezuela.

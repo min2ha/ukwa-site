@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: English voters believe Labour-SNP coalition will destabilise Britain
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carinish Church of Scotland
-
 Site of a Church of Scotland parish church at Carinish, North Uist, Western Isles [Na h-Eileanan Siar].

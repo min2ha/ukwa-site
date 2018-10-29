@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dancin' Oxford
-
 Website for Dancin' Oxford

@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Daily Mail: Harry Potter books are all very good, Theresa May tells pupil
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Osborne advised using financial loopholes to avoid tax and care costs
-
 None

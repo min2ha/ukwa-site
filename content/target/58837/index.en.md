@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Getting Wales Moving
-
 The Getting Wales Moving Conference - 'Delivering on the Well Being Future Generations Act' is a conference held in Cardiff in 2018 and will focus on the Well Being Future Generations Act, a piece of legislation with the aim of drastically improving the economic, physical and mental wellbeing of current and future generations through the creation of a healthier, more prosperous, more cohesive and more resilient society.

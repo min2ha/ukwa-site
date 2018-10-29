@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Library Carpentry: Data Intro for Librarians on Github
-
 This Library Carpentry lesson introduces librarians to working with data. At the conclusion of the lesson you will: understand terms, phrases, and concepts in software development and data science; identify and use best practice in data structures; use regular expressions in searches.

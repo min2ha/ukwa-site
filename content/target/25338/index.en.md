@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Arif Ansari (BBC Lib Dem Campaign Correspondent) (@ArifBBC) on Twitter
-

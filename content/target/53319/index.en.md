@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# JustGiving: Fund Kenneth Lowry's Campaign to get elected in Birmingham Selly Oak #GE17
-
 An online crowd funding campaign to Fund Kenneth Lowry's Campaign to get elected in Birmingham Selly Oak in the 2017 UK General Election. He is running for UKIP.

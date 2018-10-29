@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bruce Tasker Bobsleigh on Twitter 
-

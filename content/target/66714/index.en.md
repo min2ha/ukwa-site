@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Llanfihangel Rhos-y-corn Community Council
-
 Llanfihangel Rhys-y-Corn is a Community Council covering the villages of Abergorlech, Brechfa, Gwernogle, Llidiad Nennog and Nantyffin. These villages are situated near Brechfa Forest in Carmarthenshire.

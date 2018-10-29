@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Bi Cymru/ Wales
-
 Bi Cymru/ Wales is an All-Wales network for people attracted to more than one gender and people who think they may be bi.

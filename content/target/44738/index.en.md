@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Duncan Scott
-
 The official website of swimmen Duncan Scott.

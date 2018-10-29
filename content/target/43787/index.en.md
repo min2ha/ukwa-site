@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# "Tories out" protest: as Cameron goes, demand a new election
-
 A protest organised by Lexit - the Left Leave Campaign

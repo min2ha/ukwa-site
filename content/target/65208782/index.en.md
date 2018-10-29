@@ -10,5 +10,3 @@
   "start_date": "2012-06-08T00:00:00Z"
 }
 
-# JISC Regional Support Centres
-

@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Jamia Islamia
-
 Site of a mosque and Islamic community centre located in Glasgow.

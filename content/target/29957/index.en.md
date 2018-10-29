@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Cat Laughs Comedy Festival, The
-
 The Cat Laughs Comedy Festival held in Kilkenny

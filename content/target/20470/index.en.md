@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Lib Dems' education policies: you ask the questions
-
 None

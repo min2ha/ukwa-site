@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rob Sale (@heatingplumbeng) on Twitter
-
 Twitter profile of Rob Sale, UK Independence Party (UKIP) candidate for East Kilbride, Stathaven and Lesmahagow in the 2015 UK General Election.

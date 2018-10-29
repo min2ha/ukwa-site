@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron's chief spinner on leaders' debates: No no no! The PM should hide and throw things at Miliband
-

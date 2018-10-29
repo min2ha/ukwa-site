@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# South Bucks District Council
-
 The website of South Bucks District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

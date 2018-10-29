@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Bridgend & District Local History Society
-

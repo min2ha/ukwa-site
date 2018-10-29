@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Catherine Fookes on Facebook (Labour candidate for Monmouth)
-
 Catherine Fookes is the Labour candidate for Monmouth at the 2016 National Assembly Election. 

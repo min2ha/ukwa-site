@@ -10,6 +10,4 @@
   "start_date": "2017-06-01T09:00:00Z"
 }
 
-# Birkdale Community Hub and Library at the Station Master’s House
-
 Friends of Birkdale Library changed its name to Birkdale Community Hub and Library at the Station Master’s House. 

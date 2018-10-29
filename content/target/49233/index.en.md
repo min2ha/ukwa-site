@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Luncarty Football Club
-
 Site for a Scottish junior football club based in Luncarty, Perth & Kinross.

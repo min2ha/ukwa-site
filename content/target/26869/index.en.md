@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Llanelli Pwyllgor Streic 1911-2011 | Llanelli Strike Committee 1911-2011 
-
 History of the 1911 Railway Strike in Llanelli commemorated in 2011.

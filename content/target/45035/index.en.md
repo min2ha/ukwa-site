@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Daily Record: Cycling star Katie Archibald on the crash that almost ruined her dreams and hopes for the future
-

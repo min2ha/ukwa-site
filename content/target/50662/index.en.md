@@ -11,6 +11,4 @@
   "subject": "Legal Aid Reform"
 }
 
-# Goodwill & Growth for Africa UK
-
 Goodwill and Growth for Africa UK (GAGA) is based just outside Stratford upon Avon, Warwickshire. GAGA is dedicated to helping children and communities affected by HIV - AIDS, poverty and violence in Africa, and everyone involved prides themselves on this approach to its work.

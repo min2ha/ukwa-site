@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Lockerbie Dryfesdale, Hutton and Corrie Church of Scotland
-
 Site of a goup of Church of Scotland parish churches in and around Lockerbie, Dumfries and Galloway.

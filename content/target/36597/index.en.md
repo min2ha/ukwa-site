@@ -10,6 +10,4 @@
   "start_date": "2016-03-03T09:00:00Z"
 }
 
-# Aneurin Leisure Trust
-
 Aneurin Leisure Trust delivers leisure, learning and cultural services across Blaenau Gwent and is run by Bleanau Gwent County Borough Council.

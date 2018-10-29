@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# New Pound Coin, The 
-
 The new 12-sided £1 Coin was released on 28th March 2017.

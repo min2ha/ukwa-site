@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Catholic Herald: Cardinal O'Brian is surely right about Scottish independence from England: but what about English independence from the Scots
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage brands pub invaders 'scum' as protesters jump on his car bonnet
-
 None

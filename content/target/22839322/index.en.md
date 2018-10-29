@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# Penny Prime
-
 Welcome to the web site of homeopath Penny Prime.

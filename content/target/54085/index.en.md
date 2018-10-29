@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Can You Trust Theresa 
-
 Theresa May will say anything to hold on to power. Here are 10 reasons why you can’t believe a word she says.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Laura Powell
-
 Laura Powell is a novelist and journalist at the Daily Telegraph and is originally from Wales.

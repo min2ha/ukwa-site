@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Table Tennis Scotland
-

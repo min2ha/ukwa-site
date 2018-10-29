@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Under the Green Hill
-

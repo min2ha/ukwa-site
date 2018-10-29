@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# La Biciteca on Twitter
-
 Twitter account of La Biciteca, or the Wee Spanish Mobile Library associated with Familias en Glasgow. 

@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Leeds Russian Archive Collections
-
 The Leeds Russian Archive, established in 1982, comprises around 650 collections of manuscripts, photographs, and other archival material related to Anglo-Russian contacts in the 19th and 20th centuries.

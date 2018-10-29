@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ross Greer on Facebook
-
 This is the Facebook page of Ross Greer, the Scottish Green Party candidate for East Dunbartonshire in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Annan Online
-
 Site of a community organisation providing information on businesses and amenities for residents and visitors on the town of Annan, Dumfries & Galloway, Scotland.

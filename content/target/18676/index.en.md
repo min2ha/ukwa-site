@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Four surviving Magna Carta copies on show together after 800 years
-

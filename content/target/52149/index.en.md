@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Political Science Resources
-
 Politics and Government mainly in the UK and the USA

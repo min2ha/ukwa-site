@@ -11,6 +11,4 @@
   "subject": "Slavery and Abolition in the Caribbean"
 }
 
-# V&A: Images of slavery & abolitionism
-
 one off crawl

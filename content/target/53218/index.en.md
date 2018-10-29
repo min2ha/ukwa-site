@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# YMCA: General Election Manifesto 2017
-
 Contained within this manifesto are messages of change for the next government; not always ones which are easily achievable but ones which are necessary if we want to live in a society that truly supports and develops young people in our communities. One message that is absolutely clear is that YMCA today – like every other day for the past 173 years – stands ready, willing and able to deliver this change with government, society and young people.

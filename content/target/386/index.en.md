@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kirklees Health and Wellbeing Board
-
 None

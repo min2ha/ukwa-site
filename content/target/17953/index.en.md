@@ -10,6 +10,4 @@
   "start_date": "2015-03-13T09:00:00Z"
 }
 
-# Association for Child and Adolescent Mental Health (ACAMH), The
-
 The Association for Child and Adolescent Mental Health (ACAMH) is committed to multi-disciplinary research and practice within child and adolescent mental health.  It does this through publication of new research findings and dissemination of innovative practices.  

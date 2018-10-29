@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Adam Cox (adamcox131186) on Twitter
-
 <p>The twitter profile of althete Adam Cox, gymnast and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

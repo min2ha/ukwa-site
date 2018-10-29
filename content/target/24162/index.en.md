@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The Conservatives believe in prosperity - Labour in a magic money tree
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Barra Hebrides
-
 Information resource for islanders and visitors to Barra and Vatersay.

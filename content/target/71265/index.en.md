@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# UCL Your Universe 2018
-
 Free festival of astronomy and particle physics at UCL

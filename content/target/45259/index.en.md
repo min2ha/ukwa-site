@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# UWS-Oxfam Partnership
-
 A research partnership between the University of the West of Scotland and Oxfam Scotland, which examines civic issues.

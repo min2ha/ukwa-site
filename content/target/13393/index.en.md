@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Linda Fabiani (LindaFabianiSNP) on Twitter
-
 The twitter profile of Linda Fabiani, the Scottish National Party Member of the Scottish parliament for East Kilbride.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T08:00:00Z"
 }
 
-# Thames Clippers
-
 Thames Clippers are a fleet on the river Thames with departures from major London piers. 

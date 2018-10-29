@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Natalie Bennett: Listen to Green Party leader's excruciating LBC radio interview 
-
 None

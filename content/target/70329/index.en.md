@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Lawyers, Conflict, and Transistion
-
 This project explores the role of lawyers during conflicts, dictatorships and political transitions.

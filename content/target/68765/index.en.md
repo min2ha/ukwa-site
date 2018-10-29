@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Association of Anatomical Pathology Technology (AAPT)
-
 The AAPT is committed to working with the appropriate authorities and organisations to help ensure, and improve, the professional, educational and practical standards for technologists across the United Kingdom and beyond.

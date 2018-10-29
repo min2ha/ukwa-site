@@ -10,6 +10,4 @@
   "start_date": "2015-07-25T10:00:00Z"
 }
 
-# Fatherhood Institute, The
-
 The Fatherhood Institute is the UK’s fatherhood think-and-do-tank and a registered charity. The Fatherhood Institute’s vision is a society that gives all children a strong and positive relationship with their father and any father-figures; supports both mothers and fathers as earners and carers; and prepares boys and girls for a future shared role in caring for children.

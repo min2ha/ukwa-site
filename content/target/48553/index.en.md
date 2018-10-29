@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Obsidian Group Ltd, Ascension Island  
-
 Obsidian Group run the Obsidian Hotel, Budget Hotels, Hostel Accommodation & Self Catering Villas on Ascension Island.

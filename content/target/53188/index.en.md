@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Uxbridge and South Ruislip Labour (@UxbridgeLabour  ) on Twitter
-
 Official Twitter account of Uxbridge and South Ruislip Labour promoting the election of Vincent Lo as MP in 2017.

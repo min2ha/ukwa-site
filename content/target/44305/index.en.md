@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Richmondshire District Council
-
 Website of Richmondshire District Council gives access to information about their activities and services, planning policy, and budget and finances. You can also access committee papers and minutes, and respond to consultations

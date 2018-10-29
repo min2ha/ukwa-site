@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# MJH Personnel Associates Ltd
-

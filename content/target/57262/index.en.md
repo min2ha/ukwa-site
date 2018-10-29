@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Fountain Fine Art 
-
 Fountain Fine Art is an art gallery based in Llandeilo.

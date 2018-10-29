@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Albans RFC on Pitchero
-
 The official website of St. Albans Rugby Football Club

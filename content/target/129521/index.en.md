@@ -10,6 +10,4 @@
   "start_date": "2006-03-22T00:00:00Z"
 }
 
-# Gwyl Sgrîn Caerdydd - Cardiff Screen Festival
-
 Site no longer exists.

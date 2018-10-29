@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Colin Rhys Gregor (colingregor) on Twitter
-
 <p>The twitter profile of Colin Rhys Gregor, rugby player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK suggests 'untested' customs system with EU
-
 The government proposed an "innovative and untested approach" to customs checks as part of its Brexit negotiations. The model, one of two put forward in a position paper, would mean no customs checks at UK-EU borders. The UK's alternative proposal - a more efficient system of border checks - would involve "an increase in administration", it admitted.

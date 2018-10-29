@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Technical note on the exchange and protection of classified information
-
 The note sets out the UK’s position on the technical arrangements necessary for the exchange and protection of classified information between the UK and the EU.
 

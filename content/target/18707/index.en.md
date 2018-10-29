@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian Holiday Offers, The: The Story of the Magna Carta
-

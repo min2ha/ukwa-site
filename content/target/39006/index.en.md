@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Aviation Preservation Society of Scotland
-
 Site of a Scottish group committed to the preservation of the history and skills of aviation in Scotland.

@@ -10,5 +10,3 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# Ardal Cadwraeth Arbennig (ACA) Pen Llŷn a’r Sarnau | Pen Llŷn a’r Sarnau Special Area of Conservation (SAC)
-

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Welsh Procurement Awards
-
 <p>The website for Institute for Competition &amp; Procurement Studies run by Bangor Law School, Bangor University.</p>

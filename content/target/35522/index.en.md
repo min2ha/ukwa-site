@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alys Mumford (@alysmumford) on Twitter
-
 The Twitter profile of Alys Mumford, Scottish Green Party candidate for Lothian in the 2016 Scottish Parliament election.

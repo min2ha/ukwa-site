@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Caberfeidh Shinty Club on Facebook
-
 Facebook page for a shinty club based in Strathpeffer, Highland [formerly Ross & Cromarty]

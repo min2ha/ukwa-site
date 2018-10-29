@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Theresa May and Brexit: she is failing to govern
-

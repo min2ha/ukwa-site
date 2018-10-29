@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lichfield Cathedral
-
 The Lichfield Cathedral has a rich history, reflected in its architecture and treasures, and it continues to inspire and encourage all who visit it as tourists, pilgrims or worshipers.

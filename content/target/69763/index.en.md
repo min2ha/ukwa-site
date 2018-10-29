@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba's Roman Catholic Church Paisley
-
 Site of a Scottish Roman Catholic parish church located in Paisley, Renfrewshire.

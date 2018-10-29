@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Jeremy Corbyn calls for election if MPs vote down May's Brexit deal
-
 Jeremy Corbyn told Theresa May in his speech at the 2018 Labour Party Conference that Labour MPs would vote against her Chequers plan unless she is willing to accept his proposal to keep Britain in a customs union and protect consumer standards and workers’ rights after Brexit.

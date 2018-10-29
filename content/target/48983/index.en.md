@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Dovecot Studios
-
 Site of a gallery in Edinburgh, a centre for contemporary art, craft and design built around an international tapestry studio.

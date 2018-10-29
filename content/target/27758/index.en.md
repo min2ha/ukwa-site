@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: David Cameron pretended not to know what Magna Carta meant, says Boris Johnson
-

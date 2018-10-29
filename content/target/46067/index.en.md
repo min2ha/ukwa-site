@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Just Ask Wales
-
 A Welsh Government offering support and advice for businesses who wish to locate their business and invest in Wales.

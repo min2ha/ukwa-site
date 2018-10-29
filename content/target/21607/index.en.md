@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Macmillan Cancer Support: General Election 2015
-
 Macmillan Cancer Support is one of the largest British charities and provides specialist health care, information and financial support to people affected by cancer.
 
 As well as helping with the medical needs of people affected by cancer, Macmillan also looks at the social, emotional and practical impact cancer can have, and campaigns for better cancer care. Macmillan Cancer Support's goal is to reach and improve the lives of everyone living with cancer in the UK.

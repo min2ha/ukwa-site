@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Why virtual reality could be a mental health gamechanger
-
 A news article about using virtual reality as a treatment for mental health

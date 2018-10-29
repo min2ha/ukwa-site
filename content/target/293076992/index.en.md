@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Gowertonian Society
-
 <p>The site provides a history of Gowerton Schools. The society os open to past pupils of either Gowerton Grammar or Comprehensive School.</p>

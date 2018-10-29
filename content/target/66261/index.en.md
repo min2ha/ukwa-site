@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Uist Roman Catholic Parishes
-
 Site of a group of Roman Catholic parish churches in Scotland, covering St. Joseph, Howbeg, St. Mary's, Bornish, St. Bride's, Gernish and St. Michael's, Ardkenneth.
 

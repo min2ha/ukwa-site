@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# TES: General election 2017
-

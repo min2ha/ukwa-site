@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alistair Carmichael (Liberal Democrat MP for Orkney & Shetland)
-
 Alistair Carmichael, Scottish Liberal Democrat candidate for Orkney and Shetland in the 2017 general election.

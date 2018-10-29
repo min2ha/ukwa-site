@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hugh Lanning (Labour candidate for Canterbury)
-

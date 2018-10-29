@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# OpenSight East of England Cancer Information Portal
-
 None

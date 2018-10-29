@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# AFTPS (@aftpscotland) on Twitter
-
 Association of Film and Television Practitioners Scotland, lobbying on behalf of freelance crew to the Scottish public sector to support the industry.

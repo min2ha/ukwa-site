@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Historvius
-
 Travel information site listing and describing historical locations.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Preston Athletic Football Club
-
 Site of an amateur Scottish football team based in Prestonpans, East Lothian.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Visit the Vale
-
 Visit the Vale is a tourism information guide to the Vale of Glamorgan provided by the Vale of Glamorgan County Borough Council.

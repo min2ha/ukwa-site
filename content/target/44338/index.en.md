@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Biggar Little Cinema
-
 Site of a community cinema located in Biggar, South Lanarkshire, and fun on a non-profit basis by members of the Rotary Club of Biggar.

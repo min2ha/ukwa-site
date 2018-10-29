@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Smith & Nephew plc
-
 Smith & Nephew plc is a British-based multinational medical equipment manufacturing company. It is an international producer of advanced wound management products, arthroscopy products, trauma and clinical therapy products, and orthopedic reconstruction products. Its products are sold in over 120 countries.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Glenrath Farms Limited
-
 The website of Glenrath Farms Limited, a Scotland-based egg production and distribution company.

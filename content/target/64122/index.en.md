@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# East End Sisters (@eeSistersUncut) on Twitter
-
 East London @SistersUncut collective. Feminist group taking direct action for domestic violence services.

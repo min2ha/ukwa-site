@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Joseph's, Helensburgh
-
 Site of a Scottish Roman Catholic parish church located in Helensburgh, Argyll & Bute.

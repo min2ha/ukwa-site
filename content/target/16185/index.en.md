@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bethan Ruddock's Slideshare
-
 <p>Slideshare page for Bethan Ruddock, author of the New Professional's Toolkit, who works for Library and Archival Services at Mimas, a nationally designated data centre (part of the Digital Resources Division at JISC).</p>

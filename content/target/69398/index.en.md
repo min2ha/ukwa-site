@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home:  There must be no compromise on ending free movement
-
 Politicians advocating continued free movement of people, or preferential treatment of EU citizens, are not only out of touch, but also supporting a discriminatory and arguably xenophobic system which was rejected by the British people in the 2016 referendum. It’s time for the Government and the Home Secretary to stand up to the EU, take back control of Britain’s borders, and establish a fair and skills-based immigration system.
 

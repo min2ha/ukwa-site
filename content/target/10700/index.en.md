@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Richard Elvin (@globalrichard) on Twitter (UKIP Politician)
-
 Richard Elvin stood as UK Independence Party (UKIP) candidate in the constituency of South Shields in the 2017 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# Scottish Nationalist Party Statements on the Chilcot Report
-
 The SNP's view of Chilcot Report

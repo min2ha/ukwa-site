@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Philip Hammond (@PhilipHammondUK  ) on Twitter (Conservative Politician)
-
 Philip Hammond stood as Conservative candidate for Runnymede and Weybridge at the 2017 General Election and was successful. He was first elected to serve as MP for Runnymede and Weybridge in 1997 and was re-elected in 2001, 2005, 2010, 2015 and 2017. He was appointed as Chancellor of the Exchequer by Theresa May in July 2016.

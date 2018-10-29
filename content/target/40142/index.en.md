@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Theresa May’s plan to trash European human rights law is posturing nonsense
-
 Guardian, The

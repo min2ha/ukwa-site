@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Negotiations over EU membership have been a sham all along, blasts ROSS CLARK
-
 Comment by Ross Clark

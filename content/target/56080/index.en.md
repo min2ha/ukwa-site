@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-#   Cardiff Archaeological Society | Cymdeithas Archeolegol Caerdydd
-

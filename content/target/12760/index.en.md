@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Visible Fictions
-
 <p>Visible Fictions. Innovative Glasgow based theatre company who are performing “Get on your bike” in green spaces across Scotland as part of the Glasgow 2014 Cultural programme.</p>

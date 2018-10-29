@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Cer i Greu Cymru | Get Creative Wales
-
 Get Creative is a year-long BBC celebration of British arts, culture and creativity. On the weekend of 7-9 April 2017,  the BBC Wales, Arts Council of Wales, Voluntary Arts Wales and What Next? invites you to celebrate the arts and creativity across Wales.

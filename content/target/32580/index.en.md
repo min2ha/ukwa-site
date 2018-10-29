@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Sinclair QL Wiki
-
 Wiki details about one of Sir Clive Sinclair's well-loved and iconic home computers - the Sinclair QL.

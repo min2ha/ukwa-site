@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Martin Smyth 'misled' over DUP South Belfast nomination papers
-
 None

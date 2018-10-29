@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Bottle Digging UK
-
 Bottle Digging, a British antique bottle forum

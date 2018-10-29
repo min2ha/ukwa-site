@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Redeemer
-
 Redeemer is a church based in Ealing, London.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Highland Parish Church, The
-
 Parish website of the Highland Parish Church. The Highland Parish Church grew out of the original Parish Church of Lochhead. 

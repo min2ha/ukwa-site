@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# MoneySuperMarket.com
-
 MoneySuperMarket.com helps customers grow, save and manage their money across their household bills.It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

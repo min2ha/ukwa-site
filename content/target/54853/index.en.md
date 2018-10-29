@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Am I Pretty Now?: HOW IS YOUTUBE AFFECTING US?
-
 Am I Pretty Now?: HOW IS YOUTUBE AFFECTING US? blog post 

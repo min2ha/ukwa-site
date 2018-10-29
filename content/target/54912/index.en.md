@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# Client Earth
-
 Client Earth are activist lawyers committed to securing a healthy planet

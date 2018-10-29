@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Fisher Meredith Solicitors: Brexit blog
-

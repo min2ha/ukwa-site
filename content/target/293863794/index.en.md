@@ -10,6 +10,4 @@
   "start_date": "2017-05-11T09:00:00Z"
 }
 
-# National Library of Wales: Seiliau | Seals
-
 The Seals in Context: Medieval Wales and the Welsh Marches exhibition, hosted at the National Library in 2012, was one of the main outputs of the Seals in Medieval Wales project, an Aberystwyth University and Bangor University project funded by the UK Arts and Humanities Research Council which ran from 2009-12. 

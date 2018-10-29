@@ -10,6 +10,4 @@
   "start_date": "2018-07-28T09:00:00Z"
 }
 
-# Leslie Evans (@PermSecScot) on Twitter
-
 Twitter profile of the Permanent Secretary of the Scottish Government.

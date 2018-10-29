@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# City of Chester Male Voice Choir
-
 The City of Chester Male Voice Choir was formed in 1941 and until 1999 were known as the Cestrian Male Voice Choir.

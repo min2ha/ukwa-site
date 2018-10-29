@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Conradh Na Gaeilge
-
 Site of a branch of the Gaelic League based in Glasgow, featuring articles in Irish Gaelic and English.

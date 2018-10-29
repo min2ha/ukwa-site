@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Cambridge Analytica
-
 US data company with UK office

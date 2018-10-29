@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Olympic Park 2012
-

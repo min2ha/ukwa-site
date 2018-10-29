@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# London Evening Standard:  London must look to be a city-state if hard Brexit goes ahead
-
 Argues that London stands to lose more than Scotland from a hard Brexit. The government has totally ignored London's interests.  It should seek more devolved powers and to keep more of its tax revenues.

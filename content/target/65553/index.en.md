@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# FirstGroup plc
-
 FirstGroup plc is a transport group registered and operating in the United Kingdom. It was formed in 1995 through the merger of the Badgerline Group plc and GRT Bus Group plc.

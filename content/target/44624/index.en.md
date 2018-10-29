@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Greater Manchester & District Campaign for Nuclear Disarmament 
-
 Greater Manchester & District CND We campaign forelimination of British nuclear weapons Global abolition of all Weapons of Mass Destruction
 A ban on the manufacture and use of depleted uranium weapons
 A nuclear-free, less militarised and more secure Europe

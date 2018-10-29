@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Left Foot Forward
-
 Left Foot Forward is a political blog for people who would describe them selves as progressives. They provide an analysis on British politics, policy, and current affairs.

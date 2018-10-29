@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Wikipedia official who accused Shapps is a Lib Dem
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2012-08-03T00:00:00Z"
 }
 
-# Castell Rock
-
 Music Gig

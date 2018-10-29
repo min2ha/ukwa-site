@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ex-NHS boss questions Tory and Lib Dem health service funding plans
-
 None

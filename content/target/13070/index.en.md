@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# So Say Scotland (SoSayScotland) on Twitter
-
 <p>The twitter profile of So Say Scotland, a project which aims to support and promote participative and deliberative democracy throughout Scotland.</p>

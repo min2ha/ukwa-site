@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: 20 destinations for 2015: Lincoln and the Magna Carta Trail
-

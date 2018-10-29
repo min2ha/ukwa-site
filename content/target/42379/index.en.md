@@ -10,6 +10,4 @@
   "start_date": "2016-06-06T10:00:00Z"
 }
 
-# Old Scottish Genealogy and Family History 
-
 Site of a genealogy service offering searches and information on resources relevant to Scottish family history.

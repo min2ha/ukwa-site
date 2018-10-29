@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ewan has something to say
-
 Ewan Hoyle is the Scottish Liberal Democrats candidate for the Glasgow list in the 2016 Scottish Parliament election.

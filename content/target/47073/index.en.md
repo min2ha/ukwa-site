@@ -10,5 +10,3 @@
   "start_date": "2016-11-16T09:00:00Z"
 }
 
-# Fforwm Hanes Cymru | History Forum for Wales
-

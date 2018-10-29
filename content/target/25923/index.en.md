@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The day Joey Essex hijacked the Liberal Democrats' campaign tour
-
 None

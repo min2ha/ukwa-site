@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Independent Age: Making the UK a great place to grow old: Issues for the incoming Government
-
 Presents proposals on how the next government should tackle the neglected issue of population ageing

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Womens Archive Wales (@AMC_WAW) on Twitter
-
 AMC/WAW works to promote and publicize the history of women in Wales

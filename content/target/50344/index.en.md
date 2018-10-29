@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Cawdor Castle
-
 Cawdor Castle dates from the late 14th century, having been built as a private fortress by the Thanes of Cawdor, with the ancient medieval tower built around the legendary holly tree – wherever you look, Cawdor Castle is steeped in intrigue and history.

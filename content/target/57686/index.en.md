@@ -10,6 +10,4 @@
   "start_date": "2017-10-06T09:00:00Z"
 }
 
-# Red and the Black, The
-
 Site to promote conference 'The Red and the Black – The Russian Revolution and the Black Atlantic'.  Conference to be held at the Institute for Black Atlantic Research (IBAR), University of Central Lancashire, Preston, 13-15 October 2017, to mark the centenary of the Russian Revolution.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Cardiff Steiner School
-
 Cardiff Steiner School is the only Steiner school in Wales, an education based on the educational philosophy of Rudolf Steiner.

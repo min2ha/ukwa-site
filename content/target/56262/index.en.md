@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Refinery29: The body positive movement made me hate my body
-
 Refinery29 article on negative effect of body positive movement 

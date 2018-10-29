@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: US tipster Nate Silver: Tories will win most seats – but outcome will be messy
-
 None

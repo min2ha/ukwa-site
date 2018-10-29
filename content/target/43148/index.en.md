@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU what? IMF’s head Christine Lagarde pleading with Britain to stay in the EU saying it makes us ‘more vibrant’ 
-
 Sun, The

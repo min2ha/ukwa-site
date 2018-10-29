@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent Online: Rochester Cathedral's treasured text, the Textus Roffensis, is part of Magna Carta celebrations
-

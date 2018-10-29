@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Côr Y Gyrlais Male Voice Choir
-
 Côr Y Gyrlais is a Male Voice Choirbased in Cwmtwrch, Swansea.

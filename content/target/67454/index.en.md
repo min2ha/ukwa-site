@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Help with care costs | Help gyda chostau iechyd
-
 Although treatment on the NHS is free at the point of delivery, in some cases there may still be some costs (eg. dental treatment). However, much or all of the cost can, in some cases be reclaimed, waived or you may be eligible for help under the NHS Low Income Scheme. This website explains the processes and sources available to reclaim your costs.

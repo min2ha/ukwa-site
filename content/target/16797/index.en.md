@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Country Land and Business Association (CLA): Unlock the Countryside’s Potential: CLA’s manifesto call to politicians
-
 The CLA is the membership organisation for owners of land, property and business in rural England and Wales.

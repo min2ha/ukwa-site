@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour and Unite teetering on edge of new battle over Karie Murphy
-
 None

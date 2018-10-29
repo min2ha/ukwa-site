@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sunday Express: THERESA MAY: We WILL leave the European Union
-
 The Prime Minister vows that she will not be derailed from her attempts to negotiate a deep and special partnership with the EU after Brexit 

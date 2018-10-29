@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson: Let the British lion roar
-
 In his speech at the 2017 Conservative Party Conference, Boris Johnson said it was time to "let the British lion roar" as he called for Brexit to be a moment of national renewal

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harborne Rugby Club (@harbornerfc) on Twitter
-
 The official Twitter account of Harborne Rugby Club, a sociable and family friendly club based in the heart of Harborne, near the centre of Birmingham. 

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Sharon Pavey: Equal Parenting
-
 A short article about equal parenting

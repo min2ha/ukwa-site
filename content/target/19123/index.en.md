@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hereford Cathedral: Magna Carta Celebrations 2015 - Programme Of Events
-

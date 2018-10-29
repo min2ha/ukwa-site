@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Jean-Claude Juncker pledge to help David Cameron win acceptable EU deal for Britain
-
 None

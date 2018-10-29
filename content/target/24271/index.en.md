@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nick Clegg refuses to rule out EU referendum deal
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Weyfest
-
 Website for Weyfest, a boutique-style music festival.

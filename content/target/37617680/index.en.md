@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Chris Chalk Art
-
 Chris Chalk is an artist whose work comprises of Landscape Paintings, Wildlife Paintings and Pet Portraits. His studio is located in Cilgerran. 

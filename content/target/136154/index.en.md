@@ -11,5 +11,3 @@
   "subject": "Africa UK"
 }
 
-# School of Oriental and African Studies (SOAS)
-

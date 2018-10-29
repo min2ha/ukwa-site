@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T11:00:00Z"
 }
 
-# Bob Jones Memorial Airshow, The
-
 The Bob Jones Memorial Airshowis held at Welshpool (Mid Wales) Airport.

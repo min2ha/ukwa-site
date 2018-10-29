@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# ReConEvent
-
 Site of a Research Conference established to raise and discuss current issues to do with research communication in academia and beyond, such as the use of metrics for evaluating research, access to publications, how to share and store data, government policy to how this affects careers and incentives for researchers.

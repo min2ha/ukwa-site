@@ -10,6 +10,4 @@
   "start_date": "2015-10-19T10:00:00Z"
 }
 
-# Secret London
-
 Blog for London news and opinions.

@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# 大英图书馆 / Da Ying Tu Shu Guan (The British Library) 
-
 The official British Library website in China. It promotes the libraries activities in China and its collections in Chinese. 

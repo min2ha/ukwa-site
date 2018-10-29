@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Cadoc's Catholic Church, Cardiff
-

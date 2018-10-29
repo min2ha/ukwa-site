@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Why we will need a new development bank post-Brexit
-
 When we leave the EU, the UK will  no longer be members of the European Investment Bank (EIB), currently based in London and in which it has been a major shareholder. The EIB has helped to fund many major investments in the UK. It is essential that the private and public sector continue to have access to such substantial long-term funding on reasonable terms which is often not available from the commercial sector.

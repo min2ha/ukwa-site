@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Total Politics (@TotalPolitics) on Twitter
-

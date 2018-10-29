@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Marks and Spencer Group plc: Corporate
-
 Marks and Spencer Group plc is one of the UK's leading retailers through high quality, own-brand Food, Clothing and Home products that they offer in 1,433 stores worldwide and online.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Galeri Caernarfon
-
 Galeri Caernarfon is non-profit community enterprise. Its centre, based at Victoria Dock, is a functional community/arts centre with a specific remit offering film, music, theatre, art, dance, comedy and workshops, and venue hire. 

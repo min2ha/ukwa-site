@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Beci Newton (@beci4Caerphilly) on Twitter
-
 Plaid Cymru candidate for 2015 Westminster election

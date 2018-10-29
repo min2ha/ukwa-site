@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Skelmorlie and Wemyss Bay Parish Church
-
 Site of a Church of Scotland parish church at Skelmorlie, Ayrshire.

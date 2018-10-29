@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T09:00:00Z"
 }
 
-# Light, Ladd & Emberton
-
 Light, Ladd & Emberton is a collective of three Wales-based dance artists - Deborah Light, Eddie Ladd and Gwyn Emberton. The collective is supported by the Wales Arts Council and produced by Laura Drane.

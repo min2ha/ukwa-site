@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Katie (katiearmitage) on Twitter
-
 <p>The twitter account of athlete Katie Armitage, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-#  National Centre for Excellence in the Teaching of Mathematics (NCETM)
-
 The aims of the National Centre for Excellence in the Teaching of Mathematics (NCETM) are to raise levels of achievement in maths, and to increase appreciation of the power and wonder of maths, across the school, sixth form college and further education system.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Clark Memorial Church, Largs
-

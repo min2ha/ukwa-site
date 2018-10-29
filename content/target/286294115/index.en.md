@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Collaborative Scotland: Day of Dialogue
-
 <p>Webpage about the Collaborative Scotland event, Day of Dialogue on the 4th September 2014.</p>

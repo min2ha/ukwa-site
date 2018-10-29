@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Red Pill Factory: Make Britain Great Again
-
 A right wing group based in the UK that support the US President Donald Trump and want to replicate some of his policies in the UK. 

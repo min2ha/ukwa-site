@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Guto'r Glyn.net
-
 Guto'r Glyn was a Welsh language poet of the later Middle Ages. The site is an online electronic edition of the poet’s work funded by Arts and Humanities Research Council (AHRC) and to the University of Wales and produced by Centre for Advanced Welsh and Celtic Studies in Aberystwyth.

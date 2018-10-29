@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Liberal Democrat European Group (LDEG)
-
 The Liberal Democrat European Group (LDEG) is the association for UK Liberal Democrats interested in European politics. 

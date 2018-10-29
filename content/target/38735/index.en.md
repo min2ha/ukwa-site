@@ -10,6 +10,4 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# Tayside and Fife Archaeological Committee
-
 Site of a group promoting archaeology in Tayside (Perth and Kinross, Angus and Dundee) and Fife bringing together individuals and organisations sharing a common interest in promoting and protecting the archaeology of the area.

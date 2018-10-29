@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Chris Griffin
-
 Chris Griffin is a Welsh artist from the Rhymney Valley.

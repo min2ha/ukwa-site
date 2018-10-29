@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fiona Donnelly (FionaDonnelly_) on Twitter
-
 <p>The twitter profile of athlete Fiona Donnelly, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

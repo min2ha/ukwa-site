@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# ScotsGay Magazine
-
 Site of a magazine based in Scotland aimed at the LGBT community.

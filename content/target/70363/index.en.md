@@ -10,6 +10,4 @@
   "start_date": "2018-08-24T09:00:00Z"
 }
 
-# Scotiana
-
 Site of a Canadian blog abouut Scotland.

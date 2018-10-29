@@ -11,7 +11,5 @@
   "subject": "100 Best Sites"
 }
 
-# Church of England
-
 <p>Christian Anglican.<br />
 The Established, Anglican Church of England.</p>

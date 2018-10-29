@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: I’ve completed one marathon effort – now for the electoral race
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Old Royal Naval College
-
 The Old Royal Naval College is the architectural centrepiece of Maritime Greenwich, a World Heritage Site in Greenwich, London. The site is managed by the Greenwich Foundation for the Old Royal Naval College (Foundation).

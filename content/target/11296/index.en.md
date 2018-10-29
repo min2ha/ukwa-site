@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Dr Johnson's House
-
 Website for visiting Samuel Johnson's townhouse in London

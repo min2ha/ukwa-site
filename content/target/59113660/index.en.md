@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# London International Festival of Theatre (LIFT)
-

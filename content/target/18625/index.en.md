@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# bbc News: UKIP candidate Donald Grewar resigns from role over comments
-

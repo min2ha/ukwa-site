@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nia Griffith (@NiaGriffithMP) on Twitter
-
 Nia Griffith - Labour candidate for Llanelli Constituency.

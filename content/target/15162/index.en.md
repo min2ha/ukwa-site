@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# My Tunstall
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-07-09T10:00:00Z"
 }
 
-# Connected Communities Project: Researching the Industrial and Post-Industrial Communities of the Swansea Valley
-
 The project seeks to develop community-focused research projects and activities that examine, celebrate and share the history of the Lower Swansea Valley and is run by Swansea University.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The seats to stay up for – and the numbers that matter – on election night
-
 None

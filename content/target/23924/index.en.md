@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General election: Ukip claims SNP is racist - as it happened
-
 None

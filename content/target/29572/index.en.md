@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Communities First Torfaen
-
 Communities First is a community focused programme for the Torfaen area that supports the Welsh Government’s Tackling Poverty agenda. 

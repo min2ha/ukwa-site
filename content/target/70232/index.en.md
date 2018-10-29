@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Business in the Community (BITC) Gender Equality
-
 Business in the Community (BITC) Gender Equality, a campaign working with employers to accelerate changes for women at work.

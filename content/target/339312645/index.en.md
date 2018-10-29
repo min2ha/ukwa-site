@@ -10,5 +10,3 @@
   "start_date": "2015-10-14T00:00:00Z"
 }
 
-# Cymdeithas Enwau Lleoedd Cymru | Welsh Place Name Society
-

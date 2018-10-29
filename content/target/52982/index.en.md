@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Kane (@chriswkane) on Twitter
-
 Twitter profile of Chris Kane, Scottish Labour candidate for Stirling in the 2017 general election.

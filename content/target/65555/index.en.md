@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# William Grant & Sons Limited
-
 William Grant & Sons Ltd. is an independent Scottish distiller of whisky and other selected categories of spirits. Brands owned by the company include Glenfiddich, Balvenie and Tullamore Dew whiskies, Hendrick's gin, Sailor Jerry Spiced rum and Reyka Premium Icelandic vodka.

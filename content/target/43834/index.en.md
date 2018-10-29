@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Post Ref Racism - Facebook
-
 PostRefRacism is a space to document the increase in racism in the UK following the vote for Brexit.

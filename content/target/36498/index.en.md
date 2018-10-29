@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Brexit would boost pay... and that's from the former M&S boss who wants us to STAY in Europe!   
-

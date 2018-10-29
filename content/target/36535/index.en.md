@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Michael Howard says Out vote need not mean Brexit
-

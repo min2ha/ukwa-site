@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Richard Dearlove is very wrong: leaving the EU would weaken British security 
-
 Guardian, The

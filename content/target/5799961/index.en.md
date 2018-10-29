@@ -10,5 +10,3 @@
   "start_date": "2008-05-09T00:00:00Z"
 }
 
-# Ostle Family History Net
-

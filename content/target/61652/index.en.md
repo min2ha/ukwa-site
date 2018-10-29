@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: "Children are using social media after midnight every day, report finds amid warnings over cyber bullying"
-
 The Telegraph article about cyberbullying and mental health 

@@ -10,5 +10,3 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Lowland Gaelic - Gàidhlig na Galltachd 
-

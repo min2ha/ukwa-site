@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Law Society Gazette: Magna Carta: four of a kind
-

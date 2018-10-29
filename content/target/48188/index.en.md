@@ -10,8 +10,6 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Down the forest path: a Druid's journey
-
 Blog of Joanna van der Hoeven, a Druid, working alone and as a priest for her community.  She is a former Trustee of The Druid Network, now their media co-ordinator and has studied with Emma Restall Orr and the Order of Bards, Ovates and Druids.  She has a BA Hons English Language and Literature degree, and is the director and co-founder of Druid College UK.
 
 Blog of Joanna van der Hoeven, an author, writing mostly about Modern Paganism and the Druid tradition. I have written many books, including the bestseller The Awen Alone: Walking the Path of the Solitary Druid.

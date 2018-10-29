@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May has just DAYS to break customs deadlock in 'War Cabinet' after Brexiteers 'kill off' her EU partnership plan in tense showdown that left Remainers 'close to tears'   
-

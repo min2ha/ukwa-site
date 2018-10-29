@@ -10,6 +10,4 @@
   "start_date": "2015-01-16T00:00:00Z"
 }
 
-# Neil Bartlett
-
 <p>Website relating to Neil Bartlett (b. 1958), director, author and performer.</p>

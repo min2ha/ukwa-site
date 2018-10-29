@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS East Riding CCG: Humber cluster
-
 None

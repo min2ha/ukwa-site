@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Trilogy Writing and Consulting
-

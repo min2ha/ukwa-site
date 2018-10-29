@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# Study Group on the Russian Revolution (SGRR)
-
 Study Group on the Russian Revolution (SGRR). This group aims to help promote new approaches to the study of the Russian Revolution between the 1880s and 1932. The SGRR sponsors panels at the annual BASEES conference, and has sponsored a number of document publications in Russia.

@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Arts Catalyst, The
-
 Arts Catalyst commissions art that experimentally and critically engages with science. 

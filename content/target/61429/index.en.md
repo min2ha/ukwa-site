@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Why it's too soon to classify gaming addiction as a mental disorder
-
 News article about the recent classification of gaming addiction as a mental health disorder by the WHO. It suggests that more research is needed before a classifcation can be made

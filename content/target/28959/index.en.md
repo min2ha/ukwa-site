@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Truro & Falmouth Conservative Party
-
 Website of Truro and Falmouth Conservatives, providing information on local and national news, events and people.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Tasmina Ahmed-Sheikh, Scottish National Party 
-
 None

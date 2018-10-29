@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tory defends 'dreadful' plotting with far-Right to become MP
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tom Elliott (@telliott_UUP) on Twitter (Ulster Unionist Party candidate for Fermanagh and South Tyrone)
-

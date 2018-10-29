@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# SNOWPORT ENGLAND
-
 Snowsport England is the National Governing Body for skiing and snowboarding in England and for English skiers.

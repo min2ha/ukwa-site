@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Baker (@VoteBaker2015) on Twitter
-
 The twitter profile of Richard Baker, Scottish Labour Parliamentary candidate for Aberdeen North.

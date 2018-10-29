@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Royal National Mod Oban 2015 on Facebook
-

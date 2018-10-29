@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Catholic Safeguarding Service
-
 Site of an organisation in the Catholic Church in Scotland / Bishops' Conference of Scotland dealing with all matters relatiing to safeguarding vunerable people.

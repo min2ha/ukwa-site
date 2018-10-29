@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: We thought Boris Johnson would tell us his Brexit plans. He said ‘Go whistle’
-

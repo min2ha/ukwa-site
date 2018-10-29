@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Action by Christians Against Torture
-
 Acat(uk) was formed  by the then British Council of Churches to work as Christians, for the abolition of torture worldwide, to increase awareness of the widespread use of torture.

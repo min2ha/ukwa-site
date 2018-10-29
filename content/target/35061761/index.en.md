@@ -10,5 +10,3 @@
   "start_date": "2012-11-21T00:00:00Z"
 }
 
-# Galw Iechyd Cymru - NHS Direct Wales
-

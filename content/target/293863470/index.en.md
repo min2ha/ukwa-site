@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Llanon Community Council
-
 <p>Llannon Community Council serves the areas of Cross Hands, Llannon, Tumble and Cwmmawr in Carmarthenshire.</p>

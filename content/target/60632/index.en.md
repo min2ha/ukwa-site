@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Standard: Gaming addiction to be recognised as mental health condition by World Health Organisation
-
 News article about gaming addiction being classified as a mental health condition, "Gaming disorder" is set to appear in the 11th edition of the International Classification of Diseases (ICD-11) in 2018

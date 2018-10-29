@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Thousand Reasons, A
-
 On 8 March 2012, International Women’s Day, British novelist Linda Grant used her Twitter account to discuss the continuing necessity of feminism. She received a great many responses from women describing experiences of casual and institutional sexism dating from the 1970s to the present. The tweets made a forceful and eloquent case for the continuing necessity of feminist politics and activism. Since Twitter is an instantaneous and ephemeral medium, this site was created to serve as a permanent repository for the International Women’s Day tweets.

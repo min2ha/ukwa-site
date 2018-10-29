@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# Association of British Neurologists (ABN), The
-
 <p>The aim of the Association of British Neurologists (ABN) is to promote excellent standards of care,  education and research in neurology.</p>

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester City Hospitality 
-
 The Manchester City football club hospitality catering service website. This service is provided by Fabulous Fan Fayre. 

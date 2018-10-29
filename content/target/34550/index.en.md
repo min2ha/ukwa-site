@@ -10,6 +10,4 @@
   "start_date": "2016-01-26T09:00:00Z"
 }
 
-# Catholic Faith
-
 Website of the Catholic Church in England and Wales to help guide and recruit more people to the Catholic faith.

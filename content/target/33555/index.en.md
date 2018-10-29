@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Republican History & Remembrance: Easter Rising 1916
-
 A blog post containing the text of the Proclamation of the Republic

@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# Buddug Wyn Humphries
-
 Buddug Humphreys is a jeweller orginally from Snowdonia. Her Welsh background is a large inspiration to her work. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Chic Brodie MSP (ChicBrodieMSP) on Twitter
-
 <p>The twitter profile of Chic Brodie, Scottish National Party Member of the Scottish Parliament for South Scotland.</p>

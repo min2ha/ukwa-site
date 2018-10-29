@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Goniec Polski
-
 Site of a Polish magazine providing information and news from the UK and Poland for the Polish community in the United Kingdom.

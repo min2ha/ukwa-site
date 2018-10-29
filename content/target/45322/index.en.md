@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# National Survey, The
-
 The Scottish National Party's national survey of Scotland, published in response to the EU Referendum.

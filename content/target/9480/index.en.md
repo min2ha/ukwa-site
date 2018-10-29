@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Conservative Home: Paul Sykes wants UKIP to win the European elections – but to what end?
-
 None

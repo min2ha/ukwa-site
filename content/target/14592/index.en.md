@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Mental Health Tribunal for Scotland, The (MHTS)
-

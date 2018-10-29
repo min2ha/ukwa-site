@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Community - the union for life
-

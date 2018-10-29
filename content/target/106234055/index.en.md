@@ -10,5 +10,3 @@
   "start_date": "2013-01-29T00:00:00Z"
 }
 
-# Coreo Cymru
-

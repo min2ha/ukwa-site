@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Supreme Court Printed Case of the Secretary of State for Exiting the European Union
-
 The Government appealed the ruling of the Divisional Court that the Secretary of State does not have the power under the prerogative to give notice pursuant to Article 50 of the Treaty on European Union. 

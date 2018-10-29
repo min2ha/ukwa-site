@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Woking F.C.
-
 Woking Football Club is a semi-professional association football club based in Woking, Surrey, England. Formed in 1889, the team play at Kingfield Stadium and participates in the National League, the fifth tier of English football.

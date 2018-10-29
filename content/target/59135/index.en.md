@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit and the environment
-
 A House of Commons Library Briefing paper discussing current environmental law and policy in the UK and in the devolved nations; preparations for Brexit and potential impacts of Brexit; and the possibility of a tailored UK approach to the environment in the future. The European Union (Withdrawal) Bill is also discussed in the context of environmental matters, and REACH information is provided as an illustrative case study.

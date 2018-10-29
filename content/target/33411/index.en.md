@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Canolfan Gynllunio Iaith, Y | Centre for Welsh Language Planning, The
-
 The Centre for Welsh Language Planning help organisations in Wales promote the use of Welsh and develop bilingual practices.

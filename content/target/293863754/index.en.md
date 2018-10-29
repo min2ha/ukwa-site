@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Teifi Valley Holidays | Gwyliau Dyffryn Teifi
-

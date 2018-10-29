@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage makes police complaint over Have I Got News For You
-
 None

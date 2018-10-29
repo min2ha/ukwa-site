@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Patrick Kielty (@PatricKielty) on Twitter: Dear @BorisJohnson Thread
-
 On the 28 Sep 2018 at 10:10 PM, Irish comedian Patrick Kielty posted a response to Boris Johnson's Tweet with a link to an article published in the Telegraph outlining his plan for a better Brexit. The article was published on the 27th September 2018 at 9:55PM.

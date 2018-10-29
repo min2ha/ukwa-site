@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Herald Scotland, The: Football
-
 Football news from the Herald Scotland

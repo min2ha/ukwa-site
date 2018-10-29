@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Our Big Energy Challenge
-
 None

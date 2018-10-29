@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Hannah Pudner (Green Party candidate for Cardiff West)
-
 Deputy Leader for the Wales Green Party and candidate for Cardiff West in the 2016 National Assembly of Wales elections.

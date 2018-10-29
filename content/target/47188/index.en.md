@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Ecological Society: EU referendum
-
 British Ecological Society position and contribution to public debate following the EU referendum

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ian Woosman
-
 Ian Woosman is a Welsh professional golfer and golf course designer. 

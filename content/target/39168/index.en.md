@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Michael Gove says vote to Remain would make British public 'hostages' to the EU
-

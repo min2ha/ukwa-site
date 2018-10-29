@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Abergavenny & District Steam Society
-
 Abergavenny & District Steam Society provide a meeting forum for those interested in steam railway operation and to produce the Coal Tank, a quarterly magazine for members covering historical and current aspects of steam railways.

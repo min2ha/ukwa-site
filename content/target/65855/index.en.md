@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Indietracks festival
-
 Website for the Indietracks festival. Indietracks is a celebration of independent, creative and DIY pop music.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Uniting for Peace
-
 <p>Uniting for Peace is a UK based campaigning group established in April 2011 to promote Peace, Security and Disarmament, United Nations Human Rights, International Law, Development and Poverty Reduction.</p>

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Britain First on Facebook
-
 None

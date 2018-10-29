@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, the: Peter Mandelson joins Brexiters in attack on May’s EU ‘humiliation’
-
 Former European Commissioner Lord Mandelson weighs in against the Chequers plan, suggesting that it would amount to a "national humiliation" that would be “the polar opposite of taking back control”, because it would mean “the EU would ultimately call the shots, not just now but indefinitely”.

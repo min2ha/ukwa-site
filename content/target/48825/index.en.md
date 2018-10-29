@@ -10,6 +10,4 @@
   "start_date": "2017-01-27T09:00:00Z"
 }
 
-# Grŵp Datblygu Y FRON Development Group
-
 Y FRON Development Group are a small group of volunteers with the aim of improving and providing amenities and facilities for our village. 

@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Kickplate project, The
-
 The *kickplate* project was established as a pop-up gallery in a former barber shop in Abertillery. The gallery moved to places to temporary photo gallery such as Hanbury Road Gallery (Bargoed) and 76m2 (Pontypool). 

@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# St Cecilia's Hall
-
 Originally opened in 1763 , St Cecilia’s Hall is the oldest purpose-built concert hall in Scotland. 

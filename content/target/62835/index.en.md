@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# IURU Irish Uni Rugby (@IURU_Irish_Unis) on Twitter
-
 The Irish Universities Rugby Union (IURU) organises four domestic 15 - a - side tournaments on an annual basis. It is a subsection of the IRFU.

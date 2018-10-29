@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stevenston High Kirk
-
 The parish website of Stevenson High Kirk. 

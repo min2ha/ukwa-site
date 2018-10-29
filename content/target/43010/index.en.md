@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The socialist case against the EU: TUSC tour continues
-
 Reports on TUSC meetings campaigning to leave the EU and up coming dates across the UK.

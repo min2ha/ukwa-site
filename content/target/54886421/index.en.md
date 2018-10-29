@@ -10,5 +10,3 @@
   "start_date": "2010-08-11T00:00:00Z"
 }
 
-# WWF Earth Hour
-

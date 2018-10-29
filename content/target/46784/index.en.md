@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Huw Irranca-Davies AM (@huw4ogmore) on Facebook
-
 Huw Irranca-Davies is the Assembly Member for Ogmore.

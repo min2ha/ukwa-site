@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# March 8th 2017: Reproductive Justice in Europe (Public Meeting) on Facebook
-
 Reproductive Justice in Europe: A panel discussion on International Women’s Day 2017.

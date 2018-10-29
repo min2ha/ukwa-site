@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London-Irish U4L (@LdnIrishU4L) on Twitter
-
 London Irish United For Life is an anti abortion campaign group and aims to defend Ireland's pro-life laws. It is part of the 'Protect the 8th' campaign based in the Republic of Ireland.

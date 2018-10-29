@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The Government is doing everything in its power to rig the EU Referendum 
-

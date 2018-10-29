@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lewis Campbell (@LewisCampbell__) on Twitter
-
 Twitter profile of Lewis Campbell, the Scottish Green Party list candidate for Mid Scotland and Fife region in the 2016 Scottish Parliamentary election.

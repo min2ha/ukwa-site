@@ -10,6 +10,4 @@
   "start_date": "2015-04-27T09:00:00Z"
 }
 
-# St. Austell Town Council website 
-
 The official website of St. Austell Town Council. 

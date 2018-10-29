@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Lesbian Gay Bisexual Transgender (LGBT) History Month
-

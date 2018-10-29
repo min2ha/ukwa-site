@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Patrick Harvie
-
 The website of Patrick Harvie, Scottish Green Party Member of the Scottish Parliament for Glasgow.

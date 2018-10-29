@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# National Cycling Centre, The
-
 The National Cycling Centre in Manchester is Britain's first indoor Olympic cycling track and it opened in 1994.

@@ -10,6 +10,4 @@
   "start_date": "2016-08-20T10:00:00Z"
 }
 
-# No2BrandIsrael [No 2 Brand Israel]
-
 WordPress site of a Scottish group promoting cultural and economic boycott of Israel.

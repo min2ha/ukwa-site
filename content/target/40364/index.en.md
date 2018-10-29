@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Clan Donald Society of the Highlands and Islands
-
 Site of a society focusing on the genealogy, history and continuation of the Clan Donald, based in Fortrose, HIghland.

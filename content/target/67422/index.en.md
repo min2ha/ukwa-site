@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Phoenix Car Company Limited, The
-
 Website of a dealer of new and used cars, motorhomes, motorbikes and lawn and garden equipment. 

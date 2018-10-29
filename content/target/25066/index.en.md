@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Bungling David Cameron describes the election as 'career defining' in another embarrassing campaign gaffe
-
 None

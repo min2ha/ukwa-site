@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Royal Mint, The
-
 The official website of the Royal Mint.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Engineering Employers Federation: UK Manufacturing and Brexit
-
 In a series of Brexit briefings looking at the impact of leaving the EU, EEF makes a number of recommendations designed to help businesses manage the UK’s exit from the single market and the likely changes in trade and immigration rules.

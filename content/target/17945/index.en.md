@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Guardian, The: The green room: Mark Thomas, comedian
-
 Interview with comedian Mark Thomas for The Guardian's Environment 'The green room' feature, February 2009.

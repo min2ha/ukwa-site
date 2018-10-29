@@ -10,6 +10,4 @@
   "start_date": "2017-12-07T09:00:00Z"
 }
 
-# Linda Norris 
-
 Linda Norris is a painter and glass artist based in Wales. Her gallery is located in Maenclochog, Pembrokeshire.

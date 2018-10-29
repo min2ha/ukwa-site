@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# G-irl
-
 An all-girl interview series exploring the lives of talented women.

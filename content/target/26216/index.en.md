@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Christians in Politics: Show Up
-
 None

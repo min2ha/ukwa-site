@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Carbon Brief (@CarbonBrief) on Twitter
-
 Twitter feed of The Carbon Brief climate blog site.

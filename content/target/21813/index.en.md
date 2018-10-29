@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Northern Ireland Science Park
-
 The Northern Ireland Science Park, with campuses in Belfast and Derry/Londonderry, is a peer-driven network providing focus and support for knowledge-based entrepreneurs, investors and global corporations through their space, NISP CONNECT suite of programmes and HALO Business Angel Network. 

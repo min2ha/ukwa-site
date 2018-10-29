@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow Hutchesons' Aloysians / GHA Rugby Football Club
-
 Site of a Scottish rugby union football club based in Giffnock, Glasgow.

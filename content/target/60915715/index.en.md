@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Understanding Animal Research
-
 Understanding Animal Research aims to achieve broad understanding and acceptance of the humane use of animals in biomedical research in the UK, to advance science and medicine.

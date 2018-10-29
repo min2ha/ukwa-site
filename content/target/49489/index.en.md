@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-#  Shaw Theatre
-
 The official website of the Shaw Theatre at the Pullman London St Pancras, part of the ACCOR Group.

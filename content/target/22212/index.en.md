@@ -10,5 +10,3 @@
   "start_date": "2015-04-23T09:00:00Z"
 }
 
-# Neil Humphrey on Facebook (English Democrats candidate for Berwick upon Tweed)
-

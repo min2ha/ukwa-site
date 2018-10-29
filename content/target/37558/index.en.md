@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stonger Unions: Women workers & the EU referendum
-
 An extract from Frances O' Grady's speech at the TUC Women’s Conference in London

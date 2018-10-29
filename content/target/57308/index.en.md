@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ocean Film Festival
-
 Site of a UK festival of film focusing on aspects of ocean life and living.

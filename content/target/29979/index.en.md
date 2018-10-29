@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Ferret, The
-
  A crowd-funded website publishing investigative journalism.

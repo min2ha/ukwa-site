@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Embassy of the Czech Republic in London
-
 The embassy of the Czech Republic in London offers news, travel information, and material on education, culture, and trade

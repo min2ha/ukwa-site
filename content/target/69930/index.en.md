@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Cwm Idwal National Nature Reserve | Gwarchodfa Natur Genedlaethol Cwm Idwal
-
 Cwm Idwal was designated as a National Nature Reserve in 1954, primarily because of its unique geology and its rare plants that have colonised along the slopes. Cwm Idwal is 5 miles south of Bethesda and about 4 miles west of Capel Curig. This is a guide by the National Trust to the area. 

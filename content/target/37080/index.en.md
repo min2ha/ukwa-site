@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# International Business Times: EU referendum: British Trade Unions ready to join fight to stay in Europe
-

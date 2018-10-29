@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Munro Healthcare Group
-
 Munro Healthcare Group, trading as Strathclyde Pharmaceuticals Limited, is a wholesaler of pharmaceutical products. The company was founded in 1975 and is based in East Kilbride, Scotland. 

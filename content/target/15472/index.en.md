@@ -11,8 +11,6 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Human Appeal
-
 With a presence in 25 countries, spanning Asia, Africa, Europe and the Middle East, we're there to help in times of crisis and we deliver sustainable development programmes in the world’s poorest nations.
 
 We've achieved a great deal over the past 24 years and we want to do much more. Read on to find out how you can help us make a difference.

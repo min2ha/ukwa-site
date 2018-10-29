@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Luttons and Weaverthorpe Website
-

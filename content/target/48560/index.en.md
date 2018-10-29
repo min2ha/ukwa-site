@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Falklands Conservation  
-
 Falklands Conservation is a local membership non-governmental organisation that works on behalf of our members and in partnership with the local and international community to conserve the natural environment of the Falklands for future generations. 

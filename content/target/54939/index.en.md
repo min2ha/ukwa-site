@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Mary's Church Malpas Newport
-

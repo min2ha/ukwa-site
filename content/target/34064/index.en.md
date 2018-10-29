@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Strictly GI
-
 They are a World War 2 re-enactment group based in the United Kingdom, specialising in the portrayal of the US Army soldier during this period.

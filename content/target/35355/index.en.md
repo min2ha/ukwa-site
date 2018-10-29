@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Andrew Creake (Green Party candidate for Caerphilly)
-
 Andrew Creake is the Green Party candidate for Caerphilly at the 2016 National Assembly for Wales election.

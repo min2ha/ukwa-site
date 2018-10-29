@@ -10,6 +10,4 @@
   "start_date": "2015-09-24T10:00:00Z"
 }
 
-# Holyhead Waterfront Regeneration
-
 Holyhead Waterfront Regeneration is a joint venture between Stena Line and The Conygar Investment Company PLC.

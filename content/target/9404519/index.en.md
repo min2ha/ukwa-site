@@ -11,7 +11,5 @@
   "subject": "100 Best Sites"
 }
 
-# National Secular Society
-
 Secularist General
 The National Secular Society campaigns for the separation of religion and state.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Is social media bad for you? The evidence and the unknowns
-
 Article about how social media can affect mental health makes use of studies and surveys in its content

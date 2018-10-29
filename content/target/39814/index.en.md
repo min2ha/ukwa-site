@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Laura Anne Jones on Facebook (Conservative candidate for South Wales East)
-
 Laura Anne Jones is the Conservative candidate for North Wales at the 2016 National Assembly Election. 

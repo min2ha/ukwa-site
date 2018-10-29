@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Tender Journal
-
 "A quarterly journal made by women". Poetry, prose and art by female-identifying authors.

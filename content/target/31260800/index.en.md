@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Ballyclare and District Historical Society
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# David Broome Event Centre
-
 David Broome Event Centre is in Crick, Chepstow and was established in the 1960's in the family home of David Broome, a retired Welsh show jumping champion and recipient of individual bronze medals in the 1960 and 1968 Olympic Games.

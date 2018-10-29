@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election morning briefing: attack fatigue as Miliband tries to swing back to policy
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Assynt Mountain Rescue
-
 Site of a voluntary and charitable Scottish organisation providing mountain rescue services to the Assynt area (Wester Ross) of the North West of Scotland. 

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# School Cuts
-
 This website has been developed by the National Union of Teachers and the Association of Teachers and Lecturers. The NUT and the ATL are calling on the Government to take immediate action to inject much needed money into an already the system and protect children’s education.

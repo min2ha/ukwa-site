@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Oxford West & Abingdon Conservatives
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Church, Oxford
-
 We are a multi-generational, multi-national, independent church which worships in and ministers to the heart of Oxford. Member of the FIEC, Acts 29, and Redeemer City-to-City networks.

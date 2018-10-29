@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: We need a new kind of politics: a vote every five years is not enough
-
 None

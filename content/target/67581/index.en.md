@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Chelmsford Rugby Football Club
-

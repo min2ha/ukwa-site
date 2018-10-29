@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Qualm
-
 A biannual showcase of contemporary poetry in English, drawn from around the globe.

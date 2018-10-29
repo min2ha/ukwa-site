@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Scotsman, The: Mark Bennett and Mark Robertson in GB Olympics 7s squad
-

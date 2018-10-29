@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Salisbury NHS Foundation Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hampshire Archives and Local Studies on Facebook
-
 The official Facebook profile of the Archives and Local Studies service at Hampshire Record Office. They collect archives relating to Hampshire and Hampshire families, and film and sound archives relating to central southern England. They also house Hampshire's local studies library.

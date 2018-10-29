@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Common Weal (Common_Weal) on Twitter, The
-
 <p>The twitter profile of the Common Weal Project created by the Jimmy Reid Foundation.</p>

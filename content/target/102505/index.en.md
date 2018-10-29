@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Electoral Commission
-
 The Electoral Commission is an independent body set up by the UK Parliament. It regulates party and election finance and sets standards for well-run elections

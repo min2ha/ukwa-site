@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit voters more likely to turn out in force, poll finds
-

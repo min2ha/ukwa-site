@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Better Brexit
-
 Campaign by Nick Boles MP for the UK to remain temporarily in the European Economic Area

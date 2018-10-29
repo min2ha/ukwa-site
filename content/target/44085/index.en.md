@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Linlithgow Natural Grid
-
 WordPress blog site of a group aiming to create independent energy network in Lilithgow, West Lothian, Scotland

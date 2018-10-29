@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: There could still be a second referendum in Britain – if EU leaders listen
-

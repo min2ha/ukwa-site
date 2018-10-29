@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP plans to approach leftwing Labour MPs over progressive bloc after election
-
 None

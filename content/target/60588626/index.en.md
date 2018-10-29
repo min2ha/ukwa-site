@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# Men Get Eating Disorders Too
-
 None

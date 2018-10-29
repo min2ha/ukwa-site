@@ -10,6 +10,4 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# Catrin Nye - Jounralist
-
 Catrin Nye is a BBC Journalist & Documentary Maker from Wales.

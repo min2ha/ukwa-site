@@ -10,6 +10,4 @@
   "start_date": "2016-12-14T09:00:00Z"
 }
 
-# South Hook LNG Terminal
-
 South Hook LNG terminal is an LNG regasification terminal near Milford Haven and is the largest LNG terminal in Europe.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Built Environment Sustainability Training (BEST)
-
 The Built Environment Sustainability Training (BEST) is based at the Welsh School of Architecture. BEST was developed by the Welsh School of Architecture, Cardiff University, Energy Saving Trust and other partners to create a long-term educational strategy that will 'inform the development and piloting of strategic training on water issues to support people working within the built environment sector, including architects, engineers, and craftspeople'.

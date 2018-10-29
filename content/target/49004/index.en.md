@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Historic Royal Palaces - Tower of London: Tower of London Remembers
-
 The Tower of London installation Blood Swept Lands and Seas of Red, marked the centenary of the outbreak of the First World War.

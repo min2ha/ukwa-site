@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Norwich
-
 Holy Trinity is a lively Bible-teaching church near the centre of Norwich. Welcoming people of all ages, and from all sorts of backgrounds - those who wish to discover Jesus Christ for the first time, and those who want to grow further in their knowledge and service of him.

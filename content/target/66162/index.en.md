@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Lodge Saint Conval Giffnock No.1359
-
 Site of a masonic lodge located in Giffnock, East Renfrewshire and affiliated with the Grand Lodge of Scotland.

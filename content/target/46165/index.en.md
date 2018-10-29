@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Helm
-
 Professor Dieter Helm is an economist specialising in utilities, infrastructure, regulation and the environment, and concentrating on the energy, water, communications and transport sectors primarily in Britain and Europe. He is a Professor at the University of Oxford, Fellow of New College, Oxford, and a Professorial Research Fellow of the Smith School of Enterprise and the Environment.

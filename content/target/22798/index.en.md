@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Farmers Union of Wales Generel Election Manifesto
-
 Established in 1955, the FUW has been given the official right by the Government to represent and speak on behalf of Welsh farmers. The Union has done so at the highest level – at the National Assembly, Whitehall and Brussels.

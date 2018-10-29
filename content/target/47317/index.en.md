@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# South Wales Women's & Girls' League (SWWGL)
-

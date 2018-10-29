@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Paul O'Kane for Renfrewshire South on Facebook
-

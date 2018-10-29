@@ -10,6 +10,4 @@
   "start_date": "2015-04-13T09:00:00Z"
 }
 
-# Tracey Warr Writing 
-
 Fiction and non-fiction writer, born in London and liveS in Pembrokeshire.

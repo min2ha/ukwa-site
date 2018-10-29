@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Bowhunter Association Forum
-
 An online enthusiast community concerned with hunting with bows and arrows. Discusses events, hunts, stories, equipment, reviews and various other related topics. 

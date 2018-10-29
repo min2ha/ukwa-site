@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Katherine's Church Bryn Pydew
-

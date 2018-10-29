@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Frome
-
 HTF Church building is in Trinity Street with Trinity Hall beside it. 

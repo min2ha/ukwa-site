@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Hand back Blair's £106,000 election gift, Labour told
-
 None

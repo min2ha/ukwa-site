@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The Levellers and the Diggers were the original Eurosceptics
-
 Guardian, The

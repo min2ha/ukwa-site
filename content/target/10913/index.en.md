@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Care for Europe: EU Elections 2014
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Labour's Clive Lewis celebrates Norwich South win 
-
 None

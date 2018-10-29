@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Restoration of first world war monument, creation of memorial garden and research into the fallen
-
 Project to enable the people of Montgomery to learn more about the men who lost their lives in World War One, and to provide a focal point for years to come for those seeking further information about he fallen of the Town, and of the former County.

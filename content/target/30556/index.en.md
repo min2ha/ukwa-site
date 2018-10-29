@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# DigiComm@Doon: Commonwealth Games Board Game
-

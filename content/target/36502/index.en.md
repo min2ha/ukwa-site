@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: 'It's like Halloween come early': Latest document released by David Cameron warning of Brexit risks dismissed by his own ministers as a 'dogy dossier' and 'yet more scaremongering'    
-

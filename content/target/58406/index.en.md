@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Scummy Mummies
-
 ScummyMummies.com is the website for The Scummy Mummies Podcast. Comedians Helen Thorn and Ellie Gibson discuss a range of issues affecting modern mothers.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Halliday (@ANewportLibdem) on Twitter 
-
 Conservative candidate for Newport East.

@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Castle Cary Rugby Football Club
-
 Castle Cary Rugby Union Football Club was established in October, 1888 
 
 The Club has gone from strength to strength and is widely regarded as one of the friendliest and best-run in Somerset.

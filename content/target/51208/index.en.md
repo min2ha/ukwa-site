@@ -10,5 +10,3 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Claire Watkins, Soprano
-

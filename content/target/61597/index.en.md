@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit attacks on civil service are reminiscent of 'pre-war Nazi Germany’ 
-
 Ex-cabinet secretary Andrew Turnbull attacks tactics of leading Brexiteers who had accused Whitehall of sabotaging UK’s exit from EU

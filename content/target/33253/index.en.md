@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Specialist Group on Artificial Intelligence, The, British Computer Society
-
 SGAI, the British Computer Society Specialist Group on Artificial Intelligence, was founded in 1980 by Professor Donald Michie. The Group's mission is to foster achievement, capability and awareness in both business and research in Artificial Intelligence, and to promote the interests of the related community.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# Craft Originale
-
 Site of a brewer located at Glenrothes, Fife.

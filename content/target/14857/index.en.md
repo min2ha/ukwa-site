@@ -10,6 +10,4 @@
   "start_date": "2014-11-27T06:00:00Z"
 }
 
-# Oxfam: 5 natural disasters that beg for climate action
-
 None

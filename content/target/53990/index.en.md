@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Richard Hilton (@RichardHilton1) on Twitter (UKIP Politician)
-
 Richard Hilton stood as UK Independence Party (UKIP) candidate for Mitcham and Morden in the 2017 General Election but was not elected.

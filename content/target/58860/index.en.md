@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Paris battles to cash in from Brexit: 'I think we can gain 10,000 jobs'
-

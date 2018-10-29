@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leanne Wood of Plaid Cymru: ‘Normally you just shout at the TV. It was an opportunity I couldn’t miss
-
 None

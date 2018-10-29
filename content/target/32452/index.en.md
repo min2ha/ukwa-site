@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# BBC Focus Magazine
-
 Online version of the science and technology magazine.

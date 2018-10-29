@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: Prime Minister's speech in China: 31 January 2018 
-
 Prime Minister Theresa May spoke in Beijing about building on the UK's deep and mature ties with China, during her first visit to the country as Prime Minister. She also answered a question on the impact of Brexit and trading relationships generally.

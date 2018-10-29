@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee: Oral evidence: The progress of the UK’s negotiations on EU withdrawal, Monday 3 September 2018, Brussels
-
 Transcript of oral evidence given by Michel Barnier to the Exiting the EU Committee. Barnier reiterates that the Chequers plan for customs, services and a common rulebook for goods are unacceptable to the EU. He emphasizes that there would have to be safeguards for the EU in controlling goods that entered via the Irish border.

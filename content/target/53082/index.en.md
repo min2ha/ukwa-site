@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Wansbeck Labour (@wansbecklabour) on Twitter
-
 The Twitter account of Wansbeck Labour, representing The Labour Party in Ashington, Bedlington, Choppington, Morpeth, Newbiggin by the sea & Pegswood

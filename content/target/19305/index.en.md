@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Oxford Brookes University: Brookes awarded funding for Magna Carta Oxfordshire Schools Project
-

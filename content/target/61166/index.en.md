@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# The Pig Site
-
 All the latest pig industry news, including pig diseases, health and welfare information, nutrition and much more.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-#  BBC News: Brexit: Police commissioners concern over 'no deal'
-
 A no-deal Brexit would pose a risk to the public because the UK would lose access to EU-wide security powers and databases, police leaders warned.The UK and EU share a common and ever evolving threat picture. We believe that a comprehensive partnership in all areas of policing and security co-operation is of mutual benefit to all," they added.

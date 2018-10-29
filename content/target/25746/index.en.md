@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: BBC leaders' debate: highlights and reactions from the opposition leaders
-
 None

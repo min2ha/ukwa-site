@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Supporters of Nuclear Energy (SONE)
-
 None

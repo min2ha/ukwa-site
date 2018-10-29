@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mike Crockart MP (CrockartMP) on Twitter
-
 <p>The twitter profile of Mike Crockart, Liberal Democrat Member of Parliament for Edinburgh West.</p>

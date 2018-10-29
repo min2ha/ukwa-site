@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Banffshire and Buchan Coast Liberal Democrats
-
 Website of Banffshire and Buchan Coast Liberal Democrats, providing information on representatives and candidates, local events and campaigns and local and national news updates.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parishes of the Archdiocese of Cardiff
-

@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# 94th minute, The
-
 The site is written by Clint Jones of Flintshire where he is blogging and groundhopping around Welsh Football clubs.

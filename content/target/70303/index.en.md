@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wolves Women FC (@WolvesWomen) on Twitter
-
 Official Twitter page of Wolves Women and Girls’ Football Club.

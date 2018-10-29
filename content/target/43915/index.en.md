@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Montrose Pictures
-
 Site of a film and media company based in Montrose, Angus, Scotland.

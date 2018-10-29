@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Eric Idle
-
 Eric Idle is an English comedian, actor, author, singer-songwriter, musician, writer and comedic composer.

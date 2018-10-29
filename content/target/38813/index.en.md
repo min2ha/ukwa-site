@@ -10,5 +10,3 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# South Wales Police and Crime Panel
-

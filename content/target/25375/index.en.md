@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Boris Johnson: Tony Blair is an 'epic tosser' for warning against EU vote
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# #ClydevisitsKirkton on Twitter
-
 The hashtag #Clydevisitskirkton, recording a visit from the Commonwealth Games mascot Clyde to Kirkton of Largo Primary School.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig McNicol
-
 This is the website of Craig McNicol, the Independent candidate for Dunfermline and West Fife in the UK General Election on the 7th May 2015.

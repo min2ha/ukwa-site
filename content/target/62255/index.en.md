@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Soccer History
-
 A magazine about the history of soccer. A typical issue has 56 pages, containing 6 articles, book listings and obituaries. 

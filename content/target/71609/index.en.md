@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# United Diocese of Glasgow and Galloway
-
 Site of a Christian Scottish Episcopal diocese of Glasgow and Galloway.

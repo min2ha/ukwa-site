@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Jeff Cuthbert (@JeffCuthbert) on Twitter (Labour candidate for Gwent Police and Crime Commissioner) 
-
 Jeff Cuthbert is the Labour candidate at the 2016 Police and Crime Commissioner Elections for Gwent.

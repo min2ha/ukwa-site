@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Bethan's information professional blog
-
 <p>Blog written by Bethan Ruddock, author of the New Professional's Toolkit, who works for Library and Archival Services at MIMAS, a nationally designated data centre (part of JISC).</p>

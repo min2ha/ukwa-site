@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dan Farthing-Sykes (@lib_dem_dan) on Twitter
-
 The Twitter profile of Daniel Farthing-Sykes, the Liberal Democrats candidate for Edinburgh South West in the UK General Election on the 7th May 2015.

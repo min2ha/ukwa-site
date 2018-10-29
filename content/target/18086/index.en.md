@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: They're all victims! Clegg's outrageous verdict on drug users 
-
 None

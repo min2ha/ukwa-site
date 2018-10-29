@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Time to relax austerity? Candidates for EU's top job divided
-
 None

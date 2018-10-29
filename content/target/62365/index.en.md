@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# York City F.C.
-
 York City Football Club is a professional association football club based in the city of York, North Yorkshire, England.

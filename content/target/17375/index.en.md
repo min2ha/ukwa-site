@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Chartered Institute of Public Relations: CIPR Manifesto
-
 Membership of the Chartered Institute of Public Relations is on an individual basis. They offer it to PR practitioners at all levels in their careers and in all sectors.

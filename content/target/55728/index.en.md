@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Does it matter if the UK leaves Euratom?
-
 On 29 March Theresa May sent a six-page letter notifying the EU of the UK's intention to leave. The Article 50 letter contained a clause little discussed at the time - notifying the EU of the UK's withdrawal from the European Atomic Energy Community, also known as Euratom. But this previously obscure section was later put under the political spotlight, with some MPs, including a number of Conservatives, gearing up for a fight on the subject. One prominent Leave campaigner even said the UK should stay in Euratom after Brexit.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Unicorn Theatre
-
 The Unicorn Theatre was founded by Caryl Jenner as a touring company in 1947 with a commitment to giving children a valuable and often first ever experience of quality theatre, and a philosophy that 'the best of theatre for children should be judged on the same high standards of writing, directing, acting and design as the best of adult theatre'. 

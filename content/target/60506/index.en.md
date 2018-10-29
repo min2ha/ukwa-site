@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Don't buy the 'Brexit dividend' myth
-

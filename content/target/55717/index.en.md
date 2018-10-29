@@ -10,6 +10,4 @@
   "start_date": "2017-07-13T09:00:00Z"
 }
 
-# Alan Bilton
-
 Alan Bilton is a British academic and novelist and teaches creative writing, literature and film at Swansea University.

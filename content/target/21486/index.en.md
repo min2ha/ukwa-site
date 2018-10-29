@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: The Greens: 6 reasons they ARE a major party and Ofcom got it wrong
-
 None

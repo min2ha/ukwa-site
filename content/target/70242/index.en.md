@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cliftonville Podcast (@Redarmypodcast) on Twitter
-
 The official Twitter account of Cliftonville Podcast.

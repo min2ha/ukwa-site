@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Richard Whitehead - Marathon Champ
-

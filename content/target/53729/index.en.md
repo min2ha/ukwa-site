@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Arran Theatre and Arts Trust
-
 Site of an arts organisation on Arran, Argyll & Bute, aiming in partnership with other organisations on the island, to foster the visual, literary and performing arts on Arran, further opportunities for professionals in the arts, create experiences which raise skills, awareness and improve access at community level, develop opportunities for young people and encourage new work both on Arran and beyond.

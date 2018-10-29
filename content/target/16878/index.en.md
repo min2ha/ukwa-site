@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Association of Colleges (AoC)
-
 The Association of Colleges (AoC) is a not-for-profit membership organisation set up in 1996 by colleges to act as their collective voice. In 2015, AoC represents and promotes the interests of more than 320 further education, sixth form, tertiary and specialist colleges across the UK.

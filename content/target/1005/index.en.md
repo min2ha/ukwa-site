@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Foundation Trust Network
-
 None

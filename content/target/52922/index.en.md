@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Natural Resources Institute
-
 The Natural Resources Institute (NRI) of the University of Greenwich is a unique multi-disciplinary centre of excellence. We have an established reputation for delivering high quality research, advice, teaching and training in support of global food security, sustainable development and poverty reduction.

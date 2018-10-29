@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Royal Edinburgh Military Tattoo
-
 Site of the annual military display staged throughout the month of August on the Esplanade of Edinburgh Castle, Edinburgh.

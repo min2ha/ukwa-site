@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Change.org: Serco Pay Up!
-
 This petition is calling for an implementation of extra 30p/hr, an end to the increased and unmanageable workload imposed by Serco and that Barts Health Trust will ensure that these changes are implemented. Thi petition will be delivered to Serco and the Chief Executive of Barts Health Trust, Alwen Williams.

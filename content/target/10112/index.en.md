@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Dinti Batstone Liberal Democrats
-
 None

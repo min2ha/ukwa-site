@@ -10,6 +10,4 @@
   "start_date": "2014-02-18T21:00:00Z"
 }
 
-# Current Account Switch Service
-
 None

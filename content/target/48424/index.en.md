@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Gibraltar Heritage Trust  
-
 The Gibraltar Heritage Trust is an independent statutory body entrusted with the preservation of Gibraltar’s heritage and aims to work in partnership with all like-minded bodies, both locally and internationally.

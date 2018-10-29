@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: June 26th 2017: European Council
-
 Prime Minister Theresa May gave a statement to Parliament on the June 2017 EU Council meeting and the rights of EU citizens living in the UK.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, the: Rio 2016: Olympic boxing tournament hit by corruption allegations
-
 Judges and referees alleged to be involved in manipulating draws and bouts while the AIBA defends its conduct and dismisses allegations as ‘rumours’.

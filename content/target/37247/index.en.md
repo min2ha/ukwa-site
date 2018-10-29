@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Catherine Mayer (@catherine_mayer) on Twitter (journalist and founder of Women's Equality Party)
-
 The twitter account of Catherine Meyer, journalist and founder of Women's Equality Party

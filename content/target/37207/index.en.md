@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# London School of Economics and Political Science, The: Taking the law into our own hands: the perils of a British bill of rights
-
 The benefit of remaining in Europe for human rights

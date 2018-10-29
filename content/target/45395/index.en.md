@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# University of Oxford: EU Referendum - Latest University statements
-
 News, statements, analysis and comment regarding the EU Referendum and its implications on the University of Oxford and its members, and on higher education and research in general.

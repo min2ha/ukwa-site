@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# WW1: Experiences of an English Soldier
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Trans Men Scotland
-
 Site of a voluntary and peer support group aimed transgender men and trans-masculine non-binary people in Scotland.

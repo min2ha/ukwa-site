@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Juncture: Easter 1916
-
 Spring 2016 issue of the Institute for Public Policy Research (IPPR)'s magazine Juncture, focussing on the Easter Rising

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Matthew O'Callaghan on Facebook (Labour candidate for Loughborough)
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lynne Beaumont on Facebook (Liberal Democrats candidate for Folkestone and Hythe)
-
 Lynne Beaumont stood as Liberal Democrats candidate for Folkestone and Hythe but was not elected. 

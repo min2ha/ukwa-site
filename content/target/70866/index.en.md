@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Chris Baugh (@ChrisBaugh5) on Twitter
-
 The official Twitter account of Chris Baugh, a PCS (the Public and Commercial Services Union) representative.

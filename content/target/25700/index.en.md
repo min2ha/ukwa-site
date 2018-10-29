@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian The: Sturgeon under pressure to rule out Scottish independence referendum
-
 None

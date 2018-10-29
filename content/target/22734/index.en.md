@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alan Duncan (Conservative)
-
 Alan Duncan stood as Conservative candidate for Rutland and Melton at the 2015 General Election. He was first elected to serve as MP for Rutland and Melton in 1992 and re-elected in 2015.

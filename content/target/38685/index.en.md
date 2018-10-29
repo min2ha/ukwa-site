@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rebecca Bell (@MissBecsBell) on Twitter
-
 Twitter profile of Rebecca Bell, the Scottish Labour candidate for Stirling in the 2016 Scottish Parliamentary election.

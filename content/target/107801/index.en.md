@@ -10,5 +10,3 @@
   "start_date": "2005-04-15T00:00:00Z"
 }
 
-# UK Diploma in Intensive Care Medicine Website: Advice from someone who's been there
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Neil Kinnock admits Labour now unlikely to win a majority - forcing Miliband to make deals with the SNP on every vote
-
 None

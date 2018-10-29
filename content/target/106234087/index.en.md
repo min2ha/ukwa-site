@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge University Press
-
 Websie of Cambridge University Press, an academic publisher dates from 1534.

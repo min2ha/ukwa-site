@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# Highlands & Islands Students' Association / Comann Oileanaich na Gàidhealtachd agus nan Eilean
-
 Site of the representative body for students at the University of the Highlands and Islands, and their social and sports conveners.

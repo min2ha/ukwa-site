@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Recordiau BLINC Records
-
 Recordiau BLINC Records is an alternative record label from North Wales.

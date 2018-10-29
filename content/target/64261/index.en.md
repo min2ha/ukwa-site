@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Great Glen Churches
-
 The website of Great Glen Churches, incorporating the churches of Fort Augustus and Glengarry.

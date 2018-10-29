@@ -10,6 +10,4 @@
   "start_date": "2017-03-02T09:00:00Z"
 }
 
-# Green Handbook
-
 Site of a quarterly directory published in Thornhill, Dumfries & Galloway, which provides information on rganic food, health products, eco-products, martial arts, meditation, personal growth, sustainable crafts, green businesses.

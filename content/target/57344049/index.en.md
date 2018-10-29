@@ -10,5 +10,3 @@
   "start_date": "2010-11-05T00:00:00Z"
 }
 
-# British Society for Heart Failure
-

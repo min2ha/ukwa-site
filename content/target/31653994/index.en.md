@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Organising Busy Lives
-
 None

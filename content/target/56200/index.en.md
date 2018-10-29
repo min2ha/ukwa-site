@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# Rebecca Parfitt
-
 Rebecca Parfitt is Editor of the Ghastling – a literary magazine devoted to ghost stories and the macabre and has published many poems, short stories and reviews in anthologies and magazines. She lives and works in Cardiff and is from Brighton. 

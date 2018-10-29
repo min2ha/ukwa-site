@@ -10,5 +10,3 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Pitchfork: Why Losing Frightened Rabbit’s Scott Hutchison Hurts So Much
-

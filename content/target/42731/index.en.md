@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Reel Youth Media
-
 Site of a media project for young people aiming to develop technical and creative skills whilst supporting young musicians, performers and youth music service providers to create innovative digital media content.

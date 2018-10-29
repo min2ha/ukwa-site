@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Peterlee Pumas Rugby League Club
-
 The official website of Peterlee Pumas Rugby League Club.

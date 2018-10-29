@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Herald Scotland: Ex justice secretary calls for official recognition for Scots republican's part in 1916 Easter Rising
-

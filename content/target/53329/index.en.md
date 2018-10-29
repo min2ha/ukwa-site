@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dapfalk (@Dapfalk) on Twitter
-
 Twitter profile of Debra Pickering, Scottish Green Party candidate for Falkirk in the 2017 general election.

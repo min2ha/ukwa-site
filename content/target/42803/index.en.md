@@ -10,6 +10,4 @@
   "start_date": "2016-06-12T10:00:00Z"
 }
 
-# Erin Pizzey
-
 Personal website of Erin Pizzey, author and founder of women's refuge, Chiswick Womens Aid, in 1971.

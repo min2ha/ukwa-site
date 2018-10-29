@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Heart of Midlothian Football Club
-
 Site of a senior professional football club based in Edinburgh, Scotland.

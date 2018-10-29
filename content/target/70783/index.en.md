@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Trinovantes RFC on Pitchero
-
 The official website of Trinovantes Rugby Football Club

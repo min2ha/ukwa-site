@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sporting Life: Euro 2016
-
 Originally founded on 30th April 1859, Sporting Life established one of the UK's first multi-sports website on 20th December 1996 as a companion to the sporting newspaper.

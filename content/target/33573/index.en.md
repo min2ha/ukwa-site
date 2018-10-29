@@ -10,6 +10,4 @@
   "start_date": "2015-12-18T09:00:00Z"
 }
 
-# Quilt Association, The
-
 The Quilt Association promotes quilting and patchwork from its base at The Minerva Arts Centre in Llanidloes, Mid Wales.

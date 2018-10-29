@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food & Rural Affairs: Sustainable fisheries for future generations: 
-
 Leaving the European Union provides an opportunity move away from the Common Fisheries Policy, to create a sustainable, responsible and responsive policies. DEFRA asks for stakeholders' houghts on the future of fisheries.

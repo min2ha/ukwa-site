@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Calum Martin
-
 Calum Martin is the RISE: Scotland's Left Alliance list candidate for Lothian region in the 2016 Scottish Parliamentary election.

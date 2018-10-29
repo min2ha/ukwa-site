@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# User Experience Professionals Association, UK Chapter
-
 UK Chapter of the User Experience Professionals' Association is a not-for-profit dedicated to promoting user centered design and supporting UX practitioners.

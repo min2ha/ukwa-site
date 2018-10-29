@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Platt
-
 Holy Trinity, Platt is a church community just south of Manchester city centre for anyone working, studying or living here.

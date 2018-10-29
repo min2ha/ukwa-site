@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Ian Rankin (@Beathhigh) on Twitter
-
 The twitter profile of crime writer Ian Rankin.

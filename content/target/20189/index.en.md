@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Streatham Labour Party on Facebook
-

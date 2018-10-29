@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Bwrdd Diogelu Oedolion Gwent Gyfan | Gwent-wide Adult Safeguarding Board
-
 The Gwent-wide Adult Safeguarding Board (GWASB) was established in 2011 and is the forum that's responsible for the strategic leadership, monitoring and reviewing of adult safeguarding practice in Gwent. 

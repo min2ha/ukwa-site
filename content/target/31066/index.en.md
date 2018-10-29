@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Cambrian Mountains Society
-

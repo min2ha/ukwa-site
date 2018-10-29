@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Walking Support 
-
 Site of a company based in Melrose organising and running walking tours along routes in Scotland and the north of England.

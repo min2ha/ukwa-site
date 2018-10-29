@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Garioch Theatre Festival
-
 Site of a theatre festival in Inverurie, Aberdeenshire.

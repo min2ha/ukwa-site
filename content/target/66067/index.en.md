@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexiteers accuse Bank chief Mark Carney of 'crying wolf' after he claims households are £900 worse off after Brexit vote - but even he admits business investment will boom after we leave 
-

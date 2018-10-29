@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gary Dunion (@garydunion) on Twitter
-
 The Twitter profile of Gary Dunion, Scottish Green Party candidate for Central Scotland in the 2016 Scottish Parliament election.

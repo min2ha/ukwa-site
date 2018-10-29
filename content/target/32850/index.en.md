@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Hope for Wales | Gobaith i Gymru
-
 Hope for Wales work with local churches and encourage co-operation on outreach activities to Welsh speakers, especially young people.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Blackburn with Darwen Primary Care Trust
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Gov Camp Cymru
-
 Gov Camp Cymru is a unconference for people working in or with the public sector in Wales. There’s no agenda until the start of the day when people make suggestions for what they’d like to talk about. It is run by Satori Lab, a company based in Cardiff.

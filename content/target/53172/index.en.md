@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Heritage Alliance, The: The Heritage Manifesto 2017
-
 Calls on all political parties to: maximise the advantages, and minimise the disadvantages, of Brexit for heritage; maintain and improve the protection of heritage; attract more investment; effect positive fiscal change for heritage; and continue to back lottery funding for heritage.

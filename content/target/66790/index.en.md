@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Prosource It UK Limited
-
 The website of Prosource It UK Limited, an Aberdeen-based IT services provider. 

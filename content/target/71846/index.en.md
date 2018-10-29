@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St.Mary and All Souls Scottish Episcopal Church
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Coldstream, Edinburgh.

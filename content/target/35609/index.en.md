@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boris goes in for the kill: Johnson invokes Churchill in call for UK to 'be brave' and take 'once in a lifetime chance' to leave EU after PM tried to buy him off with either Home or Foreign Secretary job    
-

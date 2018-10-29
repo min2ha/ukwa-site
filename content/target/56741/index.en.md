@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# England Hockey (@EnglandHockey) on Twitter
-
 Official Twitter account of England Hockey.

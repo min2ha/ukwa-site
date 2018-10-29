@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Stephen Hawking (@StephenHawking8) on Twitter
-
 The Twitter account of Stephen Hawking. 

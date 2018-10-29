@@ -10,5 +10,3 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Comisiwn Ffiniau a Democratiaeth Leol Cymru | Local Democracy and Boundary Commission for Wales
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Cash for access: Fake donor pays way to heart of big parties
-
 None

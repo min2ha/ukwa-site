@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Scottish Police Services Authority - Forensic Services
-
 None

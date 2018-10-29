@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lib Dems reveal front page of manifesto
-
 None

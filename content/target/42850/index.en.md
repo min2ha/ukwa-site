@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Telegraph, The: Euro 2016
-
 The home page for all Euro 2016 news in The Telegraph.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: Pensions after the EU referendum
-
 The implications of the vote to leave the EU on 23 June for pensions are as yet unknown. This note brings together some responses from relevant organisations. It does not attempt to analyse them, merely to present of what was immediately available

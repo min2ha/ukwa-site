@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Walker Books
-
 Walker Books is an independent publisher of books and content for children. 

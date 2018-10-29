@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# A Short Fanzine About Rocking
-
 Website of influential UK hardcore music zine 'A Short Fanzine About Rocking'

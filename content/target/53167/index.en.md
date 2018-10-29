@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tomos Dafydd Davies (@TomosDafydd) on Twitter 
-
 Tomos Dafydd is the Welsh Conservative candidate for Ynys Môn at the 2017 General Election.

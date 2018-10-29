@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# London School of Hygiene & Tropical Medicine (LSHTM)
-
 Official website of the London School of Hygiene & Tropical Medicine.

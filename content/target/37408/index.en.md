@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sign Language People For EU Referendum Discussion - Stay In Or Leave? on Facebook
-
 A facebook group for discussion and debate about the EU referendum in Sign Language

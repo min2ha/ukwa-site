@@ -10,6 +10,4 @@
   "start_date": "2016-01-08T09:00:00Z"
 }
 
-# Scribbling in the Margins
-
 Blog detailing medieval history to inform the writer's journey into historical fiction.  

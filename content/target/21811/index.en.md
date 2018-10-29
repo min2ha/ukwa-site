@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Northern Ireland Screen
-
 Northern Ireland Screen is the government-backed lead agency in Northern Ireland for the film, television and digital content industry.

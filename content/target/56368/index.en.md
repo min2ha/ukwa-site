@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# Skokholm Blog
-
 Skokholm Island is a seabird haven and was Britain's first Bird Observatory. The blog provides news and updates from the island.

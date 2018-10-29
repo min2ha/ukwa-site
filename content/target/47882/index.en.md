@@ -10,6 +10,4 @@
   "start_date": "2016-12-17T09:00:00Z"
 }
 
-# Richard II's Treasure
-
 The treasure roll of Richard II, compiled in 1398/9, offers an insight into the magnificence of a late medieval English king. The roll, unknown until it was rediscovered in the 1990s, describes in detail the crowns, jewels, and other precious objects belonging to the king and to his two queens, Anne of Bohemia and Isabelle of France. This website brings the treasure to life through images - of the roll, of Richard himself and of many objects.

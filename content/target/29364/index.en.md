@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huddersfield Literature Festival
-
 Huddersfield Literature Festival

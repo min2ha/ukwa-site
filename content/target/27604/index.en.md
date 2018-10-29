@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Liberal Democrats could change name to 'the Liberals', under Tim Farron
-
 None

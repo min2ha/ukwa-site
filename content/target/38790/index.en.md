@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Aldershot Military Festival 23-29 June 2014
-
 The Festival covers community engagement with the Army. In 2014 we are linking the First World War with the Modern.

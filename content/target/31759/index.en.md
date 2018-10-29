@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Iaith Blaenau Gwent, Torfaen, Mynyw
-

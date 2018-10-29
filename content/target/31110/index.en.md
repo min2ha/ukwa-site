@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# British Lime Association (BLA)
-
 The British Lime Association (BLA) represents the interests of four member companies responsible for producing more than 75% of the industrial lime sold in the UK.

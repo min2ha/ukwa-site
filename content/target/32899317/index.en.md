@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jo Swinson East Dunbartonshire Liberal Democrats
-

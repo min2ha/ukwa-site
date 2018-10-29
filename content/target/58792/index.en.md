@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Edinburgh Napier Students' Association
-
 Site of the Students' Union for Edinburgh Napier University.

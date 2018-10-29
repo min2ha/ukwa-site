@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Bone on Facebook
-
 This is the Facebook page of Simon Bone, the Conservative Party candidate for Glasgow Central in the UK General Election on the 7th May 2015.

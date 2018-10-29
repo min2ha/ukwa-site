@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ecologist, The: Brexit - a nasty sting in the tail for Britain's bees?
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

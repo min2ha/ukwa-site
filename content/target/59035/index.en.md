@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Prints & Drawings (@BL_prints/) on Twitter
-
 Western prints and drawings at the British Library. Creators of https://www.bl.uk/picturing-places … Cataloguing George III's maps & views.

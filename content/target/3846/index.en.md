@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Muslim News, The
-
 Monthly newspaper providing news and views of Muslims in the United Kingdom.

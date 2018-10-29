@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Movement for Justice by Any Means Necessary
-
 Facebook presence of activist organisation describing itself as: "We march today, we march tomorrow, and we keep marching to build a new Britain: diverse, integrated and equal. We aim to win. We tell the truth about racism, sexism and anti-gay bigotry and the growing inequalities within our society."

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Unthank School
-
 <p>A writing school, associated with the publisher Unthank Books.</p>

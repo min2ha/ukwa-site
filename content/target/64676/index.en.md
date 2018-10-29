@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Commons vote on customs union will add to pressure
-
 The House of Lords voting to reject the government's existing plan for how customs will work after we leave the EU was as surprising as the sun rising in the morning and setting at night. Why it mattered was the political encouragement and cover it gave to Conservative rebels who were considering defying Theresa May on the issue in the Commons.

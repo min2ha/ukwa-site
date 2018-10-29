@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: VIDEO: The historic moment that the four surviving Magna Cartas come together for the first time
-

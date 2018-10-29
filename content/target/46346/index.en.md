@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# HM Govt of Gibraltar (@GibraltarGov) on Twitter
-
 "Deputy Chief Minister Dr Joseph Garcia exchanges views on Brexit with Scotland's First Minister Nicola Sturgeon."

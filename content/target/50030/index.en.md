@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ipswich International Church
-
 Ipswich International Church is part of the Elim Pentecostal denomination with several branches across the country.

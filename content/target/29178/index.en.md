@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Oxford Ebola vaccine study moves to next phase
-
 Oxford University doctors and scientists are performing the second phase of clinical studies of an experimental Ebola vaccine regimen. 

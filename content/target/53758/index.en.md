@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cllr Alan Graves (@AlanUkip) on Twitter (UKIP Politician)
-
 Alan Graves stood as UK Independence Party (UKIP) candidate for Derby South in the 2017 General Election but was not elected.

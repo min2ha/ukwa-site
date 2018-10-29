@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Bodleian Libraries, University of Oxford: Magna Carta and other political treasures
-

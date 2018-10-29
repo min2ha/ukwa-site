@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: One of the General Election joys has been watching the Tories recycle their old policies
-
 None

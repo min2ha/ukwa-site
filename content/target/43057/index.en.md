@@ -10,6 +10,4 @@
   "start_date": "2016-06-15T10:00:00Z"
 }
 
-# History
-
 History is a channel available through the satellite provider Sky.

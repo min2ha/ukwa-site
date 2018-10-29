@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Art of Hosting Scotland
-
 WordPress site providing information on the Art of Hosting / Participatory Leadership, in a Scottish Context, to harness collective wisdom of groups.

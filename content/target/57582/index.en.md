@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Badenoch & Strathspey Sports Council
-
 Site of a local sports organisation established to promote sport, publicise and promote events, encourage cooperation between sporting clubs and maximise the use of sports facilities in the local area.

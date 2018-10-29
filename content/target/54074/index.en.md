@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nathan Ryding (@Nathan_Rydings) on Twitter (UKIP Politician)
-
 Nathan Ryding stood as UK Independence Party (UKIP) candidate for Wigan in the 2017 General Election but was not elected.

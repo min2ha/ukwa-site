@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-#  Open History Society
-
 Site of a history society free for all to join, and located in Edinburgh.

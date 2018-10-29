@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glenafton Athletic Football Club
-
 WordPress site for a Scottish junior football club based in New Cumnock, Ayrshire.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Tell Them of Us: A film about a Lincolnshire family during the First World War
-
 WAG Screen is a community group of heritage filmmakers.This website is dedicated to one of their projects - Tell Them of Us.

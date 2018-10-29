@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Quaker Family History Society
-
 None

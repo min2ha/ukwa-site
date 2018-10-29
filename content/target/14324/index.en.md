@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ewan Morrison - Fact: Scotland is not one of the 20 wealthiest...: Facebook
-
 Ewan Morrison's post of 13th September, 2014.

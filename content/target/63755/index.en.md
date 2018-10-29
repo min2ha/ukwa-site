@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Eventbrite: Spring Stroll: Following in the footsteps of the Suffragettes
-
 The European Chapter of SLA bringing the Special Libraries Association (SLA) to information professionals across Europe.

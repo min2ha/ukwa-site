@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: Events: "On Liberty, Magna Carta and our future"
-

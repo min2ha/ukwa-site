@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Reptile Forums
-
 An online enthusiast forum concerned with the care and upkeep of reptiles. Discusses advice on various types on animals, breeding, equipment, habitat and other topics. 

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Arts Educational Schools London
-
 Official website of the Arts Educational Schools London.

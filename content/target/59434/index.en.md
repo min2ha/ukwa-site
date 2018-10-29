@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Jones the Planner
-
 Jones the Planner is a series exploring architecture, urban design and planning issues in Britain’s towns and cities. It is written by the town planner/urban designer Adrian Jones and Chris Matthews, a local historian and graphic designer. 

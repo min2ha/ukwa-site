@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Forget the West Lothian question, let’s look at the Kensington conundrum
-
 None

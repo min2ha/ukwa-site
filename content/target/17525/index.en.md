@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What ICM poll means for UK parties as they head into election campaign
-
 None

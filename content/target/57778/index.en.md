@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Computational Social Science Initiative London 
-
 The CSS Initiative London aims to bring together the large number of people working on CSS in the greater London. The goal is to foster the collaborative opportunities across groups and fields. 

@@ -10,6 +10,4 @@
   "start_date": "2015-01-21T00:00:00Z"
 }
 
-# Jo Shapcott
-
 <p>Website of Jo Shapcott, poet and academic.</p>

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Ash In World War I
-
 Project using an archive centre attached to Ash Village Hall which was used as a VAD hospital in WW1 to recreate the hospital as it was.

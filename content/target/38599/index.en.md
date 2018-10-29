@@ -10,6 +10,4 @@
   "start_date": "2016-04-12T10:00:00Z"
 }
 
-# West Highland Flora
-
 Site dedicated to the identification, listing and photography of plant life in the West Highlands of Scotland (mainly Skye and Argyllshire).

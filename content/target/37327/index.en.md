@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Buzzfeed UK: Rival Campaigns Are Arguing Over Whether An EU Exit Is Bad For UK Football
-
 Buzzfeed UK is an entertainment and news website

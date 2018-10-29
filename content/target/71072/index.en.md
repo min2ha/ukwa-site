@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# Auguste Handmade Ltd.
-
 Bicycle shop and café in Hoxton, London

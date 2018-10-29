@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tories are paving the way to load more debt on students
-
 None

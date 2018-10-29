@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Eisteddfod Genedlaethol Cymru - The National Eisteddfod of Wales
-
 Website of the main National Eisteddfod of Wales.

@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# National Pet Show
-

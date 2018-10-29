@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Revised plan for election TV debates proposes including seven parties
-
 None

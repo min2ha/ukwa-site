@@ -10,5 +10,3 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Risca Male Choir | Côr Meibion Risca
-

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Network of Wellbeing
-
 The Network of Wellbeing is run by a small and friendly team, and it is based in Totnes, Devon, UK. Help in supporting individuals, organisations and communities to put wellbeing into practice

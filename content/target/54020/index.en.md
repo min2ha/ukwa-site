@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-#  Putney UKIP: Bringing Charity Home
-
  Putney UKIP is a UKIP local branch.

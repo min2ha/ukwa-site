@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Nicola Sturgeon: Labour care more about attacking the SNP than reversing Tory austerity
-
 None

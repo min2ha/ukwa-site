@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: Voters will be offered two deeply imperfect options in the EU referendum
-
 A discussion of the drawbacks of staying in the EU and leaving the EU.

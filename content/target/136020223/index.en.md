@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Newcastle LINk
-
 None

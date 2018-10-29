@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British Youth Council (BYC)
-
 The British Youth Council (BYC) is a UK charity that works to empower young people and promote their interests. BYC, run by young people, exists to represent the views of young people to government and decision-makers at a local, national, European and international level; and to promote the increased participation of young people in society and public life.

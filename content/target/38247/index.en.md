@@ -10,6 +10,4 @@
   "start_date": "2016-04-05T10:00:00Z"
 }
 
-# LGBT GO (@LGBT4GO) on Twitter
-
 Making the case for why the LGBT community should be voting to leave the EU on June 23rd.

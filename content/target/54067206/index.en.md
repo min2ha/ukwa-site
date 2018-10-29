@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Southwark Muslim Women's Association (SMWA)
-
 None

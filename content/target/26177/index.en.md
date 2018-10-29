@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dairy UK:  Manifesto for the British Dairy Industry
-
 Dairy UK is the trade association for the British dairy supply chain. It brings together processors, dairy co-operatives, manufacturers, farmers and bottle milk buyers throughout the United Kingdom.

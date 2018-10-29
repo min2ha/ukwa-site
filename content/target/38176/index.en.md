@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Football for Britain (@football4brit) on Twitter
-
 Football for Britain is the group for football fans, players and enthusiasts who believe Britain would be better off out of the EU.

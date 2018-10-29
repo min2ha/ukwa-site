@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# Gaelic in Dumfries and Galloway
-
 A hub for Scottish Gaelic in Dumfries and Galloway

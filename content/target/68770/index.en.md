@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Proud Employers
-
 Proud Employers is the only jobsite which caters exclusively for LGBT people and their allies. Part of Stonewall, Europe’s largest LGBT charity, we aim to help candidates find roles with organisations committed to true diversity and inclusion for their employees. 

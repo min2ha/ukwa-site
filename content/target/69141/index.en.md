@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Safe gigs for women
-
 An initiative aiming to create a safer environment for women at gigs

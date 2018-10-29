@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saddell & Carradale Linked with Southend Parish Church 
-
 Parish website for the new linkage of Saddell and Carradale with Southend Church. 

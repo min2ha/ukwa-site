@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Soul Source - Soul Music Forums
-
 An online enthusiast community concerned with Northern Soul music. Discusses soul music, Northern Soul events, soul music sales and other related topics.

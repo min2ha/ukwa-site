@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Forma
-
 Forma is one of Europe’s leading creative producers, working with British and international artists to develop and deliver new cross art form productions across the world.

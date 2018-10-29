@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: Theresa May is being betrayed in Brexit negotiations by three egoists - Philip Hammond, Boris Johnson and David Davis
-
 Being Prime Minister is a very lonely job. Theresa May deserves better support from her ministers. If she’s toppled over Brexit, Davis Davis, Boris Johnson and Philip Hammond should be ashamed of their disloyalty.
 

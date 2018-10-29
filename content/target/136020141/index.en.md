@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cornwall LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Portsoy Church
-
 Site of a Church of Scotland parish church at Portsoy, Aberdeenshire, serving the communities of Portsoy, Fordyce and Sandend.

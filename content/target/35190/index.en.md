@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: 19 weeks the Remain campaign hope will shake the naysayers
-

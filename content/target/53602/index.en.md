@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ed Targett (@greentargett) on Twitter (Green Party Politician)
-
 Ed Targett stood as Green Party candidate for North Thanet in the 2017 General Election but was not elected.

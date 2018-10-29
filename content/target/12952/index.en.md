@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Royal Scottish Academy Exhibitions, The
-
 <p>The Royal Scottish Academy of Art is an independent institution which promotes and supports the creation, understanding and enjoyment of the visual arts through exhibitions and related educational events.<br />
 For the exhibition Open dialogues, one artist from each of the RSA New Contemporaries (2009 – 2014) has been invited to make a new work for this GENERATION project. The artists have been selected for their impact upon contemporary practice, their proven track record since RSA New Contemporaries and the excellence of the work.The exhibition is part of the cultural programme of Glasgow.</p>

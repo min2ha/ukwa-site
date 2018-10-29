@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Duncan Enright on Facebook (Labour candidate West Oxfordshire)
-

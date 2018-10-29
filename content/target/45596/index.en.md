@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Radical History of Hackney
-
 Blog archiving Hackney's radical history and activism from the nineteenth century (and earlier) to the present.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Biggar Camera Club
-
 Site of a camera and photography club located in Biggar Sounth Lanarkshire.

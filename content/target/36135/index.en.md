@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU Facts: how much does Britain pay to the EU budget?
-

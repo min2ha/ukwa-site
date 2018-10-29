@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Scope: Everyday equality: Scope's priorities for the general election 2017
-
 Scope wants to see the next Government achieve every day equality by committing to a cross-Government approach to disability which includes: improving disabled people's work opportunities; enabling them to live independently; and improving their financial security
 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK Consitutional Law Institution: Why the EU Referendum Might Be Morally Binding
-
 A blogpost discussing whether the EU Referendum is morally binding, in response to Yossi Nehushtan's argument that it is not.

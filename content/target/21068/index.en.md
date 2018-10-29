@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Drew Hendry on Facebook
-
 This is the Facebook page of Drew Hendry, the Scottish National Party (SNP) candidate for Inverness, Nairn, Badenoch and Strathspey in the UK General Election on the 7th May 2015.

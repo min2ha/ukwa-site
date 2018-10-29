@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Summerhall TV on vimeo
-
 Arts News is the library of summerhall.tv, artinscotland.tv and writerstories.tv. Topical news, features and archive in Scotland.

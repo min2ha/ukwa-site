@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Quality Internet Solutions Ltd
-
 A digital marketing website of a company based in Llandudno, Conwy, North Wales.

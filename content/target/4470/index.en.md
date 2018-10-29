@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Racer Ready
-
 None

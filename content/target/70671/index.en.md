@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leatherhead FC (@LeatherheadFC) onTwitter
-
 Official Account of Leatherhead FC, members of the Bostik League Premier Division.

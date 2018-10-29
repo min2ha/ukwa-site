@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Trinity Hall, Cambridge: Stephen Hawking Articles
-
 Articles relating the Stephen Hawking

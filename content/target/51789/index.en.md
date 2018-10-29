@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bont, Y: Canolfan Canolbarth Cymru | Mid Wales Centre
-
 Y Bont is the Centre for Welsh Learners for Mid Wales. It ceased to exist in 2017.

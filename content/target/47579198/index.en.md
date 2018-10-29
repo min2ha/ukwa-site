@@ -11,5 +11,3 @@
   "subject": "Russia in the UK"
 }
 
-# Academia Rossica
-

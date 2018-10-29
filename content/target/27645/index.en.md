@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage insists support is 'phenomenal' as he clings to Ukip leadership
-
 None

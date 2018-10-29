@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# Public Health Agency PHA
-
 Website of the multi-disciplinary, multi-professional body which promotes health and social wellbeing.

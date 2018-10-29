@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lumiere London
-
 50 artworks reimagining London’s architecture and streets, transforming the city into a dazzling nocturnal art exhibition

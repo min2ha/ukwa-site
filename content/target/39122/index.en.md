@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Anniesland SNP (@AnnieslandSNP) on Twitter:
-
 The twitter profile of the Anniesland branch of the Scottish National Party.

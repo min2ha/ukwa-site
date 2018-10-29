@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# BBC News: Election 2017
-
 BBC News articles related to General Election 2017.

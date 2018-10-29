@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# OOMK Zine
-
 One of My Kind (OOMK) is a highly visual, handcrafted small-press publication. Printed biannually its content pivots upon the imaginations, creativity and spirituality of women. Each issue centers around different creative theme, with more general content exploring topics of faith, activism and identity.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Festival of Choice
-
 The Festival of Choice aims to raise awareness of threats to reproductive rights and the plight of those in countries around the world who do not have access to safe and legal abortion. The Festival also wishes to celebrate feminist solidarity and activism and to strengthen and support the pro-choice message, locally and globally.

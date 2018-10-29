@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Bromwich Albion FC Women
-
 The official website of West Bromwich Albion FC Women

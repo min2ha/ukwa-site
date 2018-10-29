@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit negotiations 'have not begun well' - Sir Simon Fraser
-
 Sir Simon Fraser, chief mandarin at the Foreign Office until 2015, said the UK side had been "a bit absent" from formal negotiations in Brussels. Sir Simon, who now advises businesses on Brexit, said he was concerned the UK had not put forward a clear position.

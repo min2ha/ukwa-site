@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Raspberry Pi 
-
 The Raspberry Pi Foundation is a registered educational charity based in the UK. The Foundation’s goal is to advance the education of adults and children, particularly in the field of computers, computer science and related subjects.

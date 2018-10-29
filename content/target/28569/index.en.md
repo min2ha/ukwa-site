@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Abertawe Canol y Ddinas | Swansea City Centre
-
 Swansea City Council's guide to the centre of Swansea for visitors. The site also looks at future developments for the city centre.

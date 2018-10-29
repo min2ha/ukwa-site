@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Farnham Festival
-
 Website for the Farnham festival, a website for young people and music.

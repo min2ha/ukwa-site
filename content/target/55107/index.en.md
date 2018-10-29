@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Ridgeway Primary School
-
 The official website for Ridgeway Primary School in Sheffield.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Collective
-
 <p>The Collective Gallery is a contemporary arts organisation; Commonwealth Games events include “Ross Sinclair 20 Years of Real Life” as part of GENERATION and “All Sided Games” a series of off-site commissions, placing artists in and around venues built or used for the Edinburgh 1970 and 1986 Commonwealth Games and in venues to be used for the Glasgow 2014 Games.</p>

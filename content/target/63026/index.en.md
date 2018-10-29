@@ -10,6 +10,4 @@
   "start_date": "2018-03-24T09:00:00Z"
 }
 
-# Welsh Harlequin Duck Society | Cymdeithas Hwyaid Harlequin Cymreig 
-
 The society has been established in 2013 by Welsh Harlequin duck breeders located in Wales. The flock was founded by two specimens and in 1968.

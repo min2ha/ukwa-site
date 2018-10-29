@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The:  If this is the end of globalisation, what hope for UK trade post Brexit?
-
 Looks at the likelihood of Britain being able to negotiate free trade deals with other countries following its withdrawal from the EU.

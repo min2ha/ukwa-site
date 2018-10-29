@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Reality Check: What is Labour's Brexit plan?
-
 Opines that pushing for a second referendum could become Labour's main Brexit strategy, if it failed to force a general election.

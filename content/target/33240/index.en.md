@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UK & Ireland Programming Contest, The
-
 The UK & Ireland Programming Contest is a practice competition, held annually (starting in 2013) to help universities pick teams to travel to the Northwestern Europe European Regional Contest (NWERC).

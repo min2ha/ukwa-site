@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Alison Bradley Gallery
-
 Alison Bradley has galleries in Bettws y Coed and Chester. Her oil paintings and charcoal drawings cover the landscape of Snowdonia and North Wales, Wirral, the Borders, Chester, Equestrian and Racing, Animals and Rural Life, and the Coast. 

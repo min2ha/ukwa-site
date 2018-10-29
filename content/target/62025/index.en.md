@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# CARIS Camden Families
-
 Supporting homeless children and their parents in north London

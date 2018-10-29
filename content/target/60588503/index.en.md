@@ -10,5 +10,3 @@
   "start_date": "2011-07-13T00:00:00Z"
 }
 
-# British Association of Audiovestibular Physicians
-

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Diocese of Salisbury: Magna Carta 2015
-

@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# data.gov.uk
-
 Website which makes UK Government datasets available for public use. The site promotes various crowdsourcing initiatives using open and linked data, and gives researchers access to datasets for re-use.

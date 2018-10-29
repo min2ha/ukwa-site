@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election results: Leader-by-leader - how have they done?
-
 None

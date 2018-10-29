@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Blaenavon Cinema
-
 Blaenavon Cinema is based at Blaenavon Workmen's Hall, at the former Valleys Miner's Institute. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Swansea Valley Bible Church (SVBC)
-
 Swansea Valley Bible Church is a community of faith in the Swansea Valley and surrounding area.

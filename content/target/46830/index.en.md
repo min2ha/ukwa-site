@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Those MPs who fear Brexit should refuse to vote for it
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Police warn Scottish election officials over nationalists' anti-rigging campaign
-
 None

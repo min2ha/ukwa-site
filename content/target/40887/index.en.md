@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Cymdeithas yr Iaith Gymraeg | Welsh Language Society
-

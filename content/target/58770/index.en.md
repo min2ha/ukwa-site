@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Powys Children and Young People's Partnership
-
 Powys Children and Young People's Partnership is a group of organisations working together to improve the lives of children and young people in Powys.

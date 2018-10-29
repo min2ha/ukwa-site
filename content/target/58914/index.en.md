@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Al-Farooq Education and Community Centre
-
 Site of an Islamic education and community centre located at Crosshill, Glasgow.

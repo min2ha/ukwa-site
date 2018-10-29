@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Beth Woodthorpe-Evans (@bethwevans) on Twitter
-
 Twitter feed of Beth Woodthorpe-Evans, media relations manager for The Climate Group.

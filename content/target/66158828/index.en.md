@@ -10,5 +10,3 @@
   "start_date": "2012-09-20T00:00:00Z"
 }
 
-# Poverty and Social Exclusion (PSSE)
-

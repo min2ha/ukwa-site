@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# BSW Timber Limited
-
 The website of BSW Timber Limited, a manufacturer and supplier of sawn timber products. The company was founded in 1848 and is based in Earlston, Scotland. 

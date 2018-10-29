@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Fell (Conservative  Politician)
-
 Simon Fell stood as Conservative candidate for Barrow and Furness at the 2015 General Election but was not elected. He stood again at the 2017 General Election but again was not elected.

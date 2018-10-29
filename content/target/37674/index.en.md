@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Britain's Europe
-
 Britain’s Europe is a weekly blog which brings insight and analysis to Britain’s politics on Europe and Europe’s politics on Britain, along with concrete proposals for EU reform

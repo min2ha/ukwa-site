@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newmachar United Junior Football Club
-
 Site of a Scottish junior football club based in Aberdeenshire.

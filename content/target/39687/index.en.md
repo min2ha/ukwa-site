@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Colin Fox on Facebook
-
 Facebook profile of Colin Fox, RISE list candidate for Lothian region in the 2016 Scottish Parliamentary election.

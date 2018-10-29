@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Life - The UK's Leading Pro-Life Charity
-
 We offer free, confidential information, counselling and support for women contemplating abortion, suffering after pregnancy loss or struggling to cope after abortion.

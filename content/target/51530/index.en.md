@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Theresa May has signed, sealed and delivered article 50. Our writers respond
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Health and Healing Festivals
-
 Mind, body and spirit festival

@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# University of Wales Trinity St David: International Institute for Creative Entrepreneurial Development (IICED)
-
 The International Institute for Creative Entrepreneurial Development (IICED) is regarded as one of the 'world’s foremost institutions in creativity-based entrepreneurship education'.

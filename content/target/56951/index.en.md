@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Who does he think he is? Brussels' arrogant Brexit chief vows to 'educate' the British and 'teach them what it means to leave the EU'.
-

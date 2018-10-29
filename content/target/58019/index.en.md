@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# David Binns Ceramics
-
 David Binns is a ceramicist and Lecturer at University of Central Lancashire. He has a studio in Cilcain, North Wales.

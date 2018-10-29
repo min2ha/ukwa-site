@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women's Aid NI (@WomensAidNI) on Twitter
-
 We provide domestic violence services for women and children. We also run the 24 Hour Domestic & Sexual Violence 

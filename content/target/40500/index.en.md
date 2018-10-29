@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Mull of Kintyre Music Festival
-
 Website of an annual music festival taking place in Campbeltown, Argyll & Bute.

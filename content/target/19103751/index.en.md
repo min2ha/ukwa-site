@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Fresh Expressions
-
 None

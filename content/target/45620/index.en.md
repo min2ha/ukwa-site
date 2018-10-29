@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Aberdeen Anti-Fascist Alliance
-
 Records actions of Aberdeen anti-fascist alliance.

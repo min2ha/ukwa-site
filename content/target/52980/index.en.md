@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gerard Killen (@Gedk) on Twitter
-
 Twitter profile of Gerard Killen, Labour and Co-operative Party candidate for Rutherglen and Hamilton West in the 2017 general election.

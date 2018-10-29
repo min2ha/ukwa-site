@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Northern Postcolonial Network
-
 The network aims to support knowledge exchange and networking amongst scholars and other individuals and groups working on postcolonial topics in the North of the UK. It provides a forum through which an investigation of the transnational flow of people, narratives and ideas to and from the North, and the impact of this on textual and cultural representation, can take place.

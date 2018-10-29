@@ -10,6 +10,4 @@
   "start_date": "2014-02-10T06:00:00Z"
 }
 
-# BBC News: UK Winter Floods (2014)
-
 None

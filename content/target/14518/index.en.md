@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Children's Hearings Scotland (CHS)
-
 Children’s Hearings Scotland (CHS) is a public body established in July 2011 by the Children’s Hearings (Scotland) Act 2011. The Children’s Hearings (Scotland) Act 2011 aims to improve the lives, outcomes and opportunities of Scotland's most vulnerable children and young people.

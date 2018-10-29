@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: future of UK-EU security and police co-operation
-
 Maintaining the strong security cooperation the UK currently has with the
 EU will be one of the Government’s top four overarching objectives in the
 forthcoming negotiations on the UK’s exit from, and future relationship with,

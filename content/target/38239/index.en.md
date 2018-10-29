@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stop the EU (@Stop_The_EU) on Twitter
-
 Cross party twitter account for StoptheEU

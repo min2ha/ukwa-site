@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Tony Blair Institute for Global Change
-
 The Tony Blair Institute for Global Change aims to help make globalisation work for the many, not the few. It does this by helping countries, their people, and their governments address some of the most difficult challenges in the world today. It is active in the fields of counter-extremism, supporting fragile, developing and emerging states, promoting peace in the Middle East, and equipping centre ground leaders.

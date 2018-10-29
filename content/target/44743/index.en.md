@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Local Government Association: Growing risk to EU funding billions and Brexit uncertainty, councils warn
-
 The Local Government Association, which represents councils in England, is seeking urgent guarantees from the Government that local areas will receive every penny of EU funding they are expecting by the end of the decade. Local areas in England have been allocated a share of £5.3 billion worth of EU regeneration funding up to 2020. To access the money, each area has put forward innovative proposals, for example to create jobs or build new infrastructure, and it is up to the Government to decide which projects the money can be spent on. The LGA estimates that billions of this EU funding has yet to be released to local areas.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Banchory and Upper Deeside Roman Catholic Parishes
-
 Site of a group of Rioman Catholic parish churches in Scotland, namely St. Andrew’s, Braemar, St. Nathalan’s, Ballater, St. Margaret's Aboyne, St. Columba’s, Banchory, and Our Lady of the Snows, Corgarff.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Union of Construction, Allied Trades and Technicians
-

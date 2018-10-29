@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Gender Politics at Edinburgh: Gender and the Independence Referendum, #GE2015, Brexit, and beyond
-
 A report on studies on the participation of women in the political discouse, particularly in referenda such as Brexit

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gaelic Books Council (@LeughLeabhar) on Twitter
-
 The Gaelic Books Council is the lead organisation with responsibility for supporting Scottish Gaelic authors and publishers, and for raising the profile and reach of Scottish Gaelic books in Scotland and internationally. This is its official Twitter

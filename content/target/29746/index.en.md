@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Edinburgh International Conference Centre (EICC)
-
 The EICC is owned by the City of Edinburgh Council and operates as an independent commercial venture. The EICC was built to attract business visitors.

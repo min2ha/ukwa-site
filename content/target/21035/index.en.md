@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Openshaw (@richopenshaw) on Twitter
-
 The Twitter profile of Richard Openshaw, the Scottish Green Party candidate for West Aberdeenshire and Kincardine in the UK General Election on the 7th May 2015.

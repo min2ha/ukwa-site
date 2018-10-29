@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Statesman: Opinion: The Turning Tide
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Why Ed Balls' Newsnight interview does — and doesn't — matter
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Leeds Digital Festival
-
 The Leeds Digital Festival is a city-wide, open platform celebration of all things digital within Leeds, the Digital Capital of the North.

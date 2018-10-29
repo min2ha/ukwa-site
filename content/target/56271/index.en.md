@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Your Pet Forum
-
 An online enthusiast community concerned with pets. Discusses health & nutrition and pet problems for cats and dogs.

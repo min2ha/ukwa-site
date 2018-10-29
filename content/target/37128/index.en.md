@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum Pledge interest group on Facebook
-
 The facebook page for a group demanding an EU referendum

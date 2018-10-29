@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South East Coast Quality Assurance Reference Centre
-
 None

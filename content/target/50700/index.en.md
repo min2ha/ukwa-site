@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Edinburgh Zoo
-
 Site of a zoological garden and collection running as a visitor attracted and located in Corstorphine, Edinburgh.

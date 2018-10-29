@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# New Statesman: As the centenary of the 1916 Easter Rising approaches, the history wars in Ireland still rage
-

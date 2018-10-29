@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Nature Detectives
-
 None

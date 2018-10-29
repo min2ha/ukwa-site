@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# East Heath Eagles Rugby League Club
-
 East Heath Eagles RLFC are a new rugby league club based in Ilford, Forest Road, Ilford, IG6 3HJ

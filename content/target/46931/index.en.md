@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London Catholic Worker
-
 The Catholic Worker is a movement of radical christians and has a pacifist and anarchist orientation. Their goal is to connect the Gospel with political action and practical aid to the poorest. 

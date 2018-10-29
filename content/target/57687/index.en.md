@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-#  Institute for Black Atlantic Research (IBAR) 
-
 The Institute for Black Atlantic Research (IBAR) is a research institute utilising University of Central Lancashire's interdisciplinary and internationally renowned research pedigree in African Atlantic studies particularly in the Schools of Humanities and the Social Sciences and Art, Design and Performance (ADP). IBAR fosters partnerships with museums, galleries, broadcasters and community organisations to promote the study of the Black Atlantic in the North West and beyond. Partner organisations include the International Slavery Museum, Whitworth Art Gallery, Manchester Art Gallery, Tate Galleries, Front Room Theatre Company, Lancashire Museums, Lancaster Jazz Festival and Preston Black History Group. Its emphasis on art and culture makes it distinctive in comparison to other centres in the field locally, nationally and internationally which are typically devoted to historical and/or social science concerns.

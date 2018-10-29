@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: This deal's a disaster for Britain and the Tories, says BEN BRADLEY - the MP who resigned as vice chairman of the party
-
 Ben Bradley MP explains why he resigned as Conservative vice chair over Theresa May's plan for future EU-UK relations. In his view, the plan would implement Brexit in name only.

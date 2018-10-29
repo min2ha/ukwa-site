@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Prospect: 2017 general election
-
 Comments on 2017 general election campaign, and provides resources to help members to raise issues with candidates.

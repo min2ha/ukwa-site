@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hornets RFC (@Upthenestrfc) on Twitter
-
 The official Twitter account of Hornets RugbyFootball Club.

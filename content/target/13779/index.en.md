@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BBC News: Scottish independence: Facebook and leaflet drop used in register to vote drive
-
 None

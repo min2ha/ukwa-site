@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Hammond's 'go it alone' warning over Galileo sat-nav scheme
-
 Philip Hammond warned the EU that the UK would "go it alone" and build a new satellite navigation system if shut out of the Galileo project after Brexit.
 

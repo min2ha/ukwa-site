@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# National Zakat Foundation
-
 Our mission is to provide an end-to-end service with respect to Zakat. By doing so, we expect to contribute to the development of a pious, confident, selfless and self-sufficient community in the United Kingdom. 

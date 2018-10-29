@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dorset Healthcare University NHS Foundation Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# National Health Action Party on Facebook
-
 None

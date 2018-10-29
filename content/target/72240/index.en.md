@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Noisily Festival
-
 Website for the Noisily music festival. 

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Dungannon War Dead
-
 Information presented on the website is based on the original research by the Friends of The Somme Mid Ulster Branch.

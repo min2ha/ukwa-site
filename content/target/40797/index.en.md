@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Whittlesey Street Pride
-
 The Whittlesey area Street Pride Group is made up of approximately 46 local residents who want to make Whittlesey, Coates, Eastrea and Pondersbridge a cleaner, safer and more attractive place to live.

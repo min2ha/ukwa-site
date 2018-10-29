@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barnet, Enfield and Haringey Mental Health Trust
-
 None

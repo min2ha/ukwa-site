@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# M&Co.
-
 Mackays Stores Limited, trading under the name M&Co., is a Scottish chain store selling clothes and small homewear products. The company was established in 1834 and is currently based in Renfrewshire, Scotland. 

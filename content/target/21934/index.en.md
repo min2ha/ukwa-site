@@ -10,6 +10,4 @@
   "start_date": "2015-04-17T10:00:00Z"
 }
 
-# Llanelli & Mynydd Mawr Railway : Cynheidre Railway Project
-
 The primary objective of the Company is to reinstate a railway on this historic line which is recognised as Britain's first operating public railway authorised by the Act of Parliament in 1802 and which began traffic in May 1803 as the Carmarthenshire Tramroad. - homepage.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-#  BBC News: Brexit: SNP calls on Labour to keep UK in single market
-
 The Scottish National Party is calling on Labour to work with other opposition parties to keep Britain in the single market and customs union after Brexit.
 

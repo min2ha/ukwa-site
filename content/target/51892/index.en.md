@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# EKC Church
-
 Elie, Kilconquhar, and Colinsburgh Church of Scotland. 

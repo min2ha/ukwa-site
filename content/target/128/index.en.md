@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Heatherwood and Wexham Park NHS Foundation Trust
-
 None

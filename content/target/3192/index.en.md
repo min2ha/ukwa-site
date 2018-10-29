@@ -10,6 +10,4 @@
   "start_date": "2013-07-29T11:00:00Z"
 }
 
-# University of St Andrews
-
 Official website of the University of St Andrews.

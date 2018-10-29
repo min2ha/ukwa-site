@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Moffat Book Events
-
 Site of a community organisation based in Moffat, Dumfries & Galloway, and staging literature related events.

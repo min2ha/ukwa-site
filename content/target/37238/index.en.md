@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Europhiles: The lies they tell
-
 Pro-Europa published a list of twelve reasons to stay in the EU. The webpage takes those twelve reasons and present counter arguments. 

@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Newcastle-Under-Lyme Borough Council
-
 The website of Newcastle-Under-Lyme Borough Council provides access to information about local services and council spending, committee papers, planning documentation, and consultations. 

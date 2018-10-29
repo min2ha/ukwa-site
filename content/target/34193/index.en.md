@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Juncker 'quite sure' of February deal on Britain's EU membership
-

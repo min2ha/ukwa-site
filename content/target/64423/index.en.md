@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Home Office in the media
-
 Home Office in the media is the Home Office's blog on the latest topical home affairs issues. It features a review of leading media stories, responses to breaking news, rebuttal to inaccurate reports, and ministerial comment.

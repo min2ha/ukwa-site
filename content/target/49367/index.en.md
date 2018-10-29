@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Berwick Rangers Supporters Trust 
-
 Formed in 2003, the ‘Berwick Rangers Supporters Society’ aim to promote football in the local community and to secure the long term future of Berwick Rangers Football Club. 

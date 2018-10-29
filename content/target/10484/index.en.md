@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Glenis Willmott  (Labour MEP for the East Midlands)
-
 Glenis Willmott has been the Labour Member of the European Parliament for the East Midlands since 2006 and is Labour’s Leader in Europe. However she has decided to stand down after the October 2017 Party conference.

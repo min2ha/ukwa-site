@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# S4C
-
 S4C is a Welsh-language TV channel broadcast throughout the UK and Republic of Ireland.

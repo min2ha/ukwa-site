@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Marc Tierney (Labour candidate for Carmarthen West and South Pembrokeshire)
-
 Marc Tierney is Welsh Labour's candidate for Carmarthen West and South Pembrokeshire in the 2016 Welsh Assembly election and 2017 General Election.

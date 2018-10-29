@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: PM should seek parliamentary approval over article 50, says Lords committee
-

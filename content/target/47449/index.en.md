@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# DURESS (Diversity of Upland Rivers for Ecosystem Service Sustainability)
-
 DURESS (Diversity of Upland Rivers for Ecosystem Service Sustainability) is £3M NERC consortium project led by Cardiff University exploring the biodiversity, function and value in upland Welsh rivers.

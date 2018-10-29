@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# University of Leicester: Attenborough Arts Centre 
-
 Attenborough Arts Centre’s work is inspired by Richard Attenborough, a world leading filmmaker, actor and lifelong patron of the arts. 

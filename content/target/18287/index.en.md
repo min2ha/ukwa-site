@@ -10,7 +10,5 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# International Association of Teachers of English as a Foreign Language (IATEFL)
-
 The International Association of Teachers of English as a Foreign Language (IATEFL) is a community of English Language Teaching (ELT) teachers. Their mission is to link, develop and support English Language Teaching professionals worldwide through regular publications, conferences, Special Interest Groups, scholarships, events and online courses.
     

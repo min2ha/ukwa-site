@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BILL BOWMAN (@billabowman) on Twitter
-
 The Twitter profile of Bill Bowman, Scottish Conservative and Unionist candidate for Dundee City East in the 2016 Scottish Parliament election.

@@ -10,8 +10,6 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Cardiff Male Choir – Côr Meibion Caerdydd
-
 "
 
 Cardiff Male Choir (formerly the Canton Male Voice Choir) was founded in 1898, and is one of the oldest choirs in South Wales."

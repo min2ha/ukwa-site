@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: HMRC raid on bank accounts goes against Magna Carta, say MPs
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Tyneside LINk
-
 None

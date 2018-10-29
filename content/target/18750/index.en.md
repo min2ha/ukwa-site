@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Win tickets to see Magna Carta: Law, Liberty, Legacy at the British Library
-

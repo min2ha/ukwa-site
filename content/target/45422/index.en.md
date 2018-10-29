@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Blog Glyn Adda: Ysgrifau, Storiau a Cherddi
-
 This is a blog authored by Dafydd Glyn Jones, former lecturer of University of Bangor, north Wales. 

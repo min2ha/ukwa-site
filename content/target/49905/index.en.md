@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bethel Evangelical Church Gorseinion
-

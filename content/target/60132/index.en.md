@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Designweek: A Positive Platform: how design could make social media better for mental health
-
 Article about design concepts for social media websites and apps that help to adapt content for a positive effect on mental health

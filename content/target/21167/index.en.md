@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tim Thomas (@TimThomasPlaid) on Twitter (Plaid Cymru candidate for Ogmore and South Wales West)
-
 Plaid Cymru Westminster Candidate and Assembly candidate for Ogmore and Member of Pencoed Town Council.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Penny Coomes and Nicholas Buckland Fan Space on Facebook.
-
 None

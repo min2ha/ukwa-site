@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Tackling Brexit in the Irish courts is a long shot. But sometimes they work
-

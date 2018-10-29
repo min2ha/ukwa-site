@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Isle of Wight Literary Festival, The 
-
 The Isle of Wight Literary Festival

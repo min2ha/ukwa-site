@@ -10,5 +10,3 @@
   "start_date": "2013-07-02T00:00:00Z"
 }
 
-# Adrodd Electronig Pysgodfeydd Llywodraeth Cymru | Welsh Government Fisheries Electronic Reporting
-

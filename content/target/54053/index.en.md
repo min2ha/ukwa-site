@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mark Jarnell (@MarkJarnellNHA) on Twitter (National Health Action Party Politician)
-
 Mark Jarnell stood as National Health Action Party candidate for South Ribble in the 2017 General Election but was not elected.

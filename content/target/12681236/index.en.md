@@ -10,5 +10,3 @@
   "start_date": "2008-08-26T00:00:00Z"
 }
 
-# Save Bridlington Hospital
-

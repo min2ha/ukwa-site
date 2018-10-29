@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lydford
-
 The village of Lydford lies in the western part of the County of Devonshire.

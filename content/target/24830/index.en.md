@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Purna Sen (@purna_sen) on Twitter Labour candidate for Brighton Pavilion 
-

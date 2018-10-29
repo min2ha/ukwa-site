@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dream It Believe It Achieve It
-
 It is our mission at Dream It Believe It Achieve It to provide opportunities and support to people with disability so they can pursue active lifestyles, gain physical fitness, and enjoy competitive sport.

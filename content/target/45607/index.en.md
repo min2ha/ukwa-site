@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# 1970s activism & autonomy: stories from East London Big Flame
-
 This site gives a summary of what 1970s activists East London Big Flame did and why, and it contains links to pdfs of many of our original documents, leaflets, pamphlets

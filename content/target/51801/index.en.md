@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EDC information update
-
 Latest information from the EDC at Aberdeen University

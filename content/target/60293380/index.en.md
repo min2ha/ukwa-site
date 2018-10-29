@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Sandy Mewies (Labour Assembly Member for Delyn)
-
 Sandy Mewies is a Labour AM. She is retiring at the 2016 National Assembly Elections.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: An online Magna Carta: Berners-Lee calls for bill of rights for web
-

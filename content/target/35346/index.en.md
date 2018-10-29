@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Ctrl-Shift
-
 Ctrl-Shift are a specialist consultancy helping organisations to prosper in the new digital economy by using information in the hands of the individual to build a strategic market position through digital services.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Scottish Craft Butchers
-
 Site of an organisation promoting and representing the interest of the Scottish butchery trade.

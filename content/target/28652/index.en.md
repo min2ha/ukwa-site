@@ -10,6 +10,4 @@
   "start_date": "2015-07-03T10:00:00Z"
 }
 
-# UK Soil Observatory
-
 The UK Soil Observatory is a collaboration of institutions providing information about the diverse soil types of the UK, and delivering that information to the wider public and science communities.

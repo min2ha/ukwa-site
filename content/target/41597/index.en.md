@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# #libgaming
-
 A group that plays boardgames and card games after work near Kings Cross.

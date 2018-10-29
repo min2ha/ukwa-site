@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wick Academy Football Club
-
 Site of a Scottish football club located in Wick, Highland, Scotland.

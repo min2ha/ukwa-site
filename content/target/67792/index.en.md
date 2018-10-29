@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Kentwood Brewing
-
 Site of a small brewer located at Preston Pans, East Lothain.

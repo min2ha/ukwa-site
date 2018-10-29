@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Skills Jersey
-
 Skills Jersey was formed to ensure Jersey’s workforce is ready to react to the global and technological changes affecting the economy.

@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Hartland Forum
-
 None

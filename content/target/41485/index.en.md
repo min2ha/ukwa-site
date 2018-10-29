@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Lambhill Stables
-
 Site of a hyper-local community enterprise providing a focus for community activities, and promoting energy saving, low carbon emissions and sustainable gardening in the area of Lambhill, North Glasgow.

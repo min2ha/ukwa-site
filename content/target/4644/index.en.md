@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Holyrood: Scotland mourns Mandela
-
 None

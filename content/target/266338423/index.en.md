@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Iain Gray MSP
-
 Iain Gray is Scottish Labour Member of the Scottish Parliament for East Lothian.

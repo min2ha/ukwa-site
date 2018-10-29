@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# kpi-insight consulting Ltd
-

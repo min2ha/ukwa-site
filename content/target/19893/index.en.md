@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Little French Bears
-
 Little French Bears combines baby-sitting, nursery and au pair agency with teaching French to children aged from 2 to 12

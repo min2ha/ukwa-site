@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Centre for Social Justice (CSJ): 48:52: healing a divided Britain
-
 The Legatum Institute and the Centre for Social Justice have published a joint report that analyses why those who voted to leave the EU chose to do so, and how the UK Government can bridge the gap between people who are benefiting from a more globally connected world and those who fear for their, and their children’s, future.

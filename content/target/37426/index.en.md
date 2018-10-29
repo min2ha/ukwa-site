@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Neehao Magazine: How the decision to remain or leave will affect the British Chinese community
-
 Neehao Magazine discusses the pros and cons of remaining in the EU for the Chinese people, namely in business. 

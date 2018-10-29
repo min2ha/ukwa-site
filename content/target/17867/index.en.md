@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: ‘Wake-up call’ for Britain as migration keeps on soaring
-
 None

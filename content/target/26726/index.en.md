@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour shadow cabinet reshuffle: Leslie replaces Ed Balls
-
 None

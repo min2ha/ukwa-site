@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# St Albans Cathedral: School visitor numbers soar at St Albans Cathedral’s Education Centre
-

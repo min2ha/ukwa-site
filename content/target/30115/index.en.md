@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Sabhal Mòr Ostaig on Facebook
-
 Sabhal Mòr Ostaig is the National Centre for Gaelic Language and Culture and works to provide community Gaelic instruction. This is its official Facebook page.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour vows to boost school funding by targeting academies' cash reserves
-
 None

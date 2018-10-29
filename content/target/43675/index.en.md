@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Viajar por Escocia [Spanish]
-
 Site of a tourism company based in Edinburgh and offering tours of Scotland in Spanish.

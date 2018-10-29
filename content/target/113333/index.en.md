@@ -11,5 +11,3 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Children & Families of Far East Prisoners of War (COFEPOW)
-

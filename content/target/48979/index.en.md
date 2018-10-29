@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Dylan Thomas House, 5 Cwmdonkin Drive, Swansea
-
 The blog is written by Matthew Hughes, Curator of Dylan Thomas Birthplace & Family Home.

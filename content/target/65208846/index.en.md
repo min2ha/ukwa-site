@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Labour Lords
-
 Labour's team in the Lords holds the government to account and addresses issues affecting the lives of people both in the UK and around the world. They complement the work of our MPs in the Commons.

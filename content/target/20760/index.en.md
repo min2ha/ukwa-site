@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Law (@ChrisLawSNP) on Twitter
-
 Twitter profile of Chris Law, Scottish National Party candidate for Dundee West in the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Some Washington Men in the Great War - Wad thou gan? Aye, aa wad.
-
 Project to make a documentary film of about 30 minutes which tells the stories of some Washington men in the Great War.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Soil Association
-
 The Soil Association is the UK’s leading membership charity campaigning for healthy, humane and sustainable food, farming and land use.

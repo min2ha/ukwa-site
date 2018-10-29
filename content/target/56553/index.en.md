@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Transvengers, The
-
 The Transvengers webcomic was created in 2014 by a group of young trans people aged 13-19 from Gendered Intelligence. It was featured in the Institute of Sexology exhibition by the Wellcome Collection.

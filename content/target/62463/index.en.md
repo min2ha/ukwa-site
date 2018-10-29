@@ -10,6 +10,4 @@
   "start_date": "2018-03-10T09:00:00Z"
 }
 
-# Elgin's Lodge at Leven No. 91
-
 Site of a masonic lodge located in Leven, Fife and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# United Reformed Church National Synod of Scotland, The
-
 Site of the Scottish United Reformed church.

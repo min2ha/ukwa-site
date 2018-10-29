@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Farming Forum
-
 A UK-based farming forum 

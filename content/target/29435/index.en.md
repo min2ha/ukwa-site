@@ -10,5 +10,3 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Cymdeithasau Hanes Teuluoedd Undebol Cymru | Association of Family History Societies of Wales
-

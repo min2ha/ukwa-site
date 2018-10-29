@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Metropolitan Police (@metpoliceuk) on Twitter
-
 London's Metropolitan Police Service. Please do not report crime here, call 101. In an emergency always call 999

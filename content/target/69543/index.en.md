@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# gal-dem (@galdemzine) on Twitter
-
 gal-dem is a magazine (online and in print) and creative collective comprised of over 70 women and non-binary people of colour which launched in September 2015. This is their official Twitter account.

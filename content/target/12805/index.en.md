@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Common Guild, The
-
 <p>The Common Guild is a visual arts organisation based in Glasgow. They presented a number of events as part of the Glasgow 2014 Cultural Programme including an exhibition by Hayley Tompkins part of the “Generation” strand of events.</p>

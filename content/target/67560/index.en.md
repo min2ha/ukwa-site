@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-#  Black People's Mental Health Association (BPMHA)
-
 Waltham Forest Black People's Mental Health Association (BPMHA) is a day centre which provides comprehensive day service opportunities to those experiencing mental health challenges. 

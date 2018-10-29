@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Summerhall (@Summerhallery) on Twitter
-
 Twitter profile of Summerhall, a creative hub for the arts in Edinburgh with studio and workshop spaces. 

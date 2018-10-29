@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T11:00:00Z"
 }
 
-# Welsh Submariners
-
 This is the Welsh branch of the Submariners association.

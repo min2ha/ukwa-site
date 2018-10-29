@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Euro Accounting
-
 Euro Accounting is an accounting company based in the UK and employing French accountants.

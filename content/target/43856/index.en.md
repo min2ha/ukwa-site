@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Jamie Oliver blasts Boris Johnson in furious Brexit tirade
-

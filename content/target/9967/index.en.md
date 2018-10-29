@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# TNS BMRB: Scotland
-
 <p>A social research agency. Information on opinion polls and atitutudes towards Scottish independence.</p>

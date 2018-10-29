@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Transpositions
-
 Blog aims to create conversations between Christian theology and the arts.

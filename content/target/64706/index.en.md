@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leeds Rhinos (@leedsrhinos) on Twitter
-
 The official Twitter account for Leeds Rhinos Rugby League. 

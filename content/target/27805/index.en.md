@@ -10,6 +10,4 @@
   "start_date": "2015-06-10T09:00:00Z"
 }
 
-# Medievalists.net
-
 Website with blogs about history, post articles, news, book reviews and movies. 

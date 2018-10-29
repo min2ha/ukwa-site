@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Operation Black Vote (OBV) : A Manifesto for Race Equality in Britain
-
 Britain is at a crossroads on race equality, Brexit, immigration and identity. A coalition of race equality organisations has drawn up a plan to put fairness and equal life chances for Britain’s Black, Asian and minority ethnic communities. So that we can all face future challenges together, equally.
 

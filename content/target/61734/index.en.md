@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Power Of Scotland on Facebook
-
 Site of the men's national skating roller derby team.

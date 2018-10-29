@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Laydeez Do Comics Zine Workshop - Rights for Women: London's Pioneers in their Own Words
-
 Laydeez Do Comics Zine Workshop

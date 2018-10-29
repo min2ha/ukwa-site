@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Church of Scotland Inverness
-
 Site of a Church of Scotland parish church at Inverness.

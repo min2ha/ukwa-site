@@ -10,8 +10,6 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# RSM
-
 Although we can proudly trace our UK roots back to the 19th Century, through founding firms operating in London and Liverpool, from 1988 to 2015 the firm was known as Baker Tilly.
 
 On the 26 October 2015 the firm adopted the name RSM and united under a single global brand with RSM audit, tax and consulting firms across the world

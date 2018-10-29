@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# East Cambridge Green Party
-
 Website of East Cambridge Green Party, providing information on campaigns, policies and local and national news.

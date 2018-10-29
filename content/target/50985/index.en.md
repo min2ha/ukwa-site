@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Loch Ness Centre and Exhibition
-
 Site of a visitor centre, exhibition and retail outlet focusing on Loch Ness and located on the banks of the loch at Drumnadrochit.

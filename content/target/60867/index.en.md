@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Howe of Fife Rugby Football Club
-
 Site of a Scottish rugby union football club based in Cupar, Fife.

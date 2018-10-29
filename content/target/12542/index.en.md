@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kristian Thomas (Kristian_Thomas) on Twitter
-
 <p>The twitter profile of gymnast Kristian Thomas, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

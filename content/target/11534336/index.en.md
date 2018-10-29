@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# CADW
-
 Cadw is the historic environment service of the Welsh Government and works to protect the historic buildings and structures, the landscapes and heritage sites of Wales and currently  manages 127 state owned properties and sites. This website is a comprehensive overview of their work.

@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# People of the British Isles
-
 Did you know that historical patterns of peoples movements, from Anglo-Saxon invasions to those of the Vikings and Normans, may have an impact on 21st Century medical science?

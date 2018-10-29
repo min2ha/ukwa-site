@@ -10,6 +10,4 @@
   "start_date": "2015-01-08T06:00:00Z"
 }
 
-# Dylan Thomas: the official website
-
 <p>Website of the Welsh poet Dylan Thomas, celebrating his 2014 centenary.</p>

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# What UK Thinks: EU Referendum Poll of Polls
-
 A combination of six recent polls on the EU Referendum

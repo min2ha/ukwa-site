@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Kelly Best
-
 Kelly Best is a Cardiff based Artist that makes work that is rooted in drawing and deals with sculptural concerns.

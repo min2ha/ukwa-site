@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Chartered Institute of Arbitrators (CIArb)
-
 CIArb is an international centre of excellence for the practice and profession of alternative dispute resolution (ADR).

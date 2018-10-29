@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mandy Rossi on Facebook (Green Party candidate for Ashford)
-

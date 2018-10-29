@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Rifle Club of Scotland Website
-
 <p>The website of the National Rifle Club of Scotland Club, the body responsible for representing Scotland in Long Range Rifle Shooting.</p>

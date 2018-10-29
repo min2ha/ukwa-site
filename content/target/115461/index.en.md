@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Schumacher UK
-
 The Schumacher Society promotes the wisdom and insight of E.F. Schumacher to inspire a new generation who are seeking relevant and practical solutions to heal a world in crisis and build a sane, humane and ecological society.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Saracens Rugby (@Saracens) on Twitter
-
 The official Twitter account of Saracens Rugby Club.

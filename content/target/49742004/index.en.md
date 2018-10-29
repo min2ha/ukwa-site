@@ -10,6 +10,4 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# Battesea Dogs & Cats Home
-
 Battersea Dogs & Cats Home is the United Kingdom's oldest and most famous home for dogs and cats and is situated in the Battersea area of London, England. It is financed by voluntary donations.

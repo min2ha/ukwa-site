@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Varadkar outlines options to soften Brexit impact
-
 During his first official visit to NI, Irish PM Leo Varadkar mentioned two specific arrangements which he suggested could soften the impact of Brexit across the island of Ireland.

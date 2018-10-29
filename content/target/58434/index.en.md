@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Royal College of Nursing: Brexit - the implications for EEA workers, students and family members
-
 A guide for RCN members on 'Brexit' and the implications for European Economic Area (EEA) workers, students and family members.

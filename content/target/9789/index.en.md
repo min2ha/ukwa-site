@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Kevin Sills (English Democrats) on Facebook
-
 None

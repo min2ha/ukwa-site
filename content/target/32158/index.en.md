@@ -10,6 +10,4 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# People Like Us Cymru
-
 People Like Us Cymru is an organisation supporting kidney patients in Wales run by Kidney Wales Foundation.

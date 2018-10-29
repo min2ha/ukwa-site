@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford and the EU
-
 University of Oxford

@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# The Royal Tank Regiment Association
-
 The story of the Royal Tank Regiment

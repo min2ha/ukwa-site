@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Survivor Scotland
-
 SurvivorScotland oversees the National Strategy for survivors of Childhood abuse.

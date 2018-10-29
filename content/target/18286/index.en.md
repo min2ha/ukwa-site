@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# British Interplanetary Society (BIS), The
-
 The British Interplanetary Society (BIS) is Britain’s think tank on space development. Founded in 1933, it is the world’s longest established organization devoted solely to supporting and promoting the exploration of space and astronautics. 

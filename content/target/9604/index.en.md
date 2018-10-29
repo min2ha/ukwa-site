@@ -10,6 +10,4 @@
   "start_date": "2014-03-20T21:00:00Z"
 }
 
-# BBC News: Key points of Budget 2014: At-a-glance
-
 None

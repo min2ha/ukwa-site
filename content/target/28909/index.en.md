@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# MAC, The
-
 The MAC is Belfast’s arts venue. They select, create and mix up music, theatre, dance and art. They organise exhibitions and theatre shows.

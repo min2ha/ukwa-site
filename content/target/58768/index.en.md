@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Dunblane Cathedral Society of Change Ringers
-
 Site of a society of church bell ringers based at Dunblane Cathedral, Dunblane.

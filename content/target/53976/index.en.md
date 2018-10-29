@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kalvin Chapman (@KalvinChapman) on Twitter (UKIP  Politician)
-
 Kalvin Chapman stood as the UK Independence Party (UKIP) candidate for  Manchester Central in the 2017 General Election but was not elected.

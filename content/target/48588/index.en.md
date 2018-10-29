@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Wire Web
-
 Site of a marketing business directory based in and focussed on the town of Dunblane, Stirlingshire.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: How my addiction to social media affected my mental health and my relationships 
-
 Article about authors addiction social media and how if affected her mental health

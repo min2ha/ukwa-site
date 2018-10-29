@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Alliance Française de Glasgow
-
 Site of an organisation based in Glasgow promoting and sharing appreciation of the French language, culture, and other aspects of the French way of life.

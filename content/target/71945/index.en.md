@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Telegraph, The: Do women really want men to play an equal role in parenting?
-
 An article about equality in parenting

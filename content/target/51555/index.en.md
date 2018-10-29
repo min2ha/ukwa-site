@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Falkland Centre for Stewardship
-
 Site of an umbrella organisation for the management of the Falkland Estate, in Fife, Scotland.

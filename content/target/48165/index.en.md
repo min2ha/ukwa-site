@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Jurainfo
-
 Blog site set up to provide information about the island of Jura in the Inner Hebrides, Argyll & Bute, Scotland.

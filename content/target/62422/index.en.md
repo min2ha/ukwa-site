@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Slebech Park
-
 Slebech Park is at the center of a 650 acre privately owned estate onthe upper reaches of the DauGleddau  river Estuary. It is a 18th century Grade II listed coach house, once the centre of the traditional agricultural Estate in Pembrokeshire.

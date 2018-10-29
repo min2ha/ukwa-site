@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Henley Rugby Football Club
-
 The official website of Henley Rugby Football Club, is a sustainable community rugby club which started life in 1930 as Old Henleiensians.

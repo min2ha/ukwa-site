@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Leicester City Liberal Democrats
-
 Website of Liberal Democrats in Leicester, providing information on local news and party updates.

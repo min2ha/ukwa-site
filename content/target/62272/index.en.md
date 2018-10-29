@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southend United F.C.
-
 Southend United Football Club is a professional association football club based in Southend-on-Sea, Essex, England. The team competes in League One, the third tier of English football. 

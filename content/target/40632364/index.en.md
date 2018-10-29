@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Reading West Conservatives
-
 Website of Reading West Conservatives, providing information on events, campaigns, MPs, Borough and Parish councillors, local and national news updates.

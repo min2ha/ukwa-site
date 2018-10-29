@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Women's Work
-
 Site of Women's Work festival, a series of events held in Belfast that highlight, celebrate and showcase women in music. The festival is curated and programmed by Oh Yeah Music Centre, Belfast. 

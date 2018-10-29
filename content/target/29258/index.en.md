@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Zac Goldsmith (Conservative Politician)
-
 Zac Goldsmith stood as Conservative candidate for Richmond Park and North Kingston. In June 2015, Zac Goldsmith announced his intention to seek the Conservative candidacy to run for London Mayor. He was first elected in 2010 and has held the same seat ever since.

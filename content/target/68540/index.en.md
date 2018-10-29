@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Dathlu'r Gymraeg (@Dathlu_Cymraeg) on Twitter
-
 This is a twitter feed for a group who call themselves 'Dathlu'r Gymraeg', an umbrella body calling for stonger laws to protect the Welsh language.

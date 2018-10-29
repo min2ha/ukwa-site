@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Windsor 2012
-

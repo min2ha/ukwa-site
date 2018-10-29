@@ -11,6 +11,4 @@
   "subject": "E-publishing Trends/Emerging Formats"
 }
 
-# James Webb
-
 None

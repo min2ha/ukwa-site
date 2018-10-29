@@ -1072,6 +1072,4 @@
   "endDateText": ""
 }
 
-# Blogs
-
 The UK Blogosphere (connected community of Web logs) has burgeoned since the late 1990s and early 2000s, due in part to the advent of web publishing tools that facilitated the posting of content by non-technical users. Until 2009 Blogs were generally the work of a single author, in the 2010s Multi Author Blogs (MABs) developed. This collection curated by staff at the British Library from 2005 onwards, represents a cross section of UK Web logs containing a wealth of material which will be of value to researchers now and in the future. The collection contains a wide variety of Blogs from news and political commentaries, sports and music Blogs to personal online diaries.  

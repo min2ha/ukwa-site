@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Port William
-
 Community portal for Port William, Dumfries and Galloway. Focus on local business, tourism and history.

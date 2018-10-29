@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# ComRes: Daily Mail February 2015 Political Poll
-
 ComRes / Daily Mail political poll, February 2015.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# St. Woolos Sinfonia
-
 St Woolos Sinfonia is a chamber orchestra based at St Woolos, Newport Cathedral.

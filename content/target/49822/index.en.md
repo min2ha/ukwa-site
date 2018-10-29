@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Siloam Church Killay, Swansea
-

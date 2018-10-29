@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# The 4C Project - A collaboration to clarify the cost of curation
-
 The aim of the 4C project is to help organisations across Europe to invest more effectively in digital curation and preservation. 

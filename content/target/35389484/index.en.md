@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shelley Rudman Skeleton Bobsleigh 
-
 None

@@ -10,7 +10,5 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Lancashire Welsh: The Welsh speaking communities of South Lancs
-
 This is a website on the former Welsh communities of South Lancashire. 
 The site provides a history and pictures of former Welsh Churches and Chapels in Ashton, Ince, St Helens, Golborne, Manchester, Merseyside, Warrington and Wigan.

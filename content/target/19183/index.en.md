@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent News: Essential guide to: the Magna Carta
-

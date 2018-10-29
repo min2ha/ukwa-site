@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: UKIP General Election win would spark riots in Britain as TV docudrama paints bleak picture of 'future'
-
 None

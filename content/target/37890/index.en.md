@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# John Charles Bayliss (@JohnCBayliss) on Twitter (Labour candidate for Mid and West Wales)
-
 John Charles Bayliss is the Labour candidate for Mid and West Wales at the 2016 National Assembly Elections. 

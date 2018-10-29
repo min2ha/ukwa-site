@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Quivox Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in St. Quivox, Ayrshire, incorporating the church of St. Ann's, Mossblown.

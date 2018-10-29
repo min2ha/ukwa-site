@@ -10,6 +10,4 @@
   "start_date": "2014-08-18T12:00:00Z"
 }
 
-# PC David Rathband's Blue Lamp Foundation
-
 None

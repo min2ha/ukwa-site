@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# St Davids City Open Gardens
-
 The gardens in Britain’s smallest City are all very varied in size, design and interest and twenty five of them were open in 2019 for the public to explore and to help raise funds for the registered charity Prostate Cymru.

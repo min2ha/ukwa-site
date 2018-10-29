@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Paranoid Thoughts
-
 The focus of this website is not on justified anxieties about others, but rather on exaggerated or unfounded fears - fears for which there is little or no convincing evidence. Exaggerated worries about others don't help us stay safe but instead can bring all manner of distress.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Meadowside St. Paul's Church
-

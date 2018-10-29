@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Irish4Europe (@Irish4Europe) on Twitter
-
 Twitter page of civic campaign urging Irish people in the UK to register and vote remain in the EU Referendum

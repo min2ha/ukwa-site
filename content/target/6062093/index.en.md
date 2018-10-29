@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Quaker Lesbian & Gay Fellowship (QLGF)
-
 None

@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Ralf Obergfell
-

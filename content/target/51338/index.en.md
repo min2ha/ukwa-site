@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Mary of the Angels Cardiff 
-

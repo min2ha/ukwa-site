@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# Association for Studies in French Cinema
-

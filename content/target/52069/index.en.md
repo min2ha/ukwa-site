@@ -10,5 +10,3 @@
   "start_date": "2017-04-19T09:00:00Z"
 }
 
-# Cyfarthfa High School | Ysgol Uwchradd Cyfarthfa
-

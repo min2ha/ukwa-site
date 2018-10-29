@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# International Business Times UK: First World War Centenary: Invention of Plastic Surgery, Blood Banks and Other Lesser-Known WW1 Facts
-
 <p>An article by Lydia Smith.</p>

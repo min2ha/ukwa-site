@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Dundee Partnership
-
 Site of a partnership of organisations that pools together the strengths of key City agencies including Dundee City Council, Scottish Enterprise, Tayside Police and NHS Tayside, along with local academic institutions and representatives of the business, voluntary and community sectors, providing a vehicle for co-ordinated inter agency working

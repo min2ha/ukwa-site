@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Первая русская школа г. Белфаст / Pervaia russkaia shkola g. Belfast (The First Russian School Belfast)
-
 Russian school in Belfast.

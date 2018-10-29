@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Acclimatize
-
 Acclimatize is a partnership between University College Dublin and Aberystwyth University and provides water quality managers with tools to improve bathing water quality and to minimize the effects of climate change. This project has been part funded by the ERDF through the Ireland Wales Programme 2014 -2020.

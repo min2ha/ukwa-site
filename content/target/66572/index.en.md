@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Johnston Carmichael (Scotland) Limited
-
 The website of Johnston Carmichael (Scotland) Limited, an accounting and bookkeeping firm based in Scotland.

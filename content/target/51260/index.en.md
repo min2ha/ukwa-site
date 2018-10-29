@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library:  Brexit: what next for UK fisheries?
-
 The implications of Brexit for fisheries are highly uncertain. The implications will depend on future negotiations with the EU and future UK Government policy.
 

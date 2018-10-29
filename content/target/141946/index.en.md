@@ -10,5 +10,3 @@
   "start_date": "2007-08-07T00:00:00Z"
 }
 
-# Canolfan e-Wyddoniaeth Cymru - Welsh E-Science Centre
-

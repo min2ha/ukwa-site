@@ -10,6 +10,4 @@
   "start_date": "2018-06-01T09:00:00Z"
 }
 
-# Stylist Magazine
-
 A weekly style magazine published in the UK.

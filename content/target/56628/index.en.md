@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Philip Hammond and Liam Fox in post-Brexit deal call
-
 The UK will need a transition period to help businesses adjust after Brexit, the chancellor and the international trade secretary said in a joint article for the Sunday Telegraph. Their comments were seen as an attempt to show unity between rival sides in Theresa May's cabinet.

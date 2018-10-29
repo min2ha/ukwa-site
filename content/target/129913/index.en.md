@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Funding Council
-
 The Scottish Further and Higher Education Funding Council (SFC) is the national, strategic body that is responsible for funding teaching and learning provision, research and other activities in Scotland's 25 colleges and 19 universities and higher education institutions. SFC is a Non-Departmental Public Body (NDPB) of the Scottish Government and was established on 3 October 2005.

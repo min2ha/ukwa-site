@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# James Irving-Lewis – Solidarity Candidate for North East Scotland
-
 James Irving-Lewis is the Solidarity list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Raasay Community Association
-
 Site providing community, business, history and genealogical information about the island of Raasay in the Western Isles of Scotland.

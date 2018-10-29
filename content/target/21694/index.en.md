@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour, drop the benefits doublespeak and let’s hear your underdog-whistle
-
 None

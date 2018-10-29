@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Has Ed Miliband got what it takes to be prime minister?
-

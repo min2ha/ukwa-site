@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# UK Resource Centre for Women in Science, Engineering and Technology (UKRC)
-

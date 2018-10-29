@@ -10,5 +10,3 @@
   "start_date": "2012-12-04T00:00:00Z"
 }
 
-# e-AFFECT: e-Assessment and Feedback for Effective Course Transformation
-

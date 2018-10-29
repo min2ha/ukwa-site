@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Sir Malcolm Rifkind's downfall creates a Conservative vacancy in Kensington. Send for Andrew Strauss 
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Yanis Varoufakis: Why we must save the EU
-
 Guardian, The

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Tracy Satchwill: Magna Carta Women
-

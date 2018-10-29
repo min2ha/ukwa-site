@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Huw Irranca-Davies MP
-

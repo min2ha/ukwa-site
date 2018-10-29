@@ -10,6 +10,4 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# Angling Trust
-
 The Angling Trust is a representative body for game, coarse and sea anglers in England.

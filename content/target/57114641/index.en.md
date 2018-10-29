@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Caersalem Caernarfon
-
 Caersalem is a Welsh speaking church in Caernarfon.

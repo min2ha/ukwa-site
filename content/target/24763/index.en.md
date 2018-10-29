@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Maeve Tomlinson (Green party candidate for Sutton and Cheam) on Facebook
-

@@ -10,6 +10,4 @@
   "start_date": "2005-04-19T00:00:00Z"
 }
 
-# Free Scotland Party
-
 None

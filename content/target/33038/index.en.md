@@ -10,6 +10,4 @@
   "start_date": "2015-11-30T09:00:00Z"
 }
 
-# Royal Naval Birdwatching Society
-
 Royal Naval Birdwatching Society presents research of seabird movements and distribution from observations by ships at sea.  It was founded in 1946 and contains archive of annual publications since 1947. 

@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Caerfyrddin Lodge No.4928
-
 Caerfyrddin Lodge No.4928 was consecrated in 1927 and meet at the Masonic Hall in Carmarthen. This is a short introduction to the Lodge.

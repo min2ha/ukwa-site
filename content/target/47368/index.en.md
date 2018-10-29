@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Yes he had to be optimistic. But whatever happened to the idea of living within our means?
-
 In his 2016 Autumn Statement, Philip Hammond did what was almost certainly essential to avert an economic downturn. He offered an optimistic vision for Britain’s future which we can all unite in hoping to see fulfilled.

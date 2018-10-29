@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Harviestoun Brewery Ltd
-
 Site of a brewer located in Alva, Clackmannanshire.

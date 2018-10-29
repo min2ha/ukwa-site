@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Greenock Elim on Facebook
-
 Facebook page of a Scottish Elim Pentecostal (Christian) Church located in Greenock, Renfrewshire.

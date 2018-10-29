@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Department of Computer Science, The University of Sheffield
-
 Official website of the department.

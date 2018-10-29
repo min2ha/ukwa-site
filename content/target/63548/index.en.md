@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bathgate High Church
-
 The website of Bathgate High Parish Church.

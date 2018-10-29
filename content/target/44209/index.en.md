@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Girls Get Busy Zine
-
 Girls Get Busy is a feminist creative platform that supports artists, writers and musicians. 

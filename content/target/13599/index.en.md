@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Antibiotic Action
-
 The British Society for Antimicrobial Chemotherapy (BSAC) was founded in 1971 and has 700 members worldwide. It exists to gather and distribute information and knowledge in the field of antimicrobial chemotherapy, otherwise known as medical treatment of microbial infections. 

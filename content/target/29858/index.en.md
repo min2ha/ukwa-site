@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Croydon Comedy Festival
-
 Website for the Croydon Comedy Festival.

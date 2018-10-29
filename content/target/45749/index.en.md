@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# CO Awareness
-
 CO-Awareness is a registered charity that supports the many victims of Carbon Monoxide (CO) poisoning, their families and friends.

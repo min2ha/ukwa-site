@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Our proud history
-

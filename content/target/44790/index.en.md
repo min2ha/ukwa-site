@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Big Cwtch, The
-
 The Big Cwtch is a music festival based in the Teifi Valley.

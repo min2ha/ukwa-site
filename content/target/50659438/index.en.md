@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:17.425716", 
+  "date": "2018-10-29T13:21:17.035215", 
   "open_access": true, 
   "target_url": "http://www.qsra.org.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "Quaker Studies Research Association", 
-  "record_id": "20181029T125417/3HRK/d+y5foFRujdJBTbnw==", 
+  "record_id": "20181029T132117/3HRK/d+y5foFRujdJBTbnw==", 
   "publisher": "qsra.org.uk", 
   "start_date": null, 
   "subject": null
 }
-
-# Quaker Studies Research Association
 

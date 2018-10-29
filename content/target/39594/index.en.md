@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Heart of Hawick
-
 Site of a group of cultural venues in Hawick, Scottish Borders, Scotland, comprising cinema and theatre, archives and family history resources, and a museum of textiles.

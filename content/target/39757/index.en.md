@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Glasgow Provan SNP (@ProvanSNP) on Twitter
-
 Twitter profile of the Glasgow Provan branch of the Scottish National Party (SNP).

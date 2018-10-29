@@ -10,5 +10,3 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# St. Andrew and St. Nicholas Church
-

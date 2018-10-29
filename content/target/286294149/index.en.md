@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Dirty/Realistic Stuart Evers' Blog
-
 <p>Blog of the English author Stuart Evers.</p>

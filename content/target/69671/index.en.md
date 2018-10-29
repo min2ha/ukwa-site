@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival 2018
-
 Fun-filled cultural programme of the Glasgow 2018 European Championships.

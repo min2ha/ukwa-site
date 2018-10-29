@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Joanna Skelt poems
-
 Birminghamd City Council collection of poems by Joanna Skelt

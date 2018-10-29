@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# CPD Tref Caerfyrddin | Carmarthen Town AFC 
-
 Carmarthen Town AFC was formed in 1948 and admitted to the Carmarthenshire Association Football League. The present ground, Richmond Park, was created in 1952

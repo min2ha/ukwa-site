@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Unison: Our NHS, Our Future
-
 None

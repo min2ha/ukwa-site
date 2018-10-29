@@ -10,5 +10,3 @@
   "start_date": "2017-12-19T09:00:00Z"
 }
 
-# Provincial Grand Lodge of North Wales
-

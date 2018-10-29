@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Socialist Studies
-
 Socialist Studies website promotes research on the subject through literature and events.

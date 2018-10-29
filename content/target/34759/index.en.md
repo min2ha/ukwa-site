@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister: Personal Minute to all Ministerial Colleagues: EU Referendum
-
 The Prime Minister wrote to all ministers about special arrangements relating to the EU referendum. After EU negotiation has concluded, these arrangements permit individual ministers to take a different personal position from the official position of the government on the EU referendum.

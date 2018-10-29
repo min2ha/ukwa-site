@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Liverpool Irish Festival
-
 Bringing Liverpool and Ireland closer together through arts and culture. An annual festival taking place across Merseyside.

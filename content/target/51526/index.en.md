@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Worshipful Company of World Traders
-
 The Worshipful Company of World Traders is a modern, vibrant and active Livery Company working within a fine tradition. Our membership comprises of people from a diverse range of professions and backgrounds who come together at our social and business events to enjoy each others company and exchange their thoughts and ideas.

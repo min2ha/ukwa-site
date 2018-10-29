@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Church, Burnley
-
 St Peter's is the Parish Church of Burnley and has been a place of Christian worship for over a thousand years. It has recently been designated a child-friendly church and welcomes people of all faiths or none with a variety of services, discussion groups, social gatherings and concerts.

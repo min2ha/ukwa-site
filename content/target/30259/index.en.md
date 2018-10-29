@@ -10,5 +10,3 @@
   "start_date": "2015-09-05T10:00:00Z"
 }
 
-# Brecon Credit Union
-

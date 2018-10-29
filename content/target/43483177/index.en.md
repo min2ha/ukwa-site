@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Danny Alexander MP - Inverness, Nairn, Badenoch & Strathspey
-

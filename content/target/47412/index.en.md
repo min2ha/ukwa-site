@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Autumn Statement: Workers' pay growth prospects dreadful, says IFS
-
 The Institute for Fiscal Studies (IFS) said workers would earn less in real wages in 2021 than they did in 2008. Other analysis shows the biggest losers between now and 2020 will be lower income families, with the poorest third likely to see incomes drop.

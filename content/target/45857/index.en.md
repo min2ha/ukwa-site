@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Clock Tower Web
-
 ClockTowerWeb, a web based limited company in Maidenhead, UK and was established in 2000.

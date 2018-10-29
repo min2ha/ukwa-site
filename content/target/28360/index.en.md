@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Connected Histories
-
 Connected Histories brings together a range of digital resources related to early modern and nineteenth century Britain.

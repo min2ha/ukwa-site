@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mind Blue Light (@mindbluelight) on Twitter
-
 Twitter account @mindbluelight to support mental health of the emergency services staff

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cefn Albion Football Club
-
 Cefn Albion are a football team from the village of Cefn Mawr which is near Wrexham in North Wales. 

@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Homeless Link: General Election 2017: Manifesto Round-Up
-
 Ahead of the 2017 general election, Homeless Link produced this summary of the manifesto commitments of The Conservatives, Labour and the Liberal Democrats in policy areas relevant to its members and the people they support. 
 

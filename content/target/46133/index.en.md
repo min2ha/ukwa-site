@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T11:00:00Z"
 }
 
-# Coed Marros Co-op
-
 Coed Marros is a sustainable woodland cooperative in South Pembrokeshire and is funded by Cydcoed.

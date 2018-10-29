@@ -10,6 +10,4 @@
   "start_date": "2016-06-06T10:00:00Z"
 }
 
-# Asking for trouble
-
 Zine distro.  Asking For Trouble is the creative pseudonym of Marceline Smith, an illustrator, blogger, designer and zinemaker based on the West Coast of Scotland.

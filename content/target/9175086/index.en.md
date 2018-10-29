@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Taekwondo Control Board (BTCB)
-

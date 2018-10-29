@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lupton House Festival Of History
-
 Website for the Lupton House Festival Of History

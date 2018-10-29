@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Airdrie Reformed Presbyterian Church
-

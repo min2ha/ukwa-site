@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Timothy Kirkhope (Conservative MEP for Yorkshire and the Humber)
-
 Timothy Kirkhope stood as a Conservative candidate for Yorkshire and the Humber at the 1999 European Parliament election and was elected to serve as MEP. He was subsequently re-elected in 2009 and 2014, but resigned in 2016 having been elevated to the Lords in David Cameron's resignation honours list.

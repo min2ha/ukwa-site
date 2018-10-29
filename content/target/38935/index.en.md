@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Anthony Garratt: Contemporary artist
-
 Anthony Garratt is a contemporary artist of the British landscape whose work is concerned with the weather, an experience and impact of a landscape. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mohammed Sarul Islam (@Sarulislam) on Twitter
-
 Mohammed Sarul Islam is the UKIP candidate for Cardiff Central at the 2017 General Election.

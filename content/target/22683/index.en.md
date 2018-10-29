@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Mullaney (@miketmullaney) on Twittter (Liberal Democrats Politician)
-
 Michael Mullaney stood as Liberal Democrats candidate for Bosworth at the 2015 General Election but was not elected. He stood again in 2017 but was not elected.

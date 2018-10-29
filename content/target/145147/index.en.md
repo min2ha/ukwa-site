@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Lantra - Sector Skills Council for the Environmental and Land-based Sector
-
 None

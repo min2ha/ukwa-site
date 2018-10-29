@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Basement, The
-
 The Basement presents national and international contemporary performances. 

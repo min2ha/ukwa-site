@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Schools' Football Association
-
 Site of the national development and governing body for association football in Scotland.

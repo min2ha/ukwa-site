@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Cyrenians Employment and Training Ltd
-
 The aim of Cyrenians Employment and Training Ltd is to act as the delivering body for training and employment services for some of the most disadvantaged socially excluded adults and those furthest from the labour market in the Swansea Bay area. 

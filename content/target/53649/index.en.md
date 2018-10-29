@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dundee Westfest
-
 Site of an annual music and arts festival taking place in Dundee.

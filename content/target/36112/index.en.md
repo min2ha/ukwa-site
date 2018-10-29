@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Cabinet Secretary plays dirty over EU: Heywood bars sceptics from seeing papers while civil servants are told to identify ministers who back Brexit    
-

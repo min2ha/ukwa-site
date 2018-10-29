@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# National Archives, The (TNA): Preserving Digital Records
-
 Pages dedicated to digital preservation at the National Archives in Kew.

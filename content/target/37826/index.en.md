@@ -10,6 +10,4 @@
   "start_date": "2016-03-23T09:00:00Z"
 }
 
-# TYCI
-
 Site for a women's collective based in Glasgow, Scotland, addressing social issues through the arts; writing, music and visual arts.

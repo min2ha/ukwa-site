@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dunbar Rugby Football Club
-
 Site of a Scottish rugby union football club based in Dunbar, East Lothian.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Henry Reilly (@HenryReillyNOEU) on Twitter (Unionist politician)
-
 Twitter feed of Unionist politician Cllr Henry Reilly, demonstrating that customs checks do exist at the border with the Irish Republic

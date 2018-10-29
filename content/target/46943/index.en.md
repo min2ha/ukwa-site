@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# Onion Custard Publishing
-
 Onion Custard Publishing is a book published based in Pontyclun, Rhondda Cynon Taff.

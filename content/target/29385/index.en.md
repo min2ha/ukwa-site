@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# St Ethelburga's Centre for Reconciliation and Peace
-
 The church of St Ethelburga's was built in the 15th century.  Having survived the Great Fire of London and the Blitz, it was almost completely destroyed by an IRA bomb in 1993.  It was rebuilt and opened as a centre for reconciliation and peace in 2002.

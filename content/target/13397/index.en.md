@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jamie Hepburn (jamiehepburn) on Twitter
-
 The twitter profile of Jamie Hepburn, the Scottish National Party Member of the Scottish Parliament for Cumbernauld and Kilsyth.

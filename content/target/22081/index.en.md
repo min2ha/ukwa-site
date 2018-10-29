@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Loynes (@LoynesGreen) on Twitter (Green Party candidate for Westmorland and Lonsdale)
-

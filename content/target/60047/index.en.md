@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Duns Rugby Football Club
-
 Site of a Scottish rugby union football club based in Duns, Scottish Borders [Berwickshire].

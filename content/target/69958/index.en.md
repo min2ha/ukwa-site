@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Eastern Eye (@EasternEye) on Twitter
-
 Britain's nnewspaper for Asian news, business and lifestyle.

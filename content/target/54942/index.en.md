@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-#  Lisa Heledd Jones   
-
 Lisa Heledd Jones works with personal narratives to create sound and story experiences that bring together people and landscapes

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Electoral Office for Northern Ireland (EONI)
-
 Includes information on local offices and the voting process in Northern Ireland.

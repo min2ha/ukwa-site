@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# ISideWith.com UK
-
 The UK version of the polling platform to gauge political support.

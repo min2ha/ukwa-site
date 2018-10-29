@@ -10,6 +10,4 @@
   "start_date": "2015-03-18T09:00:00Z"
 }
 
-# Interdisciplinary Studies in the Long Nineteenth Century: Science, Literarure, and the Darwin Legacy (no 11, 2010)
-
 An issue of an open access journal, guest edited by Carolyn Burdett, Ana Parejo Vadillo, and Paul White, takes the Darwin anniversary year as an occasion to reflect on the role that Darwin's work has played in focusing the field of literature and science on the interplay of biology and the novel.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Why No Deal will only shave a small slice off growth – if we act wisely over the medium-term
-
 New research by Open Europe suggests that the trade effects on our economy of leaving the EU without a preferential trade deal would be limited. The UK would continue to grow, but No Deal would have an effect equivalent to an average annual drag of -0.17 per cent on real GDP growth over the 13 years up to 2030.
 

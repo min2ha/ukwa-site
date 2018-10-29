@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Dunstablians Rugby Union Football Club
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Scotland, The
-
 The Church of Scotland is a religious organisation with over 400,000 members. There is around 800 ministers serving in parishes and chaplaincies, supported by more than 1500 professional and administrative staff. Most of the parishes are in Scotland, but there are also churches in England, Europe and overseas.

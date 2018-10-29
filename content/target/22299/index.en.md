@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Otto Inglis (@ottoinglis) on Twitter
-
 Twitter profile of Otto Inglis, UK Independence Party (UKIP) candidate for Edinburgh West in the 2015 UK General Election.

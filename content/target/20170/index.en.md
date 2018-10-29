@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nia Griffith MP on Facebook
-
 Nia Griffith - Labour candidate for Llanelli Constituency.

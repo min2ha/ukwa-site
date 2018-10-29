@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Environmental Europe: A surprising deal? Cameron’s ‘reformed EU’ & the environment
-
 When the European Council finally drew to a close on February 19, 2016, the deal to help secure the UK’s continued membership in the European Union (called the ‘Anti-Brexit’ deal in continental newspapers) was finally agreed. This document provides insight into the issues highest on the UK renegotiation agenda, and how the UK and its EU partners were able to reach a compromise. Analysing it from an environmental perspective reveals a number of surprises.

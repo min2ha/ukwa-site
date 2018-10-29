@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Evening Standard - Euro 2016
-
 The main page for Evening Standard Euro 2016 coverage.

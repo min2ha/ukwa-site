@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# South Edinburgh Liberal Democrats
-

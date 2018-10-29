@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Am Baile - Highland History and Culture
-
 Explore Am Baile, The Highland Council's bilingual website, and discover the history and culture of the Scottish Highlands and Islands.

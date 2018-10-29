@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cornwall Street Baptist Church, Cardiff
-

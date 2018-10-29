@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Kirby Today
-
 Hyperlocal news site focused on West Kirby, Hoylake, Meols and Caldy, in Wirral

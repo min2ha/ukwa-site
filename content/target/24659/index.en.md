@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Patrick O'Flynn (@oflynnmep) on Twitter (UKIP Politician)
-
 Patrick O'Flynn stood as UK Independence Party UKIP candidate for Cambridge at the 2015 General Election but was not elected. He then stood for Epping Forest in the 2017 General Election and was again unsuccessful.
 Patrick O'Flynn was elected as MEP in 2014  for East of England region for the UK Independence Party.

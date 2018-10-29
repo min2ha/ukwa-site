@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Artist's E-books
-
 <p>Publishing e-books by artists and about art, in ePub format.</p>

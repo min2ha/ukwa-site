@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Federal Union: European Elections 2014 Archive
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North Cornwall Liberal Democrats
-
 Website of Liberal Democrats in North Cornwall, providing information on Liberal Democrats events, news and contacts in North Cornwall and across Devon and Cornwall.

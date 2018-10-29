@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU ROPE
-
 Jon Danzig  is an award winning medical journalist and formerly an investigative journalist at the BBC. He specialises in health, human rights and the European Union.

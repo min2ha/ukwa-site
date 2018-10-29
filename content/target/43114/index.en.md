@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# Carsphairn Community Website
-
 Community website for the village of Carsphairn, Dumfries and Galloway, Scotland, providing information on the activities of the Community Council and amenities in and history of the village.

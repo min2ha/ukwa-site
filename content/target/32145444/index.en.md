@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# WRVS
-
 None

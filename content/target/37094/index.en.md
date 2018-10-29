@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: EU referendum: Who really cares what the Queen thinks of Brexit?
-
 Independent, The: EU referendum: Who really cares what the Queen thinks of Brexit?

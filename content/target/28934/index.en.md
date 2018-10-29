@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Birmingham Labour Party
-
 Website of Birmingham Labour Party, providing information on how to get involved and campaign resources.

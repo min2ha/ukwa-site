@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Real Life: Retold (Renamed from Living Museum)
-
 Real Life: Retold is a community focused research project, culminating in the performance of new, research-based writing surrounding the Bombardment.

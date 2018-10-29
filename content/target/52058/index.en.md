@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. George’s, Hanover Square
-
 St George's is the parish church of Mayfair. Splendidly refurbished in 2010 it was built between 1721-1724 to the designs of John James, as one of the Fifty Churches projected by Queen Anne's Act of 1711. 

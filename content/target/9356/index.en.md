@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rowan Cheshire Freestyle Skier on Twitter
-
 None

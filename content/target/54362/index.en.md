@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Ferry Chatbot, The
-
 The John Ferry chatbot; an experiment in finding new ways of reaching voters. Scottish Liberal Democrat candidate for Dumfriesshire, Clydesdale and Tweeddale in the 2017 general election.

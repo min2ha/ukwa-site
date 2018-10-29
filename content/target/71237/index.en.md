@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Amazed by Science
-

@@ -10,6 +10,4 @@
   "start_date": "2015-09-08T10:00:00Z"
 }
 
-# Cadwyn Clwyd
-
 Rural development agency for Clwyd.

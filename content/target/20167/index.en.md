@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter Varley - Wales Green Party candidate for Islwyn on Facebook
-
 Wales Green Party candidate for Islwyn

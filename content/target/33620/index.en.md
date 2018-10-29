@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UK in a changing Europe, The
-
  Funded by the Economic and Social Research Council (ESRC), and based at King’s College London, the Initiative will explore the key aspects of UK and EU dynamics, including:n (EU).

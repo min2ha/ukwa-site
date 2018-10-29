@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# GlasgowMusic.co.uk
-
 Site focused on the music scene in Glasgow, Scotland. The site publishes reviews, local history pieces, listings and features, as well as providing links to venues, retailers and industry organisations. 

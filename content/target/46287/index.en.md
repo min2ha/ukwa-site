@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# UK Statistics Authority statement on the use of official statistics on contributions to the European Union
-
 A statement from the Chair of the UK Statistics Authority, Sir Andrew Dilnot.

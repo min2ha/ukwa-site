@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Benarty Heritage Preservation Group
-
 Site of a local history group located in the Benarty area of Fife (Ballingry, Lochore, Crosshill, Lochcraig and Glencraig).

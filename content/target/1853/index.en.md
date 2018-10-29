@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Central Bedfordshire Council
-
 Website of Central Bedfordshire Council offering information about services for residents and the activities of the council

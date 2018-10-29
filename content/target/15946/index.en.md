@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Information Commissioner - Your guide to the Freedom of Information (Scotland) Act
-
 The Scottish Information Commissioner is responsible for enforcing and promoting Scotland's freedom of information laws.

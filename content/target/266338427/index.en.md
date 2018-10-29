@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Southampton Cenotaph Families and Friends Group
-

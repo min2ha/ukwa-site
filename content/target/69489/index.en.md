@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Lockerbie Moffat
-
 Site of two Scottish Roman Catholic parish churches, Holy Trinity, Lockerbie and Saint Luke's, Moffat, Dumfries & Galloway.

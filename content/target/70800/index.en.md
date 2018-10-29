@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Equal Parenting: Sharing childcare to drive gender equality in the workplace
-
 A website about the Equal Parenting project, lead by Dr. Holly Birkett and Dr. Sarah Forbes, whose aim is 'improving the use of family friendly policies in the UK and encouraging equality in the workplace'.

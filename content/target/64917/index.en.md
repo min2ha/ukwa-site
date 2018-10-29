@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Magic Bus UK | Freeing Children From Poverty
-
 The Magic Bus Programme uses a special combination of Physical Activity, Play, Sport and Mentoring to engage with children and young people living in poverty.

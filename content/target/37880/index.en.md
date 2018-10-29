@@ -10,6 +10,4 @@
   "start_date": "2016-03-23T09:00:00Z"
 }
 
-# Ysgol Llanedi
-
 Carmarthenshire school due to close in 2016/17.

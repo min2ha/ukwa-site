@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City AM: Budget funnies: George’s Magna Cart-ha ha ha 
-

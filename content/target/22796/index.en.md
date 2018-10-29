@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leon Hadji-Nikolaou (Conservative)
-
 Leon Hadji-Nikolaou stood as Conservative candidate for Leicester South at the 2015 General Election but was not elected.

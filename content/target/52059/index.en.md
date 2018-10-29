@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. George & St. Paul, Tiverton
-
 St George & St Paul is one church, with two locations - based in the town centre and nearby Westexe area of Tiverton, Devon.

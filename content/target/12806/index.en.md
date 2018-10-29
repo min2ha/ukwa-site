@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ENDURANCE
-
 <p>A new theatre production from A Moment’s Peace Theatre Company that considers the changing role of women in competitive sport. Created and performed by over twenty women living in Glasgow it is on from the 24th to the 27th July at the Arches, Glasgow. Part of the Glasgow 2014 Cultural Programme.</p>

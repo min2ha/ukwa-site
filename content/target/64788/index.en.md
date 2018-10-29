@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Windrush Generation
-
 A subsection of The Telegraph newspaper on the Windrush Generation.

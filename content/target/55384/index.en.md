@@ -10,6 +10,4 @@
   "start_date": "2017-07-01T09:00:00Z"
 }
 
-# Real SFX
-
 Real SFX are based in Cardiff and is an Emmy Award and multi-BAFTA winning company providing high quality special effects for the TV, film and the events industry.

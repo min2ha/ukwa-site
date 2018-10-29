@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jaguar Land Rover boss: Brexit threatens £80bn UK investment
-
 Jaguar Land Rover warned that a "bad" Brexit deal would threaten £80bn worth of investment plans for the UK and might force it to close factories.

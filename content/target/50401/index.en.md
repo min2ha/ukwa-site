@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: European Council March 2017: Prime Minister's press statement
-
 Prime Minister Theresa May gave a statement on subjects covered at the European Council meeting: migration, the Western Balkans, and Brexit.
 

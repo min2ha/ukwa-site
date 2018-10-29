@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Minety RFC (@MinetyRFC) on Twitter
-
 The official Twitter account of Minety  Rugby Football Club. Minety RFC are village club with two senior sides. 

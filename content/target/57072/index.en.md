@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Businesses warn over 'UK workers first' proposal
-
 Firms that rely on EU workers warned of the "catastrophic" impact of proposals to slash unskilled migration on the day Britain leaves the EU.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Hope not Hate
-
 Hope not Hate mobilises against racism and has the support of trade unions, celebrities and community groups across the country. It is not aligned to any policical party.

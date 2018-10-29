@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cliftonville History (@redarmyhistory) on Twitter
-
 Twitter account dedicated to the history of Ireland's oldest football club, Cliftonville FC.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# UK Finance
-
 UK Finance represents nearly 300 of the leading firms providing finance, banking, markets and payments-related services in or from the UK. UK Finance has been created by combining most of the activities of the Asset Based Finance Association, the British Bankers’ Association, the Council of Mortgage Lenders, Financial Fraud Action UK, Payments UK and the UK Cards Association.
 

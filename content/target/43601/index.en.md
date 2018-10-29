@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Youth Parliament UK (@eypuk) on Twitter
-
 Educational charity. We interact with young people around UK/EU political issues, while building new skills, confidence and friendship.

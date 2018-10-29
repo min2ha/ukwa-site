@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sun, The: Minister attacked by Pankhurst relative after comparing Brexit campaign to Suffragettes
-
 The responses of female politicians and thinkers to Priti Patel's suffragette-Brexit comparison

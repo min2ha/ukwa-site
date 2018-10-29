@@ -10,5 +10,3 @@
   "start_date": "2017-08-15T09:00:00Z"
 }
 
-# Liverpool Welsh
-

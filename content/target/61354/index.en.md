@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The roadblock hard Brexiteers can’t drive around: Ireland
-

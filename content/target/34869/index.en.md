@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Chartered Insurance Institute (CII)
-
 The Chartered Insurance Institute (CII) was established to promote higher standards of integrity, technical competence and business capability. With members in more than 150 countries, the CII is a professional body dedicated to insurance and financial services.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Peace Pledge Union
-
 A secular pacifist organisation. Since1934 it has been campaigning for a warless world. From anti bombing campaigns during WW2 to protest at the remote controlled drone assassinations of recent times.

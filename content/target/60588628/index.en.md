@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lancaster Methodist Circuit
-
 None

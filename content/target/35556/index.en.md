@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sarah Beattie-Smith (@SBeattieSmith) on Twitter
-
 The Twitter profile of Sarah Beattie-Smith, Scottish Green Party candidate for South Scotland in the 2016 Scottish Parliament election.

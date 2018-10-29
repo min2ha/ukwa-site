@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Dominic Raab: We can get Brexit deal done by October
-
 A deal with the EU could be reached by October 2018 but the UK was preparing for the possibility of no deal, Brexit Secretary Dominic Raab told the BBC. He said he would strain "every sinew" to get "the best deal". But the government had plans in place in case talks did not end well.

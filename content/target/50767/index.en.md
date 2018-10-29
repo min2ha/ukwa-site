@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 13th March 2017: European Union (Notification of Withdrawal) Bill
-
 The House of Lords drops its amendments on the rights of EU nationals and on a meaningful Parliamentary vote at the end of the Brexit negotiations and passes the bill allowing the government to trigger Article 50 and begin the withdrawal process unchanged.

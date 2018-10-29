@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-#  Parliament Education (@UKParlEducation) on Twitter
-
 Education visits, teaching resources and CPD opportunities from UK Parliament for teachers and interested educators.

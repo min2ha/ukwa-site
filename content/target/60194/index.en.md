@@ -10,6 +10,4 @@
   "start_date": "2018-01-11T09:00:00Z"
 }
 
-# Glenn Ibbotson
-
 Glenn Ibboston is best known as a realistic figure painter and is based at Newcastle Emlyn. He is also a film maker and member of the Royal Watercolour Society of Wales.

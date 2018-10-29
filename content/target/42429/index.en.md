@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Protestant Truth Society
-
 The Protestant Truth Society (PTS) is a Protestant religious organisation based in London, United Kingdom. It was founded by John Kensit in 1889, to protest against the influence of Roman Catholicism within the Church of England and the nation. It currently offers materials making the case for leaving the EU.

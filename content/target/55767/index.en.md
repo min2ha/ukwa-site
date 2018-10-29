@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Privileges and immunities: position paper
-
 Whilst the United Kingdom (UK) is leaving the European Union (EU), our ambition is to form a deep and special partnership. It will be important to have in place a legally acceptable framework of Privileges and Immunities that allows for the smooth conduct of relations between the UK and the EU.

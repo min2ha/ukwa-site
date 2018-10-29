@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Amused Moose Comedy
-
 Website for Amused Moose Comedy Club, London

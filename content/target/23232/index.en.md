@@ -10,6 +10,4 @@
   "start_date": "2015-05-02T09:00:00Z"
 }
 
-# Gransnet
-
 Gransnet is the social networking site for grandparents. It was launched in May 2011. They also run Gransnet Local, a network of sites featuring the very best in a local community as well as opportunities for gransnetters to meet up with like-minded neighbours.  

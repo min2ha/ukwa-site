@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Action 2014.org 
-
 None

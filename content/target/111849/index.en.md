@@ -11,7 +11,5 @@
   "subject": "Political Action and Communication"
 }
 
-# NO2ID - Stop ID Cards and the database state
-
 NO2ID is a non-aligned diverse group of people and organisations who
 stand against the Government’s attempts to introduce intrusive, expensive and bureaucratic control of personal identity.

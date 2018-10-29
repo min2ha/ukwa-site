@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Mary Creagh: Labour wants an NHS in every country
-
 None

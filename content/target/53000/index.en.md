@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Social Economy Alliance: Our Manifesto for an Inclusive Economy
-
 This manifesto sets forward an ambitious, positive vision on how the new Government can harness the energy of businesses, community groups, charities and co-operatives to tackle the inequalities, divisions and lack of trust in the country.

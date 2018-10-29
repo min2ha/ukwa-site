@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Radio Times: BBC defend CBBC’s Just a Girl following claim that transgender series is “inappropriate” for young audience
-
 A news article on a children's TV show about a young transgender girl

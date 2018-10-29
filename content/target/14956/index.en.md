@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cardiff Arcades Project
-
 None

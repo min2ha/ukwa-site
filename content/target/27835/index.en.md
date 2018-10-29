@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# KCC Media Hub
-
 KCC Media Hub is run by the Kent County Council.

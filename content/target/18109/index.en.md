@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ukip candidate uses an Abba tune to attack David Cameron in a cringeworthy performance 
-
 None

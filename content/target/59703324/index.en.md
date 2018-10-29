@@ -10,6 +10,4 @@
   "start_date": "2011-02-14T00:00:00Z"
 }
 
-# NET Patient Foundation
-
 for those affected by neuroendocrine tumours

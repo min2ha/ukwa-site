@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pete Wishart MP, Scottish National Party Member of Parliament, Perth
-
 This is the website of Pete Wishart, the Scottish National Party (SNP) candidate for Perth and North Perthshire in the UK General Election on the 7th May 2015.

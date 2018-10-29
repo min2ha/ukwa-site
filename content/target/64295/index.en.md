@@ -10,6 +10,4 @@
   "start_date": "2018-04-15T09:00:00Z"
 }
 
-# Lodge Neptune Kilwinning Saltcoats No. 442
-
 Site of a masonic lodge located in Saltcoats, Ayrshire and affiliated with the Grand Lodge of Scotland.

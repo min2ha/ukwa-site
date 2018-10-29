@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival of Voice
-
 Website for the Festival of Voice arts festival

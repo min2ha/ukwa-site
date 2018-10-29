@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Haringey Rhinos RFC on Pitchero
-
 The official website of Haringey Rhinos Rugby Club, located in the heart of north London. 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Scottish Event Campus
-
 Website of Scottish Event Campus, a group of venues based in Glasgow, Scotland. The Campus is comprised of SEC Centre, SEC Armadillo and The SSE Hydro. The venues offer exhibition and conference spaces and host a range of concerts and live entertainment events.

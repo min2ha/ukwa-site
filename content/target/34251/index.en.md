@@ -10,6 +10,4 @@
   "start_date": "2016-01-21T09:00:00Z"
 }
 
-# Ionad Chaluim Chille Ìle
-
 Website in Gaelic and English promoting Gaelic language and culture on the island of Islay, Inner Hebrides, Scotland.

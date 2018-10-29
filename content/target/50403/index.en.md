@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Foreign Affairs Committee: Article 50 negotiations: implications of ‘no deal’
-
 Even with all sides entering negotiations with goodwill and the desire for a successful outcome, the Foreign Affairs Committee points out in its report that negotiations could stall or be derailed and the two years could end with no deal between the UK and the 27 Member States.
 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Llanfair Uniting Church, Penrhys
-

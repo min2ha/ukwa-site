@@ -10,6 +10,4 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# Birmingham Promoters
-
 An independent live music, events & gigs promotions company based in Birmingham, UK.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Helen Spiby-Vann (Christian Peoples Alliance  Politician)
-
 Helen Spiby-Vann was the Christian Peoples Alliance candidate in the constituency of Hornsey and Wood Green in the 2017 General Election but was not elected.

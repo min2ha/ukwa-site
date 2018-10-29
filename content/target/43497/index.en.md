@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Citizens of Oxford on Facebook
-
 An Oxford-based pro-Remain Facebook page.

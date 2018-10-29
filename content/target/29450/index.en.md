@@ -10,5 +10,3 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Ambiwlans Awyr Cymru | Wales Air Ambulance
-

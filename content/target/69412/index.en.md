@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T17:01:00Z"
 }
 
-# Quotient Sciences
-
 Quotient Sciences undertakes clinical pharmacology and commercial manufacturing for other pharmaceutical and biotech businesses.

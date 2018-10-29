@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Record: UKIP investigate claims Coatbridge candidate was responsible for offensive social media posts
-

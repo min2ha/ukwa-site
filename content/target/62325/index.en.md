@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Phil Neville (@PhilNevile) on Twitter
-
 This is a parody account of Phil Neville, the head coach of the women's English football team. The account was set up in January 2018.

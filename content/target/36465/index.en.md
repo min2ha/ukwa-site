@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Top civil servant accused of dragging Royal Family into EU referendum debate
-
 Article by Macer Hall

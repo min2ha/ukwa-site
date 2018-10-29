@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig Thunga / Tong Gaelic Choir on Facebook
-
 Site of a Gaelic language choir based in Tong, Lewis.

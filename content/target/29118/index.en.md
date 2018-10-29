@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Liverpool Easter 1916 Commemoration Committee 
-
 Focuses on role played by the Irish diaspora in Liverpool

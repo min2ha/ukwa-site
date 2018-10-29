@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'Kidnap Obama': Ukip candidate Jeremy Zeid replaced after outburst
-
 None

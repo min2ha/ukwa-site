@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News :  Election 2015: Who's Who in David Cameron's new cabinet
-
 None

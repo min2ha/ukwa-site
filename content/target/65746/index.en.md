@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Llanberis Mountain Film Festival
-
 Llanberis Mountain Film Festival is held in the village of Llanberis in Snowdonia.

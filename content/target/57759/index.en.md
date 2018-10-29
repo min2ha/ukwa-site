@@ -10,6 +10,4 @@
   "start_date": "2017-10-11T09:00:00Z"
 }
 
-# Peter Finnemore
-
 Peter Finnemore is an artist from Llanelli and working with photographic art, multi media installation, and video.

@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-# Institute of Demolition Engineers (IDE)
-
 The Institute of Demolition Engineers (IDE) exists to promote and foster the science of demolition engineering.

@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Association of Chief Police Officers in Scotland (ACPOS)
-
 None

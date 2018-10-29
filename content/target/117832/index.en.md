@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# British Association for Sexual Health and HIV, The
-
 <p>The British Association for Sexual Health and HIV is a professional organisation dealing with all aspects of Sexual Health Care.</p>

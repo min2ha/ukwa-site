@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Cllr Isobel Davidson (@isobeldavidson) on Twitter
-
 Twitter profile of Isobel Davidson, Scottish Liberal Democrat candidate for Aberdeen North in the 2017 general election.

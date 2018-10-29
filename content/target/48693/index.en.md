@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Redeemed Christian Church of God
-
 The Redeemed Christian Church of God (RCCG) was founded in 1952 in Nigeria. The RCCG is currently active across continents with thousands of parishes, of which a little over 700 are in the United Kingdom.

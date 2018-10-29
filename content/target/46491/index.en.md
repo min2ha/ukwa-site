@@ -10,5 +10,3 @@
   "start_date": "2016-10-26T11:00:00Z"
 }
 
-# Churches Together in Neath | Eglwysi'n Gytun yng Nghastell Nedd
-

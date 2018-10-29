@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Baker Street Cinema Abergavenny 
-
 Baker Street Cinema is a small cinema located in Abergavenny.

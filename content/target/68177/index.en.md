@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Kingdom Brewery, The
-
 Site of a brewer located in Fife.

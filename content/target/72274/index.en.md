@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Cynefin Project (@CynefinProject) on Twitter
-
 This is the twitter feed for Prosiect Cynefin at the National Library of Wales, a project digitising the tithe maps of Wales.

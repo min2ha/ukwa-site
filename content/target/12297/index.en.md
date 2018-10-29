@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Guardian, The: First world war 100 years on
-
 None

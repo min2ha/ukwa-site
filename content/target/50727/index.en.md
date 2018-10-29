@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Louise Hall Ceramics
-
 Louise Hall works in ceramics and is based at Fireworks Clay Studios, Cardiff.

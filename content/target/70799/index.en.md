@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tottonians Rugby Football Club
-
 The official site of Tottonians Rugby Football Club.

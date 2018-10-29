@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: What is a 'Canada-style' trade deal?
-
 Outlines to provisions of the Comprehensive Economic and Trade Agreement (CETA) between the EU and Canada, and discusses whether a similar deal could work for Britain
 
 

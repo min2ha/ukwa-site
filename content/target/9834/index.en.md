@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Cycling Organisation - Tour de France
-
 Tour de France; British Cycling

@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# White Rock Trails
-
 The White Rock site, designated an Industrial Heritage Park, was further cleared in the 1990s but has since been allowed to deteriorate. The White Rock project is working with Swansea Council and CADW to restore the site to its 1990s state. The White Rock Copper Works were established in the Lower Swansea Valley in 1736.

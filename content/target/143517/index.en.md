@@ -10,5 +10,3 @@
   "start_date": "2007-03-28T01:00:00Z"
 }
 
-# Takeheart Health Check
-

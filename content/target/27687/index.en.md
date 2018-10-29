@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: UKIP created a real Balls-up for Labour thanks to working class disillusionment across the North
-
 None

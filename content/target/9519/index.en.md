@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Huffington Post: Lib Dems Target Eastern European Migrants To Try To Avoid Euro Election Wipeout
-
 None

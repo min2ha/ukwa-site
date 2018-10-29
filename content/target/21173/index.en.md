@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Paul Maskey on Facebook (Sinn Fein candidate for Belfast West)
-

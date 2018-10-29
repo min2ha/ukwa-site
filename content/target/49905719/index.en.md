@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Waving and Drowning
-
 None

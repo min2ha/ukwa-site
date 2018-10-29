@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Riverside Festival
-
 Website for the Riverside music festival.

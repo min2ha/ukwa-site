@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Bethan Jenkins on Facebook (Plaid Cymru candidate for Aberavon and South Wales West)
-
 Bethan Jenkins is the Plaid Cymru candidate for Aberavon and South Wales West at the 2016 National Assembly for Wales election.

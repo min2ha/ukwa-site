@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wells Guide
-
 A guide to visiting Wells-Next-The-Sea​ on the north Norfolk  coast.

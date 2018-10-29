@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: How not to win votes: Labour party doorstep goes wrong
-
 None

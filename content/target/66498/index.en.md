@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Advisory, Conciliation and Arbitration Service (ACAS) (@acasorguk) on Twitter
-
 Workplace experts providing free impartial info & advice to employers & employees. 

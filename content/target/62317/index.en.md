@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Maidstone United F.C.
-
 Maidstone United Football Club is a professional English football club based in Maidstone, Kent. They currently compete in the National League, the fifth tier of English football. The current club filled the void left by the old Maidstone United, which was a member of The Football League between 1989 and 1992. 

@@ -10,5 +10,3 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# University of South Wales Students' Union (USWSU)
-

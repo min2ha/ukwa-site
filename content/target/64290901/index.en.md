@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Tony Baldry MP: Diamond Jubilee Articles
-

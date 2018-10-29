@@ -10,6 +10,4 @@
   "start_date": "2017-08-02T09:00:00Z"
 }
 
-# Witchcraft and Human Rights Information Network (WHRIN)
-
 The Witchcraft and Human Rights Information Network (WHRIN) promotes awareness and understanding of human rights violations that are committed around the world due to the belief in witchcraft.

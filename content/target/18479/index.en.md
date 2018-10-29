@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lord Mandelson: Ed Miliband will not win a majority
-
 None

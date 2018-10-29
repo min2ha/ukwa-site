@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Oriel Q, Narberth
-
 Oriel Q is a gallery showcasing established & emerging national & international artists and is located in Narberth.

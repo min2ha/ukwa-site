@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Littlehampton RFC
-
 The official website of Littlehampton Rugby Club.

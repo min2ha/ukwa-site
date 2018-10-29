@@ -10,7 +10,5 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-#  Almshouse Association, The
-
 The Almshouse Association is a support charity representing 1,700 independent almshouse
 charities throughout the United Kingdom providing homes for over 35,000 people.

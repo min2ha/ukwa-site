@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Nuclear materials and safeguards issues - position paper
-
 In notifying the intent to leave the European Union, the United Kingdom (UK) also notified of the intent to leave the Euratom Community. While the UK is leaving Euratom we want to continue working closely with the Euratom Community to help ensure a smooth and orderly exit and to pave the way for a future relationship that benefits the UK and the remaining 27 Member States.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gateshead Health and Wellbeing Board
-
 None

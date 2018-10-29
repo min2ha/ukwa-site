@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Paul Wheelhouse MSP
-
 Paul Wheelhouse is the Scottish National Party candidate for the Ettrick, Roxburgh and Berwickshire constituency in the 2016 Scottish Parliament election.

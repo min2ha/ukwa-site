@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Cavendish
-
 Website for Mark Cavendish, a British cyclist and one of the favourites in the Tour de France.

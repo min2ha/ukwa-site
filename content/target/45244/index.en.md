@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Loch Lomond and Trossachs National Park
-
 Site of a directory of businesses and places to visit in Loch Lomond and Trossachs National Park.

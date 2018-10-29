@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Definition Audio Visual
-
 A website of an audio visual installation company in Leeds.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glentoran Womens FC & Academy (@GlentoranWomen) on Twitter
-
 The official Twitter for Glentoran Women's Football Club.

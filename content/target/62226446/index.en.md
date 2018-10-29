@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Great Britain Wheelchair Rugby
-

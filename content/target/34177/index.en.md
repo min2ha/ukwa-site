@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Federation of Course Anglers
-

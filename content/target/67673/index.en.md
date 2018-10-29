@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Pontypool Market Traders | Pont-y-Pŵl Marchnad
-
 Pontypool Indoor Market is located in Pontypool and is a Grade II listed building dating from circa 1893. It has recently been refurbished.

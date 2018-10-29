@@ -10,5 +10,3 @@
   "start_date": "2011-11-10T00:00:00Z"
 }
 
-# Welsh Blankets & Welsh Quilts
-

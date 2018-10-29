@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Lodge Airdrie St. John No. 166
-
 Site of a masonic lodge located in Airdrie, Lanarkshire and affiliated with the Grand Lodge of Scotland.

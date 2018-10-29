@@ -10,5 +10,3 @@
   "start_date": "2017-04-26T09:00:00Z"
 }
 
-# Penyrheol Comprehensive School, Swansea | Ysgol Gyfun Penyrheol, Abertawe
-

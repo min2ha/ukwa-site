@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# South Holland District Council
-
 Website of South Holland District Council provides news, information about its services, committee papers and minutes in full text, planning documents and financial statements

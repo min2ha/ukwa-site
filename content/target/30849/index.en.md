@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Tros Gynnal Plant
-
 Tros Gynnal Plant is a leading children’s charity working with Wales’s most vulnerable and marginalised children and young people. 

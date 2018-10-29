@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Machan's Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Lennoxtown, East Dunbartonshire.

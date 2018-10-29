@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Abortion Rights Scotland (@Abortion_RCScot) on Twitter
-
 Abortion Rights Scotland is part of Abortion Rights, the UK's pro-choice campaign. 

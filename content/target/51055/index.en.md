@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Born to Be Wide
-
 Site of a community interest company, based in central Scotland, which stages music business seminars, the Wide Days convention/showcase and the Off The Record youth events, while organising bespoke talks and workshops for other conferences, festivals and organisations.

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Radio Times People: Stephen Hawkings
-
 Articles relating to Stephen Hawkings

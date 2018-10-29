@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# North/South Inter-Parliamentary Association: Agri-food and Brexit
-
 Briefing paper on the agriculture and food sectors and Brexit, prepared by the NIA Research and Information Service and the Oireachtas Library and Research Service for the eighth meeting of the North/South Inter-Parliamentary Association.

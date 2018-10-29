@@ -10,5 +10,3 @@
   "start_date": "2016-10-27T12:00:00Z"
 }
 
-# Rectorial Benefice of Cowbridge
-

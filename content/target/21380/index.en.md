@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alex Stewart-Clark
-
 Alex Stewart-Clark is the Scottish Conservative and Unionist Party candidate for Mid Fife and Glenrothes constituency in the 2016 Scottish Parliament election.

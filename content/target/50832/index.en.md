@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Woodcraft Folk
-
 Woodcraft Folk is a movement for children and young people, open to everyone from birth to adult. We offer a place where children will grow in confidence, learn about the world and start to understand how to value our planet and each other.

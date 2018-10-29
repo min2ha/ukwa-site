@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Gay Police Association (GPA) Scotland
-

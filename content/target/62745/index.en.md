@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester Metropolitan University: International Football History Conference, 15-16 June 2017 
-
 The first annual International Football History Conference organised by Dr. Gary James.

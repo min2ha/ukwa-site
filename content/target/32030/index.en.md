@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Stephens & George Centenary Charitable Trust
-
 The Stephens & George Centenary Charitable Trust has been running since February 21st 2012 in response to the incredibly low literacy levels in the local community.

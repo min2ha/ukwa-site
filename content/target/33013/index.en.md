@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Amgueddfa Gwefr Heb Wifrau | Wireless in Wales Museum
-
 Wireless in Wales Museum is located in Denbigh. Its emphasis is on the history of Broadcasting in Wales.

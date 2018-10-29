@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# 1000 Londoners
-
 Each week, a profile of a Londoner is posted on the home page. The profile contains a 3 minute film that gives an insight into the life of the Londoner, as well as their own personal photos of London and some answers to crucial questions about their views on London life.

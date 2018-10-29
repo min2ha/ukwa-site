@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Sports Media LGBT+ (@SportsMediaLGBT) on Twitter
-
 Media industry network advocating for all #LGBT+ people and allies connected with sport.

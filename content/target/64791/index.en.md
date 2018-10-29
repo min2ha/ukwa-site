@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror: Commonwealth
-
 The subsection of the Mirror newspaper website related to the Commonwealth.

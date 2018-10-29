@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Archives for London
-
 Archives for London (AfL) brings together everyone interested in archives in or about London – users, practitioners and enthusiasts. They help members get more out of London’s archives through an exclusive programme of seminars, behind the scenes visits, conference and to stay in touch through the website and members’ newsletter. AfL represents members' views by actively participating in the local, regional and national organisations and authorities that oversee the archives and services.

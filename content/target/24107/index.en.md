@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Conservative manifesto 2015: summary of key policies
-
 None

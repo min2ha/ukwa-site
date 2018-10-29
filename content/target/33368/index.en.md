@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Co. Kildare Online Electronic History Journal
-
 This is the website of the Co. Kildare Online Electronic History Journal. It publishes material relating to the history of Co. Kildare. These webpages contain information on the experience of some Co. Kildare inhabitants during the Easter Rising, 1916.

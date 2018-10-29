@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# Wickham History Society
-
 Wickham History Society is a voluntary civic organisation founded in January 1960.

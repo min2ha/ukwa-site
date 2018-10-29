@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# First News Schools (@FirstNews_Teach) on Twitter
-
 First News provides young people, their parents and teachers with up to date, factual information about breaking news stories and current affairs.

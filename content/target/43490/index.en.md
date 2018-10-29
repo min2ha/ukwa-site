@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Internationalists for Brexit on Facebook
-

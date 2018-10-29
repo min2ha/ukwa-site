@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fabian Society
-
 The Fabian Society is a British socialist organisation whose purpose is to advance the principles of democratic socialism via gradualist and reformist effort in democracies, rather than by revolutionary overthrow.

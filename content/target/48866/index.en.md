@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Laura McAllister - Medium
-
 This is a blog by Laura McAllister focusing on Welsh affairs. She is Professor Wales Governance Centre, Cardiff University; Devolution specialist; ex-Wales international footballer and former Chair Sport Wales.

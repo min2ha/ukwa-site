@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Arkless BA (Hons) LLB Dip LP
-
 Webpage of Richard Arkless, Scottish National Party (SNP) candidate for Dumfries and Galloway in the May 2015 UK General Elections.

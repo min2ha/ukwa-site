@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Clare Haughey for Rutherglen on Facebook
-

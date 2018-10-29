@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Follow Follow : The Online Rangers Fanzine
-
 Site of a association football fanzine for supporters of Glasgow Rangers football club.

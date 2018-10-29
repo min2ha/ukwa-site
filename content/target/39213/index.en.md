@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Energy Agency
-
 Site of the Home Energy Scotland providing impartial advice on energy saving, renewable energy, sustainable transport and waste prevention. This advice is available to householders, businesses, private sector landlords, local authorities, housing associations and communities throughout Ayrshire and Dumfries & Galloway.

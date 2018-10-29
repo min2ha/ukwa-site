@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# She Bop A Lula
-
 None

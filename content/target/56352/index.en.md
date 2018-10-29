@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Professional Mediators' Association
-
 The PMA is an independent, not for profit trade association founded in 2007. 

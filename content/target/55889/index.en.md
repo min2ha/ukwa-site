@@ -10,5 +10,3 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Urdd Gwehyddion Nyddwyr a Lliwyddion Gwynedd | Gwynedd Guild of Weavers Spinners and Dyers
-

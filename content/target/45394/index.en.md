@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T10:00:00Z"
 }
 
-# Cruise Excursions Wales
-
 This website is supported by the ERDF (European Regional Development Fund) and Gwynedd Council. Cruise Excursions Wales is a consortium of Welsh businesses able to serve cruise passengers at the ports of Holyhead, Cardiff, Swansea, Milford Haven, Pembroke, or Fishguard.

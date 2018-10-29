@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Rose Theatre Kingston
-
 Founded by Sir Peter Hall, and modelled on the original Elizabethan Rose Theatre on London’s Bankside, Rose Theatre Kingston opened in 2008 and is in South West London.

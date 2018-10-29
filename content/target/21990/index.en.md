@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shabana Mahmood (@ShabanaMahmood) on Twitter (Labour Politician)
-
 Shabana Mahmood stood as Labour Party candidate for Birmingham Ladywood in the 2017 General Election and was elected. She was first elected to serve as MP for Birmingham Ladywood in 2010 and re-elected in 2015.

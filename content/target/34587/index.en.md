@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Tech North
-
 Tech North is a government-funded initiative delivered through Tech City UK. The specific goal of Tech North is to accelerate the development of the North’s digital economy through the promotion and support of digital entrepreneurship.

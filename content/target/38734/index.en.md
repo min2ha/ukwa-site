@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Carol Mochan
-
 Carol Mochan is the Scottish Labour candidate for Carrick, Cumnock and Doon Valley in the 2016 Scottish Parliamentary election.

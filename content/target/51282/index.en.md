@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Blond McIndoe Research Foundation
-
 The Blond McIndoe Research Foundation (BMRF) is a research charity that works to improve wound healing, repair and regeneration to assist medical professionals treat burns survivors, and patients with soft tissue injuries.

@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Alexandra Park (@FriendsAllyPark) on Twitter
-
 The Friends of Alexandra Park promoting and protecting Alexandra Park in North London. 

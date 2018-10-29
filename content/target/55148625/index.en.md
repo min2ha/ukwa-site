@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Benjamin C Dearnley
-
 None

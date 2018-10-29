@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Engineering and Technology History Wiki (ETHW): A Brief History of Early British Computers
-
 Article by Simon Lavington, Emeritus Professor of Computer Science, University of Essex,

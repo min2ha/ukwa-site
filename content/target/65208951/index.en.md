@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Sussex Police Authority
-
 None

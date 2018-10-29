@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Royal Holloway International Study Centre
-
 Royal Holloway International Study Centre website contains information for international students applying or studying at the Royal Holloway University.

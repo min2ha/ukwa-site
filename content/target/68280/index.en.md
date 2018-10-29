@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Streatham-Croydon (@SCRFC_Rugby) on Twitter 
-
 The official Twitter account of Streatham-Croydon Rugby Club.

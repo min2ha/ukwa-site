@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# RBS Heritage Hub
-
 RBS Heritage Hub is the central point for information and resources relating to the history of The Royal Bank of Scotland Group. 

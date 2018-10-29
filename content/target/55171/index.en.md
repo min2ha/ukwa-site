@@ -10,8 +10,6 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Flag Institute
-
 The Flag Institute is the world’s leading research and documentation centre for flags and flag information. The Institute is also the largest vexillological membership organisation in the world. The Institute was founded on St. George’s Day, 23 April, 1971.
 
 The Flag Institute also maintains and manages the national United Kingdom Flag Registry. This is to ensure there is a definitive record of those United Kingdom flags which exist, both nationally and regionally.

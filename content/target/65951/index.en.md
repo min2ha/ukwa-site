@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Friends of the Sound of Jura
-
 Site of an organisation that aims to protect the Sound, the River Add and their local users from threats to the area’s wildlife and local sustainable economy.

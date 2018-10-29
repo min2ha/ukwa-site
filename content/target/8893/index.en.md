@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Oxfam's response to the death of Nelson Mandela
-
 None

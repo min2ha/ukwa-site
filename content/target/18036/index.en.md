@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bridgend Conservatives
-
 Website of Bridgend Conservatives, providing information on board members, elected representatives, policies and Welsh party news.

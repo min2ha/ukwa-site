@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bristol and South Gloucestershire Conservatives
-
 Welcome to the website of Bristol and South Gloucestershire Conservatives, encompassing Bristol West (including Clifton), Bristol North West, Bristol East, Bristol South, Filton & Bradley Stoke and Kingswood. Providing information on local news and reaction, events and candidate for Bristol Mayor 2016.

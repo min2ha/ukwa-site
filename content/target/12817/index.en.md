@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cora Bissett: GRIT: The Martyn Bennett Story
-
 <p>Play about the late Martyn Bennett the influential Scots-Canadian musician which was performed at Tramway, Glasgow and Mull in June 2014. Conceived for the stage and directed by Cora Bissett and written by Kieran Hurley it was part of the Glasgow 2014 Cultural Programme.</p>

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Carol Craig (craig_carol) | Twitter
-

@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Little Shelford Online
-
 The independent community website for the picturesque village of Little Shelford in Cambridgeshire including local news and events. 

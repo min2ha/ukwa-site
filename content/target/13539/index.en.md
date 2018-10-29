@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# EIS Referendum Manifesto
-
 <p>The Educational Institute of Scotland (EIS) Education Manifesto for the Referendum on Scottish Independence.</p>

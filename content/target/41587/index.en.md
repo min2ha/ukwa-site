@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Haworth - in Bronte Country
-
 Haworth is a hilltop village not far from Bradford in the heart of West Yorkshire's Bronte Country.

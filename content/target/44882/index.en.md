@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# Welsh Italians 
-
 The site explores the historu of Italians in Wales and is written by Dr Bruna Chezzi who has a PhD on cultural Represenations of Italians in Wales.

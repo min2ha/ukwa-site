@@ -10,6 +10,4 @@
   "start_date": "2017-10-03T09:00:00Z"
 }
 
-# Better than HS2 (AGHAST Federation)
-
 AGAHST (Action Groups Against High Speed Two) is a Federation of 72 local action groups and 2 national organisations that exist to oppose HS2 and promote better alternatives.

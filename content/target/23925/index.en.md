@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nate Silver's General Election prediction: Labour faces wipeout at hands of SNP and Ukip will have just one MP
-
 None

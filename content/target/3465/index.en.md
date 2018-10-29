@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Colchester Daily Gazette
-
 None

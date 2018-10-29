@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# anjackson.net
-
 Andy Jackson's personal website.

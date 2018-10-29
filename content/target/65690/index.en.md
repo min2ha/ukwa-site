@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Spoons That Are My Ears!, The - blog of fantastika writer Rhys Hughes
-
 Rhys Hughes is a fantasy/horror writer and essayist from Cardiff.

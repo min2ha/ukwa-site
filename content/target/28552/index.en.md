@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Independent, The - Climate Change
-
 Specialist climate change news page on the website of The Independent.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Edward Mountain (@1edmountain) on Twitter
-
 The Twitter profile of Edward Mountain, Scottish Conservative and Unionist candidate for Inverness and Nairn in the 2016 Scottish Parliament election.

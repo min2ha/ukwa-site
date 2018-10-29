@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Kit Orton
-
 Christopher J. Orton is a composer/writer/musician who is also an actor/singer with the stage name Kit Orton. He is from Newport and mainly appears on theatre.

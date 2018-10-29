@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Docherty (@MartinJDocherty) on Twitter
-
 Twitter profile of Martin Docherty, Scottish National Party candidate for West Dunbartonshire in the 2017 general election.

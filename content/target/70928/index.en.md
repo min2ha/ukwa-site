@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oxford Chamber Music Festival
-
 Website for the Oxford Chamber Music Festival.

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Diferion o'r Pwll Coch: ambell dropyn am y Gymraeg yng Nghaerdydd a thu hwnt
-
 Blog discussing Welsh language and culture in Cardiff by Dylan Foster Evans, a lecturer at Cardiff University. The blog has a particular focus on the history of the Welsh language in Cardiff.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: We shouldn’t even be contemplating leaving the single market
-

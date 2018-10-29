@@ -10,5 +10,3 @@
   "start_date": "2006-04-27T00:00:00Z"
 }
 
-# Royal London Hospital League of Nurses
-

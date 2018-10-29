@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Queensferry Parish Church
-
 The website of Queensferry Parish Church.

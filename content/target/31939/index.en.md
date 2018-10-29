@@ -11,5 +11,3 @@
   "subject": "Housing and Social Housing"
 }
 
-# Tai Gogledd Cymru | North Wales Housing
-

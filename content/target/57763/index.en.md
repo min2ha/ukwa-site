@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Liam Fox, transition and 'Project After'
-
 Discusses the work of the Department for International Trade in planning to minimise trade disruption when Britain leaves the EU. This includes planning for an acrimonious end to the talks and for Britain leaving without a deal.

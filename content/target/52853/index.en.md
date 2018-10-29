@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Independent Schools Council: Manifesto 2017
-
 Argues that independent schools should be encouraged to work as part of the national education system. All political parties need to recognise the contribution independent schools make to the UK economy and society and to refrain from proposing measures that would inhibit them.

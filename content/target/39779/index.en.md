@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dunbar SNP (@DunbarSNP) on Twitter
-
 Twitter profile of the Dunbar branch of the Scottish National Party (SNP).

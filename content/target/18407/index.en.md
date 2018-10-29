@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Greens join left-wing plot to force Labour to abandon Trident 
-
 None

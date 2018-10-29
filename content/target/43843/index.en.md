@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: FTSE 100 and sterling plummet on Brexit vote 
-
 Guardian, The

@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# Anarchol | a Welsh anarcho blog
-
 The anarchist blog was written between 2007 and 2011.

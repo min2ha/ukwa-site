@@ -10,6 +10,4 @@
   "start_date": "2015-04-15T09:00:00Z"
 }
 
-# Brunel University London
-
 Official website of the Brunel University London.

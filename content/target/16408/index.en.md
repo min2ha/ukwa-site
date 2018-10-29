@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Wherever the Need  - Putting Sanitation First: Ebola Appeal
-
 <p>An Ebola appeal on a charity website.</p>

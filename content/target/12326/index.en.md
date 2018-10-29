@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# DigiAye
-
 <p>A hub for creative people who want independence.</p>

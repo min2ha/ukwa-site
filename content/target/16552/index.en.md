@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A seven-leader debate only benefits David 'the chicken' Cameron
-
 None

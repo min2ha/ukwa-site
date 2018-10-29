@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T00:00:00Z"
 }
 
-# The real problem with Brexit: nobody knows anything
-
 Guardian, The

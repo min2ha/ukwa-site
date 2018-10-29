@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# International Cancer Genome Consortium (ICGC)
-
 ICGC Goal: To obtain a comprehensive description of genomic, transcriptomic and epigenomic changes in 50 different tumor types and/or subtypes which are of clinical and societal importance across the globe.

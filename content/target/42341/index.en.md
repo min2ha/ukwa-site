@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Grannie's Last Mix: Letters from Desolation Row UK
-
 Blog on UK current affairs and welfare issues written a 63 year old working class woman born in Oldham, Lancashire and now living in a council house in Bolton, Greater Manchester, now semi-retired due to disability.

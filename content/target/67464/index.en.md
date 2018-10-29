@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'You can't trust politicians… they don't look out for normal people': Tory who quit rather than back Brexit gave Mrs May just 15 mins' notice before announcing resignation on Twitter
-
 Former justice minister Phillip Lee faced the threat of de-selection after his decision to resign over Brexit sparked fury in his constituency.
 

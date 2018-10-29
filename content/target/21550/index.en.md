@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nick Clegg: We can wipe smile off Alex Salmond's face
-
 None

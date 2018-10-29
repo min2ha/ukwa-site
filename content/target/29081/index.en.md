@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Labour Eccleshill
-
 Website of Labour Eccleshill, providing information on how to get involved and latest and archive of local, national and party news.

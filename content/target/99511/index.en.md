@@ -10,5 +10,3 @@
   "start_date": "2005-01-04T00:00:00Z"
 }
 
-# Cymdeithas Wyddonol Cylch Caerdydd
-

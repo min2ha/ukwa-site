@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Milo 
-
 The personal website of Milo Yiannopoulos, a British journalist, author, entrepreneur, public speaker, and senior editor of the right wing news outlet Breitbart News.

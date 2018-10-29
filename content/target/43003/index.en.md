@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Swansea People First
-
 Swansea People First is an organisation and support service for people with learning disabilities in Swansea. 

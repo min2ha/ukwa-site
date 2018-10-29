@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blackpool FC Ladies (@BFC1887Ladies) on Twitter
-
 The Official Blackpool FC Girls & Ladies Twitter Account.

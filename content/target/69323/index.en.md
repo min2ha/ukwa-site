@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# TAN Dance 
-
 TAN Dance is a dance company based in Port Talbot.

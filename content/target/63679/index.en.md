@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ballantrae Parish Church
-
 The website of Ballantrae Parish Church.

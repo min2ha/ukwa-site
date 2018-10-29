@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SportsAid
-
 <p>The website of SportsAid, an organisation which helps the next generation of British sports stars by giving them financial support and recognition during the critical early years of their careers.</p>

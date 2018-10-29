@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# East Wales and Borders Vintage Enthusiasts
-
 The Club was formed in 1993 and the aim aim is to bring together like-minded enthusiasts with a passion for restoring, exhibiting and working old tractors and machinery of yesteryear.

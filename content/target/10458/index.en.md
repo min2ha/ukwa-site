@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Violet Vajda, Green Party, on Facebook
-
 None

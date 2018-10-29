@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-#  TechSPARK
-
 echSPARK is the info hub for all things tech and digital in Bristol, Bath and the West of England region

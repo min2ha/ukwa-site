@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Treasury: Chancellor's HSBC speech: financial services
-
 The Chancellor of the Exchequer, Philip Hammond's speech onthe government's aspirations for  financial services after Brexit  at HSBC on March 7th 2018.
 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Melanie Hurst (@MelanieHurst9) on Twitter (UKIP Politician)
-
 Melanie Hurst stood as UK Independence Party (UKIP) candidate for Wansbeck in the 2017 General Election but was not elected.

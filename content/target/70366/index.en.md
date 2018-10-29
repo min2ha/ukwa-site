@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirkwall lds branch on Facebook
-
 Facebook page of a branch of the Church of Jesus Christ of Latter-Day Saints, located in Kirkwall, Orkney.

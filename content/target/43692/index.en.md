@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The EU referendum makes the campaign we had in 1975 look as mild as a vicar's tea party
-

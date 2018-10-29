@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# International Business News UK: Four Surviving Magna Carta Copies To Be Reunited
-

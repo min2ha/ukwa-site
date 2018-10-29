@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Living Wales: The Lifestyle Magazine for South Wales
-
 Living Wales is a Lifestyle Magazine covering the South East Wales and is published by Cwtch Media.

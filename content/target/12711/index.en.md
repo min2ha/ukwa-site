@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Official Website Of Great Britain Wrestler Yana Stadnik, The
-
 <p>The website of wrestler Yana Rattigan, member of Team England competing in the Glasgow 2014 Commonwealth Games.</p>

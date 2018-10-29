@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Cursillo England and Wales
-
 We are a community of lay and religious people who strive by our mission and our daily lives to live a life following the teachings of Jesus Christ

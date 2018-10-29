@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Co-Ownership Housing
-
 Co-Ownership Housing is a not-for-profit organisation that promotes affordable home ownership, and helps people get on the property ladder.

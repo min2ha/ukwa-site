@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM Belfast speech: 20 July 2018
-
 Theresa May attempted to sell her compromise vision of the future UK-EU relationship  in this speech in Belfast on July 18th. She emphasised her commitment to avoiding a hard border between the UK and the Irish Republic, and rejected the EU's preferred solution of a customs border within the UK separating Northern Ireland from the mainland 

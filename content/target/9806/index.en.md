@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: One in five could vote Ukip in European elections, ICM poll shows
-
 None

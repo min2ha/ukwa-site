@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Now Miliband's promise an energy price cut worth £100 after warning that his policy to freeze costs would keep bills high
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Blackburn with Darwen Health and Wellbeing Board
-

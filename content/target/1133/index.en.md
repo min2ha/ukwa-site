@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Arden Cancer Network
-
 None

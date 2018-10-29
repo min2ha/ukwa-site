@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Scottish Lime Centre Trust
-
 Site of a trust which promotes the knowledge and traditional skills required for the conservation, repair and maintenance of the historic built environment, working throughout Scotland and internationally to provide advice, guidance and traditional skills training for anyone dealing with a historic structure.

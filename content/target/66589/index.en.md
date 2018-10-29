@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit is like Shrek: messy, complicated and bad-tempered
-
 Peel back the layers of Brexit in any sector and more and more layers of complexity emerge – just how Shrek describes ogres
 

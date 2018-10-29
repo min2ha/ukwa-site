@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Spirit of Chandless
-
 The site is an online resource created as part of a Heritage Lottery funded project that placed two artists in touch with residents of an area of Gateshead that has been demolished in 2015.

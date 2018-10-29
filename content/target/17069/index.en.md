@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Trading Standards Institute: TSI Manifesto 2015
-
 The Chartered Trading Standards Institute (CTSI) is a not-for-profit membership organisation founded in 1881 to support and represent trading standards professionals in the UK and abroad.

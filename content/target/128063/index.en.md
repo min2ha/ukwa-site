@@ -10,5 +10,3 @@
   "start_date": "2006-07-07T00:00:00Z"
 }
 
-# London Borough of Newham Local History Bulletin Board
-

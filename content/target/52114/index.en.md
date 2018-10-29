@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Church, Caversham
-
 St. Andrew's Church is the Church of England parish church for Caversham Heights, in the UK.

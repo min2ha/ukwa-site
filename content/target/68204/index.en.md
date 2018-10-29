@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Staffs Uni Union (@StaffsUnion) on Twitter
-
 The official Twitter account of Staffordshire University Rugby Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# Deafblind Scotland
-
 Site of a Scottish charity aiming to help deafblind people in Scotland live as rightful members of their own communities and to encourage and support contact between deafblind people and sighted hearing people ; to liaise with health and social service providers to make appropriate assistance available to deafblind people in Scotland ; to work in partnership with statutory and other agencies to improve the quality of life of deafblind people ; to raise awareness of both the needs and potential of deafblind people ; to encourage the provision of facilities, services and support for deafblind people.

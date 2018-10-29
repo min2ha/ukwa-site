@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Emergency! London 1914
-
 Welcome to 'Emergency! London 1914'. Over the coming months we will post extracts and stories from documents at London Metropolitan Archives which show how life changed for Londoner's at the beginning of the First World War.

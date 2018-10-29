@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Norwich Liberal Democrats
-
 Website of Liberal Democrats in Norwich, providing information on councillors, updates on local and national issues, and how to get involved.

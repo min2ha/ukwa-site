@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Association of Wales
-
 The Football Association of Wales was established in 1876 and it governs and administers football in Wales. 

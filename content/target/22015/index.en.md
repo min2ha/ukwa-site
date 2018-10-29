@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roger Godsiff (@RogerGodsiff) on Twitter (Labour Politician)
-
 Roger Godsiff stood as Labour candidate for Birmingham Hall Green at the 2017 General Election and was not elected. He was first elected in 1992 and has held seats for: Birmingham, Small Heath, Sparkbrook and Small Heath , and from 2010 Birmingham, Hall Green. 

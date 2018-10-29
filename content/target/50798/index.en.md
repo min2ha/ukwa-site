@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Llanrwst and District Historical Society
-

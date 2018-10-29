@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM's phone calls with PM Sipilä of Finland and PM Solberg of Norway: 31 August 2016
-
 Theresa May spoke with Prime Minister Sipilä and Prime Minister Solberg on the UK's relationship with the EU, and defence and security.

@@ -10,8 +10,6 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# All Party Parliamentary Group on Human Trafficking and Modern Slavery
-
 The APPG on Human Trafficking and Modern Slavery, with cross-party membership of MPs and Peers, meets to provide a relatively informal forum for evidence-based discussion as to the nature and scale of modern slavery and to seek the means to eradicate it.  
 
 Founded by the former MP, Anthony Steen CBE, the APPG was launched on 9 July 2006 and is currently Chaired by Fiona Mactaggart MP and Baroness Butler-Sloss. 

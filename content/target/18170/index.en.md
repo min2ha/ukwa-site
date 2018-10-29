@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Badger cull extended across country if we win election, Tories say
-
 None

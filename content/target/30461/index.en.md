@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# MyGov Jersey
-
 The online services portal for the official States of Jersey website.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The three big election questions that all the parties are simply ignoring
-
 None

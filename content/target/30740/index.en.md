@@ -10,5 +10,3 @@
   "start_date": "2015-09-21T10:00:00Z"
 }
 
-# Cymru Masnach Deg | Fair Trade Wales
-

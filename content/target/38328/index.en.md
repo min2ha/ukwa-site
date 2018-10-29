@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Veterans for Peace: Easter Rising: the argument for non-violence
-
 Article by the pacifist Francis Sheehy Skeffington republished from the Irish Citizen May 1915

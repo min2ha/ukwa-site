@@ -10,6 +10,4 @@
   "start_date": "2017-04-12T09:00:00Z"
 }
 
-# Old Peninsular and Oriental Steam Navigation Company, The (P & O S N co)
-
 A history of the steam company.

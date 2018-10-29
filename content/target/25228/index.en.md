@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron: Tories are going for a majority in General Election
-
 None

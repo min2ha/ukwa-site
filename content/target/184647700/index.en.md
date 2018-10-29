@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Gwasanaeth Cefn Gwlad Sir Ddinbych | Denbighshire Countryside Service
-

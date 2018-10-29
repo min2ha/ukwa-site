@@ -10,6 +10,4 @@
   "start_date": "2015-01-17T00:00:00Z"
 }
 
-# Badsey
-
 <p>This website celebrates the history of Badsey, a village in Worcestershire, England.</p>

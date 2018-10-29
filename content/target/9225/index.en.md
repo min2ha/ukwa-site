@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chemmy Alcott on Twitter
-

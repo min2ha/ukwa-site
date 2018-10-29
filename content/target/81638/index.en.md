@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 15th October 2018: EU Exit Negotiations
-
 Theresa May set out what she saw as the two main problems that remained unresolved in the Brexit negotiations, the first of which related to the idea of a UK-wide customs solution to the Irish backstop. The second issue concerned the need for any backstop to be a temporary solution

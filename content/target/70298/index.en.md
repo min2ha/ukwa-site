@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Ham United Women
-
 West Ham United women's team

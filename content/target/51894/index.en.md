@@ -10,6 +10,4 @@
   "start_date": "2017-04-11T09:00:00Z"
 }
 
-# Bloc +
-
 Site of a bar and restaurant in Glasgow, and venue for live music including the Slowfest.

@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# B3 Creative Network
-
 B3 Media is an award-winning network that makes connections between Britain's multi-cultural communities and the UK's creative industries.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Jonathan Jones (@PermSecGLD) on Twitter
-
 Permanent Secretary of the Government Legal Department and Treasury Solicitor. 

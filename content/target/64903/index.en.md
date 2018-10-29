@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Lodge Sandwood, Glasgow No. 1590
-
 Site of a masonic lodge located in Glasgow and affiliated with the Grand Lodge of Scotland.

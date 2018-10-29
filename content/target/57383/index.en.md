@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Security, law enforcement and criminal justice - a future partnership paper
-
 This paper discusses options for maintaining internal security collaboration in the future partnership. The basis on which the UK cooperates at the EU level will evidently be altered by the UK’s withdrawal, raising the question of how we should shape that partnership in the future.
 
 

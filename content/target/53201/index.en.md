@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Museums Association (MA): MA Publishes Museums Manifesto
-
 Museums Manifesto 2017 states that the new administration should help museums secure a stable financial future during a period of public funding cuts; diversify audiences; continue to thrive post-Brexit; and work with government departments and public bodies to deliver a range of policy goals, particularly in education, health and wellbeing, science and research, tourism, cultural diplomacy and social services.

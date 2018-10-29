@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Creative Loop
-
 Site of an organisation providing training and access to industy for students in the creative media sector.

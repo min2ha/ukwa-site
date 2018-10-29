@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angela MacLean (@CllrAngelaM) on Twitter
-
 The Twitter profile of Angela McLean, the Scottish Liberal Democrats candidate for Skye, Lochaber and Badenoch in the 2016 Scottish Parliament election.

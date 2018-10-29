@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# History Workshop (@HistoryWO) on Twitter
-
 History Workshop Online (HWO) is an online magazine, this is their official Twitter account.

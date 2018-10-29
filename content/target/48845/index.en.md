@@ -10,5 +10,3 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# University of South Wales: Centre for Criminology
-

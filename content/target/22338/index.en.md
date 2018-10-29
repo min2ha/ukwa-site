@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brian Thomson for North East Fife
-
 This is the website of Brian Thomson, the Labour Party candidate for North East Fife in the UK General Election on the 7th May 2015.

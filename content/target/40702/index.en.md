@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Rifles and Spades - Leominster in the First World War
-
 Project to explore in several different ways what Leominster was like in 1914, and how the effects of the War changed it forever.

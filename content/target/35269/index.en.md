@@ -10,5 +10,3 @@
   "start_date": "2016-02-16T09:00:00Z"
 }
 
-# Norwegian Scottish Association, The
-

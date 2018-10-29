@@ -10,5 +10,3 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Montgomeryshire Youth Music | Cerddorion Ifanc Maldwyn
-

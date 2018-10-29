@@ -10,6 +10,4 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Visit Scottish Parliament
-
 Site providing information to visitors to the Scottish Parliament building.

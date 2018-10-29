@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Ryedale District Council
-
 The website of Ryedale District Council offers information on its activities and services, news,  and access to consultations and council committee papers and minutes. 

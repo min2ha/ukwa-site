@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Nicholas Watt (nicholaswatt) on Twitter
-

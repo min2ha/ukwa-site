@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Patricia Ferguson MSP
-
 Patricia Ferguson, Scottish Labour member of the Scottish Parliament for Glasgow Maryhill and Springburn from 1999 to 2016.

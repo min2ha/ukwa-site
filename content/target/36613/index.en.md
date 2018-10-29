@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Stride : Global Citizenship magazine for schools
-
 Site of a magazine promoting and educating in global citizenship, based in Scotland.

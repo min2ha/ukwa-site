@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC: KS3 Bitesize History - The campaign for women's suffrage
-
 The BBC bitesize site for KS£ learning, giving the history of women's suffrage 

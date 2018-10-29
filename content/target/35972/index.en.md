@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# William Young (@youngwd1) on Twitter
-
 The Twitter profile of Willie Young, the Scottish Labour candidate for the North East Scotland list in the 2016 Scottish Parliament election.

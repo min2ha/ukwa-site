@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Why Metro.co.uk is signing the mental health media charter
-
 Article announcing that the Metro newspaper will sign the 'Mental Health Media Charter', the charter is made up of 7 guidelines for ensuring imagery and language used in mental health reporting is responsible, genuinely educational and stigma-reducing

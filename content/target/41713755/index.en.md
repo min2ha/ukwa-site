@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Tami MP
-
 Mark Tami MP for Alyn and Deeside

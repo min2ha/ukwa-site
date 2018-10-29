@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Isle of Wight Walking Festival
-
 one of the UK's longest running walking festivals covering many walks on the Isle of Wight.

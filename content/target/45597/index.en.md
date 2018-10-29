@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Haringey Solidarity Group
-
 We are a group of local people who want to get rid of the current system which places profit and power before people’s real needs.

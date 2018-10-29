@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T03:00:00Z"
 }
 
-# Water Watch Wales 
-
 <p>The Natural Resources Wales Water Watch Map Gallery is a collection of web maps related to the Water Framework Directive in Wales.</p>

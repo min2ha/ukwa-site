@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# Support Organisation for Trisomy 13/18 (SOFT UK)
-

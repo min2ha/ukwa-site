@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St Cuthbert's Church at the Heart of Wells
-
 St Cuthbert’s is part of the Diocese of Bath and Wells within the Church of England. St Cuthbert's is the largest parish church building in Somerset and is located in the city of Wells.

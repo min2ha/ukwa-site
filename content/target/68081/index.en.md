@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harwell RUFC (@harwellrufc) on Twitter
-
 The official Twitter account of Harwell Rugby Union Football Club. Harwell RFC is a local, friendly rugby club founded in 1947.

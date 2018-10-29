@@ -10,5 +10,3 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Bladder and Bowel Foundation
-

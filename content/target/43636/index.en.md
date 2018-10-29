@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SemiPartisanSam: Articles tagged 'EU Referendum'
-
 Samuel Hooper's political blog 'Semi-Partisan Politics'. He offers a running commentary on British and American politics, culture and current affairs from a 'conservatarian' standpoint.

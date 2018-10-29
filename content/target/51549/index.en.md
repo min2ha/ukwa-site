@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hispanic Festival
-
 The official website of the Edinburgh Hispanic Festival. This festival was previously held in Edinburgh. The last festival occured in 2014. 

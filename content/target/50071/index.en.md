@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Easthouses Lily Miners Welfare Football Club
-
 Site for a Scottish junior football club based in Easthouses, Dalkeith, Midlothian.

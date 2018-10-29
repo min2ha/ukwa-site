@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Brexit to trigger revolution in better laws, officials expect
-

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Voices 4 the Library (@VftL_UK) on Twitter
-
 Publicising the Public Library Services in the UK and the work librarians do. 

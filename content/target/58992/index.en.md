@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Islamic Educational Trust Cumbernauld
-
 Site of an Islamic place of worship / mosque and community centre in Cumbernauld, Lanarkshire.

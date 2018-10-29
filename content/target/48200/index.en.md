@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Christians Together in the Highlands and Islands
-
 Site of an organisation providing online resources and information for the Christian community in the regions in the Highlands and Islands of Scotland, and aiming to encourage networking within the body of Christ throughout the Highlands and Islands.

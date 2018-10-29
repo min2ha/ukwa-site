@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Edinburgh Napier University (EdinburghNapier) on Twitter
-
 <p>The twitter profile of Edinburgh Napier University.</p>

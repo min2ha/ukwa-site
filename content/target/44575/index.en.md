@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Abney Park
-
 Abney Park in Stoke Newington, is a garden cemetery in London. It is a woodland memorial park and Local Nature Reserve, managed by the London Borough of Hackney.

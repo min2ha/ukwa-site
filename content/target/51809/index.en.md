@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Lloyds TSB Foundation for Scotland
-
 Site of a charitable foundation based in Scotland contributing to the improvement of the lives of individuals and communities experiencing disadvantage all across Scotland and in developing countries by distribution of their grants.

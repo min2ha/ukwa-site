@@ -10,6 +10,4 @@
   "start_date": "2013-12-07T23:45:00Z"
 }
 
-# MotiRoti Archive
-
 None

@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Medical Research Council: Zika Rapid Response Initiative
-
 Medical Research Council page announcing funding scheme for Zika research

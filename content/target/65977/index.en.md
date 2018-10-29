@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Addictions Support & Counselling (ASC)
-
 Site of a charity working in partnership with other organisations in the Forth Valley, aiming to help people recover from substance misuse.

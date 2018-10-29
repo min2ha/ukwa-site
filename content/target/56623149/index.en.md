@@ -10,5 +10,3 @@
   "start_date": "2011-05-18T00:00:00Z"
 }
 
-# Writers Plaques Wales / Placiau Awduron Cymru
-

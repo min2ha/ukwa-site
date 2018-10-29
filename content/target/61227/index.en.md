@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: EU chief negotiator denies parallel Brexit negotiations with Jeremy Corbyn
-

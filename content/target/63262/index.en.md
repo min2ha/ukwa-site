@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Francis Edwards, antiquarian booksellers
-
 Francis Edwards Antiquarian Books, was established in 1855 in the West End of London. It is now situated in the world famous Hay Cinema Bookshop in Hay-on-Wye.

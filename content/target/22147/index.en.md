@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Twigger (@mrpaultwigger) on Twitter (Liberal Democrats candidate for Liverpool West Derby)
-
 Paul Twigger stood as Liberal Democrats candidate for Liverpool West Derby at the 2015 General Election but was not elected. 

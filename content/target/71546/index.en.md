@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM Brexit negotiations statement: 21 September 2018
-
 The Prime Minister's reaction to the rejection of her Chequers plan by the European Union at the September Council meeting in Salzburg.

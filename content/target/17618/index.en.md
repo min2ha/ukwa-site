@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory ministers accused of stealth campaigning on public purse as research reveals repeated trips to marginals
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Stephanie Pitchers (Green Partyv
-
 Stephanie Pitchers stood as Green Party candidate for Liverpool Riverside in the 2017 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Association for European Transport (AET)
-
 The Association for European Transport (AET) is an European organisation for transport professionals. AET promotes networking and exchange of ideas, information and opportunities amongst members. It organises Europe's leading annual transport conference, the European Transport Conference.

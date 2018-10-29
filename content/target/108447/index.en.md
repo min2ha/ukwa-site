@@ -10,5 +10,3 @@
   "start_date": "2005-06-08T00:00:00Z"
 }
 
-# Council of Occupational Therapists of the European Countries (COTEC)
-

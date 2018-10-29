@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# NAPO: Napo Manifesto Demands General Election 2017
-
 It has been well documented that the justice system is in meltdown. 50% of the probation service was privatised in 2015 leading to ongoing failures by private providers and excessive job cuts. The family courts are now also at breaking point as workloads have become dangerously high and prisons are in chaos. This document sets out Napo’s demands for the 2017 election and what they want to see the new government take action on to save our justice system and its staff.

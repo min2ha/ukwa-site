@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 20th March 2018: Brexit: Fisheries Management
-
 Michael Gove's statement on the position of fisheries during the Brexit transitional period is read to the House of Lords, followed by questions.

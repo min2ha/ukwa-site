@@ -10,6 +10,4 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Joyce Watson AM on Facebook
-
 Joyce Watson is the Assembly Member for Mid and West Wales.

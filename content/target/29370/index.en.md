@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ilkley Literature Festival
-
 Ilkley Literature Festival

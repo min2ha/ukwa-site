@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Princes Drive Baptist Church, Colwyn Bay
-

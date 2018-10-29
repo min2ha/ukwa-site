@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tiree Music Festival
-
 Site of an annual music festival on the island of Tiree.

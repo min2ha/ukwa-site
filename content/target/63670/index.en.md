@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Paul's Parish Church
-
 The website of St. Paul's Parish Church.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Big Bang
-
 UK Young Scientists and Engineers Fair

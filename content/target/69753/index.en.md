@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady Of Lourdes & St. Bernadette 
-
 Site of a Scottish Roman Catholic parish church located in Larbert, Falkirk.

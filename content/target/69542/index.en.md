@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Museum Of Portable Sound (@museumsound) Twitter
-
 The Museum of Portable Sound was established in November 2015. It is a portable museum dedicated to portable sound based in London, UK. The Museum’s galleries consist of curated digital files located on the Museum Director‘s mobile phone. This is their official Twitter account. 

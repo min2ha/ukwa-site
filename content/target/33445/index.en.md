@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Iaith Casnewydd
-
 Menter Iaith Casnewydd promote Welsh language initiatives within Newport.

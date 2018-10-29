@@ -10,6 +10,4 @@
   "start_date": "2018-07-07T09:00:00Z"
 }
 
-# Alasdair Allan MSP
-
 Alasdair Allan, SNP Member of the Scottish Parliament for Na h-Eileanan an Iar, the Western Isles.

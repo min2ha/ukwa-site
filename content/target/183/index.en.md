@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sandwell and West Birmingham Hospitals
-
 None

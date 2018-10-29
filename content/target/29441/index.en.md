@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# Conchological Society of Great Britain and Ireland, The
-
 Founded in 1876 the Conchological Society of Great Britain and Ireland is a society devoted to the study of molluscs. It publishes periodicals 'Journal of Conchology' and the 'Mollusc World'.

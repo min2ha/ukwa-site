@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Bournemouth and Poole
-
 None

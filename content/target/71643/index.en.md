@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dr. Amy Pollard (@AmyRPollard) on Twitter
-
 Twitter account of social scientist Dr Amy Pollard, the founder of the Mental Health Collective.

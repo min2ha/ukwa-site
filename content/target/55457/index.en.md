@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The:Moderate use of social media 'builds resilience and wellbeing in young people', report suggests
-
 Article relating that 'Moderate' internet use was found to have some benefits for children, developing their social skills, but also allowing them greater access to help when needed

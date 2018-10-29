@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Royal Central
-
 Royal Central is an independent source for news on the British Royal Family. Every month, an average of 190,000 readers come to the website for the latest pictures, news and also historical content.

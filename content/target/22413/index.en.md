@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Brian May: I could support Ukip candidates at the election
-
 None

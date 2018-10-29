@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# HF ArtsFest 
-
 Website for the Hammersmith and Fulham Arts Festival. 

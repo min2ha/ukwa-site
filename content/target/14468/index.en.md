@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Claire Curneen
-
 <p>As one of the UK's foremost ceramicists, Claire Curneen's work is distinct for its figuration.</p>

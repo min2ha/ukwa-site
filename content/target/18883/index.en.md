@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Why Americans love the Magna Carta: from Thomas Jefferson to Jay Z
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Joseph Rowntree Foundation
-
 The Joseph Rowntree Foundation (JRF) is a British social policy research and development charity, that funds a UK-wide research and development programme. It seeks to understand the root causes of social problems, to identify ways of overcoming them, and to show how social needs can be met in practice.

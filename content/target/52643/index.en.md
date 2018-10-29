@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Wildlife Trusts, The: UK General Election 2017: why it matters for wildlife
-

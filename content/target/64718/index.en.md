@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Derwent London
-
 Derwent London is a British-based property investment and development business.

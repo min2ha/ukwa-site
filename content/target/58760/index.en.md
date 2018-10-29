@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Inveraray Shinty Club on Facebook
-
 Facebook Page for a shinty club based in Inveraray, Argyll & Bute.

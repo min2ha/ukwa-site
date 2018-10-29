@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# What does the EU mean to you?
-
 The Scottish Parliament's European and External Relations Committee is encouraging member of the public to submit testimonials of their experience of the EU, as part of their inquiry into the implications for Scotland of EU reform and the EU referendum.

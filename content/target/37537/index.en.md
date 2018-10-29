@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sunday Times, The: Don’t fret, Your Majesty: the Scots can’t afford to jump ship if we vote for Brexit
-
 Website for The Sunday Times UK newspaper

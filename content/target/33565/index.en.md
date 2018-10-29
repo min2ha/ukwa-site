@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Perth Civic Trust
-
 Site concerned with preservation of old buildings and planning of new buildings in Perth, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Erin Go Bragh GAA Club
-
 The aim of Erin Go Bragh, GAA Club is to promote the Gaelic ethos within the community of Castaheany, Littlepace and Hunters Run through the provision of quality sports and related cultural activities for all irrespective of gender, ethnic background and religious beliefs.

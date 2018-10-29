@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-#  Queen's 90th celebrations 'generously supported' by arms traders and Gulf royals
-
 Leaders of Bahrain and Oman joined with BAE Systems to sponsor Queen Elizabeth's 90th birthday festivities.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Freddie Woodward (freddiebevis) on Twitter
-
 <p>The twitter profile of diver Freddie Woodward, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

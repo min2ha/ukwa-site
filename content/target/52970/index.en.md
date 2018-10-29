@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cllr Joan Coombes (@joancoombes) on Twitter
-
 Twitter profile of Joan Margaret Coombes, Scottish Labour candidate for Linlithgow and East Falkirk in the 2017 general election.

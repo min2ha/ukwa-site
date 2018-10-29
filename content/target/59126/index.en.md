@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Stop Funding Hate (@StopFundingHate) on Twitter
-
 Twitter feed of pressure group which campaigns to persuade advertisers to boycott newspapers such as the Sun, the Express and the Daily Mail, which it claims demonise foreigners and migrants.

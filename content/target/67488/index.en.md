@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-#  Kensington & Chelsea Foundation, The
-
 The K&C Foundation is an independent charity which was set up in 2008.

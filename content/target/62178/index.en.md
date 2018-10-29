@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Joint Committee on Human Rights: Legislative Scrutiny: The Sanctions and Anti-Money Laundering Bill
-
 This Bill provides a legal framework for sanctions and anti-money laundering measures once the UK has left the EU. The principal human rights issues arise in connection with the powers to impose sanctions, so scrutiny is focused on Part 1 of the Bill.
 

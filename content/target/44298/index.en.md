@@ -10,6 +10,4 @@
   "start_date": "2016-07-15T10:00:00Z"
 }
 
-# Macrobert Arts Centre
-
 Site of a general arts centre based on the University of Stirling campus, Stirling, Scotland.

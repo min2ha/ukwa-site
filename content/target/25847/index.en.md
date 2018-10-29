@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Scots are not as keen to forgive as many Lib Dems would hope
-
 None

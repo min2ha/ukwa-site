@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# National Early Music Association NEMA
-
 Website of the national association to promote interest in early music.

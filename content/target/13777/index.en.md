@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Edinburgh Flipside: Scotland to declare independence from referendum debate
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scott Rennie (@scottmrennie) on Twitter
-
 The Twitter profile of Scott Rennie, the Scottish Liberal Democrats candidate for the North East Scotland list in the 2016 Scottish Parliament election.

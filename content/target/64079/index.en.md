@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Nuart Aberdeen
-
 Site of an international festival of street art in Aberdeen encouraging an emergent local scene whilst encouraging creative collaborations with twin city Stavanger.

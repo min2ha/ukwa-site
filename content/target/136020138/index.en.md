@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bristol LINk
-
 None

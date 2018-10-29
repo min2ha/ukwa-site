@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: Liam Fox champions global free trade
-
 International Trade Secretary's speech at the AEI during his US visit for the first meeting of the UK-US Trade and Investment Working Group.

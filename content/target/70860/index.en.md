@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Pensions Archive Trust 
-
 The official website for the Pensions Archive Trust: a non-profit making organisation preserving pensions history for the future.

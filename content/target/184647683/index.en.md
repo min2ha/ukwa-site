@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Al Mizan Trust
-
 Al-Mizan Charitable Trust is a Muslim grant-funder which supports disadvantaged people and deprived communities across the UK, regardless of their faith or cultural background. 

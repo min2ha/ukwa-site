@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Brecon and Radnor Conservatives
-
 Website of Brecon and Radnor Conservatives, providing information on events, representatives and candidates and local and national news.

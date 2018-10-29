@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Conservative manifesto launch: Recap updates as David Cameron announced General Election 2015 pledges
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-03-18T09:00:00Z"
 }
 
-# UK BioIndustry Association (BIA)
-
 The UK BioIndustry Association, the BIA, is the trade association for innovative enterprises involved in UK bioscience. Members include start-up, emerging and more established bioscience companies; pharmaceutical companies; academic, research and philanthropic organisations; and service providers to the bioscience sector. 

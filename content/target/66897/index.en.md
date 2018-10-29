@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# ASCO Group Limited
-
 The website of ASCO Group Limited, an Aberdeen-based supply chain management services provider.

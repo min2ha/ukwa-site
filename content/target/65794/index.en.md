@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Dazed & Confused
-
 Dazed is an independent fashion and culture online magazine.

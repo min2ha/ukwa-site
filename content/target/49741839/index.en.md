@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Anarchist Federation
-
 <p>Website the Anarchist Federation, a federation of anarchist groups and individual members in Britain and a member organisation of the International of Anarchist Federations.</p>

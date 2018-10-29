@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: The woman who shredded Red Ed: How marketing company boss used laser-like precision to lead audience attack on Labour leader
-
 None

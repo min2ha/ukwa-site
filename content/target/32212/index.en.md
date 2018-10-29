@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Methodist Church, Penarth
-

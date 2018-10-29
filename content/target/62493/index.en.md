@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crowdfunder: Scottish Women's Football Magazine
-
 A crowd funding campaign to launch a magazine, covering Scottish Women's Football at all levels: from grassroots to internationals.

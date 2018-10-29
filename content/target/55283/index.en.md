@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Ken Follett
-
 Ken Follett is a international best-selling author Welsh author of thrillers and historical novels.

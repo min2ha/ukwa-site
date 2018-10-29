@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Steve McCabe (Labour Party Politician)
-
 Steve McCabe stood as the Labour Party candidate for Birmingham Edgbaston in the 2017 General Election and was elected MP. He was first elected in 1997.

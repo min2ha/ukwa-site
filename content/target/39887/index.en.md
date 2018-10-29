@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Aberdeen Central Liberal Democrats
-
 The Aberdeen Central branch of the Scottish Liberal Democrats.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Paradise Green
-
 Paradise Green is a UK theatre production company affiliated with the Bradford Playhouse.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Redcar Rugby Club (@redcarrugbyclub) on Twitter
-
 The official Twitter account of Redcar Rugby Union Football Club.

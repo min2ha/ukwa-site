@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# LSE Ideas
-
 LSE Ideas act as the London School of Economics' foreign policy think tank.

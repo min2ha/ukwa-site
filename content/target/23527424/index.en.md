@@ -10,5 +10,3 @@
   "start_date": "2008-10-22T00:00:00Z"
 }
 
-# Transition Bro Gwaun a Community Initiative
-

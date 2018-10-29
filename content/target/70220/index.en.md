@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Banbridge Rangers FC
-
 Banbridge Rangers are an Mid Ulster Intermediate Football Club. Formed in 2005 and includes 3 Mens Teams, Ladies Team and Youth Academy.

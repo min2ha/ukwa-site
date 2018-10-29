@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Financial Times: Tech Blog
-
 Technology blog from a major UK newspaper.

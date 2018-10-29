@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# King’s Sierra Leone Partnership (KSLP)
-
 <p>King’s Sierra Leone Partnership (KSLP) aims to help build Sierra Leone’s health system by strengthening training, clinical services, policy and research. Through an innovative programme and resourceful approach, KSLP responds directly to the needs of the health sector in Sierra Leone. It was established in 2011 by the King’s Centre for Global Health in London.</p>

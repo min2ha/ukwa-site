@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Angharad Watkeys Soprano
-
 Angharad Watkeys is a London based Welsh soprano.

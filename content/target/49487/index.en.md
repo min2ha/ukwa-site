@@ -10,8 +10,6 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Theatre 503
-
 Theatre503 is a theatre which aims:
 1.To be a home for new writers
 2.To be a launchpad for emerging companies

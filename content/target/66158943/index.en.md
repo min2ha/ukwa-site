@@ -10,5 +10,3 @@
   "start_date": "2012-10-12T00:00:00Z"
 }
 
-# Digging into Metadata: Enhancing Social Science and Humanities Research
-

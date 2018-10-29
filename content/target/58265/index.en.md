@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lewis Camanachd-Camanachd Leòdhais
-
 Site of a shinty club based at Stornoway, Isle of Lewis in the Western Isle-Na h-Eileanan Siar.

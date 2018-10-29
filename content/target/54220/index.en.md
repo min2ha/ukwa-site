@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# DD8 Music
-
 Site of a not for profit community group dedicated to promoting involvement in musical activities to people of all ages in the Kirriemuir area.

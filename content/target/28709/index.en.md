@@ -10,6 +10,4 @@
   "start_date": "2015-07-04T10:00:00Z"
 }
 
-# Canolfan Ewropeaidd Gorllewin Cymru | West Wales European Centre
-
 The West Wales European Centre's is an integral part of Carmarthenshire County Council's Regeneration and Leisure Department and is also a member of the European Commission's Europe Direct information relay service.

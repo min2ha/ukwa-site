@@ -10,6 +10,4 @@
   "start_date": "2016-11-14T09:00:00Z"
 }
 
-# howupsetting: politics and culture are upsetting
-
 Blog on UK politics from leftist perspective, with playlists.

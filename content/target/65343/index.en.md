@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Auchterderran Kinglassie Parish Church
-
 Site of a Church of Scotland parish church for the communities of Auchterderran, Cardenden and Kinglassie, Fife.

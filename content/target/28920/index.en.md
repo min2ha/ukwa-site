@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Triangle Network
-
 Triangle Network is an international network of artists and arts organisations that promotes exchange of ideas and innovation within the contemporary visual arts. It was established in 1982.

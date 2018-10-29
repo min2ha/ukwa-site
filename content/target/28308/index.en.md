@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# National Churches Trust
-
 The National Churches Trust is a national, independent charity dedicated to promoting and supporting church buildings of historic, architectural and community value across the UK. The Trust, founded in 2007, is the successor to the Historic Churches Preservation Trust (HCPT), created in 1953. 

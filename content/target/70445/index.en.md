@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: George Eustice: I’m a former UKIP candidate. I backed fundamental renegotiation. But I support the Chequers proposals. Here’s why.
-
 The Chequers proposal would enable us to have full control of our own fishing waters; full control of our agriculture policy; our own independent immigration policy and our own trade policy. The supremacy of EU law would end, but free trade would continue. In order to minimise border checks, we would agree to some regulatory alignment, or a common rule book with the EU on a narrow set of issues around technical product standards, but we would be outside the wider single market legislation.
 

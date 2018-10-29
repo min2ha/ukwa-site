@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron hints at early referendum on Britain's EU membership
-
 None

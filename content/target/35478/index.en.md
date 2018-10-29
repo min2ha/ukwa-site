@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# United and Independent Union
-

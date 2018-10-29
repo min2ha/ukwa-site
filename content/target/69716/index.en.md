@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# e² Young Engineers – Edinburgh & West Lothian
-
 A franchise based in Edinburgh and West Lothian, which runs engineering classes for young people using popular building games.

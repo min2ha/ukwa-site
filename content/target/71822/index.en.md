@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Manchester Science Festival
-
 A creative, playful and surprising celebration of science, produced by the Science and Industry Museum

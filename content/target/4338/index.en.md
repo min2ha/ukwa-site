@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:14.477821", 
+  "date": "2018-10-29T13:22:21.730876", 
   "open_access": false, 
   "target_url": "http://www.telegraph.co.uk/news/worldnews/asia/philippines/10453717/Typhoon-Haiyan-British-man-and-young-family-missing-after-storm.html", 
   "description": null, 
   "end_date": null, 
   "title": "Telegraph, The: Typhoon Haiyan: British man and young family missing after storm ", 
-  "record_id": "20181029T125514/4aCbhMmAv2O7a/MTVEHAZA==", 
+  "record_id": "20181029T132221/4aCbhMmAv2O7a/MTVEHAZA==", 
   "publisher": "telegraph.co.uk", 
   "start_date": null, 
   "subject": "UK response to Typhoon Haiyan (Philippines) 2013"
 }
-
-# Telegraph, The: Typhoon Haiyan: British man and young family missing after storm 
 
 None

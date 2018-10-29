@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Craigmailen Parish Church
-

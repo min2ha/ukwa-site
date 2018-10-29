@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elise Christie Short Track Speed Skater on Facebook
-
 None

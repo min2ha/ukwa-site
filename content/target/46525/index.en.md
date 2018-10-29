@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# The Benefice of Laleston and Merthyr Mawr with Penyfai
-

@@ -10,5 +10,3 @@
   "start_date": "2015-02-28T00:00:00Z"
 }
 
-# Pete Wishart MP, Scottish National Party Member of Parliament, Perth, N.Perthshire, Scotland
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Worcestershire LINk
-
 None

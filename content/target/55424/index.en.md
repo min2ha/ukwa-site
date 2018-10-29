@@ -10,6 +10,4 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# Big Splash Newport
-
 The Big Splash family is an annual street theatre festival held in Newport during the month of July.

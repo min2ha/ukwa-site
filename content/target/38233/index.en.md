@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conservative Europe (@congroup4europe) on Twitter
-
 Conservative pro-Europeans: MPs, MEPs, Peers and activists campaigning since 1975 for a positive Conservative vision of the UK's future in the EU

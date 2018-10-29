@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Office of the Information Commissioner
-
 Website for the Office of the Information Commissioner

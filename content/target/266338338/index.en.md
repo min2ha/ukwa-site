@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Orange Lily, The - Men of the Royal Sussex Regiment
-
 A 'nominal roll' in the form of a photo catalogue of some of the officers and men who served in the Royal Sussex Regiment (35th Regiment of Foot), its forbears and its successor Regiment, the 3rd Bn. Queens Regiment from 1701 to 1992. 

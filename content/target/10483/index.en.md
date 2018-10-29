@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Alison Whalley, Green Party, on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ealasaid MacDonald (@Ealasaid_MacD) on Twitter
-
 Twitter profile of Ealasaid MacDonald, Scottish Labour candidate for Na h-Eileanan an Iar in the 2017 general election.

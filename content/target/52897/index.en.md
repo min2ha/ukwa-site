@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Callum McNally (@Callum4EastDun) on Twitter
-
 Twitter profile of Callum McNally, Scottish Labour candidate for East Dunbartonshire in the 2017 general election.

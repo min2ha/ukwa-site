@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Diana, Princess of Wales Memorial Fund
-
 <p>Charitable foundation set up after the death of Princess Diana</p>

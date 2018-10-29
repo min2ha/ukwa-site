@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Deborah Newton-Cook, Liberal Democrat, on Facebook
-
 None

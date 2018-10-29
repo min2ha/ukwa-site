@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Electoral Reform Soc (electoralreform) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UK Safer Internet Centre
-
 UK Safer Internet Centre offers e-safety tips, advice and resources to help children and young people stay safe on the internet. The organisation takes active part in the Safer Internet Day.

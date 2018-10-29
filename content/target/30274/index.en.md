@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Dulcet Sounds: Laughing Cows Comedy
-
 Website for Laughing Cows Comedy, established in 1998 as a comedy club with an all female line up.

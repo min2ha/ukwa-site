@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Osian Lewis on Facebook
-
 Plaid Cymru Parliamentary candidate for Pontypridd

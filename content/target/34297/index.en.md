@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gordon Macdonald MSP: Member of the Scottish Parliament for Edinburgh Pentlands
-

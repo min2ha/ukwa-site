@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# Ghasting, The 
-
 The Ghasting is a 'magazine of ghosts, the macabre and the oh-so peculiar'  published in Wales. 

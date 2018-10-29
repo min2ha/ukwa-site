@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Cycling Scotland
-
 Site of an organisation representing cycling in Scotland working with others, to help create and deliver opportunities and an environment so anyone anywhere in Scotland can cycle easily and safely.

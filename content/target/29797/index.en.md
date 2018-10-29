@@ -10,6 +10,4 @@
   "start_date": "2015-08-14T10:00:00Z"
 }
 
-# Wivmayor: Wiv Words
-
 Festival

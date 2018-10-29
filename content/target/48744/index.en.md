@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# The Oxford Martin Programme on the Future of Food
-
 The Oxford Martin Programme on the Future of Food is an interdisciplinary programme of research and policy engagement concerning all aspects of the food system, based at the University of Oxford.

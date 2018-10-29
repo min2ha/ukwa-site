@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Lincolnshire Council
-
 Website of North Lincolnshire Council provides information about council activities and services. It includes news, consultations, council policy and strategy, and access to committee papers and minutes.

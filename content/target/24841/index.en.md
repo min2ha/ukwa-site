@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Keith Fraser (@MrKeithFraser  ) on Twitter  (UKIP  Politician)
-
 Keith Fraser stood as UKIP candidate for Hackney North & Stoke Newington at the 2015 General Election but was not elected. He subsequently stood in Islington North at the 2017 General Election and was not elected.

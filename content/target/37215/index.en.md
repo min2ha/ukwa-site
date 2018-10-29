@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: UK and the EU: How to make a Brexit
-

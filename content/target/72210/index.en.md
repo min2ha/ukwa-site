@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Elim Coatbridge
-
 Site of a Scottish Elim Pentecostal (Christian) Church located in Coatbridge, Lanarkshire.

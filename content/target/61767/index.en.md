@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: A customs union won’t help – there is no such thing as a ‘soft’ Brexit
-

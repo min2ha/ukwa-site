@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dee Valley News Magazine
-
 The Dee Valley News is an independent community magazine for the Dee area of north Wales.

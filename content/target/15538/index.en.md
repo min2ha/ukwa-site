@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Aberystwyth Town Council
-
 <p>The site for Aberystwyth Town Council in Aberystwyth.</p>

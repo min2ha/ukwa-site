@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ford: Glasgow 2014: The Games are coming!
-
 None

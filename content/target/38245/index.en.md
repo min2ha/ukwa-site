@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# labour In For Britain (@UKLabourIN) on Twitter
-
 The official Twitter feed of Labour In For Britain - campaign to remain in the European Union.

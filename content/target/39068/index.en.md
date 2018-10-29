@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Elizabeth Simon (@LizSimon64) on Twitter (Conservative candidate for Merthyr Tydfil & Rhymney)
-
 Elizabeth Simon is the Conservative candidate for Merthyr Tydfil & Rhymney in the Welsh Assembly elections 2016.

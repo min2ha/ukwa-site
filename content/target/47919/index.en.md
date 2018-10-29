@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Ayrshire Paths
-
 Site detailing the recreation paths and cycle paths of Ayrshire.

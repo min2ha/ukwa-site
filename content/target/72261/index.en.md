@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Shropshire Winter Festival
-
 A festival of food, drink and with local craft with a festive winter theme

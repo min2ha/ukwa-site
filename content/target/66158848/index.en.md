@@ -11,6 +11,4 @@
   "subject": "Slavery and Abolition in the Caribbean"
 }
 
-# Cambridge University Library: Slavery, Shackles and Sugar
-
 None

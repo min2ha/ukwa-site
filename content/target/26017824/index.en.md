@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Better Payment Practice Campaign, The
-

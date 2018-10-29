@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Welsh Historic Gardens Trust (WHGT)
-
 <p>'The Welsh Historic Gardens Trust (WHGT) is a national organisation campaigning to save historic gardens and parks from neglect, indifference, insensitive planning and planting for future generations.' - website</p>

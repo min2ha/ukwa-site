@@ -10,6 +10,4 @@
   "start_date": "2016-12-31T09:00:00Z"
 }
 
-# Boones Chapel
-
 Summary of a lottery funded project open to the public; A guide to one of only two Grade 1 listed buildings in Lewisham.

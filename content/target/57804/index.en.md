@@ -10,6 +10,4 @@
   "start_date": "2017-10-14T09:00:00Z"
 }
 
-# Tim Freeman
-
 Tim Freeman was born in Edmonton, Canada and now lives in Liverpool. He was awarded Title of, Welsh Artist of the Year 2009. 

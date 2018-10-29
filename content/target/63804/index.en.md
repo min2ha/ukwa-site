@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Derbyshire War Memorials
-
 The site aims to provide a reliable inventory incorporating images, descriptions and histories of about 3500 war memorials (as defined by heritage organisations) in Derbyshire and has so far published nearly half of them.

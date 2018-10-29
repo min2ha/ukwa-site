@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Carsphairn Heritage Group
-
 Site of a local history group and heritage centre located in Carsphairn, Dumfries and Galloway

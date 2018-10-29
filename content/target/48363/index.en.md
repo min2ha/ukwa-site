@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee: The process for exiting the European Union and the Government’s negotiating objectives
-
 The Exiting the European Union Committee's first report calls for transitional arrangements on trade, no return to tariffs for UK businesses and parliamentary vote on final deal.

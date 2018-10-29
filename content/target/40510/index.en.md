@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Clyde Football Club
-
 Site of a senior Scottish Football Club based in Cumbernauld, North Lanarkshire.

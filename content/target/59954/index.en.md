@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The EU is killing democracy. I'm afraid that 2018 will turn very ugly
-
 Comments on the rise of right-wing populism across the EU. Voters who feel betrayed by their politicians having sold out to Brussels are angry and are turning to far-right political groupings in despair.

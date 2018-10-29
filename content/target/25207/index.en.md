@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron left red-faced as voters WALK OUT of a Tory election campaign event
-
 None

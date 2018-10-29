@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# HCAatEdinburgh (@HCAatEdinburgh) on Twitter
-
 Official Twitter page of the School of History, Classics and Archaeology at the University of Edinburgh. 

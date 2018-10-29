@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Name Parish, Mansewood
-
 Site of a Scottish Roman Catholic parish church located in Mansewood, Glasgow.

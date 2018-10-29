@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: A spectacular betrayal of Labour voters - but Corbyn's U-turn HAS put Mrs May on the spot 
-
 Argues that Jeremy Corbyn’s decision to endorse continued membership of the European Single Market beyond March 2019, when Britain leaves the EU, is an act of grotesque hypocrisy. It is a betrayal of everything we know the Labour leader believes — dressed up as concern for jobs and the economy — done for calculated political gain and, ultimately, to thwart Brexit.

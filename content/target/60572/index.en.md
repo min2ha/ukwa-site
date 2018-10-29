@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Elgin Writers Group
-
 Site of a writers' group based in Elgin, Moray, who run competitions in creative writing as well as publishing anthologies.

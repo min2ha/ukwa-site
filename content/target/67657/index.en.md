@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Motoring Icons
-
 A website that tells the story of Britain's motoring heritage through some of its most iconic motor vehicles

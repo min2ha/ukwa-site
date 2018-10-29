@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Britain’s problem is not with Europe, but with England
-

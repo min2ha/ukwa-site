@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London Bees (@LondonBees) on Twitter
-
 The official Twitter account for @FAWC_ side #LondonBees.

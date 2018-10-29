@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Cambrian Coast, Philip Pooley
-
 The Cambrian Consort promotes the music of the Renaissance and Baroque eras, whilst maintaining the great lyric tradition of singing in Wales. The Cambrian Consort is the only professional vocal ensemble of its kind in Wales.

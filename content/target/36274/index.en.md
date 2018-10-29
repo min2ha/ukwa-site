@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Jane Blank
-
 Jane Blank is a professional published novelist, poet, dramatist, script writer and member of Literature Wales / Welsh Academy. 

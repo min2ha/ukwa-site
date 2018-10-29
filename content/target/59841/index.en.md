@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# MuscleTalk Bodybuilding Forum
-
 An online enthusiast community forum concerned with bodybuilding. Discusses bodybuilding in four main categories; nutrition, steroids and other performance enhancing drugs, training and misc.

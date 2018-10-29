@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: 'Patronising gimmick' Labour's attempt to woo female voters with pink bus backfires
-
 None

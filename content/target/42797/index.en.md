@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Save me trust
-
 Save Me is a charity founded by Brian May and Anne Brummer to speaks out against the persecution and torture of wildlife for sport.

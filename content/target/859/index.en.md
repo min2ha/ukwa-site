@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kent and Medway NHS and Social Care Partnership
-
 None

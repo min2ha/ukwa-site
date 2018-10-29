@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# Daffodil Society, The
-
 The Daffodil Society, established in 1898 is the specialist society of Great Britain for all who are interested in the Genus Narcissus.

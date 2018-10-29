@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Iain Duncan Smith: Voting for Ukip and Nigel Farage is like writing Britain's 'suicide note'
-
 None

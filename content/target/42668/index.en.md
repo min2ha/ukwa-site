@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Unite Community
-
 Unite's community membership scheme brings together people from across our society.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: 'Social media is causing a mental health crisis', says head of  British university hit by seven student suicides
-
 News article about comments made by Hugh Brady the vice-chancellor of Bristol University in which he blamed social media for causing mental health problems

@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# British Association of Barbershop Singers (BABS), The
-
 The British Association of Barbershop Singers (BABS) is a registered charity supporting male barbershop singing in the UK. They have 60 registered choirs and over 100 registered barbershop quartets.

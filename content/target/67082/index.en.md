@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Bristol Bears Rugby Club
-

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Asian Express Newspaper, The (AEN)
-
 English language online newspaper, founded by Vallabh Kaviraj

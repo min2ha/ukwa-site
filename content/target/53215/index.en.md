@@ -11,8 +11,6 @@
   "subject": "UK General Election 2017"
 }
 
-# UK Home Care Association: Manifesto 2017
-
 This manifesto urges political parties, and candidates standing for election, to commit to ensuring almost one million older and disabled people can remain healthy and independent in their own homes, while also enabling family members to combine caring responsibilities with family life and employment.
  
  

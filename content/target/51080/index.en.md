@@ -10,5 +10,3 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Sioe Gychod All Wales | All Wales Boat Show
-

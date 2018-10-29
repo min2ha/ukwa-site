@@ -10,7 +10,5 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Allusionist, The 
-
 A podcast about language by Helen Zaltzman. Helen Zaltzman is also involved in other podcasts such as http://answermethispodcast.com.
 

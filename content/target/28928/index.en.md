@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cllr Mike Wood & Dudley South Conservatives
-
 Website of Dudley South Conservative Association provides information about the association and lists Conservative MP, MEP and local councillor candidates for Dudley South. Focused on the general election campaign. Discontinued website.

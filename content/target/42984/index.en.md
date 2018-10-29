@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Food Ethics Council
-
 Website of Food Ethics Council - charity that provides advice on the ethics of food and farming

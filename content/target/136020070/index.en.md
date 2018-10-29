@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yorkshire and the Humber SHA
-
 None

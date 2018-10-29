@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# EGB GAA Birmingham (@EGB_GAA_UK) on Twitter
-
 Erin go Bragh GAA and Camogie Club. Home of GAA and Camogie in the Midlands. Holly Lane, Erdington. A friendly bunch dedicated to keeping gaelic sports alive.

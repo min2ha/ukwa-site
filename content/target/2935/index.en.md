@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# National Archives, The
-
 The National Archives (TNA) is an executive agency of the Ministry of Justice of the United Kingdom. It is "the UK government's official archive".

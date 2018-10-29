@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fife Conservatives (@Fifetory) on Twitter
-
 Twitter feed of the Fife branch of the Scottish Conservative and Unionist Party.

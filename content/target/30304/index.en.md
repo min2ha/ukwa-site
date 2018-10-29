@@ -10,6 +10,4 @@
   "start_date": "2015-09-08T10:00:00Z"
 }
 
-# SCOT-PEP
-
 SCOT-PEP is a registered charity dedicated to the promotion of sex workers’ rights, health and dignity.

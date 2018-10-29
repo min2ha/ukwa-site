@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# New Wimbledon Theatre
-
 The New Wimbledon Theatre has been Grade II listed building and is in Merton, London. The theatre has hosted plays, musicals and performances from around the world.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The fragile UK economy has a chance to abandon failed policies post-Brexit
-

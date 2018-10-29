@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis' speech on the future security partnership
-
 David Davis gave a speech on our future security partnership with the EU at the RUSI library in London on June 6th 2018
 

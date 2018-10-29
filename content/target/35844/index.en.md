@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Forth and Clyde Canal Society
-
 Site of a society dedicated to the protection, maintenance and promotion of the Forth and Clyde canal route between Grangemouth on the river Forth to Bowling on the river Clyde.

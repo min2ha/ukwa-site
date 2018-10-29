@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Societies 
-
 This is the website of The 1916 Societies, which are an Irish separatist movement that campaign for a thirty-two county referendum on Irish Unity.

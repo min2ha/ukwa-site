@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T08:00:00Z"
 }
 
-# Community Land Scotland
-
 Community Land Scotland represents its members and provides information to communities with an interest in community land ownership.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Association of Teachers of Religious Education (NATRE)
-
 None

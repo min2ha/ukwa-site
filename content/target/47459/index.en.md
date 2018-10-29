@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Forfar Albion Junior Football Club
-
 'Club Website' site for a Scottish juior football club based in Forfar, Angus, Scotland.

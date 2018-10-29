@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Runnymede and Weybridge Conservatives (@RWconservatives ) on Twitter
-
 Twitter feed of Runnymede and Weybridge Conservatives.

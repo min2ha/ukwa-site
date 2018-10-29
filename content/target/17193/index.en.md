@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron's General Election campaign trail bill being kept secret by Downing Street
-
 None

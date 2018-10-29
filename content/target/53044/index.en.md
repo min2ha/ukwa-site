@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Change.org: We deserve a debate - What's May scared of?
-
 A petition to demand a televised debate between Theresa May and the leaders of the UK's main opposition parties. 

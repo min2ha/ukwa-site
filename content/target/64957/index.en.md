@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Rockpool Digital
-
 A digital agency spread across Bristol and London

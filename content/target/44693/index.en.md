@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Fideo Wyth
-
 A community for discussing all things videogames, board games and comics in Wales and through the medium of the Welsh language.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Alasdair Ibbotson (Green candidate for Alyn and Deeside)
-

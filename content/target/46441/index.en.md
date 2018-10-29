@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T11:00:00Z"
 }
 
-# Sixteen Films
-
 Sixteen Films is the film production company formed by director Ken Loach and producer Rebecca O'Brien after Parallax Pictures dissolved in 2002.

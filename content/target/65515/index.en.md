@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# UK Science Festivals
-
 Annual calendar of UK Science Festivals

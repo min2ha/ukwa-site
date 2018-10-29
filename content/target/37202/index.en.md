@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post, The: Andy Burnham Bets Britain Will Back Brexit
-
 Huffington Post, The: Andy Burnham Bets Britain Will Back Brexit

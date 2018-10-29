@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Snooker Forum
-
 An online enthusiast community forum concerned with Snooker. Discusses various snooker related topics.

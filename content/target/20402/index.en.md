@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Angus B MacNeil SNP for MP on Twitter
-
 The twitter profile of Angus MacNeil, Scottish National Party Parliamentary Candidate for the Outer Hebrides.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Bromley Green Party 2017 General Election 
-
 Site for Bromley Green Party, find the latest news and issues concerning the Bromley Green Party.

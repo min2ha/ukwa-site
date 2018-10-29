@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# London Games Festival
-
 Website for the London games festival

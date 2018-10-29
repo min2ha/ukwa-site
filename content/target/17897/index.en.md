@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Marc Morris (@Longshanks1307) on Twitter
-
 Twitter account of Marc Morris, historian and author of 'King John: Treachery, Tyranny and the Road to Magna Carta'.

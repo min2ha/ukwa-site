@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Stirling Smith Art Gallery and Museum
-
 Site of museum and art gallery located in Stirling, Stirlingshire, Scotland.

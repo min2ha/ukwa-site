@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# East Neuk Organic Brewing & Distilling
-
 Site of a brewer and distiller located in Fife.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The status of "retained EU Law"
-
 Looks at the process of converting EU law into a new type of domestic law, who can change this new law and how
 

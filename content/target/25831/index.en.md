@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: New immigrants must speak English, says Ed Miliband
-
 None

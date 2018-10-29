@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Hertfordshire Family History Society 
-
 The Society was founded in 1977 and is a member of the Federation of Family History Societies and also a registered charity with a brief to educate and inform the public about genealogy with its focus on the county of Hertfordshire in the United Kingdom.

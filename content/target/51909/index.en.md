@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ferryhill Parish Church
-
 Ferryhill Parish Church is part of the national Church of Scotland. The church is located in Aberdeen. The minister of Ferryhill Parish Church runs a blog, "Peter's Blog", which is hosted on the parish website. 

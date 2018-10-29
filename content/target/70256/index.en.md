@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WU19EURO2017 (@WU19EURO2017) on Twitter
-
 The official Twitter page for the UEFA Women's Under 19 Championship in Northern Ireland (2017).

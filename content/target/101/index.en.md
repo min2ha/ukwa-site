@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chesterfield Royal Hospital
-
 None

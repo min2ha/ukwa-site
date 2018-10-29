@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# PURE architecture and design
-
 PURE architecture and design was established in early 2008 when architect and designer, Llewellyn Cheng, and interior designer, Amy Lee.

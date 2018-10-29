@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Department for Education: Leaving the EU risks a lost generation
-
 The Education Secretary warns of the devastating impact a vote to leave the EU will have on young people’s life chances.

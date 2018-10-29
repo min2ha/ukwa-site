@@ -11,8 +11,6 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The Wombwell WW1 Memorial Trail Archive  
-
 In and around the Wombwell area are a number of sites that record the loss
  to the local communities during world conflicts. This website shows you where these sites are
  and allows you to read more about these people and to upload information you may have

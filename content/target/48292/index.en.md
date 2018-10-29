@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Millstream | Public Procurement Services
-
 Company providing eProcurement systems and training to purchasers in the public sector.

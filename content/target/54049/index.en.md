@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Peter Whittle AM (@prwhittle) on Twitter (UKIP Politician)
-
 Peter Whittle stood as UK Independence Party (UKIP) candidate for South Basildon and East Thurrock in the 2017 General Election but was not elected.
 He is also Deputy Leader of UKIP and a London Assembly Member.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Indepedent: EU referendum: David Cameron gives Conservative ministers freedom to campaign for a 'leave' vote
-

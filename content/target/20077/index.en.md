@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Digital Commonwealth
-
 A Commonwealth Games project based at University of the West of Scotland. Digital Commonwealth was active in delivering community media cafes and digital storytelling workshops, a schools programme and community reporting initiative for the Queen’s Baton Relay.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage defends and denies 'straightforward' tax avoidance
-
 None

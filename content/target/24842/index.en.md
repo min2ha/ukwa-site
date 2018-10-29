@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Keith Fraser (UKIP)
-
 Keith Fraser stood as UKIP candidate for Hackney North & Stoke Newington at the 2015 General Election but was not elected.

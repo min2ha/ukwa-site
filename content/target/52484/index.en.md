@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Louise Rowntree (@Louise_Rowntree) on Twitter (Liberal Democrat  Politician)
-
 Louise Rowntree stood as Liberal Democrat candidate for Chelsea and Fulham in the 2017 General Election but was not elected.

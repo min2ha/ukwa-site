@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kendal Rugby Club (@KendalRUFC) on Twitter
-
 The official Twitter account of Kendal Rugby Club.

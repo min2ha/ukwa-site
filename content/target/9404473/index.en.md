@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Peter Chasseaud Artist and Writer
-
 None

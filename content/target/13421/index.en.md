@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Nicola Sturgeon (NicolaSturgeon) on Twitter
-
 The twitter profile of Nicola Sturgeon - Scottish National Party Leader, First Minister and Member of the Scottish Parliament for Glasgow Southside.

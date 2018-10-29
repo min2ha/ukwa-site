@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huw Irranca-Davies MP on Facebook
-
 Labour Parliamentary Candidate for Ogmore.

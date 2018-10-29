@@ -10,5 +10,3 @@
   "start_date": "2017-04-28T09:00:00Z"
 }
 
-# Dolgellau Athletic Amateur Football Club
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Fiona Dent (@FionaDentLabour ) on Twitter (Labour Party Politician)
-
 Fiona Dent stood as Labour Party candidate for Runnymede and Weybridge at the 2017 General Election but was not elected.

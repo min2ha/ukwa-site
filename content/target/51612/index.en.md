@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Foutainbridge Canalside Initiative
-
 Site of a group of hyper-local community activists based in the Fountainbridge area of west Edinburgh, and working to ensure a viable and sustainable new local community is developed on the former Scottish & Newcastle brewery site.

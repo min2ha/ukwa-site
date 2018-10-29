@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# James Donaldson & Sons
-
 James Donaldson & Sons processes, manufactures and distributes timber and engineered timber products to the building and construction industry. The company is based in Fife, Scotland. 

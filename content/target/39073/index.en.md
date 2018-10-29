@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Walter Tull - local hero?
-
 The play 'Tull' will focus on the heritage aspects of Walter Tull as the first black player for Tottenham Hotspur and one of the first black soldiers to have fought in the First World War and been promoted to officer.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# South East Cambridgeshire Liberal Democrats
-
 Website of South East Cambridgeshire Liberal Democrats, providing information on county and district councillors, campaigns, local and national news.

@@ -10,5 +10,3 @@
   "start_date": "2018-09-13T09:00:00Z"
 }
 
-# RCA: Again for Tomorrow
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lewisham Health and Wellbeing Board
-
 None

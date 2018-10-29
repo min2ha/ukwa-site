@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Forrester Rugby Club
-
 Site of a Scottish rugby union football club based in western Edinburgh.

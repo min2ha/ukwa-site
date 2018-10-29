@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# London East Asia Film Festival 2018
-
 Website for the London East Asia Film Festival 2018.

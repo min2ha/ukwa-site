@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Lamont (John2Win) on Twitter
-
 Twitter profile of John Lamont, Scottish Conservative and Unionist Party candidate for Berwickshire, Roxburgh and Selkirk in the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Black Country
-
 None

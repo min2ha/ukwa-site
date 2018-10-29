@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Big Cheese Caerphilly, The 
-
 The Big Cheese Festival is annual festival held at Caerphilly Castle and brings together local and regional Welsh food & drink producers in one of the largest travelling food halls in the country. 

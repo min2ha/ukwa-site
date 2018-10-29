@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Oystermouth Parish
-
 Oystermouth Parish is an active family church serving the community of Oystermouth and visitors alike. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food & Rural Affairs: Environment Secretary publishes bill to strengthen animal welfare
-
 The Government has published a draft bill - Animal Welfare (Sentencing and Recognition of Sentience) - which would increase the maximum prison sentence for animal cruelty tenfold, from six months to five years, in England and Wales. The draft bill also sets out that the government “must have regard to the welfare needs of animals as sentient beings in formulating and implementing government policy”. 

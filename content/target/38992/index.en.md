@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum campaigns are failing to win women over, new poll warns
-

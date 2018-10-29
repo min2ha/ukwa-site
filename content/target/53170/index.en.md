@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ieuan Wyn Jones (@Rhosmeirch) on Twitter
-
 Ieuan Wyn Jones is the Plaid Cymru candidate for Ynys Mon at the 2017 General Election.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How representative are our MPs now? More are women, more are from ethnic minorities … but middle-class white men still dominate
-
 None

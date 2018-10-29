@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: What sort of Brexit does Philip Hammond want?
-
 What does Chancellor Philip Hammond's increasingly vocal stance on Brexit say about his intentions, his prime minister and his party? Is the chancellor intent on using his soft power to take on the hard Brexiteers? He's certainly using it to isolate one very vulnerable prime minister.

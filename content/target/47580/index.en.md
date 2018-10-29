@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Rohan Quine - the Imagination Thief
-
 This is the online hub for Rohan Quine's novels and novellas. These publications are literary fiction with a touch of magical realism and horror.

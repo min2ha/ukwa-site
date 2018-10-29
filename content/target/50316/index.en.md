@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Tonbridge Castle
-
 Tonbridge Castle Reputedly England's finest example of a Motte and Bailey Castle with a splendid 13th Century Gatehouse.

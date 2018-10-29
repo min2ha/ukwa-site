@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clatterbridge Cancer Centre, The
-
 None

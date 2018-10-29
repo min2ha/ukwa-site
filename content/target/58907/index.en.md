@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# South Wales Multiple Sclerosis Therapy Centre, The
-
 The South Wales Multiple Sclerosis Therapy Centre aims to be a focus for Multiple Sclerosis (MS) in its large catchment area of South Wales and provide a centre with all the facilities that are available to help sufferers manage their illness so to lead as normal a life as possible.

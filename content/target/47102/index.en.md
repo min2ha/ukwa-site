@@ -10,5 +10,3 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Cyngor Iechyd Cynumedol Caerdydd a Bro Morgannwg | Cardiff and Vale of Glamorgan Community Health Council
-

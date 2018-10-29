@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Committee on Climate Change (CCC)
-
 The Committee on Climate Change (CCC) is an independent, statutory body established under the Climate Change Act 2008. Their purpose is to advise the UK Government and Devolved Administrations on emissions targets and report to Parliament on progress made in reducing greenhouse gas emissions and preparing for climate change.

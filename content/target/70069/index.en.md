@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# PCS Union (@pcs_union) on Twitter
-
 UK trade union for civil and public servants, and private sector workers on government contracts. Standing up for public services and social justice.

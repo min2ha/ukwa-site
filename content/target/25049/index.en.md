@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed Miliband's big lie on the Scots
-
 None

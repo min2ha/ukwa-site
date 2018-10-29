@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour's 'ground war' advances into Thatcher territory
-
 None

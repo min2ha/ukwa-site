@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Hamilton Ice Rink
-
 Blogger site for a multi-sports centre, mainly focusing on ice hockey, ice skating and curling, based in Hamilton, South Lanarkshire.

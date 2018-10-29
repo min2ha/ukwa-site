@@ -10,5 +10,3 @@
   "start_date": "2015-12-18T09:00:00Z"
 }
 
-# Glasgow Print Studio
-

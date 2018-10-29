@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Frank Field (@Frankfieldteam) on Twitter (Labour candidate for Birkenhead)
-
 Frank Field's Twitter

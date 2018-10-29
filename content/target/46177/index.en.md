@@ -10,6 +10,4 @@
   "start_date": "2016-10-14T10:00:00Z"
 }
 
-# Twitter for Mod nan Eilean Siar 2016
-
 Twitter for Mod nan Eilean Siar

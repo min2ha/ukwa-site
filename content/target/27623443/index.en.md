@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# West Yorkshire Geology Trust
-
 None

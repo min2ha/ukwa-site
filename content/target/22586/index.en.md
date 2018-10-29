@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron promises '7 day week' NHS but admits election is on a 'knife edge' 
-
 None

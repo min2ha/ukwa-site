@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Caroline Robinson, Green Party on Facebook
-
 None

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Angry Medic, The
-
 None

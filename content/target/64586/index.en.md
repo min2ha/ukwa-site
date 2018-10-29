@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Dr Beynon's Bug Farm
-
 Dr Beynon's Bug Farm is a 100 acre working farm, research centre and visitor attraction all about invertebrates ('bugs') and sustainable agriculture based near St Davids.

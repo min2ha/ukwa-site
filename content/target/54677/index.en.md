@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Alastair Cook
-
 Site of a Scottish architect, artist and academic based on the east coast of Scotland.

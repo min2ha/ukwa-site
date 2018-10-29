@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Shame TV debates chicken David Cameron with empty podium, say People readers
-
 None

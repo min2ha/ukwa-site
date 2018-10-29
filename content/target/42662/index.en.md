@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Save the Cremorne
-
 The "Save the Cremorne" campaign is fighting to STOP the building of a Crossrail 2 station within the Cremorne Estate AND the demolition of ANY part of the estate or its shop parade.

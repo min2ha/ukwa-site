@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Alechemy Brewing Ltd
-
 Site of a brewer located in Livingston West Lothian, making hand crafted real ale.

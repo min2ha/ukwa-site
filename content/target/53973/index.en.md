@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Neil Blackburn (@PirateBlackburn) on Twitter (Pirate Party Politician)
-
 Neil Alexander Blackburn stood as the Pirate Party UK candidate for Manchester Central in the 2017 General Election but was not elected.

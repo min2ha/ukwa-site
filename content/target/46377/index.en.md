@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T10:00:00Z"
 }
 
-# Rebecca Naden Photography
-
 Rebecca Naden is full time professional photographer based in Pembrokeshire and has over thirty years of experience in taking sports action photographs to photograph wildlife.

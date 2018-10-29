@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:59.707554", 
+  "date": "2018-10-29T13:22:05.474886", 
   "open_access": false, 
   "target_url": "http://www.dalkeybookfestival.org/", 
   "description": "Festival organised by Zurich", 
   "end_date": null, 
   "title": "Zurich Dalkey Book Festival", 
-  "record_id": "20181029T125459/HM8tgZNi//I5SWYMbpyjjA==", 
+  "record_id": "20181029T132205/HM8tgZNi//I5SWYMbpyjjA==", 
   "publisher": "dalkeybookfestival.org", 
   "start_date": null
 }
-
-# Zurich Dalkey Book Festival
 
 Festival organised by Zurich

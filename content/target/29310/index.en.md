@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T11:00:00Z"
 }
 
-# Medrwn Môn
-
 Medrwn Môn is an independent agency providing support and advice to voluntary organisations and community groups in the Isle of Anglesey.

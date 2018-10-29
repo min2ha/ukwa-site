@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Brands jump on the election bandwagon: advertising roundup
-
 None

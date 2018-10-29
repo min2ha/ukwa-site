@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cylchgrawn Culture Cymru Magazine
-
 Cymru Culture is a free online magazine whose contributors include Leanne Wood, leader of Plaid Cymru.

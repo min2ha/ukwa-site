@@ -10,5 +10,3 @@
   "start_date": "2015-04-27T09:00:00Z"
 }
 
-# Orthodox Christian Church Wales
-

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jonathan Djanogly on Facebook (Conservative candidate for Huntingdon)
-
 None

@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Chartered Society for Physiotherapy: Assembly elections 2016
-

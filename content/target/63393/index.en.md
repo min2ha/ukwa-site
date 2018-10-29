@@ -11,7 +11,5 @@
   "subject": "Stephen Hawking"
 }
 
-# 5 Ways to Celebrate Stephen Hawking’s Life and Work
-
 
 The stylish monthly magazine for those who love town and country life, featuring fashion, interiors, food, property and luxury travel. An article on how to celebrate Stephen Hawking

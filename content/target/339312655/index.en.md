@@ -10,5 +10,3 @@
   "start_date": "2015-10-20T00:00:00Z"
 }
 
-# Tori James
-

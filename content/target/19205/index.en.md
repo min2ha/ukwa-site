@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Legal Cheek: Government Magna Carta law summit hit again — Lord Green bails as keynote speaker
-

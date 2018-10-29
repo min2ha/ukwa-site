@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hindu Council UK 
-
 A council founded in 1994 for all Hindus in the UK combining all Hindu denominations and communities.

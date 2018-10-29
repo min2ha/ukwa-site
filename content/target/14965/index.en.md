@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cheadle and Bremhall news
-

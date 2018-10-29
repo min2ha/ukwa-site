@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# From Blue Line to Front Line (Policemen of Devon and Cornwall in WW1)
-

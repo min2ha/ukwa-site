@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# World : Nae Place For Nuclear Weapons
-
 Site of Scottish campaign to ban nuclear weapons from Scotland.

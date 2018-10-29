@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# Friends of the Elderly
-
 None

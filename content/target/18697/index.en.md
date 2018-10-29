@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Diocese of Salisbury: Justice, Mercy and Magna Carta
-

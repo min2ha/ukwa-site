@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ealing Hospital NHS Trust
-
 None

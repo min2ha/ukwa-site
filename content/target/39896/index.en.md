@@ -10,7 +10,5 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# Scottish Education and Action for Development
-
 Site of a Scottish charity set up to challenge the causes of poverty, social injustice and environmental degradation
 and to support the community-based movement for positive social change.

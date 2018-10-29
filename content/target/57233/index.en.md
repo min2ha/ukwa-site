@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Raw mixture Publishing 
-
 Raw mixture is a publisher based in Heverfordwest, Pembrokeshire.

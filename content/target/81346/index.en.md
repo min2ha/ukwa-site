@@ -10,6 +10,4 @@
   "start_date": "2018-10-12T09:00:00Z"
 }
 
-# Discover Silverhojd
-
 Introduces the fictional Swedish town of Silverhojd, setting of TV series Jordskott

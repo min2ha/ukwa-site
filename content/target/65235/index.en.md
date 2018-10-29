@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Own It!
-
 A storytelling lifestyle brand telling stories across books, music, fashion and film. 

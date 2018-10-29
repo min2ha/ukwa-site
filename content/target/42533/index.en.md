@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Churches, schools and community groups holding events for Queen's birthday
-
 Local events to celebrate the Queen's birthday.

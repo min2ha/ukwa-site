@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dundee United Football Club.
-
 Site of a senior Scottish association football club based in the city of Dundee.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-09T09:00:00Z"
 }
 
-# British Science Week
-
 Website of the annual event promoting science in the UK organised by the British Science Association.

@@ -10,5 +10,3 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# ORCA - Orkney Research Centre for Archaeology
-

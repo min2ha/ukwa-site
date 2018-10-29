@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Elite UK Forces
-
 <p>Elite UK Forces website is dedicated to British elite units and special forces, including the Special Air Service, Royal Marines and Parachute Regiment.</p>

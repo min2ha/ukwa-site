@@ -10,6 +10,4 @@
   "start_date": "2015-09-04T10:00:00Z"
 }
 
-# Canolfan Ucheldre Centre
-
 The Ucheldre Centre is an arts centre located in Holyhead.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jean Urquhart on Facebook
-
 Facebook page of Jean Urquhart, RISE list candidate for Highlands and Islands region in the 2016 Scottish Parliamentary election.

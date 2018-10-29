@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Budget 2015: Eyes on the prize
-
 None

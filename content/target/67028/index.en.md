@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Rotary Dragon Boat Festival
-
 Website for the Rotary Dragon Boat Festival

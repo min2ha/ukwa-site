@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conversation, The: Brexit
-
 he Conversation is an independent source of news and views, sourced from the academic and research community

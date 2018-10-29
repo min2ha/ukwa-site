@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Airbus's warning over Brexit is blunt, timely and right
-
 "We hear precious little about any companies, foreign or domestic, boosting investment and creating jobs specifically because of the ‘exciting opportunities’ Leavers say will be offered by Brexit"

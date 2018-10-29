@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Cardiff for Europe | Caerdydd dros Ewrop
-
 Cardiff for Europe is a grassroots, cross-party and no-party pro-European organisation. It was established in 2018 following the merger of Cardiff for Europe and the Cardiff and Vale European Movement groups.

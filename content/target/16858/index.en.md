@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T06:00:00Z"
 }
 
-# Scottish Government website fail-over
-
 <p>Fail-over page for the Scottish Government website.</p>

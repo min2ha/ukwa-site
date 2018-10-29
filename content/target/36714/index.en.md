@@ -10,6 +10,4 @@
   "start_date": "2016-03-07T09:00:00Z"
 }
 
-# Eric Peake
-
 International Bird artist.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Riverside Christian Fellowship, Gorseinion
-

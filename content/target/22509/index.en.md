@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP-backed Labour government would leave UK looking like 'pre-crisis Spain', says US fund manager BlackRock
-
 None

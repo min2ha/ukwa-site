@@ -10,5 +10,3 @@
   "start_date": "2013-03-06T00:00:00Z"
 }
 
-# Friends of Llancaiach Fawr
-

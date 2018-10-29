@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Basschat.co.uk
-
 An online entusiast community concerned with bass guitars. Discusses events, equipment, builds, recording, theory & technique and various other related topics.

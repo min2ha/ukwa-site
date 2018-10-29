@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Muslim immigration is 'Trojan horse' invasion, Belgian MP tells Ukip audience
-
 None

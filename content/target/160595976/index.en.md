@@ -10,5 +10,3 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Llandaff Cathedral
-

@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Police and Crime Commissioner for Dyfed Powys: Help Hub
-
 Help Hub is provided by the Police and Crime Commissioner for Dyfed Powys and is a service for those coming to terms with crime or anti-social behaviour.

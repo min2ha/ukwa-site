@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Genetic Health
-
 None

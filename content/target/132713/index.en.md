@@ -10,6 +10,4 @@
   "start_date": "2016-02-15T09:00:00Z"
 }
 
-# Earthfall
-
 Earthfall is a dance theatre company based in Cardiff. 

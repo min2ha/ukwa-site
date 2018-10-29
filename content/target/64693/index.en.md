@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# North West Leicestershire District Council
-
 Website of North West Leicestershire District Council offers information about its services and news. It also provides access to committee papers, planning policy documentation, consultations, and budgets and spending.

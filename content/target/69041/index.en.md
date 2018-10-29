@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Swansea Excelsior Ladies Choir
-
 Swansea Excelsior Ladies Choir was formed in 1941 from the nucleus of the old Swansea Ladies Choir which was disbanded. In 2011 it celebrated its 70th anniversary. 

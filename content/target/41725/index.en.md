@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Andrew Dilnot (Uk Statistics Authority): Letter in reply to Will Moy (Full Fact)
-
 Letter discussing use of migration statistics by members of the Government

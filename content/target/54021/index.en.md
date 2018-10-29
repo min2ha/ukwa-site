@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Gallacher (@cgallppc) on Twitter (UK Independence Party (UKIP)  Politician)
-
 Chris Gallacher was the UK Independence Party (UKIP) candidate in the constituency of Redcar in the 2017 General Election.

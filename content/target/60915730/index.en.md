@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bradford North Circuit
-
 None

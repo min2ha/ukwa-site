@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Parkonians (@OldParkonians) on Twitter
-
 The official Twitter account of Parkonians Rugby Football Club.

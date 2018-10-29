@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Forage Poetry
-
 A quarterly online poetry magazine, focusing on themed issues

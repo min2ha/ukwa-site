@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Helmsdale Highland Games
-
 Site of a highland games located in Helmsdale, Sutherland, Highland, encompassing sport, dance and piping.

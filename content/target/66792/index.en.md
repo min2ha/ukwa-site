@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Palas Print, Caernarfon
-
 Palas Print is a independent books shop located in Caernarfon. It mainly sells Welsh language books.

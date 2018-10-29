@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# National Union of Journalists pays tribute to Mandela
-
 <p>Statements from Michelle Stanistreet, NUJ general secretary, Barry McCall, NUJ president, Frances O'Grady, TUC general secretary, and David Begg, general secretary of the Irish Congress of Trade Unions.</p>

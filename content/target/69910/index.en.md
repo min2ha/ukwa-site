@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John's, Stevenston
-
 Site of a Scottish Roman Catholic parish church located in Stevenston, Ayrshire and its associated church St. Mary's, Saltcoats.

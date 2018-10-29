@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Lonlas Gospel Mission
-

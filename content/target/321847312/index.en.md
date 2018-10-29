@@ -10,5 +10,3 @@
   "start_date": "2015-07-29T00:00:00Z"
 }
 
-# Latin Mass Society in the Diocese of Wrexham
-

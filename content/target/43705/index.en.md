@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Prac Crit
-
 An online journal of poetry and criticism, dedicated to reading contemporary poems up close.

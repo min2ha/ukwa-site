@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Harman and Osborne at odds over 'tone' of election campaign
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Wallacewell Community Fellowship
-
 Site of a Church of Scotland parish church in Glasgow.

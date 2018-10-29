@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May seeks to sell plan to Tory sceptics
-
 Reports on Tory MPs 'and Labour  reactions to the plan for UK-EU relations post-Brexit agreed by the Cabinet on July 6th 2018.

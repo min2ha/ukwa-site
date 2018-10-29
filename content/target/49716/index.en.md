@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Penumbra
-
 Site of a Scottish charitable organisation working to promote mental health and wellbeing for all, prevent mental ill health for people who are ‘at risk’, and to support people with mental health problems.

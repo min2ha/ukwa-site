@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Plas Brynkir during World War One – A German Prisoner of War Camp
-
 Brynkir is an abandoned estate in Dolbenmaen, near to the town of Porthmadog. The Brynkir estate has a rich history dating back to when it was Llewelyn the Great’s deer park in the thirteenth century, and later, a great estate for the Brynker family, one of the most influential families in North Wales. 

@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# Hire A Hero
-
 Hire a Hero supports Service Leavers and Veterans to make the successful transition into civilian life. Trained Hire a Hero staff, mentors and volunteers working with Service Leavers and Veterans to help them make the right choices through the transition period.

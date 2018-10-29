@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Women’s Sport Trust 
-
 Founded in 2012, Women’s Sport Trust raises the visibility and increases the impact of women’s sport through the promotion of diverse athlete role models, increasing media coverage and improving the funding landscape.

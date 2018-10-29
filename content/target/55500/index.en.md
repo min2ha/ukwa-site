@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Taktent: Internet and the People with Mental Health Problems
-
 Taktent: article about internet and people with mental health problems

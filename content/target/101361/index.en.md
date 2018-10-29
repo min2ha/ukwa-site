@@ -10,6 +10,4 @@
   "start_date": "2005-02-04T00:00:00Z"
 }
 
-# Proffesiynau Iechyd Cymru - Health Professions Wales
-
 URL has changed and is now a part of the Assembly website.

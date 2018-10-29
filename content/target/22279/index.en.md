@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Archie for DCT
-
 Website for Archie Dryburgh, Scottish Labour Party candidate for Dumfriesshire, Clydesdale and Tweeddale in the 7th May 2015 UK general elections.

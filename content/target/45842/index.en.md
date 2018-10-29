@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mail Online: David Cameron had to unleash the demons over Brexit: Former No10 chief CRAIG OLIVER on why the brutal referendum was inevitable 
-
 Craig Oliver, David Cameron's head of communications, discusses why the Conservatives called a referendum on Britain's EU membership and why they lost it.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kent Labour
-
 Website of Kent Labour, providing information on candidates and representatives and local, national and party news.

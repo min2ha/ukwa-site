@@ -10,5 +10,3 @@
   "start_date": "2007-08-28T00:00:00Z"
 }
 
-# Centre for Ecology and Hydrology
-

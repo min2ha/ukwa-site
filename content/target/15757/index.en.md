@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Little Loud
-
 <p>Little Loud is a creative studio producing games, experiences and animation for broadcasters, global brands and publishers across multiple platforms.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Stop smearing all Brexit voters as haters, Diane
-
 Left-wing politicians have unfairly seized on an unprovoked attack on a Kurdish asylum seeker in Croydon as more ‘proof’ that Britain has become a vicious, racist country since we voted to leave the EU.

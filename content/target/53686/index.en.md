@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Harry Potter and the £20k typo: One of 500 Philosopher's Stone first editions with rare mistake is to be auctioned in London
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Augustine's Church
-
 Site of a Scottish Roman Catholic church located at Coatbridge, Lanarkshire.

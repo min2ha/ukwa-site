@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Pyrotechnics Society Forums
-
 The UK Pyrotechnics society forum is an online enthusiast group concerned with pyrotechnics and fireworks. The forum discusses various aspects of pyrotechnics including Pyrotechnic Formula, Professional Fireworks, Special FX, UK Explosives Law & Legislation and various other related topics.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Gypsy Church South Wales on Facebook
-

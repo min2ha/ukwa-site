@@ -10,5 +10,3 @@
   "start_date": "2016-06-07T10:00:00Z"
 }
 
-# Laugharne Township Community Council | Cyngor Cymuned Trefgordd Talacharn
-

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Graham Jones - Internet Psychologist
-
 None

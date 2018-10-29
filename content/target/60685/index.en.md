@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Why Sports Media Group (WSMG)
-
 WHY Sports Media Group are an interest group who through a series of live events and associated online resource, seek to ensure all government policy related to sport & activity is disseminated to key delivery agents, wider stakeholders & interested parties. 

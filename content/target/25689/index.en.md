@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Small business owners' letter in Telegraph was orchestrated by Tories
-
 None

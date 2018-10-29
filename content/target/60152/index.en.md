@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Gaming disorder to be named a mental health condition for the first time
-
 News article about gaming disorder being recognised and classified by the World Health Organisation 

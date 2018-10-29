@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Russell Brand changes mind about voting and urges support for Labour
-
 None

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Radical Librarians Collective
-
 A collective of library workers opposed to marketisation of libraries and commodification of information

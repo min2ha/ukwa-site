@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales election 2011"
 }
 
-# UK Independence Party Wales (UKIP Wales)
-

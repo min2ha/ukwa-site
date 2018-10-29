@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Nigel Farage warns of Brexit 'anger' protests
-
 UKIP leader Nigel Farage warned of disturbances on the streets if Parliament tries to block Brexit.

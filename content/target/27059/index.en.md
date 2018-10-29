@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Campaign for a Lego Forth Rail Bridge kit on Facebook
-

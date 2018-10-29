@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Former diplomat to lead remainers' bid to shift public opinion on Brexit
-

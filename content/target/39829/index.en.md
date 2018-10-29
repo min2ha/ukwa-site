@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Tweeddale SNP (@TweeddaleSNP) on Twitter
-
 Twitter profile of the Tweeddale branch of the Scottish National Party (SNP).

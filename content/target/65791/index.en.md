@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# House of Lords (@UKHouseofLords) on Twitter
-
 News & information from the UK Parliament’s second chamber. Produced by its staff to show how the Lords checks and challenges the UK government.

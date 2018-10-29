@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: David Lynch hates graffiti, and Gerhard Richter is shocked by his own price at auction – the week in art
-

@@ -10,5 +10,3 @@
   "start_date": "2013-01-21T00:00:00Z"
 }
 
-# International Federation of Library Associations and Institutions (IFLA)
-

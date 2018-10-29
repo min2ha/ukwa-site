@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# stopthetori.es (@votetools) on Twitter
-
 Tactical voting to stop the Tories. There website is https://stopthetori.es/ 

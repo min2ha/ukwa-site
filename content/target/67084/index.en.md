@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Belhaven Brewery
-
 Site of a brewery and landlord / publican located in Dunbar, East Lothian.

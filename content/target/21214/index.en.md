@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Brown (@mr_mark_brown) on Twitter
-
 Twitter profile of Mark Brown, Conservative Party candidate for Na h-Eileanan an Iar in the 2015 UK General Election.

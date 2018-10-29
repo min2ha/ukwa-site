@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Taylor Burke Partnership - Financial advice you can trust
-
 The essence of our business is the Provision of Personal and Corporate face to face advise. There is no single solution, each individual has their own personal concerns, responsibility and ambitions and our advice is tailored accordingly. We provide our clients with advice that is based upon four key principles, Trust, Transparency, Service and Consistency of Advice.

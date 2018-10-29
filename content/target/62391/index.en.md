@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: The hidden message in Hammond’s EU speech
-
 Comments on Chancellor Philip Hammond's aspiration for financial services to be included in a post-Brexit UK-EU trade deal.

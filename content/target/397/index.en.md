@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Middlesbrough Health and Wellbeing Board
-
 None

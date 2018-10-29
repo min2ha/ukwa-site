@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daniel Hannan MEP (Conservative) on Twitter
-
 A Twitter account of Daniel Hannan, MEP and an active Leave campaign supporter. 

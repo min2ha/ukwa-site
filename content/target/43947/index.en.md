@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: Tax after the UK Referendum
-
 This short note discusses the possible implications of the UK leaving the EU for the UK tax system and collates the comment that has been made on this specific aspect of Brexit following the vote on the EU referendum.

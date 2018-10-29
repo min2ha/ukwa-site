@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Methodist Media on Twitter
-

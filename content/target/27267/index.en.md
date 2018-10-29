@@ -10,5 +10,3 @@
   "start_date": "2015-06-04T08:00:00Z"
 }
 
-# Grand Orange Lodge of Scotland
-

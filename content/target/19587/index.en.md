@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Swap your worlds
-
 Swap your worlds is putting together social events for French and English speakers, allowing them, once a month, to meet in a bar to practice one to one conversation in French and in English. 

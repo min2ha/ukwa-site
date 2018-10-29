@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hull Science Festival
-
 Weekend of science themed entertainment for the whole family

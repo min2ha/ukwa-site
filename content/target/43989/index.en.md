@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# MyimageoftheEU (@myimageoftheEU) on Twitter
-
 Gallery of #myimageoftheEU post images that define what you think of the EU and the #EUref. Run by the Neuropolitics Research Lab, University of Edinburgh.

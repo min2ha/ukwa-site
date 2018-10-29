@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit talks at risk of collapse as British cabinet ministers brand EU compromise on Irish border 'unacceptable'
-
 The Independent reports that the EU would try to break the deadlock in negotiations by offering the UK a vague political declaration on the future UK-EU relationship in return for a deal on the Irish border. Critically, EU officials were suggesting the withdrawal agreement could be accompanied by a non-binding political statement to be agreed with London, that would say the backstop would never be needed because it would be superseded by an eventual trade deal. The backstop involved Northern Ireland remaining in the customs union and the Single Market with a border between it and the rest of the UK.
 
 

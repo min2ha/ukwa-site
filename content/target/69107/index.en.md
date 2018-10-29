@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# SOAS Detainee Support
-
 SOAS Detainee Support attempts to break the isolation of immigration detention, and supports people to take control of their cases and resist their imprisonment and deportation. It started in 2005 as a campaign run by SOAS students for two Ugandan twins, Judith and Maria. 

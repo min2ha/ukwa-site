@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Bradford West Labour candidate Naz Shah: 'I lost my childhood'
-

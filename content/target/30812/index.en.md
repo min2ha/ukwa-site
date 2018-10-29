@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BCS Acedemy of Computing
-
 The BCS Academy of Computing is a learned society dedicated to advancing computing as an academic discipline.

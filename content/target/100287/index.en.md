@@ -10,5 +10,3 @@
   "start_date": "2005-02-16T00:00:00Z"
 }
 
-# Centre for Evidence Based Medicine (CEBM)
-

@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Manchester Irish Festival
-

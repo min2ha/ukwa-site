@@ -10,6 +10,4 @@
   "start_date": "2015-03-17T13:00:00Z"
 }
 
-# Red Nose Day
-
 None

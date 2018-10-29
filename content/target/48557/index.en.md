@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gibraltar... the Unofficial Gibraltar Homepage  
-
 Gibraltar... the Unofficial Gibraltar Homepage  

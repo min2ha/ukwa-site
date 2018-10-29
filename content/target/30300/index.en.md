@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Old Jewish Jokes
-
 'Ivor Dembina: Old Jewish Jokes' tells the story of a modern Jewish comedian invited to perform at a synagogue benefit function, but who, upon arrival at the venue for the show, is given a shopping list of subjects he is not allowed to joke about. 

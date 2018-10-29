@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hall Green Branch Labour Party
-
 Website of Hall Green Branch of the Labour Party, providing information on their activities and MPs and local councillors. Website includes monthly archives of community news.

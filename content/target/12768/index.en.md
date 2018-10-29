@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Sports Aid
-
 <p>SportsAid Scotland is a charity that helps the sports stars of tomorrow today by giving them cash awards during the defining early years of their careers. SportsAid Scotland has supported 113 of the 310 athletes representing Scotland at the Glasgow Commonwealth Games.</p>

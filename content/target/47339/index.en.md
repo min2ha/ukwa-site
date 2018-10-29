@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Manipulate Festival
-
 manipulate Visual Theatre Festival stages visual theatre and animation in Edinburgh, Aberdeen and in satelittes across the UK.

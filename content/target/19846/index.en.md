@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015 is unprecedented chance for Wales, says Wood
-

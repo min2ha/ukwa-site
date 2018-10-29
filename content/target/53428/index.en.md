@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Bowman (@JohnBowman1210) on Twitter (Green Party  Politician)
-
 John Bowman stood as Green Party candidate for Hayes and Harlington and the 2017 General Election but was not elected.

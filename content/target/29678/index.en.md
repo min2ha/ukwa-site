@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stoke Literary Festival 'Hot Air'
-
 Stoke Literary Festival 'Hot Air'

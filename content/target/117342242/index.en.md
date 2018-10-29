@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Poor Folk Upon the Moors, The: The Sherlock Holmes society of the South West of England
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Mull Highland Games on Facebook
-
 Facebook page of a highland games at Tobermory, Mull, Argyll & Bute.

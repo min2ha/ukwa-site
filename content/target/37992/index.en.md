@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Britain’s values were founded in Europe – how can we leave? 
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints Church, Hanworth
-
 All Saints Hanworth is a friendly Anglican (Church of England) congregation, committed to showing God’s love to each other and the community.

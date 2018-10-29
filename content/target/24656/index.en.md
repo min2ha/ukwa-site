@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Julian Huppert (@julianhuppert) on Twitter (Liberal Democrats  Politician)
-
 Julian Huppert stood as Liberal Democrats candidate for Cambridge at the 2017 General Election but was not elected to serve as MP. He was first elected MP for Campridge in 2010 and was re-elected in 2015.

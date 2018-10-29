@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester Evening News: Tour de France
-
 None

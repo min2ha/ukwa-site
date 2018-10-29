@@ -10,5 +10,3 @@
   "start_date": "2015-03-11T00:00:00Z"
 }
 
-# Arolygu Cymru | Inspection Wales
-

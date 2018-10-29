@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Natural Instinct
-
 Natural Instinct raw dog food and raw cat food uses human-grade meat and nutritious vegetables. The choice of award-winning dog breeders.

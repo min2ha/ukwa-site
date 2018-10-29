@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# UK Science Festivals Network
-
 Website for the UK Science Festivals Network

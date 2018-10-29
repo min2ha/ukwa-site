@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North East Yorkshire and Humber Clinical Alliance
-
 None

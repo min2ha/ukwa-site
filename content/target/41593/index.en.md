@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Black Dyke Band
-
 The web site has information on the events, achievements and available recordings of the band. All our latest recordings and souvenirs are available from our re-designed on-line shop.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bishopton Rugby Club
-
 Site of a Scottish rugby union football club based in Bishopton, Renfrewshire.

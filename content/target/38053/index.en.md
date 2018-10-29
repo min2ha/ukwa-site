@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Richmond In Europe (@RichmondEurope)
-
 Richmond local campaign for the UK to stay in the EU

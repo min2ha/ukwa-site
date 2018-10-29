@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Religion Law UK
-
 None

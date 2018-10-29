@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jayne Baxter MSP (jayniebax) on Twitter
-
 The twitter profile of Jayne Baxter, Labour MSP for Mid Scotland and Fife.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Telegraph, The: Technology Blog
-
 Technology blog from a major UK newspaper.

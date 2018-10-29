@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Battleground Britain: gauging the nation's post-election mood
-
 None

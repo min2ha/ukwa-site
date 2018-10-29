@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Man called Michael Green to stand against Grant Shapps in election
-
 None

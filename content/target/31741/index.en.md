@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Mwldan
-
 Mwldan is an arts and entertainment complex situated in the centre of Cardigan.

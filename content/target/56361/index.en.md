@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# ἹΣΤΟΡΊΑ 
-
 The blog is by amateur historian Louvaine Rees and specialises on the history of Bridgend and surrounding areas.

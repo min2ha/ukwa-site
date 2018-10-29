@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Harry Potter: A History of Magic on Google Arts & Culture
-
 Officially launched at St Pancras on Tuesday 27 February with key partners from Google, Harry Potter: A History of Magic includes many newly commissioned digital experiences by the Library. The site shares hundreds of the objects from the London exhibition (Fri 20 Oct 2017 - Wed 28 Feb 2018 ) as well as 15 original online stories. This online resource is also available in six languages - English, Spanish, French, German, Hindi and Brazilian Portuguese with more to be added soon.

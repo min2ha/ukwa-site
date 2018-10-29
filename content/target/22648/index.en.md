@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Beware of Labour 'tax pickpocket' warns David Cameron 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Airshow Review Forum
-
 An online enthusiast community concerned with UK-based airshows. Discusses aviation photography, UK airshows & events, international airshows, aircraft modelling and various related topics.

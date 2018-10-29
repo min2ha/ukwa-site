@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Allegro Poetry
-
 Quarterly online poetry magazine

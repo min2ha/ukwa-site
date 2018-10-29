@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Stand Up to Racism
-
 Pressure group which confronts racism, Islamophobia, anti-Semitism through a programme of events and demonstrations.

@@ -11,8 +11,6 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Ghosts of the  Skies
-
 Ghosts of The Skies marks the centenary of the First World War.
 
 

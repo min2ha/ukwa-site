@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Stalking Directory Forum
-
 An online enthusiast forum concerned with deer stalking in the UK. Discusses deer stalking, firearms, accessories, ammunition, training and various other related topics.

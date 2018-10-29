@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Complex care Information and Support Site (CCISS)
-
 Information on this site is to support health and social care practitioners to implement the National Framework for Continuing NHS Healthcare in Wales.

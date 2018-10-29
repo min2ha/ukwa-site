@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Abortion Rights: Manifesto UK General Election 2017
-
 The Abortion Rights 2017 Election Manifesto.

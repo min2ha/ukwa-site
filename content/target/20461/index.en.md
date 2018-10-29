@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Generation Gap? A totally phoney war is more the case
-
 None

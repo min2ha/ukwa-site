@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Osborne should spell out welfare cuts, says IFS
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-07-24T09:00:00Z"
 }
 
-# Ivan McKee MSP
-
 Ivan McKee is Scottish National Party Member of the Scottish Parliament for Glasgow Provan.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Reading F.C.
-
 Reading Football Club is a professional association football club based in Reading, Berkshire, England. The team play in the Championship, the second tier of English football. Reading are nicknamed The Royals, due to Reading's location in the Royal County of Berkshire, though they were previously known as The Biscuitmen, due to the town's association with Huntley and Palmers. Established in 1871, the club is one of the oldest teams in England

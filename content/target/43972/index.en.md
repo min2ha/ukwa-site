@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum: A guide to the 'In' and 'Out' campaign groups
-
 An introduction to the key groups receiving media coverage during the EU Referendum campaign.Britain Stronger In Europe, Vote Leave and Leave.EU are the groups.

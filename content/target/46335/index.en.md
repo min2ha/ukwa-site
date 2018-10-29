@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Skeleton Argument of the Secretary of State for Northern Ireland and Secretary of State for Exiting the European Union
-
 The Applicants in these proceedings seek leave to apply for judicial review of the intention of the government to use the Royal Prerogative to invoke Article 50 of the Treaty of the European Union (“TEU”) following the result of the referendum held on 23rd June 2016 in which the majority of those who voted, voted in favour of the United Kingdom leaving the EU

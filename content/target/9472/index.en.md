@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Authors' Licensing and Collecting Society: manifesto
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Equality and Human Rights Commission
-
 The Equality and Human Rights Commission (EHRC) is a non-departmental public body in Great Britain that was established by the Equality Act 2006. The Commission has responsibility for the promotion and enforcement of equality and non-discrimination laws in England, Scotland and Wales.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The:  Brexit Relax, everyone, a no-deal Brexit (probably) won’t happen
-

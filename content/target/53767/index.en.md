@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Julian Brazier (@julian_brazier ) on Twitter (Conservative  Politician)
-
  Julian Brazier stood as Conservative candidate for Canterbury and Whitstable at the 2015 General Election. He was first elected to serve as MP for Canterbury and Whitstable in 1987 and has held the seat ever since. He then stood for re-election again in 2017 but was not elected MP.

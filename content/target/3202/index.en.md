@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T08:00:00Z"
 }
 
-# Wildlife Sound Recording Society
-
 The Wildlife Sound Recording Society's aim is to encourage participation in the collection of the wildlife sounds, and to promote the need to understand their meanings. Through its members, the society fosters developing recording skills and techniques as well as promoting the study of bioacoustics. 

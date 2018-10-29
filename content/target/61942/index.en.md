@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Everton (@Everton ) on Twitter
-
 Everton Football Club is a football club in Liverpool, England, that competes in the Premier League, the top flight of English football. 

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Belfast Telegraph, The: Brexit begins: Northern Ireland reaction as Article 50 triggered
-
 Brexit begins: Northern Ireland reaction as Article 50 triggered

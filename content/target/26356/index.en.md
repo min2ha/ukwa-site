@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Al Murray, the Pub Landlord: ‘I’m not worried about polling 1%’
-
 None

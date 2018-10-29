@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mail on Sunday, The: Theresa May can still convince MPs to quit the customs union, minister insists, amid claims she is ready to surrender to Remain 'stitch up' in defiance of Brexiteers
-
 Reports that Theresa May would not fight a Commons defeat over remaining in an EU customs union. There are claims that Brexiteers led by David Davis are furious at this betrayal.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Russell Group: 2017 General Election briefing
-
 The UK’s world-class higher education system has huge social, economic and cultural benefits. The Russell Group is asking all political parties to build on this excellence by prioritising EU workers and students in the Brexit negotiations and introducing an immigration system that supports universities  to attract and retain international talent. It also asks that a future government continues plans to deliver an industrial strategy with universities at its heart, prioritises long-term investment in science and research, and ensures sufficient funding for undergraduate teaching so we can deliver a high quality student experience for all.

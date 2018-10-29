@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# European Research Group: UK Migration Policy Post-Brexit
-
 The central objective of our new migration policy should be to ensure control over the movement of people. Using a combination of work permits and a cap, the UK should look to control access to work and rights to settlement. Free movement for EU citizens for other purposes such as tourism and short term business visits should be preserved but access to UK benefits should be curtailed.
 
 

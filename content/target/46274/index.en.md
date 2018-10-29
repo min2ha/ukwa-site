@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# UKIP West Wales
-
 UKIP West Wales Branch website which covers the constituencies of ‘Carmarthen West and South Pembrokeshire’ and Preseli Pembrokeshire.

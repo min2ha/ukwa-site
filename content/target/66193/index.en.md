@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tribal Hearts
-
 Combines many elements of natural living with family life, aiming to support parents in raising a healthy, happy tribe. With an emphasis on creativity, play and nature for children to immerse themselves in.

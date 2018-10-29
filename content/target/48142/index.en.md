@@ -10,6 +10,4 @@
   "start_date": "2017-01-10T09:00:00Z"
 }
 
-# Retrospect Journal
-
 Edinburgh University History Society's journal site.

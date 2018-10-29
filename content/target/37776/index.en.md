@@ -10,6 +10,4 @@
   "start_date": "2016-03-22T09:00:00Z"
 }
 
-# Ymlaen - Forward Unison
-
 YMLAEN UNISON Branch support members working in the Community & Voluntary Sector in Wales.

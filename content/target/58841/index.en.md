@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Beannachar Camphill Community
-
 Site of a Scottish charitable Camphill community providing training for young adults with special needs, established under the Camphill ethos; dedication to building communities where everyone can find purpose and belonging.

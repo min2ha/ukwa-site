@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# GQ Magazine: Ah idiot's guide to the political party manifestos
-
 As party officials stare at blank word documents and in back rooms with ideas scrawled onto white boards, here’s a look at what we’re likely to see from the political party manifestos for the 2017 general election.

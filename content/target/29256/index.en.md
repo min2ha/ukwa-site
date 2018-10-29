@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of Dundee: Literary Dundee
-
 Dundee Literary Festival organised by the University of Dundee

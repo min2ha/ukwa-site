@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Now yew'll live for ever, Magna Carta: Tree that bore witness as King John sealed Charter saved for eternity
-

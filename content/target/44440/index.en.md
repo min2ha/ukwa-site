@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Debating Europe: Arguments for and against EU referendums
-
 An article debating the pros and cons of an EU Referendum

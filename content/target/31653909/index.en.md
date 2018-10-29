@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Library's Facebook
-

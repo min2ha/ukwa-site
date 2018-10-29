@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival Board Game
-
 Website for Festival Board Game.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig Duncan on Facebook
-
 This is the Facebook page of Craig Duncan, the Liberal Democrats candidate for Dundee East in the UK General Election on the 7th May 2015 and Dundee City East in the 2016 Scottish Parliamentary election.

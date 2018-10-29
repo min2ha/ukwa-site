@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Nukewatch 
-
 Nukewatch monitor and track the movement of British WMD's from Aldermaston in Berkshire to Coulport on the West coast of Scotland.

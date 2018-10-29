@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Southampton & Romsey Labour Party
-
 Website of Southampton & Romsey Labour Party, providing information on MPs and councillors, events, meetings and local, national and party news.

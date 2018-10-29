@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Welsh Football Fans on Facebook
-
 A Facebook page for Welsh Soccer fans

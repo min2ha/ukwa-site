@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Black youth ask politicians: 'How can we trust you?'
-
 None

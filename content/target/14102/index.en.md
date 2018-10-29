@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Bow Group, The: The growing phenonemon of regional nationalism in Europe: Cataluna and Scotland
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chatham House, The Royal Institute of International Affairs: 'Brexit' Could Put Data Sharing in Jeopardy
-
 Royal Institute of International Affairs article on the impact of Brexit on data sharing

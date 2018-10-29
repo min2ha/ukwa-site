@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: After 40 years of being lied to, it's time to leave the EU
-

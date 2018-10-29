@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May's fury as Chancellor warns no-deal Brexit could wipe TEN PER CENT off UK's national income - just hours after Dominic Raab dismissed 'wild' scare stories and said it would not impact consumers
-

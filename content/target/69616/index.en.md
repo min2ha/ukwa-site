@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Sort
-
 SORT is a London-based multidisciplinary creative studio, with an independent zine at its core.

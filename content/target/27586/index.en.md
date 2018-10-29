@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Commons has more gay MPs than any other parliament in the world
-
 None

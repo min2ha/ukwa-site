@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Natasha Baker Para Dressage
-

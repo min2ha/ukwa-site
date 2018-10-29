@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Embassy of the Kingdom of the Netherlands in London
-
 The website of the Netherlands embassy offers news, travel advice, and information on trade and investment.

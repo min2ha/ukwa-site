@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Midlothian Science Festival
-

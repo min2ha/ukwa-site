@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Brexit would STRENGTHEN national security, blasts former Army Commander 
-
 Comment by Col Richard Kemp

@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Stirling Sees Syria
-
 The Facebook page to organise the Stirling Sees Syria and Bloody Scotland sees Syria events, part of a series of vigils marking the deaths of Syrian refugees.

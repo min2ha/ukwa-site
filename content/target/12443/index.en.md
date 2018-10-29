@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Virgin Media: Commonwealth Games 2014
-
 None

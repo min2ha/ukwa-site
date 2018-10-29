@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Green Gathering, The
-
 The Green Gathering is a family renewable community sustainable workshops arts festival celebration held in Chepstow.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Welfare Football Association
-
 Site of the development and governing body of welfare football in Scotland, providing low cost local football for teams that otherwise could not play.

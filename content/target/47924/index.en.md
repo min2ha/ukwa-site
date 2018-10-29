@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Gargunnock
-
 Community WordPress website focusing of the village of Gargunnock, Stirlingshire, Scotland.

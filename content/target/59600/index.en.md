@@ -10,6 +10,4 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# World of Wedgwood
-
 The World of Wedgwood, a unique, interactive visitor centre experience celebrating the very best of British craftsmanship. Experience Wedgwood for the day through shopping, food, visitor tours and art and craft workshops.

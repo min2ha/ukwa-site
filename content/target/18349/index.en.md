@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# The 10 Twitter accounts you should follow in Wales as the election draws closer 
-

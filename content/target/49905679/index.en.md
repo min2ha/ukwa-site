@@ -10,5 +10,3 @@
   "start_date": "2010-07-02T00:00:00Z"
 }
 
-# Croeso i'r Wefan Fforwm Hanes Cymru | Welcome to the History Forum for Wales
-

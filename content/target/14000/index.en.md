@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Labour: Best of Both Worlds animation
-
 <p>A short animation produced by Scottish Labour to campaign in favour of the 'No' vote in the Scottish Independence referendum. The film proposes a choice between more devolution or separation from the rest of the UK.</p>

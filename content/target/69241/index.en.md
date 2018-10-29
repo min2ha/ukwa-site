@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Paul the Apostle Parish Shettleston on Facebook
-
 Site of a Roman Catholic church in Scotland for the parish o fSt. Paul the Apostle Parish Shettleston, Glasgow.

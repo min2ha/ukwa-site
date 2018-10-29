@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Occasionally glamorous life of an Edinburgh política, The
-
 Hannah Bettsworth is the Scottish Liberal Democrats candidate for the Lothian list in the 2016 Scottish Parliament election.

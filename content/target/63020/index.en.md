@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Georgia May Foote slams social media for its damaging effect on people’s mental health
-
 News article in which Coronation Street actress Georgia May Foote talks about her mental health and the negative impact that social media has on mental health in general

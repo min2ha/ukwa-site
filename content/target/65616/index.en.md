@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Spare us Miliband, Clegg and Morgan, this trio of nauseating Remoaners who claim to put their country first!   
-

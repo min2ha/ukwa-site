@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Ekklesia: A sense of place and nationalism resisted
-
 Ekklesia is an independent, not-for-profit thinktank which orients its work around the changing role of beliefs, values and faith/non-faith in public life. 

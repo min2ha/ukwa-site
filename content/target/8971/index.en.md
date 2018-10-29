@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Max Willis Freestyle Moguls Skier
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Joe Lafferty …enabling purposeful conversations
-
 None

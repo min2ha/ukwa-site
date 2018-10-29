@@ -10,6 +10,4 @@
   "start_date": "2018-01-20T09:00:00Z"
 }
 
-# One Woman Walks Wales
-
 This is a charity walk round Wales in support of Target Ovarian Cancer and Penny Brohn Cancer Care. It was undertaken in 2014 by Ursula Martin who walked walked over 3700 miles in between post-cancer hospital appointments.

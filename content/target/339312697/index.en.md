@@ -10,5 +10,3 @@
   "start_date": "2015-12-09T00:00:00Z"
 }
 
-# Memorabilia from the 1916 Easter Rising
-

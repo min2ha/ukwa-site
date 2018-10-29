@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Brexit is a return to normality, not a leap in the dark, says Leo McKinstry
-
 Column by Leo McKinstry

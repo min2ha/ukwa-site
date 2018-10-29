@@ -563,6 +563,4 @@
   "endDateText": ""
 }
 
-# British Stand-up Comedy Archive
-
 The British Stand-Up Comedy Archive was established at the University of Kent in 2013 to celebrate, preserve, and provide access to the archives and records of British stand-up comedy and comedians. This Collection of websites has been curated by the BSUCA's Archivist to complement the physical collections held at the University of Kent. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clarence Mitchell (Conservative)
-
 Clarence Mitchell stood as Conservative candidate for Brighton Pavilion at the 2015 General Election but was not elected.

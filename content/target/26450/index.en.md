@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Miriam González Durántez: the Lib Dems put the country first. People will see that
-
 None

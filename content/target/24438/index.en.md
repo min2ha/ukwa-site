@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nick Clegg plans £25 road tax hike in new 'war on motorists'
-
 None

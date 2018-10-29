@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Explore Iona
-
 Site providing visitor / tourist information for the Isle of Iona, Inner Hebrides, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# Bridgend Assocation of Voluntary Organisations (BAVO)
-
 BAVO is the local County Voluntary Council for Bridgend County Borough.

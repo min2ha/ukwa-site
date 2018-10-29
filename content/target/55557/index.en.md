@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# Awen Cultural Trust | Ymddiriedolaeth Ddiwylliannol
-
 Awen Cultural Trust was established in 2015 as a charitable organisation with objectives to enhance cultural opportunities in Bridgend and the wider region. 

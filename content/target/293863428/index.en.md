@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jo Pavey
-
 <p>The website of runner Jo Pavey, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

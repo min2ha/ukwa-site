@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Miliband calls on Cameron to clamp down on MPs' outside interests
-
 None

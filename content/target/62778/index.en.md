@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba's, Pont Street
-
 Site of a Church of Scotland church located in Knightsbridge, London.

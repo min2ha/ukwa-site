@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# City A.M. -  Stephen Hawking
-
 Latest UK and World business and finance news - including breaking economic and political news, comment and analysis from City A.M. These are the articles related to Stephen Hawking

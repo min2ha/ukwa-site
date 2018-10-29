@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Human Rights Consortium
-
 The Consortium provides a coherent, unified, non-party political coalition for civic society groups to develop the recognition, respect, protection and implementation of human rights standards in Northern Ireland. It campaigns for the incorporation of the EU Charter of Fundamental Rights into UK law after Brexit.

@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Ancient Cornwall
-
 None

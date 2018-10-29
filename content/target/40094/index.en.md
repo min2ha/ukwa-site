@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Elizabeth Simon on Facebook (Conservative candidate for Merthyr Tydfil and Rhymney)
-
 Elizabeth Simon is the Conservative candidate for North Wales at the 2016 National Assembly Election.

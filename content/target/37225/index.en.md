@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# YouGov: Analysis: EU referendum – the state of public opinion
-
 YouGov: Analysis: EU referendum – the state of public opinion

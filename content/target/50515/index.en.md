@@ -11,7 +11,5 @@
   "subject": "Political Action and Communication"
 }
 
-# Vertic
-
 
  VERTIC is an independent, not-for-profit non-governmental organisation. Our mission is to support the development, implementation and effectiveness of international agreements and related regional and national initiatives, with particular attention to issues of monitoring, review, legislation and verification.

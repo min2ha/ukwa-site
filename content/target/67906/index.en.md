@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Askeans RFC
-
 Based in Eltham at Well Hall Rugby Ground.

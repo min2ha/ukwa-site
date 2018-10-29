@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alex Meredith (@alexmeredithLD) on Twitter 
-
 Alex Meredith is the Liberal Democrat parliamentary candidate for Cardiff West at the 2017 General Election.

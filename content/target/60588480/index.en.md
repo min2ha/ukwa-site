@@ -10,5 +10,3 @@
   "start_date": "2011-07-06T00:00:00Z"
 }
 
-# Cymraeg i Oedolion | Welsh for Adults
-

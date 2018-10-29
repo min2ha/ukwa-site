@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T10:00:00Z"
 }
 
-# Canolfan Gyfreithiol y Plant | Children's Legal Centre
-
 The Children's Legal Centre (CLC) will be a Wales-wide, bilingual service providing information and access to legal advice and representation for children and young people.

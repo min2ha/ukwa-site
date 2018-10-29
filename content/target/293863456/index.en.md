@@ -11,6 +11,4 @@
   "subject": "UK relations with the Low Countries"
 }
 
-# Holland Park Press
-
 <p>Holland Park Press is a publisher of Dutch literature and poetry, in Dutch and translated into English, based in London.</p>

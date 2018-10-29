@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Cameron and Osborne ratchet up Project Fear AGAIN with hysterical warning that Brexit means 'self-destruction' and could cost 820,000 jobs   
-

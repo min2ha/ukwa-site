@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Voting SNP is more likely to hand power to Cameron than to Miliband
-
 None

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Barwick in Elmet Historical Society
-
 Local history society of Yorkshire parish of Barwick in Elmet

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary’s, London
-
 St Mary's is a contemporary, charismatic Christian Church in London, a short walk away from Marylebone or Baker Street Station.

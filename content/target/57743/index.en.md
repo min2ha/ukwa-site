@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Narrowboat Forum
-
 An online enthusiast community concerned with living on narrowboats in the UK. Includes discussion areas for narrow boaters, narrowboat blogs, cruising guides and various other related content.

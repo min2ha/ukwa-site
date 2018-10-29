@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Ireland Institute for Historical and Cultural Studies, The: Easter Rising
-
 The Ireland Institute for Historical and Cultural Studies actively seeks to promote republican ideas and thinking and to develop a republican critique of the world. The site contains papers from a conference entitled ‘The 1916 Rising: Then and Now’ held at Trinity College, Dublin on 21 and 22 April 2006, organised by The Ireland Institute and Dublin University History Society.

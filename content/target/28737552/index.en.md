@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Women and Gender in Chinese Studies Network (WAGNet)
-
 None

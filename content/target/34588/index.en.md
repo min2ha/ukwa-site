@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymru FM
-
 Cymru FM is a 24/7 online radio platform which allows users to contribute and broadcast their very own radio shows. It Broadcasts 24 hours a day, every day of the week and plays Welsh language music.

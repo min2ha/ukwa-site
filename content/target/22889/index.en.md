@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gerry Hassan (@gerryhassan) on Twitter
-
 Twitter profile of Gerry Hassan, a writer and commentator, Research Fellow in cultural policy at the University of the West of Scotland.

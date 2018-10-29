@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Captain Beany (Independent candidate for Aberavon)
-

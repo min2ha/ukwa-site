@@ -10,7 +10,5 @@
   "start_date": "2017-03-27T09:00:00Z"
 }
 
-# House of Lords Library: European Union (Notification of Withdrawal) Act 2017 and Parliamentary Approval of the Outcome of Brexit Negotiations
-
 This House of Lords Library briefing summarises several attempts (ultimately unsuccessful) made during the passage of the European Union (Notification of Withdrawal) Act 2017 to introduce amendments to put guarantees in the Act about a parliamentary vote on the outcome of the Brexit negotiations.
 

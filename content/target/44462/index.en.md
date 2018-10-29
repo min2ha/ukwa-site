@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Crossway Foundation
-
 The Crossway Foundation was founded by a group of artists who believed in the power of journeys to inspire better understanding and collaboration across borders.

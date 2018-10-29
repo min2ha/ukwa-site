@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# More questions than answers for Northern Ireland economy after Brexit
-
 Article discussing the effects of the changing economy after Brexit on Northern Irelamd

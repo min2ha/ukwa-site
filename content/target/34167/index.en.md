@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Business News Wales
-
  Business News Wales is a web based source of business news in Wales.

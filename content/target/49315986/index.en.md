@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Greenpeace UK
-
 Greenpeace aims to defend the natural world and promote peace by investigating, exposing and confronting environmental abuse, and championing environmentally responsible solutions.

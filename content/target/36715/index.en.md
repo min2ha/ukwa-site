@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gweiadur
-
 Gweiadur is a Welsh-English / English-Welsh on-line dictionary.

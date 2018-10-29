@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# McCurrach UK Limited
-
 The website of McCurrach UK Limited, a Glasgow-based company that provides sales and marketing services to food and drinks brands. 

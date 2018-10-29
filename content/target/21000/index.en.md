@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Belfast Sinn Fein (@belfastsinnfein) on Twitter
-
 Sinn Féin is a left-wing Irish republican political party active in both the Republic of Ireland and Northern Ireland.

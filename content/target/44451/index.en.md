@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum: Euro-FUD and idle threats 
-
 A blog post about the threats of leaving the EU 

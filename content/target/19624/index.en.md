@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Northamptonshire Green Party
-
 Website of Northamptonshire Green Party, providing information on campaigns, parliamentary candidates and results of local elections.

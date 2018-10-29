@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# Women at Work
-
 Site of a project organising aiming to give women a voice in the home, at work and in the community of the HIghlands of Scotland.

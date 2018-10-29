@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Forgotton Soldiers: Alchemy Arts
-
 A project about the 1.3 million Indians who constituted the volunteer force during the First World War, approximately 400,000 were Muslims. 

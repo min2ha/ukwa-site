@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Environmental Change Institute, University of Oxford
-
 The Environmental Change Institute was established in 1991 'to organize and promote interdisciplinary research on the nature, causes and impact of environmental change and to contribute to the development of management strategies for coping with future environmental change'.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Danielle Emma Vass
-
 Website of Danielle Emma Vass, a mobile apps developer and co-founder of the Teach Programming CIC in Bath.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Association for Consultancy and Engineering (ACE)
-
 ACE represents the business interests of its members from the consultancy and engineering industry in the UK. 

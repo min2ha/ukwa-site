@@ -10,5 +10,3 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# National Library of Scotland on Sketchfab
-

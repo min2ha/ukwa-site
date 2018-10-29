@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Polly Dixon
-
 Polly Dixon is a Welsh artist, painter and printmaker. Her work involves intaglio prints using chemical and drypoint etching as well as producing overly large woodcuts. Her work is described as 'interplay between the whimsical and the serious, the imagined and reality, exposing false belief and confessing the truth'. 

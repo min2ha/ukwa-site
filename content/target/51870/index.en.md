@@ -10,6 +10,4 @@
   "start_date": "2017-04-09T09:00:00Z"
 }
 
-# Paisley First
-
 Site of an organisation set up to deliver a Business Improvement District in Paisley town centre in an effort to revitalise the town centre and strengthen the town’s business environment.

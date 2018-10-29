@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Isle of Skye Brewing Co.
-
 Site of a brewer at Uig, Isle of Skye, Highland.

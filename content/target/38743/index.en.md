@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fiona O'Donnell (@FOD4SOS) on Twitter
-
 Twitter profile of Fiona O'Donnell, the Scottish Labour candidate for Galloway and West Dumfries in the 2016 Scottish Parliamentary election.

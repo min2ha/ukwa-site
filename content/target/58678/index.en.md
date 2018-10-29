@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Oban Camanachd Club on Facebook
-
 Facebook page of a shinty club based at Oban, Argyll & Bute.

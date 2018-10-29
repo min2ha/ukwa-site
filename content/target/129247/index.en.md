@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Thomas Hardy Society
-
 None

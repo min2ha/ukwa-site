@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Impossible to justify VAST cost of EU membership
-

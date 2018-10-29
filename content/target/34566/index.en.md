@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# SOLIDARITY SCOTLAND – Scotland's Socialist Movement
-

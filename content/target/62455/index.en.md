@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Emily Garside - Writer and Researcher
-
 Emily Garside is an arts and culture writer and writes regularly for various publications on theatre, the arts and academia especially in Wales. She has a research background in performance as a social tool, cultural engagement and history.

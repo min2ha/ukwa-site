@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Mòd Ionadail Dhùn Èideann
-

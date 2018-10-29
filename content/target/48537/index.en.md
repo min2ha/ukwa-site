@@ -10,6 +10,4 @@
   "start_date": "2017-01-20T09:00:00Z"
 }
 
-# Cromarty Medieval Burgh Community Archaeology Project 
-
 Site of a community archaeology project aiming to investigate the Reeds Park sites and to target geophysical contacts. The goal of the project is to uncover evidence for trade and economy relating to the early settlement of burgh - a period for which we have limited historical records.

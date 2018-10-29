@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Economic Research Council
-
 Website of Economic Research Council - an economics based thinktank

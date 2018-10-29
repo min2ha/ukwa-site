@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Life Changes Trust
-
 Site of a Scottish charity aiming to improve the quality of life, well-being, empowerment and inclusion of people affected by dementia and care experienced young people in Scotland.

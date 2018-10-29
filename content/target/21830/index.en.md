@@ -10,6 +10,4 @@
   "start_date": "2015-04-14T09:00:00Z"
 }
 
-# Carmarthenshire Disabled Access Group
-
 A group of people with disabilities, carers, and all who have a vested interest in improving access for the disabled.

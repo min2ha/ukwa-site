@@ -10,7 +10,5 @@
   "start_date": "2018-09-11T09:00:00Z"
 }
 
-# Crumlin Navigation, The
-
 The Friends of the Navigation is a membership group committed to saving the  buildings at the site of the old Navigation Colliery in Crumlin. The group has  been formed to increase awareness of the project and to raise funds over the next few years to help  bring to life one of the most historic sites in South Wales.
 

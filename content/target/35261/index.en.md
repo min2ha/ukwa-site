@@ -10,5 +10,3 @@
   "start_date": "2016-02-16T09:00:00Z"
 }
 
-# St Theodore's Ukrainian Greek Catholic Church Cardiff
-

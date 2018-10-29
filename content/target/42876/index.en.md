@@ -10,5 +10,3 @@
   "start_date": "2016-06-13T11:00:00Z"
 }
 
-# Trefnant Community Council
-

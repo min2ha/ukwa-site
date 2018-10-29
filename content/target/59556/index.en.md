@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Burnetts Hill Chapel, Martletwy
-
 Burnett's Hill Calvinistic Methodist Chapel is a 200 year old rare and important survival of early Pembrokeshire chapel architecture. It was built to serve the coal-mining community of Landshipping and Martletwy, but was forced to close in the 1980s. The building was saved by the Friends of Burnett's Hill Chapel.

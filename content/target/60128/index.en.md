@@ -10,5 +10,3 @@
   "start_date": "2018-01-09T09:00:00Z"
 }
 
-# manxathletics.com
-

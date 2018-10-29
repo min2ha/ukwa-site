@@ -11,6 +11,4 @@
   "subject": "Health and Social Care Act 2012 - NHS Reforms"
 }
 
-# NHS Direct
-
 <p>Gateways</p>

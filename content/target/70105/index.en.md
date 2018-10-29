@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Redcar Running Festival
-
 Website for the Redcar Running Festival.

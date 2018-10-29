@@ -10,6 +10,4 @@
   "start_date": "2018-09-07T09:00:00Z"
 }
 
-# Swanage & Wareham RFC on Pitchero
-
 The official website of Swanage & Wareham Rugby Football Club.

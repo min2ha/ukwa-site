@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Magazine Hebrides
-
 Site of local news, amenities and events magazine based in Stornoway, Isle of Lewis, Western Isles, with editions separately covering the Outer Hebrides and Skye.

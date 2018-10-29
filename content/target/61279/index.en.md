@@ -10,6 +10,4 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# 2020 Dreams – Bringing Vision to Life
-
 The mission of 2020 dreams is to support Charities, Schools, Local Councils and the Education system in nurturing the growth and development of people of all ages and abilities.

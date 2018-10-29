@@ -10,5 +10,3 @@
   "start_date": "2015-12-10T09:00:00Z"
 }
 
-# Cartrefi Conwy
-

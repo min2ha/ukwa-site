@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Plough Singers, The
-
 The Plough Singers are a 3 part harmony choir which was formed in 1991 in Whitchurch. 

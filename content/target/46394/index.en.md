@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: October 10th 2016: Next Steps in Leaving the European Union 
-
 House of Lords debates David Davis's statement made to the Commons on next steps in leaving the European Union.

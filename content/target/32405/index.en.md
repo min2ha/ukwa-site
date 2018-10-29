@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# A Monument of Fame
-
 A Monument of Fame is the Lambeth Palace Library blog.

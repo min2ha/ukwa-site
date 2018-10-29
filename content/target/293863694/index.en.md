@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Saints and Stones Pilgrimage
-
 Saints and Stones trail was launched with the backing of Menter Preseli and the EU leader programme II. By 2009 there were 44 churches taking part in the programme, opening their doors to all.

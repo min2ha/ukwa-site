@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Matt Smith (@Matt4CardiffW) on Twitter 
-
 Matt Smith is the Conservative Candidate for Cardiff West at the 2017 General Election.

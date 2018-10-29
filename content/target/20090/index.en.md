@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# WalesOnline: Labour losing votes 'in droves' to UKIP in seats targeted by Plaid, claims Jonathan Edwards 
-

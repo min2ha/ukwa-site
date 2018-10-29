@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Daniel Merlin Goodbrey's E-merl.com
-
 Website of digital comics creator Daniel Merlin Goodbrey. Includes webcomics and hypercomics (which use flash).

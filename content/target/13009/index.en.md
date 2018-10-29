@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# GBPT Doors Open Day
-
 <p>Glasgow Doors Open Day first took place as part of the European Capital of Culture Celebrations in 1990. The event was organised by both Scottish Civic Trust and Glasgow Building Preservation Trust and was the first of its kind to take place in the UK.</p>
 <p>Glasgow’s Wee Doors Open Day will be taking place on Wednesday 23rd July 2014. It has sponsorship from Culture 2014 and Glasgow’s connections with the Commonwealth are a feature of some events.</p>

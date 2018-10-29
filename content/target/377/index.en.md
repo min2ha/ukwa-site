@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hertfordshire Health and Wellbeing Board
-
 None

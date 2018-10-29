@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The Queen's Royal Lancers and Nottinghamshire Yeomanry Museum 'Call to Arms' Project
-
 Call To Arms, our new exhibition room marking the First World War Centenary, features a life-size trench you can walk through. Experience and learn about life in the trenches. 

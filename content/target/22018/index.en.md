@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kieran Mullan (Conservative)
-
 Kieran Mullan stood as Conservative candidate for Birmingham, Hodge Hill at the 2015 General Election but was not elected. 

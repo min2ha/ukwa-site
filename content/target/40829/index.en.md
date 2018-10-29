@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Which terrifying nation do you suppose David Cameron thinks will go to war with us after Brexit? I have some ideas
-

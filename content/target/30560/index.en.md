@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Music Service
-
 Jersey Music Service (JMS) is part of the States of Jersey Department of Education, Sport and Culture. JMS provides music tuition in schools across Jersey and operates music centres that involve activities and ensembles in a large range of genres for children of all ages.

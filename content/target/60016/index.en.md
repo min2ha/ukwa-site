@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Tayside Symphony Orchestra
-
 Site of an orchestra based in Dundee who play music to raise money for charity.

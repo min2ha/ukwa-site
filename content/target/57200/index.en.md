@@ -10,6 +10,4 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Ragsy Music
-
 Ragsy is a singer songwriter from Aberdare and star of the popular hit TV series The Voice.

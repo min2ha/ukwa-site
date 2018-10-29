@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T11:00:00Z"
 }
 
-# UK Chemical Research 
-
 Forum for UK Chemical Research

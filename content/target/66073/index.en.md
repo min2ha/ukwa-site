@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Gŵyl Ddrama Gogledd Ceredigion
-
 Gŵyl Ddrama Gogledd Ceredigion was launched in 2018 and plans to be an annual event held at Bow Street, Penrhyncoch and Talybont.

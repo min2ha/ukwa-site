@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Remembering the Unforgettable
-
 Project to enable a series of workshops to be run for local groups, schools and individuals based in Gosport.

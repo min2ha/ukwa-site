@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Powys Mental Health Blog 
-
 The blog is brought to you by the Powys Mental Health Information Service, a service provided by Powys Association of Voluntary Organisations (PAVO). 

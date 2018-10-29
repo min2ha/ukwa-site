@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# RYA Scotland: Commonwealth Flotilla & Homecoming Muster Events
-
 <p>The Royal Yachting Association Scotland Club's webpage about the Commonwealth Flotilla on the Clyde. An array of different boats participated, from elegant small ships, clipper boats and leisure yachts to working boats.  Part of the Glasgow 2014 Cultural Programme.</p>

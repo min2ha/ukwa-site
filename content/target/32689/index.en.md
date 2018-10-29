@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Past to Present Genealogy
-
 Past to Present Genealogy is a family history blog run by Jane Roberts.

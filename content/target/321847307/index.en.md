@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Welsh Government: Tribiwnlys Preswyl Eiddo | Resiential Property Tribunal 
-
 The Residential Property Tribunal Wales is an independent tribunal that has been set up to resolve disputes relating to private rented and leasehold property. 

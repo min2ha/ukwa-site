@@ -405,8 +405,6 @@
   "endDateText": ""
 }
 
-# Food Archive
-
 A food related collection covering these topics:
 
 Food Production (including farming, manufacture, packaging, logistics, marketing and retail)

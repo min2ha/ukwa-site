@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Future Morph
-
 Future Morph has been created to show that studying science, technology, engineering or maths beyond the age of 16 isn’t just a one track road to becoming a scientist or engineer – the skills and knowledge you gain are valuable in almost any career and will make you very employable.

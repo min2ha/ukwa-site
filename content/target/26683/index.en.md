@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip looks hilarious. But soon we won’t be laughing
-
 None

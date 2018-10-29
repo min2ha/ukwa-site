@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jeremy Hardy - The official website
-
 The website for Jeremy Hardy, comedian and broadcaster.

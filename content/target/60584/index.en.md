@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Davos 2018: Chancellor’s speech at the CBI’s British business Leaders Lunch
-
 The Chancellor Philip Hammond's controversial speech at the 2018 Davos World Economic Forum argues that there should be as little change as possible in the UK's relationship with the EU after Brexit.

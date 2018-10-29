@@ -10,6 +10,4 @@
   "start_date": "2016-08-09T10:00:00Z"
 }
 
-# Hovercraft Museum
-
 Museum celebrating the history and development of hovercrafts with permanent displays and exhibitions of the vehicles. 

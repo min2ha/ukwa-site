@@ -10,6 +10,4 @@
   "start_date": "2016-03-22T09:00:00Z"
 }
 
-# WellChild
-
 WellChild’s vision is for all seriously ill children and young people in the UK to have the best quality of care whatever their diagnosis, situation or location.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Sharman (Green party candidate for Ealing Central and Acton)
-
 Tom Sharman stoof as Green Party candidate for Ealing Central and Acton in the 2015 General Election but was not elected.

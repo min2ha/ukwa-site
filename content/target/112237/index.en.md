@@ -11,7 +11,5 @@
   "subject": "100 Best Sites"
 }
 
-# Police.uk - Crime and policing in England, Wales and Northern Ireland
-
 <p>Online gateway to information about crime, policing and criminal justice for every locality in the UK.<br />
 The user is required to enter a postcode, town or street name to get street-level maps and data about policing, and details of local policing team and beat meetings.</p>

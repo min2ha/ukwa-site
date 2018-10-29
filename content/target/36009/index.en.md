@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jayne Bryant (Labour candidate for Newport West)
-
 Jayne Bryant is the Labour candidate for Newport West at the 2016 National Assembly for Wales elections. 

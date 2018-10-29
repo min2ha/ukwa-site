@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# para•text
-
 Online partner to magazine 'para•text' (ISSN 2059-0814).

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NEASDEN GAELS GFC
-
 Neasden Gaels GFC is a progressive,professional, tight knit Senior football club who are always looking to give new players a warm welcome into the fold.

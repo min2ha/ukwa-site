@@ -10,6 +10,4 @@
   "start_date": "2015-07-08T10:00:00Z"
 }
 
-# Education Scotland - Climate Change
-
 Resource for secondary schools

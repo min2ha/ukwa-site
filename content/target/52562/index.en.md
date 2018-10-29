@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alistair Carmichael (@acarmichael4mp) on Twitter (Liberal Democrats MP for Orkney and Shetland)
-
 Twitter profile of Alistair Carmichael, Scottish Liberal Democrat candidate for Orkney and Shetland in the 2017 general election.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Opinion The Guardian view on the Brexit bill debates: crash bang wallop
-

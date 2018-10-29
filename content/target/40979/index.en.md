@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Merthyr Rugby Football Club
-

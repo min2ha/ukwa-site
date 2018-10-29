@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Chequers Brexit plan is the best option available, Hague tells Tories
-
 Former Conservative leader Lord Hague warned Eurosceptics could "endanger everything they ewre trying to achieve" if they voted down Theresa May's Brexit plans. Lord Hague said the proposals agreed at Chequers were "the most that could be achieved within the inevitable and inescapable constraints".
 
 

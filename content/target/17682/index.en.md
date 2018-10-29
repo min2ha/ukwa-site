@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The:  Tariq Ali: ‘Renationalise the railways. Cut military spending. Argue with whoever says it can’t be done’ 
-
 None

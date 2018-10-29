@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Leeds Dispatch
-
 A local news website for West Leeds covering Armley, Bramley, Calverley, Kirkstall, Farnley (Old and New), Farsley, Pudsey, Rodley and Wortley. 

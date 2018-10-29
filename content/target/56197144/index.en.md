@@ -10,5 +10,3 @@
   "start_date": "2012-06-12T00:00:00Z"
 }
 
-# South Wales Wales Trunk Road Agency
-

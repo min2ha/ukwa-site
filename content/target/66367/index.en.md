@@ -10,5 +10,3 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Institution of Engineers and Shipbuilders in Scotland (IESIS)
-

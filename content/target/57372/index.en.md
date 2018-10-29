@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Almost Blue on Facebook
-
 Facebook page of an annual blues music festival in Dundee.

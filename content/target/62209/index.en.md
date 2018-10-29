@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 5th March 2018: European Union (Withdrawal) Bill
-
 The Lords, sitting as a committee of the whole House, continue to debate amendments to the European Union (Withdrawal) Bill, focusing on children's rights, employment rights, gender equality, and the Francovitch principle.

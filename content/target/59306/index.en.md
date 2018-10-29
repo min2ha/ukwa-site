@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: The Guardian view on MPs and Brexit: no hiding place for the facts
-

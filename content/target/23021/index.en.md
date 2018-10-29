@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mike Walters on Facebook (Independent candidate for Gillingham and Rainham)
-

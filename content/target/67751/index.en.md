@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ellingham & Ringwood RFC
-
 Ellingham & Ringwood RFC are a forward thinking club with old fashioned rugby values.

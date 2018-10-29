@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Discovery Education UK: Coding
-
 IT educational materials.

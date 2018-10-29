@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rebecca Forrest (@Becky4BoltonW) on Twitter (Liberal Democrat Politician)
-
 Rebecca Forrest stood as Liberal Democrat candidate for Bolton at the 2017 General Election but was not elected.

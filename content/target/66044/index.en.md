@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Master Builders Federation (UKFB)
-
 United Kingdom Federation of Builders work as a UK construction trade federation for builders, trades, specialist contractors and service providers.

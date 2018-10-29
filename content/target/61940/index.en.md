@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Huddersfield Town A.F.C.
-
 Huddersfield Town Association Football Club is a professional football club based in the town of Huddersfield, West Yorkshire, England. 

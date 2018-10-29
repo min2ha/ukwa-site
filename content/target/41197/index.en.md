@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Fleet Air Arm Archive 1939-1945
-
 The Site Index provides a way to look up specific topics in the Fleet Air Arm (FAA) Archive . This section covers the main topics but is not exhaustive. 

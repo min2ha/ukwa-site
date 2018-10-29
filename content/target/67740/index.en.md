@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Melrose Industries plc
-
 Melrose Industries plc is a London-based company that specialises in buying and improving underperforming businesses.

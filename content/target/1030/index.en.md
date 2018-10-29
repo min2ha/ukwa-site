@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# e-health
-
 None

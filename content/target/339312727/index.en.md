@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Connolly Association
-
 The Connolly Association is an independent, non-party political organisation that campaigns for Irish reunification and independence and defends the interests of the Irish in Britain. It was established in 1938.

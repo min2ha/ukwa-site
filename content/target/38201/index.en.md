@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The City for Britain (@theCity4Britain) on Twitter
-
 City of London group campaigning for the UK to leave the EU

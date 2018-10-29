@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The reshuffle: who is in the Cabinet?
-
 None

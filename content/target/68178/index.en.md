@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Labbrewdor Nanobrewery & Microdistillery
-
 Site of a brewer and distiller located in Livingston, West Lothian.

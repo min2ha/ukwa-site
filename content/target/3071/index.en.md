@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Institute of Amateur Cinematographers
-
 Institute of Amateur Cinematographers is an organisation working in the non-commercial film and audio-video industry. They are a membership organisation providing advice, publishing a magazine, hosting events and competitions. They also have a library of amateur movies.

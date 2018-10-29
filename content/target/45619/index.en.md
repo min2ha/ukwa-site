@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Aberdeen Anarchists
-
 Aberdeen Anarchists are an informal non-affiliated group of like-minded individuals who have come together to further anarchism in the city, to develop new networks, to show solidarity and support various causes and activist or union groups.

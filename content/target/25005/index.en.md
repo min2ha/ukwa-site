@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: [Result] General Election 2015: David Lammy holds Tottenham
-
 None

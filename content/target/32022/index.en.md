@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Nant-y-Cwm Steinar School 
-
 Nant-y-Cwm in Pembrokeshire, founded in 1979, is one of over 900 Steiner Waldorf Schools – the largest independent educational movement in the world. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: IMF cuts UK growth forecasts following Brexit vote
-

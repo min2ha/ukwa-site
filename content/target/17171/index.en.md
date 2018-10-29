@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: £8bn Lib Dem tax plot hints at Labour deal
-
 None

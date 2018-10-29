@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# digital-citizen.co.uk
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# LASA Credit Union
-
 LASA Credit Union is a Swansea based financial co-operative.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Erskine Church of the Nazarene
-
 Site of a Church of the Nazarene church and congregation at Erskine, Renfrewshire.

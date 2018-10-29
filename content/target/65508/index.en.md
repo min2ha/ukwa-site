@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Cateran Trail
-
 Site of a walking trail in south Perthshire and Angus.

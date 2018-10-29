@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: We are now main opposition to Tories, Nicola Sturgeon says
-
 None

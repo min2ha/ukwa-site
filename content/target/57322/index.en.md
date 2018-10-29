@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK reveals details of proposed new EU security deal
-
 The government reveals details of its proposed new security treaty between the UK and the EU after Brexit.

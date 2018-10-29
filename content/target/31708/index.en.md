@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Manchester Refugee Support Network (MRSN)
-
 Manchester Refugee Support Network (MRSN) is a grass-roots organisation directly managed by refugee communities, based in Manchester.

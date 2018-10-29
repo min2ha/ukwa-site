@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# T.R.A.P.  Community
-
 Facebook page of Southampton-based 'TRAP community' - a group commitment to exposing paedophiles through social media approaches.

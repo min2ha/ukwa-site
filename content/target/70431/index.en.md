@@ -10,6 +10,4 @@
   "start_date": "2018-08-25T09:00:00Z"
 }
 
-# Solidarity
-
 Solidarity, formerly known as the Anti-Austerity Alliance, is a socialist political party in Ireland, launched in 2014.

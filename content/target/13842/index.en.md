@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Storify: Paul's Story (with tweets) · Robbo_Iain
-
 <p>Storify page composed of tweets made by Iain Roberston.</p>

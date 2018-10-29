@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 5th March 2018: United Kingdom-European Union Future Economic Partnership
-
 Debate in the Lords on the Prime Minister's statement on the UK's future economic relationship with the EU.

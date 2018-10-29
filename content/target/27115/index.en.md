@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# British Academy of Restorative Dentistry (BARD)
-
 British Academy Of Restorative Dentistry focuses on advancing the art and science of restorative dentistry by promoting educational opportunities and structured learning pathways of occlusion based restorative and aesthetic dentistry in the UK.

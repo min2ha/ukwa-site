@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Progress update on Magna Carta exhibition installation
-

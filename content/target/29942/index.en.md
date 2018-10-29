@@ -10,6 +10,4 @@
   "start_date": "2015-08-22T10:00:00Z"
 }
 
-# Tony Curtis Poet
-
 Welsh poet.

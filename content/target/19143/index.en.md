@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# History Today.com: The Meaning of Magna Carta since 1215
-

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Drone Wars UK 
-
 Information and comment on use of drones

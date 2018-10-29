@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Youth for Life NI (@YouthforLifeNI) on Twitter
-
 Youth for Life UK & Ireland is aimed with engaging and promoting the pro-life cause to young people.

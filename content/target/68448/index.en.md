@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 21st June 2018: Erasmus Plus Programme
-
 Calls on the Government to negotiate continued access to the Erasmus+ programme and its successor schemes beyond the UK's withdrawal from the EU.
 

@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# London Diplomatic Association (LDA)
-
 The aim of the London Diplomatic Association (LDA) is to create a conducive environment where diplomats can interact with each other in the UK and globally, and where businesses can develop their relationships, promoting their products and services to the diplomatic community worldwide.

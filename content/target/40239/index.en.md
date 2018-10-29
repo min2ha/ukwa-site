@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Football Hall of Fame
-
 Site of the annual induction and commemoration of notable Scottish footballers.

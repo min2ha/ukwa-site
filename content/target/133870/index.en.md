@@ -10,5 +10,3 @@
   "start_date": "2006-09-18T00:00:00Z"
 }
 
-# Prifysgol Cymru - University of Wales: Y Ganolfan Geltaidd: Canolfan Uwchefrydiau Cymreig a Cheltaidd - Centre for Advanced Welsh & Celtic Studies
-

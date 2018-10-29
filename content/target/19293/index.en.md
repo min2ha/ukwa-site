@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: Magna Carta - is Cameron for or against?
-

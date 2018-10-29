@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Magna Cartas united at British Library to celebrate 800th anniversary
-

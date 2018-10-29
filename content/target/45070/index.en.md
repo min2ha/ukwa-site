@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Chancellor Philip Hammond guarantees EU funding beyond date UK leaves the EU
-
 British businesses and universities will have certainty over future funding and should continue to bid for competitive EU funds while the UK remains a member of the EU.

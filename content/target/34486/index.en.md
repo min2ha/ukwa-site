@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Dartford Borough Council
-
 Website of Dartford Borough Council offers information on public services, news, budget and financial data, and committee agendas and minutes

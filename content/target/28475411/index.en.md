@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Liberal Democrats
-
 Official website of the Scottish Liberal Democrats providing information on local news, campaigns and policies.

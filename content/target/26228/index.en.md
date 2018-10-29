@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Insulated Render and Cladding Association: The INCA Manifesto
-
 The Insulated Render and Cladding Association (INCA) is the recognised trade association for the external wall insulation (EWI) industry, representing the major system designers, a nationwide network of specialist installers and the key component suppliers. INCA provides technical advice and installation best practice for EWI to Government, clients and other key stakeholders. 

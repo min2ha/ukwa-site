@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Boy's and Girl's Club of Wales (BGC) | Clybiau Bechgyn a Merched Cymru
-
 Boy's and Girl's Club of Wales is to assist in the process of moral, cultural, mental and physical development of young people, so as to ensure a smooth transition to adult life and its responsibilities

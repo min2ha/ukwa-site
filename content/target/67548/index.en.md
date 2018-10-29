@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Verwood Rugby (@VerwoodRugby) on Twitter
-
 The official Twitter account of Verwood RUFC. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elinor Barker (elinorbarker) on Twitter
-
 <p>The twitter profile of cyclist Elinor Barker, competing in track and road races for Team Wales for the Glasgow 2014 Commonwealth Games.</p>

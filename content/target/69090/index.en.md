@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# VisitStraiton
-
 Community tourism site and blog focusing on the village of Straiton, South Ayrshire.

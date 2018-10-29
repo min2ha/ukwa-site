@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WATP Magazine
-
 Site of a Rangers Football Club supporters' magazine.

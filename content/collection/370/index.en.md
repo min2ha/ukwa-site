@@ -335,6 +335,4 @@
   "endDateText": "31-12-2015"
 }
 
-# Forth Bridge 125th Anniversary
-
 The world famous Forth Bridge opened on March 4th 1890, immediately becoming the world’s longest cantilever bridge, a position it still holds today. This collection of websites, curated by staff at the National Library of Scotland, focusses on the 125th anniversary of the Bridge in 2015 and the special events held throughout 2015 to mark this historic milestone. 

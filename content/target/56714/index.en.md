@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Freak Angels
-
 Webcomic created by Warren Ellis and Paul Duffield between 2008 and 2011.

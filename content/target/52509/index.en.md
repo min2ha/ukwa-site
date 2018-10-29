@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# KCLibDems (@KCLibdems) on Twitter 
-
 Kensington and Chelsea Liberal Democrats on Twitter

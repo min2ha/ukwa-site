@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# My Digital Rights - The British Library
-

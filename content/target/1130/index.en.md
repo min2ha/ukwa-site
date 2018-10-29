@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NWPHO Health, Lifestyle and Wellbeing Survey Toolkit
-
 None

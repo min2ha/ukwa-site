@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-#  Catholic Church of God the Holy Spirit, Newtown 
-

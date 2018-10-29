@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Scottish Album of the Year Award
-
 Site for an annual award given to the outstanding musical album in a given year, while celebrating, promoting and rewarding the eligible artists, who are either Scots or are based in Scotland.

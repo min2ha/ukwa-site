@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Society for Caribbean Studies (UK) (SCS)
-
 The Society aims to advance public education about the Caribbean and its diasporas and to encourage and disseminate research on all aspects of the Caribbean region and its peoples.

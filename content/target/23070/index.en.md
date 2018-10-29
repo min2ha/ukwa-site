@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Allen Simpson (@allen_m_simpson) on Twitter (Labour Politician)
-
 Allen Simpson stood as Labour candidate for Maidstone at the 2017 General Election but was not elected.

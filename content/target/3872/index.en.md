@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Leader, The: News & sport in Wrexham & Flintshire
-
 None

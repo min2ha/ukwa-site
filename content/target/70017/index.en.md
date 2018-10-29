@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Rugby Paper, The
-
 The Rugby Paper is a rugby union publication in the UK.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sky Sports: Brexit could affect European Premier League player imports warns expert lawyer
-
 Sky Sports article on possible impact of Brexit on English Premier League and imports of European players 

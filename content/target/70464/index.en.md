@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish United Reformed and Congregational College
-
 Site of a collegue educating people for ministry in the United Reformed and Congregationalist traditions, and providing a broader programme to support learning of the whole people of God for their ministry in the church and the world.

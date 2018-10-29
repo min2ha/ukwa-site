@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Portree District Gaelic Choir / Còisir Sgire Phort Rìgh Facebook
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Insurance Fraud Bureau (IFB)
-
 We are the Insurance Fraud Bureau (IFB), a not-for-profit company established in 2006 to lead the insurance industry's collective fight against insurance fraud.

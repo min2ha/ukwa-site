@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Welsh Highland Railway
-
 Barrie Hughes's Unofficial Reconstruction Site on the Welsh Highland Railway. It is a record kept by Barrie Hughes since the early days.

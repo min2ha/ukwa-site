@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Marcus (Conservative)
-
 Simon Marcus stood as Conservative candidate for Hampstead & Kilburn at the 2015 General Election but was not elected.

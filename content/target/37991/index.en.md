@@ -10,6 +10,4 @@
   "start_date": "2016-04-01T10:00:00Z"
 }
 
-# Pangea Magazine
-
 Pangea is a bilingual magazine, reporting on the Polish diaspora.

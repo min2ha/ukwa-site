@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Angus Robertson - SNP Candidate for Moray
-
 The website of Angus Robertson, Scottish National Party (SNP) candidate for Moray in the UK General Election, 7th May 2015.

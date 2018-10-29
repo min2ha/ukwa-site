@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# JUST SAY NAW. (JustSayNaw) on Twitter
-
 <p>Spoof twitter profile written as characters Jack and Victor from Still Game, a television comedy about the lives of pensioners on a fictional Scottish housing estate.</p>

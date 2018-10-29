@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Discovering our WWI Ancestors
-
 Project to enable 82 children aged 10-11 (in Years 5 & 6) to discover and explore the lives of their ancestors around the time of WWI.

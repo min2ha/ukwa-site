@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: FTSE 100 surges on election outcome
-
 None

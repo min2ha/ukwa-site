@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Telegraph, The: Scottish Politics
-
 <p>News and opinion relating to Scotland and Scottish politics from the website of the the Daily Telegraph and Sunday Telegraph.</p>

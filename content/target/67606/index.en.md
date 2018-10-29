@@ -10,5 +10,3 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Statement from the GSA on the Mackintosh Building Fire - 17 June 2018 | The Glasgow School of Art Media Centre
-

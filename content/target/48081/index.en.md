@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas’ Church, Mellor and Marple Bridge
-
 Official website of St. Thomas’ Church, Mellor and Marple Bridge.

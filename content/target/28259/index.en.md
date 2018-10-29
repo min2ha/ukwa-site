@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# British Azerbaijani Chamber of Commerce & Industry (BAZCCI)
-
 The British Azerbaijani Chamber of Commerce & Industry  (BAZCCI) is a not-for-profit British registered company, owned by its membership and overseen by an Advisory Board which includes people from British and Azerbaijani politics and business.

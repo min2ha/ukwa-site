@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Justine Greening's call for new Brexit referendum rejected by No 10
-
 The former education secretary Justine Greening argued the final Brexit decision should be given back to the people and out of the hands of "deadlocked politicians". She called for three options to be on the ballot paper: the prime minister's Chequers deal, staying in the EU or a clean break from Europe with no deal. Downing Street responded that there would not be a second referendum under any circumstances.

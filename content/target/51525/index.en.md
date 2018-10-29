@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office:  Prime Minister’s letter to Donald Tusk triggering Article 50
-
 The Government of the United Kingdom wants to agree a deep
 and special partnership between the UK and the EU, taking in both economic
 and security cooperation. It will be a challenge to reach such a comprehensive

@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Locksley Architects
-
 A friendly, open-minded practice whose work is inspired by people, context and light.

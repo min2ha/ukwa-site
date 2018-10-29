@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dave Meechan (@dave4msp) on Twitter
-
 Twitter profile of Dave Meechan, the Scottish Labour candidate for Kilmarnock and Irvine Valley in the 2016 Scottish Parliamentary election.

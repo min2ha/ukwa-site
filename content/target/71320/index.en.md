@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Wesley RFC (@OldWesleyRFC) on Twitter
-
 Ulster Bank League Division 1b team, fielding 5men's, 20s, women's, youth & mini teams.

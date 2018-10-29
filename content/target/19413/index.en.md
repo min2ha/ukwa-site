@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Society of Antiquaries of London: Society receives conservation grant for Magna Carta 
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Progress Online
-
 Progress is a political organisation associated with the British Labour Party, founded in 1996 to support the New Labour leadership of Tony Blair.

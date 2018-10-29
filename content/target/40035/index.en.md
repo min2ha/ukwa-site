@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# North Norfolk District Council
-
 Website of North Norfolk District Council gives information about its activities and services, its budget and spending, and news and events. It provides access to policy and strategy documents and committee papers and minutes.

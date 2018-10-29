@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Video Game Addiction: Helping People With Video Game Addiction
-
 Website that provides help and support for those with internet and gaming addictions by utilising various treatment options

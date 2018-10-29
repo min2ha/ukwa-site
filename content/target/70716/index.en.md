@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Ministry of Defence: Space sector to benefit from multi-million pound work on UK alternative to Galileo
-
 UK industry was to benefit from a £92 million injection to design a national alternative to the EU’s Galileo satellite system, ensuring UK security post Brexit.
 

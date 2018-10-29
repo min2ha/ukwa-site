@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Can the Electoral Commission be serious about registering political blogs?
-
 None

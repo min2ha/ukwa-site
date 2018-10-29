@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# SportsHeritageScot (@SportHeritageSc) on Twitter
-
 The official Twitter account for Scotland’s Sports Heritage and Sports Memories partnership.

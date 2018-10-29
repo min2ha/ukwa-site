@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage demands 'fair deal for the English' at St George's day celebration
-
 None

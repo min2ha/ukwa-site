@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Fitz-Henry Family History and Other Random Stuff
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# South Kintyre Development Trust
-
 Site of a community development organisation based in Campbeltown, Argyll & Bute, using volunteers to advance sustainable development and regeneration in the community.

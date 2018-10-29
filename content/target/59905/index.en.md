@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Praisesongs from Wales
-
 Praisesongs from Wales is a creative space and research resource dedicated to the celebration of older men and women of colour living in Wales, and to the development of a digital story archive of their lives. The project began in 2010 by Roiyah Saltus, University of South Wales.

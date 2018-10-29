@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Building and Engineering Services Association: Business Manifesto for the 2015/20 Government
-
 The Building and Engineering Services Association (B&ES), formerly the Heating and Ventilating Contractors' Association, founded in 1904, is the main UK trade association for companies that design, install, commission and maintain heating, ventilation, air conditioning, refrigeration (HVACR) and related engineering projects.

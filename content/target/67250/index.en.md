@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: The government blinks first
-
 Ministers now know that a narrow but decisive Commons majority can be assembled against them on critical Brexit issues, and that its next outing could well be on a more substantive vote on a customs union. The Government may be forced into a "soft Brexit" to appease pro-EU MPs.
 

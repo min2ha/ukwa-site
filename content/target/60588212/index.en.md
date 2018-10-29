@@ -10,5 +10,3 @@
   "start_date": "2011-06-02T00:00:00Z"
 }
 
-# Children's Burns Trust
-

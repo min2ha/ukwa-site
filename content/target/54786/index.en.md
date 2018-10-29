@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Schools' Athletic Association
-
 Site of an organisation that governs and organises athletics competition in Scotland's schools.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Enniskillen Annual Drama Festival
-
 Website for the The Enniskillen Annual Drama Festival.

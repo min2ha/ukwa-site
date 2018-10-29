@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: David Cameron 'tells Nick Clegg he can't win election' - as it happened
-
 None

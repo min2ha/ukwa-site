@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Inverness Orienteering Club
-
 Site of an orienteering club based in Inverness.

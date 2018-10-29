@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sinn Fein (@sinnfeinireland) on Twitter
-
 Irish republican party dedicated to the reunification of Ireland and the building of a new republic based on the principles of freedom, justice and equality.

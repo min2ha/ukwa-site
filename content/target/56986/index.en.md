@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Scooterotica Forum
-
 An online enthusiast forum concerned with scooters. The forum discusses scooter tuning, tech FAQ, Lambretta tech, Vespa tech, restoration projects various other related topics. Includes a section for photos of members scooters.

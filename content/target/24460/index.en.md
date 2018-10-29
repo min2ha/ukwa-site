@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 'roller coaster' gains speed in Greater Manchester
-
 None

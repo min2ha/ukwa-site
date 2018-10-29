@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Thomson Foundation
-
 The Thomson Foundation is an international media development organisation, dedicated to training journalists in ethical standards and quality reporting. 

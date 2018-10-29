@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# We Are Europe
-
 A collective of friends making a positive case for remaining in the European Union. 

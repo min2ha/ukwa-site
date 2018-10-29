@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Peter Tatchell (@PeterTatchell) on Twitter
-
 A human rights, democracy, global justice & LGBTI activist.

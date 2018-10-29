@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Foreign and Commonwealth Office: The process for withdrawing from the European Union
-

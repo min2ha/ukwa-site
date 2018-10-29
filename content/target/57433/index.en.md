@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clinical Partners: Depression Test
-
 Website with online tests for depression and anxiety

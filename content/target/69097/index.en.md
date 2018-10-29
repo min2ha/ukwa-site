@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A national unity government? A second referendum is more likely
-

@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T07:00:00Z"
 }
 
-# Crofting Law Blog
-
 The blog of Inksters Solicitors, a law firm specialising in crofting law, with offices in Glasgow, Inverness, Portree and Wick.

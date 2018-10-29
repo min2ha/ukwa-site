@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Video Games Ambassadors
-
 Video Games Ambassadors is a website for young people, inspiring the next generation to work in the games industry and helping them to see STEAM (Science, Technology, Engineering, Arts and Math) subjects and careers with a fresh perspective.

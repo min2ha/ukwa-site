@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Cymru1900Wales
-
 <p>Cymru1900Wales is a project that is collecting all the names of places and features in Wales from the Ordnance Survey’s six-inch to a mile maps of c. 1900. Cymru1900Wales is a partnership between Zooniverse and the People’s Collection Wales, Royal Commission on the Ancient and Historical Monuments of Wales, National Library of Wales and the Centre for Advanced Welsh and Celtic Studies.</p>

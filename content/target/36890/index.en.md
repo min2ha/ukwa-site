@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# A media manifesto for Wales: visible, accountable, diverse
-

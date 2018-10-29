@@ -10,5 +10,3 @@
   "start_date": "2018-05-08T09:00:00Z"
 }
 
-# Glasgow University's Great War Project
-

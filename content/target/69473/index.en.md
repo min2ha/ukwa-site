@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Theatre Bloggers
-
 A community of arts bloggers that write, report and express opinions on the UK’s arts scene. Covering plays, musicals, dance, opera and live art.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-09T10:00:00Z"
 }
 
-# Association for the Study of Modern and Contemporary France, The
-
 The Association for the Study of Modern and Contemporary France provides a forum for those involved in teaching and researching modern France and the Francophone world. It was established in 1979.

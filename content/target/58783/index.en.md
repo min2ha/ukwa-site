@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Heaton History Group: Heaton Avenues in Wartime
-
 To mark the centenary of the First World War, Heaton Avenues in Wartime. ,  will focus on life on ten terraced streets off Chillingham Road, Heaton during World War One.

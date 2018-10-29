@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Galley (Conservative  Politician)
-
 Chris Galley stood as Conservative candidate for Wansbeck at the 2015 General Election but was not elected. He also stood for the same seat in 2017 but was not elected.

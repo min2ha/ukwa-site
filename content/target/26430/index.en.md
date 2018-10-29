@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardain, The: Kenneth Clarke: chaos of second general election this year would fix nothing
-
 None

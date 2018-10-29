@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Watch out, the Brexiteers might be coming for your paid holidays
-

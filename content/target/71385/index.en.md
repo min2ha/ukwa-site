@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Council leader realises childhood dream as V&A Dundee opens doors
-
  Article about the opening of the V&A Dundee. 

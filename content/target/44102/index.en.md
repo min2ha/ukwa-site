@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# Check In Works
-
 Site of a social enterprise providing training and job opportunites in catering in Perth, Scotland.

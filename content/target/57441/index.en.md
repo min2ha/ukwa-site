@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# NIP Inverness : Scotland's Festival of Whisky & Gin
-
 Site of a festival of Scottish whisky and gin, laocated at Inverness.

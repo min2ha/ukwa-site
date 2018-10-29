@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Plague of Mice
-
 A personal blog about UK politics and other issues.

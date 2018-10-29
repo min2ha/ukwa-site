@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Special anthem to commemorate the 800th anniversary of the Magna Carta delivered to St Albans Cathedral
-

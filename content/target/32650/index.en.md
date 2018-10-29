@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# Rally & Broad
-
 Poets Jenny Lindsay and Rachel McCrum collaborate as Rally & Broad, hosting an eponymous cabaret of words and music.

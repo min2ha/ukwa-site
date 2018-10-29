@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Granton Parish Church 
-
 The website of Granton Parish Church. 

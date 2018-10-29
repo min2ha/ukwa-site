@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit uncertainty hits hiring of permanent staff, figures suggest
-
 Guardian, The

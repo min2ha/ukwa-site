@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute of Directors: Bridging the Brexit Gap: Options fro Transition
-
 There is an urgent need for Government to engage properly on the most imminent risk to business from Brexit – what happens (or doesn’t) on Brexit day. Given the unprecedented and comprehensive nature of trade negotiations to come, mitigating this risk early on is essential to a smooth exit. Regardless of whether they are called transitional, interim or bridging arrangements, making this a clear policy objective will send a significant signal of confidence to companies that the UK is committed to minimising the need for disruption

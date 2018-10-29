@@ -11,5 +11,3 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Centre for the Study of Islam in the UK
-

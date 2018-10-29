@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Barony Alyth
-
 Site of a tourist information centre, cycle and paddle shop, café and indoor bouldering wall, at Alyth, Perth & Kinross.

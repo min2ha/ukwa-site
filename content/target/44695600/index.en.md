@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liberal Democrats Brighton & Hove
-
 Website of Liberal Democrats Brighton & Hove, providing information on candidates and representatives, events, how to get involved, local campaigns, local and national news and local news archive.

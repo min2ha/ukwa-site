@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kent Campaign for the 2012 Games
-

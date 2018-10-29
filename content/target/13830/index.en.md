@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# No To Independence (V0TENO_2014) on Twitter
-

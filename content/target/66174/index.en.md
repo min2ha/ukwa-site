@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Wedge, Whittle, Weave
-
 Wedge, Whittle, Weave is the website of Cardiff based Community Artist Imogen Higgins who works across the disciplines of Public, Community, and Ecological Art and delivers arts projects to schools, community groups and organisations in the UK.

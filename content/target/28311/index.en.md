@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# ONE Pro Cycling 
-
 ONE Pro Cycling is a UK based professional cycling team.

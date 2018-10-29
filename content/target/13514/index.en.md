@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Behind the fence: the side of Glasgow games you’re not meant to see
-
 <p>Article by Gerry Mooney, Kirsteen Paton and Vikki McCall about the negative impact of aspects of the XX Commonwealth Games on the east end of Glasgow.</p>

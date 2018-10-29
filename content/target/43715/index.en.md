@@ -10,6 +10,4 @@
   "start_date": "2016-06-23T10:00:00Z"
 }
 
-# Change.org: Petition · Tony Hall (Director General of the BBC): New Programmes on BBC ALBA
-
 A petition calling on Tony Hall, the Director General of the BBC and Rona Fairhead, chair of the BBC Trust to offer BBC ALBA viewers a minimum of ten hours of new programming each week.

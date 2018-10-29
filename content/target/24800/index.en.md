@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Idham Ramadi (UKIP) 
-
 Idham Ramadi stood as UKIP candidate for Orpington at the 2015 General Election but was not elected.

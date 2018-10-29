@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Constitution Society, The: Scottish Referendum 
-
 None

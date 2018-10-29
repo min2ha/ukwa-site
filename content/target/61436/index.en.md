@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# American RV Club Forum
-
 An online enthusiast community forum concerned with American RVs. Discusses tips & recommendations for beginners, insurance, camping for the disabled, cooking on the move, pets and various other related topics. 

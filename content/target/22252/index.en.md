@@ -10,6 +10,4 @@
   "start_date": "2015-04-24T09:00:00Z"
 }
 
-# Isis Innovation 
-
 Isis Innovation is a wholly-owned subsidiary of the University of Oxford, managing technology transfer and academic consulting for Oxford, and providing consultancy services to clients around the world.

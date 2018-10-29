@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Phone a fossil
-
 The fossils are displayed in the south foyer of level 8 of the School of Earth and Environment, University of Leeds. 

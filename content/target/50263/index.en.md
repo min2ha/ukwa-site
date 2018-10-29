@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Enwau.wales
-
 Enwau.wales is a trading brand of Netistrar.com – the UK ICANN Accredited Registrar and is a microsite for those interested in Welsh and .WALES domain names.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Mrs. Mash : the Storytelling Cook
-
 Site of a story teller and singer who uses food and cooking as a medium for educational storytelling.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-11T10:00:00Z"
 }
 
-# Rethink Bovine TB
-
 Research group funded by people with an interest in examining public policy as it affects agriculture, animal diseases, animal welfare and the financial viability of farming

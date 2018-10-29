@@ -10,5 +10,3 @@
   "start_date": "2017-08-30T09:00:00Z"
 }
 
-# Swansea Friends of the Earth | Cyfeillion y Ddaear Abertawe
-

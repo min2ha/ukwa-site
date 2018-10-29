@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Isleworthians Rugby Football Club
-
 The official website of  Old Isleworthians Rugby Football Club.

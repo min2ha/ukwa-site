@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Third biggest party but still Nigel Farage quits
-
 None

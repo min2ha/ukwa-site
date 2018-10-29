@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Wedding Forum | You and Your Wedding
-
 An online enthusiast community concerned with wedding planning. Discusses wedding planning, venues, weddings abroad, budgets, fashion and various other related topics.

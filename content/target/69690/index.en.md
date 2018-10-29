@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady Star of the Sea Saltcoats
-
 Site of a Roman Catholic church in Scotland for the parish of St. Mary's, Our Lady Star of the Sea, Saltcoats, Ayrshire.

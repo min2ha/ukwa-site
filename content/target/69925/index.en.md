@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Japan Society for the Promotion of Science, The (JSPS)
-
 The Japan Society for the Promotion of Science (JSPS) is Japan’s leading funding agency and is largely funded through annual subsidies from the Japanese Ministry of Education, Culture, Sports, Science and Technology (MEXT). 

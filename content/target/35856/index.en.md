@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish Trades Union Congress (STUC)
-
 The STUC represents over 620,000 trade unionists, the members of 39 affiliated trade unions and 20 Trades Union Councils. They speak for trade union members in and out of work, in the community and in the workplace, in all occupational sectors and across Scotland. 

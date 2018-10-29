@@ -10,5 +10,3 @@
   "start_date": "2016-03-09T09:00:00Z"
 }
 
-# Wrexham Socialist Party
-

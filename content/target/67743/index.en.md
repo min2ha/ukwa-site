@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Office for National Statistics
-
 official website of the Office for National Statistics for England and Wales.

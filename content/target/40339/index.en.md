@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Chilwell Munitions Tragedy, The 
-
 This project will bring together volunteers to gather together material and stories, including testimonies from family members and descendants of the explosion at the Chilwell Munitions Factory in 1918.

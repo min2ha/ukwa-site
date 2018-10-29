@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Callum Skinner (@CallumSkinner) on Twitter
-

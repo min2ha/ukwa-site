@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Church, London
-
 Trinity Church London is Christian church which has grown to be a diverse community of people from all different ages, stages and walks of life.

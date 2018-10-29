@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Choose Life : Suicide Prevention in Scotland
-
 Site providing information, statistics and advice on suicide and suicide prevention throughout Scotland

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thangam Debbonaire (@tdebbonaire) on Twitter (Labour Politician)
-
 Thangam Debbonaire stood as Labour candidate forBristol West at the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Weston Area Health NHS Trust
-
 None

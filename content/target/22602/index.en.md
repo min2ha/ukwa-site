@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Cameron warns of 'knife edge' election before launching harsh personal attack on Miliband
-
 None

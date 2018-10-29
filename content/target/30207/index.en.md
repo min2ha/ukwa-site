@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: American Collections Blog
-
 This blog is written by the American Collections team at the British Library, with occasional guest contributions. It records some of the work they do, as well as events and collections related to the Americas.

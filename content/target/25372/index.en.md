@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Britain’s rotten electoral system means that once again it’s nose-peg time
-
 None

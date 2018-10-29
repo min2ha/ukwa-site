@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Sistema Cymru - Codi'r To
-
 Codi'r To is a community regeneration project that brings the El Sistema teaching method to north Wales by working in two schools, Ysgol Maesincla in Caernarfon, and Ysgol Glancegin in Bangor. 

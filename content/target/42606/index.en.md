@@ -10,5 +10,3 @@
   "start_date": "2016-06-08T11:00:00Z"
 }
 
-# Michaelston-le-Pit & Leckwith Community Council
-

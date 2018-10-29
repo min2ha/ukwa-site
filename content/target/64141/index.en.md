@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Sisters Uncut (@SistersUncut) on Twitter
-
 Feminist group taking direct action for domestic violence services. Get in touch: sistersuncut@gmail.com 

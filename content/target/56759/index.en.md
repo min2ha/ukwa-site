@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Fyne Fest
-
 Site of an annual food and drink festival at Loch Fyne, Scotland, featuring local food produce and international drinks.

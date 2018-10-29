@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Motor Neurone Disease Association (North West Wales Support Group)
-
 Motor Neurone Disease Association: North West Wales Group.We are a group that meets monthly to provide support to local people with MND, their families and carers.

@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# RNLI Jersey
-
 RNLI Jersey is a highly trained team of volunteers operating from two lifeboat stations (St Helier and St Catherine's) on Jersey. During the summer months they are supported by paid lifeguards who patrol Jersey's western beaches.

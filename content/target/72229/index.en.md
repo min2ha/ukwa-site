@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hackney RFC
-
 The official website of Hackney Rugby Club, is a friendly, ambitious club enjoying great success on the field and working toward building a strong future off it.

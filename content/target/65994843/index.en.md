@@ -10,5 +10,3 @@
   "start_date": "2012-07-31T00:00:00Z"
 }
 
-# Egypt Centre | Canolfan yr Aifft
-

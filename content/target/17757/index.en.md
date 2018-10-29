@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Kaliya Franklin. If I were Prime Minister: The government would reflect its people
-
 None

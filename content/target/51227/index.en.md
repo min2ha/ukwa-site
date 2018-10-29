@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Breconshire Local & Family History Society (BLFHS), The
-

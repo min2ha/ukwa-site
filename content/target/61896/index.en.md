@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Balshagray Victoria Park Church of Scotland
-
 Site of a Church of Scotland parish church in Glasgow.

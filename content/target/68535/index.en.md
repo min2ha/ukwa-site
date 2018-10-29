@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Parish of Our Lady and St. Andrew, Galashiels
-
 Site of a Roman Catholic parish church in Scotland, located at Galashiels, Scottish Borders.

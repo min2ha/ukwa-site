@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson's own economic adviser warns leaving the EU is likely to 'depress the economy'
-

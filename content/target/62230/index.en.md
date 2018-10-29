@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chesterfield Football Club
-
 Chesterfield Football Club is a professional association football club based in the town of Chesterfield, Derbyshire, England. The club was a founding member of the Football League Third Division North in 1921–22 and has remained in the Football League since that time. 

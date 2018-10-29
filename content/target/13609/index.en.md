@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:08.205047", 
+  "date": "2018-10-29T13:22:15.226096", 
   "open_access": false, 
   "target_url": "http://findingada.com/", 
   "description": null, 
   "end_date": null, 
   "title": "Finding Ada", 
-  "record_id": "20181029T125508/0tIVk+KGsMxKkZTNVQ76Vg==", 
+  "record_id": "20181029T132215/0tIVk+KGsMxKkZTNVQ76Vg==", 
   "publisher": "findingada.com", 
   "start_date": null
 }
-
-# Finding Ada
 
 None

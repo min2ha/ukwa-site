@@ -10,6 +10,4 @@
   "start_date": "2017-11-01T09:00:00Z"
 }
 
-# Cove and Kilcreggan Film Society
-
 Site of a film society located at Cove and Kilcreggan, Argyll & Bute.

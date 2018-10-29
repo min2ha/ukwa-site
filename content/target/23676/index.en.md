@@ -10,5 +10,3 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Usk Rural Life Museum
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Olympic and Paralympic Studies FreeBook
-
 Olympic and Paralympic Studies is a FreeBook brought to you by Routledge, containing a collection of curated content from some of our top titles and experts.This web page is where you can sign up for this handbook.

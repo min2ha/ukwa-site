@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Ashford Liberal Democrats
-
 Website of Ashford Liberal Democrats, providing information on the county councillor, local and national news updates and how to get involved.

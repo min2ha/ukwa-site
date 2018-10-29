@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Crowdfunder: British Nordic Ski Team
-
 None

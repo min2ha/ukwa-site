@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity, Cheltenham
-
 Trinity, Cheltenham is a vibrant, Anglican church situated at the heart of Cheltenham town centre, with a passion and a vision to make committed followers of Jesus, who change communities and nations for Him.

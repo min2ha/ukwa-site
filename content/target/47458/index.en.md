@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fauldhouse United Football Club
-
 Kick22 football website of a Scottish junior football club based in Faulhouse, West Lothian, Scotland

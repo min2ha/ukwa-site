@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# 2018 Christmas Charity Festival
-
 Website for 2018 Christmas Charity Festival

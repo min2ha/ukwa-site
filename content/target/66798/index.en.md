@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Sororitas, Female Voice Choir
-
 Sorositas is a Cardiff based music choir.

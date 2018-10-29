@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: I'll stay on as an MP even if Tories lose election, says Cameron
-
 None

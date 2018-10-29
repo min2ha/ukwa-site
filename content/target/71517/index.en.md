@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Suffolk Trailfest
-
 Website for the Suffolk Trailfest, a festival for running. 

@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Killin.info
-
 Site providing local news, leisure and general information for visitors to and residents of Killin, Stirlingshire, Scotland - and their community council.

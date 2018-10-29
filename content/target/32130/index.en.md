@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Living Magazines Cardiff
-
 Living Magazines Cardiff publish community magazines for the Whitchurch, Llandaff and Rhiwbina areas of North Cardiff.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Bernard Cribbins 
-
 Bernard Joseph Cribbins, OBE is an English character actor, voice-over artist and musical comedian with a career spanning over seventy years.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Leave Means Leave (@LeaveMnsLeave ) on Twitter
-
 Leave Means Leave aims to ensure we take back control of our laws, taxes, trade and borders by truly leaving the EU and its customs union.

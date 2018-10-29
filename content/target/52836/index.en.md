@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Association of Chartered Certified Accountants: ACCA presents manifesto to next government to avoid a 'cliff edge' for UK business
-

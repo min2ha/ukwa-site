@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# British Military and Criminal History
-
 This web site is mainly concerned with British 20th Century (1900 - 1999) military and criminal history.

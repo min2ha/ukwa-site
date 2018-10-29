@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Colonial Countryside
-
 This website is created by writers, historians and advocates who have invited primary school pupils to lead an exploration into English country houses’ colonial pasts.

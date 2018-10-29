@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Sports Mole
-
 Sports Mole is  updated around the clock with the latest breaking news and results from right across the sporting world, covering everything from football, cricket, tennis and rugby union to athletics, golf and Formula 1.

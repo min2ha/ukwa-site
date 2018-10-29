@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of Mount Carmel Catholic Church Lampeter
-

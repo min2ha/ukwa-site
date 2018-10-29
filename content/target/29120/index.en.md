@@ -10,6 +10,4 @@
   "start_date": "2015-07-13T10:00:00Z"
 }
 
-# Scottish Legal News
-
 An independent legal portal serving the entire Scottish legal community.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: The Cabinet Office EU report is more scaremongering, says ROSS CLARK
-
 Comment by Ross Clark

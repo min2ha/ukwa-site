@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: We know about Corbyn’s values – but on Brexit he must do detail too
-

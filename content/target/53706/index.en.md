@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Francois Loi (@FrancoisLoi) on Twitter (UKIP Politician)
-
 Francoi Loi stood as candidate for the UK Independence Party (UKIP) for Broxtowe in the 2017 General Election but was not elected.

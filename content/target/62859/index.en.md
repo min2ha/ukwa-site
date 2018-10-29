@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Stopping Brexit is the right thing to do. But that doesn’t mean it won’t hurt
-

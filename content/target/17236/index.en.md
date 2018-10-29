@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Farage: Ukip is the only party that truly believes in Britain
-
 None

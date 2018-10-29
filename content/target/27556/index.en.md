@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Time to ditch 'tatty mythology' of voting system, say retail experts
-
 None

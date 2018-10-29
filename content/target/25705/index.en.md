@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Telegraph follows Tories to the letter as rivals turn away from election
-
 None

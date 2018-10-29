@@ -10,6 +10,4 @@
   "start_date": "2018-08-11T09:00:00Z"
 }
 
-# Architects Datafile (adf)
-
 Online magazine with particular emphasis on new building products

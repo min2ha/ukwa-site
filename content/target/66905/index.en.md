@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Silicon Republic
-
 Silicon Republic is a leading source for technology, science and start-up news, information and resources for people who are passionate about STEM. It is Ireland’s leading website for IT and business decision-makers focused on making effective use of business and technology.

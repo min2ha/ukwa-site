@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HPA Culture Collections
-
 None

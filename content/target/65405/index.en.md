@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Gren Cartoons
-
 This is the website for internationally famous cartoonist Gren Jones M.B.E. (1934 - 2007) who was cartoonist for the South Wales Echo for over 45 years. 

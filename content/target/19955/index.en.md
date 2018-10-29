@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# J. Radcliffe - Plaid Cymru Candidate for Bridgend on Facebook
-
 Plaid Cymru Candidate for Bridgend

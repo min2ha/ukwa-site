@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# England's Past for Everyone
-
 None

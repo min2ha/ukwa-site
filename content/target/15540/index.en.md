@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Rhiwbina Ward
-
 <p>This is the website of Rhiwbina Independent Councillors Jayne Cowan, Eleanor Sanders and Adrian Robson.</p>

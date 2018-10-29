@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Scots Magazine: The Forth Rail Bridge: 125 Years Of Majesty
-

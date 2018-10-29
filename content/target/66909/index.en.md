@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# GadgetyNews.com
-
 Keeping gadget reviews and technology news easy to read and friendly. Find out what's happening in the world of smartphones, laptops, tablets, gaming and other shiny areas of gadgety loveliness. UK-based, global coverage.

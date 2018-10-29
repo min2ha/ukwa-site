@@ -10,6 +10,4 @@
   "start_date": "2015-04-29T09:00:00Z"
 }
 
-# Morriston Tabernacle
-
 The site is an attempt to raise money to restore one of only twelve Grade 1-listed chapels in Wales. 

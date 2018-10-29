@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calderdale LINk
-
 None

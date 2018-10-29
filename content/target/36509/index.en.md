@@ -10,8 +10,6 @@
   "start_date": "2016-03-03T09:00:00Z"
 }
 
-# Institute for Muslim Community Development (IMCD)
-
 IMCD is a fledgling think-tank which launched into action in late 2014 drawing on the hugely broad and diverse multidisciplinary 30-year experience of its founding members in the fields of media, arts, culture, politics, human rights, and education.
 
 IMCD aims to fill a gap in the activities of Muslim community organisations: solution-focused and visionary thinking culminating in the design of bespoke interventions and models of community excellence.

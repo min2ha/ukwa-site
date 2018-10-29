@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gerddorfa Ukulele, Y
-
 'Y Gerddorfa Ukulele' eas established in 2013 under the leadership of Mei Gwynedd and organised by Menter Caerdydd. They meet weekly in Cardiff.

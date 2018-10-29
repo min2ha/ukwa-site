@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# LONDRALI (@londralicom) on Twitter (Londoner.com)
-
 The official Twitter account for the London based Turkish news website called Londrali.com.

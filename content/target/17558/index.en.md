@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg defends plan for universal free childcare
-
 None

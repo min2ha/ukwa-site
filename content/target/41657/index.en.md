@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  David Cameron losing public trust on EU referendum, poll finds
-

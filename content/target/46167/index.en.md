@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Week, The: EU referendum: There's no exit poll, but here's how to track the results
-
 Article about following the EU referendum

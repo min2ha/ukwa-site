@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Dewis Wales
-
 The Dewis Cymru website aims to help you by providing quality information from a network of social care, health and third sector organisations across Wales.

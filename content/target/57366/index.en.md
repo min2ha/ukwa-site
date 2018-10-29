@@ -10,6 +10,4 @@
   "start_date": "2017-09-23T09:00:00Z"
 }
 
-# VeryBritishProblems (@SoVeryBritish) on Twitter
-
 Rob Temple is a journalist and founder of the @SoVeryBritish Twitter account.

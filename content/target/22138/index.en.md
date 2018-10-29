@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Pearson (Conservative)
-
 James Pearson stood as Conservative candidate for Liverpool Wavertree at the 2015 General Election but was not elected.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-09T10:00:00Z"
 }
 
-# Asia House
-
 Asia House is a centre of expertise on Asia. Their mission is to bring the UK and Asia closer through events on business, policy and politics, and arts and learning.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Forgotten Women Wake (@ForgottenWomenW) on Twitter
-
 The Forgotten Women of Wakefield is a Dream Time Creative project to gain blue plaque parity for Wakefield's notable women.

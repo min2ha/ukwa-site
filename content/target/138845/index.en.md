@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales election 2011"
 }
 
-# Rhodri Glyn Thomas AM (Plaid Cymru Assembly Member for Carmarthen West and Dinefwr)
-
 Plaid Cymru Assembly member for Carmarthen West and Dinefwr.

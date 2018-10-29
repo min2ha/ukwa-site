@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Tories are 'the true party of Wales'
-

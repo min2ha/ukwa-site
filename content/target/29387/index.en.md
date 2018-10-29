@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Crossroads of Curiosity
-
 Crossroads of Curiosity was an artistic installation displayed on the piazza in front of the British Library in 2015.

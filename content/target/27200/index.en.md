@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Royal Borough of Windsor and Maidenhead, The
-
 The website of the Royal Borough of Windsor and Maidenhead offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

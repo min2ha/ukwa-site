@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Articulture Wales
-
 Articulture supports the production of innovative, high quality outdoor arts unique to Wales and are based at Machynlleth.

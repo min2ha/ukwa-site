@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Dave Lewis Photography
-
 Dave Lewis is a photographer from Pontypridd who has been taking photographs for over 30 years. He is also an author of seventeen books.

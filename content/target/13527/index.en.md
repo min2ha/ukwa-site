@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Spiky Clyde is no wallflower, but has he got staying power to help define games’ legacy?
-
 <p>Article by Gerald Grigg about Clyde the mascot of the XX Commonwealth Games that compares him with other mascots and assesses his impact on the legacy of the Games. From “The Conversation” an independent source of news and views, sourced from the academic and research community.</p>

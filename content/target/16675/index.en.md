@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Estelle Levin Ltd: News
-
 <p>News site from Estelle Levin Ltd. (ELL), which provides research &amp; advisory and training &amp; facilitation services to businesses and interested stakeholders.</p>

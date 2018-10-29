@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sun, The: BREXIT LEGAL PERIL Cabinet ministers admit Britain could be plunged into legal abyss if Brexit deal is not cut by October
-
 Cabinet ministers privately admitted Britain would be plunged into a legal abyss if a Brexit deal was not cut with Brussels by October 2018. A crisis meeting between the Brexit Department and Leader of the House of Commons concluded the Government would run out of time to bring in a dozen vital exit laws before exit day in  March 2019 if they waited until November 2019 to start.
 

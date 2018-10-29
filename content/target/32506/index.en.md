@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Boom Cymru
-
 Boom Cymru is a Welsh independent production company.

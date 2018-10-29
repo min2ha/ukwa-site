@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: SNP top target seats which could see it hold the balance of power after the General Election
-
 None

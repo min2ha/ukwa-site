@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Sefydliad Mercator ar gyfer Cyfryngau, Ieithoedd a Diwylliant | Mercator Institute for Media, Languages and Culture 
-

@@ -10,6 +10,4 @@
   "start_date": "2016-07-02T10:00:00Z"
 }
 
-# Howard Centre, Kilmarnock
-
 SIte of a community outreach organisation attached to St Andrew’s and St. Marnock’s church, Kilmarnock, East Ayrshire.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Amy Winehouse Foundation
-
 The Amy Winehouse Foundation works to prevent the effects of drug and alcohol misuse on young people. They also aim to support, inform and inspire vulnerable and disadvantaged young people to help them reach their full potential.

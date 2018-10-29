@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Richard Parks
-
 Richard Parks is a former Wales international rugby union player turned extreme environment athlete.

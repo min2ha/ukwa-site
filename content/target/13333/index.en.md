@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Floating Cinema, The
-
 UP Projects curates, commissions and produces contemporary art that explores heritage, identity and place, engaging citizens of London, the UK and across the globe. 

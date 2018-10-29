@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Novosound
-
 Novosound "have developed and patented a ground-breaking technique to mass-manufacture printable ultrasound sensors."

@@ -10,6 +10,4 @@
   "start_date": "2017-06-03T09:00:00Z"
 }
 
-# Ultra Trail Wales
-
 Ultra Trail Wales takes place in August 2018 and will start and finish in Dolgellau.

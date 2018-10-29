@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Rising Tide
-
 Rising Tide is a grassroots network of independent groups and individuals committed to taking action and building a movement against climate change. It is the UK part of the international Rising Tide Network.

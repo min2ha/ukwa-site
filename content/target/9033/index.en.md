@@ -10,6 +10,4 @@
   "start_date": "2014-01-10T23:15:00Z"
 }
 
-# Overington Family Webspace
-
 None

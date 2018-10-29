@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Studio 24 Ltd
-

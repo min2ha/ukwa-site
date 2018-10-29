@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Northamptonshire Wildlife
-
 None

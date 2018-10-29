@@ -10,6 +10,4 @@
   "start_date": "2018-01-20T09:00:00Z"
 }
 
-# Welsh Dragon Polocrosse Club
-
 Polocrosse is a combination of polo and lacrosse. The Welsh Dragon Polocrosse Club currently field teams in a number of grades.

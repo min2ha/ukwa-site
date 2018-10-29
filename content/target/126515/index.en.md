@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Common Ground
-
 None

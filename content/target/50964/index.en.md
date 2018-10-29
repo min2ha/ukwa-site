@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Lodge Farm Church, Caerleon
-

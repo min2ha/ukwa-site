@@ -11,6 +11,4 @@
   "subject": "Men's Issues"
 }
 
-# Hypospadias UK
-
 None

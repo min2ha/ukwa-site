@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Aidan's Church, Johnstone on Facebook
-
 Facebook page of a Scottish Roman Catholica church located in Johnstone, Renfrewshire.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Platfform!
-
 Platfform is a three-year project funded by Esmée Fairbairn Foundation and Arts Council Wales. The programme is about working with and supporting emerging artists to create theatre and theatrical experiences for children, young people and their grown-ups.

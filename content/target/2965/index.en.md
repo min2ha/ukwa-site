@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Linen Hall
-
 <p>The Linen Hall Library, founded in 1788, is the oldest library in Belfast and the last subscribing library in Ireland.</p>

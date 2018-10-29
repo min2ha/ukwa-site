@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Old Court House Hotel Jersey, The
-
 Website for the Old Court House Hotel in Jersey, which closed in 2016.

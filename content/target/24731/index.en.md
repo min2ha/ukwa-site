@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ace Nnorom (UKIP) 
-
 Ace Nnorom stood as UKIP candidate for Vauxhall at the 2015 General Election but was not elected

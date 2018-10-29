@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary Larkhall on Facebook
-
 Site of a Scottish Roman Catholic church located in Larkhall, Lanarkshire.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. David's Dalkieth
-
 Site of a Roman Catholic parish church in Scotland, at Dalkeith, Midlothian incorporating the church St. Luke's and St. Anne's, Mayfield.

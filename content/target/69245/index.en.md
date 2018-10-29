@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's RC Church Bearsden
-
 Site of a Roman Catholic church in Scotland for the parish of St. Andrew's, Bearsden, East Dunbartonshire.

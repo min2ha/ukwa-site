@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Tory election guru Lynton Crosby accused of recycling 10-year-old 'attack ad' from Australia to lampoon Miliband
-
 None

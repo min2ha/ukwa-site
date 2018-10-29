@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The Press and Journal: POLL: Will EU referendum drive Scotland toward Indy Ref 2?
-
 The author suggests that if the UK was to leave the EU there would be another independence vote for Scotland and it would decide to leave the UK. 

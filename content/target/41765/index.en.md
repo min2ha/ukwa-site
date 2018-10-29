@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Baldernock
-
 Community and community council website for the  parish of Baldernock, East Dunbartonshire.

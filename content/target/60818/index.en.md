@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# GB Short Track (@GB_ShortTrack) on Twitter
-
 Official Twitter page of GB Short Track Speed Skating

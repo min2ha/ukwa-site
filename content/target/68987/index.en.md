@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Ebbw Fach Choir | Côr Ebwy Fach
-
 The Ebbw Fach Choir isa mixed choir based in Abertillery and was formed in June 2014. 

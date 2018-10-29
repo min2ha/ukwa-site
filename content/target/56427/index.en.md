@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bank of England: Inflation Report, August 2017
-
 Brexit-related uncertainties are causing some companies to delay decisions about building capacity and entering new markets. The UK’s eventual new trading arrangements will require a period of reallocation as some sectors of the economy expand and others contract. Moreover, prolonged low investment will restrain growth in the capital stock and increases in productivity.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 7th September 2017: European Union (Withdrawal) Bill 
-
 Debate on the second reading of the European Union (notification of Withdrawal) Bill

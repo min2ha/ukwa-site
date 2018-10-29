@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Helix
-
 Site of a public green space between Falkirk and Grangemouth, featuring country walks, canals, managed environment and the sculptures, the Kelpies.

@@ -10,6 +10,4 @@
   "start_date": "2013-10-01T00:00:00Z"
 }
 
-# Boosey & Hawkes: Sheet Music Downloads
-
 <p>Sheet Music downloads section of Boosey &amp; Hawkes website.</p>

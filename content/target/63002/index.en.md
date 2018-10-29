@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dysart St. Clair Church & Outreach Centre
-
 Site of a Church of Scotland parish church at Dysart, Fife and its associated chruch at Viewforth, Kikcaldy.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John the Evangelist Church, Woodley
-
 The Parish of St John the Evangelist has two churches: St John’s and the Airfield LEP. The Parish is part of the Deanery of Reading which is in the Diocese of Oxford.

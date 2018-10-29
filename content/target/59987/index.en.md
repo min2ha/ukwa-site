@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A Labour government might not be as bad as Brexit, claims Heseltine
-
 Reports that Tory grandee Michael Heseltine claimed in a Limehouse podcast that a Labour government would be less damaging for the UK than Brexit

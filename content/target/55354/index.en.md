@@ -10,6 +10,4 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Dogs of Annwn
-
 Dogs of Annwn is a Film Production Company based in Llantwit Major.

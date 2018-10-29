@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# iNews: Glasgow's live music scene brings in £80m a year and supports 2,500 jobs, census shows
-
 News article about the economic impact of the Glasgow music scene. 

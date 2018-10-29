@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Katie Ormerod British Snowboarder
-
 None

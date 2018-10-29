@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Millport Country Music Festival
-
 Site of a country (American country and western) music festival at Millport, Great Cumbrae.

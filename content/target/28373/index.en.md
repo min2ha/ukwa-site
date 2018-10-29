@@ -11,8 +11,6 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Islamic Circles
-
 Islamic Circles, is a "not for profit" community-based network that has been running
 at the Froud Centre, East London since January 2001. They organise
 a wide range of Islamic events, projects and activities including short

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Gomery, Gumery and Gummery - A One-Name Study
-
 Website dedicated to the surnames GOMERY and GUM(M)ERY in Woolhope, Hertfordshire and also other similar surnames.

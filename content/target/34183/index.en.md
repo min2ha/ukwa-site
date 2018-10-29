@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Fury over the pro-EU leaflet 'riddled with fear and falsehoods': Document says Europe is worth £3,000 a year to households and jobs would be at risk if there is a vote to leave   
-

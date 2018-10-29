@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Central: Magna Carta: How the American panel was influenced by democracy
-

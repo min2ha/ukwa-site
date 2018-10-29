@@ -10,5 +10,3 @@
   "start_date": "2010-09-13T00:00:00Z"
 }
 
-# South Caernarfon Creameries
-

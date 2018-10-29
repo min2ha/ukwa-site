@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Cambridgeshire Family History Society (CFHS)
-
 The Cambridgeshire Family History Society (CFHS), established in 1976 charity with the specific aim of supporting the family historian who wishes to research Cambridgeshire family history. 

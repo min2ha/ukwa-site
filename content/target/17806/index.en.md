@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband: 'Russell Brand is saying what a number of people are thinking'
-
 None

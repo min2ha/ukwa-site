@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sussex Festival of Performing Arts
-
 Website for the Sussex Festival of Performing Arts

@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Provincial Grand Lodge Mark Master Masons of Monmouthshire 
-
 The Mark Province of Monmouthshire was constituted in 1877. The Province consists of 17 Mark Lodges and 9 Royal Ark Mariner Lodges. The website provides information about the Mark and Royal Ark Mariner degrees.

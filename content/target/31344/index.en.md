@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Find Madeleine
-
 The official site to find Madeleine McCann, who disappeared from the hotel room in Portugal in 2007, while on holiday with her family.

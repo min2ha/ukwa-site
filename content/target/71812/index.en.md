@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Algomech Festival
-
 Sheffield's festival of algorithmic and mechanical movement

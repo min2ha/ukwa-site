@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Who's knifing who in the Tories: As MPs plot against Theresa May and foul text messages fly with Boris in the middle, ANDREW PIERCE reveals what is REALLY happening inside Britain's oldest (and most rivalrous) political party 
-

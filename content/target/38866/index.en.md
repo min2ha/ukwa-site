@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Vote WEP Annie Beetham (@AnnieBeetham) on Twitter:
-
 Twitter profile of Annie Beetham, the Scottish Women's Equality list candidate for Glasgow in the 2016 Scottish Parliamentary election.

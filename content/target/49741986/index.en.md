@@ -10,5 +10,3 @@
   "start_date": "2010-06-24T00:00:00Z"
 }
 
-# Purcell-Plus : Exploring an eScience Methodology for Musicologists
-

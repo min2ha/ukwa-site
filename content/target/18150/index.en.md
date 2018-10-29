@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage hints at another Tory defection to Ukip
-
 None

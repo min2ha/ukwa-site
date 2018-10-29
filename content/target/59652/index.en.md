@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: Parents reveal their son became addicted to extreme online porn at NINE – and was so violent his sisters were afraid to be alone with him
-
 News article about a young child who became addicted to internet porn

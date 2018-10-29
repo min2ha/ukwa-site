@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Angus Arts
-
 Site of a small arts charity, based in rural Angus and founded with a commitment to encouraging creativity in everyone through performances, workshops and active participation in the arts.

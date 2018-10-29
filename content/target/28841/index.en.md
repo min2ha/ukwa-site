@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Curiad
-
 CURIAD is one of Wales' foremost publisher of music and is based in Caernarfon.

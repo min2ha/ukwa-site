@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Rich & Lou's Loudhailer
-
 Founded on October 16, 2003.

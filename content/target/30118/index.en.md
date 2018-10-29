@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Comunn na Gàidhlig (@cnag_Alba) on Twitter
-
 Twitter profile of Comunn na Gàidhlig, the Gaelic Language Council, which promotes Gaelic language and culture.

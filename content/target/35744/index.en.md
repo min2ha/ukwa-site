@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Tekegraph, The: The EU referendum could make Boris Johnson the next Conservative leader
-

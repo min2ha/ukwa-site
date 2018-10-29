@@ -10,6 +10,4 @@
   "start_date": "2007-01-12T00:00:00Z"
 }
 
-# John Barrett : MP for Edinburgh West
-
 None

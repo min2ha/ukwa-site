@@ -10,6 +10,4 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# Zac Goldsmith
-
 Website of Zac Goldsmith MP, a Conservative candidate for London Mayor in 2016.

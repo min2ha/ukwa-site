@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Consensus Action on Salt and Health
-
 CASH is a group of specialists concerned with salt and its effects on health. It is successfully working to reach a consensus with the food industry and Government over the harmful effects of a high salt diet, and bring about a reduction in the amount of salt in processed foods as well as salt added to cooking, and the table. CASH is supported by 25 expert scientific members.    

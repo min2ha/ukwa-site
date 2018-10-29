@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# HM Govt of Gibraltar (@GibraltarGov) on Twitter
-
 "Deputy Chief Minister Dr Joseph Garcia in discussion with newly elected Deputy Leader of the SNP Angus Robertson MP"

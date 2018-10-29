@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Number crunching: Tory dossier on Labour spending
-
 None

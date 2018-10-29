@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Don Locke (@locke4mp) on Twitter (Independent Politician)
-
 Done Locke stood as an Independent Candidate for Croydon Central in the 2017 General Election but was not elected.

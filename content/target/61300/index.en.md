@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ulster GAA (@UlsterGAA) on Twitter
-
 Comhairle Uladh CLG is the Provincial Council/Governing Body for the GAA in Ulster, Northern Ireland. It supports 250k members, 9 Counties & 584 Clubs, this is their official Twitter account.

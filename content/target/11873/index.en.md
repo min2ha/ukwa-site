@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eightlane | Athletics News, Videos & Running Forum in the UK
-
 None

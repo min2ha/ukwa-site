@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Lighthouse, The: Building a Legacy - The Athletes’ Village
-
 <p>The Lighthouse, Scotland's Centre for Design and Architecture, is a visitor centre, exhibition space and events venue situated in Glasgow city centre.<br />
 The Athletes’ Village exhibition shows one of the most visible examples of the legacy of the Glasgow 2014 Commonwealth Games.</p>

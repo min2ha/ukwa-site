@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Imperial College London: Imperial Centre for Energy Policy and Technology (ICEPT)
-
 None

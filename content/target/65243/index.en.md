@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bare Lit Festival
-
 Bare Lit is a festival celebrating the work of writers, poets, playwrights, journalists and academics of colour.

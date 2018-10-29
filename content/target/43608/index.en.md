@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# 1215 Today: EU referendum: In or out – what the vote means to the arts
-

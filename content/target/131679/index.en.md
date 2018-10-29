@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Engineering and Physical Sciences Research Council (EPSRC), The
-
 <p>The Engineering and Physical Sciences Research Council (EPSRC) is the UK's main agency for funding research in engineering and the physical sciences. EPSRC invests around £800 million a year in research and postgraduate training, to help the nation handle the next generation of technological change.</p>

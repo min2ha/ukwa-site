@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Article 50 case: AMs 'do not have to be legally consulted'
-
 The Supreme Court ruled that Welsh Assembly Members do not have to be legally consulted on the article 50 Brexit process

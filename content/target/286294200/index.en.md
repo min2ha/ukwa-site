@@ -10,6 +10,4 @@
   "start_date": "2015-01-27T00:00:00Z"
 }
 
-# JSBlog: Journal of a Southern Bookreader
-
 <p>A long-running weblog (since 2008) focusing on cross-over topics in literature, history, art and topography - particularly relating to the 19th century and East Devon, South Devon, and the Isle of Wight. The author has a special interest in 'lost locations' destroyed by coastal erosion or land use change.</p>

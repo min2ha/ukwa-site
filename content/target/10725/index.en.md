@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jade Holden Scottish Liberal Democrats 
-
 None

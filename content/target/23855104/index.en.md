@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Kubie Gold Associates
-

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 100 Pictures - 100 Pages
-
 A creative writing project for Liverpool people, of all backgrounds, who have something to say about the First World War.

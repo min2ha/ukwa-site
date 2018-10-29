@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# London School of Economics (LSE): British politics and policy blog
-
 <p>LSE's British politics and policy blog on the theme of the Scottish indepence referendum</p>

@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Welsh Contact Centre Forum
-
 The Welsh Contact Centre Forum offers innovation and support for the contact centres located throughout Wales.

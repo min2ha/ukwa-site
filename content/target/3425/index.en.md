@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Derbyshire Times
-
 None

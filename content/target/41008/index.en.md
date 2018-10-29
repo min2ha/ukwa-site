@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Bishopton Folk Night
-
 Site of a hyper local folk event based in Bishopton Renfrewshire, staging regular Scottish traditional music events in local venues.

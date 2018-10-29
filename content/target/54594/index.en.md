@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM statement: General election 2017
-
 Prime Minister Theresa May made a speech outside Downing Street following the 2017 general election, announcing that she would form a minority government, propped up by the Democratic Unionist Party.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Abergavenny Focus
-
 The local magazine for Abergavenny.

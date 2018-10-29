@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Ukulele Underground Forums
-
 An online enthusiast forum concerned with ukulele playing. Discusses tabs and chords, gigs and shows and buying tips and various other topics. 

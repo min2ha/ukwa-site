@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# North Wales Wildlife Trust | Ymddiriedolaeth Natur Gogledd Cymru
-

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Jim Hamilton Heritage Society of Coalburn
-
 Site of a heritage centre and local history society focusing on the social and industrial history of Coalburn, Lanarkshire.

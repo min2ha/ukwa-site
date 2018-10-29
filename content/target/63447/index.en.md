@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 28th March 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a committee of the whole House, continues to debate amendments to the European Union (Withdrawal) Bill, focusing on obligations laid on the Queen's Printer to publish EU directives that will remain in force after Brexit and how government will replace EU funding for projects in Wales and the North of England.

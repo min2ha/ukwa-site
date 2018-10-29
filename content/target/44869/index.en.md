@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Wessex Group
-
 Wessex Group produces printed promotional material for UK companies. These materials include signage, printed literature and banners. The company includes an in-house design team. 

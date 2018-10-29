@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Taking sides in the EU referendum: who wants in and who wants out?
-
 An outline of the main groups campaigning on each side of the EU Referendum debate.

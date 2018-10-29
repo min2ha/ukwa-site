@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# Bobby Baker's Daily Life Ltd
-

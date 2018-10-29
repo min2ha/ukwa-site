@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Estates Gazette Group
-
 Estates Gazette is the leading title for news, analysis, comment and interviews in the UK property industry.

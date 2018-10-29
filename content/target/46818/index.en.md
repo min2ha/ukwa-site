@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Cranfield University: Brexit blog posts
-

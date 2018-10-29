@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Can Brexit be stopped? Not by a second referendum
-

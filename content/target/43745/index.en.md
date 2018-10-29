@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: 'The Britain I love is better than this,' Gordon Brown says – EU referendum as it happened
-
 Guardian, The

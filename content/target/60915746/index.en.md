@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Launceston Area Methodist Circuit
-
 None

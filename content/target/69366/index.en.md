@@ -10,6 +10,4 @@
   "start_date": "2018-07-27T09:00:00Z"
 }
 
-# Celtic Radical 
-
 CELTIC RADICAL is a body of choreographic research and a collaboration between Siriol Joyner (Aberystwyth, Cymru) and Ruairí Donovan (Cork, Éire). They are exploring the notions of cultural identity infused in language and place both in Wales and Ireland.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Rachel Minto (@RA_Minto) on Twitter
-
 Dr. Rachel Minto is a leading expert on the EU in Wales having established “EU Exchange Wales”: a forum for exchange between Cardiff University academics and Welsh Government policy-makers. She is working for the Wales Governance Centre, where she is currently researching in the area of EU politics, public policy and governance. 

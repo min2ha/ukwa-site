@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jamie Whitham (@jamie4rdgwest) on Twitter (Green Party  Politician)
-
 Jamie Whitham stood as Green Party candidate for Reading in the 2017 General Election but was not elected.

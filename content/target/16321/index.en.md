@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Llanmadoc and Cheriton
-
 <p>This is an information resource on the villages of Llanmadoc and Cheriton in Gower.</p>

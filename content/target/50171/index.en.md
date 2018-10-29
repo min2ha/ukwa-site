@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carnoustie Church
-
 The website of Carnoustie Church. 

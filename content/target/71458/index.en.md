@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John's Episcopal Church Forfar St. Margaret's, Lunanhead
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Angus.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mari Williams (@Mari_Williams) on Twitter
-
 Labour's Parliamentary candidate for Cardiff North.

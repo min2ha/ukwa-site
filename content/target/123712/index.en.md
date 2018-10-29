@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Campaign Against Arms Trade (CAAT)
-
 Campaign Against Arms Trade (CAAT) is a UK-based organisation working to end the international arms trade. 

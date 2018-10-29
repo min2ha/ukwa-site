@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: We WILL be told the real number of EU migrants: Explosive figures could be published just a month before the vote as officials cave in to demands to come clean
-

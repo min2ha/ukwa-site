@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Orkney Storytelling Festival
-
 Site of an annual story telling festival located at Orkney.

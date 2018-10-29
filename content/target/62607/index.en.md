@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Silver Mountain Experience, The
-
 The Silver Mountain Experience is in Ponterwyd near Aberystwyth. It is the preserved Llywernog silver-lead ore mine and now a visitor attraction for the whole family. 

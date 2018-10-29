@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Peter Jenkins web
-
 Personal site of Peter Jenkins: posts related to refugees / anarchism / Kurdish solidarity

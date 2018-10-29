@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why electronic voting isn't secure – but may be safe enough
-
 None

@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# Futurage - A Road Map for Ageing Research
-
 None

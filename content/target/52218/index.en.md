@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Haslemere
-
 The Parish of Haslemere worships together in two churches St Bartholomew’s on Derby Road and St Christopher’s on St Christopher’s Green.

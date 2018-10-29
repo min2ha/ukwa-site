@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Clyde Cruises
-
 Site of a company offering cruises in the Clyde, Aberdeen and along the Caledonian Canal.

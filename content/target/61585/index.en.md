@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dyke and Edinkillie Parish Church
-
 Site of Church of Scotland parish Dyke and Edinkillie parishes, Moray.

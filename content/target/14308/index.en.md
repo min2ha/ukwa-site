@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ScotlandDecides's social stories: Storify
-

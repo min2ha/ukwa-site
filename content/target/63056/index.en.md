@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John's Largs, Church of Scotland
-
 Site of a Church of Scotland parish church in Largs, Ayrshire.

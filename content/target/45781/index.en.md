@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# North East Mills
-
 While the North East Mills Group has ceased to exist as a formally constituted entity they hope to maintain a less formal group through this website, e-mail notifications and other internet based resources.  

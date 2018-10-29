@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Sheffield Zine Fest
-
 The Sheffield Zine Fest is an annual event with exhibitions and stalls for zine distributors and makers. Workshops are organised for those interested in making their own zines. In 2016 it was held in the Sheffield Hallam Student Union. 

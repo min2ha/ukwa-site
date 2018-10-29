@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# North East Scottish Greens
-
 None

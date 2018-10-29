@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office:  PM press conference with Chancellor Merkel: 16 February 2018
-
 Report of a press conference held by Theresa May and Angela Merkel ahead of the February 2018 Munich Security Conference.

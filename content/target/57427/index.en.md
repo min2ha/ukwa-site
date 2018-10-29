@@ -10,5 +10,3 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Newport & Gwent Literary Club
-

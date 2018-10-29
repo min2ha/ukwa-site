@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Brit Politics: European elections 2014
-
 None

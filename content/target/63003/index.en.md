@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew’s Parish Church of Scotland
-
 Site of a Church of Scotland parish church at West Linton, Scottish Borders.

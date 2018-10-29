@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wigtownshire Rugby Football Club on Facebook
-
 Facebook page for a Scottish rugby union football club basaed in Stranraer, Dumfries & Galloway.

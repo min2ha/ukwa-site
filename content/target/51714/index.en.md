@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# New Hope Centre United Pentecostal Church Apostolic
-

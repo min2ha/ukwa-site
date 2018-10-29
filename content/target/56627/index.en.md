@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Future customs arrangements: a future partnership paper
-
 This paper discusses options for new customs arrangements between the UK and the EU in the future partnership. 

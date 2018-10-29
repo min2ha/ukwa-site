@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# A fine beginning
-
 <p>'A Fine Beginning is a Welsh photography collective, established by James O Jenkins, with the ambition to develop a platform to discover and showcase contemporary photography being made in Wales today.' - website.</p>

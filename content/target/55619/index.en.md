@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Shootinguk
-
 An online enthusiast forum concerned with shooting. Discusses legal issues, shooting lessons and advice, guns and rifles, air rifles and air guns, game shooting, pigeon shooting, wild fowling, deer stalking, gun dogs, equipment reviews, and various other topics.

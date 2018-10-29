@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Mull Historical & Archaeological Society 
-

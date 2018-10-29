@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# John Houston - Prophet
-
 Site of a self proclaimed prophet of world affairs and Scottish politics.

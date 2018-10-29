@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Society of Independent Brewers: SIBA Manifesto 2015
-
 SIBA was set up in 1980 to represent the interests of the growing number of independent breweries in Britain.

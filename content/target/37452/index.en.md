@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Artefact: What do students think of the referendum?
-
 An article about students' opinions about the EU referendum

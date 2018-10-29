@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Frank Doran MP: Labour MP for Aberdeen North
-
 None

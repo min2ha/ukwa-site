@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: US alarm bells over Cameron's EU speech
-
 Website for BBC News service

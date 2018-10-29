@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Ombudsman Association
-
 Ombudsmen exist to deal with complaints from ordinary citizens and consumers about most public bodies and some services in the private sector.

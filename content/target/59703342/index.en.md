@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Website and Blog of Mark Beech | Archived posts from 2005 to 2010
-

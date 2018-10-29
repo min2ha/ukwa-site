@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Community Enterprise in Scotland (CEIS)
-
 Site of a social enterprise support agency for Scotland, offering training, support and investment programmes for social enterprises, events and programmes.

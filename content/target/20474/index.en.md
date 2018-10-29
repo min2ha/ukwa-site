@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: MP ethics chief: tell voters about your second jobs 
-
 None

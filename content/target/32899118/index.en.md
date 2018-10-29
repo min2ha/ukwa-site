@@ -10,5 +10,3 @@
   "start_date": "2009-12-01T00:00:00Z"
 }
 
-# Industrial Relations Research Unit (IRRU), University of Warwick
-

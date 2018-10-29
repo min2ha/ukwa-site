@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# UK Debt Bombshell
-
 Website focusing on British national debt.

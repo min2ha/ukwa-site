@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lee Waters (@LeeWatersUKIP) on Twitter (UKIP  Politician)
-
 Lee Waters stood as UK Independence Party (UKIP) candidate for Gedling in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Joel Williams (Conservative candidate for Cardiff Central)
-
 Joel Williams is the Conservative candidate for Cardiff Central at the 2016 National Assembly for Wales election.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: "When the mental health system failed me, online communities became my coping mechanisms"
-
 The Guardian article about mental health and online communities

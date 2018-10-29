@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Medieval & Renaissance Manuscripts
-
 Digital images of and information on objects from the Morgan Library & Museum's medieval and Renaissance manuscript collections.

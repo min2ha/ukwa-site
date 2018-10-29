@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Disability NI: Paralympian Profile - Claire Taggart
-
 Claire Taggart, from Larne, will be competing in her first ever Paralympic Games representing ParalympicsGB in Boccia, a sport for athletes with high levels of physical disability.  

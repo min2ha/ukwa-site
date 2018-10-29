@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The:  Queen and Brexit row: Gove refuses to rule out being Sun’s source
-
 Website for the Guardian newspaper

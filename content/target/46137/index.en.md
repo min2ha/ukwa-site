@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Cyfeillion y Ddaear Cymru | Friends of the Earth Wales
-
 Friends of the Earth Cymru is committed to protecting the environment and promoting a sustainable future for Wales.

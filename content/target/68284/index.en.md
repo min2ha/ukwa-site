@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Percy Park RFC (@PercyParkRFC) on Twitter
-
 The Official Percy Park RFC Twitter Account, Rugby Club. Established 1872 

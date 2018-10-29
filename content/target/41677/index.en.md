@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ruishton.org.uk
-
 A website serving the Parish of Ruiston, Thornfalcon and Henlade.

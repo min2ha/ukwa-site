@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Health Profiles
-
 None

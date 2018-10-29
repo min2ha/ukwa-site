@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# monitoring_group (@MonitoringGroup) on Twitter
-
 The Monitoring was established in Southall (west London), in the early 1980’s, by community campaigners and lawyers who wished to challenge the growth of racism in the locality.

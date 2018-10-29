@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe: Britain and The EU Referendum 
-

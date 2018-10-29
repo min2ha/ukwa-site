@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Leonard's Parish Church
-
 The website of St. Leonard's Parish Church.

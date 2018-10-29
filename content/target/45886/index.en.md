@@ -10,5 +10,3 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Llandegfedd Visitor & Watersports Centre
-

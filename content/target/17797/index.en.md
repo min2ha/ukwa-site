@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Esther McVey criticises Conservative use of YouTube attack adverts
-
 None

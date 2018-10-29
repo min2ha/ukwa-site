@@ -10,5 +10,3 @@
   "start_date": "2012-06-20T00:00:00Z"
 }
 
-# Derek Webb
-

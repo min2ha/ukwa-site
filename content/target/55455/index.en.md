@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Alliance for Free Movement, The
-
 The Alliance for Free Movement seeks to defend and extend the freedom to move.  It champions the right to live, work, study and retire abroad.  It aims to challenge "the anti-migrant propaganda" that has emerged in the context of the Brexit debate.

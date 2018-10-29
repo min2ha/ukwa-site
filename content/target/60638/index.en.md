@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kotaku: We Should Take the World Health Organisation's Classification Of Gaming Disorder Seriously
-
 News article from a gaming news website about the recent classification of gaming addiction as a mental health condition

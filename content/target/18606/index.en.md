@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cllr Gethin James (@james_gethin) on Twitter (UKIP candidate for Ceredigion)
-
 Vice Chairman UKIP Wales National Committee and Ceredigion candidate for the 2015 General Election and 2016 National Assembly for Wales elections.

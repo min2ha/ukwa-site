@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM speech on the NHS: 18 June 2018
-
 Promises extra funding for the NHS using  the money we will no longer spend on our annual membership subscription to the European Union after we have left.

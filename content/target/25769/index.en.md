@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband interview: ‘I want to reach out to Tory voters’
-
 None

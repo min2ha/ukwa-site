@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Richard Bingley (@bingleyr) on Twitter (UKIP Politician)
-
 Richard Bingley stood as UK Independence Party (UKIP) candidate for Braintree in the 2017 General Election but was not electd.

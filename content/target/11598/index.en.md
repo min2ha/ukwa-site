@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hampden: Scotland's National Stadium
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Caledonian Lodge No. 392
-
 Site of a masonic lodge located in the Roseburn area of Edinburgh, and affiliated with the Grand Lodge of Scotland.

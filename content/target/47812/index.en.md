@@ -10,6 +10,4 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# Cwm Taf Hub: Community engagement in Merthyr Tydfil and Rhondda Cynon Taf
-
 The Cwm Taf Hub aims to provide people across Merthyr Tydfil and Rhondda Cynon Taf an opportunity to have their say about local services.

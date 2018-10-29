@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# McLean Museum & Inverclyde Archives
-
 Database of images drawn from the Inverclyde Archives and McLean Museum.

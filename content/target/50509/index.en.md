@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Elfed Avenue United Church, Penarth
-

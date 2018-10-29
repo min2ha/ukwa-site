@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Mamhilad Arts Project (MAP)
-
 The Mamhilad Arts Project (MAP) is an ambitious plan to regenerate a former industrial factory in Torfaen into an arts centre and Wales' very own Tate Modern. The Mamhilad Arts Project (MAP)hopes to bring a number of artistic facilities, including a museum, theatre and cinema to the former British Nylon Spinners factory and has received support from the Prince of Wales’ charity – the Prince’s Regeneration Trust (PRT). 

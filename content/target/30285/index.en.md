@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Planning Edinburgh: Forth Bridge short story competition
-

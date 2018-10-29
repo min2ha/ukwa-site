@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clinical Networks Northern England, The
-
 None

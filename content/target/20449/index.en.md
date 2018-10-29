@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Another Tory MP could defect to Ukip, Nigel Farage suggests
-
 None

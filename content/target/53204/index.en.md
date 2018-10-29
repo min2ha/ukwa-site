@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Unison: General Election - three things you can do right now
-
 Calls on Unison members to: make sure public services are at the top of the political agenda; talk to friends and family; make sure they register to vote.

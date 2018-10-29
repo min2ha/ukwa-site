@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ditch The Small Talk (@dtstpod) on Twitter
-
 Twitter account for Ditch The Small Talk, a podcast about Mental Health.

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Olion Byw
-
 Olion Byw are a fiddle and guitar duo combining traditional Welsh tunes and songs with original compositions.

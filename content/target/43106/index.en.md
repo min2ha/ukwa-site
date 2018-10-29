@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Musselburgh Transition Toun
-
 WordPress site of a group based in Musselburgh, East Lothian, Scotland, addressing concerns about climate change and peak oil by inspiring reduced carbon emissions by home insulation, local food sourcing and fewer journeys by car.

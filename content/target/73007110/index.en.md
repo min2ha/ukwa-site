@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East of England Strategic Health Authority
-
 None

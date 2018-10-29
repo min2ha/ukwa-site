@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Scottish Labour candidate rejects £1,000 donation from Tony Blair 
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# KILTR on Twitter: "new media is here. Poll now over 5000 and growing. change is coming people #indyref
-
 <p>Kiltr tweet early results for their poll: "Should Scotland be an Independent country".</p>

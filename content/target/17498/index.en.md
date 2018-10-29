@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron calls on obese to accept help or risk losing benefits
-
 None

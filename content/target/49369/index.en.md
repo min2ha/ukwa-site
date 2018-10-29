@@ -10,8 +10,6 @@
   "start_date": "2017-02-15T09:00:00Z"
 }
 
-# DOT Group International
-
 DOTgroup International is an independent manufacturer 
 and supplier of Electrical, Instrumentation, Mechanical and Safety 
 Labelling and Identification Solutions.

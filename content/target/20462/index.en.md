@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Housing experts: Tory plans neglect those who need affordable homes
-
 None

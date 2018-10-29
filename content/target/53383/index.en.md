@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Co-operatives UK: Four steps to an inclusive economy
-
 Offers all political parties four practical steps they can take to partner with what already works and bring a genuinely inclusive economy to life.

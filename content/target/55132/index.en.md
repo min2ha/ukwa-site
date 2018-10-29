@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Birds of Britain The Web Magazine for Birdwatchers
-
 A guide to Britain's bird reserves and clubs.

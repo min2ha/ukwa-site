@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Faculty of Sexual and Reproductive Healthcare
-
 The FSRH provides intial training and membership options for doctors and nurses working at the heart of SRH in the UK.

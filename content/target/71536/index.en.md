@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Embarrassing rebuff for PM in Salzburg
-
 Comments on the EU's embarrassing rejection of Theresa May's Chequers plan at the September 2018 European Council meeting in Salzburg 

@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# World Parcels Ltd
-
 World Parcels Ltd. is a World Options business operated under franchise and independently owned by Adam Clark and Elizabeth Bryant.

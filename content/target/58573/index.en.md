@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Howden-le-Wear History Society - The Great War.
-

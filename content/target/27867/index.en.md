@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate Resistance
-
 Blog site on climate related issues.

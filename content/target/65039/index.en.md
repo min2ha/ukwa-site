@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Reward Gateway
-
 Reward Gateway is a provider of employee engagement technology including employee benefits services, total reward systems and discounts on shopping and services to employees of over clients worldwide.

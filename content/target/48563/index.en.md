@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# My Gibraltar  
-
 A UK only dedicated Gibraltar Holiday travel agency.

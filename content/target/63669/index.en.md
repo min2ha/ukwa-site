@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Luke's Parish Church
-
 The website of St. Luke's Parish Church.

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Christian Ecology Link (CEL)
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Britten-Pears Foundation (BPF)
-

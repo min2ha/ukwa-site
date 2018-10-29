@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Fiona Pennie
-
 The offical website of canoe slalom athlete Fiona Pennie.

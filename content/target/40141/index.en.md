@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Graham Smith 
-
 Graham Smith is the Conservative candidate for Torfaen at the 2016 National Assembly Election and the 2017 General Election,

@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Понаехали Тут! / Ponaekhali tut!
-
 A Russian-language forum for Russian-speakers in the UK.

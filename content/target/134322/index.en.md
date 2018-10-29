@@ -10,6 +10,4 @@
   "start_date": "2006-11-07T00:00:00Z"
 }
 
-# Glasgow Apollo
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: The long walk to democracy: Magna Carta trails announced 
-

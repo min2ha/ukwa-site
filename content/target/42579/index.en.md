@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# The Kirby Laing Institute for Christian Ethics: EU referendum 2016
-

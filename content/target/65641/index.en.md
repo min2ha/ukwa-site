@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# London Oratory School
-
 The London Oratory School, or more commonly known as The Oratory, is a Catholic day secondary school for boys aged 7–18 and for girls aged 16–18.

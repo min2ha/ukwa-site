@@ -10,5 +10,3 @@
   "start_date": "2006-07-27T00:00:00Z"
 }
 
-# Resolute Health
-

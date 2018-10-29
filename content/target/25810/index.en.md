@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour leads the way, but all parties need a radical rethink to win minority votes
-
 None

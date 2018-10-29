@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Rishworthian Rugby union football club
-
 The official website of Old Rishworthian Rugby Union Football Club.

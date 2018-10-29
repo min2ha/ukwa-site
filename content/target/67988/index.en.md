@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West London RFC (@westlondonrfc) on Twitter
-
 An amateur rugby club in West London and the home of the West London Cowboys.

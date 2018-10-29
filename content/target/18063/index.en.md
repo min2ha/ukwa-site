@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Nicholls, Conservative candidate for Clwyd South
-
 David Nicholls, Conservative candidate for Clwyd South.

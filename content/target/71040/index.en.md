@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Gender Identity, Devon Partnership Trust
-
 An NHS website of the Devon Partnership Trust focusing on the gender identity clinic. With information about the services and advice for patients, family and friends.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The : Brexit could pull the pin out of the EU grenade. That's why the Eurocrats are terrified 
-
 The EU is in crisis, and its leaders know that Britain's departure could be the bloc's breaking point. Mr Tusk and his fellow Eurocrats know that many citizens are unhappy with the way things are going, and so could be inspired by Britain if it can show that a better future awaits outside of the EU. A successful Brexit could in effect be the start of a stampede of member states towards the exit door that could see the EU crumble.

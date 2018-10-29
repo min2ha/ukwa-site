@@ -10,5 +10,3 @@
   "start_date": "2014-08-18T00:00:00Z"
 }
 
-# Cartrefi Cymunedol Gwynedd
-

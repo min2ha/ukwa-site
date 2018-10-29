@@ -10,6 +10,4 @@
   "start_date": "2015-10-22T10:00:00Z"
 }
 
-# Parenting across Scotland: supporting parents and families in Scotland
-
 Parenting across Scotland is a partnership of charities which offers support to children and families in Scotland.

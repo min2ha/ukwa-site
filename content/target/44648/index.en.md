@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gemau'r Gymanwlad Cymru | Commonwealth Games Wales 
-

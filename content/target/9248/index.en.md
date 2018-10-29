@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lizzy Yarnold: Great Britain Skeleton Athlete on Twitter 
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Mail on Sunday: Not martyrs, MASOCHISTS: Lib Dem leader SIR VINCE CABLE launches a ferocious attack on desperate Brexit fanatics whose zealotry is igniting a new McCarthyism
-

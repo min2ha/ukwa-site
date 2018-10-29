@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# STV News: Scotland Decides: Thousands join pro-independence SNP, Greens and SSP after referendum
-
 None

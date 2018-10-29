@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sky Sports News (@SkySportsNews) on Twitter
-
 The official Twitter account for Sky Sports News.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# TUC Blog: So this is Brexit: passports contract taken off unionised British firm
-
 The Government has awarded the contract for printing Britain’s new post-Brexit blue passports to a Franco-Dutch firm instead of the current, UK-based, unionised De La Rue print company. This is exactly the sort of Brexit that some hard-right politicians have been after all along.
 

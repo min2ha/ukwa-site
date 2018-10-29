@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tom Watson (Deputy Labour Leader and MP for West Bromwich East)
-
 Tom Watson has been MP for West Bromwich East since 2001 and was elected deputy leader of the Labour Party in September 2015. The website offers a biography, a blog and information about his campaign to keep Britain in the EU

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: A second referendum? The poll data suggests Greening’s idea would be a total disaster for the Conservatives
-
 It’s hard to judge that offering a second referendum would be anything but a total disaster for the Conservative Party. It would not only be a direct breach of trust with most of the electorate – including many, but obviously not all, of those that voted Remain. It would also strongly indicate that the Party wanted to stay in the EU, which would further irritate grassroots.

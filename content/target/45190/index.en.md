@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aberdeen University Football Club on Facebook
-
 Facebook page for a Scottish junior football club based in Aberdeen Scotland.

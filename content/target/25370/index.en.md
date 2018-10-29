@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Britain's answer to tough guy Putin? It's Go Ape Clegg
-
 None

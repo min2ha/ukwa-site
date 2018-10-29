@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Neil Mcevoy on Facebook (Plaid Cymru candidate for Cardiff West and South Wales Central)
-
 Plaid Cymru Cardiff West candidate

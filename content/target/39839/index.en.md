@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Methil Solidarity Scotland SSM on Facebook
-
 Facebook profile of the Methil branch of Solidarity: Scotland's Socialist Movement.

@@ -10,5 +10,3 @@
   "start_date": "2010-03-09T00:00:00Z"
 }
 
-# Vegetarian Society, The
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liverpool Women's NHS Foundation Trust
-
 None

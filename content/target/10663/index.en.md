@@ -11,7 +11,5 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Stuart Agnew (UKIP Politician)
-
 John Stuart Agnew stood as UK Independence Party (UKIP) candidate for Feltham and Heston at the 2017 General Election but was not elected.
 He is a Member of the European Parliament for the East of England region for the UK Independence Party. He was elected in 2009 and re-elected in 2014.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Friary and Parish of St. Theresa
-
 Site of a Franciscan friary and Roman Catholic Church in Edinburgh.

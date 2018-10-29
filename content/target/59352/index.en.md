@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 29th November 2017: Exiting the EU: Costs
-
 Discussion of an urgent question to the Government on the UK's financial settlement with the European Union.

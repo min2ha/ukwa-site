@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Blair to bang the drum for Brussels... and the Brexit camp is delighted! Former PM set to highlight the dangers of leaving the EU despite warnings it could backfire   
-

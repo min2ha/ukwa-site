@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit would be the worst of all worlds, says Varoufakis
-
 Guardian, The

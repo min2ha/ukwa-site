@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Arts Canteen
-
 Arts Canteen is a London venue that curates events, exhibitions and festivals that support emerging artists from the Arab World and their diasporas

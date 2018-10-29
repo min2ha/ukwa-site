@@ -10,6 +10,4 @@
   "start_date": "2016-11-02T09:00:00Z"
 }
 
-# Iomairt Ghaidhlig Loch Abair Facebook
-
 Iomairt Ghaidhlig Loch Abair on Facebook

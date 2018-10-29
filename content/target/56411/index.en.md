@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Institute of Group Analysis
-
 The Institute of Group Analysis (IGA) was established in 1971 by Dr SH Foulkes and a group of colleagues to provide clinical training in group psychotherapy. Since then group analysis has developed a strong presence in many regions of the UK, making the Institute of Group Analysis a truly national organisation. The IGA is a National Institute dedicated to providing high quality training in the field of group psychotherapy in numerous national locations.

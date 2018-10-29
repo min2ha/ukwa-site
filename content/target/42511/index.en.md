@@ -10,6 +10,4 @@
   "start_date": "2016-06-07T10:00:00Z"
 }
 
-# Royal Borough of Windsor and Maidenhead
-
 Royal Borough of Windsor and Maidenhead official tourism website.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# HMS M.33
-
 M.33 is one of only three British First World War warships to survive. Today she is berthed near the new Mary Rose Museum and Nelson's flagship, HMS Victory, in Portsmouth’s Historic Dockyard. Her national and historical significance has been recognised and she features in the National Register of Historic Ships.

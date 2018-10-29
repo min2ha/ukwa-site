@@ -10,6 +10,4 @@
   "start_date": "2017-01-01T12:00:00Z"
 }
 
-# Palmer Watson
-
 Editorial consultancy based in Edinburgh.

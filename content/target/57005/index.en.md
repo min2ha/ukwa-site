@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T00:00:00Z"
 }
 
-# Mind Yer Language
-
 Site of an academic exploring the neuroscienfic and psychological aspects of Scots and English spoken by Scots, as well as linguistics and connections with airtificial intelligence.

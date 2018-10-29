@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Sir Lynton Crosby: The Remain campaign is strengthening its position ahead of the EU vote
-

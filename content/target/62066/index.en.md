@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Rhos on Sea Savoyards
-
 The Rhos on Sea Savoyards is a Amateur Gilbert and Sullivan Operatic Society.

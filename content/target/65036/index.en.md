@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# National Instruments
-
 NI equips engineers and scientists with systems that accelerate productivity, innovation, and discovery.

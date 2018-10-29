@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hinchingbrooke Health Care
-
 None

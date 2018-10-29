@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# One Dance UK: Dance Manifesto General Election 2017
-
 The purpose of this paper is to outline the key pledges One Dance urges all political parties and candidates to commit to in the lead up to the 2017 General Election.

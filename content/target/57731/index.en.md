@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Hull UK City of Culture 2017
-
 A large-scale website dedicated to the cultural programme of Hull UK City of Culture 2017; a UK initiative which changes every four years.

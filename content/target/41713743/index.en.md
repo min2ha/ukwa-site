@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roger Williams MP, Member of Parliament for Brecon and Radnor
-
 Roger Williams is the Liberal Democrat prospective parliamentary candidate for Brecon and Radnor. He is also the current MP.

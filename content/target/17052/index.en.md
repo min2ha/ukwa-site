@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Trades Union Congress (TUC): 12 questions on disability equality to election candidates
-
 The TUC is the voice of Britain at work. Their overall objectives are to raise the quality of working life and promote equality for all. There mission is to be a high profile organisation that campaigns successfully for trade union aims and values; assists trade unions to increase membership and effectiveness; cuts out wasteful rivalry; and promotes trade union solidarity.

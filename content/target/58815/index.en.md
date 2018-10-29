@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Gaelic Athletic Association / Scotland defeat Ireland in Hurling-Shinty Senior International 
-
 Article from the Gaelic Athletic Association website recording the Scotland versus Ireland Hurling-Shinty internation in 2017

@@ -10,5 +10,3 @@
   "start_date": "2017-04-13T09:00:00Z"
 }
 
-# Cor Merched Cwm Llynfi, Maesteg
-

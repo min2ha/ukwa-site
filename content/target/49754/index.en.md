@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Financial Services Consumer Panel: Position Paper on Brexit
-
 The Panel concluded that while the UK has worked hard in Europe to bring about some good outcomes for consumers, it has often had to compromise on its position.  If the UK takes control of its financial services legislation there is an excellent opportunity for Government and regulators to improve consumer protection regulation.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nigel Sussman (@NigelSussman4MP) on Twitter (UKIP Politician)
-
 Nigel Sussman stood as UK Independence Party (UKIP) candidate for Edmonton in the 2017 General Election but was not elected.

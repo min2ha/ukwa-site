@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Peter Adrian Garbutt (@PeterGarbutt) on Twitter (Green Party candidate Sheffield Hallam)
-

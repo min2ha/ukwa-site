@@ -10,6 +10,4 @@
   "start_date": "2016-02-18T09:00:00Z"
 }
 
-# Free Enterprise Group (FEG)
-
 After the 2010 General Election the FEG was established. The group therefore came together to renew the case for genuine free markets and free enterprise, to make the argument for the next generation that free markets can create wealth for the whole country, and because Britain needs to leave the slow lane in order to become economically competitive again. 

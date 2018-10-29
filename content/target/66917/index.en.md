@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Pontypool Ramblers
-
 This is the Pontypool group of The Ramblers Association. 

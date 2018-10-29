@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: My Tory Brexit friends should hang their heads in shame
-

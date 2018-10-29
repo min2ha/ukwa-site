@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Angus Council: Scottish Independence Referendum
-
 None

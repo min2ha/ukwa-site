@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# GoFest
-
 Website for the GoFest UK family sports festival

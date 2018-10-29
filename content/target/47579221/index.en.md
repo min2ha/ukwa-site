@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Poet's Blog, A - Roger N. Taber shares his thoughts and poems
-
 Thoughts and observations by English poet Roger N. Taber, a retired librarian & poet-novelist.

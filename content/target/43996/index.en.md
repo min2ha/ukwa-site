@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave (reloaded)
-
 A reconstruction of the official voteleavetakecontrol.org website. The official site was reconstructed after the the official leave campaign wiped their website after the EU Referendum result.

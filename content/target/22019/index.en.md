@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liam Byrne (Labour  Politician)
-
 Liam Byrne stood as Labour candidate for Birmingham Hodge Hill in the 2017 General Election and was successful. He was first elected for Birmingham Hodge Hill in 2004.

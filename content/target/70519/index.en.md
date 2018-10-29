@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# United Reformed Church Helensburgh
-
 Site of a Scottish United Reformed church located in Helensburgh, Argyll & Bute.

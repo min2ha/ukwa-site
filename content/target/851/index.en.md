@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Coventry and Warwickshire Partnership
-
 None

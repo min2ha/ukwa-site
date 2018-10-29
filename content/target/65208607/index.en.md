@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# North Castle
-
 None

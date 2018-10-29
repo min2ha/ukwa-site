@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The would-be minister with inside knowledge of the prisons beat
-
 None

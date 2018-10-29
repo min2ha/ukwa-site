@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Forgiveness Project
-
 The Forgiveness Project is an award-winning, secular organisation that collects and shares real stories of forgiveness to build understanding, encourage reflection and enable people to reconcile with the pain and move forward from the trauma in their own lives.

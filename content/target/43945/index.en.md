@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: Financial services after the referendum
-
 The vote to leave the EU at an as yet unspecified date in the future has severe implications for the financial services sector, an economic sector which is critical to the UK economy. The degree of inter-linkage between the ‘City’ and the EU economies is substantial economically speaking and intricate in terms of the legislative interface. This note brings together some immediate responses from relevant organisations. There is no intention to analyse the comments, merely to present what is available as it is published. The choice of material reflects what there was.

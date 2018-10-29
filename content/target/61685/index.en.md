@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: "Ex-Google and Facebook staff warn of social media dangers"
-
 The Telegraph article referering to dangerous of internet on mental health 

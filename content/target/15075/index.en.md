@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hands on Handsworth
-
 Hands on Handsworth is a community blog, where the local residents can have their say, share views and get involved.

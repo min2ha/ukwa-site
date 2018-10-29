@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Growing social media backlash among young people, survey shows
-
 News article referring to a survey in which almost two-thirds of schoolchildren would not mind if social media had never been invented due to the negative affect on their mental well being 

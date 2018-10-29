@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Ham United Women (@westhamladies) on Twitter
-
 The official account of the West Ham United women's team.

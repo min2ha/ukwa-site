@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Classic Alfa Forums
-
 An online enthusiast community concerned with classic Alfa Romeo cars. Discusses race cars and drivers, technical discussions and various related topics. Includes an image section for users to post images of their cars. 

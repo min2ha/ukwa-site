@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West of Scotland Football Club
-
 Site of a Scottish rugby union football club located in Milngavie, Glasgow.

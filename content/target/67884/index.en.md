@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Framework for the UK-EU Partnership: Transport
-
 This presentation explains the UK Government’s vision for Transport elements of the future UK-EU Partnership.

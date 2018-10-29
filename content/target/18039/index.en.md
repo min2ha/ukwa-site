@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tony Raybould for Cardiff Central
-
 Tony Raybould is the UKIP prospective parliamentary candidate for Cardiff Central.

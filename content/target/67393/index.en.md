@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Millom Rugby Union (@MillomRUFC) on Twitter
-
 The official Twitter account of Millom Rugby Union Football Club.

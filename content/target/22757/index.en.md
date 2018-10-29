@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Matthew O'Callaghan (@LoughbroMatthew) on Twitter (Labour candidate for Loughborough)
-

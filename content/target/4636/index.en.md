@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Scottish Episcopal Church: Primus pays tribute to Nelson Mandela
-
 None

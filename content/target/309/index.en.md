@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Lewisham CCG
-
 None

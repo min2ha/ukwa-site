@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Asian Lite News: Summary of the debate as told by increasingly sensationalist newspaper front pages
-
  Despite a controlled, decent democratic arguments, the fight  is now turn into ambitions and skulduggery. The Sunday Times surprisingly followed The Sun story on Queen’s alleged stand on EU. Asian Lite Newsdesk compiles the best front pages from British newspapers.

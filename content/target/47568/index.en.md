@@ -10,6 +10,4 @@
   "start_date": "2016-12-02T09:00:00Z"
 }
 
-# Garry Mac Makes
-
 Site  of Garry Mac, a  Glasgow based writer and artist.

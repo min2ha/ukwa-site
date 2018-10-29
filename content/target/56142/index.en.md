@@ -10,6 +10,4 @@
   "start_date": "2017-07-27T09:00:00Z"
 }
 
-# Mid Wales My Way
-
 Mid Wales My Way is a tourist information guide to the Vyrnwy and the Berwyns, Dyfi Biosphere, Offa's Country, Cambrian Mountains and the Brecon Beacons. It is the official page for Powys County Council tourism service. 

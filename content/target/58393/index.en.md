@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Highlands & Islands Music & Dance Festival
-
 Site of an annual competitive festival of traditional Scottish music and dance, located in Oban, Argyll & Bute.

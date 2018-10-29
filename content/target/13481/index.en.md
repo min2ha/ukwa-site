@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Twitter: Results for #CallClegg
-
 <p>#CallClegg is the hashtag used by LBC Radio to promote and encourage comment and participation on their weekly phone-in with the Deputy Prime Minister, Nick Clegg. Call Clegg is broadcast on Thursdays at 9am.</p>

@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Lindy McManus
-
 <p>Lindy McManus is a residential Property Finder in London, UK.</p>

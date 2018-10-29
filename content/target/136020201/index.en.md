@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southwark LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michelle Thomson on Facebook
-
 This is the Facebook page of Michelle Thomson, the Scottish National Party (SNP) candidate for Edinburgh West in the UK General Election on the 7th May 2015.

@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# Association of British Professional Conference Organisers (ABPCO)
-
 The Association of British Professional Conference Organisers Limited (ABPCO) was founded in 1981 and it helps individuals and organisations bringing a strong sense of professionalism to their working practice by harnessing and sharing their collective skills, knowledge and experience in the meetings, conferences and events industry.

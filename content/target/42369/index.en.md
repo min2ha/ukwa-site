@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Postcards from...
-
 Blog started in 2008 to record author's stay in Kosovo but now covers range of issues related to author's research on refugee studies, migration and diversity.

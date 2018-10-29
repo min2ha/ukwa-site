@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Laby-Comp
-
 Laby-Comp is a company that sells family planning method.

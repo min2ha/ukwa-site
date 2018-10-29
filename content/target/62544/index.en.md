@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# CityintheCommunity (@citctweets) on Twitter
-
 City in the Community (CITC) was founded in 1986, aiming to forge closer links between MCFC and the local community.

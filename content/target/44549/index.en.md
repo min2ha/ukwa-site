@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# GeneWatch UK
-
 GeneWatch UK is a not-for-profit group that monitors developments in genetic technologies from a public interest, human rights, environmental protection and animal welfare perspective.

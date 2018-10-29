@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Southern Rail Asked Passengers To Tweet RMT Over Strikes, It Went Badly
-
 Southern Rail attempted to hit back at the RMT over the train strikes which have hit their train lines - and it backfired badly.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: SNP leader Nicola Sturgeon will BLOCK budgets if they don't meet her demands
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Joseph's Parish, Clarkston
-
 Site of a Scottish Roman Catholic parish church located in Clarkston, Glasgow.

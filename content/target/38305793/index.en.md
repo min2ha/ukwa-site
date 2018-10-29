@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Imperial Party
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# Clogau
-
 Clogau are gold jewellers from Wales. Gold comes from the Clogau Gold mine near Dolgellau.

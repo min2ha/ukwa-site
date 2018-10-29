@@ -10,6 +10,4 @@
   "start_date": "2015-07-07T10:00:00Z"
 }
 
-# 1st St Andrew's Porthill Scout Group
-
 Website of a scouting group in Newcastle-under-Lyme, Staffordshire.

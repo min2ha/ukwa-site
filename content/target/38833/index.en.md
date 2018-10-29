@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# HOPE not hate Wales (@HNHWales) on Twitter 
-

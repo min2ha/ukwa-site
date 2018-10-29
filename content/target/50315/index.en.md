@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Castlewellan Castle 
-
 Castlewellan Castle is part of a group of centres known as Centre Ministries.

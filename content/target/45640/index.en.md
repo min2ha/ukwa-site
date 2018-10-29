@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Spitalfields Trust
-
 Set up as a charity in 1977, the Spitalfields Trust saves and repairs buildings at risk of demolition of destruction. 

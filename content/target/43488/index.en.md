@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: I thought I was a Eurosceptic, but what I saw in Qatar will make me vote Remain
-
 The world's global powers are not liberal democracies. The ideals of our culture are in retreat, and the only way to protect them is within a close-knit European family

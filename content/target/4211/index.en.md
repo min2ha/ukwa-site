@@ -11,5 +11,3 @@
   "subject": "Conservative Party Website deletions - Press articles November 2013"
 }
 
-# Conversation, The: Tories forget how the internet works
-

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Commonwealth, The: Tributes to Nelson Mandela
-
 <p>The Commonwealth <a href="http://thecommonwealth.org/">http://thecommonwealth.org/</a> is a voluntary association of 53 independent countries including some of the world’s largest, smallest, richest and poorest countries, spanning five regions.</p>

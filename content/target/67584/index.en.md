@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Safle We Na, Nel | Na, Nel Official Website
-
 Na Nel! is a series of children's books published in the Welsh language by the Aberystwyth based author, Meleri Wyn James.

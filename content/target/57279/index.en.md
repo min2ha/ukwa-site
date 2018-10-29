@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Scotland’s Garden and Landscape Heritage
-
 Site of a Scottish national charity formed to promote and protect the historic gardens and designed landscapes of Scotland.

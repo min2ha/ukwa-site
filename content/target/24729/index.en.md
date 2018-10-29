@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kate Hoey (@KateHoeyMP) on Twitter (Labour  Politician)
-
 Kate Hoey stood as Labour party candidate for Vauxhall at the 2015 General Election.She was first elected to serve as MP for Vauxhall in 1989 and re-elected in 2015. She stood for re-election in 2017 and was successful.

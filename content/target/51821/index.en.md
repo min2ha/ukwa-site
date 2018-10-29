@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Golf
-
 Site of the governing body for the sport of golf in Scotland, representing golfers and golf clubs and the sport in throughout Scotland, while maintaining Scotland’s position at the forefront of golf.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# The Spectator Blog
-
 The Spectator Blog, The: Northern Ireland’s political crisis could cause Brexit problems

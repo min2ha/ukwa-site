@@ -10,6 +10,4 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# Young Scotland in Mind
-
 Site of a Scottish national forum connecting voluntary sector organisations and aiming to improve mental health and wellbeing of all children and young people in Scotland.

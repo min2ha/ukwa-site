@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: "Mum of teen who battled anorexia warns of ‘warped Instagram underworld’ fuelling kids’ eating disorders"
-
 Web article about "warped" social media and eating disorders

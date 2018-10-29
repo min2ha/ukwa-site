@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Scottish Power
-
 ScottishPower are amongst the top 6 power companies in the UK.

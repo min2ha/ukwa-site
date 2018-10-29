@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - I've decided to vote YES. Not because I buy into...
-
 Ewan Morrison's post of 29th June 2014, announcing his decision to vote Yes.

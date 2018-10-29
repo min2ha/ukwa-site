@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UKIP: 100 days to go till EU referendum day
-
 Website of the political party UKIP

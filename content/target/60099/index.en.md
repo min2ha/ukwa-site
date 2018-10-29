@@ -10,6 +10,4 @@
   "start_date": "2018-01-06T09:00:00Z"
 }
 
-# Hamish Henderson Archive Trust on Facebook
-
 Facebook page of a a trust set up to secure the fate of the personal archives of the late poet, songwriter, political activist and folklorist.

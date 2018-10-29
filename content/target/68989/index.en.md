@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Ebbw Vale Male Choir
-
 The Ebbw Vale Male voice choir has been around since the 1850s, and the website includes a brief history of the choir. 

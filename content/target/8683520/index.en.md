@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Rupert Brooke on Skyros
-
 Website provides information for those who are interested in Rupert Brooke’s 'Grave on Skyros' and in his life and poetry.

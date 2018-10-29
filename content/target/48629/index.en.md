@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newton Stewart Football Club
-
 Site of an amateur football clun based in Newton Stewart, Dumfries & Galloway, Scotland.

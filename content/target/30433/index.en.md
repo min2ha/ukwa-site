@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# European Christian Mission (ECM) Britain
-
 European Christian Mission (ECM) is an international and interdenominational mission agency. ECM’s mission is to plant and develop churches throughout Europe.

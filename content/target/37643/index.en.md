@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Brexiteers can't ignore Europe just to please themselves
-

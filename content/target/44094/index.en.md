@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: So long, Nigel Farage, the latest rat to jump from the sinking Brexit ship
-

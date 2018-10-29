@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kate MacDonald (@prawnjolras) on Twitter
-
 Twitter profile of kate MacDonald, the Scottish Women's Equality list candidate for Lothian region in the 2016 Scottish Parliamentary election.

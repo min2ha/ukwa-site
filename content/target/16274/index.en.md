@@ -10,6 +10,4 @@
   "start_date": "2015-01-30T00:00:00Z"
 }
 
-# Terrence Higgins Trust, The
-
 <p>The Terrence Higgins Trust is a charity that aims to maximise sexual health in the UK and minimise the spread of Sexually Transmitted Infections; empower everyone living with HIV in the UK by working to ensure the best possible HIV treatment and support services; and lead public and political support for HIV and sexual health issues and campaign to end stigma and discrimination.</p>

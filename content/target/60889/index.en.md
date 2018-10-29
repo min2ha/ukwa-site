@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: This Brexit mess cannot go on. Theresa May must stand down now
-

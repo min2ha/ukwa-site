@@ -10,6 +10,4 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Gŵyl Ban Geltaidd
-
 An annual Celtic music festival held in Ireland since 1971. The Welsh representative is the winner of the Can i Gymru competition.

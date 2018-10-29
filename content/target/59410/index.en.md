@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# AgeUK Blog: It is wrong and unfair to denigrate older people because of the EU Referendum result
-
 Comments on the abuse and denigration heaped on older people by Remain supporters following the vote to leave the EU.

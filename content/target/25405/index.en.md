@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-#  Guardian, The: The election campaign posters are out, and predictably they are all hopeless
-
 None

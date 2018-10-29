@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Margaret Mitchell MSP
-
 The website of Margaret Mitchell, Scottish Conservative and Unionist Party Member of the Scottish Parliament for Central Scotland.

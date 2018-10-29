@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Federation of Builders: Manifesto 2015: Smarter Building for Britain
-
 The National Federation of Builders (NFB) is a United Kingdom trade association representing the interests of small and medium-sized building contractors in England and Wales.

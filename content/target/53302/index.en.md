@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Who Can I Vote For?
-
 A list of UK political parties, the constituency they contested in an election and information on the individual candidates if the information was available.

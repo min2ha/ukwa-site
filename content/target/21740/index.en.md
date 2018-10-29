@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories and Labour have boxed themselves in on taxation, claims IFS 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Campaign Against Criminalising Communities (CAMPACC)
-
 The Campaign Against Criminalising Communities is oppose all laws based on a pretext of counter-terrorism and  opposes any measures which could criminalise mere association with a political organisation, or which involve detention without charge, or restrictions on freedom of speech, association or publication.

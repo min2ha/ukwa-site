@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit and customs union: A matter of confidence?
-
 Reflects on whether Theresa May could turn a Commons vote on the UK staying in a customs union with the EU into a vote of confidence in her.

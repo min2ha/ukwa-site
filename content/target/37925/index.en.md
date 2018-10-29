@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Muslims for Britain
-
 Cross-party campaign representing British Muslim interests at a national level

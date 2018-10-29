@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nicola Sturgeon demands inquiry into claims she secretly backs David Cameron
-
 None

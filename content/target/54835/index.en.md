@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# Oliver Eglin
-
 Oliver Eglin is a British artist working between London and Wales. 

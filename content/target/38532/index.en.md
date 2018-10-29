@@ -10,6 +10,4 @@
   "start_date": "2016-04-11T10:00:00Z"
 }
 
-# Howard Marks
-
 Howard Marks was a writer, performer and former drug smuggler from Kenfig Hill, Bridgend.

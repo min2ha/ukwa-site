@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Strath Gaelic Choir - Còisir Ghàidhlig an t-Sratha on Facebook
-

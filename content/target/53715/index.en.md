@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Leicester Cons (@LeicesterCons  ) on Twitter
-
 Twitter account of Leicester Conservatives, covering their activities during the 2017 General Election campaign

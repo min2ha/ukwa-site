@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# New-Port Media Hub
-
 This is a local Community Media Hub for Newport. According to the site, the site is  'dedicated to everything & anything related to Newport - From documentaries to coverage of all sports events, festivals, business events and videography publications.

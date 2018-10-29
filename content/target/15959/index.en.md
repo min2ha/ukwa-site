@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Scotland’s Rural College (SRUC)
-

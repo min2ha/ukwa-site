@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General elction reaction live: Sturgeon introduces new MPs as Labour rally to recover from defeat to the Tories
-
 None

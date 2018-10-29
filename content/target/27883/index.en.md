@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T08:00:00Z"
 }
 
-# Thames Alive
-
 Thames Alive is an umbrella organisation harnessing and promoting the River Thames. There are hundreds of public and private bodies, societies and clubs involved with the river, but their objectives relate to different aspects and activities on and by the river, or to specific geographical areas and Thames Alive brings them together.

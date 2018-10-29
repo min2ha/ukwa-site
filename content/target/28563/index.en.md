@@ -10,5 +10,3 @@
   "start_date": "2015-06-30T10:00:00Z"
 }
 
-# Cymdeithas y Byddar Gogledd Cymru | North Wales Deaf Association
-

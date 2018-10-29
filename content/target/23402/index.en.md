@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Darren Jones Labour Candidate for Bristol North West
-

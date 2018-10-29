@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Shotts Bon Accord Football Club
-
 Site for a Scottish junior football club based in Shotts, Lanarkshire.

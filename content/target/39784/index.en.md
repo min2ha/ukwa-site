@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# East Lothian SNP (@EastLothianSNP) on Twitter 
-
 Twitter profile of the East Lothian branch of the Scottish National Party (SNP).

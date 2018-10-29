@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Extreme Cello Playing
-
 None

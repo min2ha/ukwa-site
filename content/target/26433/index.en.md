@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour to fight any attempt by Cameron to declare victory without a majority
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fulton MacGregor (@fultonsnp) on Twitter
-
 The Twitter profile of Fulton MacGregor, the Scottish National Party candidate for Coatbridge and Chryston in the 2016 Scottish Parliament election.

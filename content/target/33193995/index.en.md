@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Arian i Fadagascar | Money for Madasgcar
-
 Money for Madagascar is a Welsh based charity that funds projects aimed at tackling many of the key issues facing Madagascar today including

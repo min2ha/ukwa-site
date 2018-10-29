@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Sceptre Preservation Society
-
 Site of a society maintaining and preserving the yacht 'Sceptre' built in Scotland for the 1958 Americas Cup.

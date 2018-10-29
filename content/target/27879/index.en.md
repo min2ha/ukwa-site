@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# DustyDocs - English Parish Registers Online
-
 DustyDocs is a 'web-linking site' of English baptisms, marriages and burials records for the years 1538 to 1900. The information is sourced from freely available church BMB records and validated user contributions. DustyDocs categorises England into counties and towns to facilitate searches within specific locations.

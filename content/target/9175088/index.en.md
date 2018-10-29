@@ -10,5 +10,3 @@
   "start_date": "2008-07-04T00:00:00Z"
 }
 
-# British Motor Sport Association for the Disabled (BMSAD)
-

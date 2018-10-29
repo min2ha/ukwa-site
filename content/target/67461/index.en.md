@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Capitulation or chaos? Theresa May is forcing the Brexiters to choose
-
 Comments on Theresa May's strategy in agreeing that Parliament should be consulted on next steps if the deal negotiated with Brussels is voted down.

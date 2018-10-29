@@ -10,5 +10,3 @@
   "start_date": "2015-07-01T11:00:00Z"
 }
 
-# Welshpool and District U3A
-

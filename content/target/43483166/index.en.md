@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# One Guy from Barlick
-

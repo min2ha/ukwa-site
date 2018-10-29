@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St Helens and Knowsley Teaching Hospitals
-
 None

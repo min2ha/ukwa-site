@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Borders Forest Trust
-
 Site of a trust based in the Scottish Borders established to help restore native woodland to Southern Scotland and to encourage an interest in woodland culture with those in the local community.

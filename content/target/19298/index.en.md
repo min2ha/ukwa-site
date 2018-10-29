@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: Rally at Runnymede! And join the opposition to the Global Law Summit
-

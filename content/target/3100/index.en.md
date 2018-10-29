@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# National Railway Museum (NRM)
-
 Website of the National Railway Museum with sites in York and Shildon.

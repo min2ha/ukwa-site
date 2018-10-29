@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# SCILT
-
 Site of an organisation established to promote and support the delivery of high quality language learning within a climate which celebrates all languages; where language skills make a significant contribution to a fairer, smarter and more successful Scotland.

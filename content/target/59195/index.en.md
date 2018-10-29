@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Montrose and District Rugby Club
-
 Site of a Scottish rugby union football club based in Montrose, Angus.

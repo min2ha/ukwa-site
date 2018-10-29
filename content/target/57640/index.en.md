@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# 28DaysLater.co.uk
-
 An online enthusiast community concerned with urban exploration. Discusses various reports on explored locations, photography, regional UK groups and various other topics.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Bute Clarinet Quartet
-
 Bute Clarinet Quartet was formed in September 2013 has participated in various competitions, with notable achievements including winning first prize in the ensembles category at the National Eisteddfod (2014) and the National Urdd Eisteddfod (2015). 

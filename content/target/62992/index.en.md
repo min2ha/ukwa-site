@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# The Daily Mail -  Stephen Hawkings
-
 MailOnline - get the latest breaking news, showbiz & celebrity photos, sport news & rumours, viral videos and top stories from MailOnline. These are the articles related to Stephen Hawking

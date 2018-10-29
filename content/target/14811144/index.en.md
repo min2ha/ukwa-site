@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# West Penwith Resources
-
 None

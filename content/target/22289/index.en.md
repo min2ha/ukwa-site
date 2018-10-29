@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Graeme Cowie (@gcowie4eastren) on Twitter
-
 Twitter profile of Graeme Cowie, Liberal Democrats candidate for East Renfrewshire in the 2015 UK General Election.

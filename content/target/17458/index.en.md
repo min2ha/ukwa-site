@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Higher Education Policy Institute: A vice-chancellor's election manifesto
-
 The Higher Education Policy Institute is a think tank that was established in 2002 to shape the higher education policy debate through evidence. They are UK-wide, independent and non-partisan. They are funded by organisations and universities that wish to see a vibrant higher education debate as well as through their own events. HEPI is a company limited by guarantee and a registered charity.

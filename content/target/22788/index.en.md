@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Liz Kendall on Facebook (Labour candidate for Leicester West)
-

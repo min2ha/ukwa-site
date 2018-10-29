@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Art Knows: Comment on Art and Its Markets [by Tom Flynn]
-
 <p>Blog by Tom Flynn about cultural property, art sales and auctions, and the art market in general. Includes key issues about repatriation and restitution of looted or spoliated art, and features consideration of such topics as the British Museum's "Elgin Marbles" from the Parthenon.</p>

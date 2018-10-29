@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Thyroid Cancer Alliance
-
 This is one of two Thyroid Cancer Alliance websites.The aim of this website is to gather patient information for patients seeking information about different types of thyroid cancer into a single resource.

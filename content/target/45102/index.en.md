@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# BBC World Service Radio
-
 Radio coverage with various interviews related to Rio 2016

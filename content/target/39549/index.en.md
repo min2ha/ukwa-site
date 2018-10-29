@@ -11,7 +11,5 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Plaid Cymru: Llais Sir Gar | Carmarthenshire's Voice 
-
 A portal for Plaid Cymru representatives for Carmarthen East and Dinefwr constituency in both the Assembly and Westminster seat.
 

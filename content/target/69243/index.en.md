@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Church on the Isle of Bute St. Andrew's Parish, Rothesay, The
-
 Site of a Roman Catholic church in Scotland for the parish of St. Andrew's, Rothesay, Argyll & Bute.

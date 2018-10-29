@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Naomh Padraig Uisce Chaoin
-
 Naomh Padraig GAA was founded on February 16th1989. The club are based in Ture Muff Co.Donegal and currently play in the all county league division 4.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Kilted Kelpie (KiltedKelpie) on Twitter, The
-
 <p>The Kilted Kelpie, a pro-UK satirical twitter profile.</p>

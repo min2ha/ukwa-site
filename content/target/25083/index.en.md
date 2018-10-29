@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: David Cameron: ‘The first black or Asian PM will be a Tory'
-
 None

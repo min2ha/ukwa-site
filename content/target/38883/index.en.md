@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Buckie & District Fishing Heritage Centre
-
 Site of a local history society and museum located in the town of Buckie [now in Moray but formerly in the county of Banffshire] emphasising the town's connection with fishing.

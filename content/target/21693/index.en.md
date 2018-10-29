@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour disqualifies more than 130 Halifax party members before hustings
-
 None

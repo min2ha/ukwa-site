@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bobby Smith, Give me Back Elmo Party, Witney on Facebook
-

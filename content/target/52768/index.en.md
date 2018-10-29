@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ryan Mercer (@MercerRyanJ) on Twitter (Liberal Democrats Politician)
-
 Ryan Mercer stood as Liberal Democrats candidate for Putney, Roehampton and Southfields at the 2017 General Election but was not elected.

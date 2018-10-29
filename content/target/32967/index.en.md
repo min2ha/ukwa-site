@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# The Organ Club Newsletter
-
 Monthly newsletter of the Organ Club, a society for people who enjoy organ music and playing the organ.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage urges UK broadcasters to press ahead with television debates
-

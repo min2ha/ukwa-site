@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alun dros Arfon | Alun for Arfon
-
 <p>Labour candidate for the Arfon constituency.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craig Mackinlay ( @cmackinlay ) on Twitter (Conservative Politician)
-
 Craig Mackinlay stood as Conservative candidate for South Thanet at the 2015 General Election and was elected to serve as MP. He stood for re-election in 2017 and was successful.

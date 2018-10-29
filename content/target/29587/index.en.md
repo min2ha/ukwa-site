@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Creu Cymru
-
 Creu Cymru is the development agency for theatres and arts centres in Wales.

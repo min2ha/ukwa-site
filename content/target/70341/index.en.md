@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Funding 4 Sport (@Funding4Sport) on Twitter
-
 A One Stop shop website with over 2,000 documents from around the world for all those interested in sport, play and physical activity.

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Pollokshields Heritage
-
 Local conservation and amenity society, in Pollokshields, Glasgow. Aims to encourage development that enhances the fabric of the neighbourhood, as well as promoting maintenance of the character of the area.

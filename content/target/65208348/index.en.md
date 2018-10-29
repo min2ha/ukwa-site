@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Invest in Cardiff
-
 Invest in Cardiff is an initative promoting Cardiff as an easy place to do business and a great place to live. The site is managed by Cardiff City Council.

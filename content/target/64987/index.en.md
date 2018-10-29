@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Corstorphine Old Parish
-

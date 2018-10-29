@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy Croy (@AndyCroy) on Twitter (Labour Politician)
-
 Andy Croy stood as Labour candidate for Wokingham at the 2017 General Election but was not elected.

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Mary Tracy's blog
-

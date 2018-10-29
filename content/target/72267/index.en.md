@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sport NI (@SportNINet) on Twitter
-
 Sport Northern Ireland is the public body for the development of sport in Northern Ireland. Their aims are: increased participation in sport and physical recreation; improved sporting performances; and improved efficiency and effectiveness in the administration of sport. This is their official Twitter account.

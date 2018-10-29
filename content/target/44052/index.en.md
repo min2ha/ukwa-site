@@ -11,7 +11,5 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WWI Lives Remembered 
-
 Christ Church Southgate - Parish Map 1911
 Poppies mark approximate location of the homes of the fallen.

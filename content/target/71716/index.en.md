@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Guild of Servers
-
 Site of an organisation within the Scottish Episcopal Church of lay persons linked by ideals of reverence, devotion and service in the Sanctuary, people present at the altar during celebrations of the Holy Eucharist, praying with the celebrant and giving such practical assistance as will enable the service to be conducted with due dignity.

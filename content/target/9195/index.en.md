@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Shoebridge on Twitter
-
 None

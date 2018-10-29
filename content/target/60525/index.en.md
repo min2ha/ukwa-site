@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Inspire: wellbeing for all
-
 Inspire's mission is to build a flourishing society in which all people have access to services and support appropriate to their mental health and wellbeing needs. To achieve this we will promote, support and explore flourishing mental wellbeing throughout society. We will be an exceptional organisation marked by excellence, efficiency and innovation.

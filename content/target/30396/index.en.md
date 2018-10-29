@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Linlithgow sees Syria
-
 The Facebook page of Linlithgow Sees Syria, part of a series of vigils marking the deaths of Syrian refugees.

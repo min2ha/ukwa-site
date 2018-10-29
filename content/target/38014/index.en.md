@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Vote for Brexit would lead to 'implosion' of the continental bloc, warns LSE chief
-

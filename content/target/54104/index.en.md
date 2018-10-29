@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chi Onwurah (Labour Party  Politician)
-
 Chinyelu Susan "Chi" Onwurah stood as Labour candidate for Newcastle upon Tyne Central at the 2010 General Election. She was first elected to serve as the MP for Newcastle upon Tyne Central in 2010 and re-elected in2015. She stood for re-election again in 2017 and was successful. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christ the King & Sacred Heart
-
 Site of two Roman Catholic parish churches in Scotland, namely The Sacred Heart, Grangemouth and Christ the King, Grangemouth.

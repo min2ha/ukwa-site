@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brits in EU: It's your future, so act now to keep Britain in
-
 There are different types of ex pats living abroad and the vote influences both groups. The vote could potentially have a huge affect on rights, benefits and residency status of Brits living in EU countries.

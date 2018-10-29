@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Populus: The Brexit Index: a who’s who of Remain and Leave supporters
-
 Analysis of backing for Remain and Leave suggests that the two sides are appealing to very different types of supporters, and the country is sharply divided on the issue of Brexit on educational, income, age, and geographical grounds.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# UEFAWU19
-
 Founded in the Queens Hotel, Belfast back on 18th November 1880 the Irish Football Association is the fourth oldest governing body in the world behind the other three home associations.

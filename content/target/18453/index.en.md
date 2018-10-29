@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Could the Scottish National Party run 'United Kingdom plc'?
-
 None

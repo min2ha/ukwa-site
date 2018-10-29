@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Walton Evangelical Church
-
 Walton Church is a community of people who are ‘living to love, serve and share Jesus’. Walton Church is situated in Chesterfield (Derbyshire, UK). Walton Church is Bible-based and family-friendly.

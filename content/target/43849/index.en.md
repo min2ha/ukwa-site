@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# The Manchester Review
-
 Biannual international poetry and prose magazine, publishing both established and lesser know authors.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Saltaire United Reformed Church
-
 None

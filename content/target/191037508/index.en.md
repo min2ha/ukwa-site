@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cymru Cofio 1914-1918 | Wales Remembers 1914-1918
-
 Wales Remembers is a Welsh Government funded project. The site provides news, events, information for the commemoration of the First World War Centenary in Wales.

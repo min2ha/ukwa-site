@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Jude-on-the-Hill
-
 Official web page of St. Jude-on-the-Hill.

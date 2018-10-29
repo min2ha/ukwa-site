@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Golf Monthly Forum
-
 An online enthusiast forum concerned with Golf, is part of the Golf Monthly Magazine website.The forum discusses the rules of golf, items for sale, setting up games, advice from experts, gear reviews and a photo section.

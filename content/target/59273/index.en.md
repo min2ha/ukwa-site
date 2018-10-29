@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Lords push for new regulations to protect children online
-
 News article regarding proposed changes to the data protection bill to safeguard children. Technology firms could be subjected to tough new regulations to protect the privacy and mental health of children as a result of a cross-party campaign that is likely to inflict a defeat on the government within weeks.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Montgomeryshire Bowling Association
-
 Montgomeryshire Bowling Association Established 1955

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Scottish Citylink Coaches Limited
-
 The website of Scottish Citylink Coaches Limited, a bus and express coach services provider. 

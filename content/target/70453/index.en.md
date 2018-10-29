@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Express: BREXIT BOMBSHELL: EU leaders should 'FORCE-FEED' UK chance to extend transition period
-
 EUROPEAN Union leaders should extend the Brexit transition period locking Britain into the bloc’s rules and regulations longer in order to negotiate the complex future agreement, according to European Policy expert Andrew Duff.

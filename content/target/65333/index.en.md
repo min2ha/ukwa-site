@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hurlford Church
-
 Site of a Church of Scotland parish church at Hurlford, Ayrshire.

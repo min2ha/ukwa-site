@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# She Kicks
-
 She Kicks is a multimedia women’s football information service, covering what’s going on in the game in the UK and the Rest of the World.

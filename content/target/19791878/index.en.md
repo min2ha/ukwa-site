@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Broxbourne White Water Canoe Centre
-
 None

@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:14.519177", 
+  "date": "2018-10-29T13:22:21.768994", 
   "open_access": false, 
   "target_url": "http://www.bbc.co.uk/news/technology-24925936", 
   "description": null, 
   "end_date": null, 
   "title": "BBC News: Philippines: Rush to get Tacloban hospital online", 
-  "record_id": "20181029T125514/EuAJC+EoyNDCQDbAm4A9Gg==", 
+  "record_id": "20181029T132221/EuAJC+EoyNDCQDbAm4A9Gg==", 
   "publisher": "bbc.co.uk", 
   "start_date": null, 
   "subject": "UK response to Typhoon Haiyan (Philippines) 2013"
 }
-
-# BBC News: Philippines: Rush to get Tacloban hospital online
 
 None

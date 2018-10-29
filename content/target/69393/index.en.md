@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jeremy Corbyn: Bring manufacturing 'back to Britain'
-
 A Labour government would seek to ensure "we build things here that for too long have been built abroad", party leader Jeremy Corbyn told the EEF. He argued that new train carriages, defence, NHS and new passports were areas where money unnecessarily was spent abroad. He said that on Brexit the UK needed a new customs union with the EU to avoid ending "in hock to Donald Trump".
 
 

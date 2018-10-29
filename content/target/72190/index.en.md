@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Harlow RUFC
-
 The official website of Harlow Rugby Club.

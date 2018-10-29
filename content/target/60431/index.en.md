@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May’s Brexit pledges have turned to ashes. Was she deluded or dishonest?
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Carmarthen East and Dinefwr Conservatives
-
 Website of Carmarthen East and Dinefwr Conservatives, providing information about the association, contact and local, national and westminster news updates and opinion.

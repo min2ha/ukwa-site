@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour reeling as top business bosses attack policies
-
 None

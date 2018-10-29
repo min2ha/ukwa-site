@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Better Labour meetings are segregated than men only, says Harriet Harman
-
 None

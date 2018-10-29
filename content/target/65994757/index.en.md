@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Official Protesters of the London 2012 Olympic Games
-

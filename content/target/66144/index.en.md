@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Anaerobic Digestion and Biogas Association
-
 The ADBA website On this site, you can find out about anaerobic digestion (AD) and biogas.

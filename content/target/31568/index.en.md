@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Jayson Mackie
-
 Jayson Mackie is a Welsh composer.

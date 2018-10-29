@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Jim Murphy: I'll use City of London tax to help Scottish students
-
 None

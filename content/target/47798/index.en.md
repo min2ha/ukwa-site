@@ -10,6 +10,4 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# St Philip Evans RC Church, Cardiff
-
 The parish area of St Philip Evans includes Llanedeyrn, Pentwyn, Pontprennau, and new housing beyond Pontprennau south of the M4 in Cardiff.

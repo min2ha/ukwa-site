@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lambeth Palace on Youtube
-
 YouTube channel of the Lambeth Palace.

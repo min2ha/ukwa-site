@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# London Assembly. Economy Committee: EU migration
-
 The London Assembly Economy Committee has taken evidence from a range of immigration experts and representatives from key sectors in London to understand the risks and opportunities that might come from changes to immigration policy. 

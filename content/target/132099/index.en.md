@@ -10,5 +10,3 @@
   "start_date": "2006-05-30T23:00:00Z"
 }
 
-# Sara Heitlinger
-

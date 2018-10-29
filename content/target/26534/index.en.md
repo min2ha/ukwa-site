@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron's blue-collar cabinet causes limo-lock on Downing Street
-
 None

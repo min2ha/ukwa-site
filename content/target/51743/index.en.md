@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Towy Community Church, Carmarthen
-

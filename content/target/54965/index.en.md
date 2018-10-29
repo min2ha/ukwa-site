@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell Tower Fire (@TowerGrenfell) on Twitter
-
 One of many Twitter accounts that was set up after the Grenfell Tower fire on 14/06/2017.This account is focused on raising money through the platform Just Giving, however three days after the account was set up there have been no donations made. 

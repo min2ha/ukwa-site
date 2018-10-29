@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Scot JCB (Holdings) Limited
-
 Scot JCB (Holdings) Limited is a retailer of new and used construction and farming equipment, agricultural and ground care machinery, air compressors, industrial forklifts, and machine parts. The company was formed in 1950 and is based in Glasgow.

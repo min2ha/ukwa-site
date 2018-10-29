@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# eGigs Forum
-
 The eGigs Forum is an online enthusiast community concerned with gigs (small music concerts) in the UK. The forum discusses gigs and bands, gigs by area, tickets and other topics.

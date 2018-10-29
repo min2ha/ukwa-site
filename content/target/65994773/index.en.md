@@ -10,5 +10,3 @@
   "start_date": "2012-07-23T00:00:00Z"
 }
 
-# Sustainable Alumni Volunteer Engagement (SAVE)
-

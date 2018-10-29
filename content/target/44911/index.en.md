@@ -10,6 +10,4 @@
   "start_date": "2016-08-09T11:00:00Z"
 }
 
-# Jerwood Gallery
-
 Opened in March 2012, the award-winning Jerwood Gallery sits next to the fishing beach in Hastings’ historic Old Town. The gallery is home to the Jerwood Collection of 20th and 21st century art and a varied temporary exhibition programme showcasing modern and contemporary British art.

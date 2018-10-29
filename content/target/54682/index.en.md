@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror: Why Facebook and Twitter could be bad for our mental health
-
 News Article: facebook and mental health

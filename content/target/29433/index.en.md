@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Southern Wales
-
 Toruist information guide to south east Wales.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Driffield Times & Post
-
 None

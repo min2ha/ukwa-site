@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Comann Rìoghail Ceilteach / Royal Celtic Society
-
 Site of an organisation supporting support the language, literature, music and culture of the Highlands and Western Islands of Scotland, holding regular events for members, awards medals for excellence in music and literature and sponsoring a wide range of organisations dedicated to the traditions, language and arts of the Highlands and Islands.

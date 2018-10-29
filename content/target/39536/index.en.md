@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Clare Adamson SNP Motherwell and Wishaw on Facebook
-

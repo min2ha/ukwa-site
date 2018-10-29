@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Monkey Forest
-
 Woodland and meadows with 140 monkeys living in freedom, with forest path, info boards and videos.

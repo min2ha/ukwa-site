@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dundee Design Festival
-
 Site of a festival celebrating the design innovations of the city of Dundee and its contribution to design in Scotland and the world.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour lead falls as Greens hit 20-year high in Guardian/ICM poll
-
 None

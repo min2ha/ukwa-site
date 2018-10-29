@@ -10,6 +10,4 @@
   "start_date": "2015-01-27T00:00:00Z"
 }
 
-# Jeffrey Green
-
 <p>Jeffrey Green  is a historian based in the UK. The site was established in December 2009 and is largely focussed on the activities of people of African descent in Britain before the Second World War.</p>

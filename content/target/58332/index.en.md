@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Vapers In Power Welsh Manifesto 2016
-

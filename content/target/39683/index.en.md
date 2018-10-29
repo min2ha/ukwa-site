@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# James Irving-Lewis Solidarity first list Candidate North East Scotland on Facebook
-
 Facebook page of James Irving-Lewis, Solidarity list candidate for North East Scotland in the 2016 Scottish Parliamentary election.

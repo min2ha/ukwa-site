@@ -11,6 +11,4 @@
   "subject": "Free e-Journals"
 }
 
-# Woman Alive
-
 None

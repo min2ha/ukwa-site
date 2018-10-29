@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# The Poverty Alliance - Scotland - Working together to combat poverty
-
 The Poverty Alliance is an registered scottish charity which aims to combat poverty by working with others to empower individuals and communities to affect change in the distribution of power and resources.

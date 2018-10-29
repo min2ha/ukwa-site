@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Lancashire Queen's Diamond Jubilee Committee, The
-

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Cambridge Independent - Stephen Hawking
-
 News, sport, what’s on, entertainment, lifestyle, traffic, weather and community information for Cambridge and South Cambridgeshire from the Cambridge Independent. These are articles related to Stephen Hawking

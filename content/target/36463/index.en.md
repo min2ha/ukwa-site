@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cabinet Office: The process for withdrawing  from the European Union
-
 This document sets out the process that would follow a vote to leave the European Union, and the prospects for negotiations. The rules for exit are set out in Article 50 of the Treaty on European Union. This is the only lawful route available to withdraw from the EU. 

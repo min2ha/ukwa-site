@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Abbeycwmhir Heritage Trust
-
 The website provides a history of Abbey of Cwmhir in Radnorshire, Powys where Llywelyn our Last Prince is believed to be buried. The Abbeycwmhir Heritage Trust, founded in 1987, is responsible for the website.

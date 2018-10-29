@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# True Colours LGBT Choir
-
 True Colours LGBT Choir is aimed at the lesbian, gay, bisexual, transgender community and those who support sexual equality. True Colours is based in Swansea.

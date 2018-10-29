@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Helston WW1 Heritage Project's profile photo on Facebook
-

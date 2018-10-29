@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Labour Campaign for the Single Market
-
 The Labour Campaign for the Single Market seeks to shift Labour Party policy into one of unequivocal support for staying in the Single Market by remaining a member of the European Economic Area and the Customs Union.
 

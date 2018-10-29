@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: A survival guide for families split over EU referendum
-
 Website for the BBC News service

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: MP says Labour would win seat even if it fielded a 'sex paedophile'
-
 None

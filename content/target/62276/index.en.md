@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Past (@thecentretunnel) on Twitter
-
 A fan run Twitter account that highlights moments in soccer history. 

@@ -10,6 +10,4 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# On Demand (@ondemandBL) on Twitter
-
 The British Library’s document supply service. The latest academic research wherever you are, whenever you need it.

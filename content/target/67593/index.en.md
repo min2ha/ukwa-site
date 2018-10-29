@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Old Worthy Brewing Company Ltd
-
 Site of a brewer based in Edinburgh.

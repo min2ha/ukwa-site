@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Wave Composition
-
 <p>Wave Composition is a UK-based literary web-journal that publishes original creative work, interviews, and essays by a wide-range of contemporary writers.</p>

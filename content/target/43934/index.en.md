@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Carolyn Harris (Labour MP for Swansea East)
-
 Carolyn Harris is the Labour MP for Swansea East.

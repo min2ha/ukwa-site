@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Scottish Development International (SDI)
-
 Scottish Development International (SDI) is the international arm of Scotland's enterprise agencies. It provides information for the companies considering Scotland as market to invest, relocate, partner, trade or expand. 

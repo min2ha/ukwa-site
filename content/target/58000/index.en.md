@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The Tory speech Mrs May should have delivered: STEPHEN GLOVER gives his alternative version 
-
 Presents an alternative version of Theresa May's speech at the 2017 Conservative Party conference.

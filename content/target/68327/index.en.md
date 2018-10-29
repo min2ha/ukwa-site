@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Talgarth Walking Festival
-
 series of free walks around Talgarth

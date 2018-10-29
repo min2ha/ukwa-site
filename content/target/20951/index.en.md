@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# It's Our County
-
 Website of It's Our County, a local party for Herefordshire providing information on councillors, manifesto and local, national and party news.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Otley Science Festival
-
 Festival aimed at raising the profile of scientific subjects of all kinds and interest children in careers in science

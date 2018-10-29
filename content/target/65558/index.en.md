@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Screen Education Edinburgh
-
 Site of a charitable organisation dedicated to transforming lives through the medium of film, developing young people, new talent and independent filmmakers.

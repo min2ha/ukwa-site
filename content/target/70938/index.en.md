@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# York Beer & Cider Festival
-
 Yorkshire's largest beer festival

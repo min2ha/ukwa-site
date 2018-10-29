@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Christian Aid UK
-
 Christian Aid works to end to poverty internationally

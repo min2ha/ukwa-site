@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: 'Brexit could weaken Nato alliance', warns US general
-

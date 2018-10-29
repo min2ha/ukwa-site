@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Digital Spy: Showbiz news: Nelson Mandela dies aged 95: Tributes and reactions
-
 <p>A collection of Twitter messages from British and American politicians, actors and other performers in response to the news of the death of Nelson Mandela.</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-#  St Mary’s Church, St Mary Cray
-
 Official website of St Mary’s Church, St Mary Cray, Kent.  The Parish Magazine of The Cray Valley Benefice is published monthly on the site.

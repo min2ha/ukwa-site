@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Michael Gove, new Justice Secretary, wanted to bring back hanging
-
 None

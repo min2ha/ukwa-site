@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Sir Jeremy Heywood's evasive notion of accountability in public service 
-
 Guardian, The

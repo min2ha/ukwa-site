@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Tweeddale Society
-
 Site of a society with the objectives to study of the history, natural history, archaeology and literature of the area of Tweeddale in the Scottish Borders.

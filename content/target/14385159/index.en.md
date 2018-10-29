@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Carousel - The Guide to Children's Books
-
 None

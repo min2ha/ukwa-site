@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh International Festival
-
 The Edinburgh International Festival takes place every August and presents three weeks of the finest creators and performers from the worlds of the arts, particularly music, theatre, opera and dance.

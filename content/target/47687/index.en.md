@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'I was wrong about Brexit!' Britain's most influential historian Niall Ferguson says he made a mistake in backing the Remain campaign and says the EU 'deserved' the result
-
 Niall Ferguson, one of the country's most influential historians, admitted in a speech at the Milken Institute that he had been wrong to endorse the Remain campaign – and should have backed Brexit.

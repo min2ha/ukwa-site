@@ -396,6 +396,4 @@
   "endDateText": ""
 }
 
-# Local History Societies 
-
 Growing collection of websites of UK local history societies, associations and groups.

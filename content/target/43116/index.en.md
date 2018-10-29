@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# Penicuik Community Development Trust
-
 Site of a local community trust in Penicuik, Midlothian, established to harness local volunteers to improve the amenities and social activities in the town.

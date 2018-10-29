@@ -10,5 +10,3 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Nether Lochaber Parish Church
-

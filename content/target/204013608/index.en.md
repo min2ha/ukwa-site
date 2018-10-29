@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# Echange Theatre Company
-

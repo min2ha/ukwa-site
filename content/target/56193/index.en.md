@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK-EU freedom of movement 'to end in March 2019'
-
 Free movement of people between the EU and UK will end in March 2019, UK government ministers confirmed.

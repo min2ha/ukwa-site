@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Get Britain Out
-
 Get Britain Out is an independent, non-party, grassroots campaign to Get Britain Out of the European Union.

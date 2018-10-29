@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Would Osborne's promised 'emergency Budget' actually materialise after Brexit? I very much doubt it
-

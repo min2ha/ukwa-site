@@ -10,8 +10,6 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# Llety Arall
-
 
 
 Llety Arall Cyf is a Community Benefit Society based in Caernarfon. The aim is to Contribute to the economic and cultural regeneration of Caernarfon by developing facilities and providing accommodation for people to experience and learn about the town's language culture and heritage.

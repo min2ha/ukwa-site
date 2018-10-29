@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Osborne offers tax cuts and help-to-buy Isas in highly political 2015 budget
-
 None

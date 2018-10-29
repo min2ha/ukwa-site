@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Playwrights' Studio, Scotland
-
 Site of an arts organisation dedicated to the long-term support, development and promotion of Scotland's playwrights, connecting writers with audiences and organisations.

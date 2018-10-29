@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: 2,000 voters, two leaders - one notable absentee
-
 None

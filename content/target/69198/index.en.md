@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# JORVIK Viking Festival
-
 Website for the Jorvik Viking Festival. 

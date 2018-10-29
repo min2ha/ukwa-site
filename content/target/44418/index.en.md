@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The case for a more independent, post-Brexit London is gaining strength
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP to wipe out Labour vote in Scotland, Lord Ashcroft poll reveals
-
 None

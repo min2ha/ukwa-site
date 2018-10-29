@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Swinney MSP Perthshire North
-
 John Swinney is Member of the Scottish Parliament for Perthshire North and Deputy First Minister in the Scottish Government.

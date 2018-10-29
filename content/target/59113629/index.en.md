@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# False Economy
-
 <p>Website produced by campaigning group concerned about the impact of the Coalition Government's 2010 spending cuts on communities, families and jobs.</p>

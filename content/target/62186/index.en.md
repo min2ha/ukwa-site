@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cambusnethan North Parish Church
-
 Site of a Church of Scotland parish church at Cambusnethan, near Wishaw, Lanarkshire.

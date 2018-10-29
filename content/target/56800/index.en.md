@@ -10,6 +10,4 @@
   "start_date": "2017-08-24T09:00:00Z"
 }
 
-# Landed Families of Britain and Ireland
-
 This is a blog where the author presents the results of their research into the landowning families of the British Isles and the country houses which they owned. 

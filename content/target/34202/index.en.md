@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Dublin Diary, The
-
 This website contains accounts and images of many buildings associated with the Easter Rising, 1916, including the GPO, Kilmainham Jail, and the Pearse Museum.

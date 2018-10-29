@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Historic Environment Scotland Portal
-

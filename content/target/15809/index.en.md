@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Blanc Home
-
 <p>BLANC Home is the online store from BLANC, eco-friendly clothes cleaner in London.</p>

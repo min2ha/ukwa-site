@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC: Second EU Referendum Petition Investigated For Fraud
-
 The House of Commons petitions committee is investigating allegations of fraud in connection with a petition calling for a second EU referendum.

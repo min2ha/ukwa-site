@@ -10,6 +10,4 @@
   "start_date": "2017-04-09T09:00:00Z"
 }
 
-# Deveron Projects
-
 Site of an arts organisation based in Huntly, working with local history, context and identity of the town with the idea that the town is the venue, creating socially engaged projects that connect artists, communities and places.

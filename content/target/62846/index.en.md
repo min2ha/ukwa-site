@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# FSHR: The Impact of Internet Pornography on Mental & Physical Health - 9 May 2018 - Edinburgh Event page
-
 Event description for workshop on The Impact of Internet Pornography on Mental & Physical Health - 9 May 2018 - Edinburgh

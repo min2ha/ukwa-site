@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Jews for Justice for Palestinians
-
 Jews for Justice for Palestinians (JfJfP) is a network of Jews who are British or live in Britain, practising and secular, Zionist and not. We bring together Jews from across the religious and political spectrum and value contributions to the struggle for justice for Palestinians by Jews from every background, in Britain, Israel, and across the world.

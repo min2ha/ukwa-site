@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jo Thomas (@JoThomas_) on Twitter (Labour candidate for Clwyd West) 
-
 Jo Thomas is the Labour candidate for Clwyd West at the 2016 National Assembly Elections. 

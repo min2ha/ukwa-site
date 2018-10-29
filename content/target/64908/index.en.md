@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# The Cambridge Knee Clinic
-
 A clinic dedicated to the care of knee problems in adults and children, sportsmen and sportswomen

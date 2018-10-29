@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# OBRFC RUGBY (@obrfcrugby) on Twitter
-
 The official Twitter account of Old Brentwoods Rugby Football Club.

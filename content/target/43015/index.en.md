@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leading trade union NIPSA votes to back Brexit
-
 One of the largest trade unions in Northern Ireland has decided to support the campaign for Britain to leave the European Union.

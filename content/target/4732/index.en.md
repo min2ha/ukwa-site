@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# BBC News: Nelson Mandela death: Northern Ireland leaders pay tribute
-
 <p>Statements of Northern Ireland political leaders in tribute to Nelson Mandela.</p>

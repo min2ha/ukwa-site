@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# OK! Magazine UK
-
 Celebrity news and the latest showbiz, TV and soap spoilers from OK! Magazine. The best celeb pictures, video and entertainment stories in the UK

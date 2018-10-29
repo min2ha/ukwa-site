@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Live: "Easter Rising - Martin McGuinness says commemorations must be 'mature and inoffensive'"
-

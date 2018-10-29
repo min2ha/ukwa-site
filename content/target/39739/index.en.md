@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Hannah Pudner on Facebook (Green Party candidate for Cardiff West and South Wales Central)
-
 Hannah Pudner is the Green Party candidate for Cardiff West and South Wales Central at the 2016 National Assembly for Wales elections.

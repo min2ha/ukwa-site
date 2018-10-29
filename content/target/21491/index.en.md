@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron FINALLY agrees to TV election debate but row continues
-
 None

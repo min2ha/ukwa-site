@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Scottish Poetry Library
-
 The Scottish Poetry Library is a national resource and advocate for the art of poetry, and Scottish poetry in particular.

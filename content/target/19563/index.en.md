@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Trowbridge to play part in 2015 Magna Carta celebrations
-

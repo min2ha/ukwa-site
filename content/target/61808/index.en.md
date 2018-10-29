@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Lodge Cochno 1304
-
 Site of a masonic lodge located in Clydebank, West Dunbartonshire and affiliated with the Grand Lodge of Scotland.

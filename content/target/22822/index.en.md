@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Michael Barker (TUSC candidate for Leicester East): Thoughts of a Leicester Socialist
-

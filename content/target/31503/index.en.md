@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Jeremy Thomas Artist
-
 Welsh based artist shortlisted for Welsh Artist of the Year award.

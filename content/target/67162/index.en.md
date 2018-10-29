@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# All Wales Familial Hypercholesterolaemia 
-
 Familial Hypercholesterolaemia (FH) is a common inherited condition affecting around 1 in 500 of the UK population. It is caused by an abnormal gene which results in very high cholesterol levels in the blood. The FH Wales Service identifies and treats individuals and families in Wales.

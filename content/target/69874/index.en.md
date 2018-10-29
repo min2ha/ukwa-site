@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bridget's Roman Catholic Church, Eaglesham
-
 Site of a Scottish Roman Catholic parish church located in Eaglesham, East Renfrewshire.

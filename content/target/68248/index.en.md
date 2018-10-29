@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Laig Bay Brewing Company
-
 Site of a brewer based on the isle of Eigg, Highland.

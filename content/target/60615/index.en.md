@@ -10,6 +10,4 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# Lodge Royal Thistle No. 1338
-
 Site of a masonic lodge located in the Morningside area of Edinburgh, affiliated with the Grand Lodge of Scotland and associated with the British Army regiment, The Royal Scots.

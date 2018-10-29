@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Marina Abertawe | Swansea Marina
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kensington & Chelsea Liberal Democrats
-

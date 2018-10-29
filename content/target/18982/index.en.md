@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: The papers: Cameron's 'Magna Carta' and 'daddy leave' 
-

@@ -10,7 +10,5 @@
   "start_date": "2018-01-12T09:00:00Z"
 }
 
-# Alan Young
-
 
 Alan Young is a member of the Royal Watercolour Society of Wales. His work has been exhibited at a number of Welsh galleries, including the Royal Cambrian Academy, MOMA (Wales), Oriel Ceri Richards at Swansea University, the Tower Gallery Crickhowell and the National Library of Wales.

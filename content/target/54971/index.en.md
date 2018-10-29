@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Bristol no borders: for the free movement of people
-
 Blog of Bristol No Borders group campaigning for the free movement of people, in Bristol

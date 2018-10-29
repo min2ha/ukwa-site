@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 28th February 2018: Prime Minister's Questions
-
 The Prime Minister emphatically rejects proposals in the draft EU withdrawal agreement that Northern Ireland should remain in a customs union with the EU in order to avoid the creation of a hard border with the Irish Republic. Such an approach would threaten the integrity of the UK.

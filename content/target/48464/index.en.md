@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# Westray & Papa Westray
-
 Site providing visitor / tourist information for the islands of Westray and Papa Westray, Orkney, Scotland.

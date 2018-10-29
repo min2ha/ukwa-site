@@ -10,6 +10,4 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# Lodge Mauldslie Castle No. 1630
-
 Site of a masonic lodge located in Wishaw, North Lanarkshire and affiliated with the Grand Lodge of Scotland.

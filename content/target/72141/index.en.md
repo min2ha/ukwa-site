@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hinckley RFC on Pitchero
-
 The official website of Hinckley Rugby Club. Hinckley RFC are a successful Midlands One club who were established in 1893. 

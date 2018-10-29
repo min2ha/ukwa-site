@@ -10,6 +10,4 @@
   "start_date": "2016-07-27T10:00:00Z"
 }
 
-# Coast2Coast Festival
-
 Coast2Coast Festival is a music festical held in Rhyl.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guaridan, The: Labour vows to ban indefinite detention of asylum and immigration applicants
-
 None

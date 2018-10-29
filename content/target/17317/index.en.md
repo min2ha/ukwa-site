@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Welfare state is now growing at its slowest rate since 1948
-
 None

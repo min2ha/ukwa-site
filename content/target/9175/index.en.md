@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# YES 2014 on Twitter
-
 None

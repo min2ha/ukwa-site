@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Stevenson Adventures
-
 Stevenson Adventures are a charity which provide qualified leaders and equipment to take disadvantages young people on walks and expeditions in the Scottish hills.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Plaid Cymru 2016 
-

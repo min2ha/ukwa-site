@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Moderns RFC (@NMRFC) on Twitter
-
 The official Twitter account of Nottingham Moderns Rugby Club.

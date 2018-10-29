@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Caroline Squire (@SquireCaroline ) on Twitter (Conservative Politician)
-
 Caroline Squire stood as Conservative candidate for Birmingham Edgbaston at the 2017 general election but was not elected. 

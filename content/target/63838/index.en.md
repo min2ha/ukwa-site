@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Pilrig St. Paul's Church
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum: Helping you navigate the debate
-
 Website by The Democratic Society, aims to be an information resource about the European Union and encourage debate

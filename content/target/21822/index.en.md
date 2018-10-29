@@ -10,6 +10,4 @@
   "start_date": "2015-04-14T09:00:00Z"
 }
 
-# Info Bay Ceredigion
-
 An interactive website offering information, news and advice to all young people aged 11 to 25 in Ceredigion.

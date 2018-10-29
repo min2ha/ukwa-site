@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Shree Swaminarayan Temple Cardiff
-
 Shri Swaminarayan is the first and largest Hindu temple in Wales and comes under the NarNarayan Dev Gadi of the Swaminarayan Sampraday. The temple is located in the Grangetown area of Cardiff.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Itty Bitty Book Co: Talking Kindness, Fairness & Respect. Free Printable Posters - Marriage Equality, Your Vote. Northern Ireland Election 2017
-
 Free Printable Posters  to promote the Marriage Equality campaign during the Northern Ireland Assembly election 2017.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Attila the Stockbroker (@atilatstokbroka) on Twitter
-
 Twitter account for Attila the Stockbroker.

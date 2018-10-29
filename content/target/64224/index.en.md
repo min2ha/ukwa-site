@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Braemar and Crathie Parish Church
-

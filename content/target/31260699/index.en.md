@@ -10,6 +10,4 @@
   "start_date": "2013-08-05T11:00:00Z"
 }
 
-# Hospitality, Leisure, Sport & Tourism Network
-
 None

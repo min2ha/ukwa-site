@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Sammy Wilson warns Brexit talks may jeopardise DUP-Tory deal
-
 DUP MP Sammy Wilson warned that his party's deal to support the Conservative government could be jeopardised by the Brexit negotiations. He said any attempt to "placate Dublin and the EU" could mean a withdrawal of DUP support at Westminster.

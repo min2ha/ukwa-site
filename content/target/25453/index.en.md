@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leaders’ debate verdict: ‘It’s not a good night when Gary Lineker calls you a dick 
-
 None

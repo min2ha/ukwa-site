@@ -10,6 +10,4 @@
   "start_date": "2018-08-31T09:00:00Z"
 }
 
-# Tweeddale University of the Third Age (U3A)
-
 Site of the Tweeddale, Scottish Borders, branch of a national charity for lifelong learning into the 'third age', namely, after retirement. 

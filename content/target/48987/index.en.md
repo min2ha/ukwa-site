@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Rubin Eynon
-
 Rubin Eynon is an artist who works 'primarily on commissioned sculpture in the public realm in Wales, often creating artworks representing Welsh history'.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marlborough Literature Festival
-
 Marlborough Literature Festival

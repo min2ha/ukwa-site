@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Sport Wales
-
 Blog by Sport Wales, the national organisation responsible for developing and promoting sport and physical activity in Wales. 

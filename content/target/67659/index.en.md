@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# heads_together (@heads_together) on instagram
-
 An Instagram account aimed at changing the conversation surrounding mental health

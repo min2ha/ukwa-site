@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# British Ecological Society: The EU Referendum: what could it mean for environment and science policy
-
 Blog explaining the changes that may occur if the UK leaves the EU and the effect on environmental policy such as the Common Agricultural Policy (CAP), Common Fisheries Policy (CFP) and the Nature Directives.

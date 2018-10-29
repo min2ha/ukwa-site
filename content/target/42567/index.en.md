@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football ground guide
-
 Guide to UK football grounds for visiting fans, covering 240 football grounds in, England, Scotland, Wales and Ireland. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cardiff University, European Documentation Centre: The Brexit debate, the United Kingdom and the European Union
-
 Guide to information resources

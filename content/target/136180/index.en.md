@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# MINI UK
-
 None

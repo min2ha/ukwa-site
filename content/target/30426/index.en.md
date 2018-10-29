@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Bangor University : Ideal Project
-
 The Ideal project is a 'longitudinal cohort study using a mixed methods approach to find out what social and psychological factors support or hinder the ability of people and their families to live well with any type of dementia or similar problems.' The project is based at Bangor University.

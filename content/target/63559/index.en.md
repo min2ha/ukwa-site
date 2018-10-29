@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Glenrothes & Area Heritage Centre on Facebook
-
 Site of a local history group at Glenrothes, Fife.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Friends of Kilfinan Parish Church
-
 Site of an association dedicated to preservation, maintenance, repair and restoration of the fabric of the Church of Scotland parish church in Kilfinan, Argyll & Bute

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barnet Borough Times (@times_series) on Twitter
-
 The latest news, sport and events from Edgware, Mill Hill, Hendon, Golders Green, Finchley, Barnet and Potters Bar. 

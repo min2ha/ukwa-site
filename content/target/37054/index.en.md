@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Express, The: EU referendum 2016: Who is allowed to vote?
-
 Question and Answers in relation to the EU Referendum. Who is allowed to vote? 

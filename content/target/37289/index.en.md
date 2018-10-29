@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express: Let the Scots go their own way if we vote for Brexit, says Leo McKinstry
-
 Website of the Daily Express newspaper. 

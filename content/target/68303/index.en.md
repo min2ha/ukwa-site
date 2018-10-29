@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cov Tech RFC
-
 A long running rugby team in the heart of Coventry UK with a very very sociable scene!

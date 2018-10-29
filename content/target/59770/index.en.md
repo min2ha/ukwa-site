@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# "BBC News: Theresa May 'dancing to EU's tune' over Brexit, says Farage "
-
 In a debate at the European Parliament in Strasbourg, Nigel Farage called the British Prime Minister, Theresa May, "Theresa the appeaser", saying she had "given in on virtually everything". The European Parliament later voted to endorse an agreement struck by the UK and European Commission which is set to move the talks on to their next phase.

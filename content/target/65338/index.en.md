@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Richmond and Twickenham Green Party
-
 Campaigns, news and issues from Richmond and Twickenham Green Party

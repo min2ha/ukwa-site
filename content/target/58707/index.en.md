@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Traditional Boat Festival
-
 Site of a festival of maritime activities staged at Portsoy, Aberdeenshire.

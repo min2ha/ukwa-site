@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hanzala Malik
-
 Hanzala Malik, Scottish Labour Member of the Scottish Parliament for Glasgow.

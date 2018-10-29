@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: The legal questions at the heart of the High Court Article 50 ruling
-
 Comments on the ramifications of the High Court's decision on November 3rd 2016 that the government could not trigger Article 50 using royal prerogative, but must gain the assent of Parliament.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# University of Reading
-
 Official website of the University of Reading.

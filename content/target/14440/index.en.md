@@ -10,6 +10,4 @@
   "start_date": "2014-11-06T06:00:00Z"
 }
 
-# Daily Express: Fury as Nats slash art school funding
-
 None

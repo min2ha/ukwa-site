@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Quitting EU would make Britain SAFER, says former MI6 chief: Sir Richard Dearlove suggests Brexit would make it easier to deport terrorists and control our borders  
-

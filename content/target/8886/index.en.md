@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Cuba Solidarity Campaign: Gerardo Hernandez writes on the passing of Nelson Mandela
-
 None

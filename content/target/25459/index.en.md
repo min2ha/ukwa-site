@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leanne Wood prepares to raise Plaid Cymru's profile in TV debate
-
 None

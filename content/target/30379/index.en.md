@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Glasgow Sees Syria on Facebook
-
 The facebook event page for "Glasgow Sees Syria", a candlelight vigil on the steps of Glasgow City Chambers.

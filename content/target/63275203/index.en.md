@@ -10,6 +10,4 @@
   "start_date": "2016-02-19T09:00:00Z"
 }
 
-# Heritage Alliance, The
-
 The Heritage Alliance is the biggest coalition of heritage interests in England. It brings together the independent heritage organisations, from the National Trust, Canal & River Trust and Historic Houses Association, to more specialist bodies representing visitors, owners, volunteers, professional practitioners, funders and educationalists. Between them, their 6.3 million volunteers, trustees, members and staff demonstrate the strength and commitment of the independent heritage movement.

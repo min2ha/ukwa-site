@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Solent NHS Trust
-
 None

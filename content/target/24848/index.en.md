@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Lammy (@davidlammy) on Twitter (Labour Party  Politician)
-
 David Lammy stood as Labour candidate for Tottenham at the 2017 General Election and was successful.. He was first elected to serve as the MP for Tottenham in 2000 and has held the seat ever since.

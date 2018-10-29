@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dunnottar Church
-
 Site of a Church of Scotland parish church at Dunnottar, Stonehaven, Aberdeenshire.

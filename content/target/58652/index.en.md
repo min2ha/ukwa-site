@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# NFUs in Brussels (@NFUsInBrussels) on Twitter
-
 NFUs in Brussels are the UK farming unions (NFU, NFU Scotland, NFU Cymru, Ulster Farmers Union) and National Pig Association. They are respresenting British farming interests relating to the changes that may come due to Brexit.

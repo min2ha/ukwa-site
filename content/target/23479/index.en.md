@@ -10,5 +10,3 @@
   "start_date": "2015-05-07T09:00:00Z"
 }
 
-# Chris Southall (@chrisjsuk) on Twitter (Green Party for Clacton)
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Vote No to 2014 Facebook site
-
 None

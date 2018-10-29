@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Post-Apocalyptic Book Club
-
 None

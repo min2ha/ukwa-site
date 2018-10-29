@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# The Telegraph
-
 The Telegraph, The: UK must settle issues of 'people, money and Ireland' before Brexit trade-deal 

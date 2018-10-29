@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Narcotics Anonymous United Kingdom
-
 Narcotics Anonymous United Kingdom is a non-profit fellowship or society of men and women for whom drugs had become a major problem. They recover addicts who meet regularly to help each other stay clean. This is a program of complete abstinence from all drugs.

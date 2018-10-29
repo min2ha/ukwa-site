@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Marches Farm Enterprise Partnership (MFEP)
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Royal Scottish Academy of Art and Archtecture
-
 Site of an academic organisation collecting and educating in art and Archtecture in Scotland.

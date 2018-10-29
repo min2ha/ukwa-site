@@ -10,6 +10,4 @@
   "start_date": "2015-05-21T09:00:00Z"
 }
 
-# Share the Air
-
 Ash Cymru initiative asking all local authorities in Wales to sign a smokefree charter and the public to help us raise awareness by sharing the spaces you want smokefree. 

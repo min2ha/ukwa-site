@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Did Michael Gove betray the Queen over Brexit? Of course not... say his fellow Eurosceptics
-

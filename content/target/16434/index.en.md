@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron is 'frit' for refusing to take part in TV debates, Ed Miliband says
-
 None

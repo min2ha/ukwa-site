@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Academi Genedlaethol ar gyfer Arweinyddiaeth Addysgol (AGAA) | National Academy for Educational Leadership (NAEL) 
-
 National Academy for Educational Leadership (NAEL)  is an independent organisation established by the Welsh Government as part of commitments made in the government’s “Education in Wales: Our national mission” action plan. The National Academy for Educational Leadership (NAEL) will ensure high quality leadership provision for everyone in the education sector.

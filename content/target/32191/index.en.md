@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# British Isles DNA Project
-
 British Isles DNA Project's aim is to aid genealogists in the task of identifying ancestral origins and distribution of descendents and to assemble a detailed haplogroup map of the British Isles by county, corresponding to the DNA profile of the region's early history and settlement.

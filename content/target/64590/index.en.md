@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# British Travel Goods and Accessories Association 
-
 The British Travelgoods and Accessories Association (BTAA) is trade association for companies making and selling handbags, suitcases etc.

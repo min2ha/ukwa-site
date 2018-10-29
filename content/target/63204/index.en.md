@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Effect on the NHS of the UK leaving the EU
-
 Healthcare as a policy area is largely not one that comes under the competences of the European Union. However, the UK’s exit from the EU could have an impact across a range of different areas in England, Scotland, Wales and Northern Ireland. This debate pack provides a brief overview of some areas which could potentially be affected by Brexit.

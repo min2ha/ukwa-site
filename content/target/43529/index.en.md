@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Express and Star: Old white men are the problem for the Remain campaign, says Labour's shadow Europe minister
-
 A regional Wolverhampton newspaper reports on a recent EU referendum rally in the city where Labour's shadow Europe minister, Pat Glass, spoke.

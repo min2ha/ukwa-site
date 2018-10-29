@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: 700 year old copy of Magna Carta goes on display
-

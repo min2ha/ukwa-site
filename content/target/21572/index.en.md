@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Salmond Budget claims 'bluster and bluff' says Miliband
-
 None

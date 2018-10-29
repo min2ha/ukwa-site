@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Haverfordwest South Churches Congregational and United Reform
-
 Haverfordwest South Churches Congregational and United Reform are three churches situated in Haverfordwest, Freystrop and Hook.

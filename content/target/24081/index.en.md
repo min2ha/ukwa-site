@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBc News: Election 2015: PM's promise of more powers for Wales
-
 None

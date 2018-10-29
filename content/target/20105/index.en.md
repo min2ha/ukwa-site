@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Golwg360: Wigley: Annog Cymry yn Lloegr i bleidleisio dros y Blaid Werdd
-

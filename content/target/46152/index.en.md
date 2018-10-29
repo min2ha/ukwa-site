@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Camanachd Association
-
 Site of the organisation responsible for fostering, encouraging, promoting and developing the Scottish sport of Shinty and to uphold the rules and governing competitions and activities in connection with the sport.

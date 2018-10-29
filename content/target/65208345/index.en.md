@@ -10,5 +10,3 @@
   "start_date": "2012-04-02T00:00:00Z"
 }
 
-# CETIS blogs
-

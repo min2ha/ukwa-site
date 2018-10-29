@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# Arts Council England (@ace_national) on Twitter
-
 We champion, develop & invest in great art & culture, all over England. Proud to award funds from @DCMS & @TNLUK. 

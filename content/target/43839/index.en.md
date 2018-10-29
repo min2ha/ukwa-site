@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum Result: Build Unity; Defend Jobs, Rights and Services - Circular: 2016HOC0329MW
-
 Fire Brigade Union (FBU) circular on the result of the EU Referendum 

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# University of Wolverhampton: Women, Sport and The First World War
-
 A short profile about women, sport and their relationship during the First World War by Jean Williams. 

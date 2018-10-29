@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# All Things Buchanan
-
 Site focusing on the history and present activities of the Clan Buchanan and those interested in it.

@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Refugee Stories
-
 Refugee Stories was a Refugee Communities Heritage Project which received funding from the Heritage Lottery Fund. It was a multi-strand oral history project which recorded the testimony of about 10 key refugee communities in London.

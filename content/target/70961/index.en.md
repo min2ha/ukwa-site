@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Here in Norway, we can do much better than the EEA. And so can you in Britain when you quit the EU
-
 Nei til EU in Norway wants to replace the EEA agreement with a bilateral trade agreement, and we are demanding a referen dum on leaving the EEA. We are certain it would better to trade on even terms with the EU than being integrated into the Single Market.

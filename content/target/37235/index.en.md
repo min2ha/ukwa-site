@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# International Business Times: EU Referendum: Ukip accuses Vote Leave of playing 'fast and loose' with support figures
-
 Online news site focusing on news in Business and Trade. 

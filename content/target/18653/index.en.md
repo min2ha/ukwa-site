@@ -10,6 +10,4 @@
   "start_date": "2015-03-25T09:00:00Z"
 }
 
-# International Association for Measurement and Evaluation of Communication (AMEC) 
-
 The International Association for Measurement and Evaluation of Communication (AMEC) is the global trade body and professional institute for agencies and practitioners who provide media evaluation and communication research. It was established in London in 1996.

@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Here + Now
-
 Site of a team of landscape architects, designers, place-makers, photographers and film-makers offering services in engagement, design and curation.

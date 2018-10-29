@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Elizabeth Jewkes (Liberal Democrats Politician)
-
 Elizabeth Jewkes stood as Liberal Democrats candidate for Chester at the 2017 General Election but was not elected.

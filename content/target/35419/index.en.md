@@ -11,5 +11,3 @@
   "subject": "Video Games"
 }
 
-# Youtube Series Uses Video Games to Teach Military History
-

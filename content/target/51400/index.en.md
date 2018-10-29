@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Newcastleton & District Community Trust
-
 Community website for the village of Newcastleton, Scottish Borders.

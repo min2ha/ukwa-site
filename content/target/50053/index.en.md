@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Canton Uniting Church, Cardiff | Eglwys Gyfanol Treganna, Caerdydd
-

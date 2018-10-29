@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Cathcart Road Community Awareness Project / CARCAP
-
 Site of a group attached to Church of Pentecost UK, Glasgow District, working with the community of Mount Florida in Glasgow to increase climate change awareness, encourage awareness of energy conservation, reduce fuel poverty and reduce food waste.

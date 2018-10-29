@@ -10,6 +10,4 @@
   "start_date": "2013-05-03T23:00:00Z"
 }
 
-# Netcraft
-
 <p>Netcraft is an internet services company based in Bath, England providing internet security service and data analysis on the internet.</p>

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit: Gibraltar keeps calm but is ready to play hardball
-

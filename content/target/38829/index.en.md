@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Roger Scully (@roger_scully) on Twitter
-
 Roger Scully is a Welsh Political commentator and principal Investigator for the 2016 Welsh Election Study. Scully is lecturer at the Welsh Governance Centre.

@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# RussianUK.com
-
 RussianUK.com publishes a glossy magazine called RussianUK. This magazine is devoted to the lifestyle of the Russian speaking community in the UK.

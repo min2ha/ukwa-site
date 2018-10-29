@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Collydean Granary Baptist Church on Facebook
-
 Facebook page of a Scottish Christian church of the Baptist denomination and its congregation located in Glenrothes, Fife.

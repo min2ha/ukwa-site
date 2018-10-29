@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Strabane weekly news
-
 None

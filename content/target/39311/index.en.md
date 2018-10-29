@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Pink News
-
 PinkNews covers politics, entertainment, religion and community news for the gay, lesbian, bisexual and transgender community in the UK and worldwide.

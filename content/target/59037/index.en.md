@@ -11,7 +11,5 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Indian Print
-
 BL Indian Print (@BL_IndianPrint) on Twitter.
 Introducing the 'Two Centuries of Indian Print' project, making available rare printed books from The British Library

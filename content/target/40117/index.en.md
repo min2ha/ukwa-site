@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mike Powell on Facebook (Liberal Democrats candidate for Pontypridd) 
-
 Mike Powell is the Liberal Democrats candidate for Pontypridd at the 2016 National Assembly Election.

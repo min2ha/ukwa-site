@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T08:00:00Z"
 }
 
-# Boswell's Scottish Dictionary | The Rediscovered Manuscript
-
 This site celebrates the rediscovery of the manuscript materials for Boswell’s Scottish dictionary: a work which James Boswell began to compile in the 1760s, but which he never finished.

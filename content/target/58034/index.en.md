@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# University of Wales Trinity Saint David: Canolfan Berfformio Cymru
-
 Canolfan Berfformio Cymru is an innovative Centre established by the University of Wales Trinity Saint David in order to train and develop the performers of the future. 

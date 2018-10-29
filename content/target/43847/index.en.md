@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Cameron has lost his job – his Teflon cockiness has finally worn off
-
 Guardian, The

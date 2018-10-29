@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Adults 'should help tackle' social media effect on teens
-
 BBC News report about Adults 'should help tackle' social media effect on teens

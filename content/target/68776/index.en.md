@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chronicle Online
-

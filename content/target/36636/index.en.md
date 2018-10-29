@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Practice at Plean
-
 This project comprises an investigation of a system of World War I (WWI) practice trenches in Plean Country Park (PCP), Stirling.

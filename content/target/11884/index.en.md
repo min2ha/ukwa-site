@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jazz Carlin - Professional Swimmer for Great Britain
-
 <p>The official website of swimmer Jazmin Carlin, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

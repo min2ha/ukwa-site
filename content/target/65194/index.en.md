@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Music Heritage UK
-
 A charity which exists to promote, protect and preserve our popular music heritage.

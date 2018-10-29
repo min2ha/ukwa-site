@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bob Doris (@VoteBobDoris) on Twitter
-
 The Twitter profile of Bob Doris, the Scottish National Party candidate for Glasgow in the 2016 Scottish Parliament election.

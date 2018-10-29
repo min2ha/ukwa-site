@@ -10,5 +10,3 @@
   "start_date": "2015-07-07T10:00:00Z"
 }
 
-# Deml Heddwch, Y | Temple of Peace and Health
-

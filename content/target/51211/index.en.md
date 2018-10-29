@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Reckitt Benckiser Group plc
-
 Reckitt Benckiser Group plc is a British multinational consumer goods company, they produce health, hygiene and home products.

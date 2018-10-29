@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brothers Pearse GAA (@brotherspearse) on Twitter
-
 Established 1954 - Brothers Pearse GAA Gaelic Football Club Huddersfield, Yorkshire, UK.

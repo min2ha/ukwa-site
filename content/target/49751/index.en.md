@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# International Regulatory Strategy Group: CCPs post-Brexit
-
 This paper discusses the implications for banks and end-users of financial markets (for example, industrial companies and pension funds), if the current legal and regulatory framework for Central Counterparties (“CCPs”) continued unchanged after Brexit. It identifies policy measures needed to avoid damaging consequences. It does not discuss possible changes to European Central Bank policy on the location of euro-denominated clearing. The objective of the policy measures identified in this paper is to enable financial markets to continue to function without posing risks to financial stability and for activity to take place where it can do so most efficiently for the benefit of end-users.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Tregaron yng nghanol Cymru
-
 A tourist and community guide to Tregaron in Ceredigion.

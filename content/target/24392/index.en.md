@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election - Forget the stats, focus on the big choice
-
 None

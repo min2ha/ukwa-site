@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour candidate chosen to face Galloway resigns after three days
-
 None

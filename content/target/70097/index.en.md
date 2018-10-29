@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Newry City Ladies Football Club
-

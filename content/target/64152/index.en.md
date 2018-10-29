@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-#  St. Machan's Parish Church
-

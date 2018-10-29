@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Swarthmore Monthly Meeting
-

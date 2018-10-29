@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# Peterborough County School for Girls
-
 Site about the history of the school, from its foundation in 1904 to its closure and demolition in 1982. It includes pupils memories, photos, transcribed extracts from school magazines and newspaper reports.

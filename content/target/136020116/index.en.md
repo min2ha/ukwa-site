@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Windsor, Ascot and Maidenhead LINk
-
 None

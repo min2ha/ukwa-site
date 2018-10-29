@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Samantha Cameron is hoping for five more years in Downing Street
-
 None

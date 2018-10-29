@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Llandrindod Wells Victorian Festival
-
 Festival celebrating Queen Victoria and the Victorian era

@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Reversal Of The Muse
-
 This podcast focuses on a small part of the global conversation about women in the arts.

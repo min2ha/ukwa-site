@@ -10,6 +10,4 @@
   "start_date": "2016-01-11T09:00:00Z"
 }
 
-# David Bowie
-
 Official website of a British singer David Bowie.

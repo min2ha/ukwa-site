@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Vision Strategy: Manifesto for the 2015 General Election
-
 VISION 2020 UK is the umbrella organisation which leads collaboration and co-operation between organisations within the UK, which focus on vision impairment and operate on a national, regional or international basis. 

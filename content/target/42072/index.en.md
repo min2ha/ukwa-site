@@ -10,8 +10,6 @@
   "start_date": "2016-06-01T10:00:00Z"
 }
 
-# Bowburn Banner Group
-
 Web portal for the village of Lowborn and its community. The village of Bowburn, County Durham, a former mining community, lies 4 miles to the south of Durham City in the North East of England. 
 
 The Bowburn Banner Group was formed in January 2005 to return ex-Bowburn colliery banners to the village. 

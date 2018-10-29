@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Women 50:50
-
 Women 50:50 campaigns for equal representation of women in the Scottish Parliament, on councils and on public boards.

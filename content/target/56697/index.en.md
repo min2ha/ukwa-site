@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Inroads
-
 inroads is a writer-led company, formed by Sara Clifford in 2004, and based in Brighton UK.

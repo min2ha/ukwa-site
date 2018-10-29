@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leo Docherty (@LeoDochertyUK) on Twitter
-
 Conservative Parliamentary Candidate for Caerphilly

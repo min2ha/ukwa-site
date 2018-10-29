@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# SOS Children's Villages: West Africa Ebola emergency appeal 2014
-
 None

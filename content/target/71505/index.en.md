@@ -10,6 +10,4 @@
   "start_date": "2018-09-22T09:00:00Z"
 }
 
-# Monico Movies | Sinema Cymunedol Rhiwbina Community Cinema
-
 Monico Movies is a community cinema established by cinema enthusiasts in Rhiwbina in Cardiff.

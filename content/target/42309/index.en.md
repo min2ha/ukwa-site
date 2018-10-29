@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Brompton Ralph Village Hall
-

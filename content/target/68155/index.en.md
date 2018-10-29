@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Glenbuchat Heritage Archive
-
 Site of a local history online archive for the locale of Glenbuchat, Aberdeenshire, displaying old photgraphs and information.

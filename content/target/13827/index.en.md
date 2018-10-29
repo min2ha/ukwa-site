@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Battle_for_Britain (BritainUnited2) on Twitter
-

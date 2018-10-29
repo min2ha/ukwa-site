@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Elphinstone Institute on Twitter
-
 Twitter page for a centre for the study of Ethnology, Folklore, and Ethnomusicology at the University of Aberdeen. 

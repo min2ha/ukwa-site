@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Atom, Canolfan Gymraeg tref Caerfyrddin | Atom, Carmarthen town’s Welsh language Centre
-

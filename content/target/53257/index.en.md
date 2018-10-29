@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Caroline Burgess (@VoteCarolineB) on Twitter
-
 Twitter profile of Caroline Burgess, Scottish Liberal Democrat candidate for Berwickshire, Roxburgh and Selkirk in the 2017 general election.

@@ -10,6 +10,4 @@
   "start_date": "2015-03-20T09:00:00Z"
 }
 
-# Pentreath
-
 Pentreath is a mental health organisation that strives to encourage improved awareness, health and wellbeing throughout Cornwall and the Isles of Scilly. They aim to promote good mental health through personal development, education and employment. Their team of outreach workers deliver services to people with or recovering from mental ill health.

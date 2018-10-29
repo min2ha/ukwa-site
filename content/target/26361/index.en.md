@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Austerity policies and failures on public health have cost lives, say senior doctors
-
 None

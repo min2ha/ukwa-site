@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Traeth Melyn Primary School
-
 Traeth Melyn Primary School is a Neath Port Talbot School due to close in 2016.

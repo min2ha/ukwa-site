@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Justine Miliband vows to take vocal role in Ed’s election campaign
-
 None

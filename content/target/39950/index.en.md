@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Isle of Wight at War, The - A Reference Framework
-
 This project will bring local initiatives together into an online resource directory and calendar of events, set into the context of the wider timeline from the IWM.

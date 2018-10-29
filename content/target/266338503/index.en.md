@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Language Log: The grammar of "Better Together"
-

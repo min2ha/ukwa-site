@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# eu rule breach? Government accused of manipulating the EU referendum vote by ‘letting’ Remain campaigners raid contacts book 
-
 Sun, The

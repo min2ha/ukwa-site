@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Gethin Wyn Jones
-
 Gethin Wyn Jones is a contemporary artist from Wales.

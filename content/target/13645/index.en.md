@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# C'mon Scotland
-
 <p>The personal blog of Robin McAlpine, Director of the Jimmy Reid Foundation; with the purpose of "argue[ing] for the inherent strength of Scotland and its people.".</p>

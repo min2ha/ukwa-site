@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Time to change campaign (@timetochangecampaign) on instagram  
-
 A UK Instagram account aimed at changing the way we view mental health

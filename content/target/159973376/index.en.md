@@ -10,5 +10,3 @@
   "start_date": "2013-04-15T00:00:00Z"
 }
 
-# OVAM Project Blog
-

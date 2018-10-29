@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Boroughmuir Rugby and Community Sports Club
-
 Site of a Scottish rugby union football club, and community sports centre, based at Meggetland in south-west central Edinburgh.

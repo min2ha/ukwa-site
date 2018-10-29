@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Julian Cope Presents Head Heritage
-
 Personal website of British musician and author Julian Cope.

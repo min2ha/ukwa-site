@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# Turkish British Chamber of Commerce and Industry (TBCCI)
-
 The Turkish British Chamber of Commerce and Industry (TBCCI) was founded in 1980 as a non-profit organisation to provide its members with a wide range of services targeted at promoting bilateral trade, investment and joint ventures between the UK and Turkey.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# B26 Birmingham
-
 This is the website for the B26 area of Birmingham. Covering local events, community watch news, meetings and all things of interest to our area.

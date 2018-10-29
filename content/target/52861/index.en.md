@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Autism Spectrum Database UK
-
 ASD-UK is a UK research family database of children with an autism spectrum disorder (ASD). 

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Holloway, University of London: What is the Magna Carta?
-

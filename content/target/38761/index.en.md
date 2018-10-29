@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jim Lee (@jimlee_coop) on Twitter
-
 Twitter profile of Jim Lee, the Scottish labour and Co-operative list candidate for Central Scotland in the 2016 Scottish Parliamentary election.

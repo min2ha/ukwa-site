@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stronger Unions, Blog from the TUC
-
 Stronger Unions is a news and comment blog about the UK trade union movement, managed by the TUC. Its aim is to be a central resource on the web for people wanting to find out about what unions are doing, and a community for people to contribute their own thoughts on developments for our movement.

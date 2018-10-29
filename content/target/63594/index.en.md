@@ -10,6 +10,4 @@
   "start_date": "2018-04-05T09:00:00Z"
 }
 
-# BritishIrish (@BritishIrishPA) on Twitter
-
 BIPA were established as the British-Irish Inter-Parliamentary Body 1990 as a link between the Houses of Parliament and the Houses of the Oireachtas. Their members engage in a wide range of non-legislative parliamentary activities, through bi-annual plenary meetings and ongoing Committee work. Plenaries alternate between our two countries and debate topical issues, Committee reports, and include a question period with a senior Minister from the host country. This is their official Twitter account.

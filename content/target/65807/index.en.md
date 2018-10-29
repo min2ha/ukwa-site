@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Caribbean Labour Solidarity (CLS)
-
 CLS is not tied to any political party in the United Kingdom or the Caribbean. They aim to unite all those who support equality, democracy, justice and social progress in the Caribbean.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-27T10:00:00Z"
 }
 
-# Dean Village Association
-
 Site of a hyperlocal organisation representing the views and interests of residents of the Dean Village, north of central Edinburgh, on the banks of the Water of Leith.

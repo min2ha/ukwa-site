@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Out 4 In (@Out4In) on Twitter
-
 LGBT campaigning for the UK to stay in the EU

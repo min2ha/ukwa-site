@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T11:00:00Z"
 }
 
-#  Bridgend Town Council
-
 The Town Council is consulted by the County Borough Council regarding all matters within the Town Council area, in particular; planning applications. Members of the council sit on numerous charitable committees and various School Governing Bodies.

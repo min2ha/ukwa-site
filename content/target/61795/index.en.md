@@ -10,8 +10,6 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# BBC News: Barnier: UK cannot have open-ended Brexit transition
-
 Significant differences remained between the UK and EU over the length of any post-Brexit transition period, the EU's negotiator Michel Barnier said. He suggested the UK wanted an "open-ended" arrangement while the EU wanted a "short and time-limited" period that would last no more than 21 months.
 
 

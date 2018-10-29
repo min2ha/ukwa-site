@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Our Islands Our Future
-
 None

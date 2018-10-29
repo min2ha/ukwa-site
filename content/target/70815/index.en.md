@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# Penarth Chamber Music Festival
-
 Penarth Chamber Music Festival is a festival celebrating chamber music in the surroundings of Penarth Pier Pavilion. 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Lothian Electrical Machines Limited
-
 The website of Lothian Electric Machines Limited - also known as Lemac - a manufacturer of electric motors. 

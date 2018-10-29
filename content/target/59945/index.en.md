@@ -10,5 +10,3 @@
   "start_date": "2017-12-24T09:00:00Z"
 }
 
-# Fforest Lodge Free Masons
-

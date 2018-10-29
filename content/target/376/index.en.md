@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Herefordshire Health and Wellbeing Board
-
 None

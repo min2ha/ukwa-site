@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Club Scuderia - UK Ferrari Forum
-
 An online enthusiast community forum concerned with Ferrari cars. Discusses group meets ups, buyers guides, restorations, running reports, photo galleries of members cars and various other related topics.

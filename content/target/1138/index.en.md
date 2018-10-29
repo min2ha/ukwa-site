@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Essex Cancer Network 
-
 None

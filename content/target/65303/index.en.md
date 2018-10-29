@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Tron Kirk Gilmerton and Moredun on Facebook
-
 Facebook page of a Church of Scotland parish church at Gilmerton, Edinburgh.

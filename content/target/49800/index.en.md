@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-#  Griffithstown Baptist Church, Pontypool
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guto Bebb, Member of Parliament for Aberconwy
-
 Guto Bebb is the Conservative Prospective parliamentary candidate for Aberconwy. He is also the current MP.

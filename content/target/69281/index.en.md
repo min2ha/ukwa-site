@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of St. Francis of Assisi Aberdeen
-
 Site of a Roman Catholic church in Scotland for the parish of St. Francis of Assisi, incorporating the Trinity Churches, Westhill, Aberdeen.

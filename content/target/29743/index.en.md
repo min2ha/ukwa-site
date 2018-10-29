@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# Tim's Pleasance Blog
-
 Blog for the Pleasance Theatre which opened in Edinburgh as part of the 1985 Festival Fringe, and which now has venues in Edinburgh and London. Features reviews of shows from Fringe Festival. 

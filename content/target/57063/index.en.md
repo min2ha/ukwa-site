@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian: Leaked document reveals UK Brexit plan to deter EU immigrants
-
 Home Office paper sets out detailed proposals including measures to drive down number of low-skilled migrants from Europe.

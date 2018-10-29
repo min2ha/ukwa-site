@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Public Technology.Net: Election 2017: Party manifestos urged to focus on IT systems for Brexit and championing digital leadership
-
 Parties of all colours are working up their manifestos for the 2017 general election. Rebecca Hill asks what they could, or should, have in store for tech.
 

@@ -11,6 +11,4 @@
   "subject": "Free e-Journals"
 }
 
-# In Balance Magazine
-
 None

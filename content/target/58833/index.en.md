@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health Blogger, The:TACKLING MENTAL HEALTH, ONE DAY AT A TIME
-
 Blog written by Megan Haste about her own mental health conditions. The blog hope to create discourse and conversations about mental health in the UK and Ireland

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Migration Observatory at the University of Oxford: Highly skilled migration to the UK 2007-2013: policy changes, financial crises, and a possible 'balloon' effect'?
-

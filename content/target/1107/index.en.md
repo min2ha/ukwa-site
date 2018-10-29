@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cancer Toolkit
-
 None

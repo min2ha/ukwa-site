@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Liaison Committee: Oral evidence: The Prime Minister
-
 Prime Minister Theresa May answers questions from the Commons Liaison Committee on the government's approach to withdrawing from the EU.

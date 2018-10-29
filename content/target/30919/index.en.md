@@ -10,5 +10,3 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# Tychy | Original Fiction and Illustrations – Literary Criticism with Cojones – Edinburgh in the Twenty-First Century.
-

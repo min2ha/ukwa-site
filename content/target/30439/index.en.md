@@ -10,6 +10,4 @@
   "start_date": "2015-09-15T10:00:00Z"
 }
 
-# Great British Community, The
-
 The Great British Community works to inform, challenge and empower people to combat prejudice and discrimination in the UK. 

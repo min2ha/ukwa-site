@@ -10,6 +10,4 @@
   "start_date": "2015-01-30T00:00:00Z"
 }
 
-# UK Chinese Visa Alliance (UKCVA), The
-
 The UK Chinese Visa Alliance (UKCVA) represents British businesses, including the retail and tourism industries. The UKCVA has been looking at practical ways of achieving significant improvements in Chinese visitor numbers to the UK, in a way that retains the robustness of the UK visa system.

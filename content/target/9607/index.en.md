@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Labour: Devolution Commission
-
 <p>Scottish Labour party webpage which explains the party's Devolution Commission and links to its final report, 'Powers for a purpose - Strengthening Accountability and Empowering People'.</p>

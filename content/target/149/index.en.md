@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Milton Keynes Hospital
-
 None

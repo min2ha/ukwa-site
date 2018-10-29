@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Drink Driving Forum
-
 An online forum discussing drink driving in the UK

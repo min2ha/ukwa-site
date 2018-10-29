@@ -10,6 +10,4 @@
   "start_date": "2016-08-13T10:00:00Z"
 }
 
-# Owen Morris
-
 Owen Morris is a music producer from Wales. He was involved in the producing of the band OASIS early albums and has also worked with The Fratellis, Ash, The View, Loso and The Verve.  

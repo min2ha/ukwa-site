@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Wire FM
-
 Local commercial radio station.

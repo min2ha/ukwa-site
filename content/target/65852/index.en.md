@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Cadbury UK (@CadburyUK) on Twitter
-
 The UK section of the chocolate company Cadbury. This is their official Twitter account. 

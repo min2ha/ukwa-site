@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Lincolnshire and Goole NHS Foundation Trust
-
 None

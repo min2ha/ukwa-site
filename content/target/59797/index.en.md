@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: There is hope: Brexit has few zealots and many floating voters
-

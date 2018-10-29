@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How to vote tactically: a no-guarantees guide to gaming the election
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Ulster Gaelic Athletic Association
-
 The Ulster Council is a Provincial council of the Gaelic Athletic Association sports of hurling, Gaelic football, camogie, and handball in the province of Ulster. 

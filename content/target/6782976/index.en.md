@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Krishna Dharma - Ancient Wisdom for Contemporary Seeker
-
 None

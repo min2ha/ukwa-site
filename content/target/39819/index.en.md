@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dundee SNP: Delivering for Dundee
-
 The Dundee branch of the Scottish National Party (SNP).

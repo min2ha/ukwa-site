@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ekklesia
-
 Ekklesia is an independent, not-for-profit British think tank which examines the role of religion in public life and advocates transformative theological ideas and solutions. Jonathan Bartley and Simon Barrow were the founders and co-directors,[1] with Bartley leaving in 2016[2] and subsequently becoming co-leader of the Green Party of England and Wales.

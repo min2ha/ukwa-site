@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Why Afzal Amin is fighting for his political life in Dudley
-
 None

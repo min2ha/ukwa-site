@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Portsmouth City Council
-
 The website of Portsmouth City Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

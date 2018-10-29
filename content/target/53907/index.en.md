@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Vic Turton (Independent Politician)
-
 Victor Turton was an independent candidate in the constituency of Halton in the 2017 General Election. 

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lorraine Francis (@bristoleastgrn) on Twitter (Green Party Candidate for Bristol East)
-

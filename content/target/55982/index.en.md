@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Retro Video Gamer Forum 
-
 An online enthusiast forum concerned with retro video gaming. Discusses retro arcade and pinball machine, retro handhelds and tabletops and various other topics.  

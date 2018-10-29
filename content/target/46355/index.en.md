@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Quentin Letts sees Bremoaners in a state of agitation as the Commons debates exiting the EU
-
 Daily Mail's sketch writer Quentin Letts describes the Commons debate on Parliamentary scrutiny of the process of leaving the EU.

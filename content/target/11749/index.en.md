@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Eddie (james_eddie) on Twitter
-
 <p>The twitter profile of althete James Eddie, rugby player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

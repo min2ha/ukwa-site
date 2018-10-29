@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Falklands.net  
-
 For people wishing to know more about our penguin research, you will find here a selection of in depth publications by Dr Mike Bingham.

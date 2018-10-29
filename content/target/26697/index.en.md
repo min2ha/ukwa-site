@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What should the Lib Dems’ new name be?
-
 None

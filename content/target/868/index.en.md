@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northumberland, Tyne and Wear NHS Foundation Trust
-
 None

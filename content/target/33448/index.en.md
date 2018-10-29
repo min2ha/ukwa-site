@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas Cymry Casnewydd
-
 Cymdeithas Cymry Casnewydd is a society for Welsh speakers who live and work in Newport.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Catholic International Aid Fund
-
 Site of the official aid and international development charity of the Catholic Church in Scotland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Redbridge i: Tour de France 2014
-
 Web page for Tour de France hosted by Redbridge local authority

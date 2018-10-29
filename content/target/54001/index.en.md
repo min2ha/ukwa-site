@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Roger Clark (UKIP Politician)
-
 Roger Clark was the UK Independence Party (UKIP) candidate in the constituency of North West Hampshire in the 2017 General Election but was not elected.

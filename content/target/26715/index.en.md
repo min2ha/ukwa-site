@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent , The :  Garden centre blackboard proposes '10% Tory tax' and tells Ukip voters to 'shop elsewhere'
-
 None

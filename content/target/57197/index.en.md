@@ -10,5 +10,3 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Martin Johnes: Research notes and resources on the histories of Wales and popular culture
-

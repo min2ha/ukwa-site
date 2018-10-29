@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# SABLE LitMag
-
 SABLE LitMag is a publication of new work from writers, artists and activists of colour.

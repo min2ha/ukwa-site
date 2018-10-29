@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Ladbrokes: 2014 UK Euro Parliamentary Elections
-
 None

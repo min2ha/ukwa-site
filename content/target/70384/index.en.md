@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Secretary of State Dominic Raab's speech on no deal planning
-
 The Secretary of State for Exiting the EU, Dominic Raab gave this speech to coincide with the publication of the first 25 in a series of technical notices. These were designed to inform people and businesses in the UK about what they might need to do, if the government did not reach a deal with the EU.
 

@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Goldie Lookin Chain
-
 Goldie Lookin Chain are a collective Welsh rap music band from Newport, Wales.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Friends of the Earth: On the passing of Nelson Mandela
-
 None

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Aberystwyth Comedy Festival
-
 This is a new comedy festival in Aberystwyth from Little Wander, the team behind the Machynlleth Comedy Festival.

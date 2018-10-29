@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Solas Festival
-
 Site of an annual music and arts festival underpinned by an ethos of equality and justice.

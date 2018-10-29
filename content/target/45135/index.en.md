@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Spill the zines!: a UK zine review blog
-
 Spill The Zines is an online resource for information about British zines. It publishes bi-weekly news posts, monthly zine reviews, and sporadic articles about British zine culture. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: E-Day is FINALLY here! History is made as Queen gives Royal Assent to the Brexit Bill paving the way for Theresa May to trigger Article 50 within weeks  
-

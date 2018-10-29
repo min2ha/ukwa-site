@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Labour leadership: Members resign from party after Jeremy Corbyn win
-
 Former Labour supporters posted pictures of their destroyed membership cards on Twitter.

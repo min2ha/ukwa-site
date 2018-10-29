@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Microsoft UK
-
 Microsoft UK's perspective on the EU referendum

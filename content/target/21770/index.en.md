@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Argyll & Bute Lib-Dems and Alan Reid MP
-
 This is the website of the Argyll and Bute Scottish Liberal Democrat party in the 7th May 2015 UK General Elections.

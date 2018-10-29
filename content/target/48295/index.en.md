@@ -10,6 +10,4 @@
   "start_date": "2017-01-17T09:00:00Z"
 }
 
-# Postcard From New Pitsligo
-
 Local history website comprising of information about and images from old postcards of the village of Newpitsligo, Aberdeenshire.

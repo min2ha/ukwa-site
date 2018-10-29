@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Brighton Comedy Festival
-
 Website for the Brighton Comedy Festival, entering its thirteenth year in 2015.

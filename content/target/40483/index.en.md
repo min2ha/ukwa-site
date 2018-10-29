@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Sioned Terry Mezzo-Soprano
-
 Sioned Terry is a Mezzo–soprano from North Wales.

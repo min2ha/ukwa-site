@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# 23 Llyfrgellydd
-
 <p>The blog provides viewpoints and description of the work of 23 librarians thoughout Wales.</p>

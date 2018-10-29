@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Devolution Matters: Devolved elections and the timing of the EU referendum
-
 This post is from a blog which discusses issues relating to devolution in the UK. 

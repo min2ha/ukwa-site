@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cathedral Church of St Machar, The
-
 The website of the Cathedral Church of St Machar, located in Aberdeen.

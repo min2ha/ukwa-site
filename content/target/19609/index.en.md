@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vote Nick Webb on Facebook
-
 Conservative candidate for Newport West.

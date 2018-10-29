@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Yvette Cooper announces Labour leadership bid
-
 None

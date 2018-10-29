@@ -10,6 +10,4 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Social Enterprise Coalition (SEC)
-
 Social Enterprise are the national body for social enterprise. They represent there members and want to help grow the social enterprise movement.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-22T09:00:00Z"
 }
 
-# Stage, The
-
 The Stage Media Company Limited provides news and services for the UK entertainment and performing arts industry. It was established in 1880.

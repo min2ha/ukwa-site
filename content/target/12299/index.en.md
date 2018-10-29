@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War.com
-
 First World War.com - a multimedia history of world war one provides a summary overview of the First World War. 

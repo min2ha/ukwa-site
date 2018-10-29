@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Doncaster Rovers Belles
-
 A women's football club from Doncaster that was established in 1969.

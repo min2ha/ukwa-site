@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tweed Valley Pétanque Club
-
 Site of a pétanque club located at Peebles, Scottish Borders.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Incorported Trades of Edinburgh
-
 Site of a charitable organisation representing the traditional trade and craft bodies of the city of Edinburgh.

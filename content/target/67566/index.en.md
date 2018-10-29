@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Langholm Rugby Club (@LangholmRugby) on Twitter
-
 The official Twitter account of Langholm Rugby Football Club. The oldest rugby club in the Borders, est in 1871.

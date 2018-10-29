@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Audacious Women Festival
-
 Site of a festival featuring workshops, conversations, entertainment and participation and offering the opportunity to break down personal, political or institutional barriers, and to celebrate bold and courageous women.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: The implications of the European Commission Draft Withdrawal Agreement text for health. Part 1: patients and reciprocal healthcare.
-
 The proposed legal text on the Withdrawal Agreement  does not deal explicitly with the rights of UK pensioners who have retired to another member state to healthcare or emergency care provision to visitors. By implication, some of its provisions can be read to guarantee existing EU law rights well into the future: for the lifetime of anyone who holds such a right at the end of the transition period.  But other provisions can be read to imply the opposite.

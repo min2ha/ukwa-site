@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Corner House, The
-
 The Corner House aims to support democratic and community movements for environmental and social justice. We aim to pay constant attention to issues of social, economic and political power and practical strategy. 

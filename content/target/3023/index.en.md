@@ -10,6 +10,4 @@
   "start_date": "2015-05-21T09:00:00Z"
 }
 
-# Centre for Economic and Social Inclusion
-
 The Centre for Economic and Social Inclusion is the UK’s not-for-profit company dedicated to tackling disadvantage and promoting social inclusion in the labour market.

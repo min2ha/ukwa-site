@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Buckinghamshire Healthcare NHS Trust
-
 None

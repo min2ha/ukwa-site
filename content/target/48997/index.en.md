@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# British Council Scotland
-
 Site of the Scottish branch of the British Council, the United Kingdom’s international organisation for cultural relations and educational opportunities. 

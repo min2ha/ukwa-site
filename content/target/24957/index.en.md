@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Now the talking stops: Britain prepares to go to the polls in the most unpredictable election in a generation… but one in four STILL don't know who they will vote for
-
 None

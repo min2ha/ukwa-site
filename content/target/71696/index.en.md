@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Keir Starmer launched an unexpected Brexit zinger – and it hit the spot
-

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Limerick and the 1916 Rising
-
 Limerick & the 1916 Rising is the story of the Limerick Fenian John Daly, his family and their contribution and involvement in the 1916 Rising. All of the material in the exhibition comes from the Daly collection at the Glucksman Library, University of Limerick.

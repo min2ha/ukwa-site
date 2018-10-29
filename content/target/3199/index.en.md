@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Welsh Joint Education Committee (WJEC)
-
 Welsh Joint Education Committee (WJEC) is a provider in qualifications and support for teachers and students. 

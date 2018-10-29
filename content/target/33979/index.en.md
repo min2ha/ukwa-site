@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Eurosceptics force Cameron to give ministers free rein on EU referendum
-

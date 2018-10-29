@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# The Irish Border (@BorderIrish) on Twitter
-
 A satirical Twitter account about the border between the Republic of Ireland and Northern Ireland during the Brexit negotiations.  

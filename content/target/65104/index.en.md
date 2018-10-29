@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rethinking Service: 9 reasons why targets make performance worse
-
 An article about the Windrush Scandal in April 2018.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lasswade Rugby Football Club
-
 Site of a Scottish rugby union football club based in Lasswade, Midlothian.

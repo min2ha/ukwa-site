@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hartington Grove Cambridge Meeting
-

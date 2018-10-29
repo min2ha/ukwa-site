@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parish Church of St Cewydd & St Peter Steynton, The
-

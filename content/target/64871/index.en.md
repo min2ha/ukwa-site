@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 25th April 2018: Written Statements: European Union (Withdrawal) Bill: Clause 11
-
 The UK Government have tabled today amendments to the devolution provisions in the EU (Withdrawal) Bill. In parallel, a supporting intergovernmental agreement has been published at: https://www.gov.uk that sets out a number of additional commitments on how the amendments, if agreed, will work in practice.

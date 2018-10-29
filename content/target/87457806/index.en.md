@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Open and Shut?
-
 None

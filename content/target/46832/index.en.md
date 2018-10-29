@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Ignore the leavers’ tantrums - it’s time for us to build Brexit Britain
-

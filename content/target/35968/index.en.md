@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Joanne McFadden (@mcfadden_joanne) on Twitter
-
 The Twitter profile of Joanne McFadden, the Scottish Labour candidate for Angus South in the 2016 Scottish Parliament election.

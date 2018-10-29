@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Debby Blakebrough (Independent candidate for Monmouth)
-
 Debby Blakebrough is an Independent candidate standing in Monmouth at the 2016 National Assembly Elections. 

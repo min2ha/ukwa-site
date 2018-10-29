@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:20.073483", 
+  "date": "2018-10-29T13:21:19.833528", 
   "open_access": true, 
   "target_url": "http://news.bbc.co.uk/1/hi/uk_politics/8434137.stm", 
   "description": "", 
   "end_date": null, 
   "title": "BBC News: Gordon Brown's new year message looks to election", 
-  "record_id": "20181029T125420/nm9LwuS1Mg44rd8KvIarYw==", 
+  "record_id": "20181029T132119/nm9LwuS1Mg44rd8KvIarYw==", 
   "publisher": "bbc.co.uk", 
   "start_date": null, 
   "subject": null
 }
-
-# BBC News: Gordon Brown's new year message looks to election
 

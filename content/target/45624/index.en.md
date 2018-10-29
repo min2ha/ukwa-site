@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Civitas: UK-EU trade and jobs linked to exports
-
 This analysis seeks to provide balance to the claim, made frequently during the EU referendum campaign, that 3 million UK jobs are linked to trade with the EU. By a method similar to that used in calculating the 3 million figure, we provide a new estimate for the amount of UK jobs linked with exports to EU countries and, for comparison, estimates of EU jobs linked to exports to the UK, on a country-by-country basis.

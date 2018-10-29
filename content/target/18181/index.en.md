@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Nick Clegg makes drug law election pledge
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research: Deemed leave: A concrete plan to secure EU residents’ rights post-Brexit
-
 The EU referendum result cast immediate doubt on the future status of EU nationals currently resident here; the government has made assurances that they will have the right to stay, yet very few concrete plans have been put forward. This briefing argues that granting EU nationals 'deemed leave', and streamlining the registration process, would be a practical, effective solution.

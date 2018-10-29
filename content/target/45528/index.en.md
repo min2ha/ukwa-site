@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Graham Hall science and education
-
 Open access to Graham Hall's science and education publications.

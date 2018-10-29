@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Crickhowell District Archive Centre (CDAC) 
-

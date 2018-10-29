@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Duxford Air Festival 2018
-
 Website for the Duxford Air Festival 2018

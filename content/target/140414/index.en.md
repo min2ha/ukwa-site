@@ -10,6 +10,4 @@
   "start_date": "2007-08-29T00:00:00Z"
 }
 
-# Madoc 1170 Man(dan) or Myth? Were the Welsh the first European Americans
-
 Website no longer exists.

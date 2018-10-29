@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Riding of Yorkshire LINk
-
 None

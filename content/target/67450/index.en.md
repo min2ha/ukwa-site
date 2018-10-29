@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Gender Dysphoria | Dysfforia Rhywedd
-
 This website is an information resource to those wishing to learn more about gender dysphoria across Wales. It is for general information purposes only and provided by the Welsh Health Specialised Services Committee (WHSSC).

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester United Women (@ManUtdWomen) on Twitter
-
 The official Twitter account for the Manchester United Women's team. 

@@ -10,6 +10,4 @@
   "start_date": "2016-11-19T09:00:00Z"
 }
 
-# Changing Attitudes De Cymru (CATAC) on Facebook
-
 Changing Attitdes De Cymru is part of the province wide, CATAC and a group of lay and ordained Christians from all sections of the LGBTQIA+ community. The aim is full inclusion of gay, lesbian, bisexual and transgender people in the life of the Church of Wales. 

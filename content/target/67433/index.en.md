@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Edinbrew Ltd.
-
 Site of a brewer located in Livingston, West Lothian.

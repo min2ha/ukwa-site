@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Social media is not to blame for depression in young people
-
 Independent article about social media and depression with young people

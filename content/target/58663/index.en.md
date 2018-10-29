@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Global Learning Programme Wales | Rhaglen Dysgu Byd-Eang Cymru (GLP-W)
-
 Global Learning Programme Wales is funded by the Education Development Trust and brings together a national network of schools, committed to delivering high quality teaching and learning about development and global issues – such as poverty, inequality and interdependence – at Key Stages 2 and 3. 

@@ -10,6 +10,4 @@
   "start_date": "2015-07-25T10:00:00Z"
 }
 
-# Society of Professional Engineers, The
-
 The Society of Professional Engineers was established in 1969 in pursuit of the goals of the time honoured Society of Engineers, established in 1854. The Society promotes: high standards of expertise and professionalism in the practice of engineering; the development of inventions and improvements in the practice of engineering and the dissemination of information; improvements in the laws relating to matters of engineering practice.

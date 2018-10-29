@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Museum of Free Derry, The - The National Civic Rights Archive
-
 <p>The Museum of Free Derry is an archive focusing on the civil rights era of the 1960s and the Free Derry/early troubles era of the 1970s.</p>

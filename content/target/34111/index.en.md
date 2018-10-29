@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail,  The: David Cameron plans to pull a series of rabbits out of his hat as he wraps up talks with EU leaders and prepares to lead the campaign to keep Britain IN the EU   
-

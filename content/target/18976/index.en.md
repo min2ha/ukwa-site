@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Surrey home safe from Magna Carta visitor centre threat
-

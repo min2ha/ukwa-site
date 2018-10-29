@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Hinckley and Bosworth Borough Council
-
 Hinckley & Bosworth Borough Council website provides information on its services and news. It also offers access to consultations, committee papers, council budgets and spending, and planning policy documents and the local plan.

@@ -10,5 +10,3 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# Gwasanaeth Tân Ac Achub Canolbarth a Gorllewin Cymru | Mid and West Wales Fire and Rescue Service
-

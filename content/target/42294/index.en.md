@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Liverpool University Press (LUP)
-
 Liverpool University Press (LUP) is the UK’s third oldest university press, with a long history of publishing research since 1899.

@@ -10,6 +10,4 @@
   "start_date": "2017-05-17T09:00:00Z"
 }
 
-# Warwick Business School (WBS)
-
 Warwick Business School is part of the University of Warwick, it also opened a London campus in 2015.

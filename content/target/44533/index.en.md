@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Tag Archives: Brexit
-
 bolg posts on Brexit

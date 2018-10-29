@@ -11,6 +11,4 @@
   "subject": "Darwin 200"
 }
 
-# Complete Work of Charles Darwin Online, The
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Friends of Arundel Cathedral
-
 The Friends are people from all over the world, united by their common love of the Cathedral church of Our Lady and Saint Philip Howard in Arundel, West Sussex.

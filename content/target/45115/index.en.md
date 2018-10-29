@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Lesbian, Gay and Bisexual and Trans Foundation (LGBT)
-
 LGBT Foundation, formerly known as The Lesbian & Gay Foundation (The LGF), is a national charity delivering a wide range of services to lesbian, gay and bisexual and trans (LGBT) communities.

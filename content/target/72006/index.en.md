@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Ruthin Farmers Auction Company Limited
-
 Ruthin Farmers was established in 1920 and are Livestock Auctioneers & Valuers located in Ruthin, Denbighshire 

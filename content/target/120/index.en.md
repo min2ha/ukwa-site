@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# George Eliot Hospital
-
 None

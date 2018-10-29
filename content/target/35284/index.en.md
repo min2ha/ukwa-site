@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alex Stewart-Clark (@AStewartClark) on Twitter
-
 The Twitter profile of Alex Stewart, Scottish Conservative and Unionist candidate for Mid Fife and Glenrothes in the 2016 Scottish Parliament election.

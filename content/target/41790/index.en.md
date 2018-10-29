@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Save our Paths Wales (SOPS)
-
 SOPS is a Lobby Group dedicated to protecting country paths.  Due to an increase in off-roaders, many such public rights of way  unsuitable/ unsafe for other users.

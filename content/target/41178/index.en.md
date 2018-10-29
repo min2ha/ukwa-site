@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Change.org: Save the BBC's recipe archive!
-
 A petition to the BBC to save the Recipes section of their website. The BBC announced in a press statement on the 17th of May 2016 that the Recipes section of their website was going to be cut along with a number of other sites as part of a restructuring programme to save money.

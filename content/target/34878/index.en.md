@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: The EU referendum campaign
-
 This UK House of Commons Library briefing issued in January 2016 includes information about the secondary legislation required to start the official campaign period before the EU referendum, including regulations to set the date of the referendum, and the duration and start date of the period during which lead campaign organisations are designated. It also includes information on the rules that apply to campaign activity.

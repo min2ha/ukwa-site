@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Julie James on Facebook (Labour candidate for Swansea West)
-
 Julie James is the Labour Assembly candidate for Swansea West at the 2016 National Assembly for Wales election.

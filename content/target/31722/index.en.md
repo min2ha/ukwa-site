@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Llwyfan Dawns Cymru | Wales Dance Platform 2015
-
 Wales Dance Platform was held in June 2015 with forty-five choreographers presenting dance at Wales Millennium Centre and Chapter in Cardiff and The Riverfront in Newport. 

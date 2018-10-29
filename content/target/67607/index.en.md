@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# EVRAZ plc
-
 EVRAZ is a vertically integrated steel, mining and vanadium business with operations in Russia, Ukraine, the United Stated, Canada, the Czech Republic, Italy and South Africa. The company headquarters are in London.

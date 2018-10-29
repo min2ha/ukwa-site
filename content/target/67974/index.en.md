@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# Dead End Brew Machine on Facebook
-
 Facebook page of a brewer located in Glasgow.

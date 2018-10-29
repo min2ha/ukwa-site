@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Association for Online Publishing - AOP
-
 The UK Association of Online Publishers (AOP) is an industry body representing digital publishing companies that create original, branded, quality content.

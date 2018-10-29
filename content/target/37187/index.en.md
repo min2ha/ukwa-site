@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Newspaper headlines: Business group boost for 'Brexit' campaign
-

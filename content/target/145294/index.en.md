@@ -10,6 +10,4 @@
   "start_date": "2007-06-25T00:00:00Z"
 }
 
-# Meningitis Research Foundation
-
 We fund research to prevent meningitis and septicaemia, and to improve survival rates and outcomes. 

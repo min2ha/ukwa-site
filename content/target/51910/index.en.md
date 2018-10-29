@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Brompton
-
 Holy Trinity, Brompton is a vibrant Anglican church in the heart of London, with a vision to play our part in the evangelisation of the nations, the revitalisation of the church and the transformation of society.

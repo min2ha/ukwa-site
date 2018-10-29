@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mebyon Kernow - The Party for Cornwall
-
 Website of Mebyon Kernow - The Party for Cornwall, providing party news articles and blog posts, information on policies and the party spokespeople.

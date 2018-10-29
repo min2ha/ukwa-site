@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Official London Theatre: New Harry Potter images released
-
 Article about news actors for the play 'Harry Potter and the Cursed Child'.

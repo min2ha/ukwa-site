@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# City of York Council
-
 Website of York City Council gives access to information about its activities and services, spending and planning policy. You can also access committee papers and minutes, news and consultations

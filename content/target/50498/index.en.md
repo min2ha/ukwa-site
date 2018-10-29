@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Saltcoats Victoria Football Club
-
 Site for a Scottish junior football club based in Saltcoats, Ayrshire

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Outnumbered, defeated … where next for the diehard Brexiters?
-

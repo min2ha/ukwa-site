@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Yes Dunblane
-
 None

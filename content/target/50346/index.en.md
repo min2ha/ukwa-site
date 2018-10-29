@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Great Castles
-
 Great Castles started as a place to upload castle pictures so friends and family could see castles I had visited. Through the years it has evolved into a castle information portal.

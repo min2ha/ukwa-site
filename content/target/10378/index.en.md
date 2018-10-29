@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Sandy Martin (@sandyofipswich) on Twitter (Labour Politician)
-
 Sandy Martin stood as Labour candidate for Ipswich at the 2017 General Election but was not elected. He defeated Conservative sitting MP Ben Gummer, author of the Tory manifesto.

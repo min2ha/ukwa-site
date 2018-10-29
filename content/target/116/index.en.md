@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Sussex Healthcare NHS Trust
-
 None

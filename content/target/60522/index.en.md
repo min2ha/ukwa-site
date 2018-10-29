@@ -10,5 +10,3 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Cyngor Tref Tywyn | Tywyn Town Council
-

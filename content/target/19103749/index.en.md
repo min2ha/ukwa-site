@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Sheffield Quakers Blog
-
 None

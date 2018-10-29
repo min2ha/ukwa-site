@@ -11,5 +11,3 @@
   "subject": null
 }
 
-#  Ben Manton on Facebook (Conservative and Unionist Party candidate for Belfast South)
-

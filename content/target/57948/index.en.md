@@ -10,6 +10,4 @@
   "start_date": "2017-10-20T09:00:00Z"
 }
 
-# Abbey Cwm Hir
-
 Abbey Cwm Hir is a stately home / historic house and tourist attraction open for pre-booked tours near Llandrindod Wells. The Victorian Revival Gothic mansion and 12 acre gardens overlooks the ruins of the 12th century cistercian abbey.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Slough Times
-
 None

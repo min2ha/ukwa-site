@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: Don't let Labour and the SNP 'tear our nation apart', says Sir John Major
-
 None

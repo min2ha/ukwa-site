@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 24 October 2016: European Council
-
 The House of Lords debates the Prime Minister's statement on her first European Council meeting and her comments on the Brexit negotiations

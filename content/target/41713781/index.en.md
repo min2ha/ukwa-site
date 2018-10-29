@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Lee-on-the-Solent Residents' Association (LoSRA)
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# County Durham and Darlington NHS Foundation Trust
-
 None

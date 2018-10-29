@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Reading Greens (@reading_greens) on Twitter
-
 Twitter account of Reading Greens, providing information on campaigns, events, representatives and candidates and local and national news updates.

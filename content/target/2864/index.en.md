@@ -10,6 +10,4 @@
   "start_date": "2013-06-26T21:00:00Z"
 }
 
-# Lindisfarne Gospels, The 
-
 None

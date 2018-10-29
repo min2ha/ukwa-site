@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Helmshore
-
 <p>The website gives information about Helmshore, a village in the Rossendale Valley, Lancashire, England.</p>

@@ -10,6 +10,4 @@
   "start_date": "2015-06-11T09:00:00Z"
 }
 
-# Bridgend Community Safety Partnership
-
 Safer Bridgend Community Safety Partnership involves various agencies from the public, private and voluntary sector working together to reduce crime, disorder and fear of crime locally. 

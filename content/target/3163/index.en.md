@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Scottish Screen Archive
-
 The Scottish Screen Archive is Scotland's national moving images collection. It preserves over 100 years of Scottish history on film and video.

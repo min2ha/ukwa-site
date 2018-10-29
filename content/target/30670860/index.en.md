@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Stone and Quarry Men of the West Country
-
 Website listing stone and quarrymen, who were either born in Devon or Cornwall, or born elsewhere and worked in the West Country. The list is compiled from old directories, census entries, books, polls, etc.

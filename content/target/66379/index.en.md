@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Ogilvie Group Limited
-
 Ogilvie Group Limited is a construction services provider. The company is based in Stirling and offers services such as construction, residential development, vehicle fleet, and communication industries. 

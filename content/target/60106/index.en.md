@@ -10,6 +10,4 @@
   "start_date": "2018-01-06T09:00:00Z"
 }
 
-# Stronsay Limpet
-
 Site of a hyper local news sheet for the island of Stronsay, Orkney.

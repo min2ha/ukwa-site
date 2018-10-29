@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# NAFC Marine Centre
-
 NAFC Marine Centre (North Atlantic Fisheries College) in Scalloway, Shetland is a part of the University of the Highlands and Islands.

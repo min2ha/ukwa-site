@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Carbon Breif: EU referendum opinion tracker: energy and climate change
-
 Carbon Brief: tracking opinons of 'key players' in the EU referendum debate and their views on energy and climate change. 

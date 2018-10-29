@@ -10,6 +10,4 @@
   "start_date": "2016-11-22T09:00:00Z"
 }
 
-# Ymddiriedolaeth Penllergare | Penllergare Trust 
-
 Penllergare Valley Woods, north of Swansea, are run and maintained by Penllergare Trust, a small, local charity set-up specifically for this purpose. The woods were saved from neglect and development and conserved by local volunteers.

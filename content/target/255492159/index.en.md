@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 14-18 NOW: Letter to an Unknown Soldier
-
 None

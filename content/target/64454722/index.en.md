@@ -10,5 +10,3 @@
   "start_date": "2012-09-13T00:00:00Z"
 }
 
-# The Courier | Aberystwyth's Student Newspaper
-

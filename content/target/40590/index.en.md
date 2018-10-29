@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: David Cameron: Brexit could lead to Europe descending into war
-

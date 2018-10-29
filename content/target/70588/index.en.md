@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Durham Women FC (@DurhamWFC) on Twitter
-
 Official Twitter account of the FA Women's Championship team, also known as the #wildcats! 2017 FA WSL 2 Club of the Year. 

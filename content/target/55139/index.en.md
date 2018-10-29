@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS News:  Does web addiction cause depression?
-
 NHS News: Article about research into social media and depression

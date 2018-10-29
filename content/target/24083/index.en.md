@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: David Cameron working out his first all-Tory cabinet
-
 None

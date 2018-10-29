@@ -10,5 +10,3 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# UNESCO Cities of Music
-

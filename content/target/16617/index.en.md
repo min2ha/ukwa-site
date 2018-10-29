@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron says he is happy to hold vote on lowering voting age to 16
-
 None

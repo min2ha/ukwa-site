@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Glasgow Women's Library (@womenslibrary) on Twitter
-
 Twitter account for the only Accredited Museum in the UK dedicated to women’s history

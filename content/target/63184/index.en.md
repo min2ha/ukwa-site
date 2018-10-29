@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Astronomy Now – Stephen Hawkings
-
 Astronomy Now; articles relating to Stephen Hawking

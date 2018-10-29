@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Philomena Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Winchburgh, West Lothian.

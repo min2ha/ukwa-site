@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Visit York: Tour de France
-
 Tour de France page of York Visitor Information Service giving details of the Grand Depart in Yorkshire

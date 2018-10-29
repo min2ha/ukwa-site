@@ -10,5 +10,3 @@
   "start_date": "2012-06-18T00:00:00Z"
 }
 
-# Comisiwn Ffiniau Llywodraeth Leol i Gymru - Local Government Boundary Commission for Wales
-

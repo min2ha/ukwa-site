@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Jenny Jones: Green Party Member of the House of Lords
-
 Website of Green party member of the House of Lords, Jenny Jones. Jenny was introduced to the House of Lords on 5th November 2013, having been elected to represent the Green Party there by Party members. She took her title – Jones of Moulsecoomb – from the council estate she grew up on in Brighton.

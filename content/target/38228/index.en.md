@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave Media (@Vote_LeaveMedia) on Twitter
-
 Media account for @vote_leave campaign

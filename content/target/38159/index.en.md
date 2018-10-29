@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Northern Ireland GO (@Nireland4GO) on Twitter
-
 Northern Ireland regional campaign for the UK to leave the EU

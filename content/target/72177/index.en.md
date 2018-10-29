@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# David Cushway
-
 David Cushway is a contemporary ceramic artist. He is originally from Wickford, Essex, and now based at the Fireworks Studio, Cardiff, of which he is a founder member. His work has already exhibited widely both in the UK and at European galleries. His work was selected for the Ceramics Purchase Prize and was short listed for the Fine Art Gold Medal at the National Eisteddfod of Wales.

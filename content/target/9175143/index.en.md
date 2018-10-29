@@ -10,5 +10,3 @@
   "start_date": "2008-07-15T00:00:00Z"
 }
 
-# Sesiwn Fawr
-

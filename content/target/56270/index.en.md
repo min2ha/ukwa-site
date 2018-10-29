@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Dog Forum
-
 An online enthusiast community forum concerned with dogs. Discusses puppy advice, dog behaviour & training, dog health, diet & nutrition and various other topics.

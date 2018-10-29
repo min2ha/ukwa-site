@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Morpeth Liberal Democrats
-

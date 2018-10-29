@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Philip Latham (@PhilipLatham) on Twitter (Liberal Democrats candidate for Blyth Valley)
-
 Philip Latham stood as Liberal Democrats candidate for Blyth Valley at the 2015 General Election but was not elected. 

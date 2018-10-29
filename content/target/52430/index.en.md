@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Modern Art Oxford
-
 Founded in 1966, Modern Art Oxford is a contemporary art spaces with an international reputation for ambitious and innovative projects.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-22T09:00:00Z"
 }
 
-# Sussex Traditions
-
 A charity which will provide people living in or interested in Sussex with a window on the traditional culture of the county.

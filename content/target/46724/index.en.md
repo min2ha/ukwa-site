@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Sir Aberteifi a'r Rhyfel Mawr | Cardiganshire and the Great War
-
 Reporting the Great War is a Ceredigion Archives project. Every week, Ceredigion Archives explore local newspapers of 100 years ago and through other sources in Ceredigion Archives for snippets of news about the war, especially those relating to Ceredigion and thus follow the progress of the Great War week-by-week. The results are posted on a specially created bilingual (Welsh/English) blog. 

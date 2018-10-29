@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Television from Small Nations
-
 The Television from Small Nations is based at the Centre for Media & Culture in Small Nations, University of South Wales and offers a 'unique space for comparative analysis and exchange between TV scholars, producers, broadcasters and intermediaries in small nations. The network aims to make an impact on our understanding of what makes for successful and sustainable television production in small nations. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liberal Youth Scotland
-
 The website of Liberal Youth Scotland, a state organisation of Liberal Youth, the youth wing of the Liberal Democrats.

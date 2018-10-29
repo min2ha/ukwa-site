@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# New Economics Foundation (NEF): 5 reasons Nigel Farage is wrong about the EU and UK fisheries
-
 Blog post argues that, contrary to claims by Nigel Farage, all the evidence shows that the EU is helping UK fisheries.

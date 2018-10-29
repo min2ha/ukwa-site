@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Twll, Y
-
 A Welsh language online magazine/blog eastablished in 2009 that covers culture, art, music, film and politics.

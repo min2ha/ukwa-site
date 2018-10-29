@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: POPULISM: It's the BBC's new buzzword, being used to sneer at the 'uneducated' 17 million who voted for Brexit 
-
 There is a new buzz-word at the BBC. It's been bandied about on countless programmes and dominates the pages of the Left-wing papers. The 17 million-plus Britons who voted to leave the EU are described as part of a 'populist' revolution.

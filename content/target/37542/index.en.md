@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Business Green: Brexit would return Britain to being 'dirty man of Europe'
-
 Environmental news

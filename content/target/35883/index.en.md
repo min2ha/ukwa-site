@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: European Union Referendum Bill 2015-16
-
 Research briefing

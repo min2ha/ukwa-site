@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: George Osborne and Ed Balls clash over TV election debate
-
 None

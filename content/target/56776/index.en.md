@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Aces Weekly
-
 A subscription based web comic published by David Lloyd, containing serials and short stories. Due to the subscription nature of this comic some of the material is not available through the archive, however the freely available material is accessible.

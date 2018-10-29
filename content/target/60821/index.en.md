@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Jack Burrows (@jackspeedskater) on Twitter
-
 Gold medalist for Team GB at the Youth Winter Olympics. @gb_shorttrack Speed Skater 20 yrs old aiming to be the best!

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# International Business News UK: MPs 'Horrified' by HMRC Overriding Magna Carta by Raiding Bank Accounts
-

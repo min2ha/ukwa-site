@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# ME and Ophelia
-

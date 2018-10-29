@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Bridgend & District Football League
-

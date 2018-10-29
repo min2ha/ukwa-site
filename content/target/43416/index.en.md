@@ -10,6 +10,4 @@
   "start_date": "2016-06-21T10:00:00Z"
 }
 
-# Scone Palace
-
 Site of a museum, estate and visitor attraction at Scone, Perthshire, Scotland.

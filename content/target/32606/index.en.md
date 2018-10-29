@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Out-Law
-
 Out-Law is a legal news and guidance service provided by Pinsent Masons, and international law firm.

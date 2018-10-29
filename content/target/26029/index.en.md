@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The stuff of Tory nightmares: what if Ed Miliband connects?
-
 None

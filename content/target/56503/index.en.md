@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Cothill Educational Trust
-
 The Cothill Educational Trust comprises of eight schools each retaining their own identity and ethos.

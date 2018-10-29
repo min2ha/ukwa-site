@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, the: Ukip’s warring factions could bring down the Eurosceptics
-
 None

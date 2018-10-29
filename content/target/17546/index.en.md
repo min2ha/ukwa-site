@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron's grammar school plan isn't a dog-whistle to the middle classes. It's a slap in the face
-
 None

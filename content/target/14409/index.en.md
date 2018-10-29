@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ewan Morrison - An important analysis of what will happen with the...: Facebook
-
 Ewan Morrison's Facebook post of the 18th September, 2014.

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Jean-Claude Juncker says chance of deal has increased
-
 The chance of the UK and the EU agreeing a Brexit deal has grown in the last few days, the head of the European Commission said. Speaking to the Austrian press, Jean-Claude Juncker said that while he was not sure an agreement could be reached by October 2018, it could be by November.
 
 

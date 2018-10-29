@@ -10,6 +10,4 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# SURF : Scotland's Regeneration Forum
-
 Site of a network of organisations set up to SURF’s overall objective is to improve the health and wellbeing of residents in Scotland’s disadvantaged communities through regeneration.

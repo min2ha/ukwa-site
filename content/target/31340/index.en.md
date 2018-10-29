@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Cathy's Home Page
-
 Personal website of Cathy Shaw containing information about genealogy and other interests.

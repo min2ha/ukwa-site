@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The idea of buccaneer Britain trading freely outside the EU is a fantasy
-

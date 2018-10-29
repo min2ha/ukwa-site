@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dagenham & Redbridge F.C.
-
 Dagenham & Redbridge Football Club, often known simply as Dagenham and abbreviated when written to Dag & Red, is a professional association football club based in Dagenham, London, England, formed in 1992 through a merger between Redbridge Forest and Dagenham

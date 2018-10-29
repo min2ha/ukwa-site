@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Spree Wales
-
 Spree Wales is an annual religious youth weekend and residential event. It enables young people 'to experience new and exciting activities and to develop (or begin!) their relationship with God'. 

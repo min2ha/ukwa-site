@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Ex-Navy chief warns of lack of boats to police waters
-
 The UK will be a "laughing stock" in Europe if it cannot police its fishing waters after Brexit, former First Sea Lord Admiral Lord West said. He claimed there were few vessels to enforce new regulations for UK inshore fishing waters after it leaves the EU.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's, Brighton
-
 St Peter's, is a fun community in one of the most iconic and recognised buildings in the heart of Brighton. 

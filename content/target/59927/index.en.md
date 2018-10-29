@@ -10,6 +10,4 @@
   "start_date": "2017-12-23T09:00:00Z"
 }
 
-# Found&Lost
-
 Found&Lost is the combined work of interdisciplinary artists Michele Woodey and Nerea Martinez de Lecea. They collaborate on paintings, drawings, digital imagery, photography, video and installation works. 

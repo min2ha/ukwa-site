@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sheffield Students Union
-
 Sheffield Students' Union exists to provide support, representation, facilities, services, entertainment and activities to students studying at the University of Sheffield. This is a section of their website dedicated to the 2015 General Election and a link to the blog set up as a joint campaign produced by The Sheffield College, Sheffield Hallam Students’ Union and Sheffield Students’ Union to encourage students to vote in the 2015 General Election.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# International Business Times: UK aviation industry faces post-Brexit challenges despite likely increase of tourists
-
 Article discussing the effects of the referendum on British aviation industries

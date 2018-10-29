@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# LlanBike Fest | Llongollen Motorcycle Festival
-
 LlanBikeFest is a family-friendly festival, celebrating every aspect of motorcycling.

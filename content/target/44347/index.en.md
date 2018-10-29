@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Young Glasgow Talent
-
 Site of an organisation providing adult mentoring to disadvantaged young people in Glasgow, Scotland

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Tory plan to 'kill Ukip' by stopping Farage becoming an MP  
-
 None

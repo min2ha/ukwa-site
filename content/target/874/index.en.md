@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheffield Health and Social Care
-
 None

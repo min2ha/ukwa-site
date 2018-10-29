@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Huw Warren
-
 Huw Warren is a Welsh pianist and composer.

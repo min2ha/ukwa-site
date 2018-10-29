@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Barry Merchant Seamen
-
 <p>This is a history and tribute site for Barry Merchant Seamen.</p>

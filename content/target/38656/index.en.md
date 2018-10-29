@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Paul Martin (@Paul4Provan) on Twitter
-
 Twitter profile of Paul Martin, the Scottich Labour Party candidate for Glasgow Provan in the 2016 Scottish Parliamentary election.

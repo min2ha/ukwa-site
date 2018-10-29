@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Christine Grahame: Scottish National Party: Tweeddale Ettrick & Lauderdale
-
 None

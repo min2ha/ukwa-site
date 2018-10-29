@@ -10,5 +10,3 @@
   "start_date": "2013-11-29T00:00:00Z"
 }
 
-# Diverse Cymru
-

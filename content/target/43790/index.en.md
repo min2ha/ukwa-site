@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Blacklist blog
-
 Blog dedicated to exposing blacklisting and blacklisters. We work with unions and activists to fight for workers’ rights.

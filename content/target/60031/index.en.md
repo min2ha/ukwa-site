@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# The FA (@FA) on Twitter
-
 The official Twitter account of the Football Association in England.

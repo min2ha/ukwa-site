@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mail Online: Gaming addiction may NOT exist: Experts claim habit is a temporary distraction from aspects of life that gamers are unhappy with 
-
 News article about recent studies that suggest gaming addiction may not exist 

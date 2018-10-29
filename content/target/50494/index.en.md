@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Pollok Football Club
-
 Site for a Scottish junior football club based in the Pollok area of Glasgow.

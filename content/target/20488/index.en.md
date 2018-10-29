@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: TV channels block Green party bid to limit Natalie Bennett's screen time 
-
 None

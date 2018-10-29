@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scotland Says Naw (VoteNoSep18) on Twitter
-

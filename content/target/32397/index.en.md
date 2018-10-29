@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T00:00:00Z"
 }
 
-# Drug Misuse information Scotland
-
 The illicit use of drugs and particularly opiates, benzodiazepines and psychostimulants, causes significant problems within Scotland as it does in other parts of the UK and Europe. Some of these problems are primarily social in nature, involving, for example, increases in acquisitive crime, prostitution, unemployment, family breakdown and homelessness. Others are more clearly associated with health problems, for example, the transmission of communicable diseases (HIV, hepatitis), injecting related injuries and increased demands upon health care services.

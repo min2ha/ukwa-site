@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Pitchcare Forum
-
 A forum for everybody involved in grass care

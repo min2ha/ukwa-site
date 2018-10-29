@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexiters are being naive over US trade. Bombardier is a taste of things to come
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wigan Warriors (@WiganWarriorsRL) on Twitter
-
 Official Twitter account of Wigan Warriors Rugby League Club.

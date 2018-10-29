@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# Parliament Deposited Papers
-
 Deposited papers are placed in either the House of Commons or the House of Lords Library by a minister or the Speaker. The majority of deposited papers are placed by ministers in reply to parliamentary questions.

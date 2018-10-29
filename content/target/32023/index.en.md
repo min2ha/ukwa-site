@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Lead Wales
-
 Lead Wales was designed for managers of a small to medium sized business or social enterprise. The project was based at Department of Research and Innovation, Swansea University and came to an end in June 2015.

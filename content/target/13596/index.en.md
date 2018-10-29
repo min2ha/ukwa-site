@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UK Constitutional Law Association
-
 The United Kingdom Constitutional Law Association (UKCLA) is the UK’s national body of constitutional law scholars affiliated to the International Association of Constitutional Law. Its object is to encourage and promote the advancement of knowledge relating to United Kingdom constitutional law and the study of constitutions generally.

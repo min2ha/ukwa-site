@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Let's Talk Welsh!
-
 Let's Talk Welsh! is a resource that helps students across the world with their quest to master the Welsh language, via Skype. The tutor is Mererid Williams, a native Welsh speaker from Aberystwyth.

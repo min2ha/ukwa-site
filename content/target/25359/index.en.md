@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A little more nationalism might be just what the Welsh need
-
 None

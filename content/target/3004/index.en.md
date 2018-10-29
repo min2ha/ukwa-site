@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T08:00:00Z"
 }
 
-# Bill Douglas Cinema Museum, The
-
 The Bill Douglas Cinema Museum is home to one of the largest collections of material relating to the moving image in Britain. It is both an accredited public museum and an academic research facility and it holds a collection of over 75,000 items. 

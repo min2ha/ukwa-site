@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# JogScotland
-
 Site of a network of jogging groups are perfect for people who want to get active for the first time, or more experienced runners who want to exercise in a sociable, supportive environment.

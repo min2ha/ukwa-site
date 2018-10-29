@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Under One Roof
-
 Site providing impartial advice to people living in buildings containing multiple homes - tower blocks, tenements and so on.

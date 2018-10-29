@@ -10,6 +10,4 @@
   "start_date": "2018-07-21T09:00:00Z"
 }
 
-#  NHS Organ Donation
-
 Official Website of the Organ Donation Department of the National Health Service 

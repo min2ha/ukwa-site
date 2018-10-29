@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Morningside ​United Church
-
 Site of a joint Church of Scotland and United Reformed parish church located in Morningside, Edinburgh.

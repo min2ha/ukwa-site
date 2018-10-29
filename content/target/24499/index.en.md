@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC challengers' election debate: LIVE analysis, reaction and fallout
-
 None

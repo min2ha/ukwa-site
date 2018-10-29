@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# House of Lords Hansard: 11th October 2018: Good Friday Agreement: Impact of Brexit
-
 Debate on the proposition that leaving the EU puts the Good Friday Agreement that ended strife in Northern Ireland in jeopardy

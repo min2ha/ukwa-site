@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Council for Slavonic and East European Library and Information Services (COSEELIS) 
-
 The most important function of COSEELIS is to represent the interests of UK libraries and other information organisations offering services in the field of Slavonic and East European studies. Group interests are furthered through publications, co-operative activities, collective representation, and the exchange of views and ideas at conferences.

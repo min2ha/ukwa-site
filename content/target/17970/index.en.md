@@ -10,6 +10,4 @@
   "start_date": "2015-03-13T09:00:00Z"
 }
 
-# Aerobility
-
 Aerobility is a registered charity founded in 1993 offering disabled people the opportunity to fly an aeroplane.

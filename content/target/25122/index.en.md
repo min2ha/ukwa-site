@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Miliband will bring back uncontrolled migration
-
 None

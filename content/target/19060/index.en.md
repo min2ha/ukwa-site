@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: New coins for 2015: Battle of Britain 75th anniversary remembered
-

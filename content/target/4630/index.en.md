@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Guardian, The: Nelson Mandela's village braces for hero's funeral
-
 None

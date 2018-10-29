@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Safeline 
-
 Safeline was established in 1994. It is a charity that aims to prevent sexual abuse and to support those affected in their recovery. 

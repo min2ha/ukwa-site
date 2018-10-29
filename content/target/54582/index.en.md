@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Turing Fest
-
 Site of a festival of technology providing delegates to discus all aspects of the technology business, engineering, products, marketing.

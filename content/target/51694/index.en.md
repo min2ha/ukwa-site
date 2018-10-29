@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: What are the key issues for the Brexit negotiations?
-
 Analysis covers immigration, business, security, defence, health, education, science, the environment, farming and fishing.

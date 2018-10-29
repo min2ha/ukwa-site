@@ -10,5 +10,3 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Cyngor Cymuned Llanddaniel Fab | Llanddaniel Fab Community Council
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Hastings and Rother
-
 None

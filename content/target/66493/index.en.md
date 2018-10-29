@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Muir Timber Systems Limited
-
 The website of Muir Timber Systems Limited, a supplier of timber frames and trusses. The company is part of J W Muir Group plc. 

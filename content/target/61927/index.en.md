@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberlady & Gullane Parish Churches
-
 Site of two Church of Scotland parish churches at Gullane and aberlady, East Lothian.

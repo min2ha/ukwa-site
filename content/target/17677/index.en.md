@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Gillian Duffy: I’m backing Ed Miliband and Labour
-
 None

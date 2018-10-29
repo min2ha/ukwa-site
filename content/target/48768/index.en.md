@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 24th Jan. 2017: The Process for Triggering Article 50 
-
 Lords debate on the implications of the Supreme Court ruling that the Government must get Parliamentary approval before it triggers Article 50 and starts the process of EU withdrawal.

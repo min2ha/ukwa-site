@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cheltenham Town Football Club
-
 Cheltenham Town Football Club is a professional association football club based in the town of Cheltenham, Gloucestershire, England. Founded in 1887, the team has played at three different grounds, namely Agg-Gardner's Recreation Ground, Carter's Field, and now Whaddon Road, which is known for commercial reasons as The LCI Rail Stadium.

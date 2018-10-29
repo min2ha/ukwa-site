@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bedlam Fringe on Facebook
-
 Facebook page for Edinburgh Fringe Festival programme for Bedlam Theatre, the University of Edinburgh's theatre company.

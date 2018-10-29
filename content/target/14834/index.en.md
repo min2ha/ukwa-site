@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - We're hearing reports that over 4000 people have...
-
 <p>Yes Scotland post about an increase in SNP and Scottish Green Party membership at 2.04pm on the 20th of September 2014.</p>

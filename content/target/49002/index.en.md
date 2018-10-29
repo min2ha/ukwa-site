@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# New Music Scotland
-
 Site of a network of artists, ensembles, orchestras, composers, creators, music educators, sound artists, musicians, producers, promoters and people who value to creation of new music in Scotland; organisaed as a cooperative.

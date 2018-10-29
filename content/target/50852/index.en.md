@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Vamos Scotland
-
 An organization focused on promoting Spanish culture and entrepreneurialism in Scotland. 

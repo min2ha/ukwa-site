@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nia Griffith, Labour Member of Parliament for Llanelli
-
 Nia Griffith, Labour candidate for Llanelli. She is also the current MP.

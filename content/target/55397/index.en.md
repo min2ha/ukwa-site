@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Reality Check: Britain and EU at odds over citizens' rights
-
 When British Prime Minister Theresa May first trailed the Conservative Party's proposals for EU citizens living in the UK at the June 2017 EU summit, the initial response from her fellow leaders was hardly enthusiastic. Now they have seen the details, they remain unimpressed.

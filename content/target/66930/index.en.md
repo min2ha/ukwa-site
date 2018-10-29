@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-#  Baggage Reclaim Blog
-
 Improve your emotional and relationship literacy. Offload your baggage so that you can make way for a happier you and healthier relationships

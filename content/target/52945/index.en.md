@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Film Oxford
-
 Film Oxford is an Education & Creative Charity supporting filmmakers and digital creators through a programme of TRAIN, NETWORK, CREATE, EXHIBIT – helping you develop your skills, make  new contacts and build a portfolio of work to share.

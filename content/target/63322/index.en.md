@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# St. Cuthbert's Way
-
 Site providing information about the route and services along the St. Cuthbert's Way walking route from Melrose to Lindisfarne, Scotland and Northumberland.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Conservatoire for Dance and Drama
-
 Official website of the Conservatoire for Dance and Drama, London.

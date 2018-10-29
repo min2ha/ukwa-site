@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Birdlife: European Parliament elections 2014
-

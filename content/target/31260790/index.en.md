@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Wrights & Sites
-
 Formed in UK, 1997, Wrights & Sites are four artist-researchers (Stephen Hodge, Simon Persighetti, Phil Smith and Cathy Turner) whose work is focused on peoples' relationships to places, cities, landscape and walking. 

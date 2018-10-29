@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Girls on the Ball
-
 Official account of GirlsontheBall covering women's football over land & sea, averaging 32,000 miles/year.

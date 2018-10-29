@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Birtley and the Great War
-
 Birtley Heritage Group wish to reveal to younger and newer residents of Birtley and remind others, of the unique part Birtley played in the First World War.

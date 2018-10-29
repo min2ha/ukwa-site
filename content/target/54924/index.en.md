@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Management Today Blog: Could Brexit take Northern Ireland back to the bad old days?
-
 Earlier this year Management Today visited the province to see how businesses felt about leaving the EU - and the potential of a hard border

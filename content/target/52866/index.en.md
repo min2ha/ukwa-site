@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# East of England Co-op
-
 Founded in Colchester in 1861, local people came together to set up a shop selling quality food at affordable prices – the very thing their community needed, but until then weren’t always able to get.

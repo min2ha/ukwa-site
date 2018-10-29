@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kevin Neil (@Kevin_4_Labour) on Twitter (Labour Party  Politician)
-
 Kevin Neil stood as Labour Party candidate for St Austell and Newquay in the 2017 General Election but was not elected.

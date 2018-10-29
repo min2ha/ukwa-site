@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# Plana Radaigeach airson na Gàidhlig by MISNEACHD on Issuu
-
 "A Radical Plan for Gaelic", a response to the National Gaelic Language Plan 2017-2022 published by Bòrd na Gaidhlig.

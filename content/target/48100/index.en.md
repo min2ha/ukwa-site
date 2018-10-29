@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK's EU ambassador tells colleagues to challenge 'muddled thinking'
-
 The UK's ambassador to the EU urged British colleagues in Brussels to challenge "muddled thinking and... speak truth to power" as he quit ahead of Brexit talks.

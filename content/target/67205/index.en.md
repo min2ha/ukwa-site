@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Audio City Studios
-
 Website of Audio City Studios in Glasgow, Scotland. 

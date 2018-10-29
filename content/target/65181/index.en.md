@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Lodge Sir George Cathcart No. 617
-
 Site of a masonic lodge located in Busby, East Renfrewshire and affiliated with the Grand Lodge of Scotland.

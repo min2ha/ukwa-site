@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Dathlu'r Gymraeg
-
 Dathlu'r Gymraeg is a network of people in Wales who celebrate the success of the Welsh language and call for action to ensure its future. 

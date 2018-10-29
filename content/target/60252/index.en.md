@@ -10,6 +10,4 @@
   "start_date": "2018-01-13T09:00:00Z"
 }
 
-# Llenyddiaeth Cymru | Literature Wales
-
 This is the hidden site for Literature Wales, the national company for the development of literature in Wales, and works with the support of the Arts Council of Wales and Welsh Government. 

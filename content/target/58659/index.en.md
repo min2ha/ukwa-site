@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Europe Direct Cardiff/ Caerdydd
-
 This is the Europe Direct information centres (EDIC) based at Cardiff Central Library. 

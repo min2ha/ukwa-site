@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# John Swinney (JohnSwinney) on Twitter
-
 The twitter profile of John Swinney, the Scottish National Party Member of the Scottish Parliament for Perthshire North and Scottish Government Cabinet Secretary for Finance, Employment and Sustainable Growth.

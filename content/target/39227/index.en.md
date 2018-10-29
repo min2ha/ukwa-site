@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Oh What a Lovel War Curtain Raisers
-
 The project will enable 4 schools in Newham to explore,understand and interpret the role of Popular Entertainment in the First World War.

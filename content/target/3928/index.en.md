@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Wellington Weekly News
-
 None

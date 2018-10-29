@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Llancarfan Community Cinema
-
 Llancarfan Community Cinema hold monhtly cinema screenings and is a nonprofit, volunteer-run film club serving the village of Llancarfan and surrounding area. 

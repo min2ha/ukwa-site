@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T18:37:00Z"
 }
 
-# RMS Caronia II Timeline
-
 The course and history of Cunard Line's RMS Caronia (1948 to 1967), known as the Green Goddess and build by John Brown and Company of Clydebank, Glasgow.

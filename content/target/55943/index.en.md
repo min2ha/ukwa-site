@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Firefight Forum
-
 An online enthusiast forum concerned with laser tag. Discussing Game-running, advertising, technical, props and costume and various other topics. 

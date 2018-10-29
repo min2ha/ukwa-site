@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Trinity Academicals Rugby Football Club
-
 Site of a Scottish rugby union football club based in north Edinburgh.

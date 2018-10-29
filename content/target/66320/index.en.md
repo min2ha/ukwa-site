@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ardrossan Church of the Nazarene
-
 Site of a Church of the Nazarene church and congregation in Ardrossan, Ayrshire.

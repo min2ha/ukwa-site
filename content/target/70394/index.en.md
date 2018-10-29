@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Vintage Nostalgia Festival
-
 Website for the Vintage Nostalgia Festival, which celebrates 1900-1980 culture.

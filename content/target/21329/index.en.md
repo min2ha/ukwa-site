@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Philippa Whitford, SNP, Central Ayrshire 
-
 Website for Phillipa Whitford, Scottish National Party (SNP) candidate for Central Ayrshire in the 2015 UK General Elections.

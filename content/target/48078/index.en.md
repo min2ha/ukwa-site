@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Thomas’ [Trowbridge]
-
 Official website of St. Thomas’ [Trowbridge].

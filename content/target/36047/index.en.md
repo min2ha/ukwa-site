@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Annabelle Ewing (@aewingmsp) on Twitter
-
 The Twitter profile of Annabelle Ewing, the Scottish National Party MSP for Cowdenbeath.

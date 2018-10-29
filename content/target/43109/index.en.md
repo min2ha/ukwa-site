@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Six reasons not to panic if Britain votes for Brexit
-

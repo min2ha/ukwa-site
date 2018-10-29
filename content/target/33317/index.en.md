@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Sci-Fi Weekender
-
 Sci-fi Weekender is an annual science fiction which is held in Pwllheli, Gwynedd.

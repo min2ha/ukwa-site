@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Jon Oakes Paintings
-
 Jon Oakes is a Welsh artist.

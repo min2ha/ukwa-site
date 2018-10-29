@@ -10,7 +10,5 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Chestertons
-
 Chestertons
 Chestertons is a London and international residential property specialist with over 30 high street branches across London, employing over 400 workers.

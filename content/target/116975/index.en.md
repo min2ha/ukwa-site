@@ -10,5 +10,3 @@
   "start_date": "2011-08-31T00:00:00Z"
 }
 
-# Disability Arts Cymru - Celfyddydau Anabledd Cymru
-

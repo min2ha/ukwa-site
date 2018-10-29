@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband has 'zero economic common sense'' for defending New Labour spending, says Peter Robinson. 
-
 None

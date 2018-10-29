@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary’s, Chipping Norton
-
 St Mary's, Chipping Norton is a lively Anglican Church, a short walk down the hill from the centre of the wonderful market town.

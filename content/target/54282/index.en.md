@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# LocalGov: What does local government want from the next Government?
-
 This article summarises local government's priorities for the next government after the 2017 General Election. It covers funding, social care, devolution, Brexit, housing, children's services and education.

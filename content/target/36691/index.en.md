@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Daly Mail Comment: Spare us yet another Brussels pantomime 
-

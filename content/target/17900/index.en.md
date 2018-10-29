@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# American Bar Association (ABA) Magna Carta Commemoration on Facebook
-
 A Facebook page of the American Bar Association honoring the 800th Anniversary of the sealing of Magna Carta.

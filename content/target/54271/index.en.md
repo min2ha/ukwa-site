@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hastings and Rye Liberal Democrats
-
 Website of the Hastings and Rye Liberal Democrats, offering news and campaigning for Nick Perry, candidate at the 2017 General Election.

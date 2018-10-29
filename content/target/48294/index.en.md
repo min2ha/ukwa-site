@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Pollokshaws Heritage Group
-
 Site of a hyper local history group based in Pollokshaws, Glasgow. 

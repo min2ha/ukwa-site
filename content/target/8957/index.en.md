@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aimee Fuller Snowboarder
-
 None

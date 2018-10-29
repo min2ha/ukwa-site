@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bradford & District Green Party
-
 Website of Bradford & District Green Party, providing information on local and national campaigns, representatives and spokespeople and local and national news updates.

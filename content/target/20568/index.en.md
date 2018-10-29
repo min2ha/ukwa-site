@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon, the working-class woman Scots will listen to 
-

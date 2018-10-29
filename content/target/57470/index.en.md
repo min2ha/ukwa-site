@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Gambling firm 888 penalised record £7.8m for failing vulnerable customers
-
 News article detailing the how watchdog fines online bookmaker for failures in protecting problem gamblers, including one who staked more than £1.3m. after more than 7,000 people who had voluntarily banned themselves from gambling were still able to access their accounts

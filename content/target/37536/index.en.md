@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Apollo Magazine: Museums must engage in the Brexit debate – whether they like it or not
-
 Apollo Magazine: Museums must engage in the Brexit debate – whether they like it or not

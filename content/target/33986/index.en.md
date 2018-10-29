@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The Guardian view on ministers and Europe: country before party
-

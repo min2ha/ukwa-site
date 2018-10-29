@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Camden and Islington NHS Foundation Trust
-
 None

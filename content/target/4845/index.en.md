@@ -10,6 +10,4 @@
   "start_date": "2013-01-07T07:00:00Z"
 }
 
-# walkingintheceiling
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T11:00:00Z"
 }
 
-# Ymuno Festival
-
 The Ymuno Festival is held at Bryn Ffanigl Ganol Farm in July, near Abergele. 

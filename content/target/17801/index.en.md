@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Noel Gallagher: Boris Johnson will be next PM and Labour are a waste of time
-
 None

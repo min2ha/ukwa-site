@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Earth First! 
-
 Earth First! Action Reports  is a website to share activities and  ecological direct action and publicise campaigns or projects.

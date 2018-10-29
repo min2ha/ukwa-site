@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Timeline Photos: Let's work together
-
 <p>Yes Scotland post made at 12.50pm on 20th September, 2014.</p>

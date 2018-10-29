@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stuart Jeffery on Facebook (Green Party candidate for Canterbury)
-

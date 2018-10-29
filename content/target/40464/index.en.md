@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: ‘We’ve failed on deporting foreign criminals,’ David Cameron finally admits as he blasts £170m a-year bill for removing European offenders from the UK - but still says we should stay in the EU   
-

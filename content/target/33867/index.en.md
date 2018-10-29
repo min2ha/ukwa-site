@@ -10,6 +10,4 @@
   "start_date": "2016-01-11T09:00:00Z"
 }
 
-# British Watch and Clock Makers' Guild, The 
-
 The Guild is the representative organisation for Professional Horologists in Britain.

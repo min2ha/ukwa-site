@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: My dog won't vote Labour, says David Blunkett
-
 None

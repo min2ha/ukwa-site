@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Glasbury History Group
-
 Glasbury, also known as Glasbury-on-Wye, is a village and community in Powys, Wales. 

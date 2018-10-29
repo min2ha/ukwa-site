@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Botanic Garden Edinburgh: Inverleith House
-
 <p>Exhibition by Corin Sworn at the Royal Botanic Gardens, Edinburgh from 19 April to 29 June 2014. Part of Generation: 25 years of art in Scotland which is part of the Glasgow 2014 Cultural Programme.</p>

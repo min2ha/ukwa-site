@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Cardiff Demo against Trump's #MuslimBan, Cymru'n dweud NA
-
 Cardiff Demo against Trump's #MuslimBan held in Cardiff on 30th January 2017.

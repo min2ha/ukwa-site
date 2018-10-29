@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: 'You are not alone', Juncker tells Irish government
-
 On a visit the the Irish Republic, Mr Juncker made clear that a resolution to the  issue of avoiding a hard border between it and Northern Ireland was crucial to the withdrawal treaty.

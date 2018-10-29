@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Thomas Tunnocks Limited
-
 The website of Thomas Tunnock Limited - commonly known as Tunnock's - a cake and biscuit manufacturer based in Uddingston, Scotland. 

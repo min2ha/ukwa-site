@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: EU referendum two months on: the 10 steps that led to Brexit
-

@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Harry Potter on Wikia
-
 The Fantastic Beasts takeover of the official Harry Potter Wiki, an encyclopedic resource and community gathering spot for all things related to J.K. Rowling and magic.

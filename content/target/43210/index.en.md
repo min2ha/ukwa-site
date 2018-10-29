@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Baroness Warsi switches from Leave to Remain
-

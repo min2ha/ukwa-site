@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Judo Council (BJC)
-
 British Judo Council (BJC) promotes judo in the UK.

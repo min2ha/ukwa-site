@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Why the evil genius of David Cameron’s EU referendum gambit may yet prove his undoing 
-

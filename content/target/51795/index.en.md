@@ -10,6 +10,4 @@
   "start_date": "2017-04-06T09:00:00Z"
 }
 
-# Clare Mackintosh
-
 Clare Mackintosh is a psychological thriller author.

@@ -10,6 +10,4 @@
   "start_date": "2015-03-11T09:00:00Z"
 }
 
-# British Association of Pharmaceutical Wholesalers (BAPW)
-
 The British Association of Pharmaceutical Wholesalers (BAPW) represents full line pharmaceutical distributors. They provide a forum for discussion across the industries involved in the provision of pharmaceuticals to Britain’s health services.

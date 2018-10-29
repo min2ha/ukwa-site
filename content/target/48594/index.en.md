@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# LSE Complexity Group
-
 The LSE Complexity Group has been working for over 20 years, with organisations in the private and public sectors to address practical complex problems. In the process it has developed a theory of complex social systems and an integrated methodology using both qualitative and quantitative tools and methods.

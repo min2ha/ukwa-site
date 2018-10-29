@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Student Sport
-
 Scottish Student Sport is the co-ordinating body for all student sport & physical activity in Scotland.

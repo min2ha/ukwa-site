@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# DMGT
-
 DMGT produces information to the insurance, property, energy, education and finance sectors. They also operate events and deliver news and entertainment to a growing, global consumer audience.

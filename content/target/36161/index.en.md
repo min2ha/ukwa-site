@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Fury at Dave's 'Dodgy Dossier': Pro-EU camp accused of new bout of cynical scaremongering    
-

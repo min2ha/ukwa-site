@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Skenfrith
-
 Skenfrith is a small village located around 12 miles south of Hereford and around 8 miles north of tMonmouth. This is their community website.

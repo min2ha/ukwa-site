@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Sheltland Arts and Crafts
-
 Site showcasing arts and crafts workers based in Shetland, and providing a directory for members of the group.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberdeen: St. Stephen’s Church
-
 Site of a Church of Scotland parish church in Aberdeen.

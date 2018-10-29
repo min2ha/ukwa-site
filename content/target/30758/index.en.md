@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Air Service Training
-
 Air Service Training is an aviation school based in Perth.

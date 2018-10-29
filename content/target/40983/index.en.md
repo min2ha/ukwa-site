@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Pontypool Rugby Football Club
-

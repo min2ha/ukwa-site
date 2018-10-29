@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rossendale RUFC on Pitchero
-
 The official website of Rossendale Rugby Union Football Club.

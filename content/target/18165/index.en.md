@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Pressure grows on Sir Malcolm Rifkind to quit intelligence role over Telegraph sting
-
 None

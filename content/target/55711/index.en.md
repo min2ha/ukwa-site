@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Wales Women's Lacrosse
-
 This is the official website for the Senior Wales Women's Lacrosse Team.

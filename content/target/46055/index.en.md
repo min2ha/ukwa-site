@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# HOME
-
 Formed by the merger of two of Manchester’s arts organisations, Cornerhouse and the Library Theatre Company, HOME has two theatre spaces, five screens for film and digitial, and an art gallery.

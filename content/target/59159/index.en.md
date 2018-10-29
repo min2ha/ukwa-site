@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexiteers, remember how the promise of New Labour turned to dust
-

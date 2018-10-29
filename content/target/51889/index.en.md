@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady Star of the Sea, Mumbles
-

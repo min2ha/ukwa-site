@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Midland Union of Unitarian & Free Christian Churches
-

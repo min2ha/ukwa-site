@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T10:00:00Z"
 }
 
-# Small is Beautiful Festival
-
 According to the site, 'The Small is…Festival is a celebration of sustainable ideas influenced by E.F. Schumacher’s seminal work ‘Small Is Beautiful’. The festival combines practical workshops, hard-hitting debates and inspiring talks from leading minds in engineering, sustainability and social change, with an innovative artistic programme responding to and challenging festival content'.

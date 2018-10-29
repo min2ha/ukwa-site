@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wrenthorpe Community Association
-
 The Wrenthorpe Community Association website

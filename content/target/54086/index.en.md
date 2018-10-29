@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Independent, The: Harry Potter: Warner Bros. give blessing to Voldemort-centred fan film
-

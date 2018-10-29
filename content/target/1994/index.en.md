@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# British Museum, The
-
 The official website of the British Museum.

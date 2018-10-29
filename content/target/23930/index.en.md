@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Boost for David Cameron as 5,000 small firms back Conservatives
-
 None

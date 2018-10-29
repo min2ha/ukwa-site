@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wolverhampton Wanderers Football Club
-
 Wolverhampton Wanderers Football Club is a  professional association football club based in the city of Wolverhampton, West Midlands. The club, founded in 1877, was originally known as St. Luke's F.C.

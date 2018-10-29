@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'We're friends reunited in the Battle for Britain!' MICHAEL GOVE is a staunch Brexiteer, GREG CLARK is a steadfast Remainer, but they insist that fighting for the UK has brought them together
-
 Michael Gove and Greg Clark explain the vision for the UK's future relationship with the EU agreed at Chequers on July 6th 2018

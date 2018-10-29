@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Openshaw on Facebook
-
 This is the Facebook page of Richard Openshaw, the Scottish Green Party candidate for West Aberdeenshire and Kincardine in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Hargreaves Lansdown plc
-
 Hargreaves Lansdown plc is a financial service company.

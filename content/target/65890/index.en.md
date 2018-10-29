@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Freedom of Mind
-
 Opening up discussion around mental health and wellbeing.

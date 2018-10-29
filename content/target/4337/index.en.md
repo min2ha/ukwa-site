@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:14.479084", 
+  "date": "2018-10-29T13:22:21.731763", 
   "open_access": false, 
   "target_url": "http://www.telegraph.co.uk/news/worldnews/asia/philippines/10454220/Typhoon-Haiyan-several-Britons-missing-says-William-Hague.html", 
   "description": null, 
   "end_date": null, 
   "title": "Telegraph, The: Typhoon Haiyan: 'several Britons missing', says William Hague", 
-  "record_id": "20181029T125514/g9DKQqrEE98yX6ZnUq1/BA==", 
+  "record_id": "20181029T132221/g9DKQqrEE98yX6ZnUq1/BA==", 
   "publisher": "telegraph.co.uk", 
   "start_date": null, 
   "subject": "UK response to Typhoon Haiyan (Philippines) 2013"
 }
-
-# Telegraph, The: Typhoon Haiyan: 'several Britons missing', says William Hague
 
 None

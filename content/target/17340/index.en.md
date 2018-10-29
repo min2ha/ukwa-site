@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: George Osborne: Pensioner bond scheme to be extended
-
 None

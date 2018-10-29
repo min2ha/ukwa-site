@@ -10,5 +10,3 @@
   "start_date": "2011-10-31T00:00:00Z"
 }
 
-# Welsh Books - Y Lolfa
-

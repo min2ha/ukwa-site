@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Adam Smith Institute (ASI) on Twitter
-
 <p>The twitter profile of the Adam Smith Institute.</p>

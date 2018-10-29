@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Swindon Women’s Aid
-
 Swindon Women's Aid is a domestic abuse service for residents living in the Swindon area. Our service operates 24 hours a day and 365 days a year, Our service supports both female and male victims of domestic violence and abuse and it’s confidential and free of charge. 

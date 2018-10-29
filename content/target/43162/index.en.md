@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Jo Cox (@Jo_Cox1 ) on Twitter
-
 Jo Cox, Labour MP for Batley and Spen, campaigned for a vote to remain in the European Union. She was attacked in the street and murdered on June 16th 2016.

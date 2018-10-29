@@ -10,5 +10,3 @@
   "start_date": "2008-08-06T00:00:00Z"
 }
 
-# Battle of Britain Historical Society
-

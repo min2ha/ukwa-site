@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron and Ed Miliband trade blows over TV election debates - video 
-
 None

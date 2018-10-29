@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chemical Industries association
-
 The Chemical Industries Association is the organisation representing and advising chemical and pharmaceutical companies located across the UK. Its core membership is a diverse mix of chemical and pharmaceutical companies operating within the UK.

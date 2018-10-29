@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Eventbrite: Male Privilege Workshop
-
 A workshop on the topic of Male Privilege and Systemic Sexism.

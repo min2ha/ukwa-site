@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Creamfields
-
 Website for the Creamfields music festival.

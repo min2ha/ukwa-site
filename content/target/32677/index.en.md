@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Library A to Z
-
 Library A to Z is a campaign that has created a visual A to Z celebrating the wide range of services, resources and facilities that make libraries so fantastic.

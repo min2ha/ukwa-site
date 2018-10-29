@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# Ricardo Blanco's blog
-
 Ricardo Blanco's blog is written by Richard Gwyn who is director of Creative writing at Cardiff University.

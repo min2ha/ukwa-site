@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Off the Tracks
-
 Family friendly and charity oriented festival

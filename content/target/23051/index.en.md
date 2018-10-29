@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Keith Nevols (@Keith_Nevols) on Twitter (Liberal Democrats candidate for Sittingbourne and Sheppey)
-
 Keith Nevols stood as Liberal Democrats candidate for Sittingbourne and Sheppey at the 2015 General Election but was not elected. 

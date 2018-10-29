@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# HQ Glasgow, The
-
 Website of a recording and mixing studio in Glasgow, Scotland.

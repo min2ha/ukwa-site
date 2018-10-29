@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Lawyers for Britain
-
 Campaigning group which brings together lawyers interested in Britain’s relationship with the EU

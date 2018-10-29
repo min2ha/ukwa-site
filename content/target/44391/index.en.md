@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 14 July 2016: EU citizens in the UK
-
 Debate on the position of  European Union citizens lawfully resident or working in the United Kingdom at the date when the United Kingdom leaves the European Union.

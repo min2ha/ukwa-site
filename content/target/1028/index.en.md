@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Chlamydia Screening Programme
-
 None

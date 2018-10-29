@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: Gambling sites told to stop luring children with cartoon characters in ‘unacceptable’ ads
-
 News article about regulators warning betting operators with gambling sites to remove and stop using ads that appeal to children as problem gambling is creating major issues for local councils as it can lead to spiralling debt, deteriorating mental health and wellbeing

@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# Institute of Modern Languages Research: School of Advanced Studies, University of London
-
 The Institute of Modern Languages Research is part of the School of Advanced Study, University of London.

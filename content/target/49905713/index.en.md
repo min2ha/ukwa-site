@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Katherine Roberts
-
 None

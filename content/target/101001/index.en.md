@@ -11,6 +11,4 @@
   "subject": "Indian Ocean Tsunami December 2004"
 }
 
-# Dynamic Earth
-
 Site of a science museum and visitor attraction in Edinburgh, focusing on the origins of plant Earth.

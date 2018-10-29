@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Cllr Wajid Khan, Labour on Twitter
-
 None

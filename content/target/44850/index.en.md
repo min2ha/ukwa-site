@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chatham House: The World Today: Surviving Brexit
-
 In coming years, and whatever the obstacles the country faces as a diminished power, Britain will need to build the best possible relations with core EU states such as Germany and France, with emerging giants such as  China and India, with members of the Commonwealth and with the United States. Only through diversification of partnerships can Britain absorb the various shocks it will surely face in years to come.

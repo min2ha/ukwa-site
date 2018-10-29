@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Philip’s [Earl’s Court Road]
-
 Official website of St. Philip’s, Earl’s Court Road, London.

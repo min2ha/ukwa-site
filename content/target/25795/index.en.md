@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view on Britain’s choice 2015: society and the state
-
 None

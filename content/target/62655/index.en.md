@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columba's Parish Church
-
 Site of a Church of Scotland parish church at Kirkintilloch, Glasgow

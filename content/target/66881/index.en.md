@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Incorporation of Goldsmiths
-
 Site of a traditional trade and craft guild located in Edinburgh promoting their trade, running the Edinburgh Assay office and the traditional aspects of the jewellery craft.

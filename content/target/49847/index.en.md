@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# About My Vote: Electoral Registration Form
-
 the Electoral Registration Form for Northern Ireland. This form was promoted for Northern Ireland residents to use during the 2017 Assembly election.

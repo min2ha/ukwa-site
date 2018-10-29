@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# LAMA Youth
-
 Site of the young people's branch of an amateur musical theatre company based in Leven, Fife.

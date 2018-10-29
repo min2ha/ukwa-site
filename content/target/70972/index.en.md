@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# What UK Thinks : EU: Do Voters Still Want To Leave The EU? How They View The Brexit Process Two Years On
-
 This paper reports on the latest findings of a two-year multiwave study of public attitudes towards the Brexit process, examining which attitudes have and have not shifted during that time, and the implications of the shifts that have occurred for the willingness of people to vote Remain or Leave once again.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May's white paper a 'bad deal for Britain', claim Tory Brexiters
-
 Theresa May’s EU negotiating strategy came under sustained criticism from Brexiters following the publication of the long-awaited white paper, with the leader of the hardline European Research Group declaring he could not vote for it if it formed the basis of the final deal with Brussels.

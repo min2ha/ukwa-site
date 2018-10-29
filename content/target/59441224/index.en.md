@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Literary Places
-
 None

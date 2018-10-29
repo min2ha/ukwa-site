@@ -10,6 +10,4 @@
   "start_date": "2018-03-24T09:00:00Z"
 }
 
-# Mapping Jewish Communities of the Byzantine Empire
-
 Web maps displaying the locations of historical evidence for Jewish Communities of the Byzantine empire. The primary output for the Mapping the Jewish Communities of the Byzantine Empire project. Funded by the ERC and based at Faculty of Divinity, University of Cambridge with PI Prof. Nicholas de Lange and RAs Gethin Rees and Alexander Panayotov.

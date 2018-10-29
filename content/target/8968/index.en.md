@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Head First Ed - British Skeleton Athlete
-
 None

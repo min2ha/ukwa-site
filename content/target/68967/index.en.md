@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's and St. Cuthbert's, Kirkcudbright
-
 Site of a group of Scottish Roman Catholic Churches located in Dumfries & Galloway, comprising St. Andrew's and St. Cuthbert's, Kirkcudbright; St. Peter's, Dalbeattie; St. Martin and St Ninian's, Whithorn; Sacred Heart, Wigtown; Our Lady and St. Ninian's, Newton Stewart; the Church of the Resurrection, Gatehouse of Fleet; St. John's, Castle Douglas.

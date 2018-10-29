@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Provincial Grand Lodge of Aberdeen East
-
 Site of a provincial grand lodge of freemasonry affiliated to the Grand Lodge of Scotland and covering the eastern portion of Aberdeenshire.

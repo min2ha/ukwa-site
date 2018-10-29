@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Centre for Computing and Social Responsibility (CCSR), De Montfort University
-
 The Centre for Computing and Social Responsibility (CCSR) undertakes research and provides teaching, consultancy and advice to individuals, communities, organisations and governments at local, national and international levels on the actual and potential impacts of computing and related technologies on society and its citizens. 

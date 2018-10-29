@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T09:00:00Z"
 }
 
-# Dualchas
-
 Architects' practice based on Skye and in Glasgow.

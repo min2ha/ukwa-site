@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isle of Wight Council
-
 The website of Isle of Wight Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

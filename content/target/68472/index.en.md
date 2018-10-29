@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Gabriel's RC Church
-
 Site of a Roman Catholic parish church in Scotland, located at Prestonpans, East Lothian.

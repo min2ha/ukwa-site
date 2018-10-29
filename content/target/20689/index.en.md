@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# UNISON Scotland
-
 Scotland's biggest public service trade union, representing members delivering public and related services.

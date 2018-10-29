@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Attaqwa
-
 An Arabic publication based in the UK.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Christian Allard SNP (@Christia_Allard) on Twitter
-
 The twitter profile of Christian Allard, Scottish National Party candidate for the North East of Scotland list in the 2016 Scottish Parliament elections.

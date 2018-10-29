@@ -10,7 +10,5 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Catrin Howell
-
 Catrin Howell is Welsh Ceramic Artist and a winner of a Gold Medal in Craft
 and Design, National Eisteddfod of Wales.

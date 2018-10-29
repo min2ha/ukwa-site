@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Dedham Vale AONB & Stour Valley Project
-
 None

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: No-deal Brexit will break up UK, warns Van Rompuy
-
 Herman van Rompuy, ex-president of European council said that failure to reach a Brexit deal could increase pressure for Scottish independence
 

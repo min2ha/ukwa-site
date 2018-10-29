@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Abingdon Rugby Club
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Orkney Islands Council: Mock Referendum Results Announced
-
 None

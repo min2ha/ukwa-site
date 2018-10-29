@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Linlithgow Film Society
-
 Site of a film society located in Linlithgow, West Lothian, who screen commercially released films in the local high school, as well as taking their 'mobile cinema' to the community.

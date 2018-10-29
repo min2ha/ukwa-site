@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-#  BBC News: Impact assessments of Brexit on the UK 'don't exist'
-
 When questioned by the Brexit Committee, David Davis claimed that no assessments of the impact of Brexit on the UK economy had been made. Mr Davis said the usefulness of such assessments would be "near zero" because of the scale of change Brexit is likely to cause. He said the government had produced a "sectoral analysis" of different industries but not a "forecast" of what would happen when the UK leaves the EU.
 

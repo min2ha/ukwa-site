@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Caird & Craigie SNP (@CairdCraigieSNP) on Twitter
-
 Twitter profile of the Caird and Craigie branch of the Scottish National Party (SNP).

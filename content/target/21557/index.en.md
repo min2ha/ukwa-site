@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Defence spending is a test of David Cameron's commitment to his own election campaign
-
 None

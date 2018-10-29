@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gregg McClymont (greggmcclymont) on Twitter
-
 The twitter profile of Gregg McClymont, Labour candidate for Cumbernauld, Kilsyth and Kirkintilloch East.

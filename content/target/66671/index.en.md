@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Ify Iwobi
-
 Ify Iwobi is a Swansea-born contemporary classical pianist and composer.

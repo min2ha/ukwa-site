@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ealing Stronger In (@EaslingStays) on Twitter
-
 Ealing local campaign for the UK stay in the EU

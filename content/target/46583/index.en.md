@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T11:00:00Z"
 }
 
-# Parts Alliance the
-
 The Parts Alliance is one of the UK’s leading suppliers of automotive parts to the independent aftermarket. 

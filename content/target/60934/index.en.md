@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Linden Church, Swansea
-

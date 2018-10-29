@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# St Ives Conservatives
-
 Website of the St Ives Conservatives, a branch of the Huntingdon Constituency Conservative Association, providing information on: Town, District and County Councillors, the local Conservative Action Team and Local News and Events.

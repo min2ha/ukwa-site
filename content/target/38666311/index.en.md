@@ -10,5 +10,3 @@
   "start_date": "2010-03-23T00:00:00Z"
 }
 
-# Llanelli Rural Council
-

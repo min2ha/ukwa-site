@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: George Osborne under pressure from Vince Cable over HSBC scandal
-
 None

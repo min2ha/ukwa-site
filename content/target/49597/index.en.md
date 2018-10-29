@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Messianic Mr Blair is away with fairies
-
 After a speech from a man who seems to have absolutely no self-knowledge, and which was dripping with messianic madness, the Mail has just one question to ask Tony Blair: Have you totally and utterly lost the plot?

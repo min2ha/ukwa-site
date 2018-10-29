@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Why Brussels is keeping quiet on May's White Paper
-
 Argues that the EU could not agree to Mrs May's compromise plan for a future UK-EU relationship. However it would bide its time and calculate how and when to make its criticisms known and extract more concessions

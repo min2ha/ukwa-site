@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Positive Negatives
-
 Since 2012, the award-winning non-profit PositiveNegatives has been producing literary comics, animations and podcasts about contemporary social and human rights issues, including conflict, racism, migration and asylum.

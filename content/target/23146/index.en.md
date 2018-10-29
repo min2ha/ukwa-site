@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kate Devlin (@_katedevlin) on Twitter
-
 Twitter account of Kate Devlin, Westminster correspondent for The Herald.

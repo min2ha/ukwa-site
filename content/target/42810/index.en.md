@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Remembering the Real World War 1 - Bristol
-
 For the centenary of WW1 the site aims to ensure that there are events locally remembering the reality of this war., in keeping with Bristol;s long radical traditions.

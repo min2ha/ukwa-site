@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# ScotLeave.EU on Facebook
-
 Facebook page of the Scottish Campaign to Leave the EU.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Make My Vote Count
-
 None

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Pilot Press
-
 Pilot Press is the imprint of the artist Richard Dodwell and is a queer press for the sharing and publication of queer art and writing from the UK and around the world. Each print run is funded by donation, usually from those involved in its creation, or as a gesture of goodwill from its readers.  

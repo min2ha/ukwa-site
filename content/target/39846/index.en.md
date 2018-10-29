@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Glasgow Pollok Labour (@GlwPollokCLP) on Twitter
-
 Twitter profile of the Constituency Labour Party (CLP) in the Glasgow Pollock constituency for the Scottish Parliament.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Commonwealth Foundation: Condolences on the passing of Nelson Mandela
-
 None

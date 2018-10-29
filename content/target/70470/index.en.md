@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK 'no-deal' Brexit plans find little sympathy in Euro press
-
 The mainstream European media saw the UK government's plansfor a "no deal" Brexit as a means to both reassure and frighten the British public, as a negotiating tool with Brussels, and as an admission of ensuing chaos should a deal not be struck.
 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum poll tracker and odds
-
 Website for The Telegraph newspaper

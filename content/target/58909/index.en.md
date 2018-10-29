@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Andreas Rüthi 
-
 Andreas Ruethi was born in Zürich, Switzerland and now lives in Monmouthshire. Since 1996 his artwork has been exhibited in the UK and internationally. 

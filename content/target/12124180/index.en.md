@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Tom Paine Printing Press
-
 None

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Scotch Malt Whiskey Forum
-
 A forum concerned with fans of Scotch Malt Whiskey. Discusses single malts, blended varieties, tasting notes section, whisky polls, whisky events in the UK and a distillery visits review section, and various other topics.

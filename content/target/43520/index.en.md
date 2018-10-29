@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit: The Movie
-
 A website of Brexit: The Movie, a pro-Brexit documentary.

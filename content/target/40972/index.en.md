@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Burntisland Community Council
-
 Site of a community council gathering and relecting local opion for the community of Burntisland, Fife, Scotland

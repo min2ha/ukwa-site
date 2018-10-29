@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Charlotte James
-
 Charlotte James is a Creative director and Stylist based between London and Wales. She is originally from Merthyr Tydfil and much of her work is about the town.

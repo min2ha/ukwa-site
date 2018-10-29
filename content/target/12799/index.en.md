@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Games in Angus hashtag on Twitter (#GamesinAngus)
-
 <p>Tweets with the “Games in Angus” hashtag commenting on the XX Commonwealth Games events in Angus.</p>

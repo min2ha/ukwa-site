@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Bethan Jenkins (@bethanjenkins) on Twitter (Plaid Cymru candidate for Aberavon)
-

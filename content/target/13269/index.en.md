@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Westminster Abbey: Commemoration Service on the Centenary of the Outbreak of the First World War
-
 None

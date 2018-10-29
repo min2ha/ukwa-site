@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Writers Guild of Great Britain
-

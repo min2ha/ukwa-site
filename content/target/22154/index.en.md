@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chi Onwurah on Facebook (Labour candidate for Newcastle upon Tyne Central)
-

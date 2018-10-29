@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Wales Council for Voluntary Action (WCVA) News
-
 Blog providing news from the Welsh Council for Voluntary Action.

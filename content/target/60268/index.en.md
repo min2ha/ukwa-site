@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Nigel Farage warming to second EU referendum
-
 Former UKIP leader Nigel Farage says he is close to backing a second EU referendum to end the "whinging and whining" of anti-Brexit campaigners. Mr Farage told Channel 5's The Wright Stuff a fresh vote could "kill off" the Remain campaign for a generation.
 
 

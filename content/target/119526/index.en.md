@@ -11,6 +11,4 @@
   "subject": "Latin America UK"
 }
 
-# Action For Brazil's Children Trust - ABC Trust
-
 None

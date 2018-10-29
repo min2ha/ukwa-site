@@ -10,6 +10,4 @@
   "start_date": "2016-09-20T10:00:00Z"
 }
 
-# Cymdeithas Rheilffordd Blaenau Ffestiniog a Trawsfynydd | Trawsfynydd & Blaenau Ffestiniog Railway Company
-
 The Trawsfynydd & Blaenau Ffestiniog Railway Company was establish in order to run trains between Blaenau Ffestiniog and Trawsfynydd after a period of twenty years since the last revenue earning service ran to Trawsfynydd Power Station.

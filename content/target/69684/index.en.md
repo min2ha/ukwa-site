@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dadafest
-
 Website for Dadafest, for deaf people. 

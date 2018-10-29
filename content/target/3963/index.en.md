@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# City Talking, The (Leeds)
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Liam Fox accuses unelected peers of trying to 'block the democratic will of the people' after huge vote to axe ministers' right to walk out of talks   
-

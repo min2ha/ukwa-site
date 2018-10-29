@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Campaign for Press and Broadcasting Freedom  
-
 The Campaign for Press and Broadcasting Freedom (CPBF) works for a more accountable, freer and diverse media.

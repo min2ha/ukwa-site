@@ -10,6 +10,4 @@
   "start_date": "2016-06-01T10:00:00Z"
 }
 
-# Fighting Monsters
-
 Blog about the life and thoughts of a British social worker, working in an over-65s community care team.  Blog ran from 2008-2014

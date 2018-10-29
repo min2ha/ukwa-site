@@ -10,6 +10,4 @@
   "start_date": "2016-11-03T09:00:00Z"
 }
 
-# SCOOP Print Still Matters
-
 A directory of  libraries in the United Kingdom which have PRINT collections of publications issued by the UK Parliament, UK Government, and the Devolved Assemblies, Parliaments, and Administrations of Northern Ireland, Scotland and Wales. 

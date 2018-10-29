@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# inkle 
-
 inkle was founded in 2011 by two Cambridge game developers with a passion for storytelling and beautiful design.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Official Monster raving Loony Party
-
 The Official Monster Raving Loony Party is registered as a political party with the Electoral Commission. It was formed on the 16th of June 1982 at the Golden Lion Hotel in Ashburton Devon by co-founders ‘Screaming Lord Sutch’ and current leader ‘Howling Laud Hope’.

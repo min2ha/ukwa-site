@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# claudia mcclung (misscmcc) on Twitter
-
 <p>The twitter profile of Claudia McClung, competing in the 50 metres rifle prone as a member of Team Northern Ireland for the Glasgow 2014 Commonwealth Games.</p>

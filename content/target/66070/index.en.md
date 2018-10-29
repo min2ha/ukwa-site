@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# kittiwake
-
 Kittiwake is a book publisher based in Machynlleth. The books comprise of local walks around Wales.

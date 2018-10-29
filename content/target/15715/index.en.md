@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Potential Plus UK
-
 Potential Plus UK is an independent charity established in 1967 which works with families to support children with high learning potential (gifted and talented).

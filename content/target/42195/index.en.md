@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# NetPol: the network for police monitoring
-
 The Network for Police Monitoring (Netpol) seeks to monitor public order, protest and community policing that is excessive, discriminatory or threatens civil rights.

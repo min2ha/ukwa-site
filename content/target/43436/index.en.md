@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LinkedIn: Is the EU referendum a re-run of the Scottish independence referendum ?
-
 A blog post on a careers website discussing the similarities between the EU Referendum and the previous Scottish Independence Referendum.

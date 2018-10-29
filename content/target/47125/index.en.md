@@ -10,8 +10,6 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# New Media Networks
-
 New Media Networks (NMN) develops and creates:
 •	production
 •	communications and media strategies

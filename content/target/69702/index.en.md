@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Saint Peter-in-Chains Ardrossan, The
-
 Site of a Scottish Roman Catholic parish church in Ardrossan, Ayrshire.

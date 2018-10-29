@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Intervoice: UK charity supporting International Hearing Voices Movement
-
 UK charity supporting International Hearing Voices Movement

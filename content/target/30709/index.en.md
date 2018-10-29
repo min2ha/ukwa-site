@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Royal Navy
-
 Official website of the Royal Navy, part of the Ministry of Defence.

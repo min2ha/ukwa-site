@@ -10,5 +10,3 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Mid Wales Permaculture Network
-

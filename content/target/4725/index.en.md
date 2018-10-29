@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Stop the War Coallition: What Mandela said about US wars, George Bush and Tony Blair
-
 <p>A series of quotes and audio-visual recordings from Nelson Mandela, relating to the 2003 war in Iraq.</p>

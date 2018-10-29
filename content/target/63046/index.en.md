@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour's Owen Smith 'stood by principles' on Brexit
-
 Owen Smith said he "stood by his principles" in calling for another EU referendum - a move which resulted in his sacking from Labour's shadow cabinet. The former shadow Northern Ireland secretary said Jeremy Corbyn had made a "mistake" in firing him.
 
 

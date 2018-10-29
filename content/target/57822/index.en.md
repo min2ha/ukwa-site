@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK to wait until 'last moment' to spend on 'no deal' plan
-
 Taxpayers' money will not be spent on preparing for a "no-deal" Brexit until the "very last moment", Chancellor Philip Hammond suggested. He said he was preparing for "no deal" and all other outcomes and would make money available when needed.
 

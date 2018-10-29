@@ -10,6 +10,4 @@
   "start_date": "2016-12-21T09:00:00Z"
 }
 
-# Lord of the Archives, The
-
 A digital preservation blog created by Information Management and Preservation postgraduate students at the University of Glasgow.

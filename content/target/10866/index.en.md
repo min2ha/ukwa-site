@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Craven District Council: Tour de France in Craven
-
 Tour de France web page for Craven District Council

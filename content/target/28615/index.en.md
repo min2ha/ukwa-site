@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Obanhighdigitalcommonwealth
-
 Twenty Oban High School and Park Primary School students share their progress on a transition project based around the Digital Commonwealth project.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Joanne McFadden
-
 Joanne McFadden is the Scottish Labour candidate for the Angus South constituency in the 2016 Scottish Parliament election.

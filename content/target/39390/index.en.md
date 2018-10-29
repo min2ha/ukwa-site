@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mary Lockhart on Facebook
-
 The facebook profile of Mary Lockhart, Scottish Labour and Co-operative list candidate for Mid Scotland and Fife region in the 2016 Scottish Parliamentary election.

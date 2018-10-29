@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Disabled Ramblers
-
 The Disabled Ramblers exists to help mobility-challenged people get back out into the countryside. 

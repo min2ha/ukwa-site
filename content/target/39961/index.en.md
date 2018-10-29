@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Highgate Camp Remembered, The 
-
 This project will engage 25 people of all ages and backgrounds from Camden and Haringey to create a list of all the key facts relating to men named on the War Memorials, and also select five or six of the stories behind the names in the context of the key events of WW1.

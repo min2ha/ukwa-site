@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Teaching the Codex
-
 Teaching the Codex was launched with a colloquium at Merton College Oxford on 6th February 2016 as a special event in the calendar of Merton’s History of the Book Group. This event brought together academics from a range of disciplines who are experienced in teaching palaeography and codicology, which enabled a series of discussions on diverse pedagogical approaches. The Teaching the Codex WordPress site will continue to facilitate discussions and resource sharing in a digital forum via monthly guest blog posts.

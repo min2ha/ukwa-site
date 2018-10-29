@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Orkney Folk Festival
-
 Site of an annual Scottish traditional music festival held in Orkney.

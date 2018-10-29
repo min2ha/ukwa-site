@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Midlands Cervical Screening Programme
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West Cancer Intelligence Service
-
 None

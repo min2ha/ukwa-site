@@ -11,8 +11,6 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Castleton Historical Society Blog (CHS)
-
 CHS was founded in 1973 and became a registered charity in 1984. It is a membership society, providing a programme of events and undertaking research into the history of the Parish of Castleton. CHS is also responsible for The Castleton Museum, an accredited museum housed at Castleton Visitor Centre, Buxton Rd. The Centre is a joint partnership between The Peak District National Park Authority and CHS. This is their official blog.
 
 The CHS received funding from the HLF to mount a display in Castleton's Visitors Centre throughout the month of August 2014 related to WWI. More details can be found here: https://castletonhistoricalsociety.wordpress.com/2014/08/23/castleton-remembers-the-opening-of-the-world-war-1-exhibition/

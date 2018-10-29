@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Labour Carmarthenshire East and Dinefwr | Llafur Dwyrain Caerfyrddin a Dinefwr
-
 Official Website for Labour

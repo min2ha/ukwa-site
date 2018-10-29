@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Crockart (@MikeCrockart) on Twitter
-
 The Twitter profile of Mike Crockart, the Liberal Democrats candidate for Edinburgh West in the UK General Election on the 7th May 2015.

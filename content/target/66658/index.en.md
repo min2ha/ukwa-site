@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Grahams The Family Dairy Group Limited
-
 The website of Grahams The Family Dairy Group Limited, a dairy production company based in Bridge of Allan, Scotland.

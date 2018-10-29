@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Hwiangerddi Cymru
-
 Hwiangerddi.cymru is a comprehensive collection of Welsh language nursery rhymes. As of November 2017, there were 172 nursery rhymes listed.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Leisure Leagues
-
 Established in 1980 a group of sport facility managers began running the first multi-division 5 a-side leagues in sports halls in the UK. It is now a very popular series of leagues around the UK.

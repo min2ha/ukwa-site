@@ -10,6 +10,4 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# Becci Poet: handing out words
-
 Personal site of Becci Louise, teacher and poet based in Reading

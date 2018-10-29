@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Best for Britain launches campaign for another referendum
-
 A campaign for another EU referendum - this time on the final Brexit deal - was launched in London by the Best for Britain pressure group on June 1st 2018.

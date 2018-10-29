@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# BiScotland
-
 WordPress site of a Scottish voluntary organisation for bisexuals and people who think they might be bisexual. 

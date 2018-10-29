@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Economists for Brexit
-
 The Economists for Brexit is a group of eight independent, leading economists who are convinced of the strong economic case for leaving the EU.  Debate on the economic merits of whether the UK should remain in the EU was overwhelmed by the Government's Project Fear campaign. Each of the eight economists were exasperated by the scaremongering and often economic illiteracy of this campaign.

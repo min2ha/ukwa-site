@@ -10,5 +10,3 @@
   "start_date": "2016-02-09T09:00:00Z"
 }
 
-# Independent Commission for Competitive and Fair Taxation in Scotland
-

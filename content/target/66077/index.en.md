@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# Early Day Motions - by Parliamentary Session
-
 Early Day Motions (EDMs) are formal motions submitted for debate in the House of Commons. However, very few are actually debated. EDMs allow MPs to draw attention to an event or cause. MPs register their support by signing individual motions.

@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# George Wombwell and the Travelling Menagerie
-
 This website is dedicated to the Travelling Menagerie and in particular George Wombwell, a famous Victorian showman and menagerist.

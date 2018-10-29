@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# BBC News: Devolved administrations hold 'difficult' Brexit talks
-

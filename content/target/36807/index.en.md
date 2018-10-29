@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Public Works Blog
-
 Public Works is UNISON Scotland's campaign for jobs, services, fair taxation and the Living Wage.

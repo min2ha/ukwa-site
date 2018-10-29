@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Age UK : After the EU Referendum: Policy priorities for older people
-
 Following the ‘Leave’ vote in the EU Referendum, this paper sets out some possible implications for older people.

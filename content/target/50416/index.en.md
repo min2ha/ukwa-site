@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Grateful Society
-
 The Grateful Society is a Bristol charity which supports elderly people within the city and surrounding area.

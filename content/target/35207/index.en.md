@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# GOV.UK: EU referendum: Prime Minister's personal minute to all ministerial  colleagues
-

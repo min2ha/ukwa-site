@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tanya Williams (@greentanyaw) on Twitter (Green Party candidate Twickenham)
-

@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Sgiol Chiùil na Gàidhealtachd / National Centre of Excellence in Traditional Music
-
 Site of a school of residential Scottish traditional music for secondary school age students, located in Plockton, Highland.

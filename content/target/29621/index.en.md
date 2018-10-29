@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Folkestone Comedy Club, The 
-
 Website for The Folkestone Comedy Club, opening in Folkestone, Kent, in October 2015.

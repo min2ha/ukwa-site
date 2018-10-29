@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron condemns Nigel Farage for suggesting Brussels bombings prove Britain is safer outside the EU... but bookmakers shorten the odds for Brexit    
-

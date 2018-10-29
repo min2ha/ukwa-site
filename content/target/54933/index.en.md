@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bathgate Music Festival
-
 Site of a music festival staged in Bathgate, West Lothian.

@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# University of Cambridge: Institute of Continuing Education
-

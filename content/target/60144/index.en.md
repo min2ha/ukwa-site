@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Nature UK
-
 An online enthusiast community in the UK concerned with Nature related discussion. Covers wildlife identification, user submitted nature photographs, wildlife discussions, vegetable growing advice and various other related topics.

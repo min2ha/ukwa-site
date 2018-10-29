@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alison McInnes
-
 The website of Alison McInnes, Scottish Liberal Democrats Member of the Scottish Parliament for North East Scotland.

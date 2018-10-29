@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sheffield F.C. Ladies
-
 heffield Football Club Ladies is an English women's football club affiliated with Sheffield F.C.

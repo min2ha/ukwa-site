@@ -10,5 +10,3 @@
   "start_date": "2006-08-16T00:00:00Z"
 }
 
-# Dolen Cymru Lesotho - The Wales Lesotho Link
-

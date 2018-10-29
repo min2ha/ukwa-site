@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# openDemocracy (openDemocracy) on Twitter
-
 <p>The twitter profile of openDemocracy. Open Democracy is a digital commons offering a "pluralist online space to all", publishing largely voluntary contributions covering world affairs, ideas and culture.</p>

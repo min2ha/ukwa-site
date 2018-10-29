@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Green Economics Institute
-
 None

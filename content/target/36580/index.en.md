@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Former Tory chancellor Lord Lamont backs Brexit
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Feminist Dissent (@feministdissent) on Twitter
-
 A journal creating space to examine and interrogate the multi-faceted links between resurgent religious fundamentalism and gender

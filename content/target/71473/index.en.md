@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Theresa May to accept checks between Northern Ireland and Great Britain in major concession to avoid Brexit no-deal
-
 Theresa May was set to make a major new compromise in Brexit talks in a bid to break the deadlock over the Irish border problem. Under proposals expected  to be brought forward by the UK government, Britain would accept some checks taking place between Northern Ireland and Great Britain. The plans were likely to spark angry reaction from Brexiteers and the DUP

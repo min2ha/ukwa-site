@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Arts Award Voice: I’m voting Remain in the EU Referendum
-
 Tom Inniss, deputy editor, politics graduate and current masters student in journalism, explains why he's voting Remain

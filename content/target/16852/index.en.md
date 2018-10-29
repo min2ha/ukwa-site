@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T06:00:00Z"
 }
 
-# ePlanning Scotland
-
 <p>Scottish Government site designed guide individuals through the planning permissions process.</p>

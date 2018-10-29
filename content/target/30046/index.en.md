@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Martin Tinney Gallery
-
 Matrin Tinney is considered Wales’ premier private commercial art gallery. 

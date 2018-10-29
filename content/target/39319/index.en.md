@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angela Feeney for Central Scotland on Facebook
-

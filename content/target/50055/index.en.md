@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Kebele Community Coop
-
 Kebele is based at 14 Robertson Rd, Easton, Bristol, BS5 6JY and since 1995 has provided space for the development of anarchist & radical ideas and activities, community campaigns, and international solidarity.

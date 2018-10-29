@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sacred Heart Cumbernauld on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of the Sacred Heart Cumbernauld.

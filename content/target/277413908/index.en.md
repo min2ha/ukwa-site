@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Llanddaniel
-
 <p>This is a community website for the village of Llanddaniel on the Isle of Anglesey.</p>

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Hull Women’s Aid
-
 Hull Women’s Aid is an independent charity providing support to women and children experiencing domestic abuse.

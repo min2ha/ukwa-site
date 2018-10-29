@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Neil Hay (@NeilHaySNP) on Twitter
-
 The Twitter profile of Neil Hay, the Scottish National Party (SNP) candidate for Edinburgh South in the UK General Election on the 7th May 2015.

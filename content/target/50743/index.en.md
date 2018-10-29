@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Andy Field
-
 Andy Field is an artist, writer, part-time curator, sometime academic based in Birmingham.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tunbridge Wells Conservatives
-
 Website of Tunbridge Wells Conservatives, providing information on association officers and staff, MPs, MEPs, borough and county councillors, events and local and national news.

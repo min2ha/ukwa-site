@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Socialist Party Glasgow South | The official webpage of the Scottish Socialist Party's Glasgow South branch
-
 Website for the Glasgow South branch of the Scottish Socialist Party.

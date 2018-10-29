@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Invisible Works
-
 UK history and landscape writing and photography site run by Nick Stone.

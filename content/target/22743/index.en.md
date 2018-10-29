@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy McWilliam (UKIP)
-
 Andy McWilliam stood as UKIP candidate for Leicestershire North West at the 2015 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Biggin Hill News
-
 None

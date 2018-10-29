@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# On Par Productions
-
 On Par Productions are a Cardiff based video production company creating content for brands, broadcasters & agencies.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sloane project, The
-
 None

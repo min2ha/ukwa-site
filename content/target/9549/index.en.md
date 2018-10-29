@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# New Statesman: Labour remain ahead in European election poll, but who'll triumph in May?
-
 None

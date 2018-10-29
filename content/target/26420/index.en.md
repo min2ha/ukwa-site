@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: In the chaos of coalition, the best storyteller will win
-
 None

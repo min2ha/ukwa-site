@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Futile Democracy
-
 <p>UK politics blog.</p>

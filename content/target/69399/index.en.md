@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# DANIEL HANNAN If the EU turn hostile on Brexit and see us leaving as an act of aggression — it’s time to turn to trade deals and the open seas
-
 If Brussels no longer sees the UK as an ally, we can hardly carry on behaving like one unilaterally, so to speak. While we talk of trade and co-operation, EU negotiators talk of border queues and grounded flights. If such thinking wins out, we shall have no choice but to leave Europe to itself and turn our faces, as our ancestors did, to the open seas.
 
 

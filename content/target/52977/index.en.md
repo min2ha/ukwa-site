@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# RobinaBartonLabour (@robina4labour17) on Twitter
-
 Twitter profile of Robina Barton, Scottish Labour candidate for Orkney and Shetland in the 2017 general election.

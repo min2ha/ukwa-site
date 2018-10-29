@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Encounter Church Bathgate
-
 Site of an Elim Pentecostal church (Christian) located in Bathgate, West Lothian.

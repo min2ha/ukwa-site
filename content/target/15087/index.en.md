@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Helmsley Town Blog, The
-
 <p>Website and blog dedicated to the market town of Helmsley, North Yorkshire. It is run by Gareth Jenkins.</p>

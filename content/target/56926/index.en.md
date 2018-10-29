@@ -10,6 +10,4 @@
   "start_date": "2017-08-31T09:00:00Z"
 }
 
-# Elizabeth Brickell Artist
-
 The site provides a selection of work from 1990’s to 2011 encompassing Collage, Sculpture and Site Specific Intervention by Elizabeth Bricknell.

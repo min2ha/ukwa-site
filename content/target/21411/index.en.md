@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband speaks out on having two kitchens after he and his wife are branded aliens 
-
 None

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Express: BREXIT BOMBSHELL: Brussels kept White Paper demolition documents TOP SECRET to save May
-
 Member states intervened and decided against releasing a set of slides rubbishing large segments of the Prime Minister’s White Paper before its release in July 2018, which went against the European Commission’s convention of transparent negotiations. The information was kept out of the public eye after the request of a “high level” British official in order to avoid Mrs May’s Government being plunged into chaos.
 
 

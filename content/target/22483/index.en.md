@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: So who won the ITV general election leaders' debate? 
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-11-03T09:00:00Z"
 }
 
-# Commission for School Reform
-
 Commission for School Reform, set up by think-tank Reform Scotland

@@ -10,6 +10,4 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# #Citizenrelay
-
 Citizen reporters follow the 2012 Olympic torch relay across Scotland.

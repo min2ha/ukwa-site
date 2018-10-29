@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# STV News: Referendum
-
 <p>News stories relating to the Scottish independence referendum friom the STV News website.</p>

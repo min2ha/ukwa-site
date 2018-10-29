@@ -10,6 +10,4 @@
   "start_date": "2018-09-28T09:00:00Z"
 }
 
-# Littlemore RFC on Pitchero
-
 The official website of Littlemore Rugby Football Club. Formed in 1976, Littlemore RFC sits proudly on the outskirts of the Oxford city centre.

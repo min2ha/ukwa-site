@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Is a second Brexit vote possible? Yes – if the people want it
-

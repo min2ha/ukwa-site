@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Anyone but Salmond: campaign to stop former SNP leader gathers pace
-
 None

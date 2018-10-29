@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# Cambridge Education Group
-
 Since 1952, Cambridge Education Group has been delivering the highest quality academic, creative and English Language programmes, preparing thousands of students to progress onto the world’s leading universities.

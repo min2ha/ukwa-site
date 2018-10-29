@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pan Birmingham Cancer Network
-
 None

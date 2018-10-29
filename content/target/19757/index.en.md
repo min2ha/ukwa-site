@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Votes for Ex Pats Brits blog
-
 Blog campaigning for votes for British expatriates in UK elections.

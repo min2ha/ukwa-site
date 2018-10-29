@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gibunco Gibraltar International Literary Festival
-
 The Gibraltar International Literary Festival sponsored by Gibunco

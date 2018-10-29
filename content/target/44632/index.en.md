@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Chris O'Hare Athlete
-
 The official website of athleet Chris O'Hare.

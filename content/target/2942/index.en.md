@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# UK Reading Experience Database
-
 <p>Project detailing the reading habits of famous people and ordinary folk from 1450 to 1945.</p>

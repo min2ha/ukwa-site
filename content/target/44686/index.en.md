@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Camilla Hattersley (@_heycamilla) on Twitter
-
 The Twitter profile of swimmer Camilla Hattersley.

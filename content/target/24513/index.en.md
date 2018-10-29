@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Axelrod: Ed Miliband's invisible man
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Judo Scotland
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Electoral pacts: Tough decisions for politicians
-
 None

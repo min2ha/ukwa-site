@@ -10,6 +10,4 @@
   "start_date": "2015-03-31T09:00:00Z"
 }
 
-# International Society for Psychological and Social Approaches to Psychosis UK (ISPS UK), The
-
 The International Society for Psychological and Social Approaches to Psychosis UK (ISPS UK) is a UK branch of an international organization promoting psychotherapy and psychological treatments for persons with schizophrenia and other psychotic conditions. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Irvine Church of the Nazarene on Facebook
-
 Facebook page of a Church of the Nazarene church and congregation in Irvine, Ayrshire.

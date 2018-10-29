@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour pledges to abolish stamp duty on house purchases for first-time buyers
-
 None

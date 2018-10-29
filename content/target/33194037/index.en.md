@@ -10,5 +10,3 @@
   "start_date": "2010-01-08T00:00:00Z"
 }
 
-# Pride in Barry
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - A post-referendum statement from National...
-
 Yes Scotland repost a post-referendum statement from National Collective at 6.04pm on the 20th of September 2014.

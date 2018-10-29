@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Jacob Buckland
-
 Jacob Buckland is a landscape painter who lives in Carmarthenshire and a member of the Royal Watercolour Society of Wales.

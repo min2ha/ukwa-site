@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# The Crouch End Players
-
 The Crouch End Players is a friendly, dedicated and enthusiastic community theatre group based in London N8. We meet every Wednesday evening, with additional Sunday afternoon rehearsals leading up to a production.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter Creed (Panosaurusrex) on Twitter
-
 Twitter profile of squash player Peter Creed, member of Team Wales for the Glasgow 2014 Commonwealth Games.

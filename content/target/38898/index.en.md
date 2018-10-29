@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Stonehaven Heritage Society
-
 Site of a local history and heritage society based in Stonehaven, a coastal town in Aberdeenshire [formerly in Kincardineshire], Scotland - set up to record, preserve and promote the history and heritage of Stonehaven and its locality.

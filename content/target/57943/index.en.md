@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Museumand: National Caribbean Heritage Museum
-
 We are the National Caribbean Heritage Museum, a social history and community museum celebrating and commemorating the Caribbean contribution to the UK. As a museum “without walls” we connect with communities across the UK, through art, music, performance and more. 

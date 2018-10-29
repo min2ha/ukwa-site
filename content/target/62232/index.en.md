@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: competition and state aid
-
 While Brexit gives rise to some immediate legal and regulatory issues which will need to be addressed, the most significant implications of Brexit in this field relate to transitional arrangements, future UK policy, and determining the UK’s institutional framework for competition matters.
 

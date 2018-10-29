@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Taghdissian Candidate for Cardiff West on Facebook
-
 James Taghdissian, Conservative Candidate for Cardiff West 

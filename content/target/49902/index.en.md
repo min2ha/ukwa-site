@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Love Equality Northern Ireland
-

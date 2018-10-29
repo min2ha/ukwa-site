@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jim McGovern (JimMcGovernMP) on Twitter
-
 <p>The twitter profile of Jim McGovern, Labour Member of Parliament for Dundee West.</p>

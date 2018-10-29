@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: Brexit: Special NI status bid defeated in European Parliament
-
 A bid to give Northern Ireland designated special status within the European Union (EU) following Brexit has been defeated in the European Parliament. A bloc of left-wing parliamentarians, of which Sinn Féin is a member, proposed the measure in Strasbourg. The amendment was defeated by 374 votes to 66. 

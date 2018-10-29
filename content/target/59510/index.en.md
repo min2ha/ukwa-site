@@ -10,6 +10,4 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# Côr Llunsain Choir
-
 Côr Llunsain is a choir of Welsh women living, working and studying in London.

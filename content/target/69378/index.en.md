@@ -10,5 +10,3 @@
   "start_date": "2018-07-27T09:00:00Z"
 }
 
-# Edinburgh World Heritage
-

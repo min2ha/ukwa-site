@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Glyn Davies on Facebook (Conservative candidate for Montgomeryshire)
-

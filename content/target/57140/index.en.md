@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# Plumeria Press - blog of the Frangipani Beach Resort
-

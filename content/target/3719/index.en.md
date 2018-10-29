@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Mid Sussex Times
-
 None

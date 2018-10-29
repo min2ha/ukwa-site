@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# NPT Shake
-
 NPT Shake is an interactive online magazine for young people living in Neath Port Talbot. 

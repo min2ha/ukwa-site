@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Screen and Sound (@NSSAW) on Twitter
-
 This is the English language twitter feed for the National Screen and Sound Archive of Wales, a body safeguarding and celebrating the sound and moving image heritage of Wales.

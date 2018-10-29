@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: At-a-glance: The new UK Brexit plan agreed at Chequers
-
 Key points from the three page summary of the proposal on UK-EU relations post Brexit agreed by the cabinet at Chequers on July 6th 2018

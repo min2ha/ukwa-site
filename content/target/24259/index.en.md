@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC Question Time Leaders' special: how the exchanges unfolded
-
 None

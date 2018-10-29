@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Weir CBE (davidweir2012) on Twitter
-
 <p>The twitter profile of wheelchair athlete David Weir, competing in the T54 1500m for Team England at the Glasgow 2014 Commonwealth Games.</p>

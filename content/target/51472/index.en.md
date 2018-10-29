@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Federation of Scottish Theatre
-
 Site of an organisation that is the development body for professional dance, opera and theatre in Scotland, bringing the sector together to speak with a collective voice, to share resources and expertise and to promote collaborative working.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bromley F.C.
-
 Bromley Football Club is a professional football club based in Bromley, Greater London, England. They are currently members of the National League, the fifth tier of English football, and play at Hayes Lane.

@@ -10,7 +10,5 @@
   "start_date": "2017-10-11T09:00:00Z"
 }
 
-# Dr Dimitra Fimi, Academic and Writer
-
 Dr Dimitra Fimi is an Academic and Writer and a Senior Lecturer in English at
 Cardiff Metropolitan University. She is a specialist on Tolkien and Fantasy literature.

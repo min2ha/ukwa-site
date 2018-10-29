@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Scots pressure on Miliband after SNP emerge as election power broker
-
 None

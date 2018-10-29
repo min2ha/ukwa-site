@@ -10,5 +10,3 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Cymdeithas Genedlaethol Dawns Werin Cymru | Welsh National Folk Dance Society (Dawnsio)
-

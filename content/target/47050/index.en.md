@@ -10,6 +10,4 @@
   "start_date": "2016-11-16T09:00:00Z"
 }
 
-# Friends of Bute Park
-
 Bute Park is Cardiff's biggest park. The Friends of Bute Park's aims are to celebrate, conserve and enhance Bute Park as a place of freedom, recreation and enjoyment for all.

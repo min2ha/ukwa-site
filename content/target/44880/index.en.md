@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T11:00:00Z"
 }
 
-# Roger Granelli
-
 Roger Granelli is a third generation Welsh/Italian and listed in the Literature Wales' Writers of Wales database.

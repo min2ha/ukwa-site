@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Prudential plc
-
 Prudential plc is a British multinational life insurance and financial services company, with around 24 million insurance customers and £509 billion of assets under management.

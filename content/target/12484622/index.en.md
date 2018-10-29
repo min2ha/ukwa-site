@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Climate Change Action
-
 None

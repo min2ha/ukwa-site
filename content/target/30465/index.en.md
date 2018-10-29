@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Legal Information Board
-
 This is the repository of all laws and judgments for the Island of Jersey. It is a site presented to the legal and related professions as well as to the public generally so as to maximise access to legal information and services.

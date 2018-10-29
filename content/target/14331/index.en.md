@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# IndyScot Events - Mapping out the new vision for an Independent Scotland
-
 None

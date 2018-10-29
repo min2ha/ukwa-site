@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# W o o l a m a l o o Gazette, The
-
 The Woolamaloo Gazette is a blog which covers books, history, poetry, politics and Edinburgh.

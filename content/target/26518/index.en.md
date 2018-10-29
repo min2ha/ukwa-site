@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Barratt hails election result as a positive move for housing industry
-
 None

@@ -11,5 +11,3 @@
   "subject": "Indian Ocean Tsunami December 2004"
 }
 
-# ISKCON Bhaktivedanta Manor -  International Society for Krishna Consciousness
-

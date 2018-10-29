@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Norfolk and Suffolk NHS Foundation Trust
-
 None

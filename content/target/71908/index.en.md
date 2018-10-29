@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Criw Brwd
-
 Criw Brwd are a bilingual theatre company based in Cardiff company. They are rooted in the south Wales valleys and as a result create theatre with a valleys viewpoint.

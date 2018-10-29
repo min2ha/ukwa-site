@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alastair Graham | Start thinking about change
-
 Website for Alistair Graham, Scottish Conservative Party candidate for Caithness, Sutherland and Easter Ross in the 7th May 2015 UK general election.

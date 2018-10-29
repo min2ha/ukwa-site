@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Craven District Council
-
 Website of Craven District Council offers information about its services and activities, local events, council budget and spending, and planning policy. You can also read committee papers and minutes.

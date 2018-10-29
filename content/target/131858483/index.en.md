@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# Wolfson College, University of Cambridge
-
 Official website of Wolfson College.

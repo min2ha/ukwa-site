@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Camp Hill Rugby Club
-
 Camp Hill Rugby Club is a Family amateur Club, runs 5 Mens, Colts, 2 Ladies Teams, Ladies Touch, u4's to u17's & Junior Girls.

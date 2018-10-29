@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# sorryyoufeel uncomfortable / SYFU
-
 sorryyoufeel uncomfortable 
 is a London-based art collective of thinkers and makers. 
 Formed out of the Baldwin's Nigger Reloaded project.

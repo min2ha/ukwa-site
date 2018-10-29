@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Ysgol Gynradd Orielton | Orielton County Primary School
-
 Orielton County Primary School is a school in Pembrokeshire Primary School that closed in 2016.

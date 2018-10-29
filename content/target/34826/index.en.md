@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Revolution Papers, The
-
 The Revolution Papers republish the most important Irish newspapers from 1916 as they appeared at that time. It contains national and local newspapers, newspapers from the south and north of Ireland, republican, nationalist and unionist newspapers, banned newspapers, and Irish newspapers from America.

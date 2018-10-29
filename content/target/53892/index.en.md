@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# The City of Chester Conservatives local Association.
-
 The City of Chester Conservatives are an active local Association who campaign all-year-round for the residents of Chester.

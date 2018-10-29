@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Johanna Boyd
-
 Johanna Boyd is the Scottish Labour candidate for the Mid Scotland and Fife list in the 2016 Scottish Parliament election.

@@ -11,5 +11,3 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# South Wales Islamic Centre
-

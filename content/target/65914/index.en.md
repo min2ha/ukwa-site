@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# SSAIB
-
 SSAIB is a certification body for organisations providing security systems and services, fire detection and alarm systems, telecare systems and services, manned services, approved contractors scheme and monitoring services.

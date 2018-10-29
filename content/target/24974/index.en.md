@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour's battle for control begins: Blairite heavyweights savage Ed Miliband who resigned as leader after bruising election defeat
-
 None

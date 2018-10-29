@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Focus E15
-
 Social Housing

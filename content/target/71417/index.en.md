@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Tottonians RFC on Pitchero
-
 The official website of Old Tottonians Rugby Football Club.

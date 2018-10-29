@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary’s Church, Woodbridge
-
 St. Mary’s Church, Woodbridge is a parish church, dedicated to St. Mary the Virgin, in the Diocese of St. Edmundsbury and Ipswich.

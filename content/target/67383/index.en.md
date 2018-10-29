@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Box Glasgow
-
 Website of Box Glasgow, a late-night bar and live music venue in Glasgow, Scotland.

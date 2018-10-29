@@ -10,6 +10,4 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Royal Warrant Holders Association
-
 Association of companies that hold royal warrants to supply the Royal Family. Website includes listing of companies.

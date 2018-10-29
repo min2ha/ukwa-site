@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Breast Cancer Care: General Election 2015
-
 Breast Cancer Care is a charity in the UK that provides information, practical assistance and emotional support to anyone affected by breast cancer. The organization was founded in 1972 by Betty Westgate who was diagnosed with breast cancer in 1968. The organization's headquarters are located in London, with satellite offices in Sheffield, Cardiff, and Glasgow.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Abergavenny Energy CIC 
-
 Abergavenny Energy CIC is a not for profit company established in 2014. The aim is to  'build energy security and sustainability for local people as we move into an uncertain economic and environmental era'. 

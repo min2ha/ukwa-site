@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Perth Women's Festival
-
 Website for the Perth Women's Festival

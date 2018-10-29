@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Britons seem relatively relaxed in the face of Brexit apocalypse
-
 Despite predictions of gloom from the Treasury and Bank, the public remains optimistic about Brexit
 

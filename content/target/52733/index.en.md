@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# Centre for London 
-
 Launched in 2011, the Centre is a London focused think tank.

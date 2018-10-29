@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Retrofestival
-
 Website for the Retrofestival festival, for wings, wheels, speed, music, dance, and bands.

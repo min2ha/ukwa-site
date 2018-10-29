@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Hustings poll results revealed: Good news for Labour and the Greens
-

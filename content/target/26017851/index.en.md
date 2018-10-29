@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Peter Tatchell
-
 Peter Tatchell is Director of the Peter Tatchell Foundation and this is his personal website.

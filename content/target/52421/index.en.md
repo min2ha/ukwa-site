@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Guto Bebb (@GutoAberconwy) on Twitter 
-
 Guto Bebb is the MP for Aberconwy.

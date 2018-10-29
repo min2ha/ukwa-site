@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Lee Haven Jones
-
 Lee Haven Jones is a BAFTA winning television director.

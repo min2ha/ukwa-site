@@ -1435,6 +1435,4 @@
   "endDateText": "31-05-2019"
 }
 
-# First World War Centenary, 2014-18
-
 This collection includes a huge variety of websites related to the First World War (1914-1918), particularly the various events which took place in the Centenary period 2014-2018. The collection also includes resources about the history of the war; academic sites on the meaning of the conflict in modern memory and patterns of memorialisation and critical reflections on British involvement in armed conflict more generally. Staff at the British Library worked with the Heritage Lottery Fund to take archival copies of the websites of all HLF-funded First World War Centenary projects. 

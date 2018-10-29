@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Gove 'wouldn't block' PM over EU divorce bill
-
 Michael Gove said in a BBC interview that the PM must be given "flexibility" to negotiate a Brexit deal and he would not stop her if it meant paying more to the EU.

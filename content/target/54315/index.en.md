@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Telegraph, The: MATTHEW TO TAKE ON 24-HOUR FIFA 17 AND OVERWATCH GAMING CHALLENGE FOR MENTAL HEALTH CHARITY
-
 Article about Matthew Thomson, a 21 year old man from Dundee whom has recently been diagnosed with mental health conditions and his attempt at raising money via a internet gaming marathon that will be livestreamed.

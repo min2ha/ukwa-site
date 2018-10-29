@@ -10,5 +10,3 @@
   "start_date": "2005-04-20T00:00:00Z"
 }
 
-# FPA - Formerly The Family Planning Association
-

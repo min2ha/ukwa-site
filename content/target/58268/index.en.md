@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Central and North West London NHS Foundation Trust: Gaming in the UK
-
 NHS website providing information on the work being done by founder and director of the CNWL National Problem Gambling Clinic, Dr Henrietta Bowden-Jones on internet gaming

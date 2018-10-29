@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Parties must work together to stop the UK falling off a Brexit cliff edge
-

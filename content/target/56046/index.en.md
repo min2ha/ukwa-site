@@ -10,6 +10,4 @@
   "start_date": "2017-07-21T09:00:00Z"
 }
 
-# Leeway Productions
-
 Leeway Productions is a theatre company based in Wales. They are a company dedicated solely to musical theatre. 

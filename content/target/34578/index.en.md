@@ -10,6 +10,4 @@
   "start_date": "2016-01-26T09:00:00Z"
 }
 
-# Green Valleys, The
-
 The Green Valleys Community Interest Company operate in and around the Brecon Beacons National Park and was established 'to inspire and support communities to work together to reduce carbon emissions, generate income and deliver social and environmental benefits within those communities'. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 21st Feb. 2017:  European Union (Notification of Withdrawal) Bill
-
 The House of Lords debates the European Union (Notification of Withdrawal) Bill at its second reading 

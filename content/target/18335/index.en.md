@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Richard Carr Racing's Blog
-
 Richard Carr is a powerboat racer, who has competed in the sport globally. He has won numerous domestic and international honours.

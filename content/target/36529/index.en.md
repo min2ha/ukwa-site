@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Celebrate free movement in Europe, says Caroline Lucas
-

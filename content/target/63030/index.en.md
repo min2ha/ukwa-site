@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stonehaven South
-
 Site of a Church of Scotland parish church at Stonehaven, Aberdeenshire.

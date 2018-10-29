@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour and the Tories are destined to fail unless they transform themselves completely
-
 None

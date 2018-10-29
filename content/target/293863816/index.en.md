@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Cyflymu Cymru i Fusnesau | Superfast Business Wales 
-
 Superfast Business Wales is a business support service provided by the Welsh Government offering assistance to businesses on digital technology and faster broadband.

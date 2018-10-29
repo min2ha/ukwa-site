@@ -10,6 +10,4 @@
   "start_date": "2015-06-24T10:00:00Z"
 }
 
-# Young Archaeologists’ Club (YAC)
-
 The Young Archaeologists’ Club forms part of a larger charity called the Council for British Archaeology. It promotes archaeology and history for children.

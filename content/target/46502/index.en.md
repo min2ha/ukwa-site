@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Arwain: the LEADER Programme in Powys
-
 Arwain: the LEADER Programme in Powys is funded through the Rural Development Plan for Wales (RDP) as part of the Welsh Government and European Agricultural Fund for Rural Development. Arwain aims to support the diversification and sustainability of the rural economy and improve the quality of life of Powys’ citizens and is managed by Powys County Council.

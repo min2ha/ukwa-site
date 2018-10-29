@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Ministry of Housing, Communities and Local Govt (@mhclg) on Twitter
-
 Formerly the Department for Communities and Local Government (DCLG). We cover housing, planning, devolution and local government, as well as community issues.

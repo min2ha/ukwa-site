@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Artistic Licence
-
 Artistic Licence is an established art studio designing and producing quality bespoke artwork for interiors worldwide including: paintings, mixed media, digital art, 3D reliefs and sculpture. They work with interior designers, arts consultants and FF& E specifiers.

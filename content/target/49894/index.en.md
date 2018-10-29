@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Labour Alternative: Labour Alternative to offer real change at Assembly election
-
 A round up of what Labour Alternative stand for ahead of the 2017 Assembly elections.

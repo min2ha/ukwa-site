@@ -10,6 +10,4 @@
   "start_date": "2017-05-24T09:00:00Z"
 }
 
-# Box & Fiddle
-
 Site of a Scottish music magazine focusing on traditional accordian and violin music; also of the annual festival of violin and accordian music.

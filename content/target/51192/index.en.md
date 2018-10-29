@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Real Mary King's Close
-
 Site of a visitor attraction in central Edinburgh, beneath the City Chambers, and featuring an abandoned close.

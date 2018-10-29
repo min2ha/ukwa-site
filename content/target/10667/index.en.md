@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Tasmina Sheikh (@TasminaSheikh) on Twitter
-
 Twitter profile of Tasmina Sheikh, Scottish National Party candidate for Ochil and South Perthshire in the 2017 general election.

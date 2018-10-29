@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Reclaim 1916
-
 This website advocates the application of the ideals and aspirations of the Easter Rising to contemporary challenges.

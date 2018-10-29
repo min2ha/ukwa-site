@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Inside Housing: Election 2017: what are the housing battlegrounds likely to be?
-
 Summary of what the main parties have said about housing policy in 2017

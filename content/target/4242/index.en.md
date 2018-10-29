@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Institute of Fundraising Scotland
-
 None

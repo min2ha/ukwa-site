@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# This is the West Country
-

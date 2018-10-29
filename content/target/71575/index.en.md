@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  St. John's Episcopal Church, Greenock
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Greenock, Renfrewshire.

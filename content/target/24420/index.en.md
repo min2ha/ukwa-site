@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's manifesto problem: you can't fatten a pig on market day
-
 None

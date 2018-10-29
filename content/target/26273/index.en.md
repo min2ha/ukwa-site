@@ -10,6 +10,4 @@
   "start_date": "2015-05-19T09:00:00Z"
 }
 
-# Anthony Shapland
-
 Welsh artist.

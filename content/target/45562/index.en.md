@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bank of England: Financial Policy Committee statement from its meeting, 20 September 2016 
-
 Quitting the EU will not result in a bonfire of red tape for Britain's banks, the Bank of England said on September 22nd 2016, promising to keep regulations "at least as great" as they are now. 

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Slimbridge WWI Project
-
 WWI project led by Slimbridge Parish Council in partnership with local organisations such as Slimbridge History Society, Slimbridge School, the Church and Slimbridge Legion to research the soldiers of Slimbridge Parish who fought and died in World War One. 

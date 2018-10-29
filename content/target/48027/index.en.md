@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# One Voice Movement
-
 The OneVoice Movement is a global initiative that supports grassroots activists in Israel, Palestine, and internationally who are working to build the human infrastructure needed to create the necessary conditions for a just and negotiated resolution to the Israeli-Palestinian conflict.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Iffy polls? It's time to play the wife and kids card
-
 None

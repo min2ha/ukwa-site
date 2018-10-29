@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS: Want to feel happier? Take a break from Facebook
-
 NHS Article Want to feel happier? Take a break from Facebook

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Reactive Chemistry Blog
-

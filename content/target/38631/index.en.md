@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# I've Been Thinking | My personal thoughts on the world of education
-
 This is the website of James McEnaney, the RISE: Scotland's Left Alliance list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

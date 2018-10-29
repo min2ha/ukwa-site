@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Department for Work and Pensions Press Office (@dwppressoffice) on Twitter
-
 Official Twitter channel of the Department for Work and Pensions Press Office. 

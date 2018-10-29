@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Chuka Umunna confirms intention to stand for Labour leadership
-
 None

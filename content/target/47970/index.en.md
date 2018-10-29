@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Modern Antiquarian, The
-
 This site has news, information, images, folklore & web links on the ancient sites across the UK, Ireland and Europe. It is based on the on the book published by Julian Cope The Modern Antiquarian. It is a collaborative website but in order to get a password users must register on Julian Copes other website Head Heritage.

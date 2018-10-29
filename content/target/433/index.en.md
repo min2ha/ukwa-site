@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thurrock Health and Wellbeing Board
-
 None

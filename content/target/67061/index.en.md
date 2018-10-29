@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Corbyn trolls his own pro-EU backbenchers over the EEA, while seeking to pick his battles on the Withdrawal Bill
-
 Comments on Labour's proposals to maintain access to the EU single market after Brexit

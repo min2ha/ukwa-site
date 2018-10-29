@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# The Russian Theatre Research Network UK
-
 The Russian Theatre Research Network (RTRN) exists to facilitate interaction and dialogue between those involved in the study and practice of Russian theatre in a UK context.

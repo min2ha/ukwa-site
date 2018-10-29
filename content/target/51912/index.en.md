@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Mary's RC Church, Rhyl
-

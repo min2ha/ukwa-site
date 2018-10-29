@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Church of England Diocese of Chester
-

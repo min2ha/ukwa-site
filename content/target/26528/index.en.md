@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Calls for Ed Miliband to resign as recriminations begin in Labour camp
-
 None

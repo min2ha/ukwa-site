@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip given two party election broadcasts - but Greens miss out again
-
 None

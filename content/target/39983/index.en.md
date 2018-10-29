@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dundee Scottish Socialist Party (SSP)
-
 The Dundee branch of the Scottish Socialist party (SSP).

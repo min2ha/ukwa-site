@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The 26 seats where a vote for UKIP could make Ed Miliband prime minister
-
 None

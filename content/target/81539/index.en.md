@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Barmouth Walking Festival
-
 The festival takes place in September and was shortlisted for a Wales National Tourism Award in 2009.

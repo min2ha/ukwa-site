@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# City of London Guides
-
 Website for guided walking tours of the City of London

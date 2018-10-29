@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Unity Theatre: Liverpool Lambs
-
 Play 'Liverpool Lambs' by Peter King and Steve Nolan at the Unity Theatre Liverpool

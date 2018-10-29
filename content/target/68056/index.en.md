@@ -10,5 +10,3 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Guardian, The: Frightened Rabbit's Scott Hutchison: a songwriter who found humanity in our flaws
-

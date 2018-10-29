@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# The Story of Helen
-
 The Story of Helen is a a digital experience exploring the hidden lives of pilgims and workers in medieveal England through the history of Maison Deui, a hospital in Faversham.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Miliband made 'terrible mistake' in ditching New Labour, says Mandelson
-
 None

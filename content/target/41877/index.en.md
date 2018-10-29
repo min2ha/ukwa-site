@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mayfair.org.uk
-
 Mayfair.org.uk is a website dedicated to Mayfair in London. This website includes news from the local Mayfair community, details of What's On in Mayfair and beautiful photographs from its streets and squares.

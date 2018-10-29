@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sandra Webster 4 Paisley & Renfrewshire South - The Socialist candidate for Paisley & Renfrewshire South
-
 This is the website of Sandra Webster, the Scottish Socialist Party candidate for Paisley and Renfrewshire South in the UK General Election on the 7th May 2015.

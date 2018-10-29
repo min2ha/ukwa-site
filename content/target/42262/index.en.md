@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Appin Community Co-op
-

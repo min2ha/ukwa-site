@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Luddites at 200
-
 <p>Website dedicated to the 200th anniversary of the Luddite uprisings. It also reflects current relationships with technology and issues raised in society.</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T11:00:00Z"
 }
 
-# Institute of Customer Service, The
-
 The Institute of Customer Service is an independent, professional membership body for customer service. Founded in 1996, and formally incorporated in February 1997, they help their members improve their customers’ experience and their own business performance.

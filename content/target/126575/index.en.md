@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Stonehenge.co.uk
-
 None

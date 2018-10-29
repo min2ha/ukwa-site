@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# AnasSarwar (@AnasSarwar) on Twitter
-
 The Twitter profile of Anas Sarwar, Scottish Labour MSP for Glasgow.

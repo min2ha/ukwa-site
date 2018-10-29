@@ -10,6 +10,4 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# British Crop Production Council (BCPC)
-
 British Crop Production Council (BCPC) promotes the use of science and technology in the understanding and application of effective and sustainable crop production.

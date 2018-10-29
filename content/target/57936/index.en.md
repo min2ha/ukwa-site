@@ -10,6 +10,4 @@
   "start_date": "2017-10-19T09:00:00Z"
 }
 
-# Hazard Press
-
 Hazard Press have been publishing Poetic Artist Books since 2010. All books here are written, designed, and made by hand in Wales by Jeremy Dixon. 

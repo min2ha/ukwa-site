@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Picnic hampers from Queen's birthday street party go up for sale on eBay for more than £250
-
 Picnic baskets supplied to ticket holders at the Queen’s 90th Birthday picnic on Sunday are being listed on eBay for more than £250.

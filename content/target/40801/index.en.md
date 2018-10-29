@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Horbury Village (@HorburyVillage) on Twitter 
-
 Local news and information from in and around Horbury Village.

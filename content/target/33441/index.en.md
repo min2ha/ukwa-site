@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bramford WW1 Memorial Project
-
 A project to remember the 54 men of Bramford recorded on our Great War Memorial.

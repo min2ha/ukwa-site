@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Everday Muslim: a celebration of Muslim heritage in the UK
-
 Everyday Muslim is a long-term project to create a central archive of Muslim lives, arts, education and cultures from across the UK.

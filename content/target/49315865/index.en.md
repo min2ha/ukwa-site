@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Diary of Injustice in Scotland, A
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sean Sheahan (Labour Party Parliamentary Candidate for North West Leicestershire)
-
 North West Leicestershire Labour Party website during the 2017 General Election campaign

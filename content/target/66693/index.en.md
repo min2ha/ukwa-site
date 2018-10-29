@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Manchester Institute of Innovation Research 
-
 Manchester Institute of Innovation Research (MIoIR) is a research institute based in Alliance Manchester Business School at the University of Manchester, UK. MIoIR is a centre of excellence in the field of innovation studies, which includes the overlap of innovation with science management and science policy.

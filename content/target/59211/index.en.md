@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Lodge Cadder Argyle No. 147
-
 Site of a masonic lodge located in Chryston, Glasgow and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": "Smoking Ban UK 2007"
 }
 
-# Smoking in England
-
 None

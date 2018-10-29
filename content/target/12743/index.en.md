@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christine Ohuruogu
-
 <p>The website of 400m British record holder Christine Ohuruogu, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

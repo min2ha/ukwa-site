@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# United Kingdom Without Incineration Network
-
 None

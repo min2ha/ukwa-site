@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# First Federation
-
 The First Federation is a clear example of a ‘hardwired’ learning community where everyone is responsible for the success of every school. All the staff are members of the First Federation and believe in collaboration and the sharing of best practice. Research shows that when schools fully embrace the concepts of collaborative practice and collaborative capacity, they rapidly improve and become sustainable, high performing organisations.

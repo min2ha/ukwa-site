@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Dr Philip Lee (@DrPhillipLeeMP) on Twitter (Conservative Politician)
-
 Twitter feed of Dr Philip Lee, MP for Bracknell and Justice Minister, used extensively to comment on Brexit.

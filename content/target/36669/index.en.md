@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Would Churchill have surrendered our sovereignty to the EU? Never!   
-

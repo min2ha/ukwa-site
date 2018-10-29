@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: May tells Sturgeon Holyrood will be 'fully engaged' in EU talks 
-
 Guardian, The

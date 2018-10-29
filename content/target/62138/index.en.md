@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: I’ve walked the Irish border – Brexiters are trampling on fragile territory
-

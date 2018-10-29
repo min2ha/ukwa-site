@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kieran Merrilees (KieranMERR) on Twitter
-
 <p>The twitter profile of althete Kieran Merrilees, badminton player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Alec Finlay
-
 <p>Site of the poet and artist Alec Finlay.</p>

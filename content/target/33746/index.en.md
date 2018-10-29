@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Telegraph: €2 coin to mark the centenary of 1916 Easter Rising
-

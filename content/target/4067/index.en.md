@@ -10,6 +10,4 @@
   "start_date": "2013-11-15T23:00:00Z"
 }
 
-# Prifysgol Caerdydd - Cardiff University
-
 Official website of Cardiff University.

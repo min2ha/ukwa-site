@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SA Mathieson: NHS Commissioning Board local area teams map: naming with LAT-itude
-
 None

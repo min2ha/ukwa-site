@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tory-DUP war of words over Brexit intensifies
-
 Reports that various Conservative MPs had attacked the DUP on social media for threatening to withdraw support from the Government if it disliked the Brexit deal agreed by Theresa May

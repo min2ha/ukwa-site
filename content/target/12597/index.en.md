@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jackson Carlaw MSP (JacksonMSP) on Twitter
-
 <p>The twitter profile of Jackson Carlaw, Scottish Conservative and Unionist Party Member of the Scottish Parliament for West Scotland.</p>

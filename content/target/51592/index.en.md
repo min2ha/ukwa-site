@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# St. James's Place plc
-
 St. James's Place plc (branded as St. James's Place Wealth Management) is a UK-based wealth management business with £75.3bn of client funds under management.

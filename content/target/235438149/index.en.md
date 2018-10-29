@@ -10,5 +10,3 @@
   "start_date": "2014-03-28T00:00:00Z"
 }
 
-# Welshpool and Bro Hafren Methodist Circuit
-

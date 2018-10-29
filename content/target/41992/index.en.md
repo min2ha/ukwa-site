@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Cameron lays out post-referendum blueprint to reunite Tory party 
-
 Guardian, The

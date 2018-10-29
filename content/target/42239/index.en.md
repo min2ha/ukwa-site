@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Parish Life in Wadworth, Loversall and Balby
-

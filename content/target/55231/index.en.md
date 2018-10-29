@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Invertigo Theatre Company
-
 Invertigo is the Associate Theatr Company of Pontio Arts and Innovation Centre in Bangor.

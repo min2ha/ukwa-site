@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Nature Matters: The Widlife Trusts in Wales Manifesto 2016
-

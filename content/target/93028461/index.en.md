@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Greenhill Group - Sales, Marketing and Publishing Recruitment
-

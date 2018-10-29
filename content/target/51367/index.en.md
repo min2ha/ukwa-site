@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cardiff Shul (Uk)
-

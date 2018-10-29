@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Sun calls Miliband a class warrior. He’s more interested in the economy
-
 None

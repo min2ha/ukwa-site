@@ -10,6 +10,4 @@
   "start_date": "2015-08-04T10:00:00Z"
 }
 
-# Design & Build UK
-
 Design & Build UK is the magazine of Design & Build Publishing Ltd. It is the UK’s online construction magazine, which is distributed throughout the UK to a client readership of approximately 150,000, including the decision makers in the construction and retail industry.

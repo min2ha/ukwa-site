@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Davis sees 'no excuse for standing in way of progress'
-
 At the start of a fourth round of Brexit talks, Mr Barnier said the process had been going six months and progress on key separation issues was essential.
 For the UK, David Davis said Theresa May had shown "leadership and flexibility" in her Florence speech and given reassurances on financial issues.

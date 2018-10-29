@@ -10,6 +10,4 @@
   "start_date": "2017-07-06T09:00:00Z"
 }
 
-# Welsh Renal Network's (WRCN) | Rhwydwaith Renal Cymru
-
 The Welsh Renal Clinical Network's (WRCN) role is to collaboratively plan and monitor adult renal services in Wales.

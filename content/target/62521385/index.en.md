@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Cardiff Bird Ringers
-
 Bird Blog

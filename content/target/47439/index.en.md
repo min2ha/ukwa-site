@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# Glow Blogs
-
 The Glow blogs domain, hosting collected Education Scotland blogs.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# City of Stirling Scottish National Party (SNP)
-
 The City of Stirling branch of the Scottish National Party (SNP).

@@ -10,5 +10,3 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# School Library Association: South West Wales Branch
-

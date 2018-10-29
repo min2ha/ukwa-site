@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# A Little Bit of Stone
-
 <p>A Little Bit of Stone is an online news and community platform for the canal town of Stone in Staffordshire. It was established in 2010.</p>

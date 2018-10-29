@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sceptic.eu
-
 A blog about the European Union from a sceptical United Kingdom perspective.

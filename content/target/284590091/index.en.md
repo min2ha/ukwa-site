@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Revenue Scotland
-
 <p>Revenue Scotland is the tax authority responsible for the administration of Scotland’s devolved taxes.</p>

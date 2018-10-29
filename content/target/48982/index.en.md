@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Laugharne Lines
-
 Laugharne Lines features the curious tales of some of Laugharne's best, and least known buildings. 

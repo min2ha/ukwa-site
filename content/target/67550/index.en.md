@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# National Association fo Safety and Health in Care Services (NASHICS)
-
 Develop the membership of NASHiCS, so that improvements in safety in care practice can be achieved by raising the awareness and profile of health and safety. 

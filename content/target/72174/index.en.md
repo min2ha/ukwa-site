@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Ty'r Gwrhyd Canolfan Gymraeg Cwm Tawe a Nedd
-
 Tŷ'r Gwrhyd is a Welsh Centre in Pontardawe and a partnership between Academi Hywel Teifi, Swansea University and Neath Port Talbot Borough Council. 

@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Corwen Station-New
-
 The site promotes the town of Corwen as the destination for the Llangollen Railway's next extension and plot the progress towards a new Corwen Station.

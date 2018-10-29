@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elspeth Parris (@elspethP) on Twitter
-
 Green candidate for Merthyr Tydfil and Rhymney.

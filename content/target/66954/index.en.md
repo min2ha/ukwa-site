@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Policy Studies Institute
-
 The Policy Studies Institute (PSI) is a British think-tank and research institute. PSI began in 1931 as Political and Economic Planning and became the Policy Studies Institute in 1978 on its merger with the Centre for Studies in Social Policy (est 1972). PSI became an independent subsidiary of the University of Westminster in 1998 and merged with the University in 2009. The Director of PSI is Ben Shaw.

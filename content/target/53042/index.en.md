@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Britain Elects
-
 Britain Elects is a poll aggregation service that aims to deliver non-partisan commentary and analysis of the state of British politics and public opinion as well as the provision of an open source archive of opinion polls and election results, be they council or parliamentary. Founded by Ben Walker and Lily Jayne Summers in 2013, Britain Elects is entirely voluntary.

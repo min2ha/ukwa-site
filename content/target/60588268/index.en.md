@@ -10,5 +10,3 @@
   "start_date": "2011-06-08T00:00:00Z"
 }
 
-# Student Engagement Traffic Lighting (SETL)
-

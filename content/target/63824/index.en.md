@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Colinton Parish Church
-

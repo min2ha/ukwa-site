@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Essex Conservatives
-
 Website of Essex Conservatives, providing information on councillors, manifesto, policies and local and national news.

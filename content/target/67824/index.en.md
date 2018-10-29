@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# ESRC/JISC Census of Population Programme
-
 This programme supplies academic users (researchers, teachers and students) with computer readable data from the UK Censuses of Population.

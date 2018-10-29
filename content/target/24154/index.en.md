@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General Election 2015: Nicola Sturgeon says Westminster cannot be business as usual
-
 None

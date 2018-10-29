@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Gwyn Williams
-
 Gwyn Williams is a Welsh artist, educated at Coleg Menai Bangor and has exhibited throughout Wales.

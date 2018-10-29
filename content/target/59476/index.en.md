@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Model Boats Forums
-
 An online enthusiast community concerned with model boats. Discusses information for beginners, R / C & accessories, various model types, build blogs and various other related topics. 

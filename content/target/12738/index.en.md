@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lawrence Clarke
-
 <p>The website of 110m hurdler Lawrence Clarke, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

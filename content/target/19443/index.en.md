@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: EPPING FOREST: Historian explores ancient forest boundaries
-

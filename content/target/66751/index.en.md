@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge Tay Union 273 on Facebook
-
 Facebook page of a masonic lodge located in Wormit, Fife and affiliated with the Grand Lodge of Scotland.

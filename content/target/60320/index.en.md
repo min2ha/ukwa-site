@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Disc Golf Association Forum
-
 An online enthusiast community forum concerned with Disc Golf in the UK. Discusses British Disc Golf Association news, events equipment and various other related topics.

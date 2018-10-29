@@ -11,8 +11,6 @@
   "subject": "EU Referendum"
 }
 
-# Sian Berry:  The Mayor, banks and Europe Why the new Mayor should lobby for Londoners not bankers, and why a better financial sector depends on remaining inside the EU
-
 A report by Sian Berry
 Green Party Member of the London Assembly
 May 2016

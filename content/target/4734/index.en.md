@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Greater London Authority: Mayor of London’s tribute to Nelson Mandela
-
 <p>Text of a statement made by Boris Johnson, Mayor of London, in tribute to Nelson Mandela. This web page also contains details of places and church services in London planned in commemoration of Mandela’s life.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU sees 'positive elements' in UK's Chequers plan
-
 The EU cast doubt on claims its chief negotiator described the government's Brexit plan as "dead in the water".  Labour MP Stephen Kinnock attributed the remarks - which he said were in French - to Michel Barnier after a meeting in Brussels in September 2018.  EU Commission spokesman Margaritis Schinas urged journalists to wait for a transcript to be published.

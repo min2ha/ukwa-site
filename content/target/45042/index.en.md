@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Brig Newspaper: Interview with Olympian Ross Murdoch
-
 University of Stirling's student newspaper article about swimmer Ross Murdoch.

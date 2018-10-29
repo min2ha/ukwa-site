@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# States of Jersey Scrutiny
-
 Contains details of reviews aimed at improving government policies and public services.

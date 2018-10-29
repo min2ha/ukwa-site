@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# City AM: The EU referendum is too important to be left to the BBC
-

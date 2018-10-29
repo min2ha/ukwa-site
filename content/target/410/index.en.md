@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Redcar & Cleveland Health and Wellbeing Board
-
 None

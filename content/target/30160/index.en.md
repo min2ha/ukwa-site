@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Oban Times on Facebook
-
 Facebook account for the Oban Times and West Highland Times. First published in 1861, The Oban Times quickly developed into the main weekly newspaper for the west coast of Scotland.

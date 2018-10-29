@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Voices for the Library
-
 Voices for the Library aims to provide the facts about the public library service in the UK, the role of professional librarians and provide a space for library users to share their stories about the difference public libraries have made to their lives. 

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Poems for Sale
-
 None

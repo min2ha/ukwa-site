@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM meeting with Donald Tusk: 26 September 2017
-
 Prime Minister Theresa May met with European Council President Donald Tusk to discuss imaginative and creative ways to establish the new UK/EU relationship

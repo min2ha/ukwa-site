@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# JeanMWilliams (@JeanMWilliams) on Twitter
-
 Jean Williams is a academic in sports history with a particular focus on women's football, Olympics and motor racing.

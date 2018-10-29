@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Welcome to the Isle of Colonsay
-

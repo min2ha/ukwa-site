@@ -10,6 +10,4 @@
   "start_date": "2017-03-02T09:00:00Z"
 }
 
-# Rape Crisis Centre Glasgow
-
 Site of an organisation based in Glasgow providing free and confidential support to women and girls who have been raped, sexually assaulted or sexually abused, no matter when this has happened in their lives.

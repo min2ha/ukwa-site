@@ -11,5 +11,3 @@
   "subject": "French in London"
 }
 
-# London Basque Society - Euskal Elkartea
-

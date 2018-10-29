@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: The EU referendum has showcased the worst of politics. Calling someone 'red Tory' or 'Trot' doesn't count as debate
-

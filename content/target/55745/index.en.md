@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Trefor Owen Clogmaker
-
 Trefor Owen is a Criccieth based Clogmaker.

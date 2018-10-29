@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# National Brass Band Championships of Great Britain
-
 The National Brass Band Championships of Great Britain is a first-past-the-post Championship involving some 600 bands in eight ‘Regional’ qualifying heats staged up and down the UK, plus two ‘Finals’ events. It was established in 1945.

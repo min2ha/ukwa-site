@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# University of Sussex: University community mourns Nelson Mandela
-
 None

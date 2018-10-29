@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Wildlife Trusts, The: Act for Nature
-
  There are 47 individual Wildlife Trusts covering the whole of the UK and the Isle of Man and Alderney.  Together, The Wildlife Trusts are the UK’s largest people-powered environmental organisation working for nature’s recovery on land and at sea.  
 
 Each Wildlife Trust is an independent charity is deeply-rooted within the local communities from which it was formed - most had been established by the end of the 1960s (usually, but not always, at a county-wide level), often set up by local activists determined to save what they could - the last remaining meadows, ancient woods, heaths - in the face of widespread devastation to our natural environment.

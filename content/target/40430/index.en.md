@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Beibl i Gymru | Bible for Wales
-
 The year 1588 saw the publication of the first Welsh translation of the complete Bible. This is a digitised version of Prys Morgan's book celebrating the four hundredth anniversary of the Welsh Bible published in 1988. The Bible was digitised by the National Library of Wales.

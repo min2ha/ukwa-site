@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Mount Stuart
-
 Site of a stately home on the island of Bute owned by the Marquess of Bute and the the Stuart family, host to conferences, events, weddings as well as being a visitor attraction.

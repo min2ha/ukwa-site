@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Aro Books worldwide
-
 Aro Books are based in Cardiff and publish books on the teachings of the Aro Tradition of Nyingma Buddhism

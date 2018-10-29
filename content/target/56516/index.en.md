@@ -10,5 +10,3 @@
   "start_date": "2017-08-10T09:00:00Z"
 }
 
-# The Ivor Novello Appreciation Bureau
-

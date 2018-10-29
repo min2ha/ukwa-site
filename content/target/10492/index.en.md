@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Amelia Womack, Green Party, on Twitter
-

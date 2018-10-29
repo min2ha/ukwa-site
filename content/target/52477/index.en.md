@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Brecon Elim Church
-

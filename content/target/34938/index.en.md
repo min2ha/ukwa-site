@@ -10,6 +10,4 @@
   "start_date": "2016-02-03T09:00:00Z"
 }
 
-# Crop Protection Association (CPA), The
-
 The Crop Protection Association (CPA) is a lobby group for the UK Plant Science Industry. They promote the role of modern plant science in safeguarding our food supply from seed to shelf.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Epynt Way Association
-
 The Epynt Way is a permissive path which follows the boundary of the Sennybridge Training Area and is available for use to the public at all times.

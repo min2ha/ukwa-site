@@ -11,7 +11,5 @@
   "subject": "100 Best Sites"
 }
 
-# MetOffice
-
 <p>Website of the UK's National Weather Service.</p> Nominated by a smashfest participant who said: I look at this website lots so i cane prepared for the weather! and for hay fever etc to care for my family well. also to stock pile for food if its going to storm or snow hard!
 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-#  Parish of Our Lady & Saint David, Cwmbran 
-

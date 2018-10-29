@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nicola Sturgeon memo claiming she would prefer David Cameron in power was written in Scotland Office
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-01-29T09:00:00Z"
 }
 
-# Building Engineering Services Association, The (BESA)
-
 The Building Engineering Services Association is a UK trade organisation for building engineering services contractors – representing the interests of firms active in the design, installation, commissioning, maintenance, control and management of engineering systems and services in buildings.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Lincolnshire General Election briefing: what Magna Carta did for us
-

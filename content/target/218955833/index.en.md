@@ -10,5 +10,3 @@
   "start_date": "2014-02-27T00:00:00Z"
 }
 
-# The Amman Valley Railway Society
-

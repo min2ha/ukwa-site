@@ -10,5 +10,3 @@
   "start_date": "2011-06-21T00:00:00Z"
 }
 
-# Wales European Funding Office | Swyddfa Cyllid Ewropeaidd Cymru
-

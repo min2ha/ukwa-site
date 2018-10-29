@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Pendle Running Festival
-
 Website for the Pendle Running Festival.

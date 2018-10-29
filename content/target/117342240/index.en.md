@@ -11,5 +11,3 @@
   "subject": "Political Action and Communication"
 }
 
-# Frack Off - Extreme Energy Action Network
-

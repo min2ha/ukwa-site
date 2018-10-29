@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Marys King Street on Facebook
-
 Facebook page of a Church of Scotland parish church in Aberdeen.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# The Glam
-
 The Glam charitable organisation aim is to support young welsh musicians and promote music in the community.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Lochaber Geopark 
-
 Site of a park with features of geological significance and the association that promotes it, based at Fort William, Highland.

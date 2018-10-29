@@ -10,5 +10,3 @@
   "start_date": "2015-07-07T10:00:00Z"
 }
 
-# Canolfan Milfeddygaeth Cymru | Welsh Veterinary Science Centre
-

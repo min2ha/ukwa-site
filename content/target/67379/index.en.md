@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Penryn Rugby (@penryn_rugby) on Twitter
-
 The official Twitter account of Penryn Rugby Football Club.

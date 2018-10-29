@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Janice Gregory (Labour Assembly Member for Ogmore)
-
 Janice Gregory is the Labour AM for Ogmore. She is retiring at the 2016 National Assembly Elections. 

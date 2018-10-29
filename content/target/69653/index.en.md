@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Datableedzine (@datableedzine) on Twitter
-
 Datableedzine is an experimental, online poetry zine. This is their Twitter account.

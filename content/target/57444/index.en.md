@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: £1.4m mental health project to help school pupils
-
 BBC News article about kids mental health and social media

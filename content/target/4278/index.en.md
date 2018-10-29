@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Parliament: Scottish Independence Referendum Bill
-
 None

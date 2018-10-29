@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Family & St. Ninian's Parish - Kirkintilloch on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of Holy Family & St Ninian's, Kirkintilloch, East Dunbartonshire.

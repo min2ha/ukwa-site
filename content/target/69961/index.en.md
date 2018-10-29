@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Catholic Voice of Lancaster, The
-
 The Catholic Voice is the official newspaper of the Diocese of Lancaster. The newspaper grew out of the need to provide information and a means of communication for the local Catholic community.

@@ -10,5 +10,3 @@
   "start_date": "2015-05-14T08:00:00Z"
 }
 
-# Welsh Guards Association
-

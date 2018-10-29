@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Jones for Clwyd West
-
 Conservative candidate and MP for Clwyd West.

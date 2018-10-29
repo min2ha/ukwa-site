@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# ULTACH - Ulster Language, Traditions and Cultural Heritage
-
 None

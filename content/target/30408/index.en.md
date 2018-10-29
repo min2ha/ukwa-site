@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Business Wales
-
 This is a Welsh Government site that provide business support to people starting, running and growing a business in Wales.

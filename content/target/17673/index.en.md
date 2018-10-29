@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems pledge to make failure to prevent tax evasion a criminal offence 
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: British army to be replaced by 'home defence force' if Greens win power in May
-
 None

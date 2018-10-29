@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Battleground Britain: a confident Clegg is relying on resilience of his local MPs
-
 None

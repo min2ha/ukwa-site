@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# EatSleepFootyRepeat
-
 A website dedicated to Welsh football, mostly podcasts and social media.

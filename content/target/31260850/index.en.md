@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Warwick Blogs: Anna's Blog
-

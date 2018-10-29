@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Standard: Two-thirds of schoolchildren would be happy if social media didn’t exist, study reveals
-
 News article based on a study revealing schoolchildren would not mind if social media did not exist 

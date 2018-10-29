@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Bob Neill (@neill_bob) on Twitter: Status: Response from Prime Minister on upskirting bill
-
 A tweet from Bob Neill with a screenshot of the response from the Prime Minister on the problem of upskirting 

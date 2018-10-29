@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Heseltine, Hitler and the most insidious anti Brexit insult of all 
-
 Comments on continuing opposition to Brexit by David Lammy, Lord Heseltine, the Liberal Democrats and Unite for Europe.

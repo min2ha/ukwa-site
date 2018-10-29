@@ -10,6 +10,4 @@
   "start_date": "2017-04-06T09:00:00Z"
 }
 
-# Kate Hamer Author
-
 Kate Hamer is a Welsh author and former Rhys Davies short story prize winner.

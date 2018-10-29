@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Alternatives to a no-deal outcome in negotiations with the EU
-
 Debate pack for a A Westminster Hall debate on the 'Alternatives to a no-deal outcome in negotiations with the EU'  scheduled for Wednesday 21 February 2018 from 9.30-11.00am. The Member initiating the debate was Antoinette Sandbach MP.
 

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cotford St Luke
-

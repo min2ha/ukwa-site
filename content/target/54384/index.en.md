@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Carney’s Community
-
 Carney's Community, a registered charity, gets disadvantaged and excluded young people off the street and away from a life of crime and despair by giving them skills, discipline and self respect.

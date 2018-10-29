@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dundee & Angus Greens
-
 Website of Dundee & Angus Greens, providing information on events, campaigns, party officers and local and national news.

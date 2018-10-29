@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The Nazis, Maggie, the euro... our business bosses always get it wrong
-
 The pro-EU establishment, along with large sections of the media, has given prominent coverage to warnings by those two global giants, the aeronautical manufacturer Airbus and the car manufacturer BMW, that they might leave Britain after Brexit if the negotiations on a trade deal do not proceed to their liking, especially on customs alignment

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Archaeology
-
 Digital Archaeology is a London based project documenting the formative years of digital culture and raising the profile of digital preservation.

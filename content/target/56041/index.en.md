@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Lloyd Langford. Comedian, Writer. Actor of incredibly limited range.
-
 Lloyd Langford is a comedian and comedy writer from Baglan, Neath.

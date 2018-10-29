@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Host City Glasgow: how it set the standard for urban rebirth
-
 <p>Article by Adam Aitken about Glasgow’s reputation for poverty and crime and its recent regeneration as it prepares to host the XX Commonwealth Games. One of a series of “Host City Glasgow” articles on “The Conversation”  an independent source of news and views, sourced from the academic and research community.</p>

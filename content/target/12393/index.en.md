@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daniel Awde (GBDawde) on Twitter
-
 <p>The twitter profile of athlete Daniel Awde, member of the men's 400 metre relay for Team England in the Glasgow 2014 Commonwealth Games.</p>

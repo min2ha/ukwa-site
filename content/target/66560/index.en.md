@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Supreme Court of the United Kingdom (@uksupremecourt) on Twitter
-
 Official profile for the highest court in the UK.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kiltarlity Church and Kirkhill Church
-
 Site of two Church of Scotland parish churches at Kiltarlity and Kirkhill, Highland.

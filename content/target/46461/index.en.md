@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T10:00:00Z"
 }
 
-# Visit the Vale of Glamorgan
-
 Visit the Vale is the official tourist information guide to the Vale of Glamorgan.

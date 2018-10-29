@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Cabinet reshuffle as it happened: Tories 'declare war on BBC' with John Whittingdale appointment
-
 None

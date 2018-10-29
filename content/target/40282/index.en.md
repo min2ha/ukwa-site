@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# North British Railway Study Group
-
 Site of a reasearch group studying and recording the history of all aspects of the locomotives, rolling-stock, infrastructure, people and operations of the North British Railway, its constituents and successors.

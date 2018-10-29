@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Safe in Sussex
-
 Worthing Women's Aid was set up in 1977 to provide refuge accommodation for women and their children who were subjected to domestic abuse.  Now with accommodation for up to 12 families, the refuges are a place where women and their children can feel safe and be given the vital support they need, both practical and emotional. Re-launched as Safe in Sussex on 28th November 2013 

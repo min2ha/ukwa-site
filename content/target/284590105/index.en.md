@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jim Hood MP
-
 Jim Hood was Labour Member of Parliament for Lanark and Hamilton East 1987-2015.

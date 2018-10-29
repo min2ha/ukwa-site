@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Robert Emmetts GAA Club
-
 In these pages you can find out about upcoming club events, fixtures, results from our latest matches, team photos and our history as a club.

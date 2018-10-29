@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Agored Cymru
-
 Agored Cymru is the Welsh awarding body of choice for education and training providers in Wales. 

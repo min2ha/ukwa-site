@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Syria Peace & Justice 
-
 Syria Peace & Justice is an open, London-based non-sectarian grassroots group, formed in October 2013. We wish to promote a peaceful end to the terrible conflict in Syria and justice and human rights for all of its people.

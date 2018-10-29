@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Daily Record and Sunday Mail: Independence referendum - news, views, gossip, pictures, video
-
 <p>News and opinion from the website of the Daily Record and Sunday Mail on the referendum on Scottish independence.</p>

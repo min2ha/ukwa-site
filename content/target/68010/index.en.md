@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Malton & Norton RUFC (@MandNRUFC) on Twitter
-
 The official Twitter account of Malton V Norton Rugby Union Football Club. Established 1953.

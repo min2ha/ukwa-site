@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Balbirnie Allotment Group 
-
 Site of a hyper-local group running allotments (small gardens) in Balbirnie, Fife.

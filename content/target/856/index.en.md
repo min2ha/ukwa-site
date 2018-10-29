@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East London NHS Foundation Trust
-
 None

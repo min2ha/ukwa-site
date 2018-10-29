@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Irish News: How to sell a rebellion, by our man in London 
-

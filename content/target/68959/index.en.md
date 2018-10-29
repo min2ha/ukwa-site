@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's RC Church on Facebook
-
 Facebook page of a Scottish Roman Catholic church located in Lanark.

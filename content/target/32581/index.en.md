@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Andreas Prokop Lab
-
 Website of Andreas Prokop, researcher at the University of Manchester.

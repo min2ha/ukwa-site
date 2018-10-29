@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Are race discrimination laws still needed in the workplace?
-
 None

@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# Déménager à Londres - informations pratiques pour les expatriés de Londres
-

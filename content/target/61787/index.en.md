@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Live Animal Exports 
-
 Live animals are exported to EU countries from the UK for breeding, fattening, and slaughter. EU rules to protect the welfare of live animals during transport and related operations were agreed in 2004, and implemented in the UK in 2007. However, there are a number of ongoing campaigns calling for a ban on live exports for slaughter, on welfare grounds. The UK vote to leave the EU has prompted renewed calls for such a ban.
 

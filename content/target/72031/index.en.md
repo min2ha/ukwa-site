@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hungerford RFC on Pitchero
-
 The official website of Hungerford Rugby Football Club.

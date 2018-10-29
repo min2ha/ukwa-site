@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hugh O'Neills GAA (@hughoneillsgaa) on Twitter
-
 Hugh O'Neills GFC Leeds. Yorkshire Senior & Junior double champions 2017. Always on the lookout for new members for playing and social scene.

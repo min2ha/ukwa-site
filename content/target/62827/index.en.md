@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Rhayader Town F.C.
-

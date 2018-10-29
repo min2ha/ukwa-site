@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# End the EU (@EUEXIT) on Twitter
-
 Twitter feed of Eurosceptic campaign group, EUexit

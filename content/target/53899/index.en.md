@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dinah Mulholland (@DinahCeredigion) on Twitter 
-
 Dinah Mulholland is Ceredigion Labour Party's candidate for the General Election on 8 June 2017.

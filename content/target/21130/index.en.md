@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Media Helping Media
-
 Free training resources from the UK for journalists in the developing world containing training modules all released under the Creative Commons.

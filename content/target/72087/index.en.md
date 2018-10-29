@@ -10,7 +10,5 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Carmarthen U3A
-
 
 The University of the Third Age is an international movement whose aims are the education and stimulation of mainly retired members of the community. This is the website for the Carmarthen U3A.

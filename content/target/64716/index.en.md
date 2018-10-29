@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Cluttons
-
 Cluttons LLP is an International firm of chartered surveyors and property consultants based in Central London, UK and operating throughout Europe, the Middle East, Asia Pacific, India and South Africa. 

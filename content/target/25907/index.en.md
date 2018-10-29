@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron gives us a tiny glimpse of normality and we shoot him down
-
 None

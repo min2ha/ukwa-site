@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# British Empire, The
-
 A site dedicated to the imperial history of Britain. It has been updated continuously for nearly 20 years. It has hundreds of contributors who have had experience of living and working or studying about the British Empire. 

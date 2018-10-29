@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Derek Williams Trust
-
 The Derek Williams Trust was founded in 1992 to advance public education in and appreciation of the arts by the pubic display of fine works of art. It is named after Derek Williams (1929 – 1984) Derek Mathias Tudor Williams FRIGS .

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maajid Nawaz (Liberal Democrats candidate for Hampstead & Kilburn) (@MaajidNawaz) on Twitter
-
 Maajid Nawaz stood as Liberal Democrats candidate for Hampstead & Kilburn at the 2015 General Election but was not elected. 

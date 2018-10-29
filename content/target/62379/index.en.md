@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Rosskeen Church of Scotland Alness
-
 Site of a Church of Scotland at Alness, Highland [historically Ross And Cromarty] covering the town of Alness.

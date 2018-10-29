@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Drugs, brothels, al-Qaeda and the Beyonce tax: the Green Party plan for Britain
-
 None

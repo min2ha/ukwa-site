@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Mars Spiders
-
 Mars Spiders are an IT company that is a collective of digital programmer, app developers, designers and digital marketing specialists.

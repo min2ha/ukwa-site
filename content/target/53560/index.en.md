@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Juliette Ash for Pontpridd
-
 Juliette Ash is the Conservative candidate for Pontypridd at the 2017 General Election.

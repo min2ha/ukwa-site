@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Helensburgh Parish Church
-
 Site of a Church of Scotland parish church at Helensburgh. Argyll & Bute.

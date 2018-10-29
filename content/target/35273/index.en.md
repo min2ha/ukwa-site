@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Robyn Halbert (@robynhalbert) on Twitter
-
 The Twitter profile of Robyn Halbert, Scottish Conservative and Unionist candidate for Coatbridge and Chryston in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Evans, MP for Islwyn
-
 Chris Evans, Labour candidate for Islwyn. He is also the current MP.

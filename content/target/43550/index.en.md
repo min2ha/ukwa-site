@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Red Cliffs of Dawlish
-
 Eurosceptic Blog

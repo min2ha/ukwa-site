@@ -10,6 +10,4 @@
   "start_date": "2018-04-05T09:00:00Z"
 }
 
-# ESSHC 2018 (@ESSHC2018) on Twitter
-
 European Social Science History Conference 2018 at Queen’s University Belfast, 3-7 April 2018.

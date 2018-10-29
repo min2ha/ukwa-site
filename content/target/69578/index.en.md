@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Born N Bread
-
 A print publication with an online presence, Born N Bread, a creative collect in which five south London girls explore food, fandom, and black British identity.

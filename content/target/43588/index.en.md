@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# The Referendum
-
 A blog giving information about the EU Referendum.  It claims to provide non-biased information in order to counter the hype of the press leading up to the Referendum.  It is ultimately a pro-'Brexit' site.

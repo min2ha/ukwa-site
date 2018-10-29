@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Movement GM (@EuroMoveGM) on Twitter
-
 European Movement is the longest established campaign group to support the UK’s membership of the EU. Greater Manchester branch.

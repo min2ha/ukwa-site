@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Major BFI projects announced to mark First World War centenary 
-
 The BFI launches a five-year programme of screenings, archive restorations and events to commemorate the 100th anniversary of the First World War. 

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Photographers Gallery, The : Easter Rising 1916 Sean Sexton Collection
-
 Article introducing an Easter Rising exhibition

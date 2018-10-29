@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# Kirklees Light Railway (KLR), The
-
 <p>The Kirklees Light Railway opened to the public on the 19th October 1991 but the foundations of the line date back to the mid 19th century. It offers rides and other activities for the whole family.</p>

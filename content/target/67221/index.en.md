@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# WEST Beer
-
 Site of a brewer located in Glasgow.

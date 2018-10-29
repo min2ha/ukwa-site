@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Carreg Lafar
-
 Carreg Lafar is a traditional Welsh music group formed in Cardiff in 1993.

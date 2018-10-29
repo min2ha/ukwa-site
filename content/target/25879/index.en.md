@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory long-term economic plan? Not even the propaganda is working
-
 None

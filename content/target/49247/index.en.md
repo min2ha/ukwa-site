@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cardiff Amateur Athletics Club
-
 Cardiff Amateur Athletics Club is Wales' Premier Athletic Club and British Athletics' Club of the Year 2013.

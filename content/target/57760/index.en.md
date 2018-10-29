@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: Government sets out vision for post EU trade and customs policy
-
 The government has taken a significant step in preparing to leave the EU by setting out arrangements for post-Brexit trade and customs policy.

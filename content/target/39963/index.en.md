@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Walk, Cycle, Vote (@walkcyclevote) on Twitter
-
 Twitter profile of We Walk, We Cycle, We Vote, a campaign asking all candidates in the 2016 Holyrood elections to pledge to support sustained investment and safe design for walking and cycling in Scotland.

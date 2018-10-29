@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Scottish Shipwrecks
-
 A website and blog providing access to information about shipwrecks located in Scotland, run by maritime history researchers Ian Crawford and Peter Moir.

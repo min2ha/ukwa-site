@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Concatenation Science Communication - Jonathan Cowie
-
 Concatenation Science Communication brings together science & policy, and science & arts (fiction). Specifically UK bioscience agendas and understanding with non-science policy-makers as well as arts stakeholders.  Specialist areas include: Govt investment in science, climate change and energy issues, the use and abuse of science in fiction.

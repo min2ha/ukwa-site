@@ -9483,8 +9483,6 @@
   "endDateText": "31-03-2019"
 }
 
-# Brexit
-
 Brexit is an abbreviation for "British exit," referring to the UK's decision in a June 23rd, 2016 referendum to leave the European Union (EU). This collection was initiated by staff at the Legal Deposit Libraries on 24th June 2016. It includes the websites of think tanks, interest groups, businesses and unions, news outlets, charities, politicians, political commentators, financial organisations. Websites have been selected across the spectrum of politial opinion. 
 
 This collection is divided into sub collections: Blogs and social media; Business & trade unions; Economic impact; Government & UK Parliamentary action; Interest groups; Legislation & legal implications; News and media, Political parties, Research centres & think tanks. 

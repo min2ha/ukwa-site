@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Simon's Parish of Partick
-
 Site of a Scottish Roman Catholic parish church located in Partick, Glasgow.

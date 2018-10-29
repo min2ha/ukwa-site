@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Region Junior Football Association
-
 Pitchero site for the governing body and league organisation of Scottish junior football in the North and North East of Scotland.

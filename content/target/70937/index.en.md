@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# Country Mile Records
-
 Country Mile Records is a small record label based in South Wales.

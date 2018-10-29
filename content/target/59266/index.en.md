@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Campbell Orr : Football's Forgotten Founder
-
 Site of a football history project and book that recounts the life and activities of Campbell Orr, a Scottish pioneer of Association Football.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# North East Essex Liberal Democrats
-
 Website of North East Essex Liberal Democrats, offering information about local and national party policies and campaigns. It also includes contact details of, and information about, Liberal Democrat candidates at local and national elections.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservatives suspend Sir Malcolm Rifkind over cash-for-access claims
-
 None

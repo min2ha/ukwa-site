@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Veterans for Britain (@VeteransBritain) on Twitter
-

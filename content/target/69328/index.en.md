@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Cath Barton, Writer and Photographer
-
 Cath Barton is a Writer and Photographer. Her novella, The Plankton Collector, won the New Welsh Writing Awards AmeriCymru Prize for the Novella 2017 and will be published by New Welsh Review in 2018.

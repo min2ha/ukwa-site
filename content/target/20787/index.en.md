@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bruce Whitehead on Facebook
-
 This is the Facebook page of Bruce Whitehead, the Left Unity candidate for Edinburgh North and Leith in the UK General Election on the 7th May 2015.

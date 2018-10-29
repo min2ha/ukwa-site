@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Geraint Griffiths
-
 Geraint Griffiths has been a singer-songwriter, session musician and recording artist since 1973. He was born in Pontrhydyfen and all his recordings are in the Welsh language.

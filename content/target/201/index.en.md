@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Musgrove Park Hospital 
-
 None

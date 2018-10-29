@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blackpool Football Club
-
 Blackpool Football Club is a professional association football club based in the seaside town of Blackpool, Lancashire, England.

@@ -10,6 +10,4 @@
   "start_date": "2017-12-24T09:00:00Z"
 }
 
-# Rodolfo Walsh's Glasses
-
 Rodolfo Walsh's Glasses is blog written by Leigh Richards of the Socialist Alliance and discusses injustices of the World viewed through the eyes of a Welsh Socialist.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Northern Ireland Polymers Association (NIPA)
-
 Northern Ireland Polymers Association (NIPA): committed to advancing innovation, growth and commercial success for our Members within the polymer sector. 

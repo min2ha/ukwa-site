@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Economist, The: Next stop: Brexit?
-

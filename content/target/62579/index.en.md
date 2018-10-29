@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Football Lads Alliance (FLA)
-
  The FLA is a far right racist street movement in which fascists are organising. Despite its claims not to be racist.

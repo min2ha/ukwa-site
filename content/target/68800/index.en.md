@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Now 18
-
 The Yard presents five weeks of double bills and explosive new work from artists who are making exciting and radical performance right now.

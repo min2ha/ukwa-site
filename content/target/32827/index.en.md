@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Only Boys Aloud
-
 Only Boys Aloud is a choir of young men between the ages of 13 and 19 from across Wales.

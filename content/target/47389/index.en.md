@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Richard Wyn Jones (@RWynJones) on Twitter
-
 Richard Wyn Jones is a Professor of Welsh Politics and Director of the Welsh Governance Centre at Cardiff University.

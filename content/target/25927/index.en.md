@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: EU exit threat makes reforms harder to negotiate
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC:'One in two' young online gamers bullied, report finds
-
 News article referencing a study carried out by an anti-bullying charity that found that 57% of the young people it surveyed had experienced bullying online when playing games

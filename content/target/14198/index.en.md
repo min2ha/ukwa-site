@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# City AM: Scottish independence: What are voters most concerned about (on social media)?
-
 <p>A report published 17 September 2014, based on data from Brandwatch, showing location and terms used in comments on Twitter using the indyref hashtag.</p>

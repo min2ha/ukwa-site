@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# YouGov: Confidence in the government’s handling of Brexit is falling
-
 With the resignations of David Davis and Boris Johnson rocking the government following disagreements over the Brexit deal outlined at Chequers, new YouGov polling revealed the impact the events had in diminishing support for the Conservative party and the Prime Minister.
 

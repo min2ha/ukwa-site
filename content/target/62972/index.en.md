@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Kathryn Edwards, Contemporary Welsh Artist
-
 Kathryn Edwards is a contemporary Welsh Artist from Sirhowy Valley.

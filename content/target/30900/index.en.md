@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Fred MacAulay
-
 Official website of a comedian and presenter Fred MacAulay.

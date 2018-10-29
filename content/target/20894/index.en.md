@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gavin Newlands on Facebook
-
 This is the Facebook page of Gavin Newlands, the Scottish National Party (SNP) candidate for Paisley and Renfrewshire North in the UK General Election on the 7th May 2015.

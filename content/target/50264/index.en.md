@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Stewart Ivory Financial Education Trust (SIFET)
-
 Site of an organisation providing financial education to school children, school leavers and students new to university/college, and their parents.

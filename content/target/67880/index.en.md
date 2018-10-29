@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Dominic Cummings, NHS hero
-
 Credits former Vote Leave director Dominic Cummings with the idea that the payments which Britain makes to the EU could be turned into £350 million a week for the health service.

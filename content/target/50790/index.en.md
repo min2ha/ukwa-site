@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit was an English vote for independence – you can’t begrudge the Scots the same
-

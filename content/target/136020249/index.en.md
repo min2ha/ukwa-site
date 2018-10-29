@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Major Energy Users' Council (MEUC)
-
 None

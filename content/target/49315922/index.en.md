@@ -10,5 +10,3 @@
   "start_date": "2010-07-23T00:00:00Z"
 }
 
-# Tony Jones Roleplaying Page, The
-

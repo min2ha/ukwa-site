@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Theatre Bristol
-
 Theatre Bristol is a laboratory combining collective action for the arts with open, generous, grassroots support. 

@@ -10,6 +10,4 @@
   "start_date": "2012-05-12T00:00:00Z"
 }
 
-# Miles Wynn Cato
-
 Welsh Art

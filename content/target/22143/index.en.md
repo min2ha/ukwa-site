@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ed McRandal (Conservative)
-
 Ed McRandal stood as Conservative candidate for Liverpool West Derby at the 2015 General Election but was not elected.

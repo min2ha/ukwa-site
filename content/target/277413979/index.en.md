@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Centre for Social Research
-
 The website of ScotCen, an integral part of NatCen Social Research, Britain's leading independent social research institute.

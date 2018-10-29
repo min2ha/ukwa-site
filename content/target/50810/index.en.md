@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Dupes DVD & Video
-
 Dupes DVD & Video, based in Belfast, has been involved in video production and tape transfer for more than 25 years. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris O'Hare (chrisohare1500) on Twitter
-
 The twitter profile of runner Chris O'Hare.

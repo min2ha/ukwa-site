@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# IEA Clean Coal Centre (CCC)
-
 None

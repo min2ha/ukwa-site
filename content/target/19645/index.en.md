@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sheffield Conservatives
-
 Website of Sheffield Conservatives, providing information on parliamentary candidates, policies, and local and national news.

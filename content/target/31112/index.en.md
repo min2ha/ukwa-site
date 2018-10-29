@@ -10,6 +10,4 @@
   "start_date": "2015-10-02T10:00:00Z"
 }
 
-# Afasic Scotland | Voice for Life
-
 Promoting the rights, needs and aspirations of children, young people and those of their parents and carers, experiencing speech and language difficulties.

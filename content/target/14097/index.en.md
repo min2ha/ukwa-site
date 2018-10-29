@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# People's Constitution of Scotland, The
-
 None

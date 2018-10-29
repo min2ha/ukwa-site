@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Tamil Diplomat: Labour Party Supports Self-Determination and Referenda for Tamils:Call to Tamil people to Vote for Labour
-

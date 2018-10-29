@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Fine Rolls of Henry III
-
 This project was funded by the Arts and Humanities Research Council, and commenced in 2005, the Project aimed to make the rolls more accessible.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Leadsom for Leader
-
 Andrea Leadsom withdraws from the competition to become Conservative Party leader.

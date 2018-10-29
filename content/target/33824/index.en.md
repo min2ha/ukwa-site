@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Tunbridge Wells Borough Council
-
 Provides information on public services, council policy, strategy and finances, consultations with residents and committee agendas and minutes

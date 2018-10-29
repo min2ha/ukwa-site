@@ -10,6 +10,4 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# University for the Creative Arts
-
 Official website of the University for the Creative Arts, located in Canterbury, Epsom, Farnham and Rochester.

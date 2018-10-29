@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Llangenny Flutes
-
 Llangenny flutes is a residential summer school geld at Llangenny near Crickhowell.

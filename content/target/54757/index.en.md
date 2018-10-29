@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Greyfriars Charteris Centre
-
 Site of a centre for community based on the Pleasance in the Southside/Newington ward of Edinburgh; established within the former Kirk o'Field Church and St Ninians Centre, and is part of the mission outreach of Greyfriars Kirk, but is open to people of all faiths and none.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Parliamentary Office of Science and Technology:  UK Fisheries Management
-
 Following EU withdrawal the UK will have full responsibility for fisheries policy and management within its waters. This POSTnote summarises the science used to inform management, current approaches to EU fisheries, and challenges and opportunities for future UK fisheries management
 

@@ -10,6 +10,4 @@
   "start_date": "2016-03-22T09:00:00Z"
 }
 
-# Live Fear Free Helpline
-
 Live Fear Free is a Welsh Government website, providing information and advice for those suffering with domestic abuse, sexual violence and other forms of violence against women. The website went live on the 1st October 2015  and was formerluy known as the All Wales Domestic Abuse and Sexual Violence Helpline.

@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Artsthread
-
 <p>Artsthread is a social enterprise: an online educational tool designed to connect students, graduates, universities and industry, exclusively within the field of design.</p>

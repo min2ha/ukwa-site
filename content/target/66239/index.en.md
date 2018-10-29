@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Sukkat Shalom Edinburgh Liberal Jewish Community
-
 Site of a liberal Jewish community located in Edinburgh.

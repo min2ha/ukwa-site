@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS South of England Specialised Commissioning Group (SoE SCG) - South West
-
 None

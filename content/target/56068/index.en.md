@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T09:00:00Z"
 }
 
-# British Journal of Photography (BJP)
-
 The British Journal of Photography (BJP) is a magazine about photography, publishing in-depth articles, profiles of photographers, analyses, and technological reviews.

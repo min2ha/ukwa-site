@@ -10,6 +10,4 @@
   "start_date": "2016-04-12T10:00:00Z"
 }
 
-# Visit Angus
-
 Site providing tourist information for the Scottish county of Angus.

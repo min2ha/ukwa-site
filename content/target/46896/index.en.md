@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Academics for Britain in Europe
-
 A group of UK historians, classicists, economists, and linguists who support Britain to remain in the EU

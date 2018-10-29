@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Northwest Zinefest: a zinefest in the northwest!
-
 Presenting details of the Northwest Zinefest

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# ARM-ECS Research Center, University of Southampton
-
 ARM-ECS Research Center was founded in 2008 following successful research collaboration over a number of years between Prof Al-Hashimi's research group and ARM (Cambridge). The centre is based at Electronics and Computer Science (ECS), University of Southampton, but its researchers work at ARM or at ECS with internships at ARM. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# James Kelly MSP (JamesKLabMSP) on Twitter
-
 The twitter profile of James Kelly, Labour and Co-operative Party MSP for Rutherglen.

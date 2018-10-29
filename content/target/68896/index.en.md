@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: Much like Agatha Christie’s Miss Marple, Theresa May was underestimated by Brexiteers at their peril
-
 Salutes Theresa May for her skill in uniting her cabinet around her vision of Brexit at the crunch meeting at Chequers on July 6th 2018.

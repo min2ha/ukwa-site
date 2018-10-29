@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lynne Featherstone MP for Hornsey and Wood Green
-

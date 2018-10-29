@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Meddan's Church
-
 Site of a Church of Scotland parish church at Troon, Ayreshire.

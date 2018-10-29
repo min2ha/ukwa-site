@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hemel Today: Garden designers prepare for sixth year at the Chelsea Flower Show
-

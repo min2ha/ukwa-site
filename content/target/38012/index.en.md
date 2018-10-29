@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Michael Howard reveals 'difficult' conversation with David Cameron over Brexit
-

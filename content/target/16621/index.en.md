@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservatives will win May general election, predicts Goldman Sachs
-
 None

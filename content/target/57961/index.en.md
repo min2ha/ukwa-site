@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Whiff of foreboding about Brexit talks
-
 Argues that the main obstacle to progress in the Brexit negotiations is the UK's refusal to increase its offer to pay 20bn euros to the EU as a financial settlement.

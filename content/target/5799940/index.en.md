@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# Gambia Horse and Donkey Trust
-
 None

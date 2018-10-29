@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Kent Anti-Racism Network / KARN
-
 A coalition of groups in Kent that want to align themselves with an anti-racist and anti-fascist message, founded in 2015.

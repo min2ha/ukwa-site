@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Hafod Mastering 
-
 Hafod is a fully professional mastering studio, based just outside Cardiff.

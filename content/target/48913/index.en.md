@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Halkirk United Football Club on Facebook
-
 Facebook page for a Scottish amateur football club based in Halkirk, Caithness, Highland, Scotland.

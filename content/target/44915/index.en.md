@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Site Gallery
-
 Site Gallery is a international contemporary art space, supporting artists specialising in moving image, new media and performance.  Site Gallery work in partnership with local, regional and international collaborators to nurture artistic talent and support the development of contemporary art.

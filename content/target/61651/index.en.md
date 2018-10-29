@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: "Social media firms failing to protect young people, survey finds"
-
 The Guardian article about social media and cyberbullying

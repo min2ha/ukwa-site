@@ -10,6 +10,4 @@
   "start_date": "2016-11-02T09:00:00Z"
 }
 
-# Leirsinn on Facebook
-
 Leirsinn on Facebook

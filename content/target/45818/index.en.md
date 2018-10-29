@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Buckinghamshire Learning Trust
-
 The purpose of the Trust is to increase the number of schools and settings giving good and better provision to children and young people and to reduce the number of schools and settings falling in Ofsted categories.  

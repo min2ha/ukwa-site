@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bùrach on Facebook
-

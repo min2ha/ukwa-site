@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crewe Alex Ladies FC (@crewealexlfc) on Twitter
-
 The Official Ladies Section of Crewe Alexandra Football Club.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Perthshire Music Festival / Perform in Perth
-
 Perform in Perth is an annual, competitive festival of music, speech and dance based in Perth, Perth & Kinross.

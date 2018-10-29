@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Jeremy Hunt begins tour of European ministers
-
 Jeremy Hunt told the EU it faced a "strategic choice" about whether to strike a mutually beneficial deal with the UK. The foreign secretary was in Helsinki to discuss the UK's Brexit plan at the start of a three-day tour also taking in Latvia, Denmark and the Netherlands.
 
 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# North Mull Parishes
-
 Parish website of the North Mull Parish Churches; Craignure, Dervaig, Salen, and Tobermory. 

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Birds on the Blog
-
 None

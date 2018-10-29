@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# EAS: Engineering Archaeological Services Ltd
-
 Engineering Archaeological Services Ltd was established in 1993 and is a small independent archaeological consultancy based in Blaenau Ffestiniog. 

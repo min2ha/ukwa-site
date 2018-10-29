@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Humanism: 2017 UK General Election
-

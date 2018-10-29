@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Hardline Labour MPs could work with Alex Salmond and the SNP to stop Miliband making ANY spending cuts
-
 None

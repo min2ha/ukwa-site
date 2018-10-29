@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tanya Williams on Facebook (Green Party candidate Twickenham)
-

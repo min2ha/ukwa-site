@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alistair Carmichael (acarmichaelmp) on Twitter
-
 The Twitter profile of Alistair Carmichael, the Liberal Democrats candidate for Orkney and Shetland in the UK General Election on the 7th May 2015.

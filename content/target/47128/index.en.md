@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Movement for the Abolition of War
-
  The Movement for the Abolition of War aims to spread the belief that abolishing war is both desirable and possible.

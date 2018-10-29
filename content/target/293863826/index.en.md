@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: My Local school | Fy Ysgol Lleol
-
 My Local School, is a Welsh Government website designed to open up access to schools data for parents and all others with an interest in their local school.

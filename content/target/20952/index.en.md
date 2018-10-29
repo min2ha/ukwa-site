@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charles Kennedy on Facebook
-
 This is the Facebook page of Charles Kennedy, who was the Liberal Democrats candidate for Ross, Skye and Lochaber in the UK General Election on the 7th May 2015.

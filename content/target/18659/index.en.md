@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Magna carta, feudal devolution and Lord Elis-Thomas
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Star & Crescent
-
 Star & Crescent is an independent news, culture and commentary website focusing on the city of Portsmouth.

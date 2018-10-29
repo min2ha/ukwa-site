@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Parish of Chepstow, Caldicot & Magor, The
-

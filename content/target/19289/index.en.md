@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# New Statesman: Tom Holland on our island story: what England and Scotland share politically and morally
-

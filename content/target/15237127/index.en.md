@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Public Relations Consultant Blog
-

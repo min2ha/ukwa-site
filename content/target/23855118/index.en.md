@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Bankruptcy Advisory Service Ltd, The
-

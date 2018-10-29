@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# War Child 
-
 To protect, educate and stand up for the rights of children caught up in war. 

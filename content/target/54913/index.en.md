@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ballater Walking Festival
-
 Site of an annual festival of hill walking starting at Ballater, Deeside, Aberdeenshire.

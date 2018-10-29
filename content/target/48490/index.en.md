@@ -11,8 +11,6 @@
   "subject": "British Overseas Territories"
 }
 
-# South Georgia Heritage Trust  
-
 The South Georgia Heritage Trust (SGHT) was established in 2005 to raise funds to support its two primary purposes:
 
 To help efforts to conserve and protect those species of indigenous fauna and flora that breed and grow on South Georgia or in the surrounding seas and to raise awareness of South Georgia’s threatened species.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Bòrd na Gàidhlig on Facebook
-
 Bòrd na Gàidhlig works to promote Gaelic, and strives to improve the status of the language throughout Scotland. This is the organisation's official Facebook page.

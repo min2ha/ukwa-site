@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  BallynahinchRabbitoh (@RabbitohsNI) on Twitter 
-
 Welcome to the Ballynahinch Rabbitohs Twitter page. We are the current Northern Ireland Rugby League champions, having won our league 2009-2016!

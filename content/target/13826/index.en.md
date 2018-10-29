@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# theimpressionist (theimpresionist) on Twitter
-

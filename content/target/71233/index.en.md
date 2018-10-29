@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Suffolk Festival of Performing Arts
-
 Website for the Suffolk Festival of Performing Arts.

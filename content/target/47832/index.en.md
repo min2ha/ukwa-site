@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee:  Oral evidence: The UK's negotiating objectives for its withdrawal from EU, HC 815
-
 Transcript of oral evidence on Britain's negotiating stance for EU withdrawal given by David Davis, Secretary of State for Exiting the EU.

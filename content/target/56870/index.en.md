@@ -10,6 +10,4 @@
   "start_date": "2017-08-29T09:00:00Z"
 }
 
-# Fife Dunfermline Printmakers Workshop
-
 Site of a print making cooperative located in Dunfermline, Fife.

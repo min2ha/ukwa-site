@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Abergavenny Artists
-
 Abergavenny Artists promotes the art work of local artists both professional and amateur in Abergavenny and its surrounding areas. 

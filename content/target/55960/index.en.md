@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Buses 
-
 A bus enthusiasts' web site providing unofficial information on bus operations within the United Kingdom.

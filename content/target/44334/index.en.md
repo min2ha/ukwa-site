@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit won't free UK from paying for botched EU farming subsidies, warn audit office
-
 Guardian, The

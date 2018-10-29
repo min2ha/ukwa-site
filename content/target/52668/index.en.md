@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Ursula Martinez
-
 Ursula Martinez is a London based writer, performer and cult cabaret diva. She studied theatre at Lancaster University and began her career in experimental theatre.

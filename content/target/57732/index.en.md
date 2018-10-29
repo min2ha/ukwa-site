@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Parrot Club UK
-
 An online enthusiast community concerned with keeping parrots. Discusses health, housing, food and diet, feathers and grooming, photo competitions, lost  and found parrots and various other related topics.

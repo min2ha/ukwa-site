@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on leaving Europe: ending a marriage of inconvenience
-

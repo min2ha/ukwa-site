@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Kirkintilloch and District Society of Antiquaries
-

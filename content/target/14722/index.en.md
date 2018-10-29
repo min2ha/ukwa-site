@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# E-International Relations: Anarchy in the UK? Debating the Scottish Referendum Aftermath: Part 1
-
 None

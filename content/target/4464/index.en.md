@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BBC News: Scotland's Future
-
 None

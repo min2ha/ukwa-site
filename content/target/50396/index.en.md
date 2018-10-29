@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-#  BBC News: What might a post-Brexit EU look like?
-
 Think piece speculates on the future of the European Union after Brexit. The most likely outcome is a mukti-speed Europe. That's the idea that "coalitions of the willing" can move forward on big projects even if others want to linger on the starting line.

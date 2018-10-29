@@ -11,6 +11,4 @@
   "subject": "SmashFest UK"
 }
 
-# Kino Digital
-
 Kino Digital is a local cinema in Kent which not only screens major releases but hosts "Ballet at Kino", "Opera at Kino", National Theatre productions and Shakespeare. Nominated by a Smashfest 2015 visitor, who commented:We like to see what films are showing in our local independent cinema, its a nice treat to go to this place at the weekends so the website must be saved!

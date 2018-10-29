@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# British Educational Travel Association (BETA)
-
 BETA: the travel industry network for youth, student and educational travel professionals from all over the world.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Oliver Bullough
-
 Oliver Bullough is the author of two books about Russian history and politics: The Last Man in Russia, and Let Our Fame Be Great. He also write book reviews, journalism and comment pieces, for publications including The Independent, the Guardian, Foreign Affairs, Open Democracy and the New Statesman.

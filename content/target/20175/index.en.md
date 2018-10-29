@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guy Martin Smith - Green Party Candidate for Llanelli May 2015 on Facebook
-
 Green Party Candidate for Llanelli

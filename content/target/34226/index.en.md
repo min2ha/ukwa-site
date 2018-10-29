@@ -10,6 +10,4 @@
   "start_date": "2016-01-21T09:00:00Z"
 }
 
-# Arrastoneglade
-
 Blog of an artist Arra Stoneglade.

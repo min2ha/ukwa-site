@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour: Conservatives have caused primary school place crisis
-
 None

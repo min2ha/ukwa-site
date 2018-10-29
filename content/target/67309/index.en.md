@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Michelle Ballantyne | MSP for South Scotland
-
 Michelle Ballantyne is Scottish Conservative Member of the Scottish Parliament (MSP) for the South Scotland constituency.

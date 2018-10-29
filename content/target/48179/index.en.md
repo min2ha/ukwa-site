@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Law Society The: Law Society Blog - Brexit
-

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# FarRightWatchWales (@NoToHateInWales) on Twitter 
-
 FarRightWatchWales is a group fighting hate speech, Ukip, Far Right, Fascist & Neo Nazi Groups in Wales. 

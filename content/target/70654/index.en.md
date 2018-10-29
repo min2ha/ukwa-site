@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# ART-VIC
-
 ART-VIC was founded in 1996 as a sequel of “Victor Sobchak’s Experimental Theatre” (USSR 1987-1992).

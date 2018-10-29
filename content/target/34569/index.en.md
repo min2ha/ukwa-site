@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Maureen Watt MSP
-
 Marueen Watt is Scottish national Party member of the Scottish Parliament for Aberdeen South and North Kincardine.

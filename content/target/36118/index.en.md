@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The:We'll thrive out of the EU, says bank chief: Lloyds boss gives vote of confidence to a Brexit... and he's from Portugal   
-

@@ -10,6 +10,4 @@
   "start_date": "2015-11-09T09:00:00Z"
 }
 
-# Edzard Ernst 
-
 Blog of Prof Edzard Ernst, a retired scientist, who devotes this blog to analysing studies in evaluation of all aspects of alternative medicine. 

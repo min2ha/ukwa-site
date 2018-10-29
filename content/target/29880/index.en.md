@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# C venues on Facebook
-
 Facebook page of C venues, a collection of entertainment venues at Edinburgh's Fringe Festival.

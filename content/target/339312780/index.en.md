@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# John Harrison Travel and Fiction Writer
-
 John Harrison is a travel and fiction writer and Wales Book of the Year winner in 2011 and 2013.

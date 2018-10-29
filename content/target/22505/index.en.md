@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Leaders' debate 2015: Their strengths, weaknesses and odds of winning
-
 None

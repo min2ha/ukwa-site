@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emma Farthing-Sykes on Facebook
-
 This is the Facebook page of Emma Farthing-Sykes, the Liberal Democrats candidate for Linlithgow and East Falkirk in the UK General Election on the 7th May 2015 and Edinburgh Pentlands in the 2016 Scottish Parliamentary election.

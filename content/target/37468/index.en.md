@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LSE (London School of Economics and Political Science): Don’t know (where the women are): Why the EU referendum campaigns haven’t engaged female voters
-
 A study about how many women have not yet made up their minds how to vote in the referendum, and a discussion of the male-dominated Leave and Remain campaigns are failing to engage female voters

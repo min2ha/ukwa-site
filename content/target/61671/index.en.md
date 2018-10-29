@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fact Mag: “The internet is a devastating wasteland”: How social media could be making musicians sick
-
 Fact Mag article about the internet, mental health and musicians 

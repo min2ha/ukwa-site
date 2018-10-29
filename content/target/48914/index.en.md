@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Malinky
-
 Site of a Scottish music group specialiasing in Scottish folk / traditional songs.

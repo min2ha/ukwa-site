@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Faten Hameed (@FatenH4Labour) on Twitter
-
 Twitter profile of Faten Hameed, Scottish Labour candidate for Glasgow Central in the 2017 general election.

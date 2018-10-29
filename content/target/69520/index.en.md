@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  St. Andrew's Cathedral, Glasgow
-
 Site of a Scottish Roman Catholic cathedral church located in Glasgow.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Radyr
-
 The Parish of Radyr is in the Diocese of Llandaff.

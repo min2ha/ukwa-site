@@ -10,5 +10,3 @@
   "start_date": "2016-05-10T16:00:00Z"
 }
 
-# Comisiynydd Heddlu a Throseddu Dyfed-Powys | Dyfed-Powys Police and Crime Commissioner
-

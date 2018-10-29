@@ -10,6 +10,4 @@
   "start_date": "2017-01-27T09:00:00Z"
 }
 
-# TV Bomb
-
 An online arts & culture magazine for Scotland.

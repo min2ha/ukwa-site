@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexiteers are playing 'Russian Roulette' by trying to kill off PM's Chequers plan and could trigger the UK's most serious crisis in CENTURIES, William Hague warns
-

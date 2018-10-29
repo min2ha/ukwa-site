@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christ the King Howwood & Our Lady of Fatima Lochwinnoch on Facebook
-
 Facebook page of two Roman Catholic parish churches in Scotland for the parishes of Christ the King, Howwood and Our Lady of Fatima, Lochwinnoch in Renfrewshire.

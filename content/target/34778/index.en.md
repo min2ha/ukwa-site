@@ -10,6 +10,4 @@
   "start_date": "2016-01-29T09:00:00Z"
 }
 
-# Dictionary of Scottish Architects
-
 Database of Scottish Architects and their buildings

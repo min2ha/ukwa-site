@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Caitlin McClatchey (CaitMcClatchey) on Twitter
-
 <p>The official twitter profile of athlete Caitlin McClatchey, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth games.</p>

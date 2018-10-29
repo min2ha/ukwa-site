@@ -10,5 +10,3 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Pentreffest : encouraging traditional European music and dance in Wales 
-

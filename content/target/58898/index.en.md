@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Health Challenge Caerphilly County Borough | Her Iechyd bwrdeistref Sirol Caerffili
-
 Health Challenge Caerphilly county borough provides support to residents to make small and inexpensive changes to their daily routine leading to a healthier lifestyle.

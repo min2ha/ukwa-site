@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# BAE Systems plc
-
 BAE Systems plc is a British multinational defence, security and aerospace company, with operations worldwide. It is among the world's largest defence contractors.

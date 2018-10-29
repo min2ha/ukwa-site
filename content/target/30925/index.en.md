@@ -10,6 +10,4 @@
   "start_date": "2015-09-30T10:00:00Z"
 }
 
-# Jigthings
-
 Jigthings sells jigsaw puzzle accessories - items such as puzzle boards, puzzle cases, puzzle frames and puzzle storage equipment. 

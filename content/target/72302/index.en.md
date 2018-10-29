@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Oasis Christian Centre
-
 Site of an Elim Pentecostal church (Christian) located in Livingston, West Lothian.

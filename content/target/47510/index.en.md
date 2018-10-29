@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Mountaineering Council of Scotland
-
 Site of a representative organisation for hill walkers, climbers, mountaineers and ski-tourers who live in Scotland or who enjoy Scotland’s mountains, and acts to represent, support and promote Scottish mountaineering.

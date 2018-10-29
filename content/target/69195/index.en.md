@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Leeds Festival
-
 Website for Leeds Festival 2018

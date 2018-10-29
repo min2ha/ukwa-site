@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-#  Ana B - Stories
-
 Ana M. Beltschewa is a writer based in London, this is her personal website.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Get Surrey: Deadline to arrange Magna Carta 800th anniversary events 'achievable but tight'
-

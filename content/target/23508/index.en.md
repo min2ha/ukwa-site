@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Martin Corney on Facebook (Green Party Candidate for South East Cornwall) 
-

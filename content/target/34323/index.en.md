@@ -10,6 +10,4 @@
   "start_date": "2016-01-22T09:00:00Z"
 }
 
-# Newport Kutaisi Twinning Association
-
 Newport and Kutaisi in Georgia twinning agreement was established in 1989. 

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Londonist: Stephen Hawking
-
 The latest news in London, what's on and events, the best London food and pubs, history and trivia, what's free and cheap in London. These are the article related to Stephen Hawking.

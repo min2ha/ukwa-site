@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Wisbech & District Conservatives
-
 Website of Wisbech & District Conservatives, providing information on branch meetings and events, general election campaign and local and national news and opinion.

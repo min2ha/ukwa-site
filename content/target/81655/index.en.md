@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Realigning Children's Services
-
 An information site for the Scottish Government's Realigning Children’s Services Programme.

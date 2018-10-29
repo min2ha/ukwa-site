@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Whitechapel Mission, The
-
 None

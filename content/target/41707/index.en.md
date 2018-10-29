@@ -11,8 +11,6 @@
   "subject": "EU Referendum"
 }
 
-# Confederation of British Industriy (CBI): "BREXIT the business view"
-
 Lecture at London Business School
 Monday 21st March 2016
 Carolyn Fairbairn, CBI Director-General

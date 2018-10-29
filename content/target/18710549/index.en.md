@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Current Awareness from the Inner Temple Library
-
 None

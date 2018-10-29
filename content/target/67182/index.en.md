@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Winding Snake Productions
-
 Winding Snake are a not-for-profit animation and media education organisation based at Chapter Arts Centre, Cardiff.

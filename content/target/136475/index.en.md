@@ -10,5 +10,3 @@
   "start_date": "2006-06-21T00:00:00Z"
 }
 
-# Working Balance
-

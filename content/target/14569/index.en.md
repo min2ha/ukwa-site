@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# .Wales | Our home online
-
 <p>This is the offical nominet website for policy information relating to .cymru .wales domain names.</p>

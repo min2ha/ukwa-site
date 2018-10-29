@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Finnie
-
 John Finnie is the Scottish Green Party MSP for Highlands and Islands region.

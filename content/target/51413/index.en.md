@@ -10,8 +10,6 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# British Guild of Tourist Guides
-
 The Guild is the national professional association for Blue Badge Tourist Guides working throughout the British Isles, including the Isle of Man and Jersey.
 
 With around 800 full members and a network of regional and local associations with nearly 1,000 members holding group membership, the Guild represents around 1,800 guides. Its members offer guiding in 34 different languages. They are listed in the Guide Search facillity.

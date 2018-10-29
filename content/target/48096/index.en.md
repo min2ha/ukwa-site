@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Action for Rail 
-
 Action for Rail is the TUC and rail industry trade union led campaign that fights cuts to jobs and services and campaigns for a national integrated railway under public ownership. 

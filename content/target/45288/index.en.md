@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T11:00:00Z"
 }
 
-# Huw Alden Davies
-
 Huw Alden Davies is a documentary photographer, and exhibiting artist.

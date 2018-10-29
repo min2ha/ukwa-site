@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bognor Regis Observer
-
 None

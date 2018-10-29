@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Coventry Welsh RFC
-
 A friendly rugby club based in Burbages Lane, Exhall, Coventry. 

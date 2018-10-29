@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BlogMenai.com
-
 This Welsh language blog is run by Cai Larsen. It contains 'objective analysis' and a bit of propaganda from a Plaid Cymru member in north Wales.

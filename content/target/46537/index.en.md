@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# New Statesman: Nick Clegg: will Brexit help him go from political Judas to comeback kid?
-
 The former deputy prime minister Nick Clegg is playing a central role in the campaign to force a vote on the government's Brexit plans.

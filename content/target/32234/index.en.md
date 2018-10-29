@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Co-Creating Healthy Change
-
 Funded by Big Lottery, Co-Creating Healthy Change is led by Cardiff Third Sector Council. It is a portfolio of ten projects that will increase the voice of local people in shaping health and well-being services and their delivery.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dundee Solidarity (@solidarityDunD) on Twitter
-
 Twitter profile of the Dundee branch of Solidarity: Scotland's Socialist Movement.

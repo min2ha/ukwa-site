@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Index on Censorship: Winter 2014: Drafting freedom to last 
-

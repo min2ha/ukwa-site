@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Sandwell and West Birmingham CCG
-
 None

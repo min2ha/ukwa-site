@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# UK Spa Association (SPA-UK) 
-
 The UK Spa Association (SPA-UK) supports and advances the spa industry and its employees, representing the entire sector with one voice.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wales Online: David Cameron had a lot of reasons why Wales should stay in the EU in his speech today
-
 David Cameron gave a speech in Wales saying why we should remain in the EU. Cameron said the future in the EU is 'open, dynamic, confident, successful' but if we leave the EU the future is expensive and risky.

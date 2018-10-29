@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# North East Lincolnshire Women's Aid
-
 North East Lincolnshire Women's Aid is a registered charity that provides many services to victims and survivors of domestic abuse in N E Lincs - victims can be women, men and children.

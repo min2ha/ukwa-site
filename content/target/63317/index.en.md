@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# The Beaumaris Food Festival
-
 The Beaumaris Food Festival was set up to support the Canolfan (local leisure centre), which is a central hub for our community,  as well as other local charities and groups.

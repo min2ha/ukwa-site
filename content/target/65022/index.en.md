@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Raphael Samuel History Centre
-
 The Raphael Samuel History Centre is devoted to encouraging the widest possible participation in historical study and debate. It is an outreach and research centre supported by a two-way partnership between Birkbeck and Queen Mary, and is dedicated to exploring public, interdisciplinary, and experimental history across periods and regions.  Named after the historian Raphael Samuel, it also maintains an interest in London history and history from below.

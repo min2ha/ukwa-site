@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Comhairle nan Eilean Siar
-
 <p>The website of Comhairle nan Eilean Siar, the Western Isles Council.</p>

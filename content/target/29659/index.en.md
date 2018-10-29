@@ -10,6 +10,4 @@
   "start_date": "2015-08-08T10:00:00Z"
 }
 
-# 1st Claygate Scout Group
-
 This site represents Scouting in Claygate which has been continuous since 1909 and is the largest Scout Group in the County of Surrey (2014-15) and the 9th largest in the UK. It also has very strong and active Grade A Band section which has its own section of the Group Web Site.

@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# University of Sheffield, The: News Releases: Latest stories
-
 <p>Latest news from the University of Sheffield.</p>

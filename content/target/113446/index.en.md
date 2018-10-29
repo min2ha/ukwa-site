@@ -10,5 +10,3 @@
   "start_date": "2005-09-09T00:00:00Z"
 }
 
-# Medical Foundation for AIDS & Sexual Health (MedFash)
-

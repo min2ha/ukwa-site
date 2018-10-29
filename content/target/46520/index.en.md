@@ -10,6 +10,4 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Llanyrafon Manor Rural Heritage Centre
-
 Llanyrafon Manor Rural Heritage Centre is a 17th Century manor house and one of the few historic buildings to be found in Cwmbran.

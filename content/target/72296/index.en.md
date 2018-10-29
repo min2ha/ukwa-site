@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'Abba think Brexit is a disaster': EU chief mocks May for boogying at Tory conference after she vows Britain WILL leave without a deal if Brussels won't compromise
-
 Guy Verhofstadt, the European Parliament's chief negotiator,  mocked Theresa May for boogying on stage to Abba at her crunch Tory party conference speech in 2018
 

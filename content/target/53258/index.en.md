@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dr Philippa Whitford (@Dr_PhilippaW) on Twitter
-
 Twitter profile of Dr Philippa Whitford, Scottish National Party candidate for Central Ayrshire in the 2017 general election.

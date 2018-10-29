@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# IT PRO: "Social media 'as dangerous as obesity' claims Hunt"
-
 IT PRO article about dangers of social media 

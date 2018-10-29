@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit has given voice to racism – and too many are complicit
-
 Miqdaad Versi believes that politicians and the media are fuelling the rise in racism since the EU referendum.

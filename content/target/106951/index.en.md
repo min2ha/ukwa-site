@@ -11,5 +11,3 @@
   "subject": "UK General Election 2005"
 }
 
-# Information Centre about Asylum and Refugees
-

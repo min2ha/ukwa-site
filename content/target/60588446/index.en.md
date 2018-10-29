@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# London Lives 1690 to 1800
-
 London Lives 1690 to 1800 is a fully searchable edition of 240,000 manuscripts from eight archives and fifteen datasets, giving access to 3.35 million names.

@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Yr Aflonyddwch Mawr
-
 This is a blog from the Welsh Socialist Republican Movement.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Wick St. Fergus Church
-
 Site of a Church of Scotland parish church in Wick, Caithness / Highlands.

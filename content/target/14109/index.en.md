@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Independence And Russian Submarine Invasion: Business Insider
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# MHFA England (@mhfaengland) on Instagram
-
 Mental Health First Aid England is an Instagram account aimed at raising awareness about mental health.

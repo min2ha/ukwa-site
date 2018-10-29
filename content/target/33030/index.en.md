@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# JasonSlater.com
-
 Jason Slater’s technology blog focuses largely on products, and contains reviews as well as advice and guidelines for best practice.

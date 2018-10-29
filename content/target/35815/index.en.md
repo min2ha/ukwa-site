@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Eutopia Law: Plus ça change: the legal implications of remaining within the EU
-
 Whilst much legal ink has been spilt on the legal implications of the UK leaving the EU (aka Brexit), remaining a member of the EU will have legal implications too. The EU referendum, currently expected to be held on 23 June 2016, will offer the UK electorate a choice between remaining within the EU on the basis of a “new settlement” hurriedly being negotiated between the UK and the 27 other EU member states, and leaving the EU forever.

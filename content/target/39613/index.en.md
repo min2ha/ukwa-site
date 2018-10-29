@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Swinney SNP on Facebook
-
 Facebook page of John Swinney, Scottish National Party candidate for Perthshire North in the 2016 Scottish Parliamentary election.

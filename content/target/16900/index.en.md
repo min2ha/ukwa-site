@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Action with Communities in Rural England (ACRE): Our manifesto
-
 ACRE (Action with Communities in Rural England) is the national body for the 38 rural community councils who make up the ACRE Network.

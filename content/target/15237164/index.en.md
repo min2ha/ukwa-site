@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# BioImages - Virtual Field-Guide (UK)
-
 None

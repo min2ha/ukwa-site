@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Guildhall School of Music & Drama
-
 Official website of the Guildhall School of Music & Drama, London.

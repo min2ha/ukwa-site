@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Durham Federation
-
 The Durham Federation is a hard federation between Fyndoune Community College and Durham Community Business College

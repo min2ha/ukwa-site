@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# ShareAction: The movement for Responsible Investment 
-
 ShareAction is a charity that promotes responsible investment by pension funds and fund managers. It defines ‘responsible investment’ in terms of transparency to, and engagement with, shareholders and through calling to account business practices seen as negligent or harmful to people or the environment. Their website provides access to briefings and best practice guides for fund trustees. 

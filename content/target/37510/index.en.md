@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Pool, The: Women and the Brexit: what has gender got to do with it? 
-
 Gender Parity in the Uk and the Eu and women's involvementi in Brexit

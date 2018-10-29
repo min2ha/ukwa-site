@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Chloë Holt
-
 Chloë Holt is a former winner of the Kyffin Williams Drawing Prize and was elected as one of the youngest ever members of the RCA, the Royal Cambrian Academy. According to her artist statement, she is 'Inspired by the ability to describe and communicate experiences through paint'.

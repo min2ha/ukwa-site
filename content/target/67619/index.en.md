@@ -10,5 +10,3 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Scottish Fire and Rescue Service (@fire_scot) on Twitter
-

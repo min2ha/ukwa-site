@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Crouch End Comedy Festival
-
 Website for the Crouch End Comedy Festival.

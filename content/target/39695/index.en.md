@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Andrew Morrison on Facebook
-
 Facebook profile of Andrew Morrison, Conservative candidate for Uddingston and Bellshill in the 2016 Scottish Parliamentary election.

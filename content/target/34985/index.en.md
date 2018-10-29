@@ -10,6 +10,4 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Real Tennis Society, The
-
 The Real Tennis Society was established in 2012 its website is crucial to keeping information alive about the cultural history of this sport.

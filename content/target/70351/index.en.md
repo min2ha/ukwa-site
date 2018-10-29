@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret's RC Church, Davidsons Mains
-
 Site of a Scottish Roman Catholic parish church in Davidsons Mains, Edinburgh.

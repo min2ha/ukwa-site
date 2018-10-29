@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kent Labour Forum (@kentlabour) on Twitter
-
 The Twitter account of Kent Labour represents all Kent Constituency Labour Parties on County matters.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Chris Grayling calls EU 'disastrous' for Britain in clearest signal yet he plans to back Leave campaign
-

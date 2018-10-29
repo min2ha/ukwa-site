@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Whitchurch and Tongwynlais Festival
-

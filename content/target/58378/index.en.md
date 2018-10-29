@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Guilty Feminist, The 
-
 A podcast hosted by comedian Deborah Frances-White. Guest speakers discuss a range of issues.

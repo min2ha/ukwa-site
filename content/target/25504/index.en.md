@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tories’ wobble shows they don’t know how to fight Ed Miliband
-
 None

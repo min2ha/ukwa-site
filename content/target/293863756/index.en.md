@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanes Llandysul a'r Fro | Llandysul and District Local History Society
-

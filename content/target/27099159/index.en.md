@@ -10,5 +10,3 @@
   "start_date": "2009-02-17T00:00:00Z"
 }
 
-# Crime Files International
-

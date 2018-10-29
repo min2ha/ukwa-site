@@ -10,7 +10,5 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Birmingham and Midland Society for Genealogy and Heraldry
-
 The Birmingham and Midland Society for Genealogy and Heraldry is the principal family history society for the counties of 
 Staffordshire, Warwickshire and Worcestershire.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Allen & Overy: Legislating for Brexit – the UK Government’s EU Withdrawal Bill
-
 The Great Repeal Bill, the UK Government’s draft legislation to implement in domestic law the UK’s departure from the EU, has been published. In this paper, we consider whether the Bill (now known as the European Union (Withdrawal) Bill) is the correct way to legislate for Brexit and whether it achieves the UK Government’s key overarching aim – that of maintaining legal certainty and continuity.
 

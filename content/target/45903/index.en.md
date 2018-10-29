@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T10:00:00Z"
 }
 
-# Superfoods Wholesale
-
 Alara is a company dedicated to quality and sustainability. They have been trading since 1975 and have changed to suit the evolving market. 

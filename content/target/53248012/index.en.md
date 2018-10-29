@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Welsh Festival of the Horse
-

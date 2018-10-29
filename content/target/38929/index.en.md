@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Royal College of Midwives Manifesto: National Assembly for Wales elections 2016
-

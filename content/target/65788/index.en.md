@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Opinion Scotland had to reject the EU withdrawal bill. It was a power grab
-

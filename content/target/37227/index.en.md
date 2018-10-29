@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cherwell, The: Results of Cherwell Poll whether to remain or leave, and discussion of university-based campaigns 
-
 Cherwell survey shows 80 per cent of Oxford students want Britain to remain in the European Union. Aside from the national campaigns, a number of university-based campaigns have recently launched in Oxford, with strong opinions on both sides. 

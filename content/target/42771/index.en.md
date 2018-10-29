@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Squattastic
-
 Squattastic is a loose network of squatters and squat-supporters that was started in London in 2010 and campaigns against government legislation on squatting.

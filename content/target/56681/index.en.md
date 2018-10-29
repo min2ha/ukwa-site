@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Castleton Historical Society (CHS)
-
 CHS was founded in 1973 and became a registered charity in 1984. It is a membership society, providing a programme of events and undertaking research into the history of the Parish of Castleton. CHS is also responsible for The Castleton Museum, an accredited museum housed at Castleton Visitor Centre, Buxton Rd. The Centre is a joint partnership between The Peak District National Park Authority and CHS.

@@ -10,5 +10,3 @@
   "start_date": "2009-01-14T00:00:00Z"
 }
 
-# Adnabod Ardudwy - Knowing Ardudwy
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tories take lead over Labour in new Lord Ashcroft poll
-
 None

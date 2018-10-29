@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lisburn Rangers Football Club
-
 The official website of Lisburn Rangers Football Club. Lisburn Rangers are a Northern Irish football club playing in the Premier Division of the Northern Amateur Football League. The Lisburn club has been a member of the Amateur League since 1963.

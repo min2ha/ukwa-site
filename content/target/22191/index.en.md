@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Edinburgh Conservatives and Unionists
-
 Website of Edinburgh Conservatives and Unionists, providing information on city councillors, MEPs, MSPs and Parliamentary candidates, events and local and national news.

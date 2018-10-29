@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Education Policy Institute: Social media and children's mental health: a review of the evidence
-
 Report by the Education Policy Institute investigating what is known so far about the relationship between young people’s use of social media and their emotional and mental wellbeing

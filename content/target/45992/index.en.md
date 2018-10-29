@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Visit My Farm
-
 Visit My Farm is an organisation for farmers looking for help about educational visits to farms and the countryside. 

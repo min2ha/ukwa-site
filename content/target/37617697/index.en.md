@@ -10,5 +10,3 @@
   "start_date": "2010-03-15T00:00:00Z"
 }
 
-# Amser Justin Time - The Pancreatic Cancer Charity for Wales
-

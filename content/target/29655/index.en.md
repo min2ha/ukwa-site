@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sentinel Poetry Movement: Sentinel Literature Festival
-
 Festival is a biennial event run by Sentinel Poetry Movement

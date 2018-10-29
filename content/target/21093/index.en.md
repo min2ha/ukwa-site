@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Gethins on Facebook
-
 This is the Facebook page of Stephen Gethins, the Scottish National Party (SNP) candidate for North East Fife in the UK General Election on the 7th May 2015.

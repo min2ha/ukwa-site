@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Secretary of State: Statement following negotiation round Thursday 26 July
-

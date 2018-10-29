@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newark Rugby Club (@newarkrufc) on Twitter
-
 The official Twitter account of Newark Rugby Union Football Club.

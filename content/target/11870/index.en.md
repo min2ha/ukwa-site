@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Running Guide
-
 <p>Magazine website containing general news and advice on running in Scotland.</p>

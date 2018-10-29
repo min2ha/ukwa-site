@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# St Andrew's Stadium
-
 St Andrew's is an association football stadium in the Bordesley district of Birmingham, England. It has been the home ground of Birmingham City Football Club for more than a century.

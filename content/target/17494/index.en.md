@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view on the new electoral landscape: the stakes could hardly be higher
-
 None

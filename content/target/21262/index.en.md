@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Carrie (@CarrieAHarper) on Twitter 
-
 Carrie Harper is the Plaid Cymru candidate for Wrexham at the 2015 and 2017 General Election and 2016 National Assembly for Wales election. 

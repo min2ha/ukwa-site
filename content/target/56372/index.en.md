@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# Bird ringing in Pembrokeshire
-
 The blog provides research and news from bird ringers and ring recorders in Pembrokeshire. The blog was founded in 2012.

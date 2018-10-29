@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband offers a bleak vision of Britain without him in final pitch to voters
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson challenged over Brexit business 'expletive'
-
 Asked about corporate concerns over a so-called hard Brexit, at an event for EU diplomats in London, Mr Johnson was reported to have replied: "Fuck business.

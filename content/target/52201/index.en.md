@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Rubislaw Parish Church 
-
 Rubislaw Parish Church  is a Church of Scotland Parish in Aberdeen. 

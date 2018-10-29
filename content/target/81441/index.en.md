@@ -10,5 +10,3 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Raik by Aitch Giles
-

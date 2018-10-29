@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mayor of London: Mayor Sadiq Khan launches #LondonIsOpen campaign 
-
 The Mayor of London, Sadiq Khan, launches a major campaign to show that London is united and open for business and to the world following the EU referendum.

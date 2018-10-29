@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Live
-
 This is a project to publish original documents relating to the Easter Rising, such as letters, telegraphs and police call records from April 1916, exactly 100 years after they were created via the blog and the @live1916 Twitter feed.

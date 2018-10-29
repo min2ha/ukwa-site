@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Post-election policy shakeup seen as biggest threat to business by bosses
-
 None

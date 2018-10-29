@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Subatomic Poetry
-
 None

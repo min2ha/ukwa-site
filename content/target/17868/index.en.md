@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour to cut university tuition fees by up to £3,000 a year with tax raid on pensions
-
 None

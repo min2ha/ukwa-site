@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Queen's Park Football Club
-
 Site of a senior Scottish football club based in Glasgow.

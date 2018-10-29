@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# End of the Road 2019
-
 Website for the End of the Road 2019 festival. 

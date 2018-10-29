@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Lodge Water of Leith No. 1267
-
 Site of a masonic lodge located in Edinburgh and affiliated with the Grand Lodge of Scotland.

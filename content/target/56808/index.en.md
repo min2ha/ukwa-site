@@ -10,5 +10,3 @@
   "start_date": "2017-08-24T09:00:00Z"
 }
 
-# Sioe Vale of Clettwr Hunt Show
-

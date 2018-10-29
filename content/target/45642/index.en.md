@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Fuck Parade London
-
 The London Fuck Parade began as a “Fuck you” to property developers who had introduced “Poor doors” into one of their shiny new blocks of apartments in Aldgate on the edge of London’s East End. As the movement grew, the organisation expanded to protest against the closure of markets in Camden and later perceived gentrification of London in general. 

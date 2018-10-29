@@ -11,5 +11,3 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# Guardian, The: 70th Anniversary of VE Day in pictures
-

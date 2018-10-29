@@ -10,6 +10,4 @@
   "start_date": "2016-07-01T10:00:00Z"
 }
 
-# East Finchley Community Trust (EFCT) 
-
 East Finchley Community Trust (EFCT) was established in September 2010 to support the substantial amount of voluntary activity in the area undertaken by a wide range of community organisations.

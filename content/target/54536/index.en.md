@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Book Trade Charity, The 
-
 The Book Trade Charity (BTBS) was established in 1837 to help those in need within the Book Trade. Over 175 years later we are still helping those in need both through our Grants and Housing.

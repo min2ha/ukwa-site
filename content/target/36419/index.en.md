@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE South Scotland (@rise_southscotland) • Instagram photos and videos
-
 Instagram account belonging to RISE South Scotland group of candidates in Scottish Parliament election.

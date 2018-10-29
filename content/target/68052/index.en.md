@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NottinghamCasualsRFC (@NottmCasualsRFC) on Twitter
-
 The official Twitter account of Nottingham Casuals Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bill Mair (@Filosofo1961) on Twitter
-
 Twitter profile of Bill Mair, Solidarity Scotland candidate for the Mid Scotland and Fife regional list in the 2016 Scottish Parliament election.

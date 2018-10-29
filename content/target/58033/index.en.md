@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Scout Forum UK
-
 An online enthusiast community concerned with scouting. Discusses programme planning, outdoor activities and camping, scout management systems and various related topics.

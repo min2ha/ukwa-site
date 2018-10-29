@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Davies (@davidtcdavies) on Twitter
-
 Conservative Parliamentary Candidate for the Monmouth constituency.

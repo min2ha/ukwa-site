@@ -10,6 +10,4 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# Ffermio 
-
 Ffermio is a country and farming television programme which includes features on all aspects of agriculture and rural life. 

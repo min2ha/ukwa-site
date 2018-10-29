@@ -10,7 +10,5 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Philosophy Foundation
-
 The Philosophy Foundation promotes the use of philosophy in the public sphere, specialising in
 the facilitation of philosophical conversations in education, business and the community.

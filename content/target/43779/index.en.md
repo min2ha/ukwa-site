@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Environmental Justice Foundation (EJF)
-
 The Environmental Justice Foundation (EJF) is a UK-based non-profit organisation working internationally to protect the environment and defend human rights.

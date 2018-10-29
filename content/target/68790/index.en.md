@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Historycal Roots
-
 Our original aim was to bring history to life by introducing real historical figures into an imagined setting, combining real history with imaginative story telling. We have broadened our scope as we became more and more interested in exploring all sorts of different ways of raising awareness of the black and mixed heritage people who have played a part in shaping the way society looks today but whose role has been overlooked or not given the credit they are due. Some of what we are involved in feels more like ‘making’ history rather than simply recording it!

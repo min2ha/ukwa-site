@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Hefin David on Facebook (Labour candidate for Caerphilly) 
-
 Hefin David is the Labour candidate for Caerphilly at the 2016 National Assembly for Wales elections. 

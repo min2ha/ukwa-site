@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brian Whittle (@BrianWhittle) on Twitter
-
 The Twitter profile of Brian Whittle, the Conservative Party candidate for Kilmarnock and Loudoun in the UK General Election on the 7th May 2015.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Wales and West Housing 50 Years
-
 In 2015, Wales and West Housing celebrated their 50th anniversary. The website explores the history of the housing association.

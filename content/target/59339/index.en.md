@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WHSmith Cadbury FC Scratch Card 
-
 this is the website for customers to check if they won a prize on the WHSmith scratch card. 

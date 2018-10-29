@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Young, British and living in Europe – Brexit has turned our lives upside down
-

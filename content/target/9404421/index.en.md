@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Movement
-
 The European Movement UK is an independent, pro-European organisation, 

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Arts and Science Festival
-
 A week-long celebration of research, culture and collaboration across campus and beyond. Each year artists, academics and university partners deliver a programme of concerts, exhibitions, screenings, talks and workshops in response to a festival theme.

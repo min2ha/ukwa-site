@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Community Energy England
-
 Community Energy England represents and supports those committed to the community energy sector.  Community energy includes the delivery of community renewables, energy efficiency, demand reduction and energy supply projects.

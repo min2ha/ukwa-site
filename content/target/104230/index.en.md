@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Office for National Statistics
-
 Official statistics are produced impartially and free from political influence.

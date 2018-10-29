@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Scottish Gallery
-
 Site of a commercial art gallery based in Edinburgh, Scotland.

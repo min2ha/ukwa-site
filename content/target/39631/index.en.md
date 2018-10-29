@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fergus Mutch for North East Scotland on Facebook
-

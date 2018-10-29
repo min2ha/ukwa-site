@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Six things the SNP, Greens and Plaid have in common
-
 None

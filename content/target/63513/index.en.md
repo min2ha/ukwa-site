@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# UNILAD: Stephen Hawking
-
 UNILAD; search results for Stephen Hawking

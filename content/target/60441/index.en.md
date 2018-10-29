@@ -10,6 +10,4 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# Recordiau Awen Records
-
 Awen Records is a record label based in Pentraeth, Anglesey. Awen have been publishing music since 1996.

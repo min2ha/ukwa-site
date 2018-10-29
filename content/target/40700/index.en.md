@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Duns Football Club
-
 Site of a Scottish amateur football club based in Duns, Scottish Borders.

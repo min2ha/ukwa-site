@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Chuka Umunna announces on Facebook he will run for Labour leadership
-
 None

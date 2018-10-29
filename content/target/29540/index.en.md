@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheffield's Off the Shelf Festival of Words
-
 Festival

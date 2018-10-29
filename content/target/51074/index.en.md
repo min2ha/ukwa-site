@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Theresa May is dragging the UK under. This time Scotland must cut the rope
-

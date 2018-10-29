@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Tracy Satchwill Blog: Magna Carta Women receives Arts Council funding
-

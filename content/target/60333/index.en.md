@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Government and internet industry ‘lack strategy and direction’ on suicide prevention, report warns
-
 News article that suggests the government is lacking a strategy and direction for online suicide prevention

@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Andrea Kelland
-
 Andrea Kelland is a member of the Watercolour Society of Wales. Her gallery is located in the Preseli Hills.

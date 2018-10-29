@@ -10,6 +10,4 @@
   "start_date": "2016-04-25T10:00:00Z"
 }
 
-# Shetlink
-
 Online compendium of news, business directory, adverts, accommodation and events relating to Shetland.

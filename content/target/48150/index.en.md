@@ -10,6 +10,4 @@
   "start_date": "2017-01-11T09:00:00Z"
 }
 
-# National Library of Wales: Notitiae Llanelwy | St Asaph Notitiae 
-
 This is the digital version of St Asaph Diocesan Records, SA/MISC/1300-1491 held at the National Library of Wales.

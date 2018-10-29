@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Portland Parish Church Troon
-

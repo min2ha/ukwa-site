@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Knockando Woolmill Company Ltd
-
 Site of a woolmill, visitor attraction and trust that runs them located at Aberlour, Speyside, Highlands.

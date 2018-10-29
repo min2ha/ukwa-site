@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# European Association for Cancer Research (EACR), The
-
 The European Association for Cancer Research (EACR) was founded in 1968 and is Europe’s largest member society for cancer research. The association provides services to members, presents educational, training and scientific meeting opportunities, and facilitates communication and collaboration between the cancer researchers who make up its membership. It also sets out to raise the profile of cancer research and cancer researchers in Europe and the need for sustained political and economic support. 

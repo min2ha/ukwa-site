@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Consett History and Local Forum
-

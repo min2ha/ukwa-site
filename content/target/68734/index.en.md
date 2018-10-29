@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Corwen and Dee Valley Archaeological Society
-
 CADVAS (Corwen and Dee Archaeological Society) research and record the rich archeological heritage of the Dee Valley from the source of the Dee in Penllyn to the Vale of Llangollen.

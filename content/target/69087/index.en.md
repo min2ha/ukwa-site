@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Barhill Village, South Ayrshire
-
 Community website for Barrhill. South Ayrshire, providing information about amenities, activities and tourism in the area.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The more I see of the EU's rude (and unelected) bullies, the more I yearn for us to call their bluff and walk away
-
 Complains that not only is the UK expected to pay a ransom to leave the EU, but its negotiators are constantly rude and overbearing towards us.

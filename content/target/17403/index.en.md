@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage's appeal to Britons: believe in Britain
-
 None

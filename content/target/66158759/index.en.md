@@ -11,6 +11,4 @@
   "subject": "Dickens Bicentenary"
 }
 
-# Oliver! Online Souvenir Book
-
 None

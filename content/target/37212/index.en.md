@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# FT: Cameron aims to offer Britons in-out vote on EU this summer
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory donor's firm tries to cut size of homes in town built with £30m subsidy
-
 None

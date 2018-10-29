@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# The Roman Army School
-
 For those interested in the study of the Roman army. Our annual conference attracts archaeologists, historians and leading experts but is also open to anyone interested in the subject.

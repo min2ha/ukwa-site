@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: 'Paranoid' Nigel Farage sacks Ukip leadership rival Suzanne Evans as deputy chair as he strengthens his hold on the party ahead of EU referendum   
-

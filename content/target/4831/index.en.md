@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Sport Industry Group News: Sport unites in tribute to Nelson Mandela 
-
 <p>Tributes from figures in international sport, including Jean de Villiers (captain of Springboks), Oregan Hoskins (South Africa Rugby Union), Danny Jordan (South African Football Association), and David Grevemberg (Chief Executive, Glasgow 2014).</p>

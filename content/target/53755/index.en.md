@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Peter Harris (@peterjharris66) on Twitter (UKIP Politician)
-
 Peter Harrisstood as UK Independence Party (UKIP) candidate for Dagenham and Rainham in the 2017 General Election but was not elected.

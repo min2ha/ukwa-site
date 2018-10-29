@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Barbican
-
 The Barbican is Europe's largest multi-arts and conference venue presenting a diverse range of art, music, theatre, dance, film and creative learning events. It is also home to the London Symphony Orchestra 

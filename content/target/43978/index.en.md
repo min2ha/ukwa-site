@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Festival of Politics
-
 Site of an annual festival of Scottish politics featuring debate, film, music, food and exhibitions and located in the Scottish Parliament.

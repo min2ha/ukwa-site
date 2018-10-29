@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Society of Information Technology Managers (Soctim)
-
 Socitm is a society for IT and digital leaders, driven by member needs, governed by members at the cutting edge and benefiting all those who use IT to deliver services for the public benefit.

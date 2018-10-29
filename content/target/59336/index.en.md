@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Beth Fletcher
-
 Beth Fletcher is a landscape artist. She is a former Aberystwyth University graduate and has exhibited widely in Cardiff and North Wales.

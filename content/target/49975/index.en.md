@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Luss Parish Church
-
 The website for the parish churches of Luss, which is now linked with Arrochar. 

@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Ally Pally Collectibles
-
 A personal collection  of Alexandra Palace antiques and collectables: souvenirs, memorabilia, postcards and images of this building and the surrounding area.

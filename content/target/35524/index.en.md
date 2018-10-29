@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Bodleian Libraries: Bodleian display marks 100th anniversary of Ireland's Easter Rising
-
 The Bodleian Libraries' projects and events around the Easter Rising centenary

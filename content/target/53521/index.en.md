@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Julian Sturdy (Conservative  Politician)
-
 Julian Sturdy stood as Conservative candidate for York Outer at the 2017 General Election and was elected to serve as MP. He first stood for York outer in 2010 and was re-elected in 2015.

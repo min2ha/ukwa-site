@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Papur Dre
-
 Papur Dre is a 'Destination Local' project initially funded by NESTA (National Endowment for Science, Technology and the Arts). It is run by Cwmni Da which is a television production company based in Caernarfon.

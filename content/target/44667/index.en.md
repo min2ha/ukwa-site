@@ -10,6 +10,4 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# Woodfest Wales
-
 Woodfest is an annual 3 day Festival of Wood held at Caerwys, for those working in the Timber Industry.

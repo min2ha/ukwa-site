@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# Baccus 6mm 
-
 Baccus specialises in the design and production of wargames figures and accessories in the 6mm scale. It also contains information on how to paint miniatures, uniform details, a bulletin board and lots of pictures and background information. 

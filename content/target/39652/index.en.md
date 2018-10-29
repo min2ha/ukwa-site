@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Stuart McMillan SNP PPC on Facebook
-

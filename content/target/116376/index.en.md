@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Codes and Ciphers in the Second World War
-
 Website dedicated to the historical codes and ciphers, including the Colossus Rebuilt Project.

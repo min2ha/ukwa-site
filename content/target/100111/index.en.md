@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Mysterious Britain
-
 Mysterious Britain & Ireland is a resource and community website dedicated to mysterious places, legends and folklore of the British and Irish Isles.

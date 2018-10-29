@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Islington StrongerIn (@IslingtonIn) on Twitter
-
 The local @StrongerIn campaign in Islington South & Finsbury

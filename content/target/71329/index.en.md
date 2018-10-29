@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# David Cottis
-
 David Cottis is a theatre director/writer,  film academic and lecturer. This is his blog which he began in 2010.

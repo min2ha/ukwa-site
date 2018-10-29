@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Surge18
-
 Site of an evangelical Christian conference at the Usher Hall, Edinburgh, held in June 2018.

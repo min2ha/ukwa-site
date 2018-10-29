@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Conservative rebels target Theresa May's Brexit plan
-
 Conservative Eurosceptics launched a new attempt to change the government's Brexit strategy by targeting a key piece of legislation. Amendments tabled to the customs bill threatened to undermine Theresa May's plan for future UK-EU relations..
 
 

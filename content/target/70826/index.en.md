@@ -10,6 +10,4 @@
   "start_date": "2018-09-05T09:00:00Z"
 }
 
-# Astro Cymru
-
 AstroCymru promotes astronomy and space science to audience across Wales. AstroCymru promote the many different careers in the space industry from astronauts to various space scientists and engineers and provide 3D Astronomy and educational workshops for primary and secondary schools.

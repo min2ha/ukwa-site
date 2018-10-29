@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Week, The: EU Referendum
-
 The section of a weekly online and paper magazine of British and international news and comment dedicated to the Referendum

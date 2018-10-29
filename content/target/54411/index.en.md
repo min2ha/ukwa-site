@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Karin Finegan (@finegan4glasgow) on Twitter
-
 Twitter profile of Karin Finegan, Independent candidate for Glasgow East in the 2017 general election.

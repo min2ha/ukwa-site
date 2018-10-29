@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Skandia Team GBR
-

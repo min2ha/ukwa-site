@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Government of Gibraltar  
-
 Government of Gibraltar official website.

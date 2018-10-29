@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# JRPHartley (@Jrphartley) on Twitter
-
 The Twitter profile of writer Jonathan Hartley, standing as an independent candidate for Edinburgh North and Leith in the UK General Election on the 7th May 2015.

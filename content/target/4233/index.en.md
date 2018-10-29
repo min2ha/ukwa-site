@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Edinburgh Napier News: Politics 
-
 None

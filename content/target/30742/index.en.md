@@ -10,6 +10,4 @@
   "start_date": "2015-09-21T10:00:00Z"
 }
 
-# Community Development Cymru (CDC) 
-
 Community Development Cymru (CDC) mission is to improve the quality of life for the poorest and most disadvantaged communities in Wales by challenging inequality, discrimination and social injustice. 

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Ricky Gervais
-
 Official website of a British actor and comedian Ricky Gervais.

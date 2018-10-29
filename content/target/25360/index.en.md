@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A job to finish’: Lib Dems outline plan to balance the books
-
 None

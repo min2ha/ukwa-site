@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Fears of pension chaos in runup to election as savers rush to cash in 
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May draws red line on Brexit migrants: PM vows to fight plans by Brussels that could let a MILLION more EU citizens live in Britain   
-

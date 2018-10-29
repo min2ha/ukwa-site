@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anne-Marie Trevelyan (Conservative Politician)
-
 Anne-Marie Trevelyan stood as Conservative candidate for Berwick on Tweed at the 2015 General Election and was elected to serve as MP. She stood for re-election in 2017 and was successful.

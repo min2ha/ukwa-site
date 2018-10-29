@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Barack Obama urges UK voters to 'stick together' with EU 
-
 Guardian, The

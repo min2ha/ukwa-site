@@ -10,6 +10,4 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-# Fife Cultural Trust
-
 Website acting as a single access point for theatres, museums, galleries, libraries,  archives and local and family history, as well as providing resources for the creative industries and education in Fife, Scotland.

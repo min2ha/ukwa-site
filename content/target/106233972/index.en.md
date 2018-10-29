@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# University of Cambridge
-
 Official website of the University of Cambridge.

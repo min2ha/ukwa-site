@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Shuttle, The: Debate and Discuss Magna Carta at Blackburn Cathedral
-

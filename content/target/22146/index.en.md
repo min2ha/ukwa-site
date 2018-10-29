@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stephen Twigg on Facebook (Labour candidate for Liverpool West Derby)
-

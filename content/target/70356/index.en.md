@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's, Inverness Roman Catholic Parish
-
 Site of a Scottish Roman Catholic parish church in Inverness.

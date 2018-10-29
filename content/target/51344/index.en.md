@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Wesley Methodist Church, Cardiff 
-

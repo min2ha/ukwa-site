@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Paul Davies Honest and Experience | Yn Onest a Phrofiadol
-
 This is the official website of Paul Davies's campaign to be leader of Welsh Conservatives in 2018.

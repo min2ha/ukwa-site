@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Court News UK
-
 None

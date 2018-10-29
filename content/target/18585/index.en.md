@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mari Williams for Cardiff North on Facebook
-
 Mari Williams - Labour's Parliamentary Candidate for Cardiff North.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Les Tallon-Morris on Facebook (Independent candidate for Bridgend)
-

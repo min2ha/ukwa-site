@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Pink Ladies Breast Cancer Support Group
-
 The Pink Ladies was set up in 2001 by several local women who were undergoing treatment for breast cancer and wanted contact with others in a similar position. 

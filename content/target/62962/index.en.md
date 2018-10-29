@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Watson Farley & Williams
-
 Website of International Law Firm with head office in UK

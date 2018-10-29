@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Pearson plc: Corporate
-
 Pearson plc is a British multinational publishing and education company. It is the largest education company and the largest book publisher in the world.

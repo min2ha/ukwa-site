@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Ed Miliband refuses to rule out a coalition deal with SNP
-

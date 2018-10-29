@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Neil Gray (@NeilGray3) on Twitter
-
 The twitter profile of Neil Gray, Scottish National Party Parliamentary Candidate for Airdrie & Shotts in the UK General Election, 7th May 2015.

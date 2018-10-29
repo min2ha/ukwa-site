@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Vote Leave broke spending limits in Brexit referendum, activist claims
-
 Vote Leave broke the law during the EU referendum by exceeding legal spending limits according to activist Shahmir Sanni. He Channel 4 News that the official Brexit campaign used a different group, BeLeave, to overspend.

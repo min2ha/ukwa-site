@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Nuffield Trust: General Election 2015
-
 The Nuffield Trust is an independent health charity. They aim to improve the quality of health care in the UK by providing evidence-based research and policy analysis and informing and generating debate.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# RC Ayr
-
 Site of a Scottish Roman Catholic cathedral and parish church, and two associated parish churches in Ayr, namely St. Margaret's Cathedral, St. Paul’s Church and St. Francis Xavier’s Church

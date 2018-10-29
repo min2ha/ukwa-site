@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# United Kingdom Falkland Islands Trust (UK FIT)
-
 The United Kingdom Falkland Islands Trust was formed in 1981 and aims to assist the Islands’ population by providing specialist advice and contacts to assist in the economic and social development of the Islands. Trustees are also responsible for the Shackleton Scholarship Fund.

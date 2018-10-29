@@ -10,5 +10,3 @@
   "start_date": "2011-04-05T00:00:00Z"
 }
 
-# BBC - Wales - Message Boards
-

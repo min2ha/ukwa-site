@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shona Robison
-
 The website of Shona Robison, Scottish National Party Member of the Scottish Parliament for Dundee City East.

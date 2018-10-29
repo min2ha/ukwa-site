@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Dairy UK Statement on EU Referendum
-
 Dairy UK statement on the EU Referendum result. 

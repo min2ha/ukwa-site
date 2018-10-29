@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Top bank predicts a collapse in the pound if Britain backs Brexit - and it could make trips to Europe MUCH more expensive   
-

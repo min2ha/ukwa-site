@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# International Olympic Committee (IOC): London 2012
-

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Business, Energy and Industrial Strategy Committee: The impact of Brexit on the processed food and drink sector
-
 The Committee finds that a future move by the UK to lower or remove tariffs could have extremely damaging consequences for British farming with only the prospect of very limited benefit to consumers in terms of lower prices. The Committee’s report also examines the impact of non-tariff barriers, regulatory alignment, transitional arrangements, trade opportunities, and the food and drink sector’s critical reliance on migrant workers.
 

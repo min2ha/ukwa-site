@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Devon Health and Wellbeing Board
-
 None

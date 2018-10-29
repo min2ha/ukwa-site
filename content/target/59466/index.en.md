@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# BBC Get Inspired (@bbcgetinspired) on Twitter
-
 Encouraging participation in sport and fitness activities across the UK.

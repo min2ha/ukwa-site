@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The Spending of the Department for Exiting the European Union
-
 Overview of the costs of Brexit, looking at spending by the Department for Exiting the European Union and other departments
 

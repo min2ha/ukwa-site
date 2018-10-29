@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Oswald of Dunnikier Lodge No. 468
-
 Site of a masonic lodge located in Fife and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# East London Against Arms Fairs (ELAAF)
-
 East London Against Arms Fairs (ELAAF) have been opposing the fair since it came to ExCeL in 2001 and will continue to do so until it is cancelled.

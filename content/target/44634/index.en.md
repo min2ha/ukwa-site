@@ -10,6 +10,4 @@
   "start_date": "2016-07-27T10:00:00Z"
 }
 
-# Haverfoodfest
-
 Haverfoodfest is an annual food festival held in Haverfordwest.

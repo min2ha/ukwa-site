@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Joshua Bell
-
 Joshua Bell is a violinist and Music Director of the chamber orchestra Academy of St Martins in the Fields.

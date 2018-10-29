@@ -10,6 +10,4 @@
   "start_date": "2016-03-01T09:00:00Z"
 }
 
-# Work Room, The
-
 The Work Room is an artist-led organisation for independent dance artists in Scotland.

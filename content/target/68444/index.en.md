@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: European Union (Withdrawal) Bill 2017-19: Ping Pong
-
 This Commons Library Briefing Paper provides details of areas where the two Houses were yet to agree on the text of the European Union (Withdrawal) Bill ahead of the Commons debate on 20 June 2018.
 

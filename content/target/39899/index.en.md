@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Football Museum
-
 Site of the museum of Scottish Football, based at Hampden Park in Glasgow.

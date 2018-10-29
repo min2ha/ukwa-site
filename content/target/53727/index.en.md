@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Sutton Green Party General Election 2017
-

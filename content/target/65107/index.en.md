@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Why would Labour clarify its stance on Brexit? Ambiguity is working
-

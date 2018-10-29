@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015 sketch: ‘They’re making the Greens look credible!’ Ed Miliband launches the Labour manifesto
-
 None

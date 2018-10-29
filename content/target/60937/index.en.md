@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Garryowen GFC London (@GarryowenGFC) on Twitter
-
 Twitter account for GAA club in North London. 

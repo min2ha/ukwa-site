@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Association of Independent Festivals
-
 The Association of Independent Festivals is a non-profit trade association created to represent and empower independent festivals. The key aim is to help the businesses of our individual members and overall needs of the independent festival sector.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Gallantry Medallists’ League
-
 The League is a non-service, non-political organisation however many members will be serving or ex-serving personnel from the uniformed services. The League is dedicated to all holders of gallantry medals in the UK and from across the Commonwealth.

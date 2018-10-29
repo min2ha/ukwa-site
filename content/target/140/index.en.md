@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liverpool Heart and Chest Hospital
-
 None

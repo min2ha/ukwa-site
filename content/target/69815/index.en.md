@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas Alawon Gwerin Cymru | Welsh Folk Song Society
-
 The Welsh Folk-Song Society collects, preserves, interprets the folk-songs of Wales and promotes research on the literary and musical background of the songs, as well as fostering interest in folk song and folk literature in general.

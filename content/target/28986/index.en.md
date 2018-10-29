@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Romsey Labour Party
-
 Website of Romsey Labour Party, providing information on the MP, events and local and national news updates.

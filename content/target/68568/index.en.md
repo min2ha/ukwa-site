@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's and St. Columba's Bathgate
-
 Site of two Roman Catholic parish churches in Scotland, located at Bathgate, West Lothian.

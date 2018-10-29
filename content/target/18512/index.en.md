@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Nick Clegg: Liberal Democrats 'here to stay'
-
 None

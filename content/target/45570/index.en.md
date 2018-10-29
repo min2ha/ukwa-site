@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Bristol Zoo Gardens
-
 Established in 1835, Bristol Zoo Gardens is the oldest provincial zoo and the fifth oldest zoo in the world. The website which was developed in the 1990's reflects this history. 

@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Stair Society
-
 Site of a legal history society founded to encourage the study and advance the knowledge of the history of Scots Law by the publication of original documents and by the reprinting and editing of works of sufficient rarity or importance.

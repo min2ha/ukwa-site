@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Save the Age
-
 Britain’s population is ageing first, 10 million people in the UK are over 65 years old.

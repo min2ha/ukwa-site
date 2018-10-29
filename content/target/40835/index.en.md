@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Save Our Heritage - the campaign to save Grove Park School 
-
 Save Our Heritage is a campaign to save Grove Park School in Wrexham.

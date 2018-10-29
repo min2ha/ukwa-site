@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Christ Church University: University marks anniversary of Magna Carta
-

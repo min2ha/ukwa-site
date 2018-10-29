@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aquatics Hub, The
-
 <p>News site for UK swimming, diving and water polo, including club profiles and a calendar of aquatics events.</p>

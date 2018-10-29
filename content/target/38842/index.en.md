@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Becca Plenderleith (@R_Plenderleith) on Twitter
-
 Twitter profile of Rebecca Plenderleith, Scottish Liberal Democrat candidate for West Dunbartonshire in the 2017 general election.

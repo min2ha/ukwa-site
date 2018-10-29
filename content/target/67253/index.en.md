@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Michel Barnier and Davis Davis talk Brexit 'backstop'
-
 The UK's David Davis and his EU opposite number discussed the thorny issue of a post-Brexit "backstop" plan for the Northern Ireland border.at a stock take on progress. The EU had set out several objections to the UK's proposals, saying they would lead to a "hard border" in Northern Ireland.
 
 

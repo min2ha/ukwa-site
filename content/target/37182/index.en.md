@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Why the timing of the EU referendum may depend on who can vote
-

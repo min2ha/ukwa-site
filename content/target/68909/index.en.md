@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC, The: Why are Northern Ireland's abortion laws different to the rest of the UK?
-
 A BBC magazine news article on Northern Ireland's abortion laws

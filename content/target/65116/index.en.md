@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sutherland Presbytery
-
 Site of the Church of Scotland presbytery for the historic county of Sutherland, Highland.

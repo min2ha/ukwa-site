@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: David Cameron: 'I'll work the hardest to secure victory'
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-04-24T09:00:00Z"
 }
 
-# Pembrokeshire Association of Community Transport Organisations | Cymdeithasau Mudiadau Cludiant Sir Benfro
-
 Pembrokeshire's Community Transport services is a registered charity that helps people and groups who don't have access to their own transport and who don't have or can't use conventional public transport services. 

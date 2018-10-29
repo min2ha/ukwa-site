@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: It will take a full five years of sunshine to mend George Osborne's roof
-
 None

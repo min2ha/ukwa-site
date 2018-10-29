@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ukulele Festival of Wales
-
 The Website for the Ukulele Festival of Wales

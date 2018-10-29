@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Don’t sneer at northerners for voting for Brexit – there are sound reasons
-

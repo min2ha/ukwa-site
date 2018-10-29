@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Harper Macleod LLP
-
 The website of Harper Macleod LLP, a legal firm based in Glasgow, Scotland. 

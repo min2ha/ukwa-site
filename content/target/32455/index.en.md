@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Squeezed Britain 2013: a report by the Resolution Foundation
-
 Report on living standards for low to middle income households in Britain, identifying causing of problems and future prospects. This has been produced by The Resolution Foundation, a think-tank that focuses on the lives of people on low and middle incomes.

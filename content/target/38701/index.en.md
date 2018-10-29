@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# National Farmers' Union (NFU): Implications of a UK exit from the EU for British Agriculture
-
 This report offers quantification of effects of possible trade and agricultural support scenarios on the UK agricultural production, trade, farm gate prices and farmers’ income levels in case of the UK leaving the EU. The results of each scenario show that for most sectors the biggest driver of UK farm income changes is the level of public support payments available. The positive price impacts on farm incomes seen through both the FTA and WTO default scenario are offset by the loss of direct support payments. A reduction of direct payments, or their complete elimination, would exacerbate the negative impact seen under the UK Trade Liberalisation scenario.

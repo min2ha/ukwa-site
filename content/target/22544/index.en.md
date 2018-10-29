@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Easter messages: Leaders condemn persecution of Christians
-
 None

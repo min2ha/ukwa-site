@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Varsity: Cambridge Student Newspaper: Vice-Chancellor Leszek Borysiewicz describes Brexit as ‘fantasy’
-
 An article about Cambridge University vice-chancellor Leszek Borysiewicz which focuses on a speech given by the vice-chancellor at the Natolin Campus in Warsaw. It focuses on the vice-chancellor's own arguments to dismiss Brexit claims.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Open Data at the Scottish Parliament
-
 The Scottish Parliament’s open data portal.

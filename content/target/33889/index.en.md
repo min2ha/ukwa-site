@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Guardian, The: Arlene Foster: Easter Rising was attack on democracy 
-

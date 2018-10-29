@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: George Osborne: Boris playing 'political games' by backing Brexit
-
 Telegraph, The: George Osborne: Boris playing 'political games' by backing Brexit

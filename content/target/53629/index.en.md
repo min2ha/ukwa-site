@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chinese for Labour
-
 The Chinese for Labour Group was formed in 1999 to promote the interests of Chinese people in the Labour Party and improve the quality of life of the Chinese community in Britain. The Chinese community is the fastest growing non-European ethnic group in the UK.

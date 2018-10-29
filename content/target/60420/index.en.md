@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Podpeth: Podledliad Cymraeg
-
 Podpeth is a contemporary Welsh language comedy podcast with special guests produced by Iwan Pitts and Hywel Pitts.

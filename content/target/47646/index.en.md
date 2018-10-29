@@ -10,6 +10,4 @@
   "start_date": "2016-12-06T09:00:00Z"
 }
 
-# Royal Scots Dragoon Guards Museum
-
 Site of a regimental museum located in Edinburgh Castle and dedicated to the history of the Royal Scots Dragoon Guards (Carabiniers and Greys)

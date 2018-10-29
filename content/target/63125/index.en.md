@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:54:31.527915", 
+  "date": "2018-10-29T13:21:32.725198", 
   "open_access": false, 
   "target_url": "https://twitter.com/edenfrancis/", 
   "description": "Twitter profile of shot put athlete Eden Francis, member of Team England for the Glasgow 2014 Commonwealth Games. ", 
   "end_date": null, 
   "title": "Eden Francis (edenfrancis) on Twitter", 
-  "record_id": "20181029T125431/Fh0xVjthT0Nn4WQfTJ9PTw==", 
+  "record_id": "20181029T132132/Fh0xVjthT0Nn4WQfTJ9PTw==", 
   "publisher": "twitter.com", 
   "start_date": null, 
   "subject": null
 }
-
-# Eden Francis (edenfrancis) on Twitter
 
 Twitter profile of shot put athlete Eden Francis, member of Team England for the Glasgow 2014 Commonwealth Games. 

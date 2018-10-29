@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jess Phillips (Labour candidate for Birmingham Yardley)
-

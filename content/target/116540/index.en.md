@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# New Hall, University of Cambridge
-
 None

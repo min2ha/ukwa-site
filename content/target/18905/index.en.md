@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: David Cameron stars on Late Show with David Letterman
-

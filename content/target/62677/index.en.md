@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Guardian, The: Stephen Hawking
-
 All Guardian articles tagged Stephen Hawking, who died on the 14/03/2017.

@@ -10,5 +10,3 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# King Henry VIII School Former Pupils Assocation
-

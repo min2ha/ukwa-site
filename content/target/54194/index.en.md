@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Olivia Bailey (@livbailey) on Twitter (Labour Party Politician)
-
 Olivia Bailey stood as Labour Party candidate for Reading West in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Black Country Partnership NHS Foundation Trust
-
 None

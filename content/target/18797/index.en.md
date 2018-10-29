@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: Events: Professor Nigel Saul, "Magna Carta and English History"
-

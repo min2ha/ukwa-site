@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BFI: The forgotten history of women’s football
-
 An article on the British Film Institutes website about the proposed ban on women's football in 1921.

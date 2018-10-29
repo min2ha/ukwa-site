@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dumfries and Galloway Science Festival
-
 Family focussed science festival in Scotland

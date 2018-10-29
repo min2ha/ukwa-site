@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Oxford Ramallah Friendship Association (OFRA)
-
 Oxford Ramallah Friendship Association (ORFA) is a charity building grassroots links between civil society groups and individuals in Oxford in the UK and Ramallah in Palestine.

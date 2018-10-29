@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Gloucestershire LINk
-
 None

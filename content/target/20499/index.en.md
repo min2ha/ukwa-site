@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clegg bets six pints that Ukip will be 'pipsqueak of a party' after election
-

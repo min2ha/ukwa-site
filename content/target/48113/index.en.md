@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Newyddion, Y
-
 Y Newyddion is an independent digital news service due for launch in 2007 and managed by Awr Cymru.

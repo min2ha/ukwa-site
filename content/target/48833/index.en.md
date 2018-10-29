@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Slaughter and May: Brexit essentials: the World Trade Organization
-
 If a satisfactory agreement on trade in goods and services cannot be negotiated between the United Kingdom and the EU within two years of triggering Article 50, the rules of the World Trade Organization (“WTO”), which provides a global multi-lateral agreement on the trade in goods and certain services between members, offer a default option. This briefing summarises the basic principles of WTO law as they would apply to trade between the United Kingdom and the remaining EU Member States as well as the rest of the world, if the United Kingdom were to exit the EU without having negotiated a formal agreement governing its future trading relationship with the EU. 

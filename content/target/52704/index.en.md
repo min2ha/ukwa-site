@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rachel Sadler (@rachelsadlertw) on Twitter (Liberal Democrats Politician)
-
 Rachel Sadler stood as Liberal Democrat candidate for Tubridge Wells at the 2017 General Election but was not elected.

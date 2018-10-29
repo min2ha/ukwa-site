@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# ECH - Eastside (@EastsideCH) on Twitter
-
 They are a heritage and arts organisation dedicated to recording, documenting and preserving stories from their community.

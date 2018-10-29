@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# British Menopause Society
-
 The BMS is a registered charity and scientific society which is directed at the medical profession with membership open to healthcare professionals and others specialising in post reproductive health.

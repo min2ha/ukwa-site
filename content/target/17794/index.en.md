@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's failure to offer EU referendum will cost party votes, major donor says
-
 None

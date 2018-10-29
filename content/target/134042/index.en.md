@@ -10,5 +10,3 @@
   "start_date": "2008-06-16T23:00:00Z"
 }
 
-# Warwick Institute for Employment Research
-

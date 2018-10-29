@@ -10,6 +10,4 @@
   "start_date": "2016-07-16T10:00:00Z"
 }
 
-# Biggar Farmers' Club
-
 Site of an agricultural club based in Biggar, South Lanarkshire, and their annual agricultural show.

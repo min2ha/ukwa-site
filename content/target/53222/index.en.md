@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# RSPCA: Campaign for animal welfare
-
 The RSPCA have identified animal welfare issues for action by the next UK government.

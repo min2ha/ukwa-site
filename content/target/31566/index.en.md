@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Sarah Lianne Lewis
-
 Sarah Lianne Lewis is a Welsh Composer, Orchestrator & Music Copyist.

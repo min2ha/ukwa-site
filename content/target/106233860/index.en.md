@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Exercise in Irrelevance, An
-
 Philip's research covers a variety of different areas; mostly it focuses on the use of ontological technology in biology, or more generally mechanisms for presenting and publishing scientific information.

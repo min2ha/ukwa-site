@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lydeard St Laurence and Tolland
-
 Lydeard St Lawrence is a small village in the Taunton Deane area of Somerset, lying between the Quantock Hills AONB and the Brendon Hills, at about 120m above sea level.  It is about 10 miles to the north west of the county town of Taunton.  The parish covers quite a large area and includes several small hamlets such as Westowe, Pyleigh, Chapel Leigh and Westleigh. Tolland village is the adjacent parish which has its own thriving community. The two parishes join together for administrative purposes and have one Parish Council.

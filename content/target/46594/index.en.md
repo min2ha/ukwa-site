@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T11:00:00Z"
 }
 
-# Bocan TV
-
 Bocan; a Gaelic hub for children. This site was made for Dualchas Na Cloinne by West Highland Animation.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Development Initiatives: The Data Manifesto
-
 During the past 20 years, DI has expanded from a small organisation in rural south-west England to a 66-staff strong global organisation with teams in East Africa, South Asia, North America and Latin America. Their goal is to end world poverty.

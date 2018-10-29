@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent , The :  Will you be richer or poorer under the Tories?
-
 None

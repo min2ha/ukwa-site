@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Yorkshire LINk
-
 None

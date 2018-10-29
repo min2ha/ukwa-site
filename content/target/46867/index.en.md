@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chuka Umunna (@ChukaUmunna ) on Twitter (Labour MP for Streatham)
-
 Chuka Ummuna stood as Labour candidate for Streatham in 2008 following the retirement of Keith Hill and was elected to serve as MP. He then stood for re-election in 2010,  2015 and 2017 and was successful. He campaigned for Britain to remain in the EU.

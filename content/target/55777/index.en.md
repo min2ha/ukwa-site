@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Jeremy Corbyn meets EU negotiator Michel Barnier
-
 Jeremy Corbyn met the EU's chief negotiator in Brussels to set out Labour's vision for Brexit. Mr Corbyn told Michel Barnier he was "ready to take up the responsibility for Brexit negotiations" if there was a change in government. The EU negotiator also held separate meetings with the first ministers of Wales and Scotland, Carwyn Jones and Nicola Sturgeon.

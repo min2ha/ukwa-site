@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 'Neither King nor Kaiser': Empire, War and Rebellion in Ireland, 1912-1919
-
 This project is built around a lecture series and includes a number of complementary cultural events to highlight and contextualise local, regional, island-wide and global opposition to militarism and empire in the period of the First World War.

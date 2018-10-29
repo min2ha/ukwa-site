@@ -10,8 +10,6 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Maesteg Ramblers
-
 
 Home
 About Us

@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Barnardo's
-
 None

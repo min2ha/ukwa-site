@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rothesay Primary (rothesayprimary) on Twitter
-
 Tweets from Rothesay Primary have tweeted the hashtag #DigCW2014.

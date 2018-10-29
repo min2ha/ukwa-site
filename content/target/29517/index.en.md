@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# British Study Centres
-
 British Study Centres is a group of colleges with centres across the UK offering courses from short English language programmes to fully accredited British university MBAs.

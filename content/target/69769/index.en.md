@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# London Art House
-
 Suite of meeting rooms in Islington, London

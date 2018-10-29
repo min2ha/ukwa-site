@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# National Energy Foundation (NEF)
-
 None

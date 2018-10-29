@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Yellow Advertiser Today
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Rudd offers fresh reassurance over status of EU nationals
-
 Ministers sought to reassure peers about the status of EU citizens in the UK after Brexit as they faced possible defeat over the issue in the Lords. Home Secretary Amber Rudd wrote to peers to say the UK cannot offer a unilateral guarantee on residency but it will be a priority once talks begin.

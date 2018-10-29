@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Scottish Land & Estates 
-
 Site of an organisation which represents landowners in Scotland.

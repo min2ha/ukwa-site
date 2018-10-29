@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Lismore Gaelic Heritage Centre
-
 Lismore Gaelic Heritage Centre

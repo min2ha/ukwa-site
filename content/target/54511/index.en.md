@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# London-Irish ARC (@LdnIrishARC) on Twitter
-
 London branch of the Abortion Rights Campaign in Ireland that campaigns for abortion rights in both the Republic and Northern Ireland.

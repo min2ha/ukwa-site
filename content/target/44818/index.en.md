@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Achubwch Ein Heglwys  | S.O.S. - Save Our St Winefride's
-
 The website dedicated to the future of the Church of Our Lady of the Angels and St. Winefride in Aberystwyth.

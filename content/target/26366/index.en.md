@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Britain set to face weeks of political paralysis after election poll
-
 None

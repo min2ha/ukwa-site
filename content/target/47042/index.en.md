@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-#  Joint Committee on Human Rights: What are the human rights implications of Brexit? inquiry
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Eastern Labour Candidates 2015
-
 Website for the Labour East of England regional office, providing information on campaigns, events and local and national news.

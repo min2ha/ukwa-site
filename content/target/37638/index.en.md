@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Those in favour of a Brexit don't seek 'Rule Britannia' - they have a different way of thinking The greatest threat to the EU is not Russia, and n
-

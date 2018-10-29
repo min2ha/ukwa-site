@@ -10,6 +10,4 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# Scottish Centre for Healthy Working Lives
-
 Site of an organisation with the National Health Service, Scotland, aiming to give people the opportunity to work in ways that sustain and improve their health and well-being.

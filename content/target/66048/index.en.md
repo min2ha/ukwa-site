@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit voters are not identitarians, says Michael Gove
-
 Addressing a conference on the future of the United Kingdom, the environment secretary said the tendency to look at "political questions through the prism of identity" posed a challenge not just to the constitutional order which he said had, for the most part, served the UK so well for hundreds of years but to the concept of individual rights. Mr Gove said he "respectfully disagreed" with claims the Brexit vote was driven by xenophobia or a nostalgia for a return to the the time when Britain was an imperial power.

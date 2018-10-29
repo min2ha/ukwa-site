@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Lost Map Records
-
 Site of an independent music recording / record company located on the Hebridean Isle of Eigg.

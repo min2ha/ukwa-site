@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Central SU
-
 Central SU works to represent all students of the Royal Central School of Speech and Drama. We work with the university, but are a different organisation.

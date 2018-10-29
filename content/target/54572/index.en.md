@@ -10,6 +10,4 @@
   "start_date": "2017-06-10T09:00:00Z"
 }
 
-# Friends of Glasgow Botanic Gardens
-
 Site of an organisation formed for the enhancement of education for the public benefit by supporting and furthering the activities of Glasgow Botanic Gardens as a centre for education, research and public amenity.

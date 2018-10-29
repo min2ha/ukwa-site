@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Grannell Community Energy
-
 Grannell Community Energy is a Community Benefit Society. They aim to commission a  500kW Enercon wind turbine which will be installed near Cribyn, Lampeter.

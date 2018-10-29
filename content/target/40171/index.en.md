@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Vale of White Horse District Council
-
 The website of Vale of White Horse District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

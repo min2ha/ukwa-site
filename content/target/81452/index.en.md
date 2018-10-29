@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Eurostar services 'could be disrupted by no-deal'
-
 Eurostar trains and electricity supplies in Northern Ireland faced possible disruption if the UK left the EU without a deal, the government said in a batch on "no deal" contingency plans
 

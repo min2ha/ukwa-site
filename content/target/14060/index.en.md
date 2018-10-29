@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BBC News: Scotland Decides
-
 <p>Details of programming across the BBC relating to the Scottish Independence Referendum, 18 September 2014.</p>

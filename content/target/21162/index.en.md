@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Mclean - Wales Green Party candidate for Newport East on Facebook
-
 Wales Green Party candidate for Newport East

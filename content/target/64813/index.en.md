@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Rheilffordd Fach Y Rhyl | Rhyl Minature Railway
-
 Rhyl Minature Railway is Britain’s oldest miniature line dating back to 1911.

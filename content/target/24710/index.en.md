@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rebecca Johnson (Green Party candidate for Hampstead & Kilburn) on Facebook
-

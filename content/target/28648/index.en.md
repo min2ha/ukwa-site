@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas Cyfieithwyr Cymru | Association of Welsh translators and interpreters, The
-

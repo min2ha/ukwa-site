@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Gruff Rhys
-
 <p>Gruff Rhys is a Welsh musician and lead singer of the band Super Furry Animals.</p>

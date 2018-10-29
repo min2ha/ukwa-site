@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Kelburn Garden Party
-
 Site of an annual music and arts festival at Kelburn, near Largs, Ayrshire.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Còisir Dhùn Èideann Facebook
-
 The Facebook page of Còisir Dhùn Èideann (Edinburgh Gaelic Choir).

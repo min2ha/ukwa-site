@@ -10,6 +10,4 @@
   "start_date": "2016-12-21T09:00:00Z"
 }
 
-# Gatehouse of Fleet
-
 Site providing community and visitor information for the town of Gatehouse of Fleet, Dumfries & Galloway, Scotland.

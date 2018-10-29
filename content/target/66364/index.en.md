@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Urras Oighreachd Ghabhsainn / Galson Estate Trust 
-
 Galson Estate Trust is a community-owned estate of 56,000 acres of coast, agricultural land and moor in the North West of the Isle of Lewis in the Outer Hebrides of Scotland.

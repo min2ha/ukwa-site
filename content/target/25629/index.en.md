@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jim Murphy accuses SNP of deepening divisions over Scottish independence
-
 None

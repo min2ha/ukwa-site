@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Index on Censorship
-
 Index on Censorship is an international organisation that promotes and defends the right to freedom of expression.

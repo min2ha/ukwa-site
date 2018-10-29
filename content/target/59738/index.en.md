@@ -10,6 +10,4 @@
   "start_date": "2017-12-14T09:00:00Z"
 }
 
-# Ben Macpherson
-
 Ben Macpherson is the Scottish National Party MSP for Edinburgh Northern and Leith. 

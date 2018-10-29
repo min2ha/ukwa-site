@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Guap- Lead The Revolution (@guapmag) on Twitter 
-
 A youth platform aiming to be at the forefront of creative culture, aiming to discover and showcase emerging talent, with a focus on storytelling through various mediums to document young grass roots talent within music, fashion, the arts & business globally. This is their Twitter account.

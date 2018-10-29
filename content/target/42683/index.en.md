@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Law on Trial 2016: The European Union at the Crossroads
-
 A mock trial organised by law students at Birkbeck University.

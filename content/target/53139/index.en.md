@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Philippa Thompson (@Philippa4Pembs) on Twitter
-
 Philippa Thompson is the Labour candidate for Preseli Pembrokeshire at the 2017 General Election.

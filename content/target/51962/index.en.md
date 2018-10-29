@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Arnold Road Evangelical Church
-
 An Evangelical Church is one that aims to proclaim the 'Good News' of the Lord Jesus Christ.

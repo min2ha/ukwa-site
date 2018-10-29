@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Mike Harding
-
 A folk podcast that plays a lot of folk music and suggests a lot more.

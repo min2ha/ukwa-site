@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Chartered Institution of Building Services Engineers: What caused the Grenfell Tower disaster?
-
 www.cibsejournal.com article on what caused the Grenfell Tower disaster.

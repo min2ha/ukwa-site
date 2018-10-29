@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal National Hospital for Rheumatic Diseases
-
 None

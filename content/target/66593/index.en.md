@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Replace May with Gove to sort out Brexit, Tory donor urges
-
 Michael Gove should be installed as the new Tory leader because Theresa May has shown that she cannot “carry Brexit through”, major party donor Crispin Odey publicly warned.
 

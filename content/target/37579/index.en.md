@@ -10,5 +10,3 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Ffederasiwn Amgueddfeydd ac Orielau Celf Cymru | The Fedration of Museums and Art Galleries of Wales
-

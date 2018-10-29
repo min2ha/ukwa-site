@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Royal Aeronautical Society
-
 The Royal Aeronautical Society is the professional body dedicated to the aerospace community. It was established in 1866.

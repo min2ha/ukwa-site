@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# East Lothian Conservatives (@ELConservatives) on Twitter
-
 Twitter feed of the East Lothian Scottish Conservative & Unionist Association 

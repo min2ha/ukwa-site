@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Global Inkjet Systems Ltd
-

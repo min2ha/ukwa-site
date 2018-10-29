@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Lichfield District Council
-
 Website of Lichfield District Council provides access to news and information about services. It also provides access to consultations, committee papers and agendas, and planning policy and local plans.

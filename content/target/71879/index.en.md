@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: After Salzburg Theresa May's leadership is weaker than ever, and Boris Johnson has cunningly positioned himself as her antithesis
-
 Argues that Boris Johnson has found an approach to Brexit very different from Theresa May's and is positioning himself to oust her on the basis of his alternative plan.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Cultural Services Pembrokeshire
-
 A guide to the Archives and Libraries and the digital collections of Pembrokeshire. The site is provided by Pembrokeshire County Council.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Live on the Wye
-
 ‘Live on the Wye’ is a music festival takes place in the small village of Redbrook, Monmouthshire.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Churches will use Magna Carta anniversary to 'reassert Britain’s Christian heritage'
-

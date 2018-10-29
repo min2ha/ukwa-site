@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: As the European elections approach, it's time to stop the politics of cowardice
-
 None

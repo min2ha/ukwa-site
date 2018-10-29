@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# London Metropolitan University
-
 Official website of the London Metropolitan University.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Johnstone High Parish Church
-
 Site of a Church of Scotland parish church at Johnstone, Renfrewshire.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# London Evening Standard: Dan Jones: After 800 years, what kind of Magna Carta could we need today?
-

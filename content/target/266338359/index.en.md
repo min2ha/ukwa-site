@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Edinburgh Active Citizenship Group: Adult Learning and the 2014 Independence Referendum
-

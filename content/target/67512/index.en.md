@@ -10,6 +10,4 @@
   "start_date": "2018-06-17T09:00:00Z"
 }
 
-# Scotland's Rock Art Project
-
 Site of a research project focusing on prehistoric rock art in Scotland, hosted by Historic Environment Scotland, in collaboration with Edinburgh University, and Glasgow School of Art, aiming to enhance understanding and knowledge of Scotland’s rock art through community co-production and research. We are training people across Scotland to record the prehistoric carvings.

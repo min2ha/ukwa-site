@@ -10,5 +10,3 @@
   "start_date": "2014-01-13T00:00:00Z"
 }
 
-# Swansea Council for Voluntary Service
-

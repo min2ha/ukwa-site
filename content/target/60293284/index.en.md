@@ -11,6 +11,4 @@
   "subject": "Spending Cuts 2010: Impact on Social Welfare"
 }
 
-# March for the Alternative
-
 None

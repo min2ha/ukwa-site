@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Lusitania Centenary Conference
-
 The website of the Lusitania Centenary Conference which was held on 13th May 2015 at Clydebank Town Hall, Glasgow.

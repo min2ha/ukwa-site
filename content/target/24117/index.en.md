@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour manifesto 2015: the key policies and what they mean for you
-
 None

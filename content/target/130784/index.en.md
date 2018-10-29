@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# United Kingdom Tea Council
-
 None

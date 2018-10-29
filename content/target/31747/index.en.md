@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Lower Medway
-
 This site is dedicated to the study of the Lower Medway Valley in North Kent here defined as that part of the river which cuts through the greensand ridge and the North Downs.

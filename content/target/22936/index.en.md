@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# TESTIMONIES: Londoners’ Stories about the 1948 Olympic Games and London 2012 Olympic and Paralympic Games
-

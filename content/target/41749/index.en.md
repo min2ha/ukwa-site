@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-#  Clinical Pharmacological Society: Pharmacology, Clinical Pharmacology and the EU Referendum
-
 Resources for home educators

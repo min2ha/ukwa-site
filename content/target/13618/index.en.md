@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Group Inter-Parliamentary Union (BGIPU), The
-
 <p>The British Group of the Inter-Parliamentary Union (BGIPU) aims to serve Britain’s interest through advancing the Parliamentary dimension of Britain’s foreign relations.</p>

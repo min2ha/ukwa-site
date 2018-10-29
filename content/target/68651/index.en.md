@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Submarine Treasury plays 'softest' Brexit card
-
 The Treasury,  the most powerful department in government - and many forget that is still true despite the "spreadsheet Phil" dismissal of his critics - believes that the closest possible relationship with the European Union is the only way to reduce the potential of lasting economic damage to Britain post-Brexit.

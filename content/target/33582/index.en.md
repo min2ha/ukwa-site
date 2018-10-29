@@ -10,6 +10,4 @@
   "start_date": "2015-12-18T09:00:00Z"
 }
 
-# Fiona Elizabeth Agnew Trust (FEAT)
-
 FEAT was established to raise awareness of sepsis and to fund research into early detection and treatment.

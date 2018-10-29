@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Maidenhead Labour  (@Maidenheadlab  ) on Twitter
-
 Official Twitter account of the Maidenhead Labour Party,

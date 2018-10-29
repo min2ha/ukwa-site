@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cardiff (First) Spiritualist Church and Centre
-

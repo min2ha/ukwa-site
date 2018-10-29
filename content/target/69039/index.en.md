@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# St Donats Chorale
-
 St Donats Chorale was formed in 2009 at St Donats Arts Centre in the Vale of Glamorgan to be a community choir,

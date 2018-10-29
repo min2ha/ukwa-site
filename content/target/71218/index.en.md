@@ -11,7 +11,5 @@
   "subject": "Festivals"
 }
 
-# Eastbourne International  Folkdance Festival
-
 Website for the Eastbourne International 
 Folkdance Festival.

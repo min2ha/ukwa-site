@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nathan Douglas Triple Jump
-
 <p>The website of triple jumper Nathan Douglas, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

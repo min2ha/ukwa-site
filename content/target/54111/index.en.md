@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Margaret Greenwood (Labour  Politician)
-
 Margaret Greenwood stood as Labour Candidate for Wirral West in the 2017 General Election and was successful. She was first elected for Wirral West in 2015.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Board of Deputies of British Jews: 2015 general election: a Jewish manifesto
-
 Jewish General. The principal representative body for Jewish synagogues and organisations in the UK.

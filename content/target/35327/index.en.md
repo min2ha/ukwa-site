@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Men Who Said No, The 
-
  The Men Who Said No aims to stimulate and support research into conscientious objection to military service during WW1 by people of all ages.

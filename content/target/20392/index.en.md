@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Patrick Harvie MSP on Facebook
-
 The Facebook page of Patrick Harvie MSP, Scottish Green Party Member of the Scottish Parliament for Glasgow and co-convenor of the party.

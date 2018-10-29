@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Mulfran Press
-
 Mulfran press is a book publisher based in Cardiff.

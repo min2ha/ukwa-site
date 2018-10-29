@@ -10,6 +10,4 @@
   "start_date": "2015-11-05T09:00:00Z"
 }
 
-# Myddelton College
-
 Myddelton College is a co-educational school located on the outskirts of Denbigh.

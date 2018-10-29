@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Young Republicans drafted in from US to boost Conservative election bid
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Specialised Healthcare Alliance (SHCA)
-
 The Specialised Healthcare Alliance is a coalition of patient-related groups and corporate supporters with a strong record of campaigning on behalf of people with rare and complex conditions in need of specialised care. These services cover a wide range of conditions, many of which could affect any one of us at some point in our lives.

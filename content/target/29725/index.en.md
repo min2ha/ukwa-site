@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# Veterans Aid
-
 Veterans Aid is a charity helping British Army veterans.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-30T10:00:00Z"
 }
 
-# Welsh Guards 2015 Special Events
-
 2015 marks the Centenary Year of the Welsh Guards.

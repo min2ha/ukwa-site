@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bruges Group: anti-EU leaflets
-
 The Bruges Group is a neoliberal think-tank which is expressly against the European Union. This is a collection of the leaflets produced by the Bruges Group which supports its message.

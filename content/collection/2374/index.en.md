@@ -48,8 +48,6 @@
   "endDateText": "31-07-2011"
 }
 
-# Welsh devolution referendum 2011
-
 Collection set up by Rob Phillips National Library of Wales. 
 
 Welsh devolution referendum 2011

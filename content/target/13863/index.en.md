@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Brian Donohoe MP
-
 <p>The website of Brian Donohoe, Labour Member of Parliament for Central Ayrshire.</p>

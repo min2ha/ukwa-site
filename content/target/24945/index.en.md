@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lisa Townsend (Conservative)
-
 Lisa Townsend stood as Conservative candidate for Norwich South at the 2015 General Election but was not elected.

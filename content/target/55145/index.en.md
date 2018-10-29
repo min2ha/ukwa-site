@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Don’t listen to the moral panic, social media is good for young people’s mental health
-
 Independent, The: News article about social media being good for young peoples mental health

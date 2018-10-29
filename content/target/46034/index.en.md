@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Creative Cardiff
-
 Creative Cardiff is a network which connects people working in any creative organisation, business or job in the Cardiff region. Creative Cardiff is supported by Cardiff University’s Creative Economy team in partnership.

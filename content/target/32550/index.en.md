@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Parliament UK: European Union
-
 Topic guide to the European Union. These web pages provide Parliamentary research papers, standard notes, committee reports and Early Day Motions relating to the UK and EU. 

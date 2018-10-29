@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Mewn Cymeriad | In Character
-
 Welsh Theatre company providing plays based on Welsh history for schools.

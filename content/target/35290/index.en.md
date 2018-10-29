@@ -10,6 +10,4 @@
   "start_date": "2016-02-16T09:00:00Z"
 }
 
-# Totally Local Crickhowell
-
 Totally Locally Crickhowell was developed in 2013 from Crickhowell & Black Mountain Tourism Group (CBMT) wanting to collectively support and promote the town's independent shops and businesses. It is part of the Totally Locally Ltd movement.

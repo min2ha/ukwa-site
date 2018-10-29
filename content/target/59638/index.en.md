@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Floreana
-
 Makers of a range of naturally sugar-free soft-drinks.

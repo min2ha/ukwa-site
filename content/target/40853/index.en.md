@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Norwich Lanes Fashion
-
 This blog aims to keep up to date with all the latest events in the Norwich Lanes.

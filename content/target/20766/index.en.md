@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul McGarry on Facebook
-
 This is the Facebook page of Paul McGarry, the Liberal Democrats candidate for East Kilbride, Strathaven and Lesmahagow in the UK General Election on the 7th May 2015 and East Kilbride in the 2016 Scottish Parliamentary election. 

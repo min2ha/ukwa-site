@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Elton John
-
 Official website of Sir Elton John, a British solo artist.

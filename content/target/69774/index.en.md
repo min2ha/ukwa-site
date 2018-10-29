@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: UK would run out of food a year from now with no-deal Brexit, NFU warns
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Bellis (Conservative)
-
 James Bellis stood as Conservative candidate for Vauxhall at the 2015 General Election but was not elected.

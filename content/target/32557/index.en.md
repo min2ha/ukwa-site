@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Egidija Ciricaite
-
 Website of a Lithuanian born, living in London artist Egidija Ciricaite. She is also a co-founder of the Collective Investigations.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Revolutionary Communist Party of Britain (Marxist-Leninist)
-
 The Revolutionary Communist Party of Britain (Marxist–Leninist) (RCPB-ML) is a small British Communist political party. It was named the Communist Party of England (Marxist-Leninist) on initial formation in 1972.

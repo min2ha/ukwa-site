@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Unlock Democracy: Magna Carta 2015 - The People Have Spoken!
-

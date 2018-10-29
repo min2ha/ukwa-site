@@ -10,6 +10,4 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Ysgol Tal y bont
-
 Ysgol Tal y bont is in Conwy and is due to close in 2017.

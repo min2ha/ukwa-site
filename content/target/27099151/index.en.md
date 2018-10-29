@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Unbound
-
 Unbound is a shop for Live Art books, DVDs and Editions. They specialise in publications and artefacts related to groundbreaking and risk-taking contemporary art practices.

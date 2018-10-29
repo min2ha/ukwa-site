@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# One Dynamic Nation (@1dynamicnation) on Twitter
-
 <p>One Dynamic Nation is a non-profit organisation being set up to campaign for Scotland to stay in the United Kingdom.</p>

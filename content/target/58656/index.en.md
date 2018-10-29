@@ -11,7 +11,5 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# EDIC Cardiff (@europedirectcdf) on Twitter
-
 The Europe Direct information centres (EDIC) Cardiff is based at Cardiff Central Library. 
 It is an Information centre for issues concerning Europe and the European Union. 

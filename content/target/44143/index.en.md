@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Louise Bours (UKIP MEP for the North West)
-
 Louise Bours stood as UKIP candidate for the North West at the 2014 European parliament election and was elected to serve as MEP.

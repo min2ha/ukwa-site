@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hornsey and Wood Green Conservative Association (@HWGCA) on Twitter
-
 Twitter feed of Hornsey and Wood Green Conservative Association

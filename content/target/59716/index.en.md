@@ -10,6 +10,4 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# Welsh Gold
-
 The site provides a brief history of Welsh Gold and its connections with the Royal Family. The site is a responsibilty of Clogau Gold of Wales Ltd.

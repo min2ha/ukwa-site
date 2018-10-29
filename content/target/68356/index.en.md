@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whitehaven Rugby League (@OfficialHavenRl) on Twitter
-
 The official Twitter  feed for Whitehaven Rugby League.  Whitehaven RLFC was formed in 1948.

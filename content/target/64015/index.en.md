@@ -10,8 +10,6 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Water Health Partnership for Wales
-
 The Water Health Partnership for Wales brings together public health professionals to work on issues related to water and health. The Water Health Partnership for Wales is a public health initiative
 that brings together relevant organisations and agencies to work
 together on public health and water related issues.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T11:00:00Z"
 }
 
-# Friends of Forest Farm & Glamorganshire Canal Local Nature Reserve
-
 Friends of Forest Farm protect and maintain Forest Farm (Whitchurch, Cardiff) and the remains of the Glamorganshire Canal.

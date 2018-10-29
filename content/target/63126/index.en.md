@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Professor Stephen Hawking Warned People Need To Spread Out Into Space To Survive 
-
 Stephen Hawking, the theoretical physicist, cosmologist and author issued a warning to say that humanity could be wiped out by a number of disasters, including climate change, over-population or AI.

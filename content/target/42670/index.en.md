@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Digs – Hackney Renters
-
 Supporting and empowering Hackney renters.

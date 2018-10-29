@@ -10,6 +10,4 @@
   "start_date": "2016-12-22T09:00:00Z"
 }
 
-# Hebrides Writer
-
 Personal blog of Katie Laing about her life on the Isle of Lewis.

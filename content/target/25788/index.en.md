@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Farage: Cameron must take some blame for migrant deaths in Mediterranean
-
 None

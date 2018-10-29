@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's, Bethnal Green
-
 St Peter's is a cross-tradition community church in the heart of rapidly changing East London, UK

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Grazia Daily
-
 <p>The online version of the 'Grazia' magazine.</p>

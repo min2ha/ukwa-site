@@ -10,6 +10,4 @@
   "start_date": "2016-03-09T09:00:00Z"
 }
 
-# Socialism Today
-
 Socialism Today is the monthly magazine of the Socialist Party (England and Wales). With an extensive worldwide readership, we provide up-to-date analysis, from a socialist perspective, of events in Britain and internationally.

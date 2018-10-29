@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Westminster Foundation for Democracy
-
 The Westminster Foundation for Democracy is a United Kingdom non-departmental public body set up to promote democratic institutions overseas. It was established in March 1992 and registered as a company limited by guarantee.

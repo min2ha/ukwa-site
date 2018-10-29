@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Bronte Country
-
 Bronte Country is an area which straddles the West Yorkshire and East Lancashire Pennines in the North of England.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Vice-chancellors share their expectations for 2015 party manifestos 
-
 None

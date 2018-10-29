@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Game Conservancy Trust
-
 None

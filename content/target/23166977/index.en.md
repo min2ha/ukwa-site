@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Financial Services Commission (FSC), Gibraltar
-
 The Gibraltar Financial Services Commission regulates the financial services industry in Gibraltar.

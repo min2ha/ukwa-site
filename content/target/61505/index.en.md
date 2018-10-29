@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-#  Art of Arfon, The
-
 Arfon Jones is an artist/ illustrator based in Gwynedd. His work has been publicly displayed worldwide and used in wide range of publications, books, comics, magazines, dvd’s, posters, logo design and private portraits.

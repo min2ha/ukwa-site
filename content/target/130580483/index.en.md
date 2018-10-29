@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Midlands Public Health Observatory (EMPHO) & Trent Cancer Registry
-
 None

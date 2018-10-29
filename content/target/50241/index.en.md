@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Mungo Foundation
-
 Site of a Scottish charitable organisation set up by the Roman Catholic Archdiocese of Glasgow to provide social care for older people, young homeless people as well as addressing tenancy issues and providing respite.

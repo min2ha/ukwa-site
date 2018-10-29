@@ -10,5 +10,3 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Oriel Ynys Mon: Anglesey's centre for Art and History
-

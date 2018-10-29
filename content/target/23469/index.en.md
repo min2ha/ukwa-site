@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lord Toby Jug (@lordtobyjug) on Twitter (The Eccentric Party of Great Britain (UK))
-

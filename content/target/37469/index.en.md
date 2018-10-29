@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Church of Scotland, The: Church calls for positive debate on EU
-
 Article about the views of The Church of Scotland about the EU referendum

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Newborn Blood Spot Screening Programme
-
 None

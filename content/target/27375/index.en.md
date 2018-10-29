@@ -10,6 +10,4 @@
   "start_date": "2015-06-08T08:00:00Z"
 }
 
-# Amgueddfa Stori Caerdydd | Cardiff Story Museum
-
 Cardiff Council has created a city museum, The Cardiff Story, closely developed with the people of Cardiff. It is located in the Old Library building.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WF Online (@WFonlinecom) on Twitter
-
 The official Twitter account of a football website that focuses on women's football from around the world.

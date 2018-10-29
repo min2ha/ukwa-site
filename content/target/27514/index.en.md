@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: David Cameron heads to Wales to shore up Tory support
-
 None

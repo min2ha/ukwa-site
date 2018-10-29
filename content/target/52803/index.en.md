@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Leg Ulcer Forum
-
 The Leg Ulcer Forum was established in 1993 by a group of expert enthusiasts following the first university based national leg ulcer course.

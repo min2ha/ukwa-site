@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Culture @ the Olympics: issues, trends, and perspectives
-

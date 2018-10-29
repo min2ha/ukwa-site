@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Construction Scotland Innovation Centre
-
 Site of a service linking together businesses, university experts and public sector providers including Scottish Enterprise and Scottish Development International to support businesses to deliver transformational change in construction.

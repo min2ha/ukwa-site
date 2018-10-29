@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Burmese Rohingya Organisation UK : for the rights of Rohingya in Myanmar
-
 BROUK is a UK campaign for the rights of the Rohingya community in Myanmar. The Rohingya Muslim minority in Burma are the most persecuted ethnic minority in Burma, subject to policies of oppression which are applied almost exclusively to them. Government policies target Rohingya on the basis of their ethnicity and religion. Founded in 2005.

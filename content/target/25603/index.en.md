@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: George Osborne: city mayors could get power over business rates
-
 None

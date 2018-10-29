@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Vegetarian Society, The
-
 The Vegetarian Society influences, inspires and supports people to embrace and maintain a vegetarian lifestyle. We work constructively with businesses, government agencies, policy makers and professionals, whilst always remaining independent. We rely on membership subscriptions and donations to carry out this vital work. Established in 1847, we are the oldest vegetarian organisation in the world. 

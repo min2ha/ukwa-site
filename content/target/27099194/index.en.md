@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Rajni Shah - performance maker, writer, producer & curator
-
 In 2017 the Rajni Shah Projects formally closed as a company with the project One Final Act.

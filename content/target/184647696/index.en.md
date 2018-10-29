@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Rural Fuel Poverty
-
 None

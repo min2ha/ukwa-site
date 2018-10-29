@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Our Quiet Life In Suffolk
-

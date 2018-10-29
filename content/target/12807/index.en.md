@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Where you are meant to be.
-
 <p>A celebration of Scotland's musical and oral traditions, with a brand new set featuring folk sagas, drinking songs, bawdy ballads, bruised laments and more. Aidan Moffat is backed by an all-star band for these free gigs that are part of the Glasgow 2014 Cultural Programme.</p>

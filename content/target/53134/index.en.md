@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Evangelical Alliance: 2017 General Election
-
 The Evangelical Alliance  is encouraging Christians to ask themselves, and the candidates running for election, what kind of society do they want? The website provides access to the EA's election resources, focusing on the themes of love, freedom, justice and truth

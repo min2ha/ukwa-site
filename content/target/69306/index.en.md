@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Celtic, The: Glasgow Irish and the Great War
-
 The official website of The Celtic, Glasgow Irish and the Great War. 

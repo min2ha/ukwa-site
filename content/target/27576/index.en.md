@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Nick Clegg: We will bring a heart to a Tory government, a brain to a Labour one
-
 None

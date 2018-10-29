@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Atherstone RFC
-
 Great rugby, great friendship, great fun.

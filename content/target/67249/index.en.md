@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: MPs says PM must honour 'assurances' over Parliament's role
-
 Tory MPs were to discuss with ministers what will happen in the event of a no-deal Brexit - amid calls for Theresa May to honour "assurances" to them.
 

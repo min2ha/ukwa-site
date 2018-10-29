@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 11th December 2017: Brexit Deal: Referendum
-
 At a debate in Westminster Hall, the Commons rejected petitions calling for a referendum on the deal for the UK’s exit from the European Union.

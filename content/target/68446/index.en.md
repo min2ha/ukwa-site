@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The Erasmus Programme
-
 This House of Commons briefing provides information on the Erasmus+ programme and discusses the future position of the UK with regard to the scheme post Brexit.
 

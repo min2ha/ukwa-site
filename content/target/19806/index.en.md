@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Wales could have 11 female MPs after this year's general election 
-

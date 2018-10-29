@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Mixital
-
 Mixital is a platform, which allows creating and sharing visuals and stories and to learn the ropes by remixing other people's.

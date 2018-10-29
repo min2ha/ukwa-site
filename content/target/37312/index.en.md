@@ -10,6 +10,4 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# Rees Jeffreys Road Fund
-
 The Rees Jeffreys Road Fund provides support for education and research in transport; and helps fund projects that improve the roadside environment for motorists and other road users.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Who are the 100 business chiefs backing the Tories? We dig deeper 
-
 None

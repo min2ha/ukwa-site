@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Parliament alone is sovereign': Gina Miller speaks out after article 50 victory
-

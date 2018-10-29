@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Catholic Herald
-
 <p>Website of the newspaper 'Catholic Herald'.</p>

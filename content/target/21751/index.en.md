@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Voters split over David Cameron's decision to rule out third term
-
 None

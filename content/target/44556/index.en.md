@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: 45 female Labour MPs write to Jeremy Corbyn demanding he does more to stop 'disgusting' abuse from supporters
-
 Jeremy Corbyn has been accused by nearly half the female MPs in his party of failing to stop the "disgusting and totally unacceptable" abuse of women by his supporters.

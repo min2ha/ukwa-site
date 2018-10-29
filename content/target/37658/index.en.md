@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Foreign Policy Cenre: Renegotiation, reform and referendum : does Britain have an EU future
-

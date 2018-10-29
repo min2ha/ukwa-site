@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron gives a straight answer at last session of prime minister's questions
-
 None

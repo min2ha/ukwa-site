@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# National Office of Animal Health (NOAH)
-
 NOAH represents the UK animal medicine industry: its aim is to promote the benefits of safe, effective, quality medicines for the health and welfare of all animals.

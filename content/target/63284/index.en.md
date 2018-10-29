@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Local Drove Roads
-
 Drove roads disappeared with the coming of the railways. But traces continued. This website provides details of the many droving routes that existed in Britain.

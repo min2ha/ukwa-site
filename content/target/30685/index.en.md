@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Glasgow School of Art
-
 Official website of the Glasgow School of Art.

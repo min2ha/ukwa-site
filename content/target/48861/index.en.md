@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Labour For IndyWales (@Labour4IndWales) on Twitter
-
 The mission statement describes Labour for an Independent Wales as a forum for Labour party members sympathetic to the notion of an Independent Wales.

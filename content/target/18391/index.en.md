@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip's Mandy Boylett mocks David Cameron with Abba Chiquitita parody
-
 None

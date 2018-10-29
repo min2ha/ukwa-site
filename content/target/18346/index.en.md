@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: 10 issues that will define the campaign - and the result of the election 
-

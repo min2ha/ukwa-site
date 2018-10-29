@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Twickenham Conservatives
-
 Website of Twickenham Conservatives, providing information on MPs, MEPs, Mayor and London assembly members, borough councillors and association officers, events, speeches in Parliament and local and national news.

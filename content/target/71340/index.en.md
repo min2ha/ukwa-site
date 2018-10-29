@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Support U
-
 The website of a Lesbian, Gay, Bisexual and Transgender (LGBT) help and support service based in the South East of England

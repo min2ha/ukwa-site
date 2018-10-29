@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fran Bryant (@Fab63Fran) on Twitter
-
 Parliamentary candidate for the Green Party in the constituency of Preseli Pembrokeshire in 2015

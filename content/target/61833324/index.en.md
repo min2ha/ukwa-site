@@ -10,5 +10,3 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Aircrew Remembrance Society
-

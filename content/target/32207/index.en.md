@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Connect : Wrexham County Borough Council
-
 Online access to Connect, Wrexham County Borough Council newspaper.

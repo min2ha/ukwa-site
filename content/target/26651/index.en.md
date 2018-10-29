@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: One-nation Labour can still be the vehicle to put us back in the driving seat
-
 None

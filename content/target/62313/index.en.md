@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sheffield Wednesday Football Club
-
 Sheffield Wednesday Football Club is a professional association football club based in Sheffield, England.

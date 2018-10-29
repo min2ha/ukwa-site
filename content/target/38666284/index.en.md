@@ -11,8 +11,6 @@
   "subject": "Sports Collection"
 }
 
-# Games Monitor: debunking Olympic myths
-
 Games Monitor is a network of people raising awareness about issues within the London Olympic development processes.
 
 We want to highlight the local, London and international implications of the Olympic industry. We seek to deconstruct the 'fantastic' hype of Olympic boosterism and the eager complicity of the 'urban elites' in politics, business, the media, sport, academia and local institutional 'community stakeholders'.

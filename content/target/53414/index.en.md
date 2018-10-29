@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ramblers: Manifesto for a Walking Britain
-
 Ramblers calls on all candidates in the 2017 general election to support them in unlocking the potential of walking to create a happier, healthier society, a better environment, and a more prosperous economy.

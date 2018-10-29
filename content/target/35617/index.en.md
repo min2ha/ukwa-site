@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: The Leave campaign now has a standard bearer in Boris Johnson
-

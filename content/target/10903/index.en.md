@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yorkshire Post: Tour de France News
-
 Tour de France news page for Yorkshire Post

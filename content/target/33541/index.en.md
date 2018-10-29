@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Herts at War
-
 Herts at War aims to engage, educate and involve the local community in discovering and learning about Hertfordshire during the Great War.

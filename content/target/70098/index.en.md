@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Fighting Spirit Film Festival
-
 Website for the Fighting Spirit Film Festival.

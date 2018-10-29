@@ -10,6 +10,4 @@
   "start_date": "2018-01-11T09:00:00Z"
 }
 
-# Harriet Lloyd - artist
-
 Harriet Lloyd works mainly on paper with a combination of water colour, gouache, ink and collage and is a member of the Royal Watercolour Society of Wales.

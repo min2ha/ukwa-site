@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Iran Society, The 
-
 The Iran Society acts as a gathering point for those who are interested in Iran’s heritage and culture.

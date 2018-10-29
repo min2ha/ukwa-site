@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bramhall St. Michaels
-
 Bramhall St. Michaels is a large family made up of around 450 committed members, of all ages.

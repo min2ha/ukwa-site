@@ -10,5 +10,3 @@
   "start_date": "2012-05-23T00:00:00Z"
 }
 
-# PARiS (Promoting Academic Resources in Society) blog
-

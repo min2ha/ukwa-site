@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Kinetic Theatre Arts
-
 Kinetic Theatre Arts was established iby Director & Choreographer Kris Crowley. They are supported by St David's College and the Arts Council of Wales and are based in Cardiff.

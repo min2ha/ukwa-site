@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thought Bubble: the Leeds Comic Art Festival 
-
 Thought Bubble is the UK’s largest annual event which celebrates sequential art in all its forms, including everything from superheroes to independent and small press comics. It is a non profit making organisation dedicated to promoting comics and graphic novels as an important cultural art form. Taking place at a variety of venues across the city, its aim is to cater to both long-time comic book fans and those who have never picked up a graphic novel before!

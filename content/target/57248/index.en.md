@@ -10,6 +10,4 @@
   "start_date": "2017-09-19T09:00:00Z"
 }
 
-# Jon Ratigan, filmmaker & painter
-
 Jon Ratigan is a filmmaker & painter from Tredegar and currently part of the Unit(e) group residency at artist led gallery G39 in Cardiff.

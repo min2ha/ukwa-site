@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Friends of East Sussex Record Office (FESRO)
-
 Friends of East Sussex Record Office (FESRO) supports the work of East Sussex Record Office. Over those years the group have helped the record office to acquire and conserve many documentary sources for local and family history. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# thebestof Colchester
-
 thebestof Colchester is a local business guide; their mission is to take the stress out of finding great, recommended local businesses. They assess the business ad then promote them through a variety of marketing streams.

@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# NFU (National Farmers Union Cymru) (@NFUCymru) 
-

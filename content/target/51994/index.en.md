@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Church, Burnham
-
 St Peter's Church is at the centre of the parish and village of Burnham, 3 miles west of Slough and 3 miles east of Maidenhead. The parish contains both rural and urban environments and is served by two local authorities, South Bucks District Council and Slough Borough Council.

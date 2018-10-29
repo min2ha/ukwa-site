@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Made in Tredegar
-
 <p>Made in Tredegar works with local communities to produce  community co-produced videos.</p>

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Kizzy Crawford
-
 Kizzy Crawford is a Welsh speaker with Bajan heritage who sings in Welsh and English. She is from Merthyr Tydfil.

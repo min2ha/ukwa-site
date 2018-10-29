@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Voting in the EU referendum is not a question of faith for Catholics
-
 Catholic Herald

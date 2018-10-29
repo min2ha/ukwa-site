@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for European Policy Studies
-
 Founded in Brussels in 1983, the Centre for European Policy Studies (CEPS) is a leading ​think tank and ​forum for debate on EU affairs,​ with an exceptionally strong in-house research capacity​ and an extensive network of partner institutes throughout the world

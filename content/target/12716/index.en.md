@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sam Oldham - Professional Gymnast for Great Britain
-
 <p>The website of gymnast Sam Oldham, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

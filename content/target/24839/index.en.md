@@ -10,5 +10,3 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# Simon de Deney on Facebook, Liberal Democrat Candidate for Hackney North and Stoke Newington
-

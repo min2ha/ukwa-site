@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas Gymraeg Cas-gwent, Cil-y-coed a'r cyffiniau | Chepstow, Caldicot & area Welsh Society
-

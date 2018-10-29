@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# insider.co.uk 
-
 insider.co.uk is the online sister website of Scottish Business Insider, Scotland's oldest business magazine. The magazine is the only one whose print edition is audited by the Audit Bureau of Circulation. 

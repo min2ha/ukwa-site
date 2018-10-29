@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Sorcerer's Apprentice
-
 Website of UK based Occult supplier, established in Leeds in 1975.

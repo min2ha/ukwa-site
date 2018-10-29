@@ -10,7 +10,5 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Cytun - Churches Together in Wales
-
 <p>Ecumenical General<br />
 Network for Christian churches in Wales to work together</p>

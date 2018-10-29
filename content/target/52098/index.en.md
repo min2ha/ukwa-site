@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Parishes of St David and St Mair, The
-

@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Castle to Cathedral to Cashmere
-
 Site of a heritage museum using modern (as of Novem 2016) techniques to bring the thousand years of history of the town of Elgin, Moray, Scotland, to life.

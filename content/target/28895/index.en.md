@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# 4π Productions
-
 4π Productions are an experiential art, marketing and events company that offers creative solutions utilising 360° content and are based in Cardiff.

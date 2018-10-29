@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SpotTheSigns (@SpotTheSignsMH) on Twitter
-
 Twitter account for UK based mental Health initiative 

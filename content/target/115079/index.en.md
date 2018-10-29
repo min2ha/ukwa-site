@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Celfyddydau Cymuned a Bro | Valley and Vale Community Arts
-
 Valley and Vale Community Arts is based in Bridgend and work with people and communities who are often marginalised, vulnerable or at risk in south Wales.

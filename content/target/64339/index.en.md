@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Tithe Barn Abergavenny
-
 The Tithe Barn in Abergavenny is a historic building restored in 2002 and part of the St Mary’s Priory Church complex which houses a food hall, shop, education centre and exhibition. The barn itself dates back to the 12th century. This is a blog which began in 2011.

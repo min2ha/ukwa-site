@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 1914-1918 Richmond at Home and at War
-
 Richmond at Home and at War is a research project on the impact of the First World War on the local area.

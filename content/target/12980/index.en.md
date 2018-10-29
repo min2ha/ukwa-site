@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Annie George: The Bridge, Edinburgh Fringe 2014
-
 <p>The blog of writer, performer and filmmaker Annie George including information about the Bridge, a solo performance piece, blending text, sound and visual design.  The starting point is a quest to piece together the life and lost work of Padu. Part of the Glasgow 2014 Cultural Programme and the Edinburgh Festivial Fringe.</p>

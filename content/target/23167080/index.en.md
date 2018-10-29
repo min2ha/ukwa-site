@@ -11,6 +11,4 @@
   "subject": "Spending Cuts 2010: Impact on Social Welfare"
 }
 
-# Trades Union Congress (TUC)
-
 TUC membership now stands at 52 unions, representing almost six million workers.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Teddington Society Wiki
-
 The aim of the Teddington Society is to preserve and enhance the quality of life for everyone living and working in Teddington.

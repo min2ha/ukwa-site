@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mary Wimbury for Aberconwy on Facebook
-
 Mary Wimbury is the Labour candidate for Aberconwy.

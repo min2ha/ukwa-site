@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Who trusted David Cameron to tell the truth about Brexit? He's a politician, after all
-

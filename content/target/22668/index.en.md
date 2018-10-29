@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Touch
-
 The website is an archive from an independent company, established in 1982, focusing on music and promoting independent artists.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Banffshire Coast
-
 Site of a directory of tourist and business information for the Banffhire coast, in the North East of Scotland.

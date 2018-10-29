@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ed Miliband is 'in denial' over his need for SNP, blasts Nicola Sturgeon
-
 None

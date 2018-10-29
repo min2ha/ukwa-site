@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Tarves
-
 Community website providing local information for local people and visitors for the village of Tarves, Aberdeenshire, Scotland.

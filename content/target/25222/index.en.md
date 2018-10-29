@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Election debate fix - BBC admits two out of three audience members were lefties
-
 None

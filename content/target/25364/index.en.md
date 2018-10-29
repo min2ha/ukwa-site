@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Baby boomers v the rest: is age the great new divide?
-
 None

@@ -33,6 +33,4 @@
   "endDateText": "28-02-2018"
 }
 
-# Russian Revolution Centenary
-
 Collection of websites marking 100 years since the October Revolution (1917 - 2017).

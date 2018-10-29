@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Colinton Castle Sports Club
-
 Site of a member-run squash racquets club located in south-west Edinburgh, welcoming all comers.

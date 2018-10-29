@@ -10,6 +10,4 @@
   "start_date": "2015-11-20T09:00:00Z"
 }
 
-# Experience Barnsley
-
 Experience Barnsley Museum and Discovery Centre is dedicated to the history and people of Barnsley.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-06T09:00:00Z"
 }
 
-# Lisa Carter
-
 Lisa Carter is an artist from Cardiff whose work 'although rooted in painting and drawing sometimes combines these processes with photography, sculpture and installation'. She was selected for the Royal Academy Summer Exhibition in 2015 and the National Eisteddfod in 2012 and 2015. 

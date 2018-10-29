@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# British Nuclear Test Veterans Association
-
 The BNTVA is the organisation which deals with all nuclear test veterans and their families.

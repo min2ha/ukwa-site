@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# People & Performance Ltd
-

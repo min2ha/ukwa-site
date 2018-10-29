@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Vote Paul O'Kane (@PFOKane) on Twitter
-
 Twitter profile of Paul O'Kane, the Scottish Labour candidate for Renfrewshire South in the 2016 Scottish Parliamentary election.

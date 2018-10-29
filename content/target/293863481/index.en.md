@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Act against harm: adult support and protection
-
 The Adult Support and Protection (Scotland) Act 2007 introduces new measures to identify, support and protect adults who may be at risk of harm or neglect and who may not be able to protect themselves.

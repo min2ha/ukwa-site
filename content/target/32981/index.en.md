@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Arfer Da Cymru | Good Practice Wales
-
 Good Practice Wales is a single access online portal to Welsh Public Services good practice and knowledge. The resource is managed by Welsh Local Government Association.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Yes Scotland shared a link: The referendum is over but the energy persists
-
 <p>Yes Scotland shares a link to the newsnetscotland.com article, "The referendum is over but the energy persists" at 7.48am 22nd September, 2014.</p>

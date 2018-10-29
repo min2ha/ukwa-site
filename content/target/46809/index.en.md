@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Why the Brexit judges were right
-

@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Perfume Society
-
 Fragrance events/workshops explore perfumes.

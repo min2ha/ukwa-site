@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Computing Summit
-
 Computing Summit organises IT events in London.

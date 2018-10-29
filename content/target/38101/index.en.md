@@ -10,6 +10,4 @@
   "start_date": "2016-04-05T10:00:00Z"
 }
 
-# Unst : the islands above all others
-
 Community website providing information for visitors to and the local community on the island of Unst, Shetland, Scotland

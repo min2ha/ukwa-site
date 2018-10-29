@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Radical Librarians Collective
-
 Radical Librarians Collective aims to offer a space to challenge, to provoke, to improve and develop the communications between like-minded radicals, to galvanise our collective solidarity against the marketisation of libraries and the removal of our agency to our working worlds and beyond.

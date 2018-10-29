@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Fuel Poverty Indicator
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Magna Carta: 800 years on, we need a new people’s charter 
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Yoker Athletic Football Club
-
 Site for a Scottish junior football club based in the Yoker, Clydebank.

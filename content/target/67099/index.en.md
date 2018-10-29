@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Erith
-
 The Erith Group is a family run, employee owned trust, founded in 1967 by Tom Darsey.  Since its formation the company has grown to form a Group comprising: Erith Holdings Ltd; Erith Contractors Ltd; Erith Haulage Ltd; Erith Plant Services; Erith Training Services and Swanton Consulting Ltd.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Rewind Festival
-
 Site of a series of annual 'retro' music festivals staged at Perth, Cheshire and Henley-on-Thames.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Downstairs at the Kings Head
-
 Website for Downstairs at the Kings Head, one of the oldest Comedy Clubs in Britain, in Crouch End, London.

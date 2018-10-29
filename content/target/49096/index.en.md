@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Islavale Football Club
-
 Site for a Scottish junior football club based in Keith, Aberdeenshire.

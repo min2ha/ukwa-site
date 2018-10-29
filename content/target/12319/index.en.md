@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Cabbies for Yes (CabbiesforYes) on Twitter
-
 <p>The twitter profile of Cabbies for Yes.</p>

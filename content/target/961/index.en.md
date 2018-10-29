@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Government Association: Health and Wellbeing Boards
-
 None

@@ -11,6 +11,4 @@
   "subject": "London Terrorist Attack 7th July 2005"
 }
 
-# Londonist
-
 Londonist is about London and everything that happens in it.

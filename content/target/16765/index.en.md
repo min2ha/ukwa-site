@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Union of Teachers (NUT): A manifesto for the 2015 general election: Stand Up for Education
-
 The National Union of Teachers (NUT) is a trade union for school teachers in England, Wales, the Channel Islands and the Isle of Man. It is a member of the Trades Union Congress. The Union recruits only qualified teachers and those training to be qualified teachers into membership.

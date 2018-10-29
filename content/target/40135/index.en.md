@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Bernard Jenkin smells a trade union bill conspiracy 
-
 Guardian, the

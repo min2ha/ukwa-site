@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Paul's United Church, Penmaenmawr
-

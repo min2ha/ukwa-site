@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# ChrisGillibrand (@UKIPDM) on Twitter (UKIP candidate for Dwyfor Meirionnydd)
-

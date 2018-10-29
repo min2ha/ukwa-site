@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail, The: A terrifying parable of the addictive power of internet gambling: It began with a £5 online bet. Then this ex-Major gambled away £750,000 - and his family
-
 A news article describing one persons experience with online gambling addiction 

@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# Eleanor Smith (Labour candidate for Wolverhampton South West)
-
 Eleanor Smith stood as Labour candidate for Wolverhampton South West in the 2017 General Election and was elected as MP.

@@ -10,5 +10,3 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Milford Haven Museum
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Aberavon and Neath Liberal Democrats 
-
 Aberavon and Neath Liberal Democrats blog with posts on local and national news.

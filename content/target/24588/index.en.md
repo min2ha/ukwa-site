@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: 138 candidates vying for 18 NI seats
-
 None
