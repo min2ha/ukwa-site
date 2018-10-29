@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:27.760165", 
+  "date": "2018-10-29T12:54:23.604769", 
   "open_access": false, 
   "target_url": "http://www.blaenavonband.co.uk/", 
   "description": "This is the website for Blaenavon Town Band, established late in the 1890's. ", 
   "end_date": null, 
   "title": "Blaenavon Town Band", 
-  "record_id": "20181029T112427/kqmYK3UEACszlONjVew5Ew==", 
+  "record_id": "20181029T125423/kqmYK3UEACszlONjVew5Ew==", 
   "publisher": "blaenavonband.co.uk", 
   "start_date": null
 }

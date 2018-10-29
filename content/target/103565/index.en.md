@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:23.691768", 
+  "date": "2018-10-29T12:54:18.676474", 
   "open_access": false, 
   "target_url": "http://www.wddty.co.uk/", 
   "description": "What Doctors Don't Tell You is the complete review of health problems and safer, proven ways of treating them.  WDDTY is a monthly journal - described as the best in the world - it's a research database, and it's a portal for you to share your health experiences.", 
   "end_date": null, 
   "title": "What Doctors Don't Tell You", 
-  "record_id": "20181029T112423/3nCxP5LSy32W1MG8eXncgA==", 
+  "record_id": "20181029T125418/3nCxP5LSy32W1MG8eXncgA==", 
   "publisher": "wddty.co.uk", 
   "start_date": null
 }

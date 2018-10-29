@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:20.401565", 
+  "date": "2018-10-29T12:54:14.221520", 
   "open_access": false, 
   "target_url": "http://www.cs.keele.ac.uk/content/people/g.rugg/voynich/", 
   "description": "", 
   "end_date": null, 
   "title": "Replicating the Voynich Manuscript", 
-  "record_id": "20181029T112420/Orz06HGJPGYDcJ8wXnHQyQ==", 
+  "record_id": "20181029T125414/Orz06HGJPGYDcJ8wXnHQyQ==", 
   "publisher": "keele.ac.uk", 
   "start_date": null
 }

@@ -2,7 +2,7 @@
   "date": "2015-01-17T00:00:00", 
   "open_access": true, 
   "target_url": "http://nottwords.org.uk/", 
-  "description": "<p>The official website of the Nottingham Festival of Words.</p>\r\n", 
+  "description": "<p>The official website of the Nottingham Festival of Words.</p>\n", 
   "end_date": null, 
   "title": "Nottingham Festival of Words, The", 
   "record_id": "20150117T000000/TIu3kpddyEF+RNTih/Qjyg==", 

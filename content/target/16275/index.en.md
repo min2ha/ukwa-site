@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:01.264394", 
+  "date": "2018-10-29T12:54:59.256337", 
   "open_access": true, 
   "target_url": "http://www.jewishgen.org/jcr-uk/London/stamford_francaise_ind/index.htm", 
-  "description": "<p>Website with information about the French Synagogue in London.</p>\r\n", 
+  "description": "<p>Website with information about the French Synagogue in London.</p>\n", 
   "end_date": null, 
   "title": "Jewish Communities and Records: La Synagogue Fran\u00e7aise de Londres", 
-  "record_id": "20181029T112501/gGfQPm8Ruc/OZGXe1998Fw==", 
+  "record_id": "20181029T125459/gGfQPm8Ruc/OZGXe1998Fw==", 
   "publisher": "jewishgen.org", 
   "start_date": null, 
   "subject": null

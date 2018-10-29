@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:59.051052", 
+  "date": "2018-10-29T12:54:56.849733", 
   "open_access": false, 
   "target_url": "http://www.1renewables.com/", 
   "description": "1 Renewables Ltd is a sister company of 1 Architects Ltd and was formed in 2010 to help farmers and landowners take advantage of the Feed-in Tariff scheme.", 
   "end_date": null, 
   "title": "1 Renewables", 
-  "record_id": "20181029T112459/FTy+3q3Ej+kNrjjLqPJZQQ==", 
+  "record_id": "20181029T125456/FTy+3q3Ej+kNrjjLqPJZQQ==", 
   "publisher": "1renewables.com", 
   "start_date": null
 }

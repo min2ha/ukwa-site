@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:25.861241", 
+  "date": "2018-10-29T12:54:21.572380", 
   "open_access": false, 
   "target_url": "http://www.stirlingcityheritagetrust.org/", 
-  "description": "Site of a trust working in the City of Stirling, distributing grants to building projects, and supporting and providing advice and information to the local community on its historic built environment: homeowners, businesses, local voluntary groups and other organisations; promoting research into the heritage of Stirling.\r\n", 
+  "description": "Site of a trust working in the City of Stirling, distributing grants to building projects, and supporting and providing advice and information to the local community on its historic built environment: homeowners, businesses, local voluntary groups and other organisations; promoting research into the heritage of Stirling.\n", 
   "end_date": null, 
   "title": "Stirling City Heritage Trust", 
-  "record_id": "20181029T112425/0/r6z9vGfg6R1q0X+hLcgg==", 
+  "record_id": "20181029T125421/0/r6z9vGfg6R1q0X+hLcgg==", 
   "publisher": "stirlingcityheritagetrust.org", 
   "start_date": null, 
   "subject": "Local History Societies "

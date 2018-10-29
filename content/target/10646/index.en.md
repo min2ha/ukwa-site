@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:13.050002", 
+  "date": "2018-10-29T12:55:10.285013", 
   "open_access": false, 
   "target_url": "http://www.fortnumandmason.london/", 
   "description": null, 
   "end_date": null, 
   "title": "Fortnum & Mason .London", 
-  "record_id": "20181029T112513/yIjYhWC6KdmSpLVKqzsNBA==", 
+  "record_id": "20181029T125510/yIjYhWC6KdmSpLVKqzsNBA==", 
   "publisher": "fortnumandmason.london", 
   "start_date": null
 }

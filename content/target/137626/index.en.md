@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:21.885206", 
+  "date": "2018-10-29T12:54:16.215073", 
   "open_access": false, 
   "target_url": "http://62.73.191.157/regind/default.asp", 
   "description": null, 
   "end_date": null, 
   "title": "Regional Economic Performance Indicators", 
-  "record_id": "20181029T112421/+xL2wHNEtX3yiYh5UUhc5w==", 
+  "record_id": "20181029T125416/+xL2wHNEtX3yiYh5UUhc5w==", 
   "publisher": "", 
   "start_date": null, 
   "subject": "Government Websites 2007 "

@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:32.988265", 
+  "date": "2018-10-29T12:54:29.994154", 
   "open_access": false, 
   "target_url": "http://www.llanhillethinstitute.com/", 
-  "description": "Llanhilleth Institute is a Grade II listed building built in 1909\r\nand now caters for conferences, weddings, the arts and live entertainment; as well as acting as a focus and resource for the whole of the community.", 
+  "description": "Llanhilleth Institute is a Grade II listed building built in 1909\nand now caters for conferences, weddings, the arts and live entertainment; as well as acting as a focus and resource for the whole of the community.", 
   "end_date": null, 
   "title": "Llanhilleth Miners Institute", 
-  "record_id": "20181029T112432/Yv1TfhzRhyFfwQr6PdUXgQ==", 
+  "record_id": "20181029T125429/Yv1TfhzRhyFfwQr6PdUXgQ==", 
   "publisher": "llanhillethinstitute.com", 
   "start_date": null
 }

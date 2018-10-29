@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:18.160136", 
+  "date": "2018-10-29T12:55:15.047132", 
   "open_access": true, 
   "target_url": "http://adventist.org.uk/", 
   "description": "<p>Christian Seventh Day Adventists<br />\nA Protestant denomination distinguished in particular by its observance of Saturday as the holy day of the week.</p>\n", 
   "end_date": null, 
   "title": "Seventh Day Adventist Church in the UK and Ireland", 
-  "record_id": "20181029T112518/wC2Kkn74XqVhj8DIIaMKFw==", 
+  "record_id": "20181029T125515/wC2Kkn74XqVhj8DIIaMKFw==", 
   "publisher": "adventist.org.uk", 
   "start_date": null, 
   "subject": "Religion/Theology"

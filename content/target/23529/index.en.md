@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:05.926881", 
+  "date": "2018-10-29T12:55:04.221537", 
   "open_access": false, 
   "target_url": "http://www.ibtimes.co.uk/ebola-virus-liberian-woman-infected-virus-after-sex-man-six-months-after-he-was-cured-disease-1499458", 
   "description": "", 
   "end_date": null, 
   "title": "Liberian woman infected with virus after sex with man, six months after he was cured of the disease", 
-  "record_id": "20181029T112505/gvMRm7lFC+sC/taWo7l4Vg==", 
+  "record_id": "20181029T125504/gvMRm7lFC+sC/taWo7l4Vg==", 
   "publisher": "ibtimes.co.uk", 
   "start_date": null, 
   "subject": "Ebola Outbreak, West Africa 2014"

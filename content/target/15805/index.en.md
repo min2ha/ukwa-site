@@ -2,7 +2,7 @@
   "date": "2015-01-13T00:00:00", 
   "open_access": false, 
   "target_url": "https://www.newhamcyclingclub.co.uk", 
-  "description": "<p>Newham Cycling Club gives information about rides, routes and tips relating to cycling.</p>\r\n", 
+  "description": "<p>Newham Cycling Club gives information about rides, routes and tips relating to cycling.</p>\n", 
   "end_date": null, 
   "title": "Newham Cycling Club", 
   "record_id": "20150113T000000/gKmfOn6kpF33yVQgDFn+hA==", 

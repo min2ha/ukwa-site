@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:59.886470", 
+  "date": "2018-10-29T12:54:57.863537", 
   "open_access": true, 
   "target_url": "http://www.powysprp.org.uk/", 
-  "description": "PRP is working with Powys County Council to deliver a wide and exciting range of valuable financial support through our projects Sustainable Tourism, Farm Diversification and Resilient Powys. Its focus is on farming and tourism.\r\n", 
+  "description": "PRP is working with Powys County Council to deliver a wide and exciting range of valuable financial support through our projects Sustainable Tourism, Farm Diversification and Resilient Powys. Its focus is on farming and tourism.\n", 
   "end_date": null, 
   "title": "Powys Regeneration Partnership (PRP)", 
-  "record_id": "20181029T112459/H3rACT4Uty3q5BqXau2LMg==", 
+  "record_id": "20181029T125457/H3rACT4Uty3q5BqXau2LMg==", 
   "publisher": "powysprp.org.uk", 
   "start_date": null
 }

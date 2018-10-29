@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:38.347032", 
+  "date": "2018-10-29T12:54:36.019622", 
   "open_access": false, 
   "target_url": "https://visitruthin.wales/", 
   "description": "", 
   "end_date": null, 
   "title": "Visit Rhuthin", 
-  "record_id": "20181029T112438/D3wdpzRDql67+R1dBof9DA==", 
+  "record_id": "20181029T125436/D3wdpzRDql67+R1dBof9DA==", 
   "publisher": "visitruthin.wales", 
   "start_date": null
 }

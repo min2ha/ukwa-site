@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:19.714545", 
+  "date": "2018-10-29T12:54:13.201790", 
   "open_access": true, 
   "target_url": "http://labserv.nesc.gla.ac.uk/projects/dyvose/", 
   "description": "", 
   "end_date": null, 
   "title": "Dynamic Virtual Organisations in e-Science Education", 
-  "record_id": "20181029T112419/ir+djRUCqDVJd0UGc6BO5g==", 
+  "record_id": "20181029T125413/ir+djRUCqDVJd0UGc6BO5g==", 
   "publisher": "gla.ac.uk", 
   "start_date": null
 }

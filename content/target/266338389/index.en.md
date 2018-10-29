@@ -2,7 +2,7 @@
   "date": "2014-10-10T07:00:00", 
   "open_access": true, 
   "target_url": "http://www.thelittlevictoryball.com/", 
-  "description": "<p>Project exploring the First World War through a mobile museum and interactive theatre event.</p>\r\n", 
+  "description": "<p>Project exploring the First World War through a mobile museum and interactive theatre event.</p>\n", 
   "end_date": null, 
   "title": "Little Victory Ball, The", 
   "record_id": "20141010T070000/65R0Cz1TCLuK1e65D7AY+Q==", 

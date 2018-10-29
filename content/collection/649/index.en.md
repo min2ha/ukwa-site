@@ -5,7 +5,7 @@
   "title": "EU Referendum", 
   "startDateText": "20-11-2015", 
   "highlights": [], 
-  "description": "Following the announcement in May 2015 that there would be a referendum on the UK\u2019s EU membership; curators at the Bodleian Libraries, Oxford, started a collection of websites to capture the debate.\r\nThe collection captures debates around \u2018Brexit\u2019  as well as the wider context of UK/EU relations, including:\r\n    Media coverage,\r\n    websites of political parties and other political institutions and groups\r\n    campaigning and lobbying\r\n    trade unions, professional organisations, businesses\r\n    academic debate\r\n    culture and arts\r\n    public opinion through blogs, comments, and if possible social media.\r\nSome items in the collection are whole websites; others are a single news story or blog post.", 
+  "description": "Following the announcement in May 2015 that there would be a referendum on the UK\u2019s EU membership; curators at the Bodleian Libraries, Oxford, started a collection of websites to capture the debate.\nThe collection captures debates around \u2018Brexit\u2019  as well as the wider context of UK/EU relations, including:\n    Media coverage,\n    websites of political parties and other political institutions and groups\n    campaigning and lobbying\n    trade unions, professional organisations, businesses\n    academic debate\n    culture and arts\n    public opinion through blogs, comments, and if possible social media.\nSome items in the collection are whole websites; others are a single news story or blog post.", 
   "id": 649, 
   "field_publish": true, 
   "targetIds": [

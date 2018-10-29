@@ -5,7 +5,7 @@
   "title": "Gender Equality", 
   "startDateText": "19-01-2018", 
   "highlights": [], 
-  "description": "This collection gives an insight into attitudes in the UK relating to gender equality. The collection includes material relating to bodily autonomy; domestic abuse, gender equality in the workplace; gender identity; the gender pay gap; parenting; and women\u2019s suffrage, including material relating to the centenary of the 1918 Representation of the Peoples Act.\r\n\r\n", 
+  "description": "This collection gives an insight into attitudes in the UK relating to gender equality. The collection includes material relating to bodily autonomy; domestic abuse, gender equality in the workplace; gender identity; the gender pay gap; parenting; and women\u2019s suffrage, including material relating to the centenary of the 1918 Representation of the Peoples Act.\n\n", 
   "id": 1942, 
   "field_publish": true, 
   "targetIds": [

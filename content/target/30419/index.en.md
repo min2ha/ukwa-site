@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:00.591584", 
+  "date": "2018-10-29T12:54:58.592760", 
   "open_access": false, 
   "target_url": "http://www.bbc.co.uk/news/blogs-the-papers-34236692", 
   "description": " The papers reflect on the result of the Labour Leadership Election.", 
   "end_date": null, 
   "title": "Newspaper headlines: Corbyn victory, fish fingers, rugby giant and Bevan drama", 
-  "record_id": "20181029T112500/2Cw4Eu/o8h/TvIHLu8yr5w==", 
+  "record_id": "20181029T125458/2Cw4Eu/o8h/TvIHLu8yr5w==", 
   "publisher": "bbc.co.uk", 
   "start_date": null
 }

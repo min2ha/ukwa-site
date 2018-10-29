@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:18.635977", 
+  "date": "2018-10-29T12:55:15.571920", 
   "open_access": true, 
   "target_url": "http://www.brierley.talktalk.net/", 
   "description": null, 
   "end_date": null, 
   "title": "Brierley Books", 
-  "record_id": "20181029T112518/9oU6q1CLrVjs6qLJuI9jiA==", 
+  "record_id": "20181029T125515/9oU6q1CLrVjs6qLJuI9jiA==", 
   "publisher": "talktalk.net", 
   "start_date": null
 }

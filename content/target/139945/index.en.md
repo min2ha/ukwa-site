@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:21.949537", 
+  "date": "2018-10-29T12:54:16.309722", 
   "open_access": false, 
   "target_url": "http://www.cdma.mod.uk/", 
   "description": null, 
   "end_date": null, 
   "title": "Central Data Management Authority", 
-  "record_id": "20181029T112421/zaxlW5O4V71LemM4dmInJA==", 
+  "record_id": "20181029T125416/zaxlW5O4V71LemM4dmInJA==", 
   "publisher": "mod.uk", 
   "start_date": null, 
   "subject": "Government Websites 2007 "

@@ -5,7 +5,7 @@
   "title": "UK General Election 2015", 
   "startDateText": "31-03-2015", 
   "highlights": [], 
-  "description": "Collection of websites, curated by staff at the Legal Deposit Libraries, focussing on the 2015 UK General Election which was held on 7 May 2015 to elect 650 members to the House of Commons. It was the first general election at the end of a fixed-term Parliament. \r\n", 
+  "description": "Collection of websites, curated by staff at the Legal Deposit Libraries, focussing on the 2015 UK General Election which was held on 7 May 2015 to elect 650 members to the House of Commons. It was the first general election at the end of a fixed-term Parliament. \n", 
   "id": 60, 
   "field_publish": true, 
   "targetIds": [

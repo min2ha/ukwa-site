@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:47.489993", 
+  "date": "2018-10-29T12:54:46.106416", 
   "open_access": true, 
   "target_url": "http://digidol.llgc.org.uk/METS/XCH00001/ardd?locale=en", 
   "description": "The aim of this exhibition is to give an insight into the Welsh sporting successes on and off the playing field, on an amateur and professional level, by means of the National Library\u2019s own collections. The original exhibition was held at the National Library between 15 January - 10 September 2005.", 
   "end_date": null, 
   "title": "National Library of Wales: Cewri Cymru | Welsh Legends", 
-  "record_id": "20181029T112447/Xe8n09MEvyeYTHL1gcDQBA==", 
+  "record_id": "20181029T125446/Xe8n09MEvyeYTHL1gcDQBA==", 
   "publisher": "llgc.org.uk", 
   "start_date": null
 }

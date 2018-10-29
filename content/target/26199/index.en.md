@@ -2,7 +2,7 @@
   "date": "2016-01-27T09:00:00", 
   "open_access": false, 
   "target_url": "http://www.swimming.org/asa/news/general-news/asa-launches-manifesto-for-aquatics/23532", 
-  "description": "As England\u2019s national governing body\r\nfor swimming, diving, synchronised\r\nswimming, and water polo, the ASA has\r\nthree clear aims to get:\r\n1 More people learning to swim\r\n2 More people swimming regularly\r\n3 More medals on the world stage,\r\nacross all aquatic sports.", 
+  "description": "As England\u2019s national governing body\nfor swimming, diving, synchronised\nswimming, and water polo, the ASA has\nthree clear aims to get:\n1 More people learning to swim\n2 More people swimming regularly\n3 More medals on the world stage,\nacross all aquatic sports.", 
   "end_date": "2016-02-13T15:00:00Z", 
   "title": "Amateur Swimming Association: ASA launches Manifesto for Aquatics", 
   "record_id": "20160127T090000/nFOv86ljqRreiAETXKlFqQ==", 

@@ -5,7 +5,7 @@
   "title": "Easter Rising ", 
   "startDateText": "01-07-2015", 
   "highlights": [], 
-  "description": "The 1916 Easter Rising was a pivotal moment in modern Irish history. It transformed the political landscape, paving the way for Irish independence, while also leaving a contentious legacy.\r\n\r\nThe Rising, or more particularly the centenary of the events in Dublin in 1916, is being explored and represented in new ways thanks to technology and the work of colleagues at Trinity College Dublin and the Bodleian Library Oxford. During 2016 they built and curated a collection of websites related to the commemoration.", 
+  "description": "The 1916 Easter Rising was a pivotal moment in modern Irish history. It transformed the political landscape, paving the way for Irish independence, while also leaving a contentious legacy.\n\nThe Rising, or more particularly the centenary of the events in Dublin in 1916, is being explored and represented in new ways thanks to technology and the work of colleagues at Trinity College Dublin and the Bodleian Library Oxford. During 2016 they built and curated a collection of websites related to the commemoration.", 
   "id": 469, 
   "field_publish": true, 
   "targetIds": [

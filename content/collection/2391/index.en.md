@@ -5,7 +5,7 @@
   "title": "Children's Websites", 
   "startDateText": "28-04-2005", 
   "highlights": [], 
-  "description": "This collection of websites contains sites designed to be used by children as well as sites which deal with issues which affect children such as literacy and bullying.  \r\n\r\n", 
+  "description": "This collection of websites contains sites designed to be used by children as well as sites which deal with issues which affect children such as literacy and bullying.  \n\n", 
   "id": 2391, 
   "field_publish": true, 
   "targetIds": [

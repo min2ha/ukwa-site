@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:20.998034", 
+  "date": "2018-10-29T12:54:15.026677", 
   "open_access": true, 
   "target_url": "http://wales.pbworks.com/", 
   "description": "", 
   "end_date": null, 
   "title": "Work-based Access to Learning through e-Services (WALES)", 
-  "record_id": "20181029T112420/dJE5lrsnVQmGe/unPb/HVQ==", 
+  "record_id": "20181029T125415/dJE5lrsnVQmGe/unPb/HVQ==", 
   "publisher": "pbworks.com", 
   "start_date": null
 }

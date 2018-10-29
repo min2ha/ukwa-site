@@ -2,7 +2,7 @@
   "date": "2005-10-18T00:00:00", 
   "open_access": false, 
   "target_url": "http://www.herpes.org.uk/", 
-  "description": "The Herpes Viruses Association (HVA) continues as a vital\r\nsupport organisation. Increasing use of the internet has\r\nmade us more effective \u0096 it is now easy for anyone to\r\naccess helpful information on our website. The stigma\r\nremains and our busy helpline proves that we are needed.", 
+  "description": "The Herpes Viruses Association (HVA) continues as a vital\nsupport organisation. Increasing use of the internet has\nmade us more effective \u0096 it is now easy for anyone to\naccess helpful information on our website. The stigma\nremains and our busy helpline proves that we are needed.", 
   "end_date": "2013-04-30T23:59:59Z", 
   "title": "Herpes Viruses Association & Shingles Support Society", 
   "record_id": "20051018T000000/C0SiWbr7pr472xiVfIzY/Q==", 

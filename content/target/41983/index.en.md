@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:35.432649", 
+  "date": "2018-10-29T12:54:32.733329", 
   "open_access": false, 
   "target_url": "http://www.burntislandjujitsu.com/", 
   "description": "Site of a Ju-jitsu club based in Burntisland, Fife.", 
   "end_date": null, 
   "title": "Burntisland Ju-jitsu club", 
-  "record_id": "20181029T112435/tfpuq66VUDKH9dwuTU7V+w==", 
+  "record_id": "20181029T125432/tfpuq66VUDKH9dwuTU7V+w==", 
   "publisher": "burntislandjujitsu.com", 
   "start_date": null, 
   "subject": "Sports Collection"

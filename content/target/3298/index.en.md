@@ -2,7 +2,7 @@
   "date": "2016-12-15T09:00:00", 
   "open_access": false, 
   "target_url": "http://www.buw.org.uk/", 
-  "description": "<p>Christian\tBaptist<br />\r\nAssociation of Baptist churches in Wales</p>\r\n", 
+  "description": "<p>Christian\tBaptist<br />\nAssociation of Baptist churches in Wales</p>\n", 
   "end_date": null, 
   "title": "Baptist Union of Wales", 
   "record_id": "20161215T090000/SRZEduONqaWbBj06+gnzpA==", 

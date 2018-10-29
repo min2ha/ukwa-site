@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:18.702916", 
+  "date": "2018-10-29T12:55:15.865608", 
   "open_access": true, 
   "target_url": "http://www.poetrytranslation.org/", 
   "description": null, 
   "end_date": null, 
   "title": "Poetry Translation Centre, The", 
-  "record_id": "20181029T112518/Q9rsJQDt+IlFWFXroB3WhA==", 
+  "record_id": "20181029T125515/Q9rsJQDt+IlFWFXroB3WhA==", 
   "publisher": "poetrytranslation.org", 
   "start_date": null
 }

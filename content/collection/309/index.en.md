@@ -5,7 +5,7 @@
   "title": "London French Special Collection", 
   "startDateText": "", 
   "highlights": [], 
-  "description": "This collection of websites was curated inbetween 2012 and 2014 by Dr. Saskia Huc-Hepher, a Senior Lecturer at the University of Westminster, on the subject of the French community in London. The Collection was a fundamental component of Dr. Huc-Hepher's thesis on the French community in London. It is hoped that the  collection will serve both as an innovative dataset and as a means of reaching out to a diverse range of audiences. \r\n\r\n", 
+  "description": "This collection of websites was curated inbetween 2012 and 2014 by Dr. Saskia Huc-Hepher, a Senior Lecturer at the University of Westminster, on the subject of the French community in London. The Collection was a fundamental component of Dr. Huc-Hepher's thesis on the French community in London. It is hoped that the  collection will serve both as an innovative dataset and as a means of reaching out to a diverse range of audiences. \n\n", 
   "id": 309, 
   "field_publish": true, 
   "targetIds": [

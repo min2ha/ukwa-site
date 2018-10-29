@@ -5,7 +5,7 @@
   "title": "Religion/Theology", 
   "startDateText": "", 
   "highlights": [], 
-  "description": "Websites identified by the Religious Archives Group (RAG). The collection was originally headed by Clive Field who was succeeded by Peter Webster.\r\n", 
+  "description": "Websites identified by the Religious Archives Group (RAG). The collection was originally headed by Clive Field who was succeeded by Peter Webster.\n", 
   "id": 239, 
   "field_publish": true, 
   "targetIds": [

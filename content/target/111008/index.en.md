@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:18.155940", 
+  "date": "2018-10-29T12:55:15.043698", 
   "open_access": true, 
   "target_url": "http://www.reformjudaism.org.uk/", 
   "description": "<p>Jewish Reform<br />\nA group of synagogues in the Reform tradition of Judaism</p>\n", 
   "end_date": null, 
   "title": "Movement for Reform Judaism, The", 
-  "record_id": "20181029T112518/d5WKg1QulHM7CFgGP5PHtQ==", 
+  "record_id": "20181029T125515/d5WKg1QulHM7CFgGP5PHtQ==", 
   "publisher": "reformjudaism.org.uk", 
   "start_date": null, 
   "subject": "Religion/Theology"

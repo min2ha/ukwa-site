@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:12.940210", 
+  "date": "2018-10-29T12:55:10.187564", 
   "open_access": true, 
   "target_url": "http://www.artscouncil.org.uk/news/arts-council-news/100-day-arts-festival-precede-tour-de-france-annou/", 
   "description": "<p>Arts Council announcement 100 day arts festival to precede Tour de France</p>\n", 
   "end_date": null, 
   "title": "Arts Council 100 Day Arts Festival", 
-  "record_id": "20181029T112512/Qzzejz4nQkiLuSnJ8BRd7A==", 
+  "record_id": "20181029T125510/Qzzejz4nQkiLuSnJ8BRd7A==", 
   "publisher": "artscouncil.org.uk", 
   "start_date": null, 
   "subject": null

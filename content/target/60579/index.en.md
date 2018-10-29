@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:38.098183", 
+  "date": "2018-10-29T12:54:35.712658", 
   "open_access": false, 
   "target_url": "https://edinburghsouthlibdems.org/", 
   "description": "", 
   "end_date": null, 
   "title": "Edinburgh Liberal Democrats", 
-  "record_id": "20181029T112438/0W7tQ7tnVVhyLW/G0lnwng==", 
+  "record_id": "20181029T125435/0W7tQ7tnVVhyLW/G0lnwng==", 
   "publisher": "edinburghsouthlibdems.org", 
   "start_date": null
 }

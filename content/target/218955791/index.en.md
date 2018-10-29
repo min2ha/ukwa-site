@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:13.988442", 
+  "date": "2018-10-29T12:55:11.145508", 
   "open_access": true, 
   "target_url": "http://whitefiles.org/", 
   "description": null, 
   "end_date": null, 
   "title": "White Files, The", 
-  "record_id": "20181029T112513/gJfspVcIfMlIExF3qZNSjg==", 
+  "record_id": "20181029T125511/gJfspVcIfMlIExF3qZNSjg==", 
   "publisher": "whitefiles.org", 
   "start_date": null
 }

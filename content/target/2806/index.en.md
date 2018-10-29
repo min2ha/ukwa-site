@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:18.334782", 
+  "date": "2018-10-29T12:55:15.227058", 
   "open_access": true, 
   "target_url": "http://classonline.org.uk/docs/2013_05_Policy_Paper_-_A_duty_to_care_(Allyson_Pollock__David_Price).pdf", 
   "description": null, 
   "end_date": null, 
   "title": "Centre for Labour and Social Studies: Duty to Care", 
-  "record_id": "20181029T112518/b+DAr9qJ255c/gi5NebAzQ==", 
+  "record_id": "20181029T125515/b+DAr9qJ255c/gi5NebAzQ==", 
   "publisher": "classonline.org.uk", 
   "start_date": null, 
   "subject": null

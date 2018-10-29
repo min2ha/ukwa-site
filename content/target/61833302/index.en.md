@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:24.168077", 
+  "date": "2018-10-29T12:54:19.160000", 
   "open_access": true, 
   "target_url": "http://www.bl.uk/sportandsociety/exploresocsci/sportsoc/sociology/articles/race.html", 
   "description": "", 
   "end_date": null, 
   "title": "British Library, The: 'Race', ethnicity and sport", 
-  "record_id": "20181029T112424/9GiQ//UX9YIMgiAS9MsNTA==", 
+  "record_id": "20181029T125419/9GiQ//UX9YIMgiAS9MsNTA==", 
   "publisher": "bl.uk", 
   "start_date": null, 
   "subject": "Race, Ethnicity & Sport"

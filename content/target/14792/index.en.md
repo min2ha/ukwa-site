@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:10.698001", 
+  "date": "2018-10-29T12:55:07.712587", 
   "open_access": false, 
   "target_url": "http://www.wired.co.uk/news/archive/2014-10/28/what-could-happen-if-ebola-goes-global", 
   "description": null, 
   "end_date": null, 
   "title": "Wired: How the world will look if Ebola goes global", 
-  "record_id": "20181029T112510/GbeVxvl8/dLnYWjD23mp5A==", 
+  "record_id": "20181029T125507/GbeVxvl8/dLnYWjD23mp5A==", 
   "publisher": "wired.co.uk", 
   "start_date": null, 
   "subject": "Ebola Outbreak, West Africa 2014"

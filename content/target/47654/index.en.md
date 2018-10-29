@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:49.544479", 
+  "date": "2018-10-29T12:54:47.747711", 
   "open_access": false, 
   "target_url": "https://www.jurysinns.com/jurysinnformation/a-tale-of-two-cities", 
   "description": "Blog post on the Jury's Inn website featuring a cartoon strip about Edinburgh and Glasgow.", 
   "end_date": null, 
   "title": "Blog@JurysInn - A tale of two Scottish cities", 
-  "record_id": "20181029T112449/8X0XdmyutLib80GcaaBctQ==", 
+  "record_id": "20181029T125447/8X0XdmyutLib80GcaaBctQ==", 
   "publisher": "jurysinns.com", 
   "start_date": null
 }

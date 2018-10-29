@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:37.838949", 
+  "date": "2018-10-29T12:54:35.309192", 
   "open_access": false, 
   "target_url": "http://www.cerakamonji.com/", 
   "description": "A fashion and culture blog based in Edinburgh.", 
   "end_date": null, 
   "title": "Cera K", 
-  "record_id": "20181029T112437/wKXAoSWsThFqhlFX+gqE6Q==", 
+  "record_id": "20181029T125435/wKXAoSWsThFqhlFX+gqE6Q==", 
   "publisher": "cerakamonji.com", 
   "start_date": null
 }

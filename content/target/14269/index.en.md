@@ -2,7 +2,7 @@
   "date": "2013-04-06T01:00:00", 
   "open_access": false, 
   "target_url": "http://wildernessofpeace.wordpress.com/", 
-  "description": "<p>Scotland and Scottish politics, especially devolution and independence.</p>\r\n", 
+  "description": "<p>Scotland and Scottish politics, especially devolution and independence.</p>\n", 
   "end_date": null, 
   "title": "Wilderness of Peace", 
   "record_id": "20130406T010000/FxzSh/n7ZpmXOyKRI8qNWw==", 

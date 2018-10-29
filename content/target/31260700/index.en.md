@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:21.850178", 
+  "date": "2018-10-29T12:54:16.171969", 
   "open_access": true, 
   "target_url": "http://www.artreviewsouthwest.org/", 
   "description": "", 
   "end_date": null, 
   "title": "Art Review South West", 
-  "record_id": "20181029T112421/PQ4zngDPZYFQjjpz0Nf6Vw==", 
+  "record_id": "20181029T125416/PQ4zngDPZYFQjjpz0Nf6Vw==", 
   "publisher": "artreviewsouthwest.org", 
   "start_date": null
 }

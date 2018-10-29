@@ -5,7 +5,7 @@
   "title": "Women's Issues", 
   "startDateText": "01-05-2005", 
   "highlights": [], 
-  "description": "This collection of web sites about women's issues was curated by the Women's Library at LSE (the London School of Economics and Political Science) <a href=\"http://www.lse.ac.uk/library/collections/featuredCollections/womensLibraryLSE.aspx\">Women's Library</a>, in collaboration with the British Library inbetween 2005 and 2013. \r\n\r\nThe collection includes sites of women's organisations and campaigns, research reports, government publications and statistics pertaining to women, personal sites of women, such as blogs, and women focused e-zines.\r\n\r\n\r\n<a href=\"http://www.lse.ac.uk/library/collections/featuredCollections/womensLibraryLSE.aspx\">\r\n      <img alt=\"The Women's Library\" border=\"0\" src=\"/agencylogos/wl.gif\">\r\n</a>\r\n<hr />", 
+  "description": "This collection of web sites about women's issues was curated by the Women's Library at LSE (the London School of Economics and Political Science) <a href=\"http://www.lse.ac.uk/library/collections/featuredCollections/womensLibraryLSE.aspx\">Women's Library</a>, in collaboration with the British Library inbetween 2005 and 2013. \n\nThe collection includes sites of women's organisations and campaigns, research reports, government publications and statistics pertaining to women, personal sites of women, such as blogs, and women focused e-zines.\n\n\n<a href=\"http://www.lse.ac.uk/library/collections/featuredCollections/womensLibraryLSE.aspx\">\n      <img alt=\"The Women's Library\" border=\"0\" src=\"/agencylogos/wl.gif\">\n</a>\n<hr />", 
   "id": 2447, 
   "field_publish": true, 
   "targetIds": [

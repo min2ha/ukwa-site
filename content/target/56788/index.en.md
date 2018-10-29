@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:34.533558", 
+  "date": "2018-10-29T12:54:31.670498", 
   "open_access": false, 
   "target_url": "http://www.brucefestival.co.uk/", 
   "description": "Site of a history festival focusing on the life of King Robert the Bruce and medieval Scotland.", 
   "end_date": null, 
   "title": "Bruce Festival", 
-  "record_id": "20181029T112434/Ep2wtpRxdcDKPqCzFmO/pw==", 
+  "record_id": "20181029T125431/Ep2wtpRxdcDKPqCzFmO/pw==", 
   "publisher": "brucefestival.co.uk", 
   "start_date": null, 
   "subject": "Festivals"

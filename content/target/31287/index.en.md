@@ -2,7 +2,7 @@
   "date": "2015-10-09T10:00:00", 
   "open_access": true, 
   "target_url": "https://pbscotland.scot/", 
-  "description": "This site acts as a central location for information, news and resources about Participatory Budgeting  in Scotland. PB Scotland has been developed by the\r\nScottish Community Development Centre (SCDC) \r\nwith funding from the Scottish Government", 
+  "description": "This site acts as a central location for information, news and resources about Participatory Budgeting  in Scotland. PB Scotland has been developed by the\nScottish Community Development Centre (SCDC) \nwith funding from the Scottish Government", 
   "end_date": null, 
   "title": "Participatory Budgeting in Scotland ", 
   "record_id": "20151009T100000/8YdV8Liexkps2IAyW6cxMw==", 

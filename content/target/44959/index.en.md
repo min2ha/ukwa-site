@@ -2,7 +2,7 @@
   "date": "2016-08-11T11:00:00", 
   "open_access": false, 
   "target_url": "https://woodfordfunds.com/economic-impact-brexit-report/", 
-  "description": "\r\n\r\n\r\n\r\nA paper discussing the United Kingdom\u2019s relationship with Europe and the impact of \u2018Brexit\u2019 on the British economy.\r\n", 
+  "description": "\n\n\n\nA paper discussing the United Kingdom\u2019s relationship with Europe and the impact of \u2018Brexit\u2019 on the British economy.\n", 
   "end_date": "2016-08-17T02:00:00Z", 
   "title": "Woodford Investment Management: the economic impact of Brexit", 
   "record_id": "20160811T110000/0mZKO4Yw8tOmUFywjFmJLg==", 

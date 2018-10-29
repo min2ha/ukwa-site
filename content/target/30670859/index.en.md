@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:19.191991", 
+  "date": "2018-10-29T12:54:12.551481", 
   "open_access": true, 
   "target_url": "http://www.newworknetwork.org.uk/", 
   "description": "They supported the development of new performance, live and interdisciplinary arts practice by providing networking support for arts practitioners.", 
   "end_date": null, 
   "title": "New Work Network (NWN)", 
-  "record_id": "20181029T112419/rucgW1zI1bx+NJ2UW6QAOw==", 
+  "record_id": "20181029T125412/rucgW1zI1bx+NJ2UW6QAOw==", 
   "publisher": "newworknetwork.org.uk", 
   "start_date": null, 
   "subject": "Live Art"

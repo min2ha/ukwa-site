@@ -5,7 +5,7 @@
   "title": "Food Archive", 
   "startDateText": "16-01-2017", 
   "highlights": [], 
-  "description": "A food related collection covering these topics:\r\n\r\nFood Production (including farming, manufacture, packaging, logistics, marketing and retail)\r\nCookery and Recipes\r\nFood History\r\nFood Activism\r\nFood Politics and Policy\r\nDiet and Health\r\nRestaurants and Eating Out\r\nFood Research", 
+  "description": "A food related collection covering these topics:\n\nFood Production (including farming, manufacture, packaging, logistics, marketing and retail)\nCookery and Recipes\nFood History\nFood Activism\nFood Politics and Policy\nDiet and Health\nRestaurants and Eating Out\nFood Research", 
   "id": 1092, 
   "field_publish": true, 
   "targetIds": [

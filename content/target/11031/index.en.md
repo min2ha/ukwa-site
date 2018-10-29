@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:12.835446", 
+  "date": "2018-10-29T12:55:10.090146", 
   "open_access": false, 
   "target_url": "http://www.express.co.uk/news/uk/465257/UKIP-banned-from-speaking-at-student-s-union-because-of-extremist-views", 
   "description": null, 
   "end_date": null, 
   "title": "Express: Ukip banned from speaking at student's union because of 'extremist' views", 
-  "record_id": "20181029T112512/g5RH7s6V9VrKgj6YzJxmmg==", 
+  "record_id": "20181029T125510/g5RH7s6V9VrKgj6YzJxmmg==", 
   "publisher": "express.co.uk", 
   "start_date": null, 
   "subject": "European Parliament Elections 2014"

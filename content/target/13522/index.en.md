@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:01.201704", 
+  "date": "2018-10-29T12:54:59.200059", 
   "open_access": true, 
   "target_url": "https://theconversation.com/host-city-glasgow-ten-things-the-tourist-guides-probably-never-mentioned-29811", 
-  "description": "<p>An essential guide to the real Glasgow by Gerry Mooney for visitors to the XX Commonwealth Games. One of a series of \u201cHost City Glasgow\u201d articles on \u201cThe Conversation\u201d  an independent source of news and views, sourced from the academic and research community.</p>\r\n", 
+  "description": "<p>An essential guide to the real Glasgow by Gerry Mooney for visitors to the XX Commonwealth Games. One of a series of \u201cHost City Glasgow\u201d articles on \u201cThe Conversation\u201d  an independent source of news and views, sourced from the academic and research community.</p>\n", 
   "end_date": null, 
   "title": "Conversation, The: Host City Glasgow: ten things the tourist guides probably never mentioned", 
-  "record_id": "20181029T112501/OrC8qjuCkKc1s97cu4cOXA==", 
+  "record_id": "20181029T125459/OrC8qjuCkKc1s97cu4cOXA==", 
   "publisher": "theconversation.com", 
   "start_date": null, 
   "subject": null

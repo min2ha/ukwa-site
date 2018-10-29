@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:13.754650", 
+  "date": "2018-10-29T12:55:10.910442", 
   "open_access": true, 
   "target_url": "http://www.cymdeithasaberaeron.org/", 
   "description": null, 
   "end_date": null, 
   "title": "Cymdeithas Aberaeron Society", 
-  "record_id": "20181029T112513/KW1SdbGidyqQQxJLj/lNjw==", 
+  "record_id": "20181029T125510/KW1SdbGidyqQQxJLj/lNjw==", 
   "publisher": "cymdeithasaberaeron.org", 
   "start_date": null
 }

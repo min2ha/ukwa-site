@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:18.158208", 
+  "date": "2018-10-29T12:55:15.045580", 
   "open_access": false, 
   "target_url": "http://mormon.org.uk/", 
   "description": "<p>Christian Mormon<br />\nA Church established by Joseph Smith in the USA in the 1820s</p>\n", 
   "end_date": null, 
   "title": "Church of Jesus Christ of Latter Day Saints, The", 
-  "record_id": "20181029T112518/0b+DQfPoo//yktITGzv29Q==", 
+  "record_id": "20181029T125515/0b+DQfPoo//yktITGzv29Q==", 
   "publisher": "mormon.org.uk", 
   "start_date": null, 
   "subject": "Religion/Theology"

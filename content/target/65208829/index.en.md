@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:24.607382", 
+  "date": "2018-10-29T12:54:19.794174", 
   "open_access": true, 
   "target_url": "http://bradforddistrictfaithsforum.org.uk/news/inter-faith-network-circular-1811-queens-diamond-jubilee", 
   "description": "", 
   "end_date": null, 
   "title": "Bradford District Faiths Forum, Inter Faith Network Circular: The Queen's Diamond Jubilee", 
-  "record_id": "20181029T112424/FQQPhWWVLoX1nNl07zzdoQ==", 
+  "record_id": "20181029T125419/FQQPhWWVLoX1nNl07zzdoQ==", 
   "publisher": "bradforddistrictfaithsforum.org.uk", 
   "start_date": null, 
   "subject": "Queen's Diamond Jubilee, 2012"

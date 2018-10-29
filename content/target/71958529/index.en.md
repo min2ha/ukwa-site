@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:23.848895", 
+  "date": "2018-10-29T12:54:18.902530", 
   "open_access": false, 
   "target_url": "http://www.nwalespa.org/", 
   "description": "", 
   "end_date": null, 
   "title": "North Wales Police Authority", 
-  "record_id": "20181029T112423/gd/QWwjfc+Iq2mEkhX08QQ==", 
+  "record_id": "20181029T125418/gd/QWwjfc+Iq2mEkhX08QQ==", 
   "publisher": "nwalespa.org", 
   "start_date": null, 
   "subject": "Governing the Police"

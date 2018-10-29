@@ -2,7 +2,7 @@
   "date": "2017-06-01T09:00:00", 
   "open_access": false, 
   "target_url": "http://tompride.wordpress.com/", 
-  "description": "UK politics and UK media blog\r\n", 
+  "description": "UK politics and UK media blog\n", 
   "end_date": "2017-06-30T00:00:00Z", 
   "title": "Pride's Purge: an irreverent look at UK politics", 
   "record_id": "20170601T090000/EZOn4WEf9cQgJWFDc8VROw==", 

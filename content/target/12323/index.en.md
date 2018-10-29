@@ -2,7 +2,7 @@
   "date": "2014-07-04T07:00:00", 
   "open_access": false, 
   "target_url": "https://twitter.com/friendsofunion/", 
-  "description": "<p>The twitter profile of Conservative Friends of the Union.</p>\r\n", 
+  "description": "<p>The twitter profile of Conservative Friends of the Union.</p>\n", 
   "end_date": "2014-09-30T07:00:00Z", 
   "title": "Friends of the Union (friendsofunion) on Twitter", 
   "record_id": "20140704T070000/bTeEFUDC+wuAjqNDMPYkrQ==", 

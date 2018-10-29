@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:23.332397", 
+  "date": "2018-10-29T12:54:18.123401", 
   "open_access": true, 
   "target_url": "http://www.uksport.gov.uk/news/734 ", 
   "description": "", 
   "end_date": null, 
   "title": "UK Sport: British Cycling signs racial equality charter", 
-  "record_id": "20181029T112423/8EJ5M4s0xxKQvV4kNFpjow==", 
+  "record_id": "20181029T125418/8EJ5M4s0xxKQvV4kNFpjow==", 
   "publisher": "uksport.gov.uk", 
   "start_date": null, 
   "subject": "Race, Ethnicity & Sport"

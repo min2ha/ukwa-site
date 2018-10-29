@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:12.400272", 
+  "date": "2018-10-29T12:55:09.398683", 
   "open_access": false, 
   "target_url": "http://www.walesonline.co.uk/news/wales-news/welsh-voters-stay-home-ukip-7168028", 
   "description": null, 
   "end_date": null, 
   "title": "Wales Online: Welsh voters stay at home as Ukip celebrates surge in England", 
-  "record_id": "20181029T112512/ZVmfq1SKaHniIVHQZmT+xA==", 
+  "record_id": "20181029T125509/ZVmfq1SKaHniIVHQZmT+xA==", 
   "publisher": "walesonline.co.uk", 
   "start_date": null, 
   "subject": "European Parliament Elections 2014"

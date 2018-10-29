@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:00.350786", 
+  "date": "2018-10-29T12:54:58.372731", 
   "open_access": false, 
   "target_url": "http://www.network54.com/Forum/264216", 
-  "description": "\r\nOpen to all interested in the affairs of the Regiment since its formation in 1902 ", 
+  "description": "\nOpen to all interested in the affairs of the Regiment since its formation in 1902 ", 
   "end_date": null, 
   "title": "North Irish Horse Forum and Notice Board", 
-  "record_id": "20181029T112500/Bqv+ipESaTuBueD+6wgvvQ==", 
+  "record_id": "20181029T125458/Bqv+ipESaTuBueD+6wgvvQ==", 
   "publisher": "network54.com", 
   "start_date": null
 }

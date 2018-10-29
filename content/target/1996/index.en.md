@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:18.791707", 
+  "date": "2018-10-29T12:55:15.959699", 
   "open_access": false, 
   "target_url": "http://www.bookslam.com", 
   "description": "<p>Website of literary nightclub in London.</p>\n", 
   "end_date": null, 
   "title": "Book Slam", 
-  "record_id": "20181029T112518/oKGcY4bKEYDHmUX2gwRnIA==", 
+  "record_id": "20181029T125515/oKGcY4bKEYDHmUX2gwRnIA==", 
   "publisher": "bookslam.com", 
   "start_date": null
 }

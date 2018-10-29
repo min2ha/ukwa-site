@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:23.327944", 
+  "date": "2018-10-29T12:54:18.118915", 
   "open_access": false, 
   "target_url": "http://www.llanelliplaidcymru.org/", 
   "description": null, 
   "end_date": null, 
   "title": "Plaid Cymru - The Party of Wales: Etholaeth Llanelli Constituency", 
-  "record_id": "20181029T112423/mHRGSeJAsEdstlEmnlqg7g==", 
+  "record_id": "20181029T125418/mHRGSeJAsEdstlEmnlqg7g==", 
   "publisher": "llanelliplaidcymru.org", 
   "start_date": null
 }

@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:22.119696", 
+  "date": "2018-10-29T12:54:16.507056", 
   "open_access": true, 
   "target_url": "http://www.softwerx.com/", 
   "description": "", 
   "end_date": null, 
   "title": "Softwerx", 
-  "record_id": "20181029T112422/kwGjz5pgiua1t17tkkJxmg==", 
+  "record_id": "20181029T125416/kwGjz5pgiua1t17tkkJxmg==", 
   "publisher": "softwerx.com", 
   "start_date": null, 
   "subject": "Cambridge Network"

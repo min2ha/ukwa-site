@@ -5,7 +5,7 @@
   "title": "Magna Carta 2015", 
   "startDateText": "01-12-2014", 
   "highlights": [], 
-  "description": "This collection of websites was curated by staff at the British Library in 2015 in parallel to an exhibition  to mark the 800th anniversary of the Magna Carta. The wider scope of this collection includes the themes power, rule of law, human rights and societal values. \r\n", 
+  "description": "This collection of websites was curated by staff at the British Library in 2015 in parallel to an exhibition  to mark the 800th anniversary of the Magna Carta. The wider scope of this collection includes the themes power, rule of law, human rights and societal values. \n", 
   "id": 169, 
   "field_publish": true, 
   "targetIds": [

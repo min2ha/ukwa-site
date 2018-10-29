@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:45.073129", 
+  "date": "2018-10-29T12:54:43.779487", 
   "open_access": false, 
   "target_url": "http://www.swcrawford.co.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "Stuart Crawford Associates - public affairs, security and media communications", 
-  "record_id": "20181029T112445/7qy74yelDLvjQHp2JW+q/g==", 
+  "record_id": "20181029T125443/7qy74yelDLvjQHp2JW+q/g==", 
   "publisher": "swcrawford.co.uk", 
   "start_date": null
 }

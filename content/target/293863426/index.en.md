@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:21.060741", 
+  "date": "2018-10-29T12:54:15.107734", 
   "open_access": true, 
   "target_url": "http://glasgay.co.uk/sporting-heads-an-exhibition/", 
   "description": "", 
   "end_date": null, 
   "title": "Glasgay! Sporting Heads - An Exhibition", 
-  "record_id": "20181029T112421/UDfelkjHQTZrYOQG6ou5cg==", 
+  "record_id": "20181029T125415/UDfelkjHQTZrYOQG6ou5cg==", 
   "publisher": "glasgay.co.uk", 
   "start_date": null, 
   "subject": null

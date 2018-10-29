@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:24.679255", 
+  "date": "2018-10-29T12:54:19.975940", 
   "open_access": true, 
   "target_url": "http://www.dmu.ac.uk/royal-visit/", 
   "description": "", 
   "end_date": null, 
   "title": "De Montfort University: Royal Visit 2012", 
-  "record_id": "20181029T112424/PFq68+7ThbKbkdCihi6EKw==", 
+  "record_id": "20181029T125419/PFq68+7ThbKbkdCihi6EKw==", 
   "publisher": "dmu.ac.uk", 
   "start_date": null, 
   "subject": "Queen's Diamond Jubilee, 2012"

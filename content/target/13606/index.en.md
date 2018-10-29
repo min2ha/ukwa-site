@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:11.340577", 
+  "date": "2018-10-29T12:55:08.207280", 
   "open_access": false, 
   "target_url": "http://www.aphasiaalliance.org/", 
   "description": null, 
   "end_date": null, 
   "title": "Aphasia Alliance", 
-  "record_id": "20181029T112511/DAke+njAmxPDGN7PxucH9w==", 
+  "record_id": "20181029T125508/DAke+njAmxPDGN7PxucH9w==", 
   "publisher": "aphasiaalliance.org", 
   "start_date": null
 }

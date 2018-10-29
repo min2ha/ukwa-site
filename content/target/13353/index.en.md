@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:11.430620", 
+  "date": "2018-10-29T12:55:08.296355", 
   "open_access": false, 
   "target_url": "http://www.healingthroughremembering.org/", 
   "description": null, 
   "end_date": null, 
   "title": "Healing Through Remembering", 
-  "record_id": "20181029T112511/b8eqcfgVKZj8qCTueHa2nQ==", 
+  "record_id": "20181029T125508/b8eqcfgVKZj8qCTueHa2nQ==", 
   "publisher": "healingthroughremembering.org", 
   "start_date": null
 }

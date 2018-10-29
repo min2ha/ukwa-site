@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:53.687932", 
+  "date": "2018-10-29T12:54:51.843315", 
   "open_access": false, 
   "target_url": "https://www.scotways.com/", 
   "description": "Site of a Scottish voluntary organisation aiming to preserve, maintain, restore and acquire public rights of access throughout Scotland.", 
   "end_date": null, 
   "title": "Scottish Rights of Way & Access Society", 
-  "record_id": "20181029T112453/kfkCKNVi71whhZhfaegGpw==", 
+  "record_id": "20181029T125451/kfkCKNVi71whhZhfaegGpw==", 
   "publisher": "scotways.com", 
   "start_date": null
 }

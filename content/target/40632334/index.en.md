@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:24.351976", 
+  "date": "2018-10-29T12:54:19.382283", 
   "open_access": true, 
   "target_url": "http://www.greensocialist.org.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "Alliance for Green Socialism (AGS)", 
-  "record_id": "20181029T112424/t9bIgEfFLG7phMUMfn1Sdg==", 
+  "record_id": "20181029T125419/t9bIgEfFLG7phMUMfn1Sdg==", 
   "publisher": "greensocialist.org.uk", 
   "start_date": null, 
   "subject": null

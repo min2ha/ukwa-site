@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:30.158722", 
+  "date": "2018-10-29T12:54:26.727751", 
   "open_access": false, 
   "target_url": "http://www.arsenal.com/home", 
   "description": "Arsenal Stadium, known almost universally by its original name of Highbury, was the Club\u2019s home from 1913 until 2006.", 
   "end_date": null, 
   "title": "Arsenal", 
-  "record_id": "20181029T112430/UYXoLvgFzD63TCw5oTqVAg==", 
+  "record_id": "20181029T125426/UYXoLvgFzD63TCw5oTqVAg==", 
   "publisher": "arsenal.com", 
   "start_date": null
 }

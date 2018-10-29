@@ -5,7 +5,7 @@
   "title": "Aging", 
   "startDateText": "02-10-2009", 
   "highlights": [], 
-  "description": "This collection looks at aging issues from a number of contexts. The collection covers health and social care, intergenerational relationships, housing, pensions and finance, social life and leisure activities, assistive technologies and the representation of older people in literature, the arts and media. Research into the biological mechanisms of aging and age-related diseases are also considered. The collection includes websites published by academic organisations, research centres, think tanks, advocacy groups, service providers and local and central government.  \r\n", 
+  "description": "This collection looks at aging issues from a number of contexts. The collection covers health and social care, intergenerational relationships, housing, pensions and finance, social life and leisure activities, assistive technologies and the representation of older people in literature, the arts and media. Research into the biological mechanisms of aging and age-related diseases are also considered. The collection includes websites published by academic organisations, research centres, think tanks, advocacy groups, service providers and local and central government.  \n", 
   "id": 2367, 
   "field_publish": true, 
   "targetIds": [

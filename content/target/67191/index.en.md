@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:30.188939", 
+  "date": "2018-10-29T12:54:26.758748", 
   "open_access": false, 
   "target_url": "http://www.wrexhamlsb.org/", 
   "description": "Wrexham Local Service Board is a partnership name for organisations helping provide public services in Wrexham and incude Wrexham County Borough Council, Association of Voluntary organisations Wrexham, Betsi Cadwaldr University Health Board, the Fire Service, the Police, the Probation Service, Public Health Wales, Glyndwr University and Coleg Cambria. ", 
   "end_date": null, 
   "title": "Wrexham Local Service Board", 
-  "record_id": "20181029T112430/rd+5CUVCDYZThaa+UHDp0Q==", 
+  "record_id": "20181029T125426/rd+5CUVCDYZThaa+UHDp0Q==", 
   "publisher": "wrexhamlsb.org", 
   "start_date": null
 }

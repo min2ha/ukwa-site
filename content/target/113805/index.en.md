@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:25.194818", 
+  "date": "2018-10-29T12:54:20.674517", 
   "open_access": true, 
   "target_url": "http://eurotext.ulst.ac.uk:8017/", 
   "description": "", 
   "end_date": null, 
   "title": "Eurotext", 
-  "record_id": "20181029T112425/9TYWOp49mhFoNVf8HYAxcA==", 
+  "record_id": "20181029T125420/9TYWOp49mhFoNVf8HYAxcA==", 
   "publisher": "ulst.ac.uk", 
   "start_date": null
 }

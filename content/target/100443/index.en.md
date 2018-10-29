@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:18.108419", 
+  "date": "2018-10-29T12:55:15.001788", 
   "open_access": true, 
   "target_url": "http://www.nbo.org.uk/", 
   "description": "<p>Buddhist General<br />\nA national umbrella organisation for UK Buddhism founded in 1993</p>\n", 
   "end_date": null, 
   "title": "Network of Buddhist Organisations (UK)", 
-  "record_id": "20181029T112518/I9UzyTsFg5IaXuZ6nSJ96g==", 
+  "record_id": "20181029T125515/I9UzyTsFg5IaXuZ6nSJ96g==", 
   "publisher": "nbo.org.uk", 
   "start_date": null, 
   "subject": "Religion/Theology"

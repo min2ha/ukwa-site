@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:22.662895", 
+  "date": "2018-10-29T12:54:17.019308", 
   "open_access": false, 
   "target_url": "http://www.llandrillo.ac.uk/JISC/SWANI/default1.htm", 
   "description": null, 
   "end_date": null, 
   "title": "MIS/VLE Data Validation between VLE and MIS (SWaNI)", 
-  "record_id": "20181029T112422/MiVzoALL9l8uhOFXnsLmdA==", 
+  "record_id": "20181029T125417/MiVzoALL9l8uhOFXnsLmdA==", 
   "publisher": "llandrillo.ac.uk", 
   "start_date": null
 }

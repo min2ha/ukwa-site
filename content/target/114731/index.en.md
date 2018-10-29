@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:23.213012", 
+  "date": "2018-10-29T12:54:17.965825", 
   "open_access": true, 
   "target_url": "http://maldwyn.llgc.org.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "Maldwyn: Y Mynegai i Farddoniaeth Gymraeg y Llawysgrifau - The Index to Welsh Poetry in Manuscript", 
-  "record_id": "20181029T112423/oD7eVthwQoypp/ZA68rT8A==", 
+  "record_id": "20181029T125417/oD7eVthwQoypp/ZA68rT8A==", 
   "publisher": "llgc.org.uk", 
   "start_date": null
 }

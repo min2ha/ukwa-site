@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:11.661113", 
+  "date": "2018-10-29T12:55:08.520051", 
   "open_access": false, 
   "target_url": "http://www.walsalltogether.net/", 
   "description": null, 
   "end_date": null, 
   "title": "Walsall Together - Walsall Learning Disability Partnership Board", 
-  "record_id": "20181029T112511/fo324bM5ygCZnKfnm79hHg==", 
+  "record_id": "20181029T125508/fo324bM5ygCZnKfnm79hHg==", 
   "publisher": "walsalltogether.net", 
   "start_date": null
 }

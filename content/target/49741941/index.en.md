@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:25.129367", 
+  "date": "2018-10-29T12:54:20.597758", 
   "open_access": true, 
   "target_url": "http://edina.ac.uk/projects/geese/", 
   "description": "", 
   "end_date": null, 
   "title": "Grid Enabling EDINA SErvices (GEESE)", 
-  "record_id": "20181029T112425/ye8RndGKTIY0uG9Mq+BPMw==", 
+  "record_id": "20181029T125420/ye8RndGKTIY0uG9Mq+BPMw==", 
   "publisher": "edina.ac.uk", 
   "start_date": null
 }

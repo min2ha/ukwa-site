@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:20.176265", 
+  "date": "2018-10-29T12:54:13.875623", 
   "open_access": true, 
   "target_url": "http://www.artistofwales.org.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "Artist of Wales - Eric Blood", 
-  "record_id": "20181029T112420/Ef/3afZ1iYEB7+kKm+ZMkw==", 
+  "record_id": "20181029T125413/Ef/3afZ1iYEB7+kKm+ZMkw==", 
   "publisher": "artistofwales.org.uk", 
   "start_date": null
 }

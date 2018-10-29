@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:24.389545", 
+  "date": "2018-10-29T12:54:19.435297", 
   "open_access": true, 
   "target_url": "http://www.pandemian.com/", 
   "description": "", 
   "end_date": null, 
   "title": "Pandemian", 
-  "record_id": "20181029T112424/ZFR1fiU2DeJ/V1upCo0EeA==", 
+  "record_id": "20181029T125419/ZFR1fiU2DeJ/V1upCo0EeA==", 
   "publisher": "pandemian.com", 
   "start_date": null, 
   "subject": "Blogs"

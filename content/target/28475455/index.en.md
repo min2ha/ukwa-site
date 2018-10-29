@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:21.813560", 
+  "date": "2018-10-29T12:54:16.121109", 
   "open_access": true, 
   "target_url": "http://robinteverson.org/", 
   "description": "", 
   "end_date": null, 
   "title": "Robin Teverson", 
-  "record_id": "20181029T112421/DJUi258uerkzzhwxATfFPA==", 
+  "record_id": "20181029T125416/DJUi258uerkzzhwxATfFPA==", 
   "publisher": "robinteverson.org", 
   "start_date": null, 
   "subject": "European Parliament Elections 2009"

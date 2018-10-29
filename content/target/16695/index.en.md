@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:59.661708", 
+  "date": "2018-10-29T12:54:57.397798", 
   "open_access": false, 
   "target_url": "http://unthankbooks.com/", 
-  "description": "<p>English literary publisher.</p>\r\n", 
+  "description": "<p>English literary publisher.</p>\n", 
   "end_date": null, 
   "title": "Unthank Books", 
-  "record_id": "20181029T112459/ttf9CCmSsPlqEuonBGcsjA==", 
+  "record_id": "20181029T125457/ttf9CCmSsPlqEuonBGcsjA==", 
   "publisher": "unthankbooks.com", 
   "start_date": null
 }

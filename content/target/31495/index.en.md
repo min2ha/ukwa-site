@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:59.965262", 
+  "date": "2018-10-29T12:54:57.954719", 
   "open_access": false, 
   "target_url": "http://www.smartmoneycreditunion.co.uk/", 
   "description": "Smart Money Cymru Credit Union covers Caerphilly, Blaenau Gwent and Newport.", 
   "end_date": null, 
   "title": "Smart Money Cymru Credit Union", 
-  "record_id": "20181029T112459/+cdmfwTyAm3v5FHFOIMHiQ==", 
+  "record_id": "20181029T125457/+cdmfwTyAm3v5FHFOIMHiQ==", 
   "publisher": "smartmoneycreditunion.co.uk", 
   "start_date": null
 }

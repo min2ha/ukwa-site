@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:25.705875", 
+  "date": "2018-10-29T12:54:21.385436", 
   "open_access": false, 
   "target_url": "https://www.newspaperclub.com/", 
   "description": "The Newspaper's Club is a UK based printing company that helps people make and print their own newspapers.", 
   "end_date": null, 
   "title": "Newspaper Club", 
-  "record_id": "20181029T112425/CCGoye1FN9SJA9HwZV/JLQ==", 
+  "record_id": "20181029T125421/CCGoye1FN9SJA9HwZV/JLQ==", 
   "publisher": "newspaperclub.com", 
   "start_date": null
 }

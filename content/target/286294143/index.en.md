@@ -2,7 +2,7 @@
   "date": "2015-01-23T19:00:00", 
   "open_access": true, 
   "target_url": "http://www.lunar.co.uk/remembrance/", 
-  "description": "<p>Kirkby Lonsdale's WWI Centenary Project 1914-2014 is a Heritage Lottery funded project<br />\r\nto commemorate the centenary of WWI.</p>\r\n", 
+  "description": "<p>Kirkby Lonsdale's WWI Centenary Project 1914-2014 is a Heritage Lottery funded project<br />\nto commemorate the centenary of WWI.</p>\n", 
   "end_date": null, 
   "title": "Kirkby Lonsdale's WWI Centenary Project 1914-2014", 
   "record_id": "20150123T190000/S/uGio1ZQYpa5+EIr56ntQ==", 

@@ -2,7 +2,7 @@
   "date": "2017-04-19T09:00:00", 
   "open_access": false, 
   "target_url": "http://www.stjohnserith.org/", 
-  "description": "St John the Baptist Church has existed for nearly a thousand years and is one of the oldest buildings in Erith.\r\n\r\nThe Christian family at St. John\u2019s is made up of people of all ages and backgrounds.\r\n\r\nThe Parish Church of St. John the Baptist is also fondly known as St. John\u2019s or as \u201cThe Old Church\u201d.\r\n\r\nFounded in the 12th Century as the ancient Parish Church of Erith, it is a Grade 11* listed building, full of interesting architectural features and tombs.", 
+  "description": "St John the Baptist Church has existed for nearly a thousand years and is one of the oldest buildings in Erith.\n\nThe Christian family at St. John\u2019s is made up of people of all ages and backgrounds.\n\nThe Parish Church of St. John the Baptist is also fondly known as St. John\u2019s or as \u201cThe Old Church\u201d.\n\nFounded in the 12th Century as the ancient Parish Church of Erith, it is a Grade 11* listed building, full of interesting architectural features and tombs.", 
   "end_date": null, 
   "title": "St. John the Baptist Church, Erith", 
   "record_id": "20170419T090000/mfCRuHhSfdemGn2dNpreBQ==", 

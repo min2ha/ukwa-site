@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:12.151608", 
+  "date": "2018-10-29T12:55:08.884675", 
   "open_access": false, 
   "target_url": "http://www.theguardian.com/world/2014/may/25/germany-merkel-cdu-win-european-election", 
   "description": null, 
   "end_date": null, 
   "title": "Guardian, The: Germany: Merkel's CDU wins European election despite worst ever result", 
-  "record_id": "20181029T112512/gPRPlP3YveynAS/zh6BhEg==", 
+  "record_id": "20181029T125508/gPRPlP3YveynAS/zh6BhEg==", 
   "publisher": "theguardian.com", 
   "start_date": null, 
   "subject": "European Parliament Elections 2014"

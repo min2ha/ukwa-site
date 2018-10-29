@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:25.216720", 
+  "date": "2018-10-29T12:54:20.705075", 
   "open_access": true, 
   "target_url": "http://edina.ac.uk/projects/joinup/xgrain/", 
   "description": "", 
   "end_date": null, 
   "title": "EDINA Xgrain Project : cross-searching specialist databases for learning and teaching", 
-  "record_id": "20181029T112425/L7qdu+YTtvNsJHS7DCQM/A==", 
+  "record_id": "20181029T125420/L7qdu+YTtvNsJHS7DCQM/A==", 
   "publisher": "edina.ac.uk", 
   "start_date": null
 }

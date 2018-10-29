@@ -5,7 +5,7 @@
   "title": "Poetry Zines and Journals", 
   "startDateText": "", 
   "highlights": [], 
-  "description": "This collection of UK-based online poetry journals and magazines has been curated by a PhD candidate at Goldsmiths. It is concerned with contemporary responses to the increasing ubiquity of the internet and networked culture. \r\nPoetry communities are increasingly emerging out of and operating within digital spaces; participants are using social media for networking, collaboration and promotion, taking advantage of cheap web hosting and free blog domains to publish zines and chapbooks. ", 
+  "description": "This collection of UK-based online poetry journals and magazines has been curated by a PhD candidate at Goldsmiths. It is concerned with contemporary responses to the increasing ubiquity of the internet and networked culture. \nPoetry communities are increasingly emerging out of and operating within digital spaces; participants are using social media for networking, collaboration and promotion, taking advantage of cheap web hosting and free blog domains to publish zines and chapbooks. ", 
   "id": 889, 
   "field_publish": true, 
   "targetIds": [

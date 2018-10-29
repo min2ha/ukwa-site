@@ -5,7 +5,7 @@
   "title": "Scottish Parliamentary Election - 2007", 
   "startDateText": "01-05-2005", 
   "highlights": [], 
-  "description": "This collection of websites focuses on the 2007 Scottish Parliament election which was held on Thursday 3 May 2007 to elect members to the Scottish Parliament. The collection contains the websites of candidates campaign sites and party sites. \r\n", 
+  "description": "This collection of websites focuses on the 2007 Scottish Parliament election which was held on Thursday 3 May 2007 to elect members to the Scottish Parliament. The collection contains the websites of candidates campaign sites and party sites. \n", 
   "id": 2448, 
   "field_publish": true, 
   "targetIds": [

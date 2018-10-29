@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:08.926193", 
+  "date": "2018-10-29T12:55:06.844317", 
   "open_access": false, 
   "target_url": "http://www.grayling.com/uploads/documents/graylingmanifestoinfographicv6_20131031174056.pdf", 
   "description": null, 
   "end_date": null, 
   "title": "Grayling: Grayling's Guide to the 2015 Manifestos", 
-  "record_id": "20181029T112508/gUWRlwYXdkb+cle6p0O8gQ==", 
+  "record_id": "20181029T125506/gUWRlwYXdkb+cle6p0O8gQ==", 
   "publisher": "grayling.com", 
   "start_date": null, 
   "subject": "UK General Election 2015"

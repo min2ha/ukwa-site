@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:21.233210", 
+  "date": "2018-10-29T12:54:15.344472", 
   "open_access": true, 
   "target_url": "http://www.cjscotland.org.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "CjScotland - an independent resource on criminal justice in Scotland", 
-  "record_id": "20181029T112421/OCi/+bavGj3k7/svb/uU5Q==", 
+  "record_id": "20181029T125415/OCi/+bavGj3k7/svb/uU5Q==", 
   "publisher": "cjscotland.org.uk", 
   "start_date": null
 }

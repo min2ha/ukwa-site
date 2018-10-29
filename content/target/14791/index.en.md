@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:10.698732", 
+  "date": "2018-10-29T12:55:07.713237", 
   "open_access": false, 
   "target_url": "http://www.walesonline.co.uk/news/wales-news/ebola-outbreak-fears-universities-alert-7664133", 
   "description": null, 
   "end_date": null, 
   "title": "Wales Online: Ebola Outbreak Fears", 
-  "record_id": "20181029T112510/IHyZw903kU0QmI+8ah7B6w==", 
+  "record_id": "20181029T125507/IHyZw903kU0QmI+8ah7B6w==", 
   "publisher": "walesonline.co.uk", 
   "start_date": null, 
   "subject": "Ebola Outbreak, West Africa 2014"

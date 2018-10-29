@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:20.514803", 
+  "date": "2018-10-29T12:55:17.421606", 
   "open_access": true, 
   "target_url": "http://www.tysiamas.com/", 
   "description": null, 
   "end_date": null, 
   "title": "Ty Siamas", 
-  "record_id": "20181029T112520/PaQkTFFT87pmFR0AW1NNSQ==", 
+  "record_id": "20181029T125517/PaQkTFFT87pmFR0AW1NNSQ==", 
   "publisher": "tysiamas.com", 
   "start_date": null
 }

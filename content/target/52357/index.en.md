@@ -2,7 +2,7 @@
   "date": "2017-04-25T09:00:00", 
   "open_access": false, 
   "target_url": "http://www.ourvillagestore.co.uk/", 
-  "description": "Itteringham Village Shop is a Community run business that serves the Community with a wide selection of locally produced food,\r\nthereby helping local rural businesses and providing local employment.", 
+  "description": "Itteringham Village Shop is a Community run business that serves the Community with a wide selection of locally produced food,\nthereby helping local rural businesses and providing local employment.", 
   "end_date": null, 
   "title": "Itteringham Village Shop", 
   "record_id": "20170425T090000/yKeZIc3etZeJCKyITf21rg==", 

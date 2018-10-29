@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:12.673046", 
+  "date": "2018-10-29T12:55:09.653961", 
   "open_access": false, 
   "target_url": "http://labourlist.org/2014/05/labourlist-readers-call-for-more-focus-on-ukip-and-less-on-the-lib-dems/", 
   "description": null, 
   "end_date": null, 
   "title": "Labour List: LabourList readers call for more focus on UKIP \u2013 and less on the Lib Dems ", 
-  "record_id": "20181029T112512/ENgQhcjB0n9sL931bfS3/A==", 
+  "record_id": "20181029T125509/ENgQhcjB0n9sL931bfS3/A==", 
   "publisher": "labourlist.org", 
   "start_date": null, 
   "subject": "European Parliament Elections 2014"

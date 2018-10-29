@@ -5,7 +5,7 @@
   "title": "VE /VJ Day 70th Anniversary 1945-2015", 
   "startDateText": "01-04-2015", 
   "highlights": [], 
-  "description": "2015 marked 70 years since the Allied Powers celebrated the end of war in Europe and in the Far East. \r\nVictory in Europe Day, generally known as VE Day, was the public holiday celebrated on 8 May 1945 to mark the formal acceptance by the Allies of World War II of Nazi Germany's unconditional surrender of its armed forces. \r\nCommemorations were held to mark the 70th Anniversary of the Victory over Japan Day on Saturday 15 August 2015. The Japanese finally surrendered on 14 August 1945 following the dropping of the atomic bombs on Hiroshima and Nagasaki. The next day, Wednesday 15 August 1945 was celebrated as VJ (Victory over Japan) Day.", 
+  "description": "2015 marked 70 years since the Allied Powers celebrated the end of war in Europe and in the Far East. \nVictory in Europe Day, generally known as VE Day, was the public holiday celebrated on 8 May 1945 to mark the formal acceptance by the Allies of World War II of Nazi Germany's unconditional surrender of its armed forces. \nCommemorations were held to mark the 70th Anniversary of the Victory over Japan Day on Saturday 15 August 2015. The Japanese finally surrendered on 14 August 1945 following the dropping of the atomic bombs on Hiroshima and Nagasaki. The next day, Wednesday 15 August 1945 was celebrated as VJ (Victory over Japan) Day.", 
   "id": 471, 
   "field_publish": true, 
   "targetIds": [

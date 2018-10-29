@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:32.977355", 
+  "date": "2018-10-29T12:54:29.978240", 
   "open_access": false, 
   "target_url": "http://breezesgym.co.uk", 
-  "description": "<p>Website for gym owned by Michaela Breeze, containing news about Michaela and Christie Williams, both selected to compete in weightlifting for Team Wales.</p>\r\n", 
+  "description": "<p>Website for gym owned by Michaela Breeze, containing news about Michaela and Christie Williams, both selected to compete in weightlifting for Team Wales.</p>\n", 
   "end_date": null, 
   "title": "Breeze's Gym", 
-  "record_id": "20181029T112432/nihPJxbNhx295iwdfTxfdA==", 
+  "record_id": "20181029T125429/nihPJxbNhx295iwdfTxfdA==", 
   "publisher": "breezesgym.co.uk", 
   "start_date": null, 
   "subject": null

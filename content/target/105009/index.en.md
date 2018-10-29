@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:24.775028", 
+  "date": "2018-10-29T12:54:20.105458", 
   "open_access": true, 
   "target_url": "http://www.twickenhamlibdems.co.uk/", 
   "description": "", 
   "end_date": null, 
   "title": "Richmond Borough Liberal Democrats", 
-  "record_id": "20181029T112424/gl/PMlxFVmuvocXO1WQfiw==", 
+  "record_id": "20181029T125420/gl/PMlxFVmuvocXO1WQfiw==", 
   "publisher": "twickenhamlibdems.co.uk", 
   "start_date": null, 
   "subject": "UK General Election 2005"

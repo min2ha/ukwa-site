@@ -5,7 +5,7 @@
   "title": "Magic", 
   "startDateText": "01-12-2016", 
   "highlights": [], 
-  "description": "2017 marks the 20th anniversary of the publication of Harry Potter and the Philosopher\u2019s Stone. The National Library of Scotland and the British Library have curated a collection of Harry Potter themed websites to mark this significant literary milestone. \r\n", 
+  "description": "2017 marks the 20th anniversary of the publication of Harry Potter and the Philosopher\u2019s Stone. The National Library of Scotland and the British Library have curated a collection of Harry Potter themed websites to mark this significant literary milestone. \n", 
   "id": 1019, 
   "field_publish": true, 
   "targetIds": [

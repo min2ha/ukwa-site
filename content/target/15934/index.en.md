@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:32.141056", 
+  "date": "2018-10-29T12:54:29.162967", 
   "open_access": false, 
   "target_url": "http://familyadventurefest.co.uk/", 
-  "description": "<p>Website of an adventure festival in Bournemouth.</p>\r\n", 
+  "description": "<p>Website of an adventure festival in Bournemouth.</p>\n", 
   "end_date": null, 
   "title": "Family Adventure Festival", 
-  "record_id": "20181029T112432/M1DnfLYJYuYYDXD3WiPX5w==", 
+  "record_id": "20181029T125429/M1DnfLYJYuYYDXD3WiPX5w==", 
   "publisher": "familyadventurefest.co.uk", 
   "start_date": null, 
   "subject": "Festivals"

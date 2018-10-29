@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:25.105656", 
+  "date": "2018-10-29T12:54:20.572591", 
   "open_access": true, 
   "target_url": "http://www.elycathedralbusinessgroup.org/", 
   "description": "", 
   "end_date": null, 
   "title": "Ely Cathedral Business Group", 
-  "record_id": "20181029T112425/GgNZLHMTIUsT7FOdadf+uA==", 
+  "record_id": "20181029T125420/GgNZLHMTIUsT7FOdadf+uA==", 
   "publisher": "elycathedralbusinessgroup.org", 
   "start_date": null, 
   "subject": "Cambridge Network"

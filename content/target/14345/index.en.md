@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:08.627149", 
+  "date": "2018-10-29T12:55:06.567006", 
   "open_access": false, 
   "target_url": "http://www.mynyddygwynt.com/", 
-  "description": "<p>Mynydd y Gwynt is a proposed wind farm in Glanrhyd, five miles west of Llangurig.</p>\r\n", 
+  "description": "<p>Mynydd y Gwynt is a proposed wind farm in Glanrhyd, five miles west of Llangurig.</p>\n", 
   "end_date": null, 
   "title": "Mynydd y Gwynt", 
-  "record_id": "20181029T112508/yUhiTo8m/ZD83CIyVGj9IA==", 
+  "record_id": "20181029T125506/yUhiTo8m/ZD83CIyVGj9IA==", 
   "publisher": "mynyddygwynt.com", 
   "start_date": null
 }

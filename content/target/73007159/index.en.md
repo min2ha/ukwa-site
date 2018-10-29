@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:24:21.492948", 
+  "date": "2018-10-29T12:54:15.714912", 
   "open_access": false, 
   "target_url": "http://www.familyandparenting.org/our_work/Families-in-the-Age-of-Austerity/", 
   "description": "", 
   "end_date": null, 
   "title": "National Family and Parenting Institute: Families in the Age of Austerity", 
-  "record_id": "20181029T112421/9yWBalGQ1Jc4Hk4zb0XkQg==", 
+  "record_id": "20181029T125415/9yWBalGQ1Jc4Hk4zb0XkQg==", 
   "publisher": "familyandparenting.org", 
   "start_date": null, 
   "subject": "Spending Cuts 2010: Impact on Social Welfare"

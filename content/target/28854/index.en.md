@@ -2,7 +2,7 @@
   "date": "2015-07-09T10:00:00", 
   "open_access": false, 
   "target_url": "http://defencehq.tumblr.com/post/115284856685/veday70-event-map", 
-  "description": "The Tumblr webpages  of the UK Ministry of Defence\r\n", 
+  "description": "The Tumblr webpages  of the UK Ministry of Defence\n", 
   "end_date": null, 
   "title": "Defence Headquarters:  The Tumblr of the UK Ministry of Defence", 
   "record_id": "20150709T100000/r8zShImWvi3vHMo9cOCnxw==", 

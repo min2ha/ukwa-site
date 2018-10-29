@@ -5,7 +5,7 @@
   "title": "Independent Arts Organisations", 
   "startDateText": "19-07-2010", 
   "highlights": [], 
-  "description": "This collection will bring together independent arts organisations from around the UK \u0096 providing an overview of activity that is inherently itinerant and ephemeral. This collection will also provide an insight into how artists and curators are using current technologies and advancements in networking to promote and showcase their activity.\r\n", 
+  "description": "This collection will bring together independent arts organisations from around the UK \u0096 providing an overview of activity that is inherently itinerant and ephemeral. This collection will also provide an insight into how artists and curators are using current technologies and advancements in networking to promote and showcase their activity.\n", 
   "id": 2372, 
   "field_publish": true, 
   "targetIds": [

@@ -2,7 +2,7 @@
   "date": "2016-02-26T09:00:00", 
   "open_access": false, 
   "target_url": "http://www.rossengland.com/", 
-  "description": "Ross England is the Conservative candidate for Vale of Glamorgan at the 2016 National Assembly for Wales election. \r\n", 
+  "description": "Ross England is the Conservative candidate for Vale of Glamorgan at the 2016 National Assembly for Wales election. \n", 
   "end_date": "2016-05-27T01:00:00Z", 
   "title": "Ross England (Conservative candidate for Vale of Glamorgan)", 
   "record_id": "20160226T090000/NnutALuj9TXa1pK2wZSdmA==", 

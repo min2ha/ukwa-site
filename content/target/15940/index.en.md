@@ -2,7 +2,7 @@
   "date": "2015-01-17T06:00:00", 
   "open_access": false, 
   "target_url": "https://www.oscr.org.uk/", 
-  "description": "The Office of the Scottish Charity Regulator (OSCR) verifies, advises and registers Scottish charities.\r\n", 
+  "description": "The Office of the Scottish Charity Regulator (OSCR) verifies, advises and registers Scottish charities.\n", 
   "end_date": null, 
   "title": "Office of the Scottish Charity Regulator (OSCR)", 
   "record_id": "20150117T060000/PVTuFmNl/RnTqHtBVoiIUw==", 

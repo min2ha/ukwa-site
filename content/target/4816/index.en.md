@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:17.016004", 
+  "date": "2018-10-29T12:55:14.059729", 
   "open_access": false, 
   "target_url": "http://www.giveblood.ie/", 
   "description": null, 
   "end_date": null, 
   "title": "Irish Blood Transfusion Service (IBTS)", 
-  "record_id": "20181029T112517/WW6AbnxXwRve2rauvqIsew==", 
+  "record_id": "20181029T125514/WW6AbnxXwRve2rauvqIsew==", 
   "publisher": "giveblood.ie", 
   "start_date": null
 }

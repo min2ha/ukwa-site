@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:13.582368", 
+  "date": "2018-10-29T12:55:10.723341", 
   "open_access": true, 
   "target_url": "http://www.scottishjournalofperformance.org/", 
   "description": null, 
   "end_date": null, 
   "title": "Scottish Journal of Performance", 
-  "record_id": "20181029T112513/IwT6uZn2zX+6/srmRf+OeQ==", 
+  "record_id": "20181029T125510/IwT6uZn2zX+6/srmRf+OeQ==", 
   "publisher": "scottishjournalofperformance.org", 
   "start_date": null
 }

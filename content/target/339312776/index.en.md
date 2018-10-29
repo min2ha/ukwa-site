@@ -2,7 +2,7 @@
   "date": "2015-06-16T10:00:00", 
   "open_access": true, 
   "target_url": "http://www.concatenation.org/", 
-  "description": "The Science Fact & Science Fiction Concatenation is the\r\nseasonal review of science fact and science fiction. Formerly the (1987-1997)\r\nannual (paper) magazine distributed at the British national SF convention and European SF\r\nconvention.  Today its three principal internet editions come out in the northern hemisphere's\r\nspring, summer and autumn.", 
+  "description": "The Science Fact & Science Fiction Concatenation is the\nseasonal review of science fact and science fiction. Formerly the (1987-1997)\nannual (paper) magazine distributed at the British national SF convention and European SF\nconvention.  Today its three principal internet editions come out in the northern hemisphere's\nspring, summer and autumn.", 
   "end_date": null, 
   "title": "Science Fact & Science Fiction Concatenation - Jonathan Cowie", 
   "record_id": "20150616T100000/3B+o6WnkE91dVUSJLoMBEQ==", 

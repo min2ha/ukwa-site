@@ -1,11 +1,11 @@
 {
-  "date": "2018-10-29T11:25:18.174530", 
+  "date": "2018-10-29T12:55:15.058766", 
   "open_access": true, 
   "target_url": "http://www.aecw.org.uk/", 
   "description": "<p>Christian Evangelical<br />\nA fellowship of independent evangelical churches established in 1988</p>\n", 
   "end_date": null, 
   "title": "Associating Evangelical Churches of Wales", 
-  "record_id": "20181029T112518/AATc37SfC1oTulJvtIa7Kg==", 
+  "record_id": "20181029T125515/AATc37SfC1oTulJvtIa7Kg==", 
   "publisher": "aecw.org.uk", 
   "start_date": null, 
   "subject": "Religion/Theology"
