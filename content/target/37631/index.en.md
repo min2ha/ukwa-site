@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# Education Support Partnership
-
 The Education Support Partnership were formally known as the Teacher Support Network until 2015 when they re-branded and changed their website. They are an organisation helping teachers which started out as the Teachers’ Benevolent Fund.

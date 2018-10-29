@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Revealed: Canterbury's copy of the Magna Carta
-

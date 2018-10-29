@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems to propose law protecting journalism from state interference
-
 None

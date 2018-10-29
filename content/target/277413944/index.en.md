@@ -10,7 +10,5 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Veterans Wales
-
 <p>'Veterans NHS Wales was funded by the Welsh Government in April 2010<br />
 Each Local Health Board (LHB) has appointed an experienced clinician as a Veterans Therapist (VT) with an interest or experience of military health problems.'</p>

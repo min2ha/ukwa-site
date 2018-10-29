@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Nopesport The UK Online Orienteering Community
-
 An online enthusiast forum concerned with orienteering. Discusses coaching, equipment reviews, travel experiences and various other topics

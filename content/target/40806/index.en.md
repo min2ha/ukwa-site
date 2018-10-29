@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dartmoor National Park (@dartmoornpa) on Twitter
-
 Dartmoor National Park Authority working to conserve the national park.

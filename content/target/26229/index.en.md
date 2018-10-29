@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Institute of Advanced Motorists: The IAM Manifesto
-
 The IAM is the UK’s leading independent road safety charity. They believe that our roads can be made a safer place by improving the standards of the people who are using them. With over 50 years of experience, passion and insight, the IAM is uniquely positioned to help improve the skills and understanding of UK drivers, riders & cyclists.

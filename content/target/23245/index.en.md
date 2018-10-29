@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jane Dodds on Facebook (Liberal Democrats candidate for Montgomeryshire)
-
 Jane Dodds is the Liberal Democrats candidate for Montgomeryshire at the 2016 National Assembly for Wales election and 2015 General Election.

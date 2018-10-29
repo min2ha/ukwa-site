@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Ogmore Valley Local History and Heritage Society 
-

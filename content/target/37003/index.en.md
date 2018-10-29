@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Manavodaya International UK
-
 Site of a charitable organisation set up to empower marginalised groups in India.

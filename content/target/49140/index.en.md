@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# Rainforest Saver
-
 Rainforest Saver are a charity promoting a technique called Inga alley cropping as a replacement for slash and burn farming in tropical rainforest areas.  Currently they work with projects in Honduras and Cameroon.  
 Slash and burn is an unsustainable agricultural technique practiced by 200 to 300 million tropical farmers worldwide, because that is the only way of making a living that they know. It means continuously cutting down the rainforests .  
 Inga alley cropping is a successful alternative. It enables the farmer to make a better living without cutting down more forest. 

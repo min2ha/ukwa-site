@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Moffat Rams Rugby Football Club
-
 Site of a Scottish rugby union football club based in Moffat, Dumfries and Galloway.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# George Cunningham (@GFCunningham) on Twitter (Liberal Democrats candidate for North Thanet)
-
 George Cunningham stood as Liberal Democrats candidate for North Thanet at the 2015 General Election but was not elected. 

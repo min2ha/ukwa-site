@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Spectacle Theatre, Porth 
-
 Rhondda based Spectacle Theatre specialises in participatory theatre and engage creatively with vulnerable young people and the challenging issues they have to deal with. 

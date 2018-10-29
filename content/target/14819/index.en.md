@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Vote Yes for job-creating powers for Scotland
-
 <p>Yes Scotland post made at 8pm on 16th of September, 2014.</p>

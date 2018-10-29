@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Trellech United
-
 <p>Trellech United Community Council in Monmouthshire consists of the wards - Llandogo, The Narth, Trellech, Llanishen, Penallt, Catbrook and Whitebrook.</p>

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Business Insider: Boris Johnson has accused Obama of Brexit 'hypocrisy'
-

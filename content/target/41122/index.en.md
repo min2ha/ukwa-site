@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Heriot-Watt University Football Club
-
 Site of a Scottish amateur football club based in Edinburgh and associated with Heriot-Watt University and its students.

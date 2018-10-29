@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Healthcare Distribution Association, THE (HDA)
-
 The Healthcare Distribution Association reflects the changes in the supply chain that has seen pharmaceutical wholesalers become integrated health care service providers.

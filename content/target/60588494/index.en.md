@@ -10,7 +10,5 @@
   "start_date": "2015-03-13T09:00:00Z"
 }
 
-# PLANED - Pembrokeshire Local Action Network for Enterprise and Development
-
 'PLANED supports and encourages the involvement of all local people and organisations in Pembrokeshire to work together to improve the quality of life in their 
 community'. - homepage.

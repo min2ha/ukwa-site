@@ -10,6 +10,4 @@
   "start_date": "2015-08-19T10:00:00Z"
 }
 
-# National Museums Scotland on Facebook
-
 Official Facebook page for National Museums Scotland, a collection of museums based in Edinburgh, Scotland.

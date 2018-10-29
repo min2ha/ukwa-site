@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Independents For Bristol
-

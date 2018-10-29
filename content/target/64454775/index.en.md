@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:19.926945", 
+  "date": "2018-10-29T13:21:19.683139", 
   "open_access": true, 
   "target_url": "http://www.britishfuture.org/blog/british-future-research-finds-welsh-are-most-excited-about-queens-jubilee/", 
   "description": "", 
   "end_date": null, 
   "title": "British Future research finds Welsh are most excited about Queen's Jubilee", 
-  "record_id": "20181029T125419/Hq5swOfSIorwMYrHLolItw==", 
+  "record_id": "20181029T132119/Hq5swOfSIorwMYrHLolItw==", 
   "publisher": "britishfuture.org", 
   "start_date": null, 
   "subject": "Queen's Diamond Jubilee, 2012"
 }
-
-# British Future research finds Welsh are most excited about Queen's Jubilee
 

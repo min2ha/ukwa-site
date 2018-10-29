@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Glain Dafydd 
-
 Glain Dafydd’s music career includes winning the Texaco Young Musician of Wales

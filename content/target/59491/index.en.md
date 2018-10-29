@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Player: My Mind & Me
-
 Information and support page for various mental health conditions discussed on BBC series My Mind & Me

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Inside Time: the national newspaper for prisoners and detainees
-
 Monthly free newspaper for prisoners and detainees founded by New Bridge Foundation and distributed in prisons, special hospitals and secure units in the UK

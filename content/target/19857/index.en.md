@@ -10,5 +10,3 @@
   "start_date": "2015-03-28T09:00:00Z"
 }
 
-# Socialism in RCT
-

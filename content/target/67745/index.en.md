@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Ocado
-
 Ocado are the world’s largest dedicated online grocery retailer with over 580,000 active customers. They have developed a unique end-to-end operating solution for online grocery retail based on proprietary technology and IP, suitable for operating their own business and those of their commercial partners. 

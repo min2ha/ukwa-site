@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Doyle Clayton
-
 Doyle Clayton is a UK firm of employment solicitors with offices in the City of London, Mayfair, Canary Wharf and Reading and clients nationwide.

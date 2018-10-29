@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Black-led groups lead the way in election hustings
-
 None

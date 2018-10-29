@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Bristol Computer Fair
-
 Official website of an IT fair in Bristol.

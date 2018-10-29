@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Trump: UK-US trade deal could be 'big and exciting' 
-
 The US President tweeted that a bilateral trade agreement with the UK after it left the EU in 2019 could be "very big and exciting" for jobs. Mr Trump, who backed Brexit, also took a swipe at the EU accusing it of a "very protectionist" stance to the US.

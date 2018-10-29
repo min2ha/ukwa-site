@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  If you thought politics this year was bitterly divisive you ain't seen nothing yet: DOMINIC SANDBROOK gives a chilling analysis of what could unfold if Britain's elite denies the will of the people over Brexit   
-

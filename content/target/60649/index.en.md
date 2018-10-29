@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Choices - National Health Service: Instagram 'ranked worst for mental health' in teen survey
-
 Written analysis that breakdowns a recent report by Royal Society for Public Health (RSPH) into the postive and negative impact social media has on people aged 14 - 24 years old

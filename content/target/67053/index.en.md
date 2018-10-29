@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Cabinet Office: Technical note on temporary customs arrangement
-
 This document has been produced by the UK negotiating team for discussion with the EU. It sets out the UK’s proposal for the customs element of an arrangement to satisfy its commitments in relation to Northern Ireland. This arrangement would see • the elimination of tariffs, quotas, rules of origin and customs processes including declarations on all UK-EU trade.

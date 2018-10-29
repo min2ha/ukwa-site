@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Citizens united against cuts' Blog
-
 None

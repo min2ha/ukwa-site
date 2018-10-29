@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chichester Rugby Football Club
-
 A community rugby club. Great rugby, teamwork and friendship.

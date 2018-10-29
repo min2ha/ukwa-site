@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Emergency demo against Trump's #MuslimBan and UK complicity on Facebook
-
 A demo organised at short notice in response to US President Donald Trump's #MUSLIMBAN  outside number 10 Downing Street and across the UK at 6pm on Monday 30/01/2017.

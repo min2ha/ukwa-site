@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Career options and routes into the sports industry – live chat
-
 An advice panel brought together for a live chat on carving out a career in the sports industry on Wednesday 10 August from 1–2.30pm BST (GMT)

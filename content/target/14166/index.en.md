@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Joel Hills (ITVJoel) on Twitter
-

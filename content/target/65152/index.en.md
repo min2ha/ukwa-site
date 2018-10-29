@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# London Green Left Blog
-
 A personal opinion blog and the views expressed by the authors are not necessarily the view of any political parties or groupings that they belong to.

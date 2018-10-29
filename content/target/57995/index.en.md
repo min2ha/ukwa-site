@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Why a transition period may not buy more time for talks
-
 The Brexit Secretary David Davis warned in October 2017 that without a final deal on a future partnership with the EU - at least in principle - the government would not want to trigger any kind of transition at all and would opt for a hard Brexit.

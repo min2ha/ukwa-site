@@ -10,6 +10,4 @@
   "start_date": "2011-03-18T00:00:00Z"
 }
 
-# Plants For A Future
-
 Plants For A Future (PFAF) is a charitable company, originally set up to support the work of Ken and Addy Fern on their experimental site in Cornwall, where they carried out research and provided information on edible and otherwise useful plants suitable for growing outdoors in a temperate climate.

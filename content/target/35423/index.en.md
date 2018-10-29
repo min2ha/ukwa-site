@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Independent 1916 News
-
 This is the dedicated webpage of the Irish Independent for news relating to the Easter Rising, 1916.

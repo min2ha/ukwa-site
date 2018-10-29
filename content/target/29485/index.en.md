@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Early learning and childcare
-
 A site providing information about early learning and childcare benefits in Scotland.

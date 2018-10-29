@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Museum of Computing
-
 Museum of Computing is an independant, volunteer-run museum, accredited with Arts Council England.The Museum of Computing exists to collect, document, safeguard, interpret and make accessible artefacts, and to provide a record of all aspects of the history of computing. The Museum will enable the public to explore its collection for inspiration, learning and enjoyment. It is based in Swindon.

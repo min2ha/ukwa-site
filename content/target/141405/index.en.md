@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Child and Woman Abuse Studies Unit (CWASU)
-
 None

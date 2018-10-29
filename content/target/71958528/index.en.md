@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Norfolk Police Authority
-
 None

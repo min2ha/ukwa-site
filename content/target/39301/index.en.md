@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Richard Leonard for Central Scotland on Facebook
-

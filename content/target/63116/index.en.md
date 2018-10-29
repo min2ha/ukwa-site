@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Natural Trade Brokers
-
 NTB are the leading sales brokerage team serving Health Food trade in the UK.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jim Wild (Independent candidate for Sheffield Hallam)
-
 Jim Wild stood as an independent candidate for Sheffield Hallam at the 2015 General Election but was not elected.

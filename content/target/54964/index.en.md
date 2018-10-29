@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# HM Treasury: Mansion House 2017: Speech by the Chancellor of the Exchequer
-
 Argues that when the British people voted to leave the EU in June 2016, they did not vote to become poorer, or less secure. Therefore Brexit must be negotiated in a way that prioritises British jobs, and underpins Britain’s prosperity.
 
 They did vote to leave the EU.

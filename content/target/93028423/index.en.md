@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Social Spark - Digital design and strategy for progressive campaigns
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Comber Rec Ladies (@ComberRecLadies) on Twitter
-
 The official Twitter of Comber Rec Ladies Football club. 

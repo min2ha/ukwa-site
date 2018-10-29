@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alasdair McDonnell (Social Democratic and Labour Party)
-
 Alasdair McDonnell stood as Social Democratic and Labour Party candidate for Belfast South at the 2015 General Election. He was first elected to serve as MP for Belfast South in 2005 and re-elected in 2010 and 2015

@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Jewish Chronicle Online, The
-

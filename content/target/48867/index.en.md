@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Dai Sport
-
 Dai Sport is a digital magazine for all sports Wales.

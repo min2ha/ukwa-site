@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Bed & Breakfast Association
-
 The Bed & Breakfast Association is a UK trade association for B&Bs and Guest Houses.

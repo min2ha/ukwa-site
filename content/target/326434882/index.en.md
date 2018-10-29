@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Welsh Food and Drink Skills Project, The
-
 The Welsh Food and Drink Skills Project is a Lantra run initative. The aim is to ensure that the Welsh food and drinks industry is equipped with the skills needed to meet the challenges of the next ten years. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's extra £140billion of spending is a 'clear and present danger' to the UK, says George Osborne
-
 None

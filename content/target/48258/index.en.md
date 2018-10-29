@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Jesus and Mary Chain
-
 Site for a Scottish rock music group.

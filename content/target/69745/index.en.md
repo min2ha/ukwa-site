@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Luke's Parish Church
-
 Site of a Scottish Roman Catholic parish church in Banknock, Falkirk.

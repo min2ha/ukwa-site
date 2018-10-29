@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 1st March 2018: Seasonal Migrant Workers
-
 Debate on the impact of Brexit on access to seasonal migrant agricultural workers

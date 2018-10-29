@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Carmarthenshire Water Safety Partnership
-
 Carmarthenshire Water Safety Partnership was established as a charity in 2016. The aim is to reduce fatality rates, educate the public and manage lifesaving equipment on their community waterways. 

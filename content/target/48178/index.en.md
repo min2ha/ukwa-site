@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit lays bare the brutal reality for the UK’s immigrants
-

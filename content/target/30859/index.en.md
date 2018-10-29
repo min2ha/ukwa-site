@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Helen Hockx's Blog - Things I Cannot Say in 140 Characters
-
 Blog of an expert in web archiving Helen Hockx-Yu.

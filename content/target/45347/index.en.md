@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# Judith Barrow
-
 Judith is a author who grew up in Lancashire but has lived in Pembrokeshire for over thirty years. She is a member of Academi.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Swindon LINk
-
 None

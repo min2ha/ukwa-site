@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Think the north and the poor caused Brexit? Think again
-

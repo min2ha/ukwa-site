@@ -10,6 +10,4 @@
   "start_date": "2017-02-18T09:00:00Z"
 }
 
-# Philip Jones Griffiths Foundation
-
 The Philip Jones Griffiths Foundation was established to further the education of the public in the art and science of photography with a particular emphasis on young photojournalists.

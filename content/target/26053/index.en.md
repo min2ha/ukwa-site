@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Balls cannot guarantee university funding levels under Labour
-
 None

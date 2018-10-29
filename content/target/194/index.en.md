@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Southend University Hospital
-
 None

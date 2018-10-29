@@ -10,6 +10,4 @@
   "start_date": "2015-07-07T10:00:00Z"
 }
 
-# Staffordshire Scouts 
-
 Website of the Staffordshire Scouts showing the activities of over 10000 young people in the county.

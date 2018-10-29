@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# British Artist Blacksmiths Association (BABA)
-
 None

@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Telegraph: Modern Ireland's quiet revolution: An age unimaginable to 1916
-

@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Tony Lloyd, Greater Manchester's Police and Crime Commissioner on Facebook
-
 This page is managed by the communications team. They make it clear whenever a post has been written by the commissioner.

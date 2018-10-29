@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Together (Scottish Alliance for Children's Rights)
-
 Together is an alliance of Scottish children's charities that works to improve the awareness, understanding and implementation of the United Nations Convention on the Rights of the Child (UNCRC).

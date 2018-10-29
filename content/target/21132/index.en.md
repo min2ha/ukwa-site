@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brookmans Park Newsletter, The
-
 Community newsletter and associated discussion forum aimed at giving local residents a voice and encouraging open debate.

@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# All Wales People First: 2016 People First Manifesto
-

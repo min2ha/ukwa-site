@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Financial Services Authority (FSA)
-

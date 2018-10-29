@@ -10,6 +10,4 @@
   "start_date": "2018-05-29T09:00:00Z"
 }
 
-# Lodge St. John Stoneyburn 1186
-
 Site of a masonic lodge located in Stoneyburn, West Lothain and affiliated with the Grand Lodge of Scotland.	

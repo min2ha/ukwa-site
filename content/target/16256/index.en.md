@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# St Paul's Cathedral: Library
-
 <p>The library of Dean and Chapter (St Paul's Cathedral Library) is situated at triforium level behind the south-west tower in a chamber designed for it by Christopher Wren after the Great Fire of London.</p>

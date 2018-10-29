@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Nothing to fear from EU exit but fear itself, says Lawson: Tory grandee insists Britain would retain control of its destiny and trade would prosper   
-

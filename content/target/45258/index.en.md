@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Democratic Audit Scotland
-
 Democratic Audit – Scotland seeks to apply the Democratic Audit framework to Scottish democracy in the wake of the process triggered by the September 2014 referendum on Scottish independence.

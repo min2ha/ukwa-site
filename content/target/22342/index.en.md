@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mhairi Black
-
 This is the website of Mhairi Black, the Scottish National Party (SNP) candidate for Paisley and Renfrewshire South in the UK General Election on the 7th May 2015.

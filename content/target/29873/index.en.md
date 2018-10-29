@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Out of the Blue (@ootbdrillhall) on Twitter
-
 Twitter for Out of the Blue, arts centre in the historic Drill Hall in Leith, Edinburgh.

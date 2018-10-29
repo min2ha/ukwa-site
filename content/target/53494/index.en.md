@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Socialist Party NI (@sp_ni) on Twitter
-
 The SP is the Irish section of the CWI. This twitter feed is for the party in the north to spread the ideas of struggle against sectarianism and capitalism.

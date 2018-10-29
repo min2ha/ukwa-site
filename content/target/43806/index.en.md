@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph,The: Defeatist talk will cost Britain dear 
-

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: John Rentoul. Poll fever for the few, indifference for the many
-

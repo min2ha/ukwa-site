@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Jersey International Motoring Festival
-
 Website advertising the Jersey International Motoring Festival 

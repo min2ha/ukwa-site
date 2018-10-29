@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband: 'The NHS cannot be funded from an IOU' - video
-
 None

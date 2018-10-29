@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Furious row engulfs Boris as he steps up his Brexit campaign arguing the EU is 'broken and can't be fixed'  
-

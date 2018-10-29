@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Orpington Cons'tives (@orpcon) on Twitter
-

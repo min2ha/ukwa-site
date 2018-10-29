@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip manifesto to reinstate its 50,000 cap on immigration
-
 None

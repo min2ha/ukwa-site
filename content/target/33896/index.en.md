@@ -10,6 +10,4 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# Air Force Technology
-
 They provide a range of customer and market insight tools covering all segments of the global defence market, from turnkey constructions to IT and engineering innovations. They focus on the defence sector is both local and global.

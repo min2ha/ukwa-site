@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: "Look at me: why attention-seeking is the defining need of our times"
-
 News article about social media and "attention-seeking"

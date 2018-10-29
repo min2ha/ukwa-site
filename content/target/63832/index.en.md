@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Hertfordshire Walker 
-
 A collection of short and long walks featuring Hertfordshire pubs. All our walks are free to download and use. We have 60 walks with more being added all the time. Comments, observations and tips all welcome.

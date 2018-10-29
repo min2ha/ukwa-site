@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Test Valley Borough Council
-
 The website of Test Valley Borough Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending.

@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Creating a Fairer Scotland
-
 Scottish Government blog on work towards a Social Justice Action Plan, including public suggestions and discussion.

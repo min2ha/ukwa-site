@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Scottish Enterprise Party = Partaidh Iomart na h'Alba : Scotland's "other national party"
-
 None

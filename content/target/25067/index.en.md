@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Question Time election special: BBC accused of letting Tories 'rig' audience for leaders' head to head 
-
 None

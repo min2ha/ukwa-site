@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# ACTSA Scotland - Action for Southern Africa
-
 None

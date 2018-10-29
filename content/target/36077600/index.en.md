@@ -10,5 +10,3 @@
   "start_date": "2010-12-02T00:00:00Z"
 }
 
-# Pupil Voice Wales | Llais Disgyblion Cymru
-

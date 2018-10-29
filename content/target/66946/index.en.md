@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Scottish Universities Life Sciences Alliance (SULSA)
-
 "SULSA is a strategic alliance between nine Scottish Universities that aims to advance Scotland’s research and innovation in the life sciences"

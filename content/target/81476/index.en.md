@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow Hornets (@GlasgowHornets) on Twitter
-
 BAFA Flag Football team. Founded 2002. 2009 BAFL Youth Flag National Champs. 2016 

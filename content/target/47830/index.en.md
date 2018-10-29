@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Consultations Wales | Ymgyngoriadau Cymru
-
 Consultations provide the Welsh public an opportunity to consult and comment on new developments from Welsh Government.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dumfries Saints Rugby Club
-
 Site of a Scottish rugby union football club based in Dumfries, Dumfries and Galloway

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Conservative Home: Sajid Javid: What Mandela meant to my generation
-
 <p>Blog posting of 6 December.</p>

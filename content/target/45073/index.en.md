@@ -10,6 +10,4 @@
   "start_date": "2016-08-17T11:00:00Z"
 }
 
-# LocalGov:  Exclusive: Brexit should mean review of four-year funding settlement for councils
-
 More than three-quarters of council staff believe the Government should re-think its four-year funding settlement to local government following the EU referendum.

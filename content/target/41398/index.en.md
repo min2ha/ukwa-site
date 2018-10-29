@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Breathing Space
-
 Site of a Scottish Government funded organisation providing a free, confidential, phone service for anyone in Scotland experiencing low mood, depression or anxiety.

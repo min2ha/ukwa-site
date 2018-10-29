@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Independent: If Labour are serious about calling a general election, they first need to back a final vote on the Brexit deal
-
 Calls for Thornberry and Corbyn to support – as the majority of Labour Party members now do – a people’s vote, given all the information we now have and the great fears for jobs, wages and investment in the event of any kind of Brexit. If Labour were to be seen as the architect of a people’s vote to stop Brexit, the party would then be in a powerful position to demand an election to remove an administration which has refused ever to question or challenge Brexit since June 2016.
 
 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# Goldsmiths Library Blog
-
 Wordpress blog about the work of the library at Goldsmiths University, London featuring new acquisitions, exhibitions and archival materials.

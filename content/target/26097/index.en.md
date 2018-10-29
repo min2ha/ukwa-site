@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The malign effects of coalition education policy in England’s schools
-
 None

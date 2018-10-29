@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband's wife Justine on the dog bite that led to her to falling in love with him
-
 None

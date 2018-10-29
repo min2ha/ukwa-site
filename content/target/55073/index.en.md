@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Library Carpentry: Data lessons/library Python on Github
-
 Python lessons for Librarians.Library Carpentry is software skills training aimed at the needs and requirements of library professionals. 

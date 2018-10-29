@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow Commonwealth Games 2014: Common Wealth Games developments
-
 <p>This page from the site for Clyde Waterfront, a regeneration project for the Clyde is about the Glasgow Commonwealth Games acting as a catalyst for investment and regeneration in the area.</p>

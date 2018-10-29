@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# About the 8th (@Aboutthe8th) on Twitter
-
 Public information on the 8th Amendment to the constitution in the Republic of Ireland and the proposed law reform in 2018. This is the official Twitter account.

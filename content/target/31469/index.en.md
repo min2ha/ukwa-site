@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Rob's Homepage
-
 Website with various personal interests including history of Acorn computers.

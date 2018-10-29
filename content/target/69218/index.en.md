@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival Why?
-
 biennial festival celebrating young people's voices and their right to influence social change

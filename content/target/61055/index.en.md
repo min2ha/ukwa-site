@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Peebles Rugby Club
-
 Site of a Scottish rugby union football club based in Peebles, Scottish Borders.

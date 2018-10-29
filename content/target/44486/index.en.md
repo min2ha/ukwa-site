@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Strathspey Thistle Football Club
-
 Site of a Scottish football club based in Grantown on Spey, Scotland.

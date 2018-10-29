@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: EU fool! Brussels chief Jean-Claude Juncker blames Brexit on '40 years of lies' by British politicians and says: 'Something is wrong in Britain'  
-

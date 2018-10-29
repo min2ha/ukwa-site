@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Health Research Authority
-
 None

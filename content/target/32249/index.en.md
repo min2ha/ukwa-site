@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Curling Trust
-
 The Scottish Curling Trust was set up to encourage and actively promote public participation in curling; to preserve, conserve, interpret and display the arts, heritage and culture of the sport of curling

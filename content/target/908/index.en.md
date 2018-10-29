@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Staffordshire and Stoke-on-Trent Partnership NHS Trust
-
 None

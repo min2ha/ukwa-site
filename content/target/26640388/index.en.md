@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Bermuda Audubon Society
-
 The Bermuda Audubon Society is a membership society run by an executive committee of volunteers. Their mission is to conserve Bermuda's special bird life and habitats for the benefit of all.

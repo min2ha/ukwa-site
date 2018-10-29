@@ -11,7 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 
-Red Ed would put million back on dole, warns angry Cameron
-
 None

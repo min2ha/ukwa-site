@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Scottish National party 'mavericks' aim to tap into energy of yes campaign
-
 None

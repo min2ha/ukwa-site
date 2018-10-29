@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gill Hickson (@ghillyflower) on Twitter (Liberal Democrat Politician)
-
 Gill Hickson stood as Liberal Democrat candidate for Croydon at the 2017 General Election but was not elected.

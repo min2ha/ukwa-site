@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Floodline Brewing Co.
-
 Site of a brewer located in Glasgow.

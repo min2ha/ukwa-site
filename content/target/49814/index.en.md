@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Peter Hain: hard Brexit puts Northern Ireland peace process at risk
-

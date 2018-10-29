@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Katie Archibald (@babbyarchie) on Twitter
-

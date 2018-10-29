@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Alnwick Food Festival
-
 A celebration of food and drink from the North East

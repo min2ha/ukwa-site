@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Healthy: Gambling addiction - dangers of internet gambling
-
 Article that refers to another article on Science Daily warning of the dangers of internet gambling, especially on youth.

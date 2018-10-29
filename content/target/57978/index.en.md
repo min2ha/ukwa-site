@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mòrag Anna NicNèill on Twitter
-
 Twitter profile of Mòrag Anna NicNèill, winner of the prize for poetry at the Royal National Mòd Lochaber 2017.

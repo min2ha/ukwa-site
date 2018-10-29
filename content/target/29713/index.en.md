@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Festival of Words, A
-
 Festival organised by The Word Y Gair

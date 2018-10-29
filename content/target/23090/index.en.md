@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ruth Bailey (@VoteManston2015) on Twitter (Manston Airport Independent Party candidate for South Thanet)
-

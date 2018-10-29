@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM speech on our future economic partnership with the European Union
-
 Setting out UK hopes for a future EU economic partnership, Mrs May warned both sides had to accept "hard facts". Single market access would be "less than it is now" and the UK would have to pay into some EU agencies. The hard fact for the EU was that the UK would want its own bespoke trade deal, not an "off-the-shelf model".
 
 

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit-supporting ministers regain access to Government figures that could support Out campaign
-

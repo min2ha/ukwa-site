@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Interactive history of the NHS
-
 Timeline showing the policy, social and scientific changes affecting health care during the lifetime of the NHS. This includes short articles, photographs, sound and film clips.

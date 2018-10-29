@@ -10,5 +10,3 @@
   "start_date": "2016-02-12T09:00:00Z"
 }
 
-# Great Western Railway (GWR)
-

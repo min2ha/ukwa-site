@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sian Morgan (sian_morgan94) on Twitter
-
 <p>The twitter profile of swimmer Sian Morgan, competing in the 100 metre free and medley relays for Team Wales in the Glasgow 2014 Commonwealth Games.</p>

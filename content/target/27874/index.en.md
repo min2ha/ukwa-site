@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# Matt Ridley
-
 Website of the journalist Matt Ridley with articles on climate change.

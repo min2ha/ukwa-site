@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UK and Scotland (UKScotland) on Twitter
-
 <p>The Future of the UK and Scotland is a social science research programme funded by the Economic and Social Research Council informing debate about Scotland’s constitutional future and its implications for the rest of the UK.</p>

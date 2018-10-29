@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Phoenix Swansea, The
-
 'The Phoenix' in Townhill, Swansea is a community enterprise centre of the Hill Community Development Trust Ltd and a lasting legacy of the only Urban I Community Initiative in Wales which ran between the mid 1990s and 2001.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Fire Brigades Union (FBU)
-
 The UK Fire Brigade Union website.

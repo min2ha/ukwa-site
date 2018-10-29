@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# GMB - Britain's General Union
-
 GMB is a campaigning trade union focused on protecting GMB members in their workplaces and growing the number of GMB members in order to strengthen the Union's power. GMB has almost 619,000 members working in every part of the economy.

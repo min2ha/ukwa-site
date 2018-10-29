@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# British Police & Services Canine Association (BPSCA)
-
 The BPSCA was formed by four Serving and Ex Serving Officers in 1988 at a meeting held at The Fir Tree pub, Crook, County Durham.  The organisation now comprises of serving and ex serving officers from the United Kingdom’s uniformed services who are, or have been the handlers and trainers of service dogs.

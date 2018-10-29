@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Welsh Labour Press (@WelshLabPress) on Twitter
-
 Twitter feed of Welsh Labour's press team.

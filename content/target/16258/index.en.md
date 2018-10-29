@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St Paul's Cathedral
-
 <p>The official website of St Paul's Cathedral in London.</p>

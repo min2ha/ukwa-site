@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# "BBC News Scotlandshire"
-
 <p>A spoof website, intended as a satire on perceived BBC bias in favour of the Union, and against the SNP. The website contains a mix of mainly fictional stories and satirical reporting of genuine stories.</p>

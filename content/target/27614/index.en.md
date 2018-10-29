@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage tells cheering supporters: Vote Ukip to get my country back
-
 None

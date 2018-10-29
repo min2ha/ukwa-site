@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Pea J. Restall, Potter, Painter, Artist, Maker
-
 Pea J Restall is a potter, artist and painter. She has a studio in Abergele and is a member of the Royal Cambrian Academy (RCA).

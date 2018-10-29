@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Al-Araby Al-Jadeed
-
 Al-Araby Al-Jadeed (Arabic: العربي الجديد‎‎, literally "The New Arab") is an Arabic and English media outlet headquartered in London. It was first launched in March 2014 as an online news website. It went on to establish a daily newspaper in September 2014, and a television channel was launched on 25 January 2015, coinciding with the fourth anniversary of the 25 January Revolution in Egypt.

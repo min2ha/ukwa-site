@@ -11,6 +11,4 @@
   "subject": "Crimean War"
 }
 
-# Crimean War Research Society, The
-
 None

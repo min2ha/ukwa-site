@@ -10,5 +10,3 @@
   "start_date": "2012-07-26T00:00:00Z"
 }
 
-# Wrexham Science Festival | Gwyl Wyddoniaeth Wrecsam
-

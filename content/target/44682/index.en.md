@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: No one told me to ‘go home’ for 16 years. Then we voted for Brexit
-

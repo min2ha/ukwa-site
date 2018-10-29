@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# Society of Our Lady of Penrhys, The
-
 The Society of Our Lady of Penrhys was established to encourage pilgrimage to the shrine at Penrhys, Rhondda.

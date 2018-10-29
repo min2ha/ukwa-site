@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Hounds Off
-
 Hounds Off is an online resource which helps people to keep the hunt off their land

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Lawyers for Britain: Does the facilitated customs arrangement comply with WTO law?
-
 Prof Collins warns that Theresa May’s Chequers Brexit plan could be illegal. It presents a major risk of the UK breaching World Trade Organisation rules on tariffs and trade. After examining the PM’s White Paper he argues there is a “serious” chance “at least two” parts of the Facilitated Customs Arrangement (FCA) that would break international trading laws. In the worst case scenario the FCA would have to be abandoned, or significantly modified.

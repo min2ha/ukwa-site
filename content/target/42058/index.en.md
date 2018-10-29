@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC Connected Studio
-
 Connected Studio, as part of the BBC's Research and Development department, provides the inspiration, support and platform to help keep the BBC at the cutting-edge of online innovation, and a world leader at delivering engaging, digital broadcast experiences.

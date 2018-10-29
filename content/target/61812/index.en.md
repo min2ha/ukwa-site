@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Flotta Parish Church of Scotland
-
 Site of a Church of Scotland parish church on the island of Flotta, Orkney.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# North Glamorgan Lodge
-
 The North Glamorgan Lodge No: 4055 was consecrated in 1920 and meet at the Masonic Lodge, Merthyr Tydfil. This is a short introduction to the Lodge.

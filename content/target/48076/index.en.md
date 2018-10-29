@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# STC Sheffield [St. Thomas’ Church]
-
 Official website of STC Sheffield [St. Thomas’ Church].

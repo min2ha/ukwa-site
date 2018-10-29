@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Avonbridge Church and Tophicen Kirk
-
 Site of a Church of Scotland parish church in West Lothian.

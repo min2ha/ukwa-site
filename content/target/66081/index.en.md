@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Iaith Fflint a Wrecsam
-
 This is the Menter Iaith/ Welsh language initiative for the Wrexham and Fflint area. The initiative support and promote the Welsh language in Flintshire and Wrexham county

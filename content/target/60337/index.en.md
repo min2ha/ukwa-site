@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Coleg y Cymoedd 
-
 Coleg y Cymoedd is a merger between The College Ystrad Mynach and Coleg Morgannwg and was established in 2013.

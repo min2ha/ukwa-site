@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Central Demolition
-
 Central demolition, a Bonnybridge based company which provides demolition, asbestos removal and recycling services.

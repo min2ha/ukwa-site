@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Crown Agents: Ebola blog
-
 <p>Information about the Ebola virus on the international development company website.</p>

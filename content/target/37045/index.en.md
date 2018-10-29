@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: EU Referendum: Barack Obama urges Britons to back remain vote on UK visit
-
 News and current affairs website

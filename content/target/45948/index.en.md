@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Boris and Gove's great Brexit con: Vote Leave played a 'cynical' race card in ploy to cash in on fears over immigration and they KNEW Oz-style points system wouldn't work... but white voters liked it   
-

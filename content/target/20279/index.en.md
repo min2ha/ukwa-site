@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T06:00:00Z"
 }
 
-# Firth of Clyde Forum
-
 The Forum is a voluntary partnership of local authorities, organisations, businesses and communities committed to working towards integrated, sustainable management of the Clyde's environmental, economic and community resources.

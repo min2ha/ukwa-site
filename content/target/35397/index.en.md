@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Public Health England: Zika virus infection: guidance for primary care
-
 Government and professional body guidance to general practitioners on Zika virus.

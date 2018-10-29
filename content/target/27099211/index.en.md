@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Franko B
-
 The life and work of Franko B is situated somewhere between isolation and seduction, benevolence and confrontation, suffering and eroticism, punk and poetry. 

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Nick Robinson (bbcnickrobinson) on Twitter
-

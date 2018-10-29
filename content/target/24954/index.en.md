@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Your biggest decision in a generation: Cameron issues rallying cry to voters as Tories take a three-point lead... but one in six are STILL undecided 
-
 None

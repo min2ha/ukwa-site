@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# Wales Health Impact Assessment Support Unit (WHIASU)
-
 The Wales Health Impact Assessment Support Unit (WHIASU) provides information on the Wales HIA Support Unit, health impact assessment (HIA) and the process as practiced in Wales, news and recent developments. 

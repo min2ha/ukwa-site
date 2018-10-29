@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Kealey (@Bosworth_Rose) on Twitter (Labour candidate for Hinckley and Bosworth)
-

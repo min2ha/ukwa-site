@@ -10,6 +10,4 @@
   "start_date": "2016-06-20T11:00:00Z"
 }
 
-# Money Made Clear Wales
-
 Money Made Clear Wales is an initiative of the Wales Co-operative Centre and  provides useful online tools and resources to make the most of your money.

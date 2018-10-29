@@ -10,6 +10,4 @@
   "start_date": "2017-08-29T09:00:00Z"
 }
 
-# City Sightseeing Glasgow
-
 Site of a business in Glasgow offering sightseeing trips around the city on open topped buses.

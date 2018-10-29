@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alan Brown (@alanbrownsnp) on Twitter
-
 Twitter profile of Alan Brown, Scottish National Party candidate for Kilmarnock and Loudoun in the 2017 general election.

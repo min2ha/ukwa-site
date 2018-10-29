@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: The UK post-Brexit: a stronger and even closer ally to Latvia
-
 Secretary of State for Exiting the European Union, David Davis, writes in Latvijas Avīze ahead of his meeting with Foreign Minister Edgars Rinkevics in Latvia about the new partnership he wishes to forge post-Brexit.

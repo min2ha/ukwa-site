@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# English Folk Dance and Song Society (EFDSS)
-
 The English Folk Dance and Song Society (EFDSS) is the national folk arts development organisation for England. We are here to champion the English traditional arts – music, song, dance, storytelling, customs and traditions – as part of the rich and diverse cultural landscape of the UK.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-11T09:00:00Z"
 }
 
-# Young Wrexham | Wrecsam Ifanc
-
 Site for young people in Wrexham.

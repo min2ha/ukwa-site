@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gŵyl Nôl a Mla'n
-
 Music Festival for all ages held in Llangrannog.

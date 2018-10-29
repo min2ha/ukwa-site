@@ -570,6 +570,4 @@
   "endDateText": ""
 }
 
-# Scottish Government
-
 The Scottish Government collection includes archived sites of public bodies and agencies in Scotland, a full A-Z list begins at the bottom of the page. Scottish Government site:<li>https://www.webarchive.org.uk/wayback/archive/*/http://www.gov.scot/</li><li>https://www.webarchive.org.uk/wayback/archive/*/http://www.scotland.gov.uk/</li>

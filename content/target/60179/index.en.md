@@ -10,6 +10,4 @@
   "start_date": "2018-01-10T09:00:00Z"
 }
 
-# Isle of Tiree on Facebook
-
 Facebook page promoting the Island of Tiree in the Western Isles of Scotland, while providing information on its history.

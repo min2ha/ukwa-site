@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Queen's Cross Church
-
 The website of Queen's Cross Church, located in Aberdeen. 

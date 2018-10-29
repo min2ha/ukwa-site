@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Lagganlia Centre for Outdoor Learning
-
 Site of an outdoor education centre offering guided adventures and expiditions in the Highlands around Kingussie.

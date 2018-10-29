@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Violet Apple - The Life and Works of David Lindsay
-
 None

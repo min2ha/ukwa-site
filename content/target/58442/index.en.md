@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Moray Walking Festival
-
 Site of an annual hill walking festival located in Moray, in the north east of Scotland.

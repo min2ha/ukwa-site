@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dr Craig Martin (@Craig_R_Martin) on Twitter
-
 Twitter profile of Craig Martin, Scottish Labour candidate for Falkirk in the 2017 general election.

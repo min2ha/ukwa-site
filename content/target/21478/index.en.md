@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Teachers' fury as Nicky Morgan accused of promoting Tory policies in personal letters to them
-
 None

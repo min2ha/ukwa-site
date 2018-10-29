@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: George Osborne to stay UK chancellor if Tories win election
-
 None

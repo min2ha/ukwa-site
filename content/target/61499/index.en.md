@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bangor Science Festival
-
 Science festival with activities for families, schools groups, adults looking for entertainment and stimulating debate, and professionals interested in the latest research

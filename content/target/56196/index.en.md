@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# Helen Woods
-
 Helen Woods is a Welsh composer, musical director and performer.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Local Heroes
-
 Project enabling three groups of people to research some of the 200 local men whose names are on the Plaistow Memorial Bells, then respond to what they learn through visual art or words.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# St Mary's Priory Church Choir
-
 St Mary's Priory Church Choir consists of about eighteen children and sixteen adults, adn is a mixed SATB choir for the Church Services. 

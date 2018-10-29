@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Gwalia Trust
-
 The Gwalia Trust is a local charitable trust providing nonrepayable grants to the most vulnerable people of south Wales including those who are homeless; facing homelessness, have physical or mental disabilities or those in residential or nursing care.

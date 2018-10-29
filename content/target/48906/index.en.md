@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Welsh Government: Brexit: Securing Wales' Future
-
 The Welsh Government pages on exiting the European Union. It includes access to the White Paper, 'Transition from the European Union to a new relationship with Europe'.

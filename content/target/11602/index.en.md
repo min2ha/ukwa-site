@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mo Farah (@Mo_Farah) on Twitter
-
 Double Double Olympic Champion, World Champion, 6-time European Champion

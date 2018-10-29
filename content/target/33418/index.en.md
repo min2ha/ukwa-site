@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# Medical Defence Union (MDU)
-
 Medical Defence Union (MDU) indemnifies doctors for incidents arising from their clinical care of patients.

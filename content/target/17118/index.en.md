@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Tories and Labour desperately trying to win back support lost to the smaller parties
-

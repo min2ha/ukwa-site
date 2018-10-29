@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Confederation of British Industry (CBI)
-
 The Confederation of British Industry (CBI) is the UK's business lobbying organisation, providing a voice for employers at a national and international level.

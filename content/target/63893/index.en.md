@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Colston Wellpark Parish Church
-

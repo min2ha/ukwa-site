@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Haringey_IrishCentre (@Haringey_IrishC) on Twitter
-
 Haringey Irish Centre 

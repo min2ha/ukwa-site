@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# International Internet Preservation Consortium 
-
 Website of an international organisation advocating for the preservation of the web.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Rob Walsh (@RobWalshLlay) on Twitter (Liberal Democrat candidate for North Wales) 
-
 Rob Walsh is the Liberal Democrat candidate for North Wales candidate for North Wales at the 2016 National Assembly Election. 

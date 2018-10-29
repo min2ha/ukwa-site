@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Elfair Grug Harpist Virtuoso
-
 Elfair Grug is a Welsh concert harpist.

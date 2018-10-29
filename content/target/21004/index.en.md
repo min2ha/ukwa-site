@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luke Graham for OSP (@LGrahamOSP2015) on Twitter
-
 Twitter profile of Luke Graham, Scottish Conservative and Unionist Party candidate for Ochil and South Perthshire in the 2017 general election.

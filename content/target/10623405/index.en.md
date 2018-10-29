@@ -10,6 +10,4 @@
   "start_date": "2013-05-15T15:15:00Z"
 }
 
-# Peace Camp 2012
-
 <p>An art project which was part of the London 2012 Festival, involving a coastal installation encircling the UK created by director Deborah Warner in collaboration with actor Fiona Shaw. The project also included love proms nominated and recorded by the people of the UK, submitted to the websites with their own messages.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Haringey Green Party on Facebook
-
 Facebook page of Haringey Green Party

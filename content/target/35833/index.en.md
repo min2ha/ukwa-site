@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Iain Duncan Smith's claims about the EU make no sense, Ken Clarke says
-

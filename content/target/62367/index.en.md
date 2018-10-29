@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bath City F.C.
-
 Bath City Football Club is a semi-professional association football club based in Bath, Somerset, England. The club participates in the National League South, the sixth tier of English football.

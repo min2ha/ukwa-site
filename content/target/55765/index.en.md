@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Ongoing Union judicial and administrative proceedings: position paper
-
 This paper outlines the United Kingdom's position with regards to judicial and administrative proceedings that are ongoing at the point of exit from the European Union.

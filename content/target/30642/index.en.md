@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# University of the West of Scotland
-
 Official website of the University of the West of Scotland in Paisley.

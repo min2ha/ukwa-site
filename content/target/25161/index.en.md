@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Comedian Russell Brand 'given £400,000' by STRANGER to run in the election
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leeds City Council
-
 Website of Leeds City Council offers access to information about its activities and services, news, consultations, and local plans. You can also find out about council budget and spending, and read committee papers and minutes.

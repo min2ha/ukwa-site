@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Edinburgh Evening News: Hannah Miley smiling again as she secures Olympic spot
-

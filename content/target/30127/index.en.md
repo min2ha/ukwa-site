@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# An Lòchran (@AnLochran) on Twitter
-
 Twitter profile for An Lòchran, a non profit organisation which promotes Gaelic arts and culture in Glasgow.

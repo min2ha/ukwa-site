@@ -10,5 +10,3 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Made in Granton
-

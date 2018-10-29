@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: There's so much in-fighting in the Brexit camp. Here's the breakdown of where everybody really stands
-

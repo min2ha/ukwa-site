@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Roy Swales (@SwalesRoy) on Twitter (UKIP Politician)
-
 Roy Swales stood as Conservative candidate for Aldershot at the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How TV news let the Tories fight the election on their own terms
-
 None

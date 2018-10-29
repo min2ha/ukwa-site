@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ayr St. Columba Church
-

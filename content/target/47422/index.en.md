@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Why I will vote against triggering article 50
-

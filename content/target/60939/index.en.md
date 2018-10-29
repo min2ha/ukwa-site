@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Granuaile Hurling Club
-
 Granuaile was first founded in 1935 and was predominantly a gaelic football team competing in Hertfordshire.
  
 Throughout the following years the club strayed away from football and concentrated on hurling. During the sixties and seventies Granuaile competed in Hertfordshire with huge success winning numerous League, Championship and Miller cup titles. 

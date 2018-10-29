@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home:  Gove is setting himself up as Brexit’s Michael Collins
-
 Argues that once the UK has left the full structure of the EU’s legal order, it will be easier for it to go further. Leaving the EEA would involve economic dislocation, but not as much as leaving the EU’s regulatory environment completely. The same is true for leaving the customs union. In the meantime, UK business would be able to plan for and adjust to the new environment. Brexit by degrees gives Britain the best chance reducing the damage to acceptable levels, and make the price of freedom one that even a moderate Remainer could understand as being reasonable to pay.
 

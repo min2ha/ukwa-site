@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Huntly Hairst
-
 Site of an annual celebration of the food and traditions of Aberdeenshire, taking place at Hallowe'en in Huntly.

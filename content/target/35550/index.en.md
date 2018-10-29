@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Claire Reid (@FifeClaire) on Twitter
-
 The Twitter profile of Claire Reid, Scottish Green Party candidate for Mid Scotland and Fife in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# English Chess Forum
-
 An online enthusiast forum concerned with English chess. Discusses chess at various levels including junior chess, country championships, senior chess and various related topics.

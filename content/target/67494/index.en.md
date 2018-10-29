@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# thisfangirl_ (@thisfangirl_) on Instagram 
-
 A digital community capturing the many faces, stories and voices of the female football fan. This is their official Instagram account.

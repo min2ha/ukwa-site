@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# ITV: News: Magna Carta goes on display in St Albans
-

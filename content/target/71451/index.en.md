@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Bristolians RFC on Pitchero
-
 The official website of Old Bristolians Rugby Club.

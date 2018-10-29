@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# St Pancras International
-
 Official website of St Pancras International, a railway station in London.

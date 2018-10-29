@@ -10,6 +10,4 @@
   "start_date": "2016-03-17T09:00:00Z"
 }
 
-# Tim Parry Jonathan Ball Foundation for Peace
-
 The Foundation works nationally to support those affected by terrorism and conflict. With over 20 years of experience, they believe that addressing the causes of violence before, during and after conflict situations is the most effective way possible to promote peace. Their projects and programmes work within three main areas; prevention, resolution and response.

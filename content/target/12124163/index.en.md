@@ -10,6 +10,4 @@
   "start_date": "2016-09-16T10:00:00Z"
 }
 
-# Paul Burston
-
 Paul Burston, an author, was born in York, raised in South Wales. He is founder and host of London’s award-winning LGBT literary salon Polari and creator of The Polari First Book Prize and has been shortlisted for many awards.

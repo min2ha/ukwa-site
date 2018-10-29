@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival Cine Fringe
-
 Site of a festival of short films aligned with the Edinburgh Festival Fringe.

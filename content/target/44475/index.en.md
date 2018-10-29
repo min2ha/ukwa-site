@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Crawley Observer: EU Citizens worried about their status in the UK after Brexit
-
 Article discussing local concerns over citizenship and new position within the UK after Brexit

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Lelant
-
 Website with information relating to the history, genealogy, etc. of Leland, a village in Cornwall. It is run by Maxwell Adams.

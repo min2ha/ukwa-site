@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Southern Reporter, The
-
 None

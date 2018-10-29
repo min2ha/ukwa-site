@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Underbelly Edinburgh Fringe
-
 Underbelly is a UK-based live entertainment company that runs several festivals and events across the country. This is the official page for their Edinburgh Festival operation. 

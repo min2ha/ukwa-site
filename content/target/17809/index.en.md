@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The Conservatives and Labour are both in trouble, so this is a good election to lose
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The EU leave campaign has dishonesty at its core – and it hasn’t convinced us 
-
 Guardian, The

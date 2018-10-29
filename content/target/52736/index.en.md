@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Preservation and Archiving Special Interest Group (PASIG) 2017 Oxford 
-
 The Preservation and Archiving Special Interest Group (PASIG) is dedicated to advancing the practice of digital preservation and archiving. It brings together practitioners, industry experts and researchers to share experience in a vendor-neutral forum on how to put preservation and archiving into practice. This is the website for the 2017 international conference hosted in Oxford.

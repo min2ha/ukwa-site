@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on the Lords and Brexit: this is not the peers versus the people
-

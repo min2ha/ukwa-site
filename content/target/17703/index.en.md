@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Million voters missing from roll, says Electoral Commission
-
 None

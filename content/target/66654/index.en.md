@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Edinburgh Partners Limited
-
 The website of Edinburgh Partners Limited, an employee-owned investment managment company based in Edinburgh, Scotland. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# A show of no confidence in Tom Watson MP. Deputy Leader, Labour.
-
 A petition of no confidence in Thomas Anthony Watson MP as a deputy leader of the Labour Party.

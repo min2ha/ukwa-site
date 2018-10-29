@@ -11,5 +11,3 @@
   "subject": "Hampshire Collection"
 }
 
-# Hampshire Archives and Local Studies at Hampshire Record Office
-

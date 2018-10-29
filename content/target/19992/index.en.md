@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wayne David on Facebook (Labour candidate for Caerphilly)
-
 The Facebook page in support of re-electing Wayne David as the Member of Parliament for the Caerphilly constituency

@@ -11,6 +11,4 @@
   "subject": "Race, Ethnicity & Sport"
 }
 
-# Phil Vasili's History of Black Footballers
-
 None

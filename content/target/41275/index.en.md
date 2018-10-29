@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Stop The Drill
-
 A campaign website set up by activists in Northern Ireland fighting against fracking.

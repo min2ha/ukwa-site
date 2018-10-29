@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Bay TV Swansea
-
 Bay TV Swansea is a local community TV channel, licensed by Ofcom and broadcasting across Swansea and one of the many new local TV channels that have launched across the U.K. Bay TV network.

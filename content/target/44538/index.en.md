@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# What UK Thinks: Poll results: UK
-
 Website containing polls and opinions on the EU and the EU referendum.

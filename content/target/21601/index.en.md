@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Royal College of Physicians: Future hospital: More than a building
-
 They are the professional membership body for physicians, with over 30,000 members and fellows across the globe. Physicians diagnose and treat illness, and they promote, maintain and restore health. 

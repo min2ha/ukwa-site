@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Downing Street aides plotting a snap general election to break Brexit deadlock must be DRUNK or ILL, former Tory leader Lord Hague warns
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stithians Rfc (@StithiansRfc) on Twitter
-
 The official Twitter account of Stithians Rugby Football Club.

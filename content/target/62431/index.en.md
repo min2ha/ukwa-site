@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Young Enterprise Scotland
-
 Site of an Scottish organisation aiming to inspire and equip all young people to learn, develop and reach their full potential through enterprise.

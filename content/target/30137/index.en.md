@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# Hands Up for Trad on Facebook
-
 HANDS UP FOR TRAD was formed in 2002 and exists to increase the profile and visibility of Scottish Traditional Music through Information, Education and Advocacy. This is their official Facebook.

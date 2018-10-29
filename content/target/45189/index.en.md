@@ -10,6 +10,4 @@
   "start_date": "2016-08-27T10:00:00Z"
 }
 
-# Mavis Gulliver : poet and writer
-
 Site of a poet and writer based on the island of Islay, Argyll & Bute.

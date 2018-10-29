@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Where Poppies grew diffrently - stories of Gypsy and Travellers in the first world was
-
 Project to train Gypsy and Traveller participants in oral history work, produce a CD and display.

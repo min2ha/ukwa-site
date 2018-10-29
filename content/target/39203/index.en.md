@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# annamcmorrin (@annamcmorrin) on Twitter 
-
 Anna McMorrin is the Labour candidate for South Wales Central at the 2016 National Assembly Election and Cardiff North at the 2017 General Election.

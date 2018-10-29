@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dalkeith Rugby Football Club
-
 Site of a Scottish rugby union football club based at Dalkeith, Midlothian

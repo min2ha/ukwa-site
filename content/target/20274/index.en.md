@@ -10,6 +10,4 @@
   "start_date": "2015-04-01T06:00:00Z"
 }
 
-# Scottish Pen: a worldwide association of writers
-
 Scottish PEN, founded in 1926, is the Scottish centre of PEN International, campaigning on behalf of imprisoned and repressed writers.

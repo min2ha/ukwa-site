@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: How internet porn is creating a generation of men desensitised to real life sex
-
 News article about Porn-induced erectile dysfunction becoming increasingly common as internet pornography is affecting men by psychologically desensitising them to normal sexual stimulation and arousal with a sexual partner

@@ -10,6 +10,4 @@
   "start_date": "2016-11-22T09:00:00Z"
 }
 
-# Heart of Argyll Tourism Alliance
-
 Site of a tourist information centre for Argyll based in Lochgilphead.

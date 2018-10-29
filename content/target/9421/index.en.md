@@ -10,6 +10,4 @@
   "start_date": "2015-08-13T10:00:00Z"
 }
 
-# Wigan Leisure & Culture Trust (WLCT)
-
 Wigan Leisure & Culture Trust (WLCT) is a social enterprise and charitable trust working in Wigan (Greater Manchester), Selby (Yorkshire) and Cannock Chase, (Staffordshire). They aim to provide the very best in leisure and culture, creating opportunities for people to change their lives, investing in facilities and adding value for public benefit.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Historic Equitation Ltd 
-
 Historic Equitation Ltd is run by Dominic Sewell. The company provides historical equestrian shows, events and attractions. 

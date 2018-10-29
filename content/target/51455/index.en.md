@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Britain’s divorce from the EU will be bitter. Yet the failure is Europe’s too
-

@@ -11,5 +11,3 @@
   "subject": "Oral History in the UK"
 }
 
-# Nottinghamshire's Rainbow Heritage
-

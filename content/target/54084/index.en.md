@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Jewish Chronicle, The: Labour support just 13 per cent among UK Jews
-

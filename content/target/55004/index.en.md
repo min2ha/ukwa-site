@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Confederation of Paper Industries: Brexit position paper
-
 CPI position paper on Brexit negotiations

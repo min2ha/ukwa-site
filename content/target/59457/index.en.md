@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Partwork Models Forum
-
 An online enthusiast community concerned with Partwork scale models. The forum includes a general discussion area, partwork model area, traditional models, group builds, competitions, awards and various other related topics.

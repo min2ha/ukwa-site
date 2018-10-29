@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Growbiz
-
 Growbiz is a community-based enterprise support service based in rural Perthshire. 

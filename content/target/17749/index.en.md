@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Wealthy Scottish voters could offer Miliband a route to No 10
-
 None

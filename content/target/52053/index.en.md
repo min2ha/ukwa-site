@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary the Virgin - Davyhulme
-
 The Church of St Mary the Virgin – Davyhulme is a Grade 2 Listed Building
 It was listed on 26th February 2013, List entry Number: 1403203,  the listing describes the building as follows:
 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Russell Brown (@russellbrown4dg) on Twitter
-
 The Twitter profile of Russell Brown, the Labour Party candidate for Dumfries and Galloway in the UK General Election on the 7th May 2015.

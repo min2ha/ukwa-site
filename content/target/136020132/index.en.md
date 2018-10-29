@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bournemouth, Dorset, Isle of Wight, Poole, Slough, Somerset, and West Sussex LINks
-
 None

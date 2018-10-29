@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Ignition - Global Event and Exhibition Management Company
-
 Ignition is a global event and exhibition company. 

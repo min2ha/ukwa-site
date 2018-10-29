@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# FG Insight: A meeting of NFU Cymru’s governing body has decided the interests of Welsh agriculture is best served within the EU
-
 A meeting of NFU Cymru’s governing body has decided that, on the basis of the current available evidence, the interests of Welsh agriculture are best served by the UK remaining within the European Union.

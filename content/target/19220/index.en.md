@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire County Council: David Ross Foundation donates £1.4m to Lincoln Castle's Magna Carta vault
-

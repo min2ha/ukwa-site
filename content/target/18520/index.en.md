@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: DUP should step aside in Fermanagh says former UUP MP
-
 None

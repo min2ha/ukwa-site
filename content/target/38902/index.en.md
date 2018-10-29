@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Edinburgh Peace & Justice Centre
-
 Site of an organisation based in Edinburgh, Scotland set up to raise awareness of the complex causes of war and offer a vision of ways to create peace through nonviolence, conflict resolution, human rights, alternatives to war and ecological responsibility.

@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Blossoms Gallery
-
 Blossoms Gallery is a Aberystwyth based Community Eco Art Space.

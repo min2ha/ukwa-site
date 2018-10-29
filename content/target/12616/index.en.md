@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Constitution Unit (ConUnit_UCL) on Twitter
-
 <p>The twitter profile of the Constitution Unit, an independent, non-partisan research centre based in the Department of Political Science at University College London.</p>

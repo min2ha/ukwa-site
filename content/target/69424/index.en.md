@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Incoming Festival
-
 Emerging theatre companies' festival

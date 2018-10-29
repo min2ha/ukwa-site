@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Antiques Trade Gazette: EU Referendum… how will the art and antiques industry adapt to a Brexit economy?
-
 An article considering the effect that 'Brexit' may have on the arts and antiques markets.  

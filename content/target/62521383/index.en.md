@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Dexerous Diva, The
-
 None

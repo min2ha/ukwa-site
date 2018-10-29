@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit News
-
 News website featuring a range of articles on the topic of Brexit

@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Brenig Folk 
-
 Brenig are a folk duo based in Aberystwyth.

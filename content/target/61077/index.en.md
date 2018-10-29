@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Professional Harpist Ben Creighton Griffiths
-
 Ben Creighton Griffiths is an Electro-Acoustic Jazz Harpist & Classical Harpist based in Cardiff.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-11T09:00:00Z"
 }
 
-# PoetryFilm
-
 Zata Banks is the founder and director of PoetryFilm, the research art project launched in 2002. PoetryFilm celebrates experimental text/image/sound screening and performance material, and explores semiotics and meaning-making within the art form.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Living through World War One in three Norfolk Broadland Villages 
-
 “Living through World War One in three Norfolk Broadland Villages – Neatishead, Irstead and Barton Turf”.  

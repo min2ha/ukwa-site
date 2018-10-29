@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Freedom Association, The (TFA)
-
 The Freedom Association is a non-partisan, centre-right, libertarian, euro-sceptic pressure group. TFA believes in the freedom of the individual in all aspects of life to as great an extent as possible. As such, it seeks to challenge all erosion of civil liberties and campaign in support of individual liberty and freedom of expression.

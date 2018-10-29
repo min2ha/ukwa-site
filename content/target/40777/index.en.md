@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Ferret Community Site, The
-
 Community forum for sharing news stories and feedback on the way The Ferret is run.

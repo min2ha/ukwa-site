@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mirror, The: Winter Olympic Games 2014
-

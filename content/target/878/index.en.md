@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Staffordshire and Shropshire Healthcare NHS Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General election 'starting gun fired' as Conservatives launch campaign poster
-
 None

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Vote Leah Ganley Scottish TUSC for Dundee City East on Facebook
-
 Facebook page of Leah Ganley, Scottish Trade Unionist and Socialist Coalition (TUSC) candidate for Dundee City East in the 2016 Scottish Parliamentary election.

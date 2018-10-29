@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Slugger O'Toole: Mandela
-
 <p>Posts tagged with 'Mandela'. The 'Slugger O'Toole' blog is edited by Mick Fealty and is one of the longest running web blogs on politics in Britain and Northern Ireland.</p>

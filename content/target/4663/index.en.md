@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Conversation, The: Nelson Mandela
-
 None

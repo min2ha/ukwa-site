@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chew Valley RFC
-
 The club was founded on 20th March 1969 formerly known as Chew Valley Old Boys Rugby Football Club. 

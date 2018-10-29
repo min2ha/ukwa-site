@@ -11,6 +11,4 @@
   "subject": "Darwin 200"
 }
 
-# Tree Of Life
-
 See how living things are related. Explore the evolutionary links between living things with Sir David Attenborough and the Wellcome Trust's Tree of Life.

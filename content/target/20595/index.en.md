@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories do not want Stephen Green to give evidence over HSBC, Labour claims
-

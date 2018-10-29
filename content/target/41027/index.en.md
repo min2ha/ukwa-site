@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# West Down Community
-
 West Down website is created for, and run by the residents of West Down.  It has been developed by a sub committee of the Parish Hall and it is intended that there will be a small management group which will oversee the site, content and future developments.
 
 Its’ purpose is to inform the locals of what is going on in this busy village and to tell the world outside what we have to offer.

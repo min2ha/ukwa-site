@@ -11,5 +11,3 @@
   "subject": null
 }
 
-#  LSE Space for Thought Literary Festival: 2015 Theme is 'Foundations'
-

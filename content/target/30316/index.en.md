@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Antur Nantlle
-
 Community regeneration body covering Dyffryn Nantlle.

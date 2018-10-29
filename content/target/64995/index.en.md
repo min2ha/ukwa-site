@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of England on Facebook
-
 Facebook page of the Church of Scotland Presbytery for England

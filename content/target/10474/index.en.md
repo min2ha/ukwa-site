@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Graham Watson, Liberal Democrat, on Facebook
-
 None

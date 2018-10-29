@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Springfest : the Scottish Food and Drink Festival
-
 Site of an annual food and drink festival at Balloch, on the banks of Loch Lomond.

@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Cardiff Anime Con
-
 Cardiff Anime Con is an event for anime fans, gamers, comic fans & cosplayers. This event is run by Animeleague and was held at the Mercure Holland Hotel in February 2018.

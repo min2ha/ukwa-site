@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Tottenham Today
-
 None

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Four only surviving Magna Cartas united for first time in 800 years
-

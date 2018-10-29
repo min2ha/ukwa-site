@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Almond Valley : Museum, Farm & Discovery Centre
-
 Site of an organisation set up to preserve and interpret the history and environment of West Lothian and make this heritage accessible, engaging, and enjoyed by all.

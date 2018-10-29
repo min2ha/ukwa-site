@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Russell Jones
-
 Blog belonging to Edinburgh based poet Russell Jones.

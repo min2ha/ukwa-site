@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Stephen Lloyd (@stephenlloydebn) on Twitter (Liberal Democrats Politician)
-

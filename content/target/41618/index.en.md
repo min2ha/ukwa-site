@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Friends of Pelaw Wood
-
 The Friends of Pelaw Wood want to encourage the use and enjoyment of this beautiful woodland by everyone living in Durham City through actively maintaining the footpaths and improving the habitats within the wood.

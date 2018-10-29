@@ -10,5 +10,3 @@
   "start_date": "2016-02-12T09:00:00Z"
 }
 
-# Severn Bridge Visitor Centre
-

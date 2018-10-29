@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Is Ed Miliband constrained by budget responsibility lock?
-
 None

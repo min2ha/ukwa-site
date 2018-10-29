@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-# National Ugly Mugs (NUM)
-
 National Ugly Mugs has a mission to end violence against sex workers. It is a national organisation that provides greater access to justice and protection for sex workers.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Socialist Worker: 1916 in Ireland - a rising against empire
-
 Article on the Easter Rising by Simon Basketter

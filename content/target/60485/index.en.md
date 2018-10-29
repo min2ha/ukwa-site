@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: E-petition 200165 relating to leaving the Europan Union 
-
 This Debate Pack was prepared for the 'debate on e-petition 200165, relating to leaving the European Union', held in Westminster Hall at 4:30pm on January 22nd 2018

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror Online: Gamer forced to quit "addiction" after piling on weight as his obsession meant he only paused gaming to go to toilet
-
 Article regarding Wahaab Ahsan, a 16 year old from Leicester who developed an addiction to online gaming.

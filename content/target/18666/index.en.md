@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Times: Whats On: Magna Carta Fair: How to get involved – 6pm to 8pm - Creek Creative, Faversham
-

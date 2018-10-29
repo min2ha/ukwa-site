@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Britain's forgotten voters: Can homeless people have a voice in the election? 
-
 None

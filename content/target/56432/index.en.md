@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Kettering Borough Council
-
 The website of Kettering Borough Council offers access to a information about its services and the latest news. It also includes council committee papers and minutes, budget and transparency information, planning policies and a consultation portal

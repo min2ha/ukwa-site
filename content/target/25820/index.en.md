@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems complain BBC reneged on TV debates deal with Nick Clegg
-
 None

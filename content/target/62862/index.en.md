@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bro Ystumanner Ministry Area
-

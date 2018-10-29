@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit supporters and Scottish independence advocates believe in a 'false freedom', says David Mundell
-

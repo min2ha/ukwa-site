@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Genertal Election 2015: the campaign to unseat Nick Clegg
-
 None

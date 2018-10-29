@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Ulster Fry, The
-
 A satirical news site based in Northern Ireland.

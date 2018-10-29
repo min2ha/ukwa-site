@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Vikings, The
-
 The Vikings a Medieval Ages re-enactment society in the UK. With over 700 members throughout Britain, and others in Europe and the US, The Vikings are a society presenting re-enactments of the Viking Age.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: European Union citizenship
-
 Looks at EU citizenship as defined in the treaties and views on associate citizenship status after the UK leaves the EU.
 

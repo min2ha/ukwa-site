@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glentanar Community Football Club
-
 Site for a Scottish junior and community football club located in Aberdeen, Scotland.

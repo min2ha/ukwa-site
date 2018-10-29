@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Police monitored political activities of candidate standing against Nigel Farage
-
 None

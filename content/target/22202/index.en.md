@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Yr Ysgwrn: cartref Hedd Wyn, Bardd y Gadair Ddu - Home of Hedd Wyn, Poet of the Black Chair 
-

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# City of Manchester Stadium | Etihad Stadium
-
 The City of Manchester Stadium in Manchester, England, also known as the Etihad Stadium for sponsorship reasons, is the home ground of Manchester City Football Club and with a domestic football capacity of 55,097, the fourth-largest in the Premier League and eighth-largest in the United Kingdom.

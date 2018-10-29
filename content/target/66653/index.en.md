@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# J. W. Filshill Limited
-
 The website of J.W. Filshill Limited, a wholesale provider of food and drinks products. The company was founded in 1875 and is based in Glasgow, Scotland.

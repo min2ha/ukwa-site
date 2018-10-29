@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Daniel G. Williams (@DanielGwydion) on Twitter 
-
 Prospective Plaid Cymru candidate for the Neath Constituency at the 2017 General Election.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# James Clerk Maxwell Foundation
-
 Site of a foundation set up to promote, encourage and advance the study of, research into and the dissemination of knowledge relating to physics, electronic engineering and physical chemistry in all their aspects and to commemorate the life and work of James Clerk Maxwell, the Scottish physicist.

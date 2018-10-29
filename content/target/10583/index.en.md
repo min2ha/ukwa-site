@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Britain First
-
 Britain First is British political party and movement formed in 2011 by former members of the British National Party. The party is led by a former BNP councillor Paul Golding and was founded by Jim Dowson.

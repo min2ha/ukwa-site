@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Former SNP leader says Scots 'could quit UK' after EU vote
-
 None

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate 4 Classrooms
-
 The first global website supporting the teaching and learning of climate change in different languages using recognized scientific research.

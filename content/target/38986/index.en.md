@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Osborne rails at 'dishonest' Brexit supporters as he warns that leaving will cost every family £4,300   
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Breitbart: EU Referendum
-
 Breitbart section on the EU referendum.

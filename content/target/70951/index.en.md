@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Amber Valley CAMRA Beer & Cider Festival
-
 Local beer and cider festival

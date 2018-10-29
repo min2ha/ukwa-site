@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Youth and Student CND
-
 Students across the country have expressed an interest in starting new societies.

@@ -10,5 +10,3 @@
   "start_date": "2008-07-18T00:00:00Z"
 }
 
-# Flag Fen - Britain's Bronze Age Centre & Archaeology Park
-

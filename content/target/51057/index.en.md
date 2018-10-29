@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Choose Life Wales
-
 Choose Life Wales provide support, advice and information to both substance misusers and their families across Wales.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Government risks 'insulting people's intelligence' with its Remain arguments, says Nicola Sturgeon
-

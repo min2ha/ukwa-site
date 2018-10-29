@@ -10,6 +10,4 @@
   "start_date": "2018-09-27T09:00:00Z"
 }
 
-# Greene King plc 
-
 Brewer & pub operator based in Bury St. Edmunds, Suffolk

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health First Aid England (mhfa)
-
 Website promoting mental health education and training in England

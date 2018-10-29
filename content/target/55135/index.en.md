@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Excessive internet use linked to depression, research shows
-
 Guardian article: on research showing internet linked to depression

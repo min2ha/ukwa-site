@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Seindorf Arian Crwbin Silver Band
-
 Crwbin Silver Band is a traditional brass band located in Crwbin near Carmarthen.

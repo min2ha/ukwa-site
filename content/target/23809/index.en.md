@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pobl Aberystwyth
-
 A news site for the Aberystwyth area.

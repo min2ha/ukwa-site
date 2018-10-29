@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Andy Chaffer on Facebook (Communist Party candidate for Birmingham Hodge Hill)
-

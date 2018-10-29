@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK firm to contest move to make new passports in France
-
 The new UK passport to be issued after Brexit would be made in France, the current British manufacturer reported.  The boss of UK supplier De La Rue said it would appeal against the decision to award the £490m contract to Franco-Dutch firm Gemalto.

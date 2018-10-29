@@ -10,5 +10,3 @@
   "start_date": "2014-06-19T00:00:00Z"
 }
 
-# Hysbysfwrdd Tai Cymru - Welsh Housing Notice Board
-

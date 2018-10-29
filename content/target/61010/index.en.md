@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU wants to restrict single market access to UK
-
 The European Union wanted to be able to restrict the UK's access to the single market if there was a dispute after Brexit, a leaked document suggested. The power to suspend "certain benefits" would apply during the post-Brexit transition phase before the final arrangements come into force.
 
 

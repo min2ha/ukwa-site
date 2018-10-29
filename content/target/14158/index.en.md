@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ben Riley-Smith (benrileysmith) on Twitter
-
 Ben Riley Smith was Scottish Political Reporter for the Daily Telegraph during the Scottish Independence Referendum.

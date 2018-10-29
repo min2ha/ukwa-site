@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Odiham unveils Magna Carta anniversary embroidered panel designs
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Green Element: EU referendum: A 'yes' or 'no' vote for the environment
-
 Blog post about environmental impacts of the EU referendum with an overview of EU environmental legislation 

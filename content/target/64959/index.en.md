@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Southwark TUSC (@SouthwarkTUSC) on Twitter
-
 The Southwark, London branch of TUSC the Trade Union Socialist Coalition.

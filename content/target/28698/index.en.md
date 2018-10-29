@@ -10,5 +10,3 @@
   "start_date": "2015-07-03T10:00:00Z"
 }
 
-# Children´s Commissioner for Wales | Comisiynydd Plant Cymru
-

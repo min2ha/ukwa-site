@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The party manifestos are depressing if you're under 30 and don't have rich parents
-
 None

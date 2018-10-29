@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Patricia Lovett MBE
-
 Patricia Lovett is a professional calligrapher and illuminator and works from her studio at Kent. She has written a number of books on calligraphy and illumination, and teaches and lectures worldwide.

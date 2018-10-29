@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# John Major: Britain and Europe: a reality check
-
 In his first public statement since the EU referendum, Sir John Major outlines the realities that he believes both Britain and Europe face in the future. 

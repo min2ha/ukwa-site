@@ -10,6 +10,4 @@
   "start_date": "2017-09-16T09:00:00Z"
 }
 
-# Daryl Lonsbrough
-
 Daryl Lonsbrough is a photographer from Wrexham in north Wales.

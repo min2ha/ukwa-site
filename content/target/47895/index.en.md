@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# LIMA: Literary Manuscript Analysis
-
 These pages are designed to provide an advanced introduction to the study of manuscripts; to consider what can be learned about a manuscript from its physical characteristics. Particular emphasis is placed on English literary manuscripts of the sixteenth and seventeenth centuries. The site considers various physical features of a manuscript from which information can be gained, the methodologies typically used, and the evaluation of evidence. References are also given to many printed texts and on-line resources about manuscript studies.

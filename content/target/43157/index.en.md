@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Law Analysis: Referendum Briefing 3: Does the EU have a ‘democratic deficit’?
-
 The EU is regularly accused from suffering a ‘democratic deficit’. In particular, it is often asserted that all EU decisions are made by the EU Commission – who are ‘unelected bureaucrats’.  As we demonstrate in this post, this criticism is clearly invalid. It fundamentally misunderstands (a) the powers that the Commission has – and more generally how decisions are made in the European Union; and (b) the way in which the European Commission gets into office.

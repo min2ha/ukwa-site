@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nate Kern Snowboarder
-
 None

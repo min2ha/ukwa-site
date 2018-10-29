@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# BBC: Muhammad Ali: The ultimate fighter
-
 A timeline of Muhammad Ali's big events.

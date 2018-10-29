@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# inside the games: Olympic, Paralympic and Commonwealth Games News
-
 We at insidethegames.biz communicate news stories from the Olympic and Paralympic Movement as they happen, around the clock, to all four corners of the world.

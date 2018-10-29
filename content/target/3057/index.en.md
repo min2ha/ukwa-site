@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T09:00:00Z"
 }
 
-# Forward Arts Foundation
-
 Forward Arts Foundation's aim is to identify and encourage talent; to inspire a love of poetry in people of all ages and circumstances; to support poets at all stages of their careers; to encourage collaboration with performers, musicians, artists, film-makers and social innovators. They are supported by the Arts Council England, Forward Worldwide, the John Ellerman Foundation, the Esmee Fairbairn Foundation, the Rothschild Foundation and Felix Dennis.

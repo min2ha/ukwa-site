@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Leicester Conservatives
-
 Website of Conservatives in Leicester, provides information on parliamentary candidate, mayoral candidates and city councillor, local news and events.

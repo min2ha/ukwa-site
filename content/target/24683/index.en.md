@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Darren Bisby-Boyd on Facebook (Green Party candidate for Peterborough)
-
 None

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Tom Burke (@tom_burke_47) on Twitter
-
 Twitter feed of Tom Burke, Chairman of EThreeG.

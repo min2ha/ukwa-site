@@ -10,6 +10,4 @@
   "start_date": "2016-11-02T09:00:00Z"
 }
 
-# West Harris Trust, The on Facebook
-
 The West Harris Trust on Facebook

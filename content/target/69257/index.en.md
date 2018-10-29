@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# The Brexit Syndicate
-
 The ‘Bad Boys of Brexit’ did not act alone. Behind them lies a murky network of powerful and secretive organisations –  a network we have called The Brexit Syndicate. Together these organisations are rewriting the rules of British democracy to suit themselves. Read on to find out how and join us in the battle for democracy, peace and prosperity.

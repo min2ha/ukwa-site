@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# United Kingdom Science Park Association - UKSPA
-

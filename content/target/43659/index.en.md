@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Express, The: Furious artist lashes out after anti-EU group uses statue to promote Brexit
-
 Sir Antony Gormley, the artist behind the Angel of the North, threatens legal action against Vote Leave after the group used the iconic statue to project their campaign slogan.

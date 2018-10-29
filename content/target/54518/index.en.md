@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Where do they stand?
-
 In May 2017 ComRes undertook the most extensive UK polling in the last decade on abortion. This website has published the results of this poll.

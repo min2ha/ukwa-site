@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Denbigh and District Male Voice Choir
-
 The Denbigh and District Male Voice Choir was established in 1998 and is a choir of 20 and 40 members. 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Glasgow Airport
-
 Glasgow Airport is an international airport in Scotland. The airport is owned and operated by Glasgow Airport Limited.

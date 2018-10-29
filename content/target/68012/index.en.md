@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Selby RUFC (@selby_rufc) on Twitter
-
 The official website of Selby Rugby Football Club.

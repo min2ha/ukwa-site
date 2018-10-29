@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Jakey Bites on Facebook
-
 Facebook page for a skating roller derby team based in Scotland.

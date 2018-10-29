@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# St. Andrews Voices
-
 Site of an annual festival of vocal and choral music stages at various venues throughout St. Andrews, Fife, Scotland.

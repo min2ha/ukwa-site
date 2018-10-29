@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Capita plc
-
 Capita plc  is an international business process outsourcing and professional services company. They support clients across a range of sectors, including local government, central government, education, transport, health, life and pensions, insurance, and other private sector organisations across the UK, Europe, South Africa and India.

@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Al-Manar Centre, Cardiff
-
 Al-Manar Centre is an Ahlus-Sunnah organisation, and established in Cardiff in 1992.

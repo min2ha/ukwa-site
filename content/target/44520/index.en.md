@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Message House: Young People and Political Disengagement: The Facts
-
 blog post about young people and political disengagement in the EU Referendum.

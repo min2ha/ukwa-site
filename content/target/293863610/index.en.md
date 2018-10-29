@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Scotland.org
-
 Online gateway to Scotland giving information for people looking to study or work there, tourists, or general public interested in Scotland. 

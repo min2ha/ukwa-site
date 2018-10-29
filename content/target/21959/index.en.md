@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Conversation, The
-
 The Conversation is an independent source of news and views, sourced from the academic and research community and delivered direct to the public.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Active Aboyne
-
 Site of a project to promote activity tourism in the Deeside and the Eastern Cairngorms, including Active Aboyne Outdoor Activities Festival.

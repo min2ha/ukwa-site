@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: EU position on Irish border to test UK cabinet unity on Brexit
-

@@ -10,5 +10,3 @@
   "start_date": "2009-02-09T00:00:00Z"
 }
 
-# Centre for Iris Murdoch Studies, Kingston University
-

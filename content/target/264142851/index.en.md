@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War 1 Community Projects: Bailiffgate Museum
-
 <p>Website exploring how WW1 affected Alnwick and the wider community.</p>

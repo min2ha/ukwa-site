@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Sleat Local History Society / Comunn Eachdraidh Shlèite
-
 Site of a local history society dedicated to collecting and preserving the the history of the parish of Sleat in the Isle of Skye, in the Western Isles of Scotland

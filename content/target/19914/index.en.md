@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Steffan Lewis (@steffanlewis) on Twitter
-
 Steffan Lewis is the Plaid Cymru spokesman on Brexit. He was also the Plaid Cymru Prospective Parliamentary Candidate for Blaenau Gwent 

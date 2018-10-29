@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Irshad Ahmed on Facebook
-
 Facebook profile of Irshad Ahmed, Scottish National Party list candidate for Lothian region in the 2016 Scottish Parliamentary election.

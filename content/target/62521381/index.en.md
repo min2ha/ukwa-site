@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Interns Anonymous
-
 None

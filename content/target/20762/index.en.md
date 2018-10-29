@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nicola Ross (@nicola4dundee) on Twitter
-
 The Twitter profile of Nicola Ross,Scottish Conservative and Unionist candidate for Dundee City West in the 2016 Scottish Parliament election.

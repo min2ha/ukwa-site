@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cornish Green Party, The
-
 Website of the Green Party in Cornwall, providing links to the West Cornwall Green Party, Mid and East Cornwall Green Party and South West Green Party 

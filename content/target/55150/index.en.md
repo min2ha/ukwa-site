@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Stop immigration’ is no longer the Tories’ Brexit rallying cry
-

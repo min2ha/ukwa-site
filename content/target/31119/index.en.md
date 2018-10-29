@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# British Medical Ultrasound Society (BMUS), The
-
 The British Medical Ultrasound Society is a multi-disciplinary body whose objective is the advancement of the science and technology of ultrasonics as applied to medicine.

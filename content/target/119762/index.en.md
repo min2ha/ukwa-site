@@ -10,5 +10,3 @@
   "start_date": "2011-05-18T00:00:00Z"
 }
 
-# Welcome to the town of Ammanford Web Site
-

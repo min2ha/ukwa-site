@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# AbortionRights E Ldn (@AREastLondon) on Twitter
-
 Local pro-choice group, organising for Abortion Rights in East London. 

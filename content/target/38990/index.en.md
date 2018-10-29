@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Priti Patel interview: It's not 'racist' to worry about immigration
-

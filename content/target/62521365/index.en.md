@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# CLIConline | CLICarlein
-
 CLIConline offers information, news and advice for all young people aged 11 to 25 in Wales on a wide range of subjects and issues, including where to get support in your local area. It is run by the Welsh Assembly Government.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - If there is a day when you fear for your nation...
-
 Ewan Morrison's Facebook post of the 6th of September, 2014.

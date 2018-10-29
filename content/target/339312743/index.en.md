@@ -10,5 +10,3 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Wales Pre-School Providers Association (Wales PPA) 
-

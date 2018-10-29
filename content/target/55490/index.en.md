@@ -10,6 +10,4 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# SSE Heritage Collection
-
 Business Archive website, database of historical artifacts and documents.

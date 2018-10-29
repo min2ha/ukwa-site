@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum (@eureferendum) on Twitter
-
 Twitter account of the EU Referendum blog, a blog advocating brexit

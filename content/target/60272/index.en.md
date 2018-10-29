@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU 'surprised' at UK no-deal planning concerns
-
 Discusses David Davis's fears that EU plans for a "no deal" Brexit were harming British firms and constituted abuse of the UK's rights as a member state

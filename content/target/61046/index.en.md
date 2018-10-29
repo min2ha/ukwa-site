@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Rorik Smith
-
 Rorik Smith is an Artist and Draughtsman based in North Wales and is an elected member of the Royal Cambrian Academy of Art (RCA).

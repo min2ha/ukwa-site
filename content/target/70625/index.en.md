@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# ShefFeministArchive (@ShefFemArchive) on Twitter
-
 A volunteer group building a collection of women's lib material @SheffieldArchives including artefacts & oral history.

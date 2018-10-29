@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Lodge of Alloa No. 69
-
 Site of a masonic lodge located in Alloa, Clackmannanshire and affiliated with the Grand Lodge of Scotland.

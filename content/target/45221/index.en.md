@@ -10,5 +10,3 @@
   "start_date": "2016-09-02T10:00:00Z"
 }
 
-# Radioactive Waste Management: Publications
-

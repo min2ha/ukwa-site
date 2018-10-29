@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Will the UK leave the EU? How to track the odds of a Brexit
-

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Year in the Life of Avon Dassett 1914-15, A
-
 <p>Project about the experiences of people in Avon Saddett during the outbreak of the First World War.</p>

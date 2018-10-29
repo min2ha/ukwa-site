@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Daving Harding
-
 Blog of a Glasgow based artist, David Harding.

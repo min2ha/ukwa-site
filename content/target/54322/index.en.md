@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Prime Minister's Office: PM statement following terrorist attack in Manchester: 23 May 2017
-
 Prime Minister Theresa May gave a statement in Downing Street following the terrorist attack at the Arianna Grande concert in Manchester. 

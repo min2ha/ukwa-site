@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Bookbag, The
-
 None

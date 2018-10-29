@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip MP refuses to endorse Nigel Farage Aids comment
-
 None

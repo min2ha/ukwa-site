@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Flock. The Marketing Transformation Company.
-
 Flock design independent and objective marketing transformation solutions.

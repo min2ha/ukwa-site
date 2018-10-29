@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Countering Colston: Campaign to Decolonise Bristol
-
 Campaign to decolonise Bristol: "In Bristol today, the major historical slave trader Edward Colston is publicly celebrated.
 
 We are a network of individuals who believe that this is wrong and we demand that it should end now."

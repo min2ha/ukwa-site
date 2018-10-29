@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Nine Worlds
-
 Nine Worlds convention is about gaming, film, cosplay, fandom, literature, science and geek culture. It takes place annualy in London.

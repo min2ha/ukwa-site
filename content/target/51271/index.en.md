@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Tyneside Irish Brigade Association
-
 The Tyneside Irish Brigade was a British First World War infantry brigade of Kitchener's Army, raised in 1914. Officially numbered the 103rd (Tyneside Irish) Brigade, it contained four Pals Battalions from Newcastle-upon-Tyne, largely made up of men of Irish extraction. (Another Newcastle brigade — the 102nd (Tyneside Scottish) — contained Tynesiders with Scottish connections).

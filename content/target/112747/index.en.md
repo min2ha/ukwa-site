@@ -10,6 +10,4 @@
   "start_date": "2005-08-10T00:00:00Z"
 }
 
-# Your Edinburgh : the collection of websites from, about and for Edinburgh people / The City of Edinburgh Council
-
 None

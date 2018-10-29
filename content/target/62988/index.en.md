@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Celebs Now -  Stephen Hawking
-
 Celebs Now for the latest celebrity news, gossip and pictures - plus new celebrity hair, celeb fashion, beauty and video of celebs. This is an article relating the Stephen Hawking's death.

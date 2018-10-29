@@ -10,6 +10,4 @@
   "start_date": "2018-04-05T09:00:00Z"
 }
 
-# Lodge Lochiel 1200
-
 Site of a masonic lodge located in Banavie, near Fort William and affiliated with the Grand Lodge of Scotland.

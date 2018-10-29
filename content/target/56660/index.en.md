@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# James and Tilla Waters Ceramics
-
 James and Tilla Waters  are award winning studio potters based in Carmarthenshire.

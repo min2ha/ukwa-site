@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bangladesh for Britain
-
 Bangladesh for Britain is the group representing the British Bangladeshi community for a leave vote in the upcoming EU referendum

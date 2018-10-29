@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Unite Against Fascism
-
 Site of an organisation promoting resistence against racism and fascism.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mansfield and Ashfield Conservatives
-
 Website of Mansfield and Ashfield Conservatives, providing information on MEPs, parliamentary candidates, events, and local and national news.

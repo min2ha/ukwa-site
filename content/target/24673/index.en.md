@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Nicola Day (@NicolaDay78) on Twitter (Green Party candidate for North West Cambridgeshire)
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Caroline Ansell  (Conservative Politician)
-
 Caroline Ansell stood as Conservative candidate for Eastbourne & Willingdon at the 2017 General Election but was not elected.

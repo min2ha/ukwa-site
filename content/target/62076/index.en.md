@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Colstars Operatic Society
-
 Colstars is a amateur dramatics society based in Trecynon, Aberdare.

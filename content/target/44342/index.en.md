@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Biggar Bonfire
-
 Site with a photographic record of the annual Hogmanay bonfire in Biggar, South Lanarkshire.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chatham House: After the 'Leave' Vote: The UK's European Year Zero
-
 If the UK votes to leave the EU, then 2016 becomes year zero for the UK's relationship with its neighbours in Europe. And an exit from the EU also calls into question Britain's broader role and position within international affairs and the global economy. 

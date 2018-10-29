@@ -10,5 +10,3 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# Porthcawl Male Choir | Côr Meibion Porthcawl
-

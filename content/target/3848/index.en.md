@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Times Literary Supplement, The
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-02-06T06:00:00Z"
 }
 
-# PlayTalkRead
-
 Scottish Government information site, encouraging parents to help younger children to read and enjoy language.

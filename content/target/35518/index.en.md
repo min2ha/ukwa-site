@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Guardian, The: Contested legacy: echoes of the Easter Rising
-

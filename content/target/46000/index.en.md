@@ -10,6 +10,4 @@
   "start_date": "2016-10-07T10:00:00Z"
 }
 
-# Skanska UK Plc
-
 Established as Aktiebolaget Skånska Cementgjuteriet in 1887, the new business specialised in manufacturing concrete products. In the 1990s, Skanska established itself in Europe and South America and started to develop commercial and residential properties. They have an office in London and involved in British construction products.

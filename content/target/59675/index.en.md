@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Britain must stick to EU single market, keep paying money to Brussels, and have 'easy' migration rules, says Labour's Keir Starmer – as he hints at backing for second Brexit referendum   
-

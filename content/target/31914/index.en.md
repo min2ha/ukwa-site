@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Mark Harrod 
-
 Mark Harrod Ltd is a manufacturer and supplier of football goals.

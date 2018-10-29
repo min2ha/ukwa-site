@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: Prince Charles likens climate to Magna Carta
-

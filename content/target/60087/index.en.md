@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: I don’t like Brexit – I just don’t see how it can be stopped
-

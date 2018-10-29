@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St John Ogilvie's
-
 Site of a Scottish Roman Catholic parish church in Wester Hailes, Edinburgh.

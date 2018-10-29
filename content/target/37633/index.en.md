@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: The EU referendum ballot paper is more biased than one produced by HITLER, leader of a British pro-EU party claims   
-

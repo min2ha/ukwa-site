@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Schoolhouse
-
 Schoolhouse is a not-for profit social enterprise providing overseas volunteering opportunities. 

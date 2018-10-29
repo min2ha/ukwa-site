@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Chris Petrie
-
 Chris Petrie is a Welsh composer and conductor.

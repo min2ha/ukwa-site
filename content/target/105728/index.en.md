@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Dave Thompson MSP for Skye, Lochaber and Badenoch (SNP)
-
 Dave Thompson was Scottish National Party Member of the Scottish Parliament for Skye, Lochaber and Badenoch (2011-2016).

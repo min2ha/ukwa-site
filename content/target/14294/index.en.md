@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Austin / Desmond Fine Art
-
 <p>Art gallery specialising in modern British art, including paintings and sculpture</p>

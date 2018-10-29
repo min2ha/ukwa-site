@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson says David Cameron would look ‘wet’ and ‘wimpy’ not to debate EU referendum
-

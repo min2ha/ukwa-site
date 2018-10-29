@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Lles: yn gweithredu'r Gymraeg | Making Welsh work
-
 Lles is a new multifaceted independent enterprise that works to promote and develop the use of the Welsh language in business to benefit business, in Welsh working life and Welsh life in general. The company is based in Merthyr Tydfil.

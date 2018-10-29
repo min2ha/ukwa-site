@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Centrist MPs could save us from hard Brexit – but they’ve gone silent
-

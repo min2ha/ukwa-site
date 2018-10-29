@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# ADS: ADS Manifesto: Invest in Growth
-

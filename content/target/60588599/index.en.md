@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Health and Safety Executive: London 2012 Olympic and Paralympic Games
-

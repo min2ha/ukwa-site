@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Lyme Regis Fossil Festival
-
 One of Dorset's largest science festivals, with specialist talks, walks and interactive activities

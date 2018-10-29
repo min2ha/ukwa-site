@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: David Cameron: 'I don’t claim that I am the perfect Prime Minister'
-
 None

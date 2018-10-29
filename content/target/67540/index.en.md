@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lytchett Minster RFC (@Lytchett_rugby) on Twitter
-
 The official Twitter account of Lytchett Minster Rugby Football Club.

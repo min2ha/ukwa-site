@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Student Room
-
 The Student Room is a UK education website with advice and forums for GCSE through to University students

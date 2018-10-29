@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Concealed, Discovered, Revealed - The weblog of Sue Lawty artist and weaver
-

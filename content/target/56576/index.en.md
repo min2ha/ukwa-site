@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Womens Rugby World Cup 2017
-
 The official site of the Women's Rugby World Cup. Ireland hosted the competition in August 2017. The final was played on the 26th of August in the Kingspan Stadium, Belfast.

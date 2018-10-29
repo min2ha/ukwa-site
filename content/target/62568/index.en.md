@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# Student Advertiser, The
-
 Site of a Scottish student newspaper aimed at higher education tudent bodies in Glasgow and Edinburgh with topical lifestyle features and student based news.

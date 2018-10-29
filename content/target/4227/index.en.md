@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# David Hume Institute
-
 The website of the David Hume Institute, an independent public policy charity promoting informed debate in Scotland.

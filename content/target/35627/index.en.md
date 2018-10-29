@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jayne Cowan (Conservative candidate for Cardiff North)
-
 Jayne Cowan is the Conservative candidate for Cardiff North at the 2016 National Assembly Elections.

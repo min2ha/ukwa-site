@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dunscore Parish Church
-
 The website of Dunscore Parish Church.

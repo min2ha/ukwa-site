@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: May vows no compromise with EU on Brexit plan
-
 Theresa May insisted she would not be forced into watering down her Brexit plan during negotiations with the EU, Writing in the Sunday Telegraph, the prime minister said she would "not be pushed" into compromises on her Chequers agreement that are not in the "national interest".
 
 

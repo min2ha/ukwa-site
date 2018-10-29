@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# South Cambridgeshire Green Party
-
 Website of South Cambridgeshire Green Party, providing information on campaigns, representatives and candidates, regional and local links and local and national news.

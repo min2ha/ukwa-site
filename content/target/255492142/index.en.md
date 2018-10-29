@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Doing Our Bit 
-
 Doing Our Bit began as a tribute to members of owner's own family who served in the First World War, but it also commemorates other soldiers of the First World War.

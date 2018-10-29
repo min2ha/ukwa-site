@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Ferry (@JohnFerry18) on Twitter
-
 Twitter profile of John Ferry, Scottish Liberal Democrat candidate for Dumfriesshire, Clydesdale and Tweeddale in the 2017 general election.

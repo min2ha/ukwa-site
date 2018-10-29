@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Highland Family History Society
-
 Site of a genealogy society based in the Highlands of Scotland and containing links and resources on family history for the area.

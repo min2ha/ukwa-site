@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of Perpetual Succour
-
 Site of a Scottish Roman Catholic parish church located in Auchterarder, Perth & Kinross

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: If Ed Miliband's in the driving seat, Nicola Sturgeon will be steering him to the Left 
-
 None

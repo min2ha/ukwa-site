@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Anne Bean Archive
-
 An online archive of Anne Beans work.

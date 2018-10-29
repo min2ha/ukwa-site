@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Probable Error
-
 The blog account of a statistician in epidemiology & public health and is interested in the history, philosophy and methodology of psychometrics.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Yorkshire and the Humber Commercial Support Unit (CSU)
-
 None

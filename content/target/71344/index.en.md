@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# We're All Mad Here
-
 Personal blog about mental health, by Claire Eastham.

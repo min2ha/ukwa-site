@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Llanblethian Village 
-
 This is a community site to the village of Llanblethian near Cowbridge.

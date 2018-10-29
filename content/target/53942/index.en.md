@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# ***Tim Scott*** (@timscottukip) on Twitter (UKIP candidate for Henley in the 2017 General Election)
-
 Tim Scott was the UK Independence Party (UKIP) candidate in the constituency of Henley in the 2017 General Election.

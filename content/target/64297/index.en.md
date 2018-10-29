@@ -10,6 +10,4 @@
   "start_date": "2018-04-15T09:00:00Z"
 }
 
-# Lodge Nethan St. John No. 1289
-
 Site of a masonic lodge located in Kirriemuirhill, Lanarkshire and affiliated with the Grand Lodge of Scotland.

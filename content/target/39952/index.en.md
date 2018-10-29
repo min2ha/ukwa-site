@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# right to refuse, The 
-
 This project will work with a boys school and engage local volunteers who will be trained in researching and then investigate through archives/diaries to produce media packs of the history/impact/treatment of conscientious objectors and the alternate roles they played in WW1

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dunedin Og GFC (@DunedinOg) on Twitter
-
 Underage Gaelic football club in Edinburgh. Formed in 2013.

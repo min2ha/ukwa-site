@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lana Hempsall (Conservative  Politician)
-
 Lana Hempsall stood as Conservative candidate for Norwich South at the 2017 General Election but was not elected.

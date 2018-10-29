@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum topic page
-

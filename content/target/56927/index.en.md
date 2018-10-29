@@ -10,6 +10,4 @@
   "start_date": "2017-08-31T09:00:00Z"
 }
 
-# Rauni Higson
-
 Rauni Higson is a silversmith based in a converted chapel in Snowdonia.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# MACH 3.5 Bike Festival
-
 Website for the MACH 3.5 fesival

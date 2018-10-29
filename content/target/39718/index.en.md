@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE: South Scotland on Facebook
-
 Facebook page of the South Scotland branch of RISE: Scotland's Left Alliance.

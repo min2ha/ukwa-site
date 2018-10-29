@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dr Richard Simpson (RSimpsonMSP) on Twitter
-
 <p>The twitter profile of Dr Richard Simpson, Scottish Labour Member of the Scottish Parliament for Mid Scotland and Fife.</p>

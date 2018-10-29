@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Wales Institute of Cognitive Neuroscience (WICN) | Sefydliad Niwro- wyddoniaeth Wybyddol Cymru (WICN)
-
 The Wales Institute for Cognitive Neuroscience (WICN) was established by a £5.2m grant from the Welsh Assembly Government (WAG) to support the development of world-leading expertise in cognitive and clinical neuroscience within Wales at Bangor, Cardiff, and Swansea Universities.

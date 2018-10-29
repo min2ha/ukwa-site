@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Ecclesfield District Archives
-
 The website is part of the Ecclesfield Civil Parish Past & Present Archives Project funded by the Heritage Lottery Fund. The grant is supporting and co-ordinating the development of the archiving project which is collecting together historical information and also new material to create an archive for the future. This project is hosted by Ecclesfield Civil Parish Council. 

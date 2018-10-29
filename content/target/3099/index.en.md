@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# National Portrait Gallery
-
 Official website of the National Portrait Gallery.

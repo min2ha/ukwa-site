@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T10:00:00Z"
 }
 
-# Shirenewton Community Council 
-
 This website is the official online representation of the Shirenewton Village Community Council. It has information for residents and visitors and is updated regularly.

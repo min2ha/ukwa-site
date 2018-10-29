@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Sun, The
-
 Get the latest news, exclusives, sport, celebrities, showbiz, politics, business and lifestyle from The Sun

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leanne spells out vision for strong Wales in reformed EU
-
 Website for Plaid Cymru (Party of Wales). 

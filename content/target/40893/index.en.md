@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Traditional Music and Song Association Edinburgh and Lothians branch
-
 Site of a Scottish traditonal music organisation based in Edinburgh.

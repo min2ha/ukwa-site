@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Amlwch History | Hanes Amlwch
-
 A site poviding a history of Amlwch on Anglesey published by Anglesey Computer Solutions

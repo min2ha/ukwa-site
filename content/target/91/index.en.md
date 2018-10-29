@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Blackpool Teaching Hospitals
-
 None

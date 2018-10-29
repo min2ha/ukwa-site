@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Derek Munn, Labour on Facebook
-
 None

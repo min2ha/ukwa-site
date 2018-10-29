@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Stand of Defiance European Movement (@SODEMAction) on Twitter
-
 Twitter feed of anti-Brexit protest movement which holds daily demonstrations outside Parliament

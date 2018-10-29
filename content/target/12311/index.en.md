@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BusinessforScotland (BizforScotland) on Twitter
-
 The twitter profile of the pro-independence business network, economic policy think tank and online magazine for business professionals.

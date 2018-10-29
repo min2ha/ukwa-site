@@ -10,5 +10,3 @@
   "start_date": "2017-05-03T09:00:00Z"
 }
 
-# Chris Carrigan (@chris-carrigan) on Twitter (Liberal Democrats candidate for Wantage)
-

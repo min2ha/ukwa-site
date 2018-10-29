@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Hollow
-
 Hollow is an exhibition that toured Wales in 2016. According to the website, 'Taking a copper mine as a source of inspiration this exhibition explores the creative destruction involved in the act of construction. The mine is represented as a large hollow sculpture in the gallery and loose cardboard boxes represent the ‘ore’ that has been extracted from inside'.

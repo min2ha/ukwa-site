@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Ditch Monkey
-
 None

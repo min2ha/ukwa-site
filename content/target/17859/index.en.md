@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ukip conference: 'We need fewer women hairdressers' says outspoken MEP Janice Atkinson
-
 None

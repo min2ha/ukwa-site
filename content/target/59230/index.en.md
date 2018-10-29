@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Irish ministers warn they will be 'resolute' about blocking Brexit deal as standoff over Northern Ireland border deepens  
-

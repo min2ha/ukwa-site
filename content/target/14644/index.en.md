@@ -10,6 +10,4 @@
   "start_date": "2014-11-23T06:00:00Z"
 }
 
-# British Society of Criminology 
-
 The British Society of Criminology aims to further the interests and knowledge of both academic and professional people who are engaged in any aspect of work or teaching, research or public education about crime, criminal behaviour and the criminal justice systems in the United Kingdom. 

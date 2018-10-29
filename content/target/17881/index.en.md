@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# International Pole Sports Federation (IPSF)
-
 The International Pole Sports Federation (IPSF) is a home to the World Pole Sports Championships (WPSC). It is a not for profit organisation dedicated to promoting pole as an athletic sport. 

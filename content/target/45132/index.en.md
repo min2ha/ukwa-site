@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T10:00:00Z"
 }
 
-# Charlie Webster
-
 Personal site of British sports TV presenter Charlie Webster

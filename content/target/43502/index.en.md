@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tablet, The
-
 Catholic Magazine

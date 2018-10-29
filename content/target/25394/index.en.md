@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron urges Conservative defectors to Ukip to vote for Tories
-
 None

@@ -11,5 +11,3 @@
   "subject": "Oral History in the UK"
 }
 
-# Foundling Voices
-

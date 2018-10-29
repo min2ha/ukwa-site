@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post, The: Archbishop Of Canterbury Says It Is 'Absolutely Outrageous' To Label People Who Fear Migration As 'Racist'
-
 Huffington Post, The: Archbishop Of Canterbury Says It Is 'Absolutely Outrageous' To Label People Who Fear Migration As 'Racist'

@@ -10,6 +10,4 @@
   "start_date": "2017-01-20T09:00:00Z"
 }
 
-# Learning and Skills Observatory Wales
-
 The Learning and Skills Observatory (LSO) encourages the development and exchange of evidence-based policy and improved decision-making by providing information, data and intelligence on Wales' labour market including education, learning and skills sectors. The site is managed by the Welsh Government.

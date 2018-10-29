@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Overseas Aid Commission
-
 This website aims to provide information about the work of the Jersey Overseas Aid Commission, (JOAC) its policies and how to apply for grant aid, disaster and emergency relief and support for local charities working in developing countries. It also provides information on current and past Community Work Projects overseas supported by JOAC and how to volunteer.

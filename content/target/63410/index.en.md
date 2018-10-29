@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Tivyside Agricultural Show
-
 This is official website of the Tivy Side Show. The site provides schedules to the Agricultural Show held near Llandysul from 2016.

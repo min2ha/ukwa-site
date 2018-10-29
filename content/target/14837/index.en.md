@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Mobile Uploads - Front page of the Sunday Herald.
-
 <p>Yes Scotland uploads the front page of the Sunday Herald at 10.37pm on 20th September, 2014.</p>

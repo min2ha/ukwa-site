@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Aasmah Mir (AasmahMir) on Twitter
-

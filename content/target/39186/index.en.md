@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Nourish Scotland
-
 Site of a group of organisations and individuals involved in the food sector in Scotland, with a common purpose – to reshape the way food works in Scotland into a system that’s fair, healthy, affordable, sustainable.

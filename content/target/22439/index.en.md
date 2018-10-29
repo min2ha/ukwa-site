@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: SNP conference: Stewart Hosie says Labour shouldn't be 'arrogant' on talks
-
 None

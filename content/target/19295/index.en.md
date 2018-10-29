@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: Magna Carta: what prospects for a Precariat Charter? 
-

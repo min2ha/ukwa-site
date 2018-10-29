@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cadzow Parish Church
-

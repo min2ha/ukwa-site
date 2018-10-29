@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Diane Dodds (Democratic Unionist Party) on Facebook
-
 None

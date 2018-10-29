@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Newcastle-upon-Tyne Hospitals
-
 None

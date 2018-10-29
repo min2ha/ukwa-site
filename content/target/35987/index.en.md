@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Johanna Baxter (@JohannaBaxter) on Twitter
-
 The Twitter profile of Johanna Baxter, the Scottish Labour candidate for the West Scotland list in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Swindon Hackspace
-
 The Swindon Hackspace formed in June 2012, holding weekly meetings for those interested in making, breaking, and fixing things. Members work on a range of projects that usually involve electronic hardware, software programming, and mechanical assembly.

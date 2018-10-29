@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# north-wales-bowling.co.uk
-
 An online enthusiast community concerned with bowling in North Wales. Discusses various Welsh bowling league and includes an area for general discussion.

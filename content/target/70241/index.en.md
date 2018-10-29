@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NI Football Daily
-
 The official website of NI Football Daily.

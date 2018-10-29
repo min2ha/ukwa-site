@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Racing 
-
 Site of the owners and operators of Scotland's five horse racing venues, who promote and support the sport of horse racing in Scotland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The BBC renews its swingometer to cope with an unpredictable election
-
 None

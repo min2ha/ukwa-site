@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T11:00:00Z"
 }
 
-# Leigh Music Society
-
 Leigh Music Society presents 7 concerts per year between September and March on Sunday afternoons in the Derby Room.

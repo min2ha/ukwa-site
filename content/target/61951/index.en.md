@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# AFC Bournemouth (@afcbournemouth ) on Twitter
-
 The official AFC Bournemouth Twitter account

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Foreign and Commonwealth Office Travel (@FCOtravel) on Twitter
-
 Travel advice for British nationals living and travelling abroad. 

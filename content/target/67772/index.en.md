@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Abertillery Orpheus Ladies Choir
-
 The Abertillery Orpheus Ladies Choir was formed in 1911.

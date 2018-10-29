@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Electoral Commission on Facebook, The
-
 The Facebook profile of the Electoral Commission, an independent body set up by the UK Parliament.

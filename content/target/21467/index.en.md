@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron to face party leaders ahead of General Election as TV debates confirmed 
-
 None

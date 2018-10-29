@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: Media Centre
-
 Website detailing new content made available by the BBC to be used as a teaching aid for school children discussing a variety mental health issues and conditions.

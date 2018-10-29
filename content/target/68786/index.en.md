@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T14:30:00Z"
 }
 
-# British Library Labs
-
 British Library Labs is an initiative funded by the Andrew W. Mellon Foundation which supports and inspires the public use of the British Library’s digital collections and data in exciting and innovative ways.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# On Your Marks, Get Set, Go!
-
 A blog post about the IIPC Rio 2016 web archive collection and information on a Twitter chat that was held 10th August 2016.

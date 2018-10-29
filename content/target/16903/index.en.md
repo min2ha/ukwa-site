@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# UK Vision Strategy
-
 The UK Vision Strategy seeks a major transformation in the UK’s eye health, eye care and sight loss services.

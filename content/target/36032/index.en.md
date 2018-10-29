@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Gail Ross (@GailRossSNP) on Twitter
-
 The Twitter profile of Gail Ross, the Scottish National Party candidate for Caithness, Sutherland and Ross in the 2016 Scottish Parliament election.

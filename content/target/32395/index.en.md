@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Advisory Council on the Misuse of Drugs
-
 This is an independent expert body that provides advice to the government on drug policy, and carries out research into issues of public concern relating to drug use.

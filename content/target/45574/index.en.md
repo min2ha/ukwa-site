@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Maes B
-
 Maes B is Wales' Premier Welsh Language Music Festival. Maes B is held during  Eisteddfod week and features late night performances by over 20 of the main Welsh language bands.

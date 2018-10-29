@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Made In Derbyshire
-
 Made in Derbyshire 2015 is promoted by Culture Derbyshire, a partnership of public, private, voluntary and community organisations working together to promote and improve the cultural life of the county.

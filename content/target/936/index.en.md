@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# House of Commons Public Bill Committee on the Health and Social Care Bill 2010-11
-
 None

@@ -11,5 +11,3 @@
   "subject": "Mental Health"
 }
 
-# Mental Health History Timeline
-

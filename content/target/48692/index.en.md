@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Lean Enterprise Academy
-
 The Lean Enterprise Academy is a not for profit organisation. Their aim is to develop and disseminate knowledge of lean thinking and lean practice.

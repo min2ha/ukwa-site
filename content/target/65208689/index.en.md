@@ -10,5 +10,3 @@
   "start_date": "2012-05-17T00:00:00Z"
 }
 
-# REaCTOR (Renewable, Environmental and Construction Technology Open Resources)
-

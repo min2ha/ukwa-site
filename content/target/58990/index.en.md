@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Castle Fine Arts Foundry Ltd
-
 Castle Fine Arts Foundry is one of the UK’s leading art foundries and has 20 years of experience in the manufacture and installation of public art including some of the country’s most monumental sculptures

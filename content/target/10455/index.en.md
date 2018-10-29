@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ozen Turham, Liberal Democrat
-

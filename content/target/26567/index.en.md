@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Forget Labour’s leadership contest, it’s supporters who can save the party
-
 None

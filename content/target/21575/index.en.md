@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Leader profile: Nick Clegg opens up about life outside politics
-
 None

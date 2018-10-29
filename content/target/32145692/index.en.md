@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Manchester and Warrington Quakers
-

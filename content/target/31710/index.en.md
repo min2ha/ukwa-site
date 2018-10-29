@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Church on the Rise
-
 Church on the Rise is a church for and of the community and is based in Beaufort, Ebbw Vale and is based at the Soar Baptist Church.

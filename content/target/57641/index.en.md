@@ -10,6 +10,4 @@
   "start_date": "2017-10-03T09:00:00Z"
 }
 
-# Beca Beeby
-
 Beca Beeby is a designer, Maker & Artist based in South Wales. 

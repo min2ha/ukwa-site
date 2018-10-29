@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# Conter
-
 A "cross-party site designed for and by Scottish anti-capitalists". 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS London Health Programmes
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-01-29T09:00:00Z"
 }
 
-# Cats Protection
-
 website of animal welfare organisation

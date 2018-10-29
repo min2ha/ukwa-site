@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Harley-Davidson Forums UK
-
 An online enthusiast forum concerned with Harley-Davidson Motorbikes. The forum discusses riding gear, events & rides, various Harley-Davidson models, technical tips, classifieds and various other related topics.

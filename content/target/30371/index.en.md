@@ -10,5 +10,3 @@
   "start_date": "2015-09-10T10:00:00Z"
 }
 
-# University of Oxford: School of Anthropology and Museum Ethnography
-

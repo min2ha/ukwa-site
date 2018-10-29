@@ -10,5 +10,3 @@
   "start_date": "2006-12-05T00:00:00Z"
 }
 
-# MECCANO Light Red and Green Period
-

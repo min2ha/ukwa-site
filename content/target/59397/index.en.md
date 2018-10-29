@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Waid Academy FP Rugby Football Club on Facebook
-
 Facebook page for a Scottish rugby union football club based in Anstruther, Fife.

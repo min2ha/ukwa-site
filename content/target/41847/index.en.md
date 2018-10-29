@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Nottingham City Council
-
 Website of Nottingham City council offers information about council services, news and events, consultation documents, financial data and committee papers and minutes

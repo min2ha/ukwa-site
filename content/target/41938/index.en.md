@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mid and East Cornwall Green Party
-
 Website of the Mid and East Cornwall Green Party, providing information on parliamentary candidates, local news and how to get involved.

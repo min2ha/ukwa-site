@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Pen pals : what happens to writers
-
 Site of a literary project to write an update on the authors who appeared in the 'P.E.N. new fiction II' anthology published in 1987 and edited by Allan Massie.

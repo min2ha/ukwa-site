@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Cleveland Police Authority
-
 None

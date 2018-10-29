@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Prue Bray (@PrueBray) on Twitter (Liberal Democrats candidate for Rochester & Strood)
-
 Prue Bray stood as Liberal Democrats candidate for Rochester & Strood at the 2015 General Election but was not elected. 

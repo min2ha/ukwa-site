@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# LP Records 
-
 Website of an independent record label and record store in Glasgow, Scotland. The store also hosts and promotes live music events.

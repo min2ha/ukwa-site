@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Young people on Milibrand: did Brand's interview with Miliband work?
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Llandudno Youth Music Theatre
-

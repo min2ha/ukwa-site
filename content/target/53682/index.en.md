@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Rotherham Politics
-
 Rotherham Politics was started to open up political scrutiny, using the many tools* that are now available to us on the web. 

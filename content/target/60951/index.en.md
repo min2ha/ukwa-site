@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Stuckism Wales
-
 Stuckists are in favour of creating conceptual art through the medium of figurative painting. This is the centre for promoting Stuckist Art in Wales. 

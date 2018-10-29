@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# CwCw
-
 CwCw are a Welsh band from Blackwood, South Wales. 

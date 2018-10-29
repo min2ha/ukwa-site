@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: "Prince William says 'I worry for you girls' as he joins forces with Professor Green at school mental health assembly"
-
 Telegraph article about cyberbullying

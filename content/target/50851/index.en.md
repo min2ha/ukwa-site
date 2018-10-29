@@ -10,5 +10,3 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Swansea Art Society
-

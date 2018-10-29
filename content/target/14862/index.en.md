@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - SNP NHS Lies
-
 Better Together post a video at 11.39am on 16th September 2014.

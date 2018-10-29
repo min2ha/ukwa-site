@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Launceston Rugby Club
-

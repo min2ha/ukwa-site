@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sky Sports: Cycling
-
 None

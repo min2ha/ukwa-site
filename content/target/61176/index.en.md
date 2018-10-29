@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-#  APPCIOS: The Association for Psychodynamic Practice and Counselling in Organisational Settings
-
 APPCIOS is a new, fast growing independent professional association. It was formed in 2011 with a view to providing accreditation, validation and a professional network for psychodynamic practitioners working within organisational settings in a variety of professional roles.

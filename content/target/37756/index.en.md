@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Glosujwszkocji
-
 "Migrants Vote" site created as part of a campaign to encourage Polish citizens living in Scotland to vote in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Pathhead Parish Church.
-
 Site of a Church of Scotland parish church at Kirkcaldy, Fife.

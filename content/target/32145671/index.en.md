@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hemel Hempstead Quaker Meeting
-

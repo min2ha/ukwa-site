@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# Kurdi Cymru
-
 Kurdi Cymru is an independent voluntary organization, providing direct and indirect assistance to the Kurdish community within the Wales.

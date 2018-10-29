@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Oxford University Materials Society
-
 MatSoc is a student run society set up to support its members in the study of materials science through industrial visits, speaker events, and socials. 

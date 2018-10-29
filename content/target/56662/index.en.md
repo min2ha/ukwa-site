@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Richard Lloyd Lewis
-
 Richard Lloyd Lewis is a photographic artist based near Bath.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe (@OpenEurope) on Twitter
-
 Non-partisan and independent policy think tank, committed to EU reform.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Moorfields Eye Hospital
-
 None

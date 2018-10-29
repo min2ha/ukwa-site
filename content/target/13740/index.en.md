@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Margo Mobile (MargoMobileYes) on Twitter
-

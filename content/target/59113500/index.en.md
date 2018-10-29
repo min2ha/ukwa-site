@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# Cotton Times
-
 Website dedicated to the history of the cotton industry in Lancashire. It is run by Doug Peacock.

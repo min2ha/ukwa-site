@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The EEA/EFTA ‘safe harbour’ is not the Brexit Britain needs
-
 With the unwanted and unworkable Chequers proposal creating a bizarre void at the heart of the Brexit debate, other proposals are now being floated regarding the UK's future relationship with the EU just to add to the confusion. The most recent proposal is one to keep us in the European Economic Area (EEA) and, potentially, the European Free Trade (EFTA), for a period beyond Brexit. 

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Syrian Human Rights  Committee  [SHRC]
-
 The Syrian Human Rights Committee (SHRC) is an independent and neutral human rights organisation concerned fundamentally with defending general liberties and human rights of the Syrian people.

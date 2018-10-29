@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# UK Youth Climate Coalition
-
 The UKYCC is run entirely by a team of young volunteers, all of which are between the ages of 18  - 29, working together between other commitments to create a future which is happy, affordable, clean and safe.

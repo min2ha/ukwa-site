@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ex-BBC director general and Jeremy Paxman reunite for election night
-
 None

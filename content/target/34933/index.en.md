@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# INDYBroad [DOT] scot | A Vision of Independent Democratic Broadcasting
-

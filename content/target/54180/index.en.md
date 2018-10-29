@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rosie Duffield (@RosieDuffield1) on Twitter (Labour Party Politician)
-
 Rosie Duffield stood as Labour Party candidate for Canterbury in the 2017 General Election and was elected MP.

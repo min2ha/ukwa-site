@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# National Theatre Wales: Sisters
-
 Sisters is part of India Wales, a major season of artistic collaboration between the two countries to mark the UK-India Year of Culture and is supported by British Council Wales, the Arts Council of Wales and Wales Arts International. Sisters is created by Kully Thiarai, Sameera Iyengar and other female artists from the south Asian diaspora. The show was held at the Wales Millennium Centre in April 2018.

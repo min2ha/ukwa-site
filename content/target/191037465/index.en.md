@@ -10,5 +10,3 @@
   "start_date": "2013-08-29T00:00:00Z"
 }
 
-# Brynmawr to Tredegar A465
-

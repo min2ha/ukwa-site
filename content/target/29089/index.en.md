@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Newton Abbot Labour
-
 Website of Newton Abbot Labour, providing information on General Committee Meetings, Women's Section meetings, events, campaigns, and latest stories.

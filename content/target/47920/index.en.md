@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Stratherrick & Foyers Community
-
 Community website providing news and information for the communities of Stratherrick and Foyers, by Loch Ness, Highland, Scotland.

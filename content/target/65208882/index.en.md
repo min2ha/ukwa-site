@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Lord Lieutenant Hertforshire: Queen's Diamond Jubilee
-

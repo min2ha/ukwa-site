@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Hugh Grant gives the naked truth about Labour candidate
-
 None

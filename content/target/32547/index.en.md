@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# European Council on Foreign Relations: Reinvention of Europe Programme
-
 The ECFR is a think tank, with offices across Europe, which aims to promote debate on European foreign policy. The Reinvention of Europe programme looks at debates around ‘Europe in crisis’, euro-scepticism and institutional change. The London office provides a hub for the ECFR programmes.

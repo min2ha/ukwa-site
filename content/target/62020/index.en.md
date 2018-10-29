@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Granite City Brawlers
-
 Site of a skating roller derby team based in Aberdeen.

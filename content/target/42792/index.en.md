@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Jack of Kent Blog
-
 News and comment on law and policy, from a liberal and critical perspective by legal correspondent for New Statesman and ft.com

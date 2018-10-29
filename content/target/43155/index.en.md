@@ -11,5 +11,3 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Angle Journal of Poetry in English
-

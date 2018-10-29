@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tameside Health and Wellbeing Board
-
 None

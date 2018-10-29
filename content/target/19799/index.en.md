@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ealing Green Party on Facebook
-

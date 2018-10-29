@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Robert Minhinnick
-
 Robert Minhinnick is a Welsh poet, essayist, novelist and translator.

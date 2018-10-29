@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Paxman pulls in more than 3 million for Cameron and Miliband grilling
-
 None

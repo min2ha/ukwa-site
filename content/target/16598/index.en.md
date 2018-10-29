@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg: David Cameron's stance on TV debates 'slightly laughable'
-
 None

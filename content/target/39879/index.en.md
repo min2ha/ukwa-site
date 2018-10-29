@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alexander Stewart on Facebook
-
 Alexander Stewart, Conservative and Unionist Councillor for Perth and Kinross Council.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# TEAMtalk
-
 Latest Football News, Results and Fixtures

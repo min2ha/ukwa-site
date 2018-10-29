@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Porth Technoleg Iaith Cenedlaethol Cymru | Welsh National Language Technologies Portal
-
 The Language Technologies Portal is managed by Canolfan Bedwyr at Bangor University and consists of a wide range of resources for the Welsh language, including Welsh language text processing, spelling and grammar checking, translation, text to speech and lots more.

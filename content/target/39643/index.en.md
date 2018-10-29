@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Vote for Aileen McLeod SNP on Facebook
-
 Facebook page of Aileen McLeod, Scottish National Party (SNP) candidate for Galloway and West Dumfries in 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# XLP Research Trust
-
 The XLP Research Trust exists to promote and fund research into the cause, management and cure for X-linked lymphoproliferative syndrome, and to provide a point of contact and support for those families affected by XLP.

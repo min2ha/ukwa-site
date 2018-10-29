@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Consular Association Wales
-
 <p>Consuls are appointed to further the interests of the country they represent by encouraging commercial, academic and cultural activities. This assocation represents Wales.</p>

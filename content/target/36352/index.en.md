@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Inside politics: Panic among pro-EU faction
-
 Column by Macer Hall

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Leah Francetti
-
 Leah Franchetti is the Scottish Labour candidate for the Highlands and Islands list in the 2016 Scottish Parliament election.

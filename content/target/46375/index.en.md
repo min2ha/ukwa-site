@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T10:00:00Z"
 }
 
-# William Brown Archive: The Art and Lives of William McClure Brown
-
 William Brown born in Toronto, Canada in 1953 and died in Bridgend, South Wales in July 2008. He was a prolific painter and printmaker whose work was informed by  poetry, literature and travel. He lived in Bridgend and worked in the Llynfi Valley in  South Wales.

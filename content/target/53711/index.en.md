@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Harborough, Oadby and Wigston Conservatives
-
 s ell as the usual news and information about local councillors and officials, the site introduces Neil O'Brien, Conservative candidate for Harborough at the 2017 general election.

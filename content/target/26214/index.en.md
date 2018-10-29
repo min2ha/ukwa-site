@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Chartered Insurance Institute: CII skills manifesto 2015
-
 The Chartered Insurance Institute (CII) was established to promote higher standards of integrity, technical competence and business capability. With members in more than 150 countries, the CII is a professional body dedicated to insurance and financial services.

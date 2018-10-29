@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Scottish Indexes
-
 Site of searchable genealogical indexes derived from Scottish census and old parish records.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Dutch EU no vote has worrying lessons for anti-Brexit campaign
-
 Guardian, The

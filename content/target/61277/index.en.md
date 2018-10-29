@@ -10,6 +10,4 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Festri, Y
-
 Y Festri is a Community Arts Theater based in Llanberis.

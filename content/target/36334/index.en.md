@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Danus Skene SNP.org - SNP candidate for Shetland 2016
-
 Danus Skene is the Scottish National Party candidate for the Shetland constituency in the 2016 Scottish Parliament election.

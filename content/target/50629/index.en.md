@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Golf Dundee
-
 Site run by Leisure & Culture Dundee relating to the golf facilities owned and run by the local authority outling their golf courses and sevices they provide.

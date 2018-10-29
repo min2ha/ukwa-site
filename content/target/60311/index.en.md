@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Grimsby Telegraph: Girl, 14, tells of sinister online abuse as bullies exploit new app linked to Snapchat
-
 News article about a new app called Sarahah hich has over 300 million users worldwide and can be used in conjunction with Snapchat. It allows people to give others "anonymous feedback" on their social media pictures. It has been used to bully social media users and creating a toxic online environment.

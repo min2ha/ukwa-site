@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fiona Hughes Skier
-
 None

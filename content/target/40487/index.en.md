@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Rebecca Afonwy-Jones
-
 Rebecca Afonwy-Jones is a Mezzo-soprano from Mid Wales.

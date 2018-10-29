@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Print Market Project
-
 The PMP project was founded in 1997 and originally based at Chapter Arts Centre, Cardiff, one of the first workshops in Wales to offer a non- toxic approach to printmaking. The studio is now based in Market Road, Cardiff.

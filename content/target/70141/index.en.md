@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the EU: Antimicrobial Resistance
-
 This House of Lords Library Briefing presents recent developments in UK and EU strategies to address antimicrobial resistance, and examines three areas in which the UK’s exit from the EU may affect the addressing of antimicrobial resistance.
 

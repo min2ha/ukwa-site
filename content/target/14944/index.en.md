@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Broughton Spurtle
-
 Spurtle is the hyperlocal community newspaper for Broughton in North/Central Edinburgh.

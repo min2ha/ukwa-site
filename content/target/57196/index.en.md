@@ -10,6 +10,4 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# Walter Waygood
-
 Walter Waygood is a documentary photographer from Merthyr Tydfil. Much of his work is a portrayal of valleys life from the 1970s to the 1990s.

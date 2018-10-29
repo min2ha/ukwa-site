@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Rethinking Service
-
 This is a personal opinion blog about improving the lives of the people a service exists to serve. 

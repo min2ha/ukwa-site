@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Ride Brewing Co. on Facebook
-
 Facebook page of a brewer based in Glasgow.

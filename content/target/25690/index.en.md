@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: So after the scare tactics, do English voters really see the SNP as a threat?
-
 None

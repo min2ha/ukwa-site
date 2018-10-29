@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ukip vow to bring immigration levels 'back to normality'
-
 None

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Caledonian Thebans Rugby Football Club
-
 Site of a Scottish rugby union football club based at Murrayfield, west central Edinburgh, who operate a policy of openness for straight / heterosexual, gay and bisexual men.

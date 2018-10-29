@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - Love the NHS - Vote No
-
 Better Together post a video at 2.18pm on 17th September, 2014.

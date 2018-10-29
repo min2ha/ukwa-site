@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# is-a-cunt.com: The Easter Rising
-
 Cynical commentary blog.

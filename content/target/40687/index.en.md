@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Scottish Vernacular Buildings Working Group
-
 Site of a diverse group of enthusiasts and professionals interested in the origins and architecture of buildings in Scotland which are examples of unique Scottish architecture.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Tredegar Museum
-
 Tredegar Museum was founded in the 1970s by Tredegar Historical Society and is now managed by the Tredegar History and Archive Society.

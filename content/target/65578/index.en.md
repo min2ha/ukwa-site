@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# John Wood Group plc
-
 John Wood Group plc is a multinational energy services company with headquarters in Aberdeen, Scotland. 

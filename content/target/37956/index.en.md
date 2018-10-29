@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: NHS would be put under threat by Brexit, says Jeremy Hunt
-
 Guardian, The

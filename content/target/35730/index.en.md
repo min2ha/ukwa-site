@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  Michael Gove and Chris Grayling make the oddest of allies on the Out campaign
-

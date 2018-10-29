@@ -10,6 +10,4 @@
   "start_date": "2017-08-08T09:00:00Z"
 }
 
-# Open Graves & Minds (@OGOMProject) on Twitter
-
 The Open Graves, Open Minds: Vampires and the Undead in Modern Culture Research Project is led by Dr Sam George at the University of Hertfordshire, in collaboration with Dr Bill Hughes. The Open Graves, Open Minds project relates the undead in literature, art, and other media to questions concerning gender, technology, consumption, and social change. This is the project's official Twitter account.

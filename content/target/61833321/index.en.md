@@ -10,5 +10,3 @@
   "start_date": "2011-10-06T00:00:00Z"
 }
 
-# Templeton Heritage Group
-

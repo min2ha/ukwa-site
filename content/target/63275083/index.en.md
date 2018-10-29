@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Commission for Truth and Reconciliation for victims of sexual abuse in the United Kingdom, The
-
 None

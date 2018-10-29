@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rona Mackay (@Rona_Mackay) on Twitter
-
 The Twitter profile of Rona Mackay, the Scottish National Party candidate for Strathkelvin and Bearsden in the 2016 Scottish Parliament election.

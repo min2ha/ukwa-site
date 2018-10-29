@@ -10,6 +10,4 @@
   "start_date": "2018-09-01T09:00:00Z"
 }
 
-# Thangam Debbonaire (@ThangamMP) on Twitter
-
 Bristol West Labour MP 10 June 2017

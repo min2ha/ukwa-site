@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons International Trade Committee: UK trade options beyond 2019
-
 This report considers potential models for UK international trade after the UK leaves the EU. It covers the UK’s relationship with the World Trade Organization (WTO); the Free Trade Agreement (FTA) the Government plans to strike with the EU; the implications of the UK falling back on trading with the EU under WTO rules alone; and the UK’s future trading relationship with non-EU countries.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 11th December 2017: Brexit Negotiations
-
 Theresa May told Parliament that an agreement to move on to the next phase of Brexit talks concluded on December 8th 2017 was "good news" for both Leave and Remain voters. She said it should reassure those who feared the UK would get "bogged down" in endless negotiations or "crash out" without a deal.

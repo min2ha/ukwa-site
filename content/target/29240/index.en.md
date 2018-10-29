@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Comisiynydd Pobl Hyn Cymru | Older People’s Commissioner for Wales 
-
 The Older People’s Commissioner for Wales is an independent voice and champion for older people across Wales.

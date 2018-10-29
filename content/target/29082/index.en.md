@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UKIP Bradford & District
-
 Website of UKIP Bradford & District, providing information on MEPs and councillors, how to get involved and local, national and party news and opinion.

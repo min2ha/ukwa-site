@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manx Voice
-
 <p>A hyperlocal site for the Isle of Man.  It contains reviews, news and the best the Isle of Man has to offer. Local content for local people.</p>

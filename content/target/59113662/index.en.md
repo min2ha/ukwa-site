@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Manchester International Festival (MIF)
-
 The Festival is staged every two years in Manchester, UK – the next edition will take place from 29 June to 16 July 2017 at venues all over the city.

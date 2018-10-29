@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Blog and Opinion Poll: Stumbling and Mumbling
-
 Blog and Opinion Poll: Stumbling and Mumbling

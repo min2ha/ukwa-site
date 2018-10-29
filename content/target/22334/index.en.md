@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nathan Somerville on Facebook
-
 This is the Facebook page of Nathan Somerville, the UK Independence Party (UKIP) candidate for Livingston in the UK General Election on the 7th May 2015.

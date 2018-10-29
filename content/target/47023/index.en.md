@@ -10,6 +10,4 @@
   "start_date": "2016-11-15T09:00:00Z"
 }
 
-# Prospect at the British Library - Blog
-
 Prospect is the trade union for professionals at the British Library.

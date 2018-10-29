@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Calum Kerr (@CalumKerrSNP) on Twitter
-
 Twitter profile of Calum Kerr, Scottish National Party candidate for Berwickshire, Roxburgh and Selkirk in the 2017 general election.

@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Warner Bros. Studio Tour London
-

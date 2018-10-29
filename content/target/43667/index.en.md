@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Why I’m In: Like the British electorate, I’ll reluctantly play it safe over the European Union
-

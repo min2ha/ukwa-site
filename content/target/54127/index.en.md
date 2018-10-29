@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Holly Lynch Labour Party 
-
 Holly Lynch stood as Labour candidate for Halifax at the 2015 General Election and was elected to serve as MP. She stood again for the same seat in 2017 and was successful.

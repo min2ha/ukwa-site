@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FSF England Fans' Guide to France.
-
 A guidebook to Euro 2016 for English fans.

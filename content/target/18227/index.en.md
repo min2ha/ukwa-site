@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Bryant MP Rhondda
-
 Chris Bryant is the MP for the Rhondda.

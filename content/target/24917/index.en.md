@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Will Blair (Conservative) 
-
 Will Blair stood as Conservative candidate for Holborn and St Pancras at the 2015 General Election but was not elected.

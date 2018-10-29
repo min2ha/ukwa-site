@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kieran McCallum (@KieranMcCallum_) on Twitter
-
 The Twitter profile of Kieran McCallum, RISE Alliance candidate for West Scotland in the 2016 Scottish parliament election.

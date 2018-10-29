@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Matthews Church Of The Nazarene, Paisley
-
 Site of a Church of the Nazarene church and congregation in Paisley, Renfrewshire.

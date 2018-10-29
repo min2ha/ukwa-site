@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish National Party: Referendum blog
-
 <p>Commentary and speeches from the Scottish National Party on the referendum on Scottish independence.</p>

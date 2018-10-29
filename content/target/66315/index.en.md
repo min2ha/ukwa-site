@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# 2CVBG - The Deux Chevaux Club of Great Britain
-
 The website of The Deux Chevaux Club of Great Britain – also known as '2CVGB' for owners and enthusiasts of the Citroën 2CV and the other A-Series vehicles including the Dyane, Ami, Méhari and Bijou, and the commercial variants such as the Fourgonnette, Acadiane, and the H Van. 

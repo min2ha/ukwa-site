@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Lucy Frazer on Facebook (Conservative candidate for South East Cambridgeshire)
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# NickTyrone.com
-
 Blog: Nick Tyrone

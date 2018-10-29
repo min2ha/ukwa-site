@@ -10,6 +10,4 @@
   "start_date": "2017-07-11T09:00:00Z"
 }
 
-# Laura Thomas Woven Textiles
-
 Laura Thomas is a woven textile artist and designer from Pembrokeshire.

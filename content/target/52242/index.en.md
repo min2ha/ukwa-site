@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Vaughan Association, The
-
 The Vaughan Association celebrates the life of metaphysical poet, Henry Vaughan.

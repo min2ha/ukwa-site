@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Osagie
-
 <p>The website of runner Andrew Osagie, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

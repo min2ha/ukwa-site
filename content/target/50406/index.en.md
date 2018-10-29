@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Johnstone Burgh  Football Club
-
 Site for a Scottish junior football club based in Johnstone, Renfrewshire.

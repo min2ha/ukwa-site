@@ -10,6 +10,4 @@
   "start_date": "2016-12-14T09:00:00Z"
 }
 
-# Mwynhau Arfordir Sir Benfro | Enjoy Pembrokeshire Coast Path
-
 A guide for visitors to the Pembrokeshire Coast National Park.

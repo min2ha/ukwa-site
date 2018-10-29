@@ -10,5 +10,3 @@
   "start_date": "2015-04-15T00:00:00Z"
 }
 
-# Visit Cardiff Churches
-

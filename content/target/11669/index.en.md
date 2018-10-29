@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kathryn Johnstone (Kathy_swim) on Twitter
-
 <p>The twitter profile of athlete Kathryn Johnstone, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

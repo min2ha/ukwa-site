@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: After article 50, Brexit will be easy. A trade deal will be anything but
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Cabrach Trust
-
 Site of a trust conserving and promoting the history and heritage of the Cabrach area of Moray.

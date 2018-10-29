@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Meldrum Online
-
 This is a wordpress blog which belongs to the Comunity Council of Oldmeldrum.

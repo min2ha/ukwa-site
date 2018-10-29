@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# DeDomenici
-
 Modern art refers to artworks that were created in the period between the late 19th century and the 1970s but it also encompasses art movements and styles that emerged during this period.

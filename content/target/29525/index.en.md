@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Gŵyl Bwyd Môr Menai | Menai Seafood Festival 
-

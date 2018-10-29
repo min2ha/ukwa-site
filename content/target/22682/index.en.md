@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ivor Riddell on Facebook (TUSC candidate for Chatham and Aylesford)
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE: Highlands and Islands on Facebook
-
 Facebook page of the Highlands and Islands branch of RISE: Scotland's Left Alliance.

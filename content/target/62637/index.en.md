@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Ria Jones
-
 Ria Jones is a West End actress from Swansea.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Bruce Crawford (RHBruceCrawford) on Twitter
-
 The twitter profile of Bruce Crawford, Scottish National Party member of the Scottish Parliament for Stirling.

@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# American Bar Association (ABA): ABA Magna Carta Commemoration 
-
 American website relating to the 800th anniversary of Magna Carta.

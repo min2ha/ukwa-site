@@ -10,6 +10,4 @@
   "start_date": "2015-09-21T10:00:00Z"
 }
 
-# Cwmni Pluen Company
-
 Cwmni Pluen is a Welsh theatre company that create original, unconventional and challenging theatre.

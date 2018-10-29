@@ -10,6 +10,4 @@
   "start_date": "2013-07-29T10:00:00Z"
 }
 
-# Arts Council England
-
 Arts Council England champions, develops and invests in artistic and cultural experiences that enrich people's lives. They support a range of activities across the arts, museums and libraries - from theatre to digital art, reading to dance, music to literature, and crafts to collections. 

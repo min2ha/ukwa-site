@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Elfyn Jones
-
 Elfyn Jones is a UK based composer UK-based composer, musical director and music educator who composes for the stage, including opera and music theatre.

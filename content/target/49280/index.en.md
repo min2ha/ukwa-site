@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jeremy Corbyn: Clive Lewis quitting not a disaster
-
 The resignation of shadow business secretary Clive Lewis to vote against the Brexit bill was "not a disaster", Labour leader Jeremy Corbyn said.

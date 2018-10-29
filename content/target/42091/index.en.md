@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Visit Kirkcudbright
-
 Established as a Royal Burgh in 1455, Kirkcudbright has always been supported by a busy fishing trade.

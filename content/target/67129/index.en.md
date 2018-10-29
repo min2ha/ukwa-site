@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Association of Chief Children’s Nurses (ACCN)
-
 Contributing an expert nursing voice in improving children and young people's health outcomes.

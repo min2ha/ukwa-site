@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Nordic Ski Team on Twitter
-

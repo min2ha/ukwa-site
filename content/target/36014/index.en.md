@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kris Chapman (@Mr_KrisC) on Twitter
-
 The Twitter profile of Kris Chapman, the Scottish Liberal Democrats candidate for the South Scotland list in the 2016 Scottish Parliament election.

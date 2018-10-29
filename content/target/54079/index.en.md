@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Graham Eardley (@GrahamEardley) on Twitter (UKIP Politician)
-
 Graham Eardley stood as UK Independence Party (UKIP) candidate in the constituency of Wolverhampton North East in the 2017 General Election but was not elected.

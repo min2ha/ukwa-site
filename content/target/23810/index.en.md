@@ -10,6 +10,4 @@
   "start_date": "2016-11-15T09:00:00Z"
 }
 
-# Made in Roath
-
 Made in Roath is an artist-led, free event which aims to take art out of the gallery and into the wider community reflecting the contemporary art scene in Cardiff and South Wales.

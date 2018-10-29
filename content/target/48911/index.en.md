@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dumfries YMCA Football Club on Facebook
-
 Facebook page for a Scottish amateur football club based in Dumfries, Scotland.

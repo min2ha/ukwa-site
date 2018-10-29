@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# BBC News Magazine
-
 The Magazine goes behind the headlines on the BBC News website, offering features, quizzes and more.

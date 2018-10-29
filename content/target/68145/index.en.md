@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: There's still time to stop Brexit – here's how
-
 Argues that Brexit is not inevitable. The most realistic path to stop Brexit is to get a “people’s vote” on the deal that Theresa May negotiates – and then win that vote.

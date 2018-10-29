@@ -10,6 +10,4 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# Chris Davies MP on Facebook
-
 Chris Davies is the Conservative Brecon & Radnor MP.

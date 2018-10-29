@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bring It All Home
-
 Site of a one-off celebration of Scottish song writing inspired by the work of Gerry Rafferty, featuring events, conferences and master classes, which took place in Paisley September 2015.

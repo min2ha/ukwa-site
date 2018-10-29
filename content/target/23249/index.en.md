@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Natasha Asghar (@natasghar) on Twitter
-
 Natasha Asghar is the Conservative candidate for Newport East at the 2017 General Election.

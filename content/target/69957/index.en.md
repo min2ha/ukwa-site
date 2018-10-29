@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Eastern Eye
-
 Eastern Eye is Britain’s Asian weekly newspaper with national coverage; it covers politics, business, the arts, Bollywood and sport.. 

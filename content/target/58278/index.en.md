@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Oxford Shinty Club
-
 Site of a shinty club based in Oxford.

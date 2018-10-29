@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Healthcare Professionals Network
-
 None

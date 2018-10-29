@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Abbey Road Studios
-
 Official website of the Abbey Road Studios, where popular musicians record. It is located in West London.

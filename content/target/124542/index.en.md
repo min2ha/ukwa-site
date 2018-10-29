@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Alfred Place Baptist Church, Aberystwyth
-

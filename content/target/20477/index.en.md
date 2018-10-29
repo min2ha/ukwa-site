@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nigel Farage on course to win South Thanet for Ukip, says poll
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# Oxford Climate Research Network (OCRN)
-
 The Oxford Climate Research Network is a cross-divisional research community, harnessing Oxford’s diverse strengths to address the challenge of managing climate change in a complex and uncertain world.

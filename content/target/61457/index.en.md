@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Renew
-
 Renew is a new anti-Brexit political party which aims to transform British politics by recruiting people from all over the country to stand for parliament. It wants to use a people-centred approach to drive the country, consulting real people in the decision making processes to find real solutions.

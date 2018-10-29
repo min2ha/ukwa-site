@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: When it comes to the single market, you don't have to be in it to win it
-

@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Shazia Awan
-
 Shazia Awan is a Welsh born campaigner, business woman, feminist, and former Parliamentary candidate. 

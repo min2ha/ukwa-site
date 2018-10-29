@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Louise Welsh (@louisewelsh00) on Twitter
-
 The twitter profile of Glasgow based author, Louise Welsh.

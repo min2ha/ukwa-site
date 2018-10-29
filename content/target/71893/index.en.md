@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bookends Festival
-
 Site of a book festival staged at Benderloch, Argyll & Bute.

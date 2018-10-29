@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Welsh Women's Bowling Association
-
 None

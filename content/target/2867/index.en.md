@@ -10,6 +10,4 @@
   "start_date": "2013-06-28T15:00:00Z"
 }
 
-# Genealogy at York Cemetery
-
 None

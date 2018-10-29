@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Scottish Education Awards
-
 Site of awards which celebrate the hard work and success which takes place in Scottish education.

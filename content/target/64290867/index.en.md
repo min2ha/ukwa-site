@@ -10,5 +10,3 @@
   "start_date": "2012-01-31T00:00:00Z"
 }
 
-# FAST (Feedback and Assessment Strategy Testing)
-

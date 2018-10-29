@@ -10,5 +10,3 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Fishguard's Autumn Festival 
-

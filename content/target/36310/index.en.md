@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# National Farmers' Union: EU Referendum
-
 Information, news and reports from the NFU about the forthcoming EU referendum, the implications of BREXIT on the agricultural sector and the UK's position in Europe.

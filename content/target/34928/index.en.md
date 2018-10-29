@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Archif Data Pel-droed Cymru | Welsh Football Data Archive
-

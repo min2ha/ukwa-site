@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Friends of the  Cathedral of the Isles, The
-
 Site of a group established to raise funds for the upkeep of the Cathedral of the Isles and College of the Holy Spirit, part of the Scottish Episcopal Church, on the island of Cumbrae, Ayrshire.

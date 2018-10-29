@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Glenmore Lodge
-
 Site of Scotland’s National Outdoor Training Centre aiming to offer world class training in outdoor adventure sports and encourage more people to enjoy the outdoors more often, through personal skills courses, as well as through qualification courses.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Six months ago I asked a question here on facebook...
-
 Ewan Morrison's post of the 7th September 2014.

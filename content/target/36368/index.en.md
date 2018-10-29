@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: It’s dodgy Dave - the EU salesman, says NICK FERRARI
-
 Column by Nick Ferrari

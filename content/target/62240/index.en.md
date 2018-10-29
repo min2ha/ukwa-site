@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Proact Stadium
-
 Proact Stadium is an all-seater football stadium in Whittington Moor, Chesterfield, Derbyshire, on the site of the former Dema Glassworks.

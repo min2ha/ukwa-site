@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dundee Football Club
-
 Site of a senior professional football club based in Dundee, Scotland.

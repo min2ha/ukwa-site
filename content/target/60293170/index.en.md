@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# Pembrokeshire War Memorial
-
 Pembrokeshire War Memorial will act as a database of all those from Pembrokeshire who fell during both wars, and will commemorate them on the relevant pages, including short biography to some of the fallen.

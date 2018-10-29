@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Stop Funding Hate
-
 Campaigns to persuade advertisers to boycott newspapers such as the Sun, the Express and the Daily Mail, which it claims demonise foreigners and migrants

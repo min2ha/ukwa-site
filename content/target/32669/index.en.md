@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# British International Helicopters
-
 British International Helicopters is a British-owned helicopter operator operating in the offshore helicopter / EMS sector in the United Kingdom. 

@@ -10,6 +10,4 @@
   "start_date": "2016-11-19T09:00:00Z"
 }
 
-# Wales Accord on the Sharing of Personal Information, The (WASPI)
-
 According to the site, 'The Wales Accord on the Sharing of Personal Information (WASPI) provides a framework for service-providing organisations directly concerned with the health, education, safety, and social well being of people in Wales. In particular, it concerns those organisations that hold information about individuals and who need to share that information to deliver effective services'.

@@ -10,5 +10,3 @@
   "start_date": "2018-07-03T09:00:00Z"
 }
 
-# Martin Whitfield MP - Scottish Labour MP for East Lothian
-

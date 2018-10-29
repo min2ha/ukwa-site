@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Living Architecture LLP
-
 Commissions unusual houses for rental to the public

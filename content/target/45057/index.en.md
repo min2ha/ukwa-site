@@ -10,6 +10,4 @@
   "start_date": "2016-08-16T10:00:00Z"
 }
 
-# Podium magazine
-
 Site of a magazine of sport, leisure and active lifestyles magazine based in Edinburgh and 

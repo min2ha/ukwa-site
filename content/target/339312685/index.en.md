@@ -10,6 +10,4 @@
   "start_date": "2015-10-05T10:00:00Z"
 }
 
-# Nerys A. Johnson
-
 Nerys Johnson (1942-2001) is a Welsh born artist who grew up in Mansfield.

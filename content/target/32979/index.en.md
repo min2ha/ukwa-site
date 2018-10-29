@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Mercury Theatre Wales
-
 Mercury Theatre Wales is a Cardiff-based theatre company.

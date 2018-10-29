@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Theresa May admits Britain would flourish OUTSIDE the EU but says we should stay in the Brussels club to protect us against terrorists  
-

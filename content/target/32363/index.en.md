@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Your very good health
-
 A public information film produced by the Central Office of Information on behalf of the Ministry of Health. The film was released in 1948, and aimed to explain how the new NHS would work, and what benefits it would bring to families in the UK.

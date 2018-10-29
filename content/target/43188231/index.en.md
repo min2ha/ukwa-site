@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# East London CVS Network (ELN): Supporting the VCS in East London to make the most of the 2012 Olympics
-

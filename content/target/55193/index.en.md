@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black History Month 365
-
 Community based listings portal and  central point of focus leading the nationwide celebration of Black History, Arts and Culture throughout the UK.

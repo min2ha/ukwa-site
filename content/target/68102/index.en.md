@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Patricia Hines Counselling
-
 Professional Counselling Therapy in London | Mayfair W1 | Belgravia SW1

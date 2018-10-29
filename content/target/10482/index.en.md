@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Paul Weston, Liberty GB on Twitter
-
 None

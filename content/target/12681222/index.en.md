@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# cyclechic.co.uk - the modern woman's guide to cycling
-

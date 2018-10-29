@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron: UK broadcasters 'too worried about TV debates'
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Britain will NOT get an 'ambitious' trade deal unless it obeys EU regulations, warns Barnier as he RULES OUT City firms being able to trade freely in the bloc after Brexit   
-

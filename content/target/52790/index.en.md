@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Maternity Action: General Election 2017
-
 Maternity Action dentifies what changes need to be made by the next Government if we are to secure fairness for mothers, mothers-to-be and their families. None of these are difficult to do, complicated to understand or costly.

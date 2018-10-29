@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Ludlow Advertiser
-
 None

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Confederation of British Industry: A business assessment of EU reforms
-

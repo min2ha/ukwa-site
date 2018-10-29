@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Stanmore Combined
-
 <p>Stanmore Combined, formerly known as Stanmore Steering Group was formed in 2004. The group is made up of representatives of various local organisations that have an interest or involvement in Stanmore (Hampshire) and its residents.</p>

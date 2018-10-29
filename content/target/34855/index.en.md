@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# History of Birmingham Places & Placenames, A
-
 The website gives the story of Birmingham's places and placenames from A to Y, many of them dating back over a thousand years. There are also their meanings and a history of their localities. 

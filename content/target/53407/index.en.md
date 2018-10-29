@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# MillionPlus: A Manifesto for Health Education
-
 This manifesto sets out the steps that MillionPlus believes the next government should take to avoid future staff shortages in the NHS and social care, improve health outcomes and move to the greater integration of health and social care as well as support the NHS and social care workforce of the future.
 

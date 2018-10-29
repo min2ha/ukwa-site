@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-#  VGForums
-
 An online enthusiast forum concerned with video gaming. Discusses upcoming game releases, different genres of games, gaming reviews and various other topics. Includes forum sections dedicated to upcoming community events and competitions.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Christ Church, Warwick
-
 Site of a Church of Scotland parish church at Warwick, Bermuda.

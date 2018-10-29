@@ -10,6 +10,4 @@
   "start_date": "2015-07-31T10:00:00Z"
 }
 
-# New Writers UK Inspirational Writing
-
 Festival

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'Tormented' Theresa May 'begged' EU Commission chief Juncker for help on Brexit at a secretive Brussels dinner, explosive new leaks claim   
-

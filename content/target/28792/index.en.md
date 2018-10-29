@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aldeburgh Literary Festival 
-
 Festival organised by The Aldeburgh Bookshop in Aldeburgh, Suffolk.

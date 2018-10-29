@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Food Standards Agency
-
 The Food Standards Agency is an independent government department responsible for food safety and hygiene across the UK. They work with businesses to help them produce safe food, and with local authorities to enforce food safety regulations.

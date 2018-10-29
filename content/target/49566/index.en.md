@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Conwy Borough Football Club
-

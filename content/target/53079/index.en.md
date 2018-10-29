@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kent Green Party (@kentgreenparty) on Twitter
-
 Twitter account of the Kent Green Party, providing information on campaigns, events, representatives and candidates and local and national news updates.

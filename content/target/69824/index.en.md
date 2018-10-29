@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Story Weather
-
 A "user experience" design and digital marketing agency.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Clive Sneddon (@CliveSneddon) on Twitter
-
 Twitter profile of Clive Sneddon, the Scottish Liberal Democrat candidate for Angus South in the 2016 Scottish Parliamentary election.

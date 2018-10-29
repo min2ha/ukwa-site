@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Buckingham Palace makes official complaint as Queen is drawn into The Sun's Brexit row over EU referendum
-

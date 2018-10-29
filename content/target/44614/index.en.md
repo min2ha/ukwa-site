@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T11:00:00Z"
 }
 
-# Society for Endocrinology
-
 The Society for Endocrinology is a UK- based membership organisation representing a global community of scientists, clinicians and nurses who work with hormones.

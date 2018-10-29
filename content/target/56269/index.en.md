@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian,The: I was a games addict
-
 Article regarding reports from a concerned teacher warning that children are falling asleep in the classroom after playing computer games all night. Recovered addict Tom Meltzer also gives his thoughts and experiences.

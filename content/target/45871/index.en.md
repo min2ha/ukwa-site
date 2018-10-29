@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Centre for Social Justice (CSJ): Road to Brexit
-
 This publication is a record of a seminar held at All Souls College, Oxford University, in September 2016. The day was led by John Redwood MP and consisted of presentations on different aspects of process and detailing priorities for the UK government to ensure a positive outcome at the end of the process.

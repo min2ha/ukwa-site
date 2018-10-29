@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Helen Foroughi Contemporary Textile Artist
-
 Helen Forought is a contemporary textile artist based in Swansea.

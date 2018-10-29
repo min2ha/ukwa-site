@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# BrightFest 
-
 Website for the festival Brightfest. BrightFest is an annual summer charity music festival in Oxfordshire

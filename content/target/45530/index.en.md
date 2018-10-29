@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T10:00:00Z"
 }
 
-# Recognize Black Heritage & Culture
-
 Recognize is a community based social enterprise providing a bridge to the African Caribbean community. 

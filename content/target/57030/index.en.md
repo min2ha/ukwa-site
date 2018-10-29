@@ -10,6 +10,4 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# Cynulliad Cymru (@CynulliadCymru) on Twitter
-
 This is the official twitter Welsh language account of the National Assembly for Wales. 

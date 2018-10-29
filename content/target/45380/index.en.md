@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Put Philip Green in charge of Brexit... they'd pay us to leave   
-

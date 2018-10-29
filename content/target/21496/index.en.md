@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Budget 2015: '£10 off a tank with the Tories' as Osborne cancels fuel duty rise
-
 None

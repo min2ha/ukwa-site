@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Admiral Group plc
-
 Admiral Group is one of the largest car insurance providers in the UK with businesses all over the world.  Its insurance brands include Admiral, Elephant, Diamond and Bell, the price comparison sites Confused.com and Gladiator for commercial vehicles. They also have businesses in Spain, Italy, France and the USA and offices in Canada and India. 

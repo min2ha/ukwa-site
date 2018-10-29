@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: In this game of TV chicken, will David Cameron be first to blink? 
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lydney RFC (@lydney_rfc) on Twitter
-
 The official Twitter account of Lydney Rugby Football Club. Founded in 1888, originally nicknamed 'the Tinplaters' but now 'the Severnsiders', Bledisloe Cup named after our 1st president.

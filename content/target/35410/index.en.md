@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Transport for London: Technology Innovation Portal
-
 The Technology Innovation Portal allows users to submit innovative technological ideas and solutions that meet one of the key challenges.

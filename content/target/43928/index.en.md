@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Referendum revolt: Capitalist establishment shattered
-
 Analysis by Peter Taaffe on the vote to leave the EU. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Strategic Health Authority
-
 None

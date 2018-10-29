@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# 2000trees Festival
-
 Site of 2000trees Festival, a music festival located in the Cotswolds, England.

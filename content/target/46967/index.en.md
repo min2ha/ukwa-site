@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Vale of Clwyd & Conwy Football League
-

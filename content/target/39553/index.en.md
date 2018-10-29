@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Neil Hamilton on Facebook (AM for Mid and Wales West)
-
 Neil Hamilton is the UKIP candidate for Carmarthen East and Dinefwr and Mid and Wales West at the 2016 National Assembly for Wales elections. 

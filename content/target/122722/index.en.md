@@ -10,8 +10,6 @@
   "start_date": "2005-10-18T00:00:00Z"
 }
 
-# Herpes Viruses Association & Shingles Support Society
-
 The Herpes Viruses Association (HVA) continues as a vital
 support organisation. Increasing use of the internet has
 made us more effective  it is now easy for anyone to

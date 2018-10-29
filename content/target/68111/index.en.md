@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Loyalty Fraud Prevention Association (LFPA)
-
 Supporting industry in its fight to reduce and eliminate Loyalty Fraud.

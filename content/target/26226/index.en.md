@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gingerbread: General Election 2015: Single Parents Decide
-
 They have 95 years’ experience of working with single parent families - from the days when their key campaigning activity was to reform the “bastardy laws”, right through to 2015, where single parents head up a quarter of British families but still face big challenges. Their vision is “a society in which single parent families are valued and where they (and their children) are treated equally and fairly”.

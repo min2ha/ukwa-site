@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Angela Eagle (@angelaeagle) on Twitter (Labour MP for Wallasey)
-
 Twitter feed of Angela Eagle, Labour MP for Wallasey, in which she comments on her campaign for the Labour leadership.

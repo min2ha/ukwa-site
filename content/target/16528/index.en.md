@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Liberal Democrat election poster parodies Conservative 'road to recovery'
-
 None

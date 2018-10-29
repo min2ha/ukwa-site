@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Emerald Rugby
-
 Emerald Rugby magazine was launched in 2003 to fill a void in the Irish marketplace for rugby magazines dedicated to the Ireland. The magazine is published by Extreme Publications Ltd, Portadown, Northern Ireland.

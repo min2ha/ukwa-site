@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Labour Alternative
-
 Labour Alternative is against austerity and for a better life for all, it is for equality and against discrimination, it is for compromise and against conflict on the issues which divide communities in Northern Ireland and it is for new politics and against the sectarian agenda of the past.

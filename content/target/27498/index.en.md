@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: SNP would impose deeper cuts than Labour, says IFS
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2018-07-07T09:00:00Z"
 }
 
-# Records of the Parliaments of Scotland to 1707, The
-

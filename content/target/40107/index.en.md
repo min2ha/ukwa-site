@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Cyngor Tref Llanfair-ym-Muallt | Builth Wells Town Council
-
 Information about the Town Council & information about our Town and places to stay and visit.

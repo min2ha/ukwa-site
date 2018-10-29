@@ -10,6 +10,4 @@
   "start_date": "2015-09-24T10:00:00Z"
 }
 
-# WJM Transport - London, UK and European Transport
-
 Website of a London company specialising in the UK and European removals.

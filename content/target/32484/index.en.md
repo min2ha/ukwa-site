@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Simply Crochet
-
 Online version of the Simply Crochet magazine.

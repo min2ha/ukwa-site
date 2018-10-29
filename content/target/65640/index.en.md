@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# CREST - Ethical Security Testers
-
 CREST is a not for profit organisation that serves the needs of a technical information security marketplace that requires the services of a regulated professional services industry.

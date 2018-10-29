@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Injury Profiled
-
 None

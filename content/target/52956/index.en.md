@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Inspiring the Future
-
 The charity Education and Employers runs Inspiring the Future which connects state schools and colleges with employers and people from the world of work. It has been developed following extensive consultation with range of stakeholders – employers, education, government, third sector and intermediaries

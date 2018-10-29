@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Addysg Gymraeg Sir y Fflint | Welsh Education Flintshire 
-
 'Welsh Education Flintshire' main objective is to 'provide information about the authority’s current Welsh-medium provision, support available for families who choose Welsh education, and the general wider advantages of bilingualism.' 

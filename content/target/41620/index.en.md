@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peckham Vision
-
 Peckham Vision is a resident-led local community consortium of individuals who live, work or run a business in Peckham. Its vision is to support Peckham town centre as a thriving and sustainable social and commercial centre, and to contribute to Peckham being a good place for all in which to live, work and visit.

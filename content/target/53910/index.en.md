@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Matheson (Labour Politician)
-
 Chris Matheson stood as Labour candidate for the City of Chester at the 2015 General Election and was elected to serve as MP. He also stood for re-election in 2017 and was successful.

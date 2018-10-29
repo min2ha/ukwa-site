@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Outside the EU, Britain should be an evangelist for world trade
-

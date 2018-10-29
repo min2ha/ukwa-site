@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# #YesScotland hashtag on Twitter
-
 Twitter posts containing the hashtag #YesScotland.

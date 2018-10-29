@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Socialist Party: Brexit: Oppose capitalist EU with workers’ solidarity
-
 The referendum on Britain and Northern Ireland’s membership of the EU is set to be an important political event that will shape political developments in Britain, Ireland and across Europe in the years to come. Socialists want to see a Europe that is run in the interests of the millions not the millionaires. The EU project constitutes the polar opposite to this. Socialists should call for a for a break with the EU while also putting forward the case for a socialist Europe

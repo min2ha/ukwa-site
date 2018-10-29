@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Glen Garioch
-
 Site of a Scotch whisky distiller, their ditillery and visitor centre and the whisky they produce, located in Aberdeenshire.

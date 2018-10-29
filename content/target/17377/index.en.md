@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# CIPD: CIPD manifesto for work: A policy programme to champion better work and working lives
-
 The CIPD acronym stands for the Chartered Institute of Personnel and Development, but today they are known simply as the CIPD. As an organisation, they stand for better work and working lives.

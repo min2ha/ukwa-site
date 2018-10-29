@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Family Housing Association (Wales)
-
 Family Housing Association (Wales) provide affordable homes and high quality care and support services in Swansea, Carmarthenshire, Neath Port Talbot, Ceredigion and Pembrokeshire.

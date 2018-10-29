@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Quaker Asylum and Refugee Network (QARN)
-

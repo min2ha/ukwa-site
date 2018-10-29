@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Simon Fenoulhet
-
 Fine artist from Wales.

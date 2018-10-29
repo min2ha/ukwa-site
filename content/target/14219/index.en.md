@@ -10,6 +10,4 @@
   "start_date": "2014-10-09T07:00:00Z"
 }
 
-# Open Planets Foundation 
-
 None

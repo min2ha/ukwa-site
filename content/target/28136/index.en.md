@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Rochester Cathedral
-
 Official website of the Rochester Cathedral.

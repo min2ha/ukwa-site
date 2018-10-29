@@ -10,6 +10,4 @@
   "start_date": "2016-05-31T10:00:00Z"
 }
 
-# Whittles Publishing
-
 Site of a pubisher based in Dunbeath, Caithness, Scotland.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# David Cameron on Facebook
-
 Facebook page of David Cameron

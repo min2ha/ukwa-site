@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Kick it out: tackling racism and discrimination
-
 Website of Kick it out / Let's kick racism out of football - football's equality and inclusion organisation

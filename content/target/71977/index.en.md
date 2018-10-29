@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Cheryl Rees-Price
-
 Cheryl Rees-Price is a crime writer from south Wales. Her books have been published by Accent Press.

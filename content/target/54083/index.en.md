@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Young Independence
-
 Young Independence are the Youth Wing of the United Kingdom Independence Party (UKIP).

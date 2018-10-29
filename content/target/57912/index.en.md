@@ -10,5 +10,3 @@
   "start_date": "2017-10-18T09:00:00Z"
 }
 
-# Flintshire & Wrexham Online Watch Link Association (OWL Cymru)
-

@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# This Girl Can
-
 Developed by Sport England, they want to help women overcome the fear of judgement that is stopping too many women and girls from being active.

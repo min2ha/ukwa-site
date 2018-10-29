@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bristol Capoeira
-
 Our capoeira group is taught by Mestre Claudio Campos and is part of Nucleo de Capoeiragem, under the supervision of Mestres Jorge & Danilo.﻿ Our group is also home of the University of Bristol Capoeira Society.

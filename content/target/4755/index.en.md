@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# University of Birmingham: Nelson Mandela, Dr Keith Shear
-
 None

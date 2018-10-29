@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: British voters have lost confidence in May's ability to get a good Brexit deal but most have NOT changed their mind about leaving the EU, study finds   
-

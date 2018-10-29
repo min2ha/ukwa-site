@@ -10,6 +10,4 @@
   "start_date": "2015-01-16T00:00:00Z"
 }
 
-# Ezra Pound Society, The
-
 <p>The official website of the Ezra Pound Society.</p>

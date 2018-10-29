@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP gains could keep Ed Miliband out of power, but Conservatives would be mad to celebrate 
-
 None

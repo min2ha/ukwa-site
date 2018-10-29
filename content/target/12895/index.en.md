@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UNICEF UK: Glasgow 2014
-
 <p>UNICEF UK is the United Kingdom branch of  the United Nations Children's Fund, a charity that provides long-term humanitarian and developmental assistance to children and mothers. An international appeal to raise funds for UNICEF was a major part of the opening ceremony of the XX Commonwealth Games.</p>

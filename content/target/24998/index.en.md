@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General election result: There are more ethnic minority MPs now than ever before 
-
 None

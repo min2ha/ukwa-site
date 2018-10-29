@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dr Mike Allan (@DrMikeAllanEL) on Twitter
-
 Twitter profile of Dr Mike Allan, independent candidate for East Lothian in the 2017 general election.

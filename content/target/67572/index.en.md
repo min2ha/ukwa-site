@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Ex-Military Land Rover Association, The (EMLRA)
-
 A group for fully paid up members of the Ex Military Land Rover Association (EMLRA)

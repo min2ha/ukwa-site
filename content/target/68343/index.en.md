@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WoodrushRFC (@WoodrushRfc) on Twitter
-
 The official Twitter account Woodrush RFC. Founded in 1966 and has developed a passionate and successful club -supporting 2 Senior Sides, a fantastic Mini & Junior Section and a growing Ladies Team.

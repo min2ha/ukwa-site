@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Mutts with Friends
-
 With the help of other organisation such as Dog Watch UK, they take dogs off death row and give them a safe place to stay until a suitable home can be found.

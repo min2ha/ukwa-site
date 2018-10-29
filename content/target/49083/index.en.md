@@ -10,6 +10,4 @@
   "start_date": "2017-02-07T09:00:00Z"
 }
 
-# Teksol-Gas Safety Training
-
 Teksol Gas Safety Training is an international supplier of compressed and cryogenic industrial gas safety training or Gas Safety Workshops and solutions to users of many different types of gases. 

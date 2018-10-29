@@ -10,6 +10,4 @@
   "start_date": "2018-09-28T09:00:00Z"
 }
 
-# Plant Health Centre
-
 "A virtual centre of expertise ... to help tackle plant health challenges for Scotland."

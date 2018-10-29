@@ -11,8 +11,6 @@
   "subject": "IT Collection"
 }
 
-# Record DNA (@RecordDNA) on Twitter
-
 RecordDNA is a Northumbria University and UCL led international research
 network bringing together academics, practitioners, users and systems
 developers to develop a new cross-disciplinary network of stakeholders

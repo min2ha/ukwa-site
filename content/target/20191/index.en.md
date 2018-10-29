@@ -10,6 +10,4 @@
   "start_date": "2015-03-31T08:00:00Z"
 }
 
-# WithScotland
-
 WithScotland is multi-agency resource for staff working with complex child protection issues in Scotland, providing advice, expertise, training and research.

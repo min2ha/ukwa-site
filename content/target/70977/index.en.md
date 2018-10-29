@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Snatched pic gives insight into 'no deal' Brexit planning
-
 Blog post offers transcript of the leaked document on the Treasury's plans for a "no deal" Brexit.

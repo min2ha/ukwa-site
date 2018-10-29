@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Ben's Heroes Trust
-
 Ben's Heroes Trust is a children's cancer charity founded in 2011 in memory of Ben Loyns, who tragically died of cancer in December 2010 at the age of 9.

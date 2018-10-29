@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Iain Macwhirter Now and Then
-
 None

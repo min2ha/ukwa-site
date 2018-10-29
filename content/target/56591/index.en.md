@@ -10,6 +10,4 @@
   "start_date": "2017-08-15T09:00:00Z"
 }
 
-# Office Space In Town
-
 Office Space in Town are a service company that offers businesses and individuals workspace solutions. They provide serviced offices, managed offices, co-working space, meeting rooms and virtual offices in London, Cardiff, Northampton, and Edinburgh.

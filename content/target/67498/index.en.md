@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Anglo-Russian Research Network
-
 The Anglo-Russian Research Network was established in 2011 to bring together research students and scholars interested in the influence of Russian and Soviet culture and politics in Britain in the period 1880-1950. 

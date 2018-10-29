@@ -10,6 +10,4 @@
   "start_date": "2016-10-04T10:00:00Z"
 }
 
-# Cavernoma Alliance UK
-
 The Cavernoma Alliance UK is a charity created for people affected by cerebral cavernomous malformations (CCM) and create greater awareness of the condition.

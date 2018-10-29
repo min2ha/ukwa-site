@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tamara Galloway (@TamaraGalloway) on Twitter (Green Party Politician)
-
 Tamara Galloway stood as Green Party candidate for Orpington in the 2017 General Election but was not elected.

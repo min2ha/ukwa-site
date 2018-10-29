@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Green Party expected to secure place in TV leadership debates
-
 None

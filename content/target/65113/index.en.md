@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: LORD LAMONT: I've always backed the House of Lords. But after this Brexit power grab, my colleagues are forcing me to reconsider   
-

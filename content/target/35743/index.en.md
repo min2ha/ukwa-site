@@ -10,6 +10,4 @@
   "start_date": "2016-02-23T09:00:00Z"
 }
 
-# Institute of Advanced Motorists (IAM)
-
 The IAM is the UK’s leading independent road safety charity. They believe that our roads can be made a safer place by improving the standards of the people who are using them. With over 50 years of experience, passion and insight, the IAM is uniquely positioned to help improve the skills and understanding of UK drivers, riders & cyclists.

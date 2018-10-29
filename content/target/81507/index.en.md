@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# Welsh Young Liberals Rhyddfrydwyr Ifanc Cymru
-
 This is the website for the youth and student wing of the Welsh Liberal Democrats.

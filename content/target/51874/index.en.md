@@ -11,7 +11,5 @@
   "subject": "Festivals"
 }
 
-# Bodysurf Scotland
-
 Site of a dance company based in Findhorn, North East Scotland, organisers of the Rise Dance Festival and other events.
 

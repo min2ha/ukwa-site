@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Spring
-
 Spring is a recruitment expert in the fields of IT and Telecommunications. It is part of the Adecco Group, the world’s leading provider of HR solutions operating in over 60 countries.

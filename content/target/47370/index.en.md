@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Glasgow City Region City Deal Programme
-
 Site of a large infrastructure, life sciences, business improvement and employment programme based in Glasgow and shared among eight local authorities in the Glasgow city area.

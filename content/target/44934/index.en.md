@@ -10,5 +10,3 @@
   "start_date": "2016-08-09T10:00:00Z"
 }
 
-# Point FM - Sound of the North Wales Coast
-

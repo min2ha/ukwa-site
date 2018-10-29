@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Rhythm Festival
-
 Rhythm Festival was a music festival featuring rock, folk, blues, country, and various off-shoots that ran from 2006 until 2011.

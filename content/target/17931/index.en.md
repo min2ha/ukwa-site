@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# British Astronomical Association (BAA)
-
 The British Astronomical Association (BAA) was formed in 1890 and focuses on the observational and scientific work. They publish a journal and a yearly almanack.

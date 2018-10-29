@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May faces biggest Brexit battle yet as DOZENS of Tory MPs threaten to 'collapse' the government if she 'breaks her promises' by pushing through plan for customs partnership with the EU   
-

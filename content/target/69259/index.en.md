@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Conversation, The: Articles on World Cup 2018
-
 All articles related to the World Cup 2018 posted on The Conversation.

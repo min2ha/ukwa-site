@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Mail on Sunday: Chuck Chequers or risk letting in Corbyn: Tory party split over May's Brexit deal could hand Labour the reins of power, writes NORMAN LAMONT
-
 Theresa May’s attempt to push the Chequers plan through in the teeth of serious opposition from her own party is a big gamble, one that could end up destroying the Government and breaking up the party in the process. Many of her backbenchers are now hostile to the Chequers deal. Some Cabinet Ministers are threatening to resign. There is clearly no majority in the House of Commons for Chequers or any similar deal. In fact, there is no majority for anything – for a Canada-style free trade agreement, for ‘no deal’, for a second referendum, or even for an Election. And faced with such chaos, the Prime Minister has decided the best course is to stick to Chequers, despite its clear lack of popularity. 
 

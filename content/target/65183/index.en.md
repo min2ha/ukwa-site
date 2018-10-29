@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Optegra Eye Hospitals
-
 Our focus on eye health care and consultant-led approach means we deliver the right treatment for every patient. Cataract removal, laser eye surgery, lens replacement (Clarivu), medical eye treatments and innovations.

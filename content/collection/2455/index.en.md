@@ -139,6 +139,4 @@
   "endDateText": ""
 }
 
-# Energy
-
 This collection, curated in 2012-2013, by a member of the British Library Science Team looks at energy technology and production, focussing on scientific research, engineering technologies and energy policy & regulation. It includes  websites from academic research organisations, energy companies, industry organisations, suppliers & manufacturers, and trade associations.

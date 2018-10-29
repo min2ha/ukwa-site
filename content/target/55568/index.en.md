@@ -10,6 +10,4 @@
   "start_date": "2017-07-08T09:00:00Z"
 }
 
-# Rumney Forum
-
 Rumney Forum is a resident led community organisation that exists to improve the community of Rumney in Cardiff.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ted Grant (@granted76) on Twitter (Green Party Politician)
-
 Ted Grant stood as Green Party candidate for Liverpool Wavertree in the 2017 General Election but was not elected.

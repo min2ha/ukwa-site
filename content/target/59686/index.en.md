@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Jackie Sime
-
 Jackie Sime is a professional photographer based in Pembrokeshire.

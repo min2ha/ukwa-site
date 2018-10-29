@@ -10,6 +10,4 @@
   "start_date": "2017-04-09T09:00:00Z"
 }
 
-# Kingdom Of Fife Campaign for Real Ale (CAMRA)
-
 Site of a local branch of the Campaign for Real Ale (CAMRA) who support and promote traditionally brewed beer and cider in Fife, Scotland.

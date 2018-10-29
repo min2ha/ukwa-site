@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# RussianEvents.London
-
 RussianEvents.London is the information space to find London events that have relation to Russian language or Russian culture. 

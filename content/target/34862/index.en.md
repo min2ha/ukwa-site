@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Groundswell
-
 Groundswell is a charity which offers practical and emotional support to people affected by HIV in Hampshire. 

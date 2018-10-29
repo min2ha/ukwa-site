@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Time Out London: Time Out remembers Linda Smith
-
 Time Out article from 2006 remembering Linda Smith with thoughts from friends and colleagues.

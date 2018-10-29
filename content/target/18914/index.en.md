@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: In pictures: Salisbury's Magna Carta is 795 years old
-

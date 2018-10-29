@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: ICM poll: Labour faces wipeout in Scotland after new leader fails to dent SNP support
-
 None

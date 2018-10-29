@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Institution of Civil Engineers Scottish Hydrological Group
-
 A specialist study group of the Institution of Civil Engineers.

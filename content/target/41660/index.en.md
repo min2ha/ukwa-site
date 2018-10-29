@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Youth Service Scotland
-
 Site of the Catholic Church on Scotland focused on developing Christian faith amoung you Scots Catholics.

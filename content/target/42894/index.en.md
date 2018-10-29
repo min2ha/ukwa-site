@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Chaos in Kent
-
 Personal blog of Debs Ashland, an independent SEND trainer and consultant also part of Inspiring Circles and Special Needs Jungle

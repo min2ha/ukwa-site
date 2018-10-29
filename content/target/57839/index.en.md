@@ -10,6 +10,4 @@
   "start_date": "2017-10-19T00:00:00Z"
 }
 
-# Samuel Kutcher (violinist) 1898-1984
-
 Information about Samuel Kutcher (violinist) 1898-1984

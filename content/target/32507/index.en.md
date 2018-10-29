@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# The Caledonia Centre for Social Development 
-
 The Centre provides an international network for information, research, technical services and training in social development. It is a small, lean and virtual non profit distributing Section 30 Company registered in Scotland.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ale & Teviot United Church
-
 Site of a Church of Scotland church seriving the communities of Ancrum, Crailing, Eckford and Lilliesleaf in the Scottish Borders, but located in Ancrum.

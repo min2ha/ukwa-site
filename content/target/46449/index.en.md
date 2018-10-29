@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# BBC - Radio Cymru
-
 BBC Radio Cymru is BBC Cymru Wales's Welsh-language radio station.

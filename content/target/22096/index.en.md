@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Louise Ellman (@LouiseEllman) on Twitter (Labour  Politician)
-
 Louise Ellman stood as Labour candidate for Liverpool Riverside in the 2017 General Election and was elected. She was first elected for Liverpool Riverside in 1997 and has held her seat ever since.

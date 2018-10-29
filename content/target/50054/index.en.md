@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# English Baptist Church, Carmarthen
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: British teenagers among world's most extreme internet users, report says
-
 Guardian article on British teenagers and internet use

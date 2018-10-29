@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: In the selfie election, each party leader has tried to write their name in stone 
-
 None

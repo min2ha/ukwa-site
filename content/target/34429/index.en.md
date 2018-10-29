@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Scottish Review
-
 The Scottish Review is published weekly by the Institute of Contemporary Scotland (ICS).

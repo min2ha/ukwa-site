@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Top adviser to Chancellor George Osborne filmed smoking crack cocaine in drugs den
-
 None

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The (unofficial) Hot Wheels forum for UK (and Euro) collectors
-
 An online enthusiast community concerned with collecting Hot Wheels model cars. Discusses toy fairs, car boot sale finds, variations & finds, private collections and other related topics.

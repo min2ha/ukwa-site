@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# MaaS Scotland
-
 Mobility as a Service (MaaS) Scotland are a group of companies and organisations which collaborate to create integrated mobility products and services in Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-03T10:00:00Z"
 }
 
-# Alan Salisbury
-
 Artist born in Preston and based in Wales.

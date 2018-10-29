@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron rebooted: five more years of a shiny computerised toe in a prime-ministerial suit
-
 None

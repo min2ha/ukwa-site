@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Greywell’s WW1 Commemoration
-
 Commemoration of the part played by Greywell's villagers in the First World War.

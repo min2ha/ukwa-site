@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# TfL Bus Alerts (@TfLBusAlerts) on Twitter
-
 Official @TfL feed for travel advice about the London bus network.

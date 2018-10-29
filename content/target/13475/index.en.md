@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jo Swinson (joswinson) on Twitter
-
 Twitter profile of Jo Swinson, Scottish Liberal Democrat candidate for East Dunbartonshire in the 2017 general election.

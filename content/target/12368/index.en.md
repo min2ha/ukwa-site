@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cycling Weekly: 2014 Tour de France
-

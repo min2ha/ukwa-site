@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# St. Mary's Cathedral Society of Change Ringers
-
 Site of a society of bell ringers based in St. Mary's Episcopal Cathedral, Edinbugh.

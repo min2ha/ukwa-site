@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Trussell Trust, The
-
 The Trussell Trust is a charity finghting hunger. They are involved in running food banks.

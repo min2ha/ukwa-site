@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# 4corn Computers
-
 <p>Information and downloads related to the computers produced by Acorn Computers Ltd (1979-1998).</p>

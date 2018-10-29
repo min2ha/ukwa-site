@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# The Catholic Herald: Stephen Hawking
-
 Breaking news and opinion from the online edition of Britain's leading Catholic newspaper. These are articles related to Stephen Hawking

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: PM should let public vote on Brexit terms, says author of article 50
-

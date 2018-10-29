@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Ulster Museum (@UlsterMuseum) on Twitter
-
 The official Twitter account of Ulster Museum.

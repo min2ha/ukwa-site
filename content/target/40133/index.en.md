@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit would cost UK households £2,200 by 2020, says OECD
-
 Guardian, The

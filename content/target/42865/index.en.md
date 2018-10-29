@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Anglers' National Association
-
 Site of a Scottish association representing Scottish sporting anglers' interests.

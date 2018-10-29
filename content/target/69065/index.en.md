@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hotel Football
-
 Hotel Football is an upscale football-themed hotel overlooking Old Trafford, the home of Manchester United F.C..

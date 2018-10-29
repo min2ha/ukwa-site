@@ -10,5 +10,3 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Dunblane St. Blane's Parish Church
-

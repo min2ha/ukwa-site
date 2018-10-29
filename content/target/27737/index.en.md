@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Britain offered copy of the Magna Carta to US during WWII
-

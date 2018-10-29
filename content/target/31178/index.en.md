@@ -10,6 +10,4 @@
   "start_date": "2015-10-07T10:00:00Z"
 }
 
-# Bute Museum
-
 Bute Museum is an independent museum containing collections relating to the nature and history of the Isle of Bute.

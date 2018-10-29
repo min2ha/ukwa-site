@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour's defeat encourages thousands to join the party
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Express: Brexit six months on: What happens next as Britain begins to leave the EU?
-
 An article based on a think tanks report six months after the EU Referendum result.

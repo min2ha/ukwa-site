@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Betton Grange 6880: Building the 81st Grange
-
 From a Class of 80 locomotives no ‘Granges’ survived the cutters torch, a glaring ommission in the ranks of preserved locomotives. The 6880 Society was formed in 1998 with the sole intention of recreating a Great Western ‘Grange’ class locomotive. Nowadays, a No. 6880 is under construction at the Llangollen Railway’s workshops.

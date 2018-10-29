@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food and Rural Affairs: Environmental Principles and Governance after EU Exit
-
 This consultation addresses some of the key questions around how environmental principles should be embedded into law, public policy-making and delivery after Brexit, and what functions and powers the proposed new environmental watchdog should have to oversee environmental law and policy.
 

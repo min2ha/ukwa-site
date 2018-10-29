@@ -10,5 +10,3 @@
   "start_date": "2014-02-11T21:00:00Z"
 }
 
-# NHS Borders
-

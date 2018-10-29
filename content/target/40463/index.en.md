@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  Japanese PM Shinzo Abe warns Britons not to vote for Brexit at EU referendum
-

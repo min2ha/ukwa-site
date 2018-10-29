@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Exhibition to mark St Albans' role in Magna Carta
-

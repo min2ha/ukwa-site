@@ -10,6 +10,4 @@
   "start_date": "2016-11-20T09:00:00Z"
 }
 
-# Kelburn Castle & Estate
-
 SIte of a visitor attraction and historic location in Ayrshire, Scotland.

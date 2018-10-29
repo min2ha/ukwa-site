@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: The battle to be the official EU referendum Leave campaign
-
 Website of the BBC News Service

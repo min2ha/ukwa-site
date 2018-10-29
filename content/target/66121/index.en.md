@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Dundee Photographic Society
-
 Site of a photographic society based in Dundee.

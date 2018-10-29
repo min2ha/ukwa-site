@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Policy points: challenges for the main parties this week – and their pledges
-
 None

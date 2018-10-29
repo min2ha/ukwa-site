@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Project Zero
-
 ET Willows is a little known early aviation pioneer from Cardiff who designed, built and flew his first airships from Splott in Cardiff. The project will raise the profile of Willows early work in Wales and the history of the first 'Welsh' airships.

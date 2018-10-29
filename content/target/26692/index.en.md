@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The:  What bright side? There's no silver lining to the election result
-
 None

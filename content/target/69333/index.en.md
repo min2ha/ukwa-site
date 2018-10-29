@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Queensferry and District Community Council
-
 Site of a community council for the town of South Queensferry, which is part of the City of Edinburgh.

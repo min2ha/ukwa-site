@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Let’s hope I’m wrong. But on Brexit fishing rights, I smell a sell-out more putrid than a bad kipper
-
 Predicts that the Government will capitulate to EU demands for continued access to UK territorial waters for their fishing fleets after Brexit.

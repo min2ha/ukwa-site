@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City AM: Edition of Magna Carta worth £10m discovered in Kent council archives
-

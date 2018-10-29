@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Institute of Race Relations (IRR)
-
 The Institute of Race Relations is a think tank based in the United Kingdom. It was formed in 1958 in order to publish research on race relations worldwide, and in 1972 was transformed into an "anti-racist think tank".

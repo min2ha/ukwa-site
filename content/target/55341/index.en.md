@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Daily Mail, The: Tory MP accuses hard-Left headteacher who works in his constituency of running campaign to oust him from his seat
-
 Conservative MP David Morris accused the hard-left headteacher of Morecambe Bay Primary School of running a campaign to oust him from his seat at the 2017 general election.

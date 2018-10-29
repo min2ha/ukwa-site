@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: With a million missing voters, how can life get better for Britain's BAME communities?
-

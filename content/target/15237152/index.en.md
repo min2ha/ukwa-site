@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Jonathan Farrington's Blog for Dedicated Business Professional
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# The Benefice of Rhymney
-
 <p>The Benefice of Rhymney is part of The Church in Wales and consists of two Parishes, St David’s Church Rhymney and St Paul’s Church, Abertysswg.</p>

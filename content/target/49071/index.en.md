@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Imam Ali (A.S) Centre (Cardiff) on Facebook
-
 The Imam Ali Centre, Cardiff is a branch of Imam Ali Foundation, London as a special office of Ayatolla Al-Odhma Sayd Ali Sistani. 

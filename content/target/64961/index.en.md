@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Foundation SP
-
 We deliver technology solutions that bring people together and create a journey towards a more responsive organisation.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Tom Harris, Green Party on Facebook
-
 None

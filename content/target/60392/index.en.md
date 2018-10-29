@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Phoenix Singers, The 
-
 The Phoenix Singers were formed in 2010 and is a ladies choir that rehearse in Abercynon.

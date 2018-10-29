@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Respect Brexit decision, peers urged
-
 Peers were urged to "respect" voters' decision to leave the EU as they began debating the Brexit bill. With Prime Minister Theresa May taking the unusual step of sitting in the Lords to watch the opening speeches, Leader of the House Baroness Evans said peers must not "frustrate" Brexit. But Labour said "reasonable changes" could take place to the bill.

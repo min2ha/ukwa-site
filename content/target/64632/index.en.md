@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Lodge Provincial Grand Lodge of Lanarkshire Middle Ward 
-
 Site of a provincial grand lodge of Scottish freemasonry affiliated to the Grand Lodge of Scotland and located in Lanarkshire.

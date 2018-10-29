@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cheshire's Great War Stories
-
 The project will work with a range of museums and heritage organisations across historic Cheshire, who will come together to provide a comprehensive programme to commemorate World War I.

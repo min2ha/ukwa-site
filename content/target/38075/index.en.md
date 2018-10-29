@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Julie Hepburn (@juliehepburnsnp) on Twitter
-
 Twitter profile of Julie Hepburn, Scottish National Party list candidate for Central Scotland region in the 2016 Scottish Parliamentary election.

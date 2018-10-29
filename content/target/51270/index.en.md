@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Women in the Arts Scotland
-
 WordPress site of a women's group working in the arts in Scotland meeting to discuss and organise to make positive changes to issues that affect the community.

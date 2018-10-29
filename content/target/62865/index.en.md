@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Mental health risks to girls who spend more than an hour a day on social media – new study
-
 Article about a new study 'Gender differences in the associations between age trends of social media interaction and well-being among 10-15 year olds in the UK', that shows a strong association between increased social media use and mental health issues in children and teens, the study also suggests that it impacts females more than males. 

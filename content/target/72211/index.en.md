@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Discovery Church Dunbar on Facebook
-
 Facebook page of a Scottish Elim Pentecostal (Christian) Church located in Dunbar, East Lothian.

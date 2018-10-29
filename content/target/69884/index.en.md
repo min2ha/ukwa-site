@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stirling Bridge International Arts Festival
-
 Website for the Stirling Bridge International Arts Festival.

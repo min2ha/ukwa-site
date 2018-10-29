@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory donors offered an 'iron man' with Iain Duncan Smith at fundraising ball
-
 None

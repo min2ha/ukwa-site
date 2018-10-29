@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# Anthony Gormley - Horizon Field Hamburg
-
 Website of the Hamburg exhibition of the British sculptor Antony Gormley, creator of the Angel of the North, Field for the British Isles, and Quantum Cloud

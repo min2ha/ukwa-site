@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Gracemount Church
-
 Site of a Church of Scotland parish church at Gracemount, Edinburgh.

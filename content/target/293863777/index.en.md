@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# The Alarm
-
 <p>The website for the Welsh Punk Rock band, the Alarm.</p>

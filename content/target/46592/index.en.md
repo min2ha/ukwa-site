@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# University of Aberdeen Celtic and Anglo-Saxon Studies information site
-
 The University of Aberdeen's Celtic and Anglo-Saxon studies' department website

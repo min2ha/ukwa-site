@@ -10,6 +10,4 @@
   "start_date": "2015-12-08T09:00:00Z"
 }
 
-# Menywod yn gwneud gwahaniaeth | Women making a difference
-
 Women Making a Difference (WMAD) educates and empowers women in Wales to become leaders in their communities and decision-makers at all levels of public and political life. 

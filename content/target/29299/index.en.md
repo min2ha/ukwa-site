@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Herald Scotland: Centenary of the 1916 Easter Rising in Ireland to be commemorated in Scotland
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# #cybernats hashtag on Twitter
-
 <p>Twitter posts about the online activities of those in favour of Scottish Independence, containing the hashtag #cybernats.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Justine Miliband: I'm up for election fight
-
 None

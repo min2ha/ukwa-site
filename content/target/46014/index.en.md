@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Federal Trust for Education and Research, The: "When we have decided what you voted for, we will tell you"
-
 Comments on the Conservative government's strategy for leaving the European Union, arguing that it is adopting a Leninist stance. Once the Conservative Party has decided what Brexit means, it will be the role of state institutions to acquiesce and implement.

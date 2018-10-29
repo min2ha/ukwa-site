@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Borough of Windsor and Maidenhead, The: Magna Carta
-

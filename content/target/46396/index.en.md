@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: Parliamentary scrutiny: evidence volume
-
 The House of Lords EU Committee urges that Parliament should be actively involved in scrutinising the forthcoming negotiations on Brexit as they happen – rather than after decisions have been taken, as proposed by the Government.

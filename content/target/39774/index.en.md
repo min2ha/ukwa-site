@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: President Obama is wrong about the EU and what Brexit will mean for our national security
-

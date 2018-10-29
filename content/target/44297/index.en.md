@@ -10,6 +10,4 @@
   "start_date": "2016-07-15T10:00:00Z"
 }
 
-# White & Givan
-
 Site of a contemporary dance duo based in Edinburgh, Scotland.

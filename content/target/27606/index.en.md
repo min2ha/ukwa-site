@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: I think Labour lost because it wasn't good enough - and I'm a Labour MP
-
 None

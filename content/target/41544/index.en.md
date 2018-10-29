@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Cumbernauld Environmental Society
-
 Wordpress blog and website of an organisation working to improved the environment in and around the town of Cumbernauld, North Lanarkshire.

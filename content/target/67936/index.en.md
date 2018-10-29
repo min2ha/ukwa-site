@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Autonomous Grand Priory of Scotland
-
 Site of self-styled Knights Templar of Scotland, aiming to uphold the traditions and values of the ancient order.

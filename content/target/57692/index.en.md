@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Express: BEWARE INTERNET ADDICTION: Expert warns web craving is as bad as drug addiction
-
 News article relating to internet addiction and the consequences it can have 

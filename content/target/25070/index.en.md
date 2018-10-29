@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ukip candidate makes worst possible typo in his town's name on election leaflets 
-
 None

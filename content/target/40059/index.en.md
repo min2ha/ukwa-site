@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Buchan Shipwrecks
-
 Buchan Shipwrecks is a group of diving and wreck research enthusiastics in Buchan, Scotland. The website contains details of shipwrecks located in and around Scotland's north east coast.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mental Health Foundation blog post: Social media and young people's mental health
-
 Mental Health Foundation blog post on social media and young peoples health

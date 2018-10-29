@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mark's Espicopal Church Portobello
-
 Site of a Scottish Christian church and its congregation belonging to the Scottish Episcopal denomination located in Portobello, Edinburgh.

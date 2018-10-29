@@ -10,5 +10,3 @@
   "start_date": "2013-11-05T00:00:00Z"
 }
 
-# Carbon Lite Cardiff
-

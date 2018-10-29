@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# GiveMeSport: Nelson Mandela knew the importance of sport and respected it
-
 <p>Article by Chris Doroudga, reflecting on Nelson Mandela's opinions on sport and its role in communicating with diverse groups.</p>

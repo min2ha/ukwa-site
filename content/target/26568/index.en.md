@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Former Labour ministers call for ban on pre-election polls to be considered
-
 None

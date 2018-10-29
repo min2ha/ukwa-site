@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Edgbaston Conservatives
-
 The website of the Edgbaston Conservatives, providing information on campaigns, events, representatives and candidates and local and national news updates.

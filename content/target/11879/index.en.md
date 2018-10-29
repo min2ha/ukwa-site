@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Taylor Bowls
-
 <p>Manufacturer of lawn bowls, shoes and clothing; also includes news about competitors in lawn bowling events of the Glasgow 2014 Commonwealth Games.</p>

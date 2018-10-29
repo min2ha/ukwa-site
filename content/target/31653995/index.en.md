@@ -11,6 +11,4 @@
   "subject": "Latin America UK"
 }
 
-# Society for Irish Latin American Studies (SILAS)
-
 None

@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Vice.com: How a Viral Clip About Grenfell Tower Became the Focus of the Conspiracy Community
-
 Vice.com news article on Grenfell Tower

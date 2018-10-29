@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Palmerston Place Church
-
 The website of Palmerston place Church. Palmerston Place is a city centre Church and is a gathered congregation drawing in people from all across Edinburgh.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Management Today: The gender pay gap is largely down to parenthood by Jack Torrance
-
 An article about gender pay gap and parenthood

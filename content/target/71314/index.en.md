@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  NIrelandRL Official (@NIRLOfficial) on Twitter
-
 Info, updates and banter from the rugby league world in Northern Ireland | Re-tweets are not endorsements

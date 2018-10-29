@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Markinch Heritage Group on Facebook
-
 Facebook page of a local history group based in Markinch, Fife, aiming to raise awareness of the town’s history and heritage.

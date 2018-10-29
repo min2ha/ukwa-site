@@ -10,6 +10,4 @@
   "start_date": "2015-01-22T00:00:00Z"
 }
 
-# Wellcome Trust Blog
-
 <p>Wellcome Trust Blog shares some of the stories of the research, people and projects the Wellcome Trust funds. It gives a behind-the-scenes look at what goes on at the Wellcome Trust and share useful lessons.</p>

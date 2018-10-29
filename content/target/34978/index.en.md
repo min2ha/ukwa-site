@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Brian Wates website
-
 Family history information on the families Wates, Ainsworth, Willway and Teleki.

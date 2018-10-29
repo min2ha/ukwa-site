@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour's Barry Gardiner: New EU vote would 'undermine democracy'
-
 Labour's Barry Gardiner said calls for another vote on leaving the EU undermined "the whole principle of democracy in this country", warning voters could turn to "more socially disruptive ways of expressing their views".
 

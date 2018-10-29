@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Animal rights protesters investigated by police over anti-Tory leaflets
-
 None

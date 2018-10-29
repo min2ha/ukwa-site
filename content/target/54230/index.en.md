@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Huw Jones (@HuwJonesLabour) on Twitter (Labour  Politician)
-
 Huw Jones stood as Labour Party candidate for South East Cambridgeshire in the 2017 General Electionbut was not elected.

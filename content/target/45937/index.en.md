@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Cuilean Craicte, An
-
 A reading club for kids in Gaelic medium education; An Cuilean Craicte is a Community Interest Company, run by publishers, translators, writers and parents.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Trades Union Congress (TUC): General Council Statement on EU referendum.
-
 TUC General Council statement on EU referendum

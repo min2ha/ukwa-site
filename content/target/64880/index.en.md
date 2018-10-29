@@ -10,6 +10,4 @@
   "start_date": "2018-04-27T09:00:00Z"
 }
 
-# Arkle Theatre Company
-
 Site of an amateur theatre compant based in Edinburgh.

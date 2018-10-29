@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# #BoycottSchoolCensus: why parents are refusing to reveal their child's nationality
-
 Parents have been campaigning to stop schools collecting data on the birth nationalities of their pupils. 

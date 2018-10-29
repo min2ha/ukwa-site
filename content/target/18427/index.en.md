@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: New Unionist tactical voting campaign to stop SNP surge
-
 None

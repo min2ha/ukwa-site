@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T11:00:00Z"
 }
 
-# Welding Institute, The (TWI)
-
 The Welding Institute is the leading professional engineering institution for the professional registration and certification of welding and joining personnel worldwide.  It includes an institution, a certification body, a training organisationand a research and technology centre. 

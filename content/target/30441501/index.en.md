@@ -10,6 +10,4 @@
   "start_date": "2016-01-21T09:00:00Z"
 }
 
-# British Deaf Association (BDA)
-
 The British Deaf Association (BDA) is a deaf-led British charity that campaigns and advocates for deaf people who use British Sign Language.

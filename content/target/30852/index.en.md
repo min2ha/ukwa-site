@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Tenovus Cancer Care
-
 Tenovus is a Welsh based cancer charity.

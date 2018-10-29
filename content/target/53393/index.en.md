@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Haltemprice & Howden Constituency Labour Party (@handhlabour ) on Twitter
-
 Twitter feed of the Haltemprice & Howden Constituency Labour Party, covering their 2017 general election campaign

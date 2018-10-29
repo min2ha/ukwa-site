@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Living Pictures
-
 Living Pictures is a registered charity formed in 1999 to find new and engaging ways to train for and perform theatre art. Living Pictures are based in Cardiff and work with emerging Directors and Actors, aiming to develop and nurture that talent. 

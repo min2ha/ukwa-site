@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# New! Magazine
-
 New! is a British weekly magazine, specialising in celebrity news and is published by Northern & Shell, who also oversee OK! magazine and the Daily Star

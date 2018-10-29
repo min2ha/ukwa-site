@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret's Church, Oxford
-
 St. Margaret's Church is a traditional, friendly church. The Eucharist is central to our worship. St Margaret’s Church is closely involved with the local Church of England Primary School and St Margaret’s Institute, our local community centre.

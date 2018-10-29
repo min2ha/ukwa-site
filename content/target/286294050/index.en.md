@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Fishing Boat Heritage
-
 <p>Fishing Boat Heritage website contains records of the fishing fleet in peace time and war and of the families who owned and operated the boats mainly covering 1869 to 1989.</p>

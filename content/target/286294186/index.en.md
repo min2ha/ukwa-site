@@ -10,5 +10,3 @@
   "start_date": "2015-02-02T00:00:00Z"
 }
 
-# British Future - Migration & Integration Think Tank
-

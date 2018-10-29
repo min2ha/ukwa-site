@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Tories to expand Margaret Thatcher's 'right to buy' social housing sell-off to buy election votes 
-
 None

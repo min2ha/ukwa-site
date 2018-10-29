@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Aberfeldy and District Gaelic Choir
-

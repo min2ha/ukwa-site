@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Protesters throw fish into Thames in Brexit deal protest
-
 Protesters threw dead fish into the Thames outside Parliament to show their opposition to the Brexit transition deal. This agreement delays the UK taking control of its coastal waters until 2021.

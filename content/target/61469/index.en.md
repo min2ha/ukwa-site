@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# LugeGB (@LugeGb) on Twitter
-
 The official Twitter account of the GB Luge Team. 

@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Castle of Mey
-
 Site of an historic castle in Caithness, form home of Queen Elizabeth, the Queen Mother (wife of George VI) and now a visitor attraction and wedding venue with holiday lets.

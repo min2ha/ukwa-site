@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Gaiety Theatre, Ayr
-
 Site of a theatre in Ayr, Ayrshire.

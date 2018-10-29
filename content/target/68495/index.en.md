@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Stonewall (@stonewalluk) on Twitter
-
 Stonewall is an LGBT equality charity. This is their official Twitter account.

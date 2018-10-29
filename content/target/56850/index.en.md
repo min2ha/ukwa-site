@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: the exit bill
-
 When the UK leaves the EU it is expected to make a contribution towards the EU’s outstanding financial commitments. The media have labelled this as an ‘exit bill’ or ‘divorce bill’, the EU see it as a matter of ‘settling the accounts’. The issue will be discussed in the first phase of Brexit negotiations, under the title of the ‘single financial settlement’ (the settlement).
 

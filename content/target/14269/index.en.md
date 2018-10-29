@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Wilderness of Peace
-
 <p>Scotland and Scottish politics, especially devolution and independence.</p>

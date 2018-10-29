@@ -10,6 +10,4 @@
   "start_date": "2013-07-29T10:00:00Z"
 }
 
-# MG ALBA / Gaelic Media Service
-
 Gaelic Media Service (MG Alba) runs the BBC ALBA channel in partnership with the BBC. It is funded by the Scottish Government and regulated by Ofcom. It is based in Stornoway.

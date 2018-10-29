@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# What is Biotechnology?
-
 This website is the work of Dr Lara Marks, a historian in medicine. The site is supported by the Biotechnology and Medicine and Education Trust (BIOTECHMET) and is registered as a UK Charity.

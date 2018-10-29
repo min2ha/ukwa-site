@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Migrants Rights' Network: Xenophobia and racism has swamped the EU referendum debate – let this be a wake-up call to do better
-
 Don Flynn on the importance of the EU referendum decision regarding attitudes towards migrants

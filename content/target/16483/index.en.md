@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Party leaders demand Cameron joins debate - or face televised 'empty chair'
-
 None

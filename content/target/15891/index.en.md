@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Disclosure Scotland
-
 Disclosure Scotland is an Executive Agency of the Scottish Government which provides criminal history information to organisations and potential employers.

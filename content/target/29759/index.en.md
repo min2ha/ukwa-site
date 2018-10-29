@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Meon Festival of Books
-
 Festival

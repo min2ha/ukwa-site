@@ -10,6 +10,4 @@
   "start_date": "2017-08-01T09:00:00Z"
 }
 
-# Travellers School Charitable Trust
-
 Travellers School Charitable Trust was established due to an increased need amongst Traveller children for educational support independent of mainstream education. The trust is located in Tregaron.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Bridgend's Green Leftie: An ecosocialist blog
-
 Bridgend's Green Leftie was originally established as the Bridgend Green Party blog in 2010. The owner has since left the Green Party and is now a member of the Labour Party. The blog covers Ecosocialism, a vision of a transformed society in harmony with nature, and Welsh politics in general.

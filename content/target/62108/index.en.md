@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Business Insider UK: Being hooked on video games isn't necessarily an addiction — here's why
-
 News article about internet gaming disorder and if it is actually addiction or escapism

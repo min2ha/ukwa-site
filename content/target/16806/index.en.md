@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Asylum Aid: Women and girls' safety manifesto
-
 Asylum Aid is an independent, national charity working to secure protection for people seeking refuge in the UK from persecution and human rights abuses abroad. They provide free legal advice and representation to the most vulnerable and excluded asylum seekers, and lobby and campaign for an asylum system based on inviolable human rights principles.

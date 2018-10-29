@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brexit could blow £100bn hole in UK economy and cost up to 950,000 jobs, CBI warns
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron ends campaign saying election will 'define this generation'
-
 None

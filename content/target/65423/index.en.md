@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# UK Awakening
-
 Michael Marcel documents the past – and coming – UK awakenings and revivals.

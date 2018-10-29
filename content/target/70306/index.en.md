@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cheltenham Town Ladies Football Club (CTLFC)
-
 The Official Cheltenham Town Ladies Football Club Website

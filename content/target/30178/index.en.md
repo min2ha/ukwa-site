@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Pròiseact nan Ealan / Gaelic Arts Agency, The
-
 Pròiseact Nan Ealan works nationally and internationally to promote the Gaelic language and its culture through the arts.

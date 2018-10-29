@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# National Autistic Society, The
-
 <p>The National Autistic Society is a UK charity for people with autism (including Asperger syndrome) and their families. They provide information, support and pioneering services, and campaign for a better world for people with autism.</p>

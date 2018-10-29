@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# British Board of Film Classification (BBFC)
-
 The British Board of Film Classification is an independent, non-governmental body which has classified cinema films since it was set up in 1912 and videos/ DVDs since the Video Recordings Act was passed in 1984.

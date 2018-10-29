@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Scottish Centre for Conflict Resolution
-
 Site of a support organisation running a mediation and conflict resolution service located in Edinburgh.

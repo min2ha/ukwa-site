@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# inews: Jack Monroe leaves Twitter ‘for the good of my mental health’ following social media abuse 
-
 News article about Food writer and campaigner Jack Monroe leaving the social media platform Twitter for the good of mental health after receiving daily abuse

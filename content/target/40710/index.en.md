@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# West Lothian in the Great War
-
 The project aims to help people better understand the vast tragedy of the Great War through researching its impact on the local area and local people of West Lothian.

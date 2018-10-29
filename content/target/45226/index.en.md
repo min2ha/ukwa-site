@@ -10,6 +10,4 @@
   "start_date": "2016-09-03T10:00:00Z"
 }
 
-# Haringey Justice for Palestinians
-
 Haringey Justice for Palestinians  is an independent, non party-political organisation that campaigns for justice for the Palestinian people, advocating civil, political and Human Rights in accordance with International Law.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-17T09:00:00Z"
 }
 
-# Kinneil Brew Hoose
-
 Site of a small brewer located at Bo'ness.

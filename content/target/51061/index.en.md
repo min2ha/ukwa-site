@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Drug Aid Cymru
-
 Drug Aid Cymru provides a wide range of services for anyone directly and indirectly affected by drugs and / or alcohol across Gwent, Rhondda Cynon Taff, Merthyr Tydfil, Dyfed and Western Bay.

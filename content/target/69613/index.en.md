@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Fetzer, Thiemo: Did austerity cause Brexit? 
-
 University of Warwick. Working paper series. 
 Centre for Competitive Advantage in the Global Economy
 Department of Economics

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Rise of the 'Re-Leavers' who voted AGAINST Brexit but now believe it MUST happen and could propel May to massive majority on June 8  
-

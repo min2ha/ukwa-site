@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Theresa May (@theresa_may) on Twitter
-
 Official Twitter account for Theresa May

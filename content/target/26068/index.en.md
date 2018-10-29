@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour would halt plans to slash on-call legal aid solicitors
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Construction Industry Training Board (CITB): Wales
-
 The CITB or Construction Industry Training Board is the Industry Training Board for the UK Construction industry.

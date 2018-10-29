@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Agoriad cyf
-
 Agoriad Cyf was established in order to develop the employment possibilities for disabled and disadvantaged people across Wales.

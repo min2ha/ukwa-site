@@ -10,6 +10,4 @@
   "start_date": "2016-06-21T10:00:00Z"
 }
 
-# Scottish Game Fair
-
 Site of an annual Scottish festival of food, drink, country sports, competitions and events relating to Scottish countryside and country sport and held at Scone Palace, Perthshire.

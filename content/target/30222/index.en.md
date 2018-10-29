@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Porth Termau Cenedlaethol Cymraeg | Welsh National Terminology Portal
-
 The Porth Termau is managed by Canolfan Bedwyr at Bangor University. It brings the content of the terminology dictionaries developed at the Centre for the Standardization of Welsh Terminology and approved partners since 1993 together on one easy to search website.

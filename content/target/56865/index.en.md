@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Penicuik Athletic Football Club
-
 Site for a Scottish junior football club based in Penicuik, Midlothian.

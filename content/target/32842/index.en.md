@@ -10,6 +10,4 @@
   "start_date": "2015-11-26T09:00:00Z"
 }
 
-# Consortiwm Newid Hinsawdd Cymru | Climate Change Consortium of Wales (C3W)
-
 The Climate Change Consortium of Wales (C3W) brings together researchers from four of the largest Welsh universities (Aberystwyth, Bangor, Cardiff and Swansea) and is funded by the Higher Education Funding Council for Wales. C3W seeks to improve understanding of the causes, nature, timing and consequences of climate change.

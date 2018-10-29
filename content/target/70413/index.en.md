@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hindu Temple of Scotland, The
-
 Site of a Hindu temple located in Rutherglen, Lanarkshire.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Imperial College Healthcare NHS trust
-
 None

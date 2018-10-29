@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jade O'Neil (@JadeEONeil) on Twitter
-
 The Twitter profile of Jade O'Neil, the Liberal Democrats candidate for Glasgow North in the UK General Election on the 7th May 2015.

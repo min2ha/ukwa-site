@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Sherlockian.Net
-
 Website dedicated to Sherlock Holmes, a literary character created by an English writer Arthur Conan Doyle.

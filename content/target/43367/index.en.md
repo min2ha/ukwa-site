@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Complete University Guide, The: EU Referendum - How does the European Union affect universities and students?
-
 Artricle on the affect of the EU Referendum on students and universities from the university league table publication, The Complete University Guide

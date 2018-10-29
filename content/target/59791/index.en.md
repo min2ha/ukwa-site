@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Birkmyre Rugby Club
-
 Site of a Scottish rugby union football club located in Birkmyre, Inverclyde (historically Renfrewshire).

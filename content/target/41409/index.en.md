@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Zeal
-
 A community website for the West Country including Belstone, South Tawton, South Zeal, Sticklepath Cosdon Beacon - Dartmoor U.K. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'You are driving Scotland over a Brexit cliff!' Furious Nicola Sturgeon slams Theresa May for uncompromising EU stance moments after tense meeting at Downing Street 
-
 Nicola Sturgeon lashed out at Theresa May for 'driving Scotland over a hard Brexit cliff' after a stormy meeting in Downing Street. The Scottish First Minister voiced 'frustration' after 'feisty' showdown talks with the Prime Minister, accusing her of having no vision for the UK's future outside the EU.

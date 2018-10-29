@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Coney
-
 Coney are interactive theatre-makers weaving together theatre and game design to create dynamic shows and experiences that can take place anywhere that people gather: in theatres, schools, museums, on the streets and online.

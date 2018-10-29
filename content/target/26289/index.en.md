@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T07:00:00Z"
 }
 
-# University of Birmingham
-
 Official website of the University of Birmingham.

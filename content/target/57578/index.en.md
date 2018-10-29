@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# East Dunbartonshire Leisure and Culture Trust
-
 Site of a company established by East Dunbartonshire Council to deliver leisure and culture services.

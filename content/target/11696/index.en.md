@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Samantha Kinghorn (@Sam_Kinghorn) on Twitter
-
 The twitter profile of Scottish wheelchair althete Samantha Kinghorn, member of Team Scotland for the Glasgow 2014 Commonwealth Games.

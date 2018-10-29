@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg urges tactical voting to block rightwing 'Blukip' government
-
 None

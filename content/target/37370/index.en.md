@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU referendum: Brexit bad for UK, Europe and the world, warns OECD
-
 An article about the potential consequences of Brexit

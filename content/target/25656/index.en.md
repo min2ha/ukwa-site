@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: New and old media divided over Miliband's Russell Brand interview
-
 None

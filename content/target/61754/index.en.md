@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Lodge Carron  No. 139
-
 Site of a masonic lodge located in Stenhousmuir, Stirlingshire and affiliated with the Grand Lodge of Scotland.

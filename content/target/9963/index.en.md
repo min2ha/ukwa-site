@@ -10,5 +10,3 @@
   "start_date": "2014-04-24T03:15:00Z"
 }
 
-# Labour North on Twitter
-

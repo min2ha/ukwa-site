@@ -10,6 +10,4 @@
   "start_date": "2016-12-06T09:00:00Z"
 }
 
-#  Ceilidh Dancing
-
 Site dedicated to Scottish ceilidh dance and music.

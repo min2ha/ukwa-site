@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# The Grocer
-
 News, analysis and opinion relating to the UK food retail trade.

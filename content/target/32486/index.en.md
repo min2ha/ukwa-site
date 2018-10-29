@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# You and Your Wedding
-
 Online version of the You and Your Wedding magazine.

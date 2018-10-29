@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lowri Morgan
-
 Lowri Morgan is a BAFTA winning television presenter and a World Class Ultra endurance marathon runner. She is one of only six people to ever complete the 350-mile non-stop footrace 6633 Ultra in the Arctic and the challenging Jungle Ultra Marathon in the Amazon. 

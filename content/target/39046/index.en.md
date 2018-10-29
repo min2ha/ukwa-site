@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Jubilee Centre
-
 The Jubilee Centre is a Christian social reform organisation that offers a biblical perspective on contemporary issues and underlying trends in society, of relevance to the general public.

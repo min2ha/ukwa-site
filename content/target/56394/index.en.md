@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Hoi Butt!
-
 A diary webcomic by Natasha Dancy exploring her life and her asexual relationship with her partner.

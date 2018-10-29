@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish in Britain
-
 Irish in Britain was established in 1973 when the Northern and Southern Federations came together to create a single national body. The purpose was to bring together many voices – to share expertise, to represent, to campaign for and support the growth and well–being of the Irish community and the infrastructure around it.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# International Journal of Digital Curation (IJDC)
-
 The IJDC publishes peer-reviewed papers, articles and editorials on digital curation, research data management and related issues. Peer-reviewed papers cover original research supported by significant evidence. This is an open access journal.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Unite for Europe (UFE) ( @uniteforeurope ) on Twitter
-
 Twitter feed of pro-remain pressure group fighting to prevent the UK from leaving the EU.

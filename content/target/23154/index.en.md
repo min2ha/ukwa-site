@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# ScottishPol
-
 A blog by Tom Gordon, Scottish Political Editor of the Sunday Herald

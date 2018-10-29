@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Irish communities divided by terror are now whole. Brexit could tear us apart again
-

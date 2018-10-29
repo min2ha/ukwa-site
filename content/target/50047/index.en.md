@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Broad Haven Baptist Church
-

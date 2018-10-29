@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Guardian, The: Why English culture is bewitched by magic
-
 From Merlin to Harry Potter, English magic has a long tradition. Damien Walter asks the question 'what does it say about today's culture?'

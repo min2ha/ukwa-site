@@ -10,6 +10,4 @@
   "start_date": "2018-04-11T09:00:00Z"
 }
 
-# Banton and Twechar Parish Churches
-
 The website of Banton and Twechar Parish Churches, encompassing the linked Banton Parish Church and Twechar Parish Church. 

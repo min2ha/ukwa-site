@@ -10,5 +10,3 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Sgeul na Gàidhlig aig Oilthigh Ghlaschu | a' togail sgeul nan Gàidheal aig Oilthigh Ghlaschu thar 550 bliadhna
-

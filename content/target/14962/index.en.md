@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Central and Hindpool Neighbourhood Management
-

@@ -10,7 +10,5 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Rhian Symes
-
 
 Rhian Symes is a member of the Royal Watercolour Society of Society of Wales and based in Brecon.

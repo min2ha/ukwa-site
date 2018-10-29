@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# View from the Ninian
-
 A 'View from the Ninian' contains articles of the very best Cardiff City writers. It is a fan-run site containing news, analysis, features and interviews.

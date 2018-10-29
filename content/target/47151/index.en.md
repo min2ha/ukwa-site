@@ -10,5 +10,3 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# NHS Wales: Sgrinio Colluddion Cymru | Bowel Screening Wales
-

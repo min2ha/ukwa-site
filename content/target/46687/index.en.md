@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Am Pàipear on Twitter
-
 Twitter profile of Am Pàipear: a newspaper "serving the island chain spanning from Berneray to Eriskay".

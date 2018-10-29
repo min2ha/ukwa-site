@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ugie Folk Club
-
 Site of a folk club and its annual folk festival located in Aberdeenshire.

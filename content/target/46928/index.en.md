@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Dezeen: Advertising agencies unveil rejected Remain campaign posters
-
 Both Saatchi & Saatchi and M&C Saatchi created posters for Remain's Stronger In campaign ahead of the referendum, in which the UK voted to leave the European Union. This article reveals their rejected Remain campaign posters.

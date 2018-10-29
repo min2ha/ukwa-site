@@ -10,6 +10,4 @@
   "start_date": "2018-09-14T09:00:00Z"
 }
 
-# Nathan James Deardon
-
 Nathan James Dearden (b. 1992) is a composer and conductor. Nathan's music has been commissioned, performed, featured and workshopped by the London Philharmonic Orchestra, The Tippett Quartet, Genesis Sixteen, BBC National Orchestra of Wales, National Youth Orchestra of Wales, The Heath Quartet, Grand Band, the Fidelio Trio, CHROMA ensemble, Carla Rees and The Dunedin Consort. 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# New Street United Church, Welshpool
-

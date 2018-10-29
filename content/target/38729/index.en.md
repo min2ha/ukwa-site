@@ -10,6 +10,4 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# Isle of Tiree
-
 Site promoting the Island of Tiree in the Western Isles of Scotland, while providing information on its history.

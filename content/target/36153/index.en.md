@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jamie Halcro Johnston - Scottish Conservative Candidate for Orkney
-
 Jamie Halcro Johnston is the Scottish Conservative and Unionist Party candidate for Orkney constituency in the 2016 Scottish Parliament election.

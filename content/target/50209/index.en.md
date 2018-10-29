@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Select Committee on the Constitution: The ‘Great Repeal Bill’ and delegated powers
-
 The Constitution Committee  proposes new measures to safeguard the rights of Parliament as the process of Brexit gets underway. The Committee's report argues that Parliament should make sure the Government does not use delegated powers in the forthcoming ‘Great Repeal Bill’ as a way of changing the law in areas currently governed by the EU, without proper parliamentary scrutiny.

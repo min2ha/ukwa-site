@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Gigiadur, Y
-
 Y Gidiadur is a blog providing reviews of Welsh language music gigs and events across Wales. The blog began in 2015.

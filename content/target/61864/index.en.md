@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson: Irish border row being exploited to stop Brexit
-
 Boris Johnson said the row over the border in Northern Ireland was being used to frustrate Brexit. The foreign secretary insisted there were "very good solutions" to avoid the need for a hard border.
 
 

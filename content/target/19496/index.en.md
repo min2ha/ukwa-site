@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# UK Human Rights Blog: Magna Carta and its progeny
-

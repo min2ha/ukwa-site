@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Whitchurch and Llandaff North
-
 The website provides local historical information to the Whitchurch & Llandaff North suburbs of Cardiff.

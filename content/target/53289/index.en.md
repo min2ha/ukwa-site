@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# James Clark (@_JamesTClark  ) on Twitter (Conservative Politician)
-
 James T Clark stood as Conservative candidate for Islington North at the 2017 General Election but was not elected.

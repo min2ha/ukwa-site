@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Boris Johnson calls Brexit warnings ‘mumbo jumbo’. But they’re true
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# UK Libraries and Book News
-

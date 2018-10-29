@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# EDINDOCS : Documentary Film in Edinburgh
-
 Site of a documentary film festival which aims to bring quality, independent documentary film to Scotland's capital.

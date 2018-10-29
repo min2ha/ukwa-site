@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Doughty (@SDoughtyMP) on Twitter
-
 Labour and Co-operative Member of Parliament for Cardiff South and Penarth.

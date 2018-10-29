@@ -10,6 +10,4 @@
   "start_date": "2007-08-14T00:00:00Z"
 }
 
-# Museum Ethnographers Group
-
 The Museum Ethnographers Group (MEG), formed in 1976, is committed to the following aims,  To encourage good practice in curatorship of all ethnographic collections in the United Kingdom...

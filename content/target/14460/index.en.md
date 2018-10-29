@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanes Mechell
-
 <p>This the local history society website for the village of Llanfechell in Anglesey.</p>

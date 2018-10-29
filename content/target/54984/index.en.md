@@ -10,5 +10,3 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# Cornwall's Regimental Museum
-

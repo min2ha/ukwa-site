@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pramod Subbaraman on Facebook
-
 This is the Facebook page of Pramod Subbaraman, the Liberal Democrats candidate for Edinburgh South in the UK General Election on the 7th May 2015 and Edinburgh Southern in the 2016 Scottish Parliamentary election.

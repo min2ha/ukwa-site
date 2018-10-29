@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Cardigan Bay Maritime History Project (Over the Waves)
-
 <p>Over the Waves are recording the rich maritime heritage of communities in Cardigan and the Lower Teifi Valley.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Dimbleby: Question Time Election Leaders Special will be like 'old fashioned hustings'
-
 None

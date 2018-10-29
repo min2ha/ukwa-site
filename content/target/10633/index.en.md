@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Ulster Unionist Party (@uuponline) on Twitter
-
 The Ulster Unionist Party (UUP) is a unionist political party in Northern Ireland. Having gathered support in Northern Ireland during the late-nineteenth and early-twentieth centuries, the party governed Northern Ireland between 1921 and 1972.

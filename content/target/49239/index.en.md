@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blackburn United Community Football Club
-
 Site for a Scottish junior and community football club based in Blackburn, West Lothian.

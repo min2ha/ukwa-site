@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-#  Stonewall Scotland (@StonewallScot) on Twitter
-
 Twitter account for Stonewall Scotland. The LGBT charity. Acceptance without exception.

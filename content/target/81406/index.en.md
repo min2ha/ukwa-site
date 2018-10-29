@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Jaguars UK (@JaguarsUK) on Twitter
-
 The official UK twitter account of NFL team the Jacksonville Jaguars including news and updates about our Wembley NFL London Games.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Colin Gard Allen
-
 Colin Gard Allen is classed as a Welsh Romantic painter.

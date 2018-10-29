@@ -10,6 +10,4 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# Rochford District Community Archive
-
 A website preserving people's memories of the Rochford District in Essex.

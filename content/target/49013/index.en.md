@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# CommunistsInCardiff (@CFBranchCPB) on Twitter
-
 The Official Twitter Account of the Cardiff Branch of the Communist Party of Britain.

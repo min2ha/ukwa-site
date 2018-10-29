@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Business, Energy and Industrial Strategy: International Business Festival Speech
-
 Business Secretary Greg Clark gave this 2018 keynote speech at the Exhibition Centre, Liverpool. He took the opportunity to emphasise that facilitation of trade in services must be covered in the EU exit negotiations

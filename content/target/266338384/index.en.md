@@ -10,6 +10,4 @@
   "start_date": "2014-09-19T00:00:00Z"
 }
 
-# WebmedCentralPlus
-
 None

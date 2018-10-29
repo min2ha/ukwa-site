@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tap Dance Festival
-
 Website for the Tap Dance Festival.

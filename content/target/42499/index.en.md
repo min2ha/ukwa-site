@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# The Queen’s Birthday
-
 Mrs Lomas’ news blog

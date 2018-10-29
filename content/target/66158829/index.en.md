@@ -11,6 +11,4 @@
   "subject": "Slavery and Abolition in the Caribbean"
 }
 
-# University of Liverpool: Black Atlantic Resource
-
 None

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Acronym Institute for Disarmament Diplomacy 
-
 The Acronym Institute conducts research, participates in meetings, analyses developments, and disseminates ideas and information on peace, disarmament and human security in all their aspects.

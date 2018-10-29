@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Hemel Stags RL (@HemelStagsRL) on Twitter
-
 The official Twitter account of Hemel Hempstead Rugby League Club. 
 The Hemel Stags were formed in 1981 and played their first match against McEntee on 3 April, 1981 which they unfortunately lost. 

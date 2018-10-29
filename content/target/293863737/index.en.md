@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Rural Payments and Services
-
 Information, guidance and online services for people in rural areas across Scotland.

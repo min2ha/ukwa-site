@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Obesity Timebomb
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rutherglen Glencairn Football Club
-
 Site for a Scottish junior football club based in Ruherglen, Glasgow.

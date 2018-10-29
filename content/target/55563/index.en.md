@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-#  Welsh Memorials to the Great War
-
 Many Welsh Memorials have been lost as the workplaces and chapels have closed down and schools relocated. Those war memorials that remain are vulnerable. This project aims to preserve the information that is on these memorials, and to share images of them and any research that has been carried out into them. Welsh Memorials to the Great War is funded by the Living Legacies 1914-18 Engagement Centre and hosted by Swansea University.

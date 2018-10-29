@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Without Ukip, Douglas Carswell could be a brilliant independent MP
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-09-02T09:00:00Z"
 }
 
-# Glasgow Parkour Girls
-
 Site of an all women's parkour club based in Glasgow.

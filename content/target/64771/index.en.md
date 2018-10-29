@@ -10,7 +10,5 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Pobl Trust
-
 "Pobl Trust is a registered charity within the Pobl Group that exist to improve the quality of life of people and communities. The Pobl Group is a leading provider of care and support services to people living in Wales and the south west of England.
 Pobl Group was created by the merger of Seren Group and Grŵp Gwalia on April 1st 2016. "

@@ -10,5 +10,3 @@
   "start_date": "2010-11-12T00:00:00Z"
 }
 
-# ISTHMUS blog
-

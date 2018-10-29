@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Hackney Irish Club (@HackneyIrish) on Twitter
-
 Weekly club, occasional quiz, frequent parties, pub protection, local interest, history, Ireland, Hackney, London

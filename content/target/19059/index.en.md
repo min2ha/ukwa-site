@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: Magna Carta: 'Forgotten' edition of historic document worth £10m discovered in local COUNCIL office
-

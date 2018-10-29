@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Channel Islands Competition and Regulatory Authorities
-
 The Channel Islands Competition and Regulatory Authorities or 'CICRA' is the name given to the Jersey Competition Regulatory Authority and the Guernsey Competition and Regulatory Authority (formerly the Office of Utility Regulation).

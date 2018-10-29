@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dame Anne Begg MP (annebegg) on Twitter
-
 <p>The twitter profile of Dame anne Begg, Labour Member of Parliament for Aberdeen South.</p>

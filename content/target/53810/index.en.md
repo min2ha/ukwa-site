@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# April Clark (Green Party Politician)
-
 April Clark stood as Green Party candidate for Tonbridge & Malling at the 2017 General Election but was not elected.

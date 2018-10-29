@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Kilmainham Gaol Graffiti
-
 This project aimed to uncover the intimate and broader realities of female experiences of the Irish civil War and subsequent political imprisonment through examining, recording and interpreting the material remains of the Irish Civil War within Kilmainham Gaol, Dublin.

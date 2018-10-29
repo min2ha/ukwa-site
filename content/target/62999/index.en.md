@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Church, Nairn
-
 Site of a Church of Scotland parish church at Nairn, Highland, also covering Auldearn & Dalmore.

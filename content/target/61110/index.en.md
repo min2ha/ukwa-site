@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Argyll Presbytery
-
 Site of a body of Church elders and ministers and the administrative body representing local Church of Scotland congregations in Argyll & Bute, incorporating the islands of Iona, Lismore, Mull, Islay, Jura, Bute, and the smaller Inner Hebrides, with Lorn, Kintyre and Cowal on the mainland.

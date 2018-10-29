@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Rosina Robson (Liberal Democrats Politician)
-
 Rosina Robson stood as Liberal Democrat candidate for Uxbridge and South Ruislip at the 2017 General Election but was not elected.

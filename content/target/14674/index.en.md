@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# King's Sierra Leone Partnership
-
 <p>The King’s Sierra Leone Partnership is on the front line of the Ebola response in Freetown, working within Connaught Hospital and with the Ministry of Health and Sanitation to manage the ongoing situation.</p>

@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T10:00:00Z"
 }
 
-# Peak Sensors Ltd
-
 Peak Sensors provides solutions for temperature measurement across a wide range of industries worldwide. 

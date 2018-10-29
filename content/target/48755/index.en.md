@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# Campden BRI
-
 Campden BRI  the food and drink industry with the practical scientific, technical and advisory services needed to ensure product safety and quality, process efficiency and product and process innovation.
 
 Their services can loosely be categorised under four pillars:

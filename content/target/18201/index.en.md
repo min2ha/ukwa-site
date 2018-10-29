@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eddy Blanche - Independent for Merthyr and Rhymney
-
 Eddy Blanche is an Independent candidate standing for Merthyr and Rhymney.

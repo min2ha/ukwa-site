@@ -10,5 +10,3 @@
   "start_date": "2017-05-23T09:00:00Z"
 }
 
-# Clwb Mynydda Gogledd Cymru | Mountaineering Club of North Wales (MCNW)
-

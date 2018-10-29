@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Parent Info: Eating disorders and the internet: a parent’s guide
-
 Article discussing whether the internet contributes to the problem of eating disorders amongst young people.

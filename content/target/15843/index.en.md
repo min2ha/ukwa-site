@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Conversation, The: Ebola 
-
 <p>It gives articles relating to the Ebola from The Conversation website.</p>

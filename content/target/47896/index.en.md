@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Early English Laws
-
 Early English Laws is a project to publish online and in print new editions and translations of all English legal codes, edicts, and treatises produced up to the time of Magna Carta 1215. It is supported by a collaboration between the Institute of Historical Research at the University of London and the Department of Digital Humanities at King's College London. The AHRC has provided initial funding for the first three years of the project (2009–2011).

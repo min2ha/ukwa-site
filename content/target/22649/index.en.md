@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Nigel Farage says Ukip are ONLY reason EU referendum is on the cards during leaders' clash
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UKIP Solihull & Meriden
-
 A local branch of UKIP.

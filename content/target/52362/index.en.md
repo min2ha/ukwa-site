@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Progressive Alliance (PA)
-
 The Progressive Alliance is a movement for a better politics, where progressive people and parties work together to create the change we want to see in society – greater equality, democracy and sustainability.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Why Brexit would be a disaster for your employment rights
-

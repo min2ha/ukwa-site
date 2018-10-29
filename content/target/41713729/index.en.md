@@ -11,6 +11,4 @@
   "subject": "Aging"
 }
 
-# Not Dead Yet
-
 None

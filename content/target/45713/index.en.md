@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Eco-sgolion | Eco-schools
-
 Keep Wales Tidy runs the international Eco-Schools scheme in Wales.

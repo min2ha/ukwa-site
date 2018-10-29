@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leeds United Supporters' Trust
-
 Leeds United Supporters Trust aims to be a voice for Leeds United fans all over the world.

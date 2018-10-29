@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Herts and Essex Observer
-
 None

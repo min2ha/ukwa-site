@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Manchester Art Gallery
-
 Manchester Art Gallery and The Gallery of Costume are home to the city’s world-class art collection.

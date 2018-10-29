@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Statement from the Chancellor and main British banks and building society on maintaining support for households and businesses
-
 The UK’s main lenders, meeting with the Chancellor, have agreed to make  extra capital available to support lending to UK businesses and households following the vote to leave the EU on June 23rd 2016

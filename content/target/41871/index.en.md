@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Glasgow Cathedral
-
 Site of the church and congregation of the Church of Scotland Glasgow Cathedral

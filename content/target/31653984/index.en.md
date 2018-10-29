@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Parks and Gardens UK
-
 Parks and Gardens UK is an on-line resource for historic parks and gardens providing freely accessible, accurate and inspiring information on UK parks, gardens and designed landscapes and all activities concerned with their promotion, conservation and management.

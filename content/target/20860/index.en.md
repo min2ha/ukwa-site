@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ricky Henderson (@henderson_ricky) on Twitter
-
 This is the Twitter profile of Ricky Henderson, the Labour Party candidate for Edinburgh South West in the UK General Election on the 7th May 2015.

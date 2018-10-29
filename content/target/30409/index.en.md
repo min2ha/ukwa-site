@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Gateway Credit Union
-
 Gateway Credit Union are based in Pontypool.

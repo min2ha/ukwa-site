@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Scones, Jam & Cream
-
 Scones, Jam & Cream is a website for afternoon tea lovers and it offers a search for a venue, reviews of venues, a blog about experiences, sharing recipes, providing discounts and vouchers.

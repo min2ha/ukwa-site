@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: The rise of eSports: are addiction and corruption the price of its success?
-
 Article about eSports and the rise of online gaming and its associated risks such as gaming addiction and mental health conditions

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# TheyWorkForYou: London 2012 Olympic Bid – in the House of Commons at 6:59 pm on 6th July 2005
-
 Debate in the House of Commons at 6:59 pm on 6th July 2005 about the London 2012 Olympic Bid.

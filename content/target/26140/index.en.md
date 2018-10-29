@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sustrans: Campaign for Safer Streets
-
 Sustrans works with communities, policy-makers and partner organisations so that people can choose healthier, cleaner and cheaper journeys and enjoy better, safer spaces where they live. All over the UK, we make a positive difference to people's lives.

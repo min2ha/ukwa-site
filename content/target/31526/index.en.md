@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Go ON UK
-
 Go ON UK is UK’s digital skills charity committed to eradicating digital exclusion and ensuring that everyone in the UK has the motivation and skills needed to benefit and prosper from the internet today and in the future. 

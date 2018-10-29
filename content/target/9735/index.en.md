@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Online pamphlet covering London Conservative Party Candidates, European Parliament Elections 2014
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-06-04T10:00:00Z"
 }
 
-# Detained in the UK: a blog about asylum & immigration, detention and destitution in the UK
-
 A blog by Samphire about asylum & immigration, detention and destitution in the UK

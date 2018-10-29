@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Ed Miliband to tell Welsh Labour conference the party will 'govern without fear or favour' 
-

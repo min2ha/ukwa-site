@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Comedy Club 4 Kids
-
 Website for Comedy Club 4 Kids, who run comedy shows and workshops for children aged 6+.

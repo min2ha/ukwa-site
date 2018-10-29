@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour's mansion tax and 50p tax rate: for a fairer society or just anti-business?
-

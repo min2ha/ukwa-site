@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 1st February 2018: Leaving the EU: Agriculture
-
 Discussion of the objectives of a UK=wide support framework for agriculture to replace the Common Agricultural Policy after Brexit to avoid food price inflation, maintain standards of animal welfare and keep farms in business.

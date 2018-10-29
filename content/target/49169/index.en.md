@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Cardiff Activists Cafe
-
 Cardiff Activists Cafe is organised in partnership by people from Cardiff People’s Assembly, Cardiff Transition, and independent activists.

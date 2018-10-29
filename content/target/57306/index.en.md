@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow Open House Arts Festival
-
 Site of a biennial arts festival which celebrates Glasgow’s vibrant, insightful and industrious culture, by inviting its residents to present art, music, and performance in their homes. 

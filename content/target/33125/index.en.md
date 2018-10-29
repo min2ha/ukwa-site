@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# See Science: Supporting Stem in Wales
-
 See Science eas established to support STEM (Science, Technology, Engineering and Mathematics) delivery across schools, FE colleges and HE Institutions within Wales.

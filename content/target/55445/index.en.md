@@ -10,6 +10,4 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# Maria Apichella
-
 Maria Apichella is the author of Psalmody (Eyewear, 2016) & Paga (Cinnamon Press, 2015) and was shortlisted for the Forward Prize for Best First Collection. She is living in Aberystwyth.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Revealed: How EU has been secretly plotting to block Theresa May over EU migrants for weeks 
-
 Reports that the EU had been plotting for weeks to thwart Theresa May’s plans to secure a deal for British expats in Europe and migrants in the UK by the end of June 2017.

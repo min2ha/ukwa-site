@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Why is the Brexit camp so obsessed with immigration? Because that’s all they have 
-
 Guardian, The

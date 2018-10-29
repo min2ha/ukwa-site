@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Women's Equality Party (WEP) Lothian (@WEP_Lothian) on Twitter
-
 Twitter profile of the Lothian branch of the Women's Equality Party who are standing candidates in the 2016 Scottish Parliamentary election.

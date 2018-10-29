@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# Autism Spectrum - UK
-
 Autistica is a charity which both funds and Photo of boy behind toy blockscampaigns for medical research to understand the causes of autism, improve diagnosis, and develop new treatments and interventions.

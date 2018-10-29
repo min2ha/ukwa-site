@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Chief Scientist Office
-
 The Chief Scientist Office (CSO) supports health research conducted in Scotland. The CSO is part of the Scottish Government Health Directorates.

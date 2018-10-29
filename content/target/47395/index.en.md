@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Tidal Energy Ltd (TEL)
-
 Tidal Energy Ltd (TEL) is located in Cardiff and is a tidal technology company developing Wales’ first full-scale tidal stream generator in Ramsey Sound, Pembrokeshire.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Seeds of the past: The Great War and garden estates
-
 Project to research the history of the estate of Ravenscliffe and its association with WW1.

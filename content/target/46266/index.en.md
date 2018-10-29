@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Swyddfa Cymru | Wales Office
-
 The Wales Office is the UK Government department of state representing Welsh interests in the UK and UK Government interests in Wales.

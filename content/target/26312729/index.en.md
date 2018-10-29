@@ -11,6 +11,4 @@
   "subject": "Celtic Studies"
 }
 
-# Cambridge Scottish Society
-
 None

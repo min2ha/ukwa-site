@@ -11,7 +11,5 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Horse and Hound Forums
-
 An online enthusiast community concerned with the Horse and Hound magazine and  equestrian related hobbies. Discusses equestrian news, competing and training, veterinary and hoof care, hunting,  UK regional boards, and various other 
  related topics.

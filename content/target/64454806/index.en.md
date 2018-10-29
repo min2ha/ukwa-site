@@ -10,5 +10,3 @@
   "start_date": "2012-03-24T00:00:00Z"
 }
 
-# The Makers Guild in Wales
-

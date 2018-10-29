@@ -10,6 +10,4 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Energy Technologies Institute (ETI)
-
 The Energy Technologies Institute, an organisation set up in 2008 as a ten year Public-Private Partnership to act as a conduit between academia, industry and the government and to accelerate the development of low carbon technologies.  

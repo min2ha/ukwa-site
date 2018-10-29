@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Londres accueil
-
 This association aims at welcoming and helping French speaking people settling in London

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chester City F.C.
-
 Chester City Football Club was an English football team from Chester which played in a variety of leagues between 1885 and 2010.

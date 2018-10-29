@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Delegated Powers and Regulatory Reform Committee: European Union (Withdrawal) Bill: Government Amendments
-
 Assesses the amendments tabled by the Government for report stage of the EU Withdrawal Bill.
 

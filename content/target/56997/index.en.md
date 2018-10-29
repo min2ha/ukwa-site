@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Vespa.org.uk forums
-
 An online enthusiast forum concerned with Vespa scooters. Discusses technical discussions, ride-out, weekenders, rallies & club dos, music, items for sale and various other related topics.

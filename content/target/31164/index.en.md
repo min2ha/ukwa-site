@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# International Federation for Information Processing (IFIP)
-
 International Federation for Information Processing is a multinational, apolitical organisation in Information & Communications Technologies and Sciences. It represents IT Societies from 56 countries/regions. It links scientists from academia and industry in over 100 working groups and 13 technical committees.

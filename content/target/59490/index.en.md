@@ -10,6 +10,4 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# Glyn Williams Music
-
 Glyn Williams is a soloist from Aberystwyth and is well-known for playing the euphonium. His CD was awarded Brass Band World Solo CD of the Year for 2011.

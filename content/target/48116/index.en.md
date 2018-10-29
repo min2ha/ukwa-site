@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Osian Rhys Jones
-
 Osian Rhys Jones is a Welsh Language poet.

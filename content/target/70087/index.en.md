@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Larne Youth (@larneyouthfc) on Twitter
-
 The official Twitter account of Larne Youth Football Club.

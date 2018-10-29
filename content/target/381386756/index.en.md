@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jill Evans (Plaid Cymru MEP for Wales)
-
 Jill Evans stood as Plaid Cymru candidate for Wales at the 1999 European Parliament election and was elected to serve as MEP. She was subsequently re-elected in 2004, 2009 and 2014.

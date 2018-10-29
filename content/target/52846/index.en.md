@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Nuclear Industry Association: Exiting Euratom
-
 This paper, written by the Nuclear Industry Association (NIA) with the support of its members, outlines the purpose of the Euratom Treaty, its key functions and benefits, and what industry needs from the negotiation with the European Commission if serious disruption to normal nuclear business both in the UK and across the European Union is to be avoided. 
  
  

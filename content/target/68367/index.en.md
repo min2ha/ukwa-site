@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gŵyl Canol Dre
-
 Gŵyl Canol Dre is a Welsh language music festival held at Parc Myrddin, Carmarthen on the 14th of July, 2017.

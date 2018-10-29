@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The leader interviews: Nicola Sturgeon on Trident, Labour and independence 
-

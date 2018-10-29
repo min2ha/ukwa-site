@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# SSE SWALEC Stadium
-
 SSE SWALEC, formerly known as Sophia Gardens, is a cricket stadium in Cardiff and listed as an international Test cricket venue. The venue is home to Glamorgan County Cricket Club.

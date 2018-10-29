@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# When to Watch Wildlife
-
 None

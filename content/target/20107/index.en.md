@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Golwg360: 100 diwrnod tan yr etholiad cyffredinol
-

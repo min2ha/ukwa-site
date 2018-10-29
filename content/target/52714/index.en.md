@@ -10,5 +10,3 @@
   "start_date": "2017-05-03T09:00:00Z"
 }
 
-# Max Wilkinson (@MaxForStroud) on Twitter (Liberal Democrats candidate for Stroud)
-

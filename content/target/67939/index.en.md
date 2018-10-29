@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# OPRFC (@OPRFC) on Twitter
-
 The official Twitter account of Old Priorian Rugby Football Club.

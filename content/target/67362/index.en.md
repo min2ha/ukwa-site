@@ -10,6 +10,4 @@
   "start_date": "2018-07-24T09:00:00Z"
 }
 
-# David Torrance MSP – SNP Member of the Scottish Parliament for Kirkcaldy Constituency
-
 David Torrance, Scottish National Party Member of the Scottish Parliament for Kirkcaldy Constituency.

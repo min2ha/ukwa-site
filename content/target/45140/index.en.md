@@ -10,6 +10,4 @@
   "start_date": "2016-08-20T10:00:00Z"
 }
 
-# Scottish Friends of Israel
-
 Site of a Scottish group promoting a positive view of Israel.

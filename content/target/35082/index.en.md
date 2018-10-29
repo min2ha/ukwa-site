@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# C.P. Ysgollion Abertawe | Swansea Schools F.A.
-

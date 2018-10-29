@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tameside Third Sector Coalition (T3SC): Tameside LINk
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# European Oilfield Speciality Chemicals Association, The (EOSCA)
-
 The European Oilfield Speciality Chemicals Association (EOSCA) was formed in 1990 in response to increasing regulatory requirements for approval of offshore chemicals and drilling muds in the late 1980’s.

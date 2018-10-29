@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# J.R.P. Hartley - Writer, comedian and independent candidate at the 2015 UK parliament general election
-

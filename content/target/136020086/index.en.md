@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bedfordshire LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Roger Williams on Facebook
-
 Roger Williams is the Liberal Democrate candidate for Brecon and Radnor, He is also the current MP.

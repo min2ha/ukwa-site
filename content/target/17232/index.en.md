@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Education: Coalition reforms are hitting the worst-off the hardest 
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Driffield Methodist Church
-
 None

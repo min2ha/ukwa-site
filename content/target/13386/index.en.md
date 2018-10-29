@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Roseanna Cunningham (strathearnrose) on Twitter
-
 The twitter profile of Roseanna Cunningham, Scottish National Party Member of the Scottish Parliament for Perthshire South and Kinross-shire and Scottish Government Minister for Community Safety and Legal Affairs.

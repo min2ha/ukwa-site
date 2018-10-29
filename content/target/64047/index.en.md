@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Machar’s Ranfurly Church
-

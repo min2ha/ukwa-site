@@ -10,6 +10,4 @@
   "start_date": "2015-07-31T10:00:00Z"
 }
 
-#  Writers’ Centre Norwich
-
 Writers’ Centre Norwich is a literature development agency based in Norwich's historic Dragon Hall.

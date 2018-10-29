@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Scotsman, The: £125 view of a lifetime for Forth Bridge visitors
-

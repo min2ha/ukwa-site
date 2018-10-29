@@ -10,6 +10,4 @@
   "start_date": "2017-09-13T09:00:00Z"
 }
 
-# Ceredigion Lifeboat Campaign
-
 The aim of the Ceredigion Lifeboat Campaign is to challenge the RNLI's decision to remove the only All-Weather Lifeboat in Ceredigion

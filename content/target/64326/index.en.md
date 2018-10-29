@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: Gibraltar update
-
 Gibraltar has enjoyed a unique status as a UK external territory within the EU - how will it be dealt with in the Brexit negotiations?
 

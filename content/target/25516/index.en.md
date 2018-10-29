@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip, the former darling of the right-wing press, has lost its support
-
 None

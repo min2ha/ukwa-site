@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Changin Scotland: A weekend of politics, culture and ideas: Nov 28th-30th
-
 None

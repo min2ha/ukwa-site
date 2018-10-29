@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Playbusters
-
 Site of a group in the East End of Glasgow established to provide safe play areas for local children, as well as facilitating educational and play activities throughout the community.

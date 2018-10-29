@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:04.059622", 
+  "date": "2018-10-29T13:22:10.792929", 
   "open_access": false, 
   "target_url": "http://totalflanker.blogspot.co.uk/", 
   "description": "live rugby blog", 
   "end_date": null, 
   "title": "Total flanker: a rugby blog", 
-  "record_id": "20181029T125504/OBpRR8bvnktAO0T7wvw2QA==", 
+  "record_id": "20181029T132210/OBpRR8bvnktAO0T7wvw2QA==", 
   "publisher": "blogspot.co.uk", 
   "start_date": null, 
   "subject": null
 }
-
-# Total flanker: a rugby blog
 
 live rugby blog

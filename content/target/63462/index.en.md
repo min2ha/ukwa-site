@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberdeen Unitarian Church
-
 Site of a Unitarian church in Aberdeen.

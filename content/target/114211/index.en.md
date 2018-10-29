@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# QuakerInfo.com
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Robertson (JohnRobertsonMP) on Twitter
-
 The twitter profile of John Robertson, Labour Parliamentary Candidtae for Glasgow North West.

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Borras Park Albion FC
-

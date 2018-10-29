@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Balham Comedy Festival, The
-
 Website for Banana Cabaret's Balham Comedy Festival.

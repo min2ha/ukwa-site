@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories and Labour ignore new UK political landscape at their peril
-
 None

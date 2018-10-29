@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Christine Jardine, Scottish Liberal Democrats on Twitter
-
 Twitter profile of Christine Jardine, Scottish Liberal Democrat candidate for Edinburgh West in the 2017 general election.

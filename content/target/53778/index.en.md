@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Giles Watling (Conservative Politician)
-
 Giles Watling stood as Conservative candidate for Clacton at the 2017 general election and was elected MP. He originally stood in 2015, but was not elected.

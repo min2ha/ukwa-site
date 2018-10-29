@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# European Federalist Party - UK Chapter on Twitter
-
 None

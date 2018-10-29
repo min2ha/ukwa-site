@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Louise Hughes (Independent candidate for Dwyfor Meirionnydd)
-

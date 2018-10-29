@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Polish Social and Cultural Association (POSK)
-
 Polish Social and Cultural Association (POSK) is an organisation for the Polish community and promoting Polish culture in the UK.

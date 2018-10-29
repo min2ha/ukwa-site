@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Scott Group Limited
-
 Scott Group Limited is an industrial supplies company that manufactures a range of goods for industrial and manufacturing markets in Europe. The company was formed in 1987 and is based in Dunfermline.

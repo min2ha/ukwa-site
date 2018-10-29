@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary’s, Ely
-
 St Mary's is part of the Church of England but our members come from all backgrounds. 

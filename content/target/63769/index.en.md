@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Bristol Pro Choice (@BristolRepeal8) on Twitter
-
 A Bristol collective of pro choice Irish diaspora and comrades, coming together to work against anti abortion laws and towards the repeal of the 8th Amendment in the Republic of Ireland.

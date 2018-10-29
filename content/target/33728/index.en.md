@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: David Cameron’s threat to leave EU is security risk, says Keir Starmer
-

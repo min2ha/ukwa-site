@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Powerforce
-
 Powerforce is part of Advantage Smollan, a provider of innovative outsourced sales and marketing solutions for consumer goods companies and retailers

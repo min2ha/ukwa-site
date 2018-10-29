@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: NI Chamber of Commerce: Majority of surveyed members favour EU
-

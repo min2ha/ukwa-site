@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Turning the Tide
-
 Turning the Tide is a social action training programme. We offer a range of workshops and resources, and all our work is focused on supporting nonviolent social change at the grassroots. 

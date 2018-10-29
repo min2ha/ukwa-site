@@ -10,6 +10,4 @@
   "start_date": "2016-04-04T10:00:00Z"
 }
 
-# Wick Heritage
-
 Site of a heritage society based in Wick, Caithness, Scotland, concerned with maintaining the architectural development of the town, while running a museum and art gallery.

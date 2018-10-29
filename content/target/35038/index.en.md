@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Institute of International and European Affairs
-
 The IIEA is Ireland’s leading think tank on European and International affairs.  Its extensive research programme aims to provide its members with high-level analysis and forecasts of the challenges on the global and EU policy agendas which impact on Ireland. It acts as a catalyst for new thinking, new solutions and policy options, which give its members from the private and public sector a significant competitive advantage.

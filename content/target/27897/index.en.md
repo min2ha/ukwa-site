@@ -10,6 +10,4 @@
   "start_date": "2015-06-12T09:00:00Z"
 }
 
-# Faculty of Law, University of Cambridge
-
 Official website of the Faculty of Law, University of Cambridge.

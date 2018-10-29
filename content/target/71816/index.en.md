@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Biology Week
-
 Sees events take place all over the world that celebrate biology, get more people involved and aware of the subject, and encourages as many people as possible to embrace their enthusiasm for the subject.

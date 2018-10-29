@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Boris Johnson likens Irish border challenge to congestion charge
-
 In an interview on the Today programme, Boris Johnson likened the challenge of avoiding a hard border in Northern Ireland to the boundaries between different boroughs of London.
 

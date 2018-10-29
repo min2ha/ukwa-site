@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kieran McGuckin  (k3mgu) on Twitter
-
 <p>The twitter profile of athlete Kieran McGuckin, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Acquire Community Choir
-
 Acquire was was founded in July 2010 and is a mixed-voice community choir based in Rhuddlan. 

@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Sky Sports: Catriona Matthew: I have a good chance to win at Rio Olympics | Golf News
-

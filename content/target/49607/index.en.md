@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Metro  
-
 METRO is anequality & diversity charity, providing health, community & youth services across London & the South East & national & international projects.

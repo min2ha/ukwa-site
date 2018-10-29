@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guildford Book Festival
-
 Guildford Book Festival

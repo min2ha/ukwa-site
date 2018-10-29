@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Euro Probe
-
 The Euro Probe is the personal blog of Mick Greenhough, UK Independence Party candidate for Aberdeen North.

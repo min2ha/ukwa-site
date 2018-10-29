@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Pottermore
-
 Pottermore is the digital publishing, e-commerce, entertainment and news company from J.K. Rowling. The website was built to extend the Harry Potter brand online and sell e-book editions of the original seven titles. 

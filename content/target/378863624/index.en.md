@@ -10,5 +10,3 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# De Cymru Comisiynydd Heddlu a Throsedd | South Wales Police and Crime Commissioner
-

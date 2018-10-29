@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Edinburgh University Rugby Football Club
-
 Site of a Scottish rugby union football club based in Edinburgh, part of University of Edinburgh students' union, and selected from the undergraduate student body.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Gaer Christian Fellowship, Newport
-

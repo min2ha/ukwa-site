@@ -10,6 +10,4 @@
   "start_date": "2015-11-09T09:00:00Z"
 }
 
-# Boris Watch
-
 Blog exposing the dark side of the Boris Johnson publicity machine run by Tom Barry.

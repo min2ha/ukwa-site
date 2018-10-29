@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T11:00:00Z"
 }
 
-# TIMBUS Project
-
 European Commission-funded project TIMBUS, including project deliverables and information about new software created to support the integration of digital preservation and business continuity.

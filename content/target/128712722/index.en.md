@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alcohol Learning Centre
-
 None

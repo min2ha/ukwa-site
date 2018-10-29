@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# Calan Band
-
 Calan are a traditional Welsh music folk band.

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Glasgow North West & Clydebank Scottish Socialist Party (SSP) on Facebook
-

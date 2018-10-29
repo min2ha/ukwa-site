@@ -10,5 +10,3 @@
   "start_date": "2017-09-13T09:00:00Z"
 }
 
-# History of Place
-

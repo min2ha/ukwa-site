@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jessica Morden (@jessicamordenmp) on Twitter
-
 Labour Candidate for Newport East.

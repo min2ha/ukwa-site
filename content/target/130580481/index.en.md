@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Lincolnshire
-
 None

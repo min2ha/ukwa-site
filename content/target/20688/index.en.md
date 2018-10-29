@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derek Wann | For Angus South
-
 Derek Wann was formerly the Scottish Conservative and Unionist Party candidate for Angus South constituency in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ardchattan Parish Church
-
 Ardchattan Parish Church serves the communities of Benderloch, Bonawe, Barcaldine, North Connel and surrounding areas. There are two churches in the Parish; Ardchattan Kirk, and St Modan's.

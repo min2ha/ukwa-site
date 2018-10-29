@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# United Kingdom Sibelius Society
-
 Founded in 1984, the United Kingdom Sibelius Society seeks to encourage the enjoyment and understanding of composers. The Society publishes a regular Newsletter with articles, record reviews, forthcoming concert programmes and other items of interest. The Society funds and hosts concerts, mainly in London.

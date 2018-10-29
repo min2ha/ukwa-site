@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Alyn Smith (Scottish Nationalist MEP for Scotland)
-
 Alyn Smith was elected to the European Parliament for the first time in 2004 and has been re-elected twice in the SNP victories in the 2009 and 2014 elections. He is a member of the SNP's National Executive Committee

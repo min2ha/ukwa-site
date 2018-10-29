@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Albert Square and St Stephen's Association
-

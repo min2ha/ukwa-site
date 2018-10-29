@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Gwyn Price (Labour Assembly Member for Islwyn)
-
 Gwyn Price is the Labour AM for Islwyn. He is retiring at the 2016 National Assembly Elections.

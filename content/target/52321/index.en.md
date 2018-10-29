@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Battlefield Partnerships (BfP)
-
 Battlefield Partnerships (BfP) is formed from a core team of military historians whose aim is to bring the true experience of the past to life for all.

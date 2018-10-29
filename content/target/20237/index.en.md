@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# Gay in the 80s
-
 Website dedicated to the LGBT community. It also contains the content of now vanished Gay East Midlands website.

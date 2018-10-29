@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: We've changed our view on immigration, says Miliband but Labour STILL won't set a cap on numbers allowed to come to UK
-
 None

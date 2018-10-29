@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swindon Town Football Club
-
 Swindon Town Football Club is a professional football football club in Swindon, Wiltshire, England. Founded as Swindon AFC in 1879, they became Spartans in 1880 and Swindon Town in 1883.

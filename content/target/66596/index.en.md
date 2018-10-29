@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Cameron Motor Group Limited
-
 The website of Cameron Motor Group Limited, a Perthshire-based motor trader and repairs and parts group. 

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Bangor City FC
-

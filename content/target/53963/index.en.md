@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Maureen Martin (@Maureen_cpa) on Twitter (Christian Peoples Alliance Politician)
-
 Maureen Martin stood as Christian Peoples Alliance candidate for Lewisham East in the 2017 General Election but was not elected.

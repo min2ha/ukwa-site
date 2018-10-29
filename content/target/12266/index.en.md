@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Holly Lawrence Pro Triathlete
-
 <p>The website of triathlete Holly Lawrence, member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

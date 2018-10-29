@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: London will thrive in or out the EU, major report for Boris Johnson finds as Mayor's economic adviser says there are just as many risks to staying IN the EU as a Brexit 
-

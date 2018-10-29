@@ -10,6 +10,4 @@
   "start_date": "2016-07-29T10:00:00Z"
 }
 
-# New Pathways
-
 New Pathways was established in Merthyr Tydfil in 1993 and provides a range of specialist counselling and advocacy services for women, men, children and young people who have been affected by rape or sexual abuse.  

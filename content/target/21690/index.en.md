@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour and Tory campaigns see election as a simple two-way choice
-
 None

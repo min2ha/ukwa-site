@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# Constitutional Law Discussion Group
-
 The University of Edinburgh Constitutional Law Discussion Group.

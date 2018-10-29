@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Peter Black
-
 Peter Black is former Welsh Assembly Member and now is Welsh Liberal Democrats Councillor for Cwmbwrla Ward, City and County of Swansea

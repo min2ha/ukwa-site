@@ -10,6 +10,4 @@
   "start_date": "2018-03-21T09:00:00Z"
 }
 
-# Astro Cosmic Terran Association
-
 Site of an organisation established to to promote scientific knowledge and education, particularly in regard to  space science, the Earth sciences, and astronomy, including ancient and historic astronomy, among beginners of all backgrounds and ages, in Scotland and beyond, and to encourage interest and practical activities in those subject areas at all levels of involvement.

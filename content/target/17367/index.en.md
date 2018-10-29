@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Campaign for Real Education: An Education Manifesto for the 2015 general election
-
 The Campaign's main objectives are to raise standards and improve choice in state education.  It is non profit-making and is not affiliated to any political party.

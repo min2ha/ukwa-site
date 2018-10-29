@@ -10,6 +10,4 @@
   "start_date": "2017-04-29T09:00:00Z"
 }
 
-# Inside the Welsh Premier League
-
 Inside the Welsh Premier League is a Welsh football blog by South Wales-based reporter Matthew Burgess.

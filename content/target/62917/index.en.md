@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Ireland’s border is a problem it can’t afford to leave unsolved
-

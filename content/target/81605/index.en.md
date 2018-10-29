@@ -10,6 +10,4 @@
   "start_date": "2018-10-18T09:00:00Z"
 }
 
-# Droch Bheul
-
 Blog about alternative music and minority cultures in Scottish Gaelic and English.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T11:00:00Z"
 }
 
-# Shrewsbury House School
-
 Shrewsbury House is an independent day preparatory school for boys aged 7 to 13, in Surbiton, Surrey, England.[3] Established in 1865 it is one of England's oldest boys' Preparatory Schools.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Industrial Power Cooling (IPC)
-
 (IPC) are predominantly a sales, marketing, design and project engineering management organization that has associations with Europe's finest Heat Exchanger and Air Cooler manufacturers supplying to many industries including, Power Generation, Energy, Oil & Gas, Petrochemical, Refinery and General Process.

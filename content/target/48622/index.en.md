@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Cunning or clueless? Europe reacts in Brexit bout with May
-
 Following Theresa May's Lancaster House speech in January 2017,  there was a sense in Strasbourg in the European Parliament that a phase in a kind of phoney war has finally ended and after months of speculating about what Britain might or might not want, a degree of clarity had emerged about British ambitions towards the single market and to a lesser extent the custom unions

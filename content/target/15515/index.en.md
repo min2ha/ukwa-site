@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Wales Arts Review
-
 <p>Wales Arts Review is an online arts magazine and covers theatre, books, films and music as well as live events and the visual arts from Wales. It ceased publication at the end of 2014.</p>

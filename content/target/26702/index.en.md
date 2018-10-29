@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Where the votes switched – and why: the key lessons for the parties
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NI Direct: Elections
-
 An overview of elections in Northern Ireland and up to date information on the 2017 Assembly Election.

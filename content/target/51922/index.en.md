@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Edmund's Church, Crickhowell
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS North East Essex CCG
-
 None

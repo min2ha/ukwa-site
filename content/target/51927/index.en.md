@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Diocesan Service Team for the Catholic Charismatic Renewal in Cardiff, Wales
-

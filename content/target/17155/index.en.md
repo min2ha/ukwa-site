@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: The pub landlord Al Murray backs party FUKP against 'Mr Farridge' in Thanet South
-

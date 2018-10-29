@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Construction & Development Partnership: Latest News and Events
-
 None

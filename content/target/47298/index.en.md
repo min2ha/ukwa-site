@@ -10,5 +10,3 @@
   "start_date": "2016-11-23T09:00:00Z"
 }
 
-# Merchant Navy Association (Wales)
-

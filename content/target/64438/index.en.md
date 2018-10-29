@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women's Aid Federation Northern Ireland
-
 Women’s Aid is the lead voluntary organisation in Northern Ireland addressing domestic and sexual violence and providing services for women and children.

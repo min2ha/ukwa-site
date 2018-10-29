@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Monmouthshire Moth & Butterfly Group (MMBG)
-
 <p>Monmouthshire Moth &amp; Butterfly Group (MMBG) is for those with an interest in moths and butterflies in Monmouthshire.</p>

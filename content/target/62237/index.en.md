@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Lodge Dalkeith Kilwinning No. 10
-
 Site of a masonic lodge located in Dalkeith, Midlothian and affiliated with the Grand Lodge of Scotland.

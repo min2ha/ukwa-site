@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 23rd Nov. 2016: Autumn Statement
-
 The Autumn Statement provides the Chancellor, Philip Hammond, an opportunity to update MPs on the Government’s plans for the economy based on the latest forecasts from the independent Office for Budget Responsibility (OBR).

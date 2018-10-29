@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dame Anne Begg MP
-
 The website of Dame Anne Begg MP, Labour member of Parliament for Aberdeen South.

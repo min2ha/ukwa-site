@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Scottish Craft Brewers
-
 Site of a group of amateur brewers from throughout Scotland with shared aims - to further the development of craft brewing; to inform and educate its members; to provide mutual support and friendship; to help beginners to progress from kits to full mash brewing; to organise interesting and useful events; to recommend the best suppliers and most useful books

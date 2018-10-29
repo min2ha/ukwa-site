@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Darlington LINk
-
 None

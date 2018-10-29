@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T11:00:00Z"
 }
 
-# Sainsbury's Living Archive
-
 The Sainsbury Archive is an independent charitable trust and since 2005 has been held at the Museum of London Docklands, near Canary Wharf in London.

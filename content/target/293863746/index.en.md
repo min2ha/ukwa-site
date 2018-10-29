@@ -10,5 +10,3 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# Contemporary Art Society for Wales | Cymdeithas Gelfyddyd Gyfoes Cymru
-

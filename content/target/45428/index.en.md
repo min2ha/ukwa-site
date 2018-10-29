@@ -10,6 +10,4 @@
   "start_date": "2016-09-16T10:00:00Z"
 }
 
-# Duncan Bush
-
 Poet, novelist, dramatist, translator, documentary writer and former Wales Book of the Year Award.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-30T09:00:00Z"
 }
 
-# Dorothy Dunnett Society
-
 Site of a society established to discuss and promote the works of historical novelist Dorothy Dunnett.

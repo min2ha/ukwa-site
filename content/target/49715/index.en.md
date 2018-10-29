@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Action on Depression
-
 Site of an organisation established to research, campaig, raise awareness and deliver frontline services to tackle depression throughout Scotland.

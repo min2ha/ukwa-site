@@ -10,6 +10,4 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Scythe Cymru
-
 A scythe is an agricultural hand tool for mowing grass or reaping crops largely been replaced by horse-drawn and then tractor machinery. The technique is still in use in some parts of Europe. Scythe Cymru was set up in 2005. 

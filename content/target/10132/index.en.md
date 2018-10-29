@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scientists for Labour: A Commentary on Scottish independence—what it may mean for science, engineering and technology (SET) and higher education (HE)
-
 <p>Scientists for Labour is a Socialist Society affiliated to the Labour Party and is open to members or supporters of the Labour Party who are interested or involved in UK science and technology.</p>

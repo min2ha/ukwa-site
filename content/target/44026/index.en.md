@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Vote Leave's campaign website is rebuilt for posterity
-
 After the campaign wiped its homepage, an independent developer recreated it.

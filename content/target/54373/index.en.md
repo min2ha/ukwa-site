@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Beagle Club
-
 Although Beagles had been used for several centuries for hunting in Southern Europe and Britain, it was not until the late 19th century they were exhibited at dog shows in this country. However, there was no organisation for either of these activities, so in 1890 The Beagle Club was formed to promote the breeding of Beagles for sport and show purposes. In 1891 the Association Masters of Harriers and Beagles was formed to regulate hunting activities.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-03T09:00:00Z"
 }
 
-# Ice Hockey UK
-
 Ice Hockey UK (IHUK) is the national governing body of the sport of ice hockey in the United Kingdom.

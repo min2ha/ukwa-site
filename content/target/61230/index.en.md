@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Committee of Public Accounts: Exiting the European Union
-
 The Public Accounts Committee report says Government departments have to face up to some hard choices as they handle Brexit. Departments already have a lot to deliver besides Brexit and need to prioritise, including stopping some projects to make room for essential Brexit work—which is at least 313 areas of work.
 

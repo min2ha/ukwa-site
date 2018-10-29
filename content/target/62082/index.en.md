@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Stadium MK
-
 Stadium MK is a football ground in the Denbigh district of Bletchley in Milton Keynes, Buckinghamshire, England. Designed by Populous, it is the home ground of EFL League One side Milton Keynes Dons F.C.

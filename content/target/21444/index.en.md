@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Osborne pins hopes on £6bn budget windfall to regain momentum in polls
-
 None

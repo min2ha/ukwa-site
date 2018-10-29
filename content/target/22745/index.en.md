@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jamie McMahon (@JamieSMcMahon) on Twitter (Labour candidate for North West Leicestershire)
-

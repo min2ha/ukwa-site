@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: George Osborne pleads competence or chaos as he tries to rubbish Labour
-
 None

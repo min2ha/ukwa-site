@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Practice Managers Association (PMA)
-
 The Practice Managers Association (PMA) is a UK-wide membership body that provides insight, training, education and interaction opportunities for those involved in General Practice. Its membership comprises Practice Managers, General Practitioners, Practice Business Managers, Nurse Practitioners, Pharmacists, Dentists and many other practice staff – all working in partnership. It seeks to facilitate and promote best practice amongst its members.

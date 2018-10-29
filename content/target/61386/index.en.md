@@ -10,6 +10,4 @@
   "start_date": "2018-02-17T09:00:00Z"
 }
 
-# Archaeodeath: The Archaeology and Heritage of Death and Memory
-
 'Archaeodeath: The Archaeology and Heritage of Death and Memory' is the blog of blog of archaeologist Professor Howard Williams of University of Chester. The blog focus on new ideas and discoveries in the world of archaeology and on mortuary archaeology.

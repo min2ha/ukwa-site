@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May: I have full support of cabinet
-
 Theresa May said she had the "full support of her cabinet" after former party chairman Grant Shapps said there should be a leadership contest.

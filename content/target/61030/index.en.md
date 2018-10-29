@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cú Chuláinn's GAC Newcastle Upon Tyne (@toongael) on Twitter
-
 GAA, Men’s Gaelic Football, Hurling, Ladies Gaelic Football, Cú Chuláinns GAC, Newcastle upon Tyne, Tír na nÓg LGFA

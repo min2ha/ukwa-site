@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Tearfund: Nelson Mandela: From Prisoner to President
-
 None

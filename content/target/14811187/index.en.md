@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Business Opportunities and Ideas
-
 None

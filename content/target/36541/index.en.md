@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Napo
-
 The Trade Union, Professional Association and campaigning organisation for Probation and Family Court staff.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Grayling (Conservative)
-
 Official website of Chris Grayling, a Conservative MP for Epsom & Ewell. He was elected in the 2001, 2005, 2010 and 2015 General Election.

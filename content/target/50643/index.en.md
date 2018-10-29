@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Dewar's
-
 Site of a whisky distillery, visitor centre and their product, located at Aberfeldy, Perthshire.

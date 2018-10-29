@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Steve Bell on televised election debates and 'green crap' — cartoon
-

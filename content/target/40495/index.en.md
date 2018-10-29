@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Publishing Scotland
-
 Site of a representative trade body for publishers in Scotland.

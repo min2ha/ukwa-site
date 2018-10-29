@@ -10,6 +10,4 @@
   "start_date": "2016-09-22T10:00:00Z"
 }
 
-# Graffeg
-
 Graffeg is a book published based in Cardiff.

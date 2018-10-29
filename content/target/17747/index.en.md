@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Ed Miliband confronted by disgruntled factory worker: 'They're all leaning towards Ukip'
-
 None

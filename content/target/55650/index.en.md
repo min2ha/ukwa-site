@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Ffi Jones Writer and Illustrator
-
 Ffi Jones is a writer and illustrator of children's books from Beaumaris, Wales.

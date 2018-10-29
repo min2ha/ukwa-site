@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Boris Johnson: Eurosceptic success due to 'peasants' revolt'
-
 None

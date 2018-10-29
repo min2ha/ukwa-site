@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rachael O'Donnell (RODsster) on Twitter
-
 <p>The twitter profile of althete Rachel O'Donnell, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

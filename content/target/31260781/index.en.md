@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Lecale and Downe Historical Society
-
 None

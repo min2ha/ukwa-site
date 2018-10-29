@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Global Law Summit: Breakfast session: Magna Carta principles and the fight against terror
-

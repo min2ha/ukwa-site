@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Mildenhall & Red Lodge RUFC on Pitchero
-
 The official website of Mildenhall & Red Lodge Rugby Football Club. The Eagles are a newly formed club (2007) bringing social rugby to the local community.

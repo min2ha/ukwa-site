@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jillie Cooper (jilliecooper) on Twitter
-
 <p>The twitter profile of althete Jillie Cooper, badminton player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

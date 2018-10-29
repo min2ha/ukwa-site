@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alison Johnstone (AlisonJohnstone) on Twitter
-
 The twitter profile of Alison Johnstone, Scottish Green Party Member of the Scottish Parliament for Lothian.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# RoadPeace
-
 RoadPeace is the national charity for road crash victims

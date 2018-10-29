@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sherpa-Leap: the London E-prints Access Project
-

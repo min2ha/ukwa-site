@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Jewish News: EU referendum
-

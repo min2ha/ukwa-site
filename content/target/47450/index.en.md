@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# Reach
-
 Advice for young people having a hard time at school.

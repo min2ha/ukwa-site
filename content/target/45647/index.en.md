@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Britain’s universities depend on open borders – Brexit has us all worried
-

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Nick Ramsay on Facebook (Conservative candidate for Monmouth)
-
 Nick Ramsay is the Conservative Assembly candidate for Monmouth at the 2016 National Assembly for Wales election.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Cricket Paper
-
 The Cricket Paper is the UK's number one selling cricket title, covering the game from Test arena down to village green. 

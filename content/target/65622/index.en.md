@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Our Words
-
 Website of a project that collects, transcribes and publishes online those quiet and sometimes hidden voices that make up our social history, a resource for future generations, validating working experiences and promoting information that can inform policy for change.

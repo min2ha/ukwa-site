@@ -10,6 +10,4 @@
   "start_date": "2013-12-11T18:00:00Z"
 }
 
-# Covent Garden Memories
-
 None

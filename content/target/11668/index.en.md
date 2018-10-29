@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Jamieson (@mj88live) on Twitter
-
 <p>The official twitter profile of athlete Michael Jamieson, swimmer and member of Team Scotland at the Glasgow 2014 Commonwealth Games.</p>

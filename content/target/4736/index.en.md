@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Green Party mourns the loss of Nelson Mandela
-
 <p>A statement made on the passing of Nelson Mandela by Dr Derek Wall, International Co-ordinator of the Green Party of England and Wales, on 6 December 2013.</p>

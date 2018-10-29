@@ -10,6 +10,4 @@
   "start_date": "2016-09-20T10:00:00Z"
 }
 
-# First Sports (FSI)
-
 First Sports (FSI) is a provider of sports software products & consulting services worldwide offering business and technology “best practices” to sports federations, governing bodies, clubs, colleges and participant organisations of all sizes. 

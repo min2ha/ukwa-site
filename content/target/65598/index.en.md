@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# GE Oil & Gas
-
 GE Oil & Gas is a company which supplies equipment for the global oil and gas industry. The company is part of the American multinational conglomerate corporation General Electric.

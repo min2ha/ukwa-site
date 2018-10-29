@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liam Mclaughlan (@LiamMcLaughlan) on Twitter
-
 The Twitter profile of Liam Mclaughlan, the Scottish Socialist Party candidate for Glasgow East in the UK General Election on the 7th May 2015.

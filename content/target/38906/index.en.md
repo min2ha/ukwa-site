@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Health and Social Care Alliance Scotland (ALLIANCE)
-
 The Alliance is a the Scottish national third sector intermediary for a range of health and social care organisations.

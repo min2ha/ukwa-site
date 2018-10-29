@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Evening Times: Scots swimmer Camilla Hattersley amazes herself by making it to Rio 2016
-

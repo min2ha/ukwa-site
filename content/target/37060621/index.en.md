@@ -10,6 +10,4 @@
   "start_date": "2013-04-08T13:00:00Z"
 }
 
-# Nursing and Midwifery Council
-
 <p>Regulators and Central Government</p>

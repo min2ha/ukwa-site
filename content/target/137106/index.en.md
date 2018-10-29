@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# Alzheimer's Society
-
 Alzheimer's Society believe passionately that life doesn't end when dementia begins. They offer support for anyone affected by dementia, and do everything they can to keep people with dementia connected to their lives and the people who matter most.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour pledge to cut tuition fees is stupid, Lib Dem Ed Davey claims 
-
 None

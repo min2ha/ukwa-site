@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Nicholls (@DavidClwydSouth) on Twitter 
-
 Conservative Prospective Parliamentary Candidate for Clwyd South.

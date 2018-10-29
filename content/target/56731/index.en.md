@@ -10,5 +10,3 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Guardian, The: The Guardian view on the single market: a viable Brexit path
-

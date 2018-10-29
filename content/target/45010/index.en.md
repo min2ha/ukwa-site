@@ -10,5 +10,3 @@
   "start_date": "2016-08-12T11:00:00Z"
 }
 
-# Gwent Branch of the National Association of Retired Police Officers (NARPO) 
-

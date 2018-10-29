@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# ganfyd.org: Ebola virus
-
 <p>An article on Ebola on Ganfyd.org a free medical knowledge base that anyone can read and any registered medical practitioner may edit.</p>

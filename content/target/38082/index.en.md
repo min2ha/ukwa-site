@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chelsea & Fulham IN (@StrongerInC&F) on Twitter
-
 Chelsea and Fulham local campaign for the UK to stay in the EU

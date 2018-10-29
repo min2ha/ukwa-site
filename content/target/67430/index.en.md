@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Compello Staffing Group
-
 Website of a Glasgow-based company that provides staffing and recruitment services. 

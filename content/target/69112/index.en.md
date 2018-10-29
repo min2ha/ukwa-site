@@ -11,8 +11,6 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# HMS Warrior 1860
-
 Britain’s first iron-hulled, armoured battleship.
 
 Launched in 1860, at a time of empire and Britain’s dominance in trade and industry, Warrior was the pride of Queen Victoria’s fleet.

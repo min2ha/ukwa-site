@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Reality check: is David Cameron promising schools more cash or less?
-
 None

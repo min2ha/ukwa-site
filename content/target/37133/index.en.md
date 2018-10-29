@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wales Online: DVLA staff told not to criticise the EU on Twitter or Facebook ahead of the Referendum
-
 English-language news site focused predominantly on news from across Wales, with additional news articles from the UK, EU, and around the world.

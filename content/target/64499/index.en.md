@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Brecknock & Radnor Sports Partnership (BRSP)
-
 The Brecknock & Radnor Sports Partnership (BRSP) was established in 2010 and provides services to clubs, schools and any organisation involved with sport and physical activity in Brecknock & Radnor. 

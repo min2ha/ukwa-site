@@ -11,5 +11,3 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Institute of Development Studies: Ebola Lessons for Development
-

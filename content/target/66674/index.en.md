@@ -10,8 +10,6 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Deuair
-
 Deuair is Elsa Davies and Ceri Owen-Jones: fiddle, harp & two voices and means literally 'two words', an old Welsh poetic form and measure. Their intent is to learn and interpret rare local songs and stories from fellow musicians and old manuscripts.
 
  

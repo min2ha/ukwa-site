@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Christian People's Alliance on Facebook
-
 None

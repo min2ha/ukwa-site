@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Skye Birds
-
 Site detailing the bird life of the Isle of Skye, Highland, Scotland, providing information on species and where best to go to watch.

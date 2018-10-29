@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Smartphone addiction causes an imbalance in the brain that makes people tired and anxious, study finds.
-
 News article about recent studies that shows people who are addicted to their smartphones and the impact this has on their brains

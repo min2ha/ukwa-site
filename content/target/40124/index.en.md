@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Village Life in Wartime
-
 Project to extend knowledge, enhance understanding and develop appreciation of the impact of World War I on life in the villages of Stibbington and Wansford in north west Cambridgeshire.

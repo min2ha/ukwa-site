@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Midlands Strategic Health Authority
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Liberal Democrats trail Ukip and Plaid Cymru in Wales in latest UK election poll
-
 None

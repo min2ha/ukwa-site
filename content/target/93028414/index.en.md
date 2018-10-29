@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# L'Echo, le magazine des familles francophones de Londres
-
 A french website based in London. In February 2017 the URL was changed to http://www.lechomagazine.uk/.

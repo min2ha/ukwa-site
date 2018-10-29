@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Donald Trump and Theresa May meet amid Brexit storm
-
 Theresa May and Donald Trump held talks at her country retreat Chequers, following his controversial comments on the PM's Brexit plan.in an intervew with the Sun
 

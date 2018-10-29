@@ -10,6 +10,4 @@
   "start_date": "2015-03-27T09:00:00Z"
 }
 
-# Institute of Composing
-
 The Institute of Composing aims to address the critical issues of making new music in the 21st century, from the viewpoints of composer, performer, technologist, writer and audience.

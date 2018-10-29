@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Qriously: How the Jo Cox Murder could influence the outcome of the EU referendum
-
 Blog post showing the difference between voter opinions before and after the murder of Jo Cox. Concluded that, based on the opnion polls, people who origonally planned to vote leave were unsure after Jo Cox's death

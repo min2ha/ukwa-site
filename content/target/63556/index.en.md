@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Uphall South Parish Church
-

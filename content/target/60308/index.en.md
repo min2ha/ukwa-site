@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Ordinance Collectors Network Forum 
-
 An online enthusiast community concerned with inert ordnance collecting. Discusses collecting inert bombs, projectiles and other military ordnance. Includes sections for sales and swaps, a wanted items and film reviews.

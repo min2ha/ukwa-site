@@ -11,5 +11,3 @@
   "subject": "Fashion"
 }
 
-# Welcome to Shwl Di Mwl
-

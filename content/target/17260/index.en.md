@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Michael Gove warns of Labour-led 'Frankenstein administration' with SNP
-

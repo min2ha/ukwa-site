@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Theatr Gwaun
-
 Theatr Gwaun is a community cinema and theatre in Fishguard, Pembrokeshire.

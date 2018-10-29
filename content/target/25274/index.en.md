@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Critics claim Labour are playing with Britain's security to ensure the backing of the SNP
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Irish Times, The: Scottish independence: the debate in books
-
 None

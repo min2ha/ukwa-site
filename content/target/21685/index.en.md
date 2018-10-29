@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jack Monroe and electoral Labour pains
-
 None

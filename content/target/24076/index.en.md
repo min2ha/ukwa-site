@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: What might be in the prime minister's in-tray?
-
 None

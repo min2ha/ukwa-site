@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Ministers warn May not to skirt controversial Brexit issues at Chequers 
-
 Theresa May's fractious and divided cabinet ministers warned her not to omit controversial issues such as freedom of movement and trade in services from the discussions on the UK's future partnership with the EU at Chequers on July 6th 2018.

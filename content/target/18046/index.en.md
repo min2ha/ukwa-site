@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mari Williams
-
 Mari Williams is the Labour prospective parliamentary candidate for Cardiff North.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# CORE - Cumbrians Opposed to a Radioactive Environment
-
 Welcome to CORE’s website which brings you the latest developments at Sellafield, its nuclear fuel reprocessing operations and associated issues which include radioactive discharges to the environment, health detriment, plutonium and waste production and management and the nuclear materials transports that support the system.

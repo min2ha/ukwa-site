@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Logie and St John's (Cross) Church
-

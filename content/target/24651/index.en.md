@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP Wales leader Nathan Gill: Climate change not man made
-
 None

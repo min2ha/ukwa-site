@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cornelius Trust, The
-
 Website of The Cornelius Trust, a charity which supports Christians and Christianity in the British Armed Forces.

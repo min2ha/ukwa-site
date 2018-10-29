@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Marchwiel Community Council
-
 Marchwiel is a village located outside Wrexham.

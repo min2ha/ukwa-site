@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# James Jones & Sons Limited
-
 James Jones & Sons Limited is a manufacturer and marketer of timber products. 

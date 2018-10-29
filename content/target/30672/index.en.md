@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Bristol Old Vic Theatre School 
-
 The Bristol Old Vic Theatre School was opened in 1946 by Laurence Olivier as a training school for the Bristol Old Vic Company. 

@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# Tigray Development Association (UK)
-
 Tigray Development Association (UK) was established in 1989 by Tigrayans living in the UK with the aim of contributing to the rehabilitation of Tigray region and raising awareness among the British public concerning issues of the region's developmental endeavours.

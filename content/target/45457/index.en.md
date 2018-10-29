@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# What is a TUE? 11 key questions on the Fancy Bears Wada leaks
-
 All the main questions regarding the World Anti-Doping Agency’s hacked files, therapeutic use exceptions and how athletes could find a way round the system.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Sangstream
-
 Site of a a Scots folk choir based in Edinburgh.

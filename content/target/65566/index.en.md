@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Gellet Society
-
 Site of a local history and heritage group for Charlestown, Limekilns and district, Fife.

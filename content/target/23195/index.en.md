@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kapil's Khichadi: GE2015 – The Mathematics
-
 A blog run by Kapil Dudakia. He is a guest columnist with Asian Voice, his column is called 'Kapil's Khichadi' which is the same as the blog. The blog deals with any and all sectors affecting society. It is a personal analysis of British politics, the public sector, education, health, elderly care and equalities in its wider relevance to society.

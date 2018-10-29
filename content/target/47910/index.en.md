@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# Skye and Lochalsh Council for Voluntary Organisations
-
 Site of a voluntary co-ordination organisation established to promote the general good of the community of Skye & Lochalsh by assisting the work of statutory bodies and voluntary organisations engaged in advancing education, developing resources, furthering health, relieving proverty, distress, sickness and to work with the network of local community councils providing support and co-ordination alongside statutory bodies.

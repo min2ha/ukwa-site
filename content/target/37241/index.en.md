@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SKY News: Boris Clashes With Hammond Over Obama And EU
-
 SKY News: Boris Clashes With Hammond Over Obama And EU

@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Coliseum Theatre, The
-
 The Coliseum Theatre is in Aberdare.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T08:00:00Z"
 }
 
-# New Scientist: Climate Change
-
 Special climate change topic page of the New Scientist magazine website.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Commons vote must be 'unequivocal', says Raab
-
 In a letter to the Commons Procedure Committee, Dominic Raab suggested that MPs would have the options of voting on whatever Brexit deal the Prime Minister had negotiated and No Deal. There would be no option to mandate a second referendum

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: If the polls don't change, Ed Miliband will be PM – video
-
 None

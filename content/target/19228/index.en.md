@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire County Council: Magna Carta vault major landmark for Lincoln Castle Revealed
-

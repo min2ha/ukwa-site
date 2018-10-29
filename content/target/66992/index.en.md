@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# An t-Ubhal-ghort – Naidheachdan teicneòlais sa Ghàidhlig!
-
 Technology news in Scottish Gaelic.

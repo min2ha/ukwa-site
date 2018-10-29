@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Calderwood Lodge Primary
-
 Site of a Jewish nursery and primary school located in East Renfrewshire.

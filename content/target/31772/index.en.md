@@ -10,6 +10,4 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Culture Counts
-
 Scotland-wide advocacy network that promotes culture across Scotland.

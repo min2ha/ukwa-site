@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Churches Around Knighton - East Radnor Benefice
-

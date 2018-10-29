@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Bullets and bombs fail to faze MP in crucial East Belfast seat
-
 None

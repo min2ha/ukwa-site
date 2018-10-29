@@ -10,5 +10,3 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Christian Today
-

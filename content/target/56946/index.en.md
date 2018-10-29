@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Retina : Scottish International Photography Festival
-
 Site of an annual festival of photography based in Edinburgh.

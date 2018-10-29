@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# CAFOD
-
 <p>CAFOD is the official aid agency of the Catholic Church in England and Wales and part of Caritas International.</p>

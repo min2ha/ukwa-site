@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Snowsport Scotland
-
 Site of the national governing body for snowsports in Scotland representing snowsports clubs, professionals and competitors on pathways, from grass roots participation to high performance sport.

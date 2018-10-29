@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Constitution Unit, University College London (UCL)
-
 The UCL Constitution Unit is responsible for a series of detailed monitoring reports which look at the progress of the devolution settlement in constituent parts of the UK, it also publishes and annual survey “State of the nations”.

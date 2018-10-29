@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Alternautas
-
 Alternautas is an academic blog created by a group of young scholars dedicated to critically discussing development from a Latin American perspective.

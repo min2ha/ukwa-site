@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Community Development Alliance Scotland
-
 Site of a Scottish organisation uniting networks and organisations in Scotland to promote policy and to facilitate and raise the standards of community development practice that supports community development.

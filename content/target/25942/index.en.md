@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: EU referendum will play havoc with business, Ed Miliband warns
-
 None

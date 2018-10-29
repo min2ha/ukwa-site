@@ -10,6 +10,4 @@
   "start_date": "2018-04-04T09:00:00Z"
 }
 
-# Irish in Britain (@irishinbritain) on Twitter
-
 Irish in Britain is a registered charity, created for the Irish community with the aim of making a difference to the lives and experiences of Irish people across Britain.

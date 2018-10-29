@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stoke Fleming Parish
-
 Stogumber is a picturesque but thriving village set in a valley between the Quantock and Brendon Hills in West Somerset. 

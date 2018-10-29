@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Scottish Critical Heritage
-
 A collaborative political blog. "Scottish Critical Heritage aims to draw together researchers and practitioners from across disciplines and cultural practices to offer new critical perspectives on Scotland’s political, cultural and literary heritage."

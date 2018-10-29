@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Journal.ie, The: Abortion
-
 A sub section of The Journal.ie about abortion in the run up to the Eight Amendment referendum in the Republic of Ireland on the 25th of May 2018.

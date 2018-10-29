@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Local Government Association: Briefing, Leaving the European Union
-
 This briefing offers a framework for local government’s own discussions in order to help prioritise those issues that are most important to councils following the vote to leave the EU..

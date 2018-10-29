@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# ICE Wales Manifesto for infrasture in Wales 2016: Prosperity, growth and jobs
-

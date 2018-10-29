@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Paul Phillips (@Paul_Phillips_) on Twitter (TUSC candidate for Newcastle upon Tyne East)
-

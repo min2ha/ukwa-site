@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Cameron's 'final offer' for election tv debates
-
 None

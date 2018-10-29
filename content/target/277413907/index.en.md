@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cardiff University: Elections in Wales 
-
 Blog on Elections, Voting and Political Representation in Wales from Roger Scully of Cardiff University's Wales Governance Centre.

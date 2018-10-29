@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Abortion Rights Edin (@EdinProChoice) on Twitter
-
 Local Edinburgh group affiliated to Abortion Rights UK, a campaigning organisation working to defend and extend women's rights to safe, legal abortion.

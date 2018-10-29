@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# People Before Profit
-
 Lewisham People Before Profit is not a party for careerists seeking power for personal gain. It is not funded by anyone other than its own members.

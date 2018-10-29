@@ -10,6 +10,4 @@
   "start_date": "2013-10-01T00:00:00Z"
 }
 
-# Musicroom
-
 <p>Online shopping website supplying sheet music, books about music, tuition software, musical instruments etc.</p>

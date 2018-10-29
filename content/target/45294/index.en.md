@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Tom Kyffin
-
 A professional illustrator, primarily known for Fantasy paintings.

@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# ePlanning Scotland
-
 A portal for submitting planning applications, notices of review, appeals and other permission needed under planning law to all planning authorities in Scotland.

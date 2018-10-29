@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Melrose and Peebles Presbytery
-
 Site of the Church of Scotland presbytery for the areas of Melrose and Peebles, Scottish Borders.

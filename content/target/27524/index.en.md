@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Russell Brand explains the reason for his no-vote U-turn and admits he decided to back Labour BEFORE his Ed Milliband interview
-
 None

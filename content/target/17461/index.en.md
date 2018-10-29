@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Association for Consultancy and Engineering: Manifesto 2015: Engineering Growth
-
 Newspaper produced for the industry by the Association for Consultancy and Engineering.

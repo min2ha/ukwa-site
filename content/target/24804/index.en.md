@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Angie Bray (Conservative)
-
 Angie Bray stood as Conservative candidate for Ealing Central and Acton at the 2015 General Election but was not re-elected.

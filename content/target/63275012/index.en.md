@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Queen's Diamond Jubilee Beacons, The
-
 None

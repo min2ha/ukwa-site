@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Talbot Masonic Lodge 
-
 Talbot Lodge No.1323 is the second oldest Masonic Lodge in Swansea consecrated in 1870. They meet at the Masonic Temple in the city. The website provides a short introduction and history to the Lodge.

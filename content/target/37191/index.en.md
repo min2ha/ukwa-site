@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: BBC bosses reject MPs' suggestions of bias in EU coverage
-

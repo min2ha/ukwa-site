@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Sooner or later, May and Hammond will have to put Britain before Brexit
-

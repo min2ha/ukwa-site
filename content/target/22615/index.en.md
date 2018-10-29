@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'We'll create a job for everyone that wants one'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Pie and Bovril
-
 Site of a Scottish football fan site containing news and fan forums. 

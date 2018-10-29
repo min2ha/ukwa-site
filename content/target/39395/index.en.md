@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Richard McCready for Dundee City East on Facebook
-

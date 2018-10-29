@@ -10,6 +10,4 @@
   "start_date": "2016-04-13T10:00:00Z"
 }
 
-# Transition Scotland
-
 Site of an organisation working towards and promoting alternatives to fossil fuels and local production throughout Scotland.

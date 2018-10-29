@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cabinet post is a zero-hours contract, not a job, says Boris Johnson
-
 None

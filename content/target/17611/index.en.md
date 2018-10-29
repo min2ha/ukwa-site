@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Voice: Kate Osamor to fight Edmonton seat at general election
-
 None

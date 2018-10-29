@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# David Hughes (@DavidHughesEU) on Twitter 
-
 David Hughes is Head of EU Office in Wales. This is his personal twitter account.

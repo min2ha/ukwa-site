@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 2nd July 2018: European Council
-
 The Prime Minister's statement on the June 2018 European Council meeting was read, followed by questions.

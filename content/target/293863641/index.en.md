@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Kidwelly 900
-
 Kidwelly 900 was established to arrange a year of celebrations during 2015, the year in which we celebrate 900 years of Kidwelly's history.

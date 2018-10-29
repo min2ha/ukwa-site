@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# National Association for Gifted Children (NAGC)
-
 None

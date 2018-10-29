@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Independent: David Cameron Honours list would 'embarrass a medieval court'
-

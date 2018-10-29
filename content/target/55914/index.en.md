@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Wales Start up Awards
-
 The Wales Start-Up Awards, established in 2016, are dedicated to start-ups that have launched in the last three years. The event is sponsored by Nat West Cymru.

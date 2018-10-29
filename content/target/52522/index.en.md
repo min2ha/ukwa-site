@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Warren Fox (Liberal Democrats Politician)
-
 Warren Fox stood as Liberal Democrats candidate for Bolton North East but was not elected.

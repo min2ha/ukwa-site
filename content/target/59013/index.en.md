@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# DoYouRemember.co.uk forums
-
 An online enthusiast community forum concerned with remembering 70s and 80s toys, games, TV, movies, music and culture by utilising the power of collective memory.

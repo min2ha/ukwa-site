@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Charities criticise watchdog's 'gag' on EU campaigning
-
 Guardian, The

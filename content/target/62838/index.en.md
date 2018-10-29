@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ulster Rugby Supporters Club (URSC) 
-
 The URSC is the official independent supporters club of Ulster Rugby. It was founded in June 2004 as a successor to Club Ulster.

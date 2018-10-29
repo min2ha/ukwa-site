@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# THST (@THSTOfficial) on Twitter
-
 Tottenham Hotspur Supporters’ Trust. They work with both the  Football Supporters’ Federation (FSF) and Supporters Direct (SD) on a number of campaigns over the football season. This is their official Twitter account.

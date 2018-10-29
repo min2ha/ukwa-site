@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Game of gnomes: Political leaders immortalised as gnomes to help gardeners decide who to vote for
-
 None

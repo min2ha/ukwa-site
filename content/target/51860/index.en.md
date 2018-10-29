@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Skye Mountain Rescue Team 
-
 Site of a voluntary and charitable organisation that operates as a mountain rescue service on the island of Skye.

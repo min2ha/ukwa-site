@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# British Screen Advisory Council (BSAC)
-
 The British Screen Advisory Council (BSAC) is an independent industry-funded body. They represent the audiovisual sector in the UK, including film, TV, games and new media, and serve as a unique forum for identifying new business trends and providing thought leadership to Government, policy makers and the audiovisual industries.

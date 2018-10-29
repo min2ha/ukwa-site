@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Inspiration Federation
-
 The Inspiration Federation was founded by Danny Glavin, a teacher from Fareham, Hampshire. All charitable funds raised by The Inspiration Federation  go to support those injured both in the Armed Forces and Emergency Services.

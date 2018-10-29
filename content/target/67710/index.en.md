@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Didsbury Toc H Rugby
-
 Didsbury Toc H RFC were founded in Manchester in 1924 by members of Toc H. 

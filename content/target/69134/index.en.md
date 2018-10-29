@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Childline: Art box 
-
 An online art box tool helping young people to express their feelings 

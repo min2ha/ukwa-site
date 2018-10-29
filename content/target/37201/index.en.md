@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Queen's Speech 2015: EU referendum, tax freeze and right-to-buy
-
 Website for the BBC News service

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cymdeithas Carnhuanawc
-
 Cymdeithas Carnhuanawc celebrate the life Thomas Price (1787-1848), historian and a major Welsh literary figure during the early nineteenth century.

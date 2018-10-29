@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gemma Doyle on Facebook
-
 This is the Facebook page of Gemma Doyle, the Labour Party candidate for West Dunbartonshire in the UK General Election on the 7th May 2015.

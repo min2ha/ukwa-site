@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: The internet is loving this guy who’s attempting to manage his depression
-
 Metro article about Reddit user and mental health 

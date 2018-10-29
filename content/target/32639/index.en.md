@@ -10,5 +10,3 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# Lodge of Melrose St. John No. 1² (No. 1 bis)
-

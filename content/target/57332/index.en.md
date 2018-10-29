@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Llanilltud 
-
 The Galilee Chapel, St. Illtud's Church in Llantwit Major lay derelict for more than 400 years. In 2010 a project began to restore the Chapel into a modern visitors centre and also home to ancient celtic artefacts, its Celtic Stones the finest collection outside of National Museum Wales. 

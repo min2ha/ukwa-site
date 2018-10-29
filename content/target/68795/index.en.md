@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# London International Mime Festival
-
 A selection of innovative physical and visual theatre from around the world.

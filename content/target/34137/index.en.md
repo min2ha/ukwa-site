@@ -10,6 +10,4 @@
   "start_date": "2016-01-18T09:00:00Z"
 }
 
-# Roger Davies
-
 Roger Davies is a contemporary abstract and semi-abstract painter born in Neath and based in Cheltenham.

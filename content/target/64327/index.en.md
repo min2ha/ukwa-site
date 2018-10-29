@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Work and Pensions Committee: European Social Fund
-
 In a short report the Work and Pensions Committee says any gap in payments between the existing European Social Fund and a new fund would be disastrous. It also says the UK has a rare opportunity to "create a truly world-leading successor" to the European Social Fund "that is the envy of Europe” — but it must act fast.
 

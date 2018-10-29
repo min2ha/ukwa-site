@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Blackmore Vale Magazine: World War One
-
 None

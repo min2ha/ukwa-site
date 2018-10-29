@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fyvie Herald, The
-
 The Fyvie Herald is dedicated to bringing you the latest news and stories about the people and issues in the area.

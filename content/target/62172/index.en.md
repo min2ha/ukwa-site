@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Killin & Ardeonaig Parish Church
-
 Site of a Church of Scotland parish church Serving the parishes of Killin & Ardeonaig and also Balquhidder, Stirlingshire.

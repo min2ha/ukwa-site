@@ -10,6 +10,4 @@
   "start_date": "2015-06-13T09:00:00Z"
 }
 
-# IARIGAI Swansea 2014
-
 The International Association of Research Organizations for the Information, Media and Graphic Arts Industries (iarigai) is a non-profit alliance of research institutes, academic and industrial R&D organizations, fostering networking and international cooperation in the scientific and technical research related fields. This is the site for their 2014 conference in Swansea.

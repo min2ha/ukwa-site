@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Stirling Council: Elections - upcoming elections
-
 None

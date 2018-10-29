@@ -10,6 +10,4 @@
   "start_date": "2017-11-03T09:00:00Z"
 }
 
-# Spark London
-
 Spark London was founded in 2007 by Joanna Yates, a business psychologist who overcame dyslexia to become an expert on the art of storytelling. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Patheos.com
-
 Patheos is a non-denominational, non-partisan online media company providing information and commentary from various religious and nonreligious perspectives. 

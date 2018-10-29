@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Scottish Redundant Churches Trust
-
 Site of an organisation, under trust and based in Edinburgh, that identifies Scottish churches or cultural value with a view to conservation and regeneration: protecting the most important aspects of a building and at the same time giving a new life and purpose. 

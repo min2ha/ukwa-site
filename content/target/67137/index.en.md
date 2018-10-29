@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Olive Grove Records
-
 Site of Olive Grove Records, a Glasgow-based record label that was founded in 2010.

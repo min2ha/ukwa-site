@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Joint Report on Progress During Phase 1 of Negotiations under Article 50 TEU  on the United Kingdom's Orderly Withdrawal from the European Union
-
 Both Parties have reached agreement in principle across the following three areas under consideration in the first phase of negotiations, on which further detail is set out in this report: protecting the rights of Union citizens in the UK and UK citizens in the Union; the framework for addressing the unique circumstances in Northern Ireland; and the financial settlement.
 

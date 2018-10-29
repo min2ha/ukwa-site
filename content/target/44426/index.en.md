@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum Analysis 2016: Media, Voters and the Campaign
-
 Featuring 80 contributions from UK academics, this publication captures the immediate thoughts and early research insights on the 2016 Referendum on UK Membership of the European Union.

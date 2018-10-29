@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum: Iain Duncan Smith says Treasury is 'worst thing in Britain' as BoE warns Brexit could trigger recession
-

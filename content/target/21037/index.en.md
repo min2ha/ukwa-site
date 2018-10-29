@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# WAKLibDems (@WAKLibDems) on Twitter
-
 West Aberdeenshire and Kincardine Liberal Democrats Twitter profile.

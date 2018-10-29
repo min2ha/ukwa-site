@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Office for National Statistics (@ons) on Twitter
-
 The official channel of the Office for National Statistics, UK. 

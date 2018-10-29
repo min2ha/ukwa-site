@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Anime Forum
-
 Forum about Anime in the UK

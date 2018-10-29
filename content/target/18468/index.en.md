@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron will serve full term if re-elected, Samantha Cameron indicates
-
 None

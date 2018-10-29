@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-#  BRAIN Unit 
-
 The Brain Repair And Intracranial Neuro­therapeutics (BRAIN) Unit is based at Cardiff University and is a research organisation working to develop new therapies for brain diseases. BRAIN Unit is composed of researchers from three of Wales’ leading universities – Cardiff University, Swansea University and Bangor University and is funded by Welsh Government through Health and Care Research Wales.

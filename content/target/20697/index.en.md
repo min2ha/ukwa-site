@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Unite Scotland (@UniteScotland) on Twitter
-
 Twitter account for Unite's Scotland branch.

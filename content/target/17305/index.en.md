@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Massive expansion of academy programme to be announced by Prime Minister
-
 None

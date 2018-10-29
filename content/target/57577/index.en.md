@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Highland Print Studio
-
 Site of an artistic printmaking and digital imaging facility and gallery located in Inverness.

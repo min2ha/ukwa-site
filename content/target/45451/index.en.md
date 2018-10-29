@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Labour CND 
-
 Campaigning for peace and nuclear disarmament within the Labour Party

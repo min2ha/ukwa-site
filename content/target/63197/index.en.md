@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 26th March 2018: UK Passport Contract
-
 Debate following an urgent question about why the contract for producing the new blue British passports was awarded to a French company rather than the present UK contractor, De La Rue.

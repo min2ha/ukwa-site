@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Whalley Abbey
-
 The Retreat and Conference House is set in the stunning grounds and ruins of a 14th Century Cistercian Abbey. On the banks of the River Calder in the beautiful countryside of the Ribble Valley, but with easy access to motorway and rail networks.

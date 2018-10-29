@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# JoannaRowsell.com
-
 <p>Joanna Rowsell's website, cyclist and member of Team England for the Glasgow 2014 Commonwealth Games.</p>

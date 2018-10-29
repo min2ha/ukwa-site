@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jason Manford
-
 Official website of a comedian Jason Manford.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Swansea Open House | Ty Agored Abertawe
-
 Swansea Open House is organised by Urban Foundry – an organisation dedicated to using creative ideas to help improve people’s lives, make better places and increase prosperity.

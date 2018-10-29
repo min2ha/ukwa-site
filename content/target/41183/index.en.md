@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Caledonian Railway Association
-
 Site of an organisation studying all aspects of the former Caledonian Railway, its constituents, subsidiaries and successors, in all their forms and activities.

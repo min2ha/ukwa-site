@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Visual Impairment Merthyr Tydfil
-
 VIM is a registered charity supporting people who are blind, partially sighted or challenged by failing sight in the county borough of Merthyr Tydfil.

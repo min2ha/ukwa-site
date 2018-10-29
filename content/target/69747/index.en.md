@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St.Anthony's Govan
-
 Site of a Scottish Roman Catholic parish church in Govan, Glasgow.

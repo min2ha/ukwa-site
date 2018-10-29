@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Martin Bennewith (Green Party candidate for Alyn and Deeside)
-

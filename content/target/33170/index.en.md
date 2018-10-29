@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Broadland during the First World War
-
 The project will explore the impact of the First World War on the people of Broadland, from the perspectives of the men who went to war and those who remained at home.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# Bar Council, The
-
 The Bar Council represents barristers in England and Wales. It promotes the Bar's high quality specialist advocacy and advisory services, fair access to justice for all, the highest standards of ethics, equality and diversity across the profession, and the development of business opportunities for barristers at home and abroad.

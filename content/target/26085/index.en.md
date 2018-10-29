@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Gary Barlow is the deciding factor in the 2015 election. Take that Farage
-
 None

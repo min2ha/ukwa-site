@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Museum Ethnographer's Group Blog, The
-

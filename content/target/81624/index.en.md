@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oval Zone Rugby Mag (@ovalzonerugby) on Twitter
-
 All the latest rugby news from North/Mid Wales plus a free online magazine on the web at http://www.ovalzone.co.uk.

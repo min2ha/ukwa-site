@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Morgan Petrie (@scioptic) on Twitter
-
 The Twitter profile of Morgan Petrie, Scottish Green Party candidate for North East Scotland in the 2016 Scottish Parliament election.

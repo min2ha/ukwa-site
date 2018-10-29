@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Family Lives: Advice on gaming addiction
-
 Website for charity that offers advice and support for families - this portion of the site offers advice on online gaming and gaming addiction

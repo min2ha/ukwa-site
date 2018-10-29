@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Marsden, The
-
 None

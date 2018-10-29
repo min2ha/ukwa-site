@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Llandudno Musical Productions
-
 Llandudno Musical Productions (LMP) are a member of the National Operatic and Dramatic Association (NODA) and is an amateur theatre production company.

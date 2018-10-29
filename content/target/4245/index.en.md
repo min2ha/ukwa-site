@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Just Scotland, A
-
 Scottish Trade Union Congress affiliated website on A Just Scotland report.

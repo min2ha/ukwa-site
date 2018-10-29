@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# WOW247: Comedy
-
 The Comedy section on website WOW247 which includes news, reviews, listings for cultural events happening in UK cities.

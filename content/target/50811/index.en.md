@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Discover Sunart Moidart Ardnamurchan Ardgour
-
 Website providing business, accommodation, travel and activity information for visitors to Ardnamurchan, Lochaber, Highland.

@@ -10,5 +10,3 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# Dave Ash (National Health Action candidate for Sutton and Cheam) (@DaveAsh_) on Twitter
-

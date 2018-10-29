@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Is David Miliband returning to the UK to become Labour leader?
-
 None

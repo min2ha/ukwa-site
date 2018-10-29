@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Rules & Regs (R&R)
-
 R&R brings artists, organisations and audiences together, fostering understanding and creativity through making and experiencing new art, in new ways.

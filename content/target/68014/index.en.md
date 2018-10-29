@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whitby Rugby club (@WhitbyRUFC) on Twitter
-
 Whitby Rugby club is a small club on the North East Coast of Yorkshire, a very friendly club with an emphasis on traditional rugby values.

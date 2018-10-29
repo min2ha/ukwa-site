@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BusinessForNewEurope (@BNE_Group) on Twitter
-
 Business for New Europe is Britain's leading pro-European business coalition, campaigning for a more competitive Europe

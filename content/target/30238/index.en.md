@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Untold Lives Blog
-
 The Untold Lives blog shares stories about people, providing fascinating and unusual insights into the past and bringing out from the shadows lives that have been overlooked or forgotten. They hope to inspire new research and encourage enjoyment, knowledge and understanding of the British Library and its collections. In addition to stories from the past, they give glimpses of the hidden life of the Library and provide information about events and exhibitions.

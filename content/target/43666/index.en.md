@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leading Britain's Conversation (LBC): How Brexit May Affect The UK Education Sector
-
 Concerns about the funding of higher education in the event of Brexit have been raised by the head of the organisation that represents Britain's leading universities.

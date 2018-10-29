@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Scottish Crannog Centre
-
 Site for a museum dedicated to Iron Age Scottish history and architecture around crannogs.

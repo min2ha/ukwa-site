@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Malcolm Muggeridge Society
-
 Malcolm Muggeridge Society is an international society for people who have an interest in the life of Malcolm Muggeridge 1903-1990: journalist, author, broadcaster, soldier-spy and Christian apologist. 

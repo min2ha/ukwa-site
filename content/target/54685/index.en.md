@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Scale Models Forums
-
 An online enthusiast forum concerned with scale models. Covers a wide range of model types including aircraft, land vehicles, boats and more.

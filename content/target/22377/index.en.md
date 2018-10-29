@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Leaders' interviews digested: what Ed Miliband and David Cameron told Jeremy Paxman
-
 None

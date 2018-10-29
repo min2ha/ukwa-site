@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# CAMAD, Community Action Machynlleth & District
-
 CAMAD (Community Action Machynlleth & District) was established in 1998 to to act as a hub for volunteering in the Machynlleth area.

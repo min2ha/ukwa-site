@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War - Steel Remembered
-
 First World War - Steel Remembered is a collaborative project led by Linc Cymru (Linc) and explores real-life stories of the Orb steel workers who returned from  the 1914-1918 conflict and those who are commemorated by the Orb Steel Works War Memorial. 

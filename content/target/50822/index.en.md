@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# South, West and Wales Doctoral Training Partnership
-
 South, West & Wales (Arts & Humanities) Doctoral Training Partnership are a partnership of 8 universities and provide AHRC funding for PhDs. The partners include those at the University of Aberystwyth, Bath, Bath Spa, Cardiff, Southampton, Bristol, Exeter and Reading.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Drake Educational Associates
-
 Drake Educational Associates is based in Cardiff and publish exciting literacy and numeracy educational resources for schools. 

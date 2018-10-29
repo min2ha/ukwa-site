@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Centre for the Analysis of Social Exclusion
-
 The Centre for Analysis of Social Exclusion (CASE) is a British research institute at the Suntory and Toyota International Centres for Economic and Related Disciplines (STICERD) at the London School of Economics.

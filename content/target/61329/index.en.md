@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Cittaslow Mold | Cittaslow Yr Wyddgrug
-
 Mold is the first town in Wales to be welcomed into the Cittaslow network. Cittaslow Mold comprises many local organisations and individuals, and is supported by Mold Town Council. We have three Cittaslow Mold sub-groups: Environmental Policy, Space & Place and Local Produce & Community.

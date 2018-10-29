@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: What Brexodus? Banks are set to shift less than 4,600 jobs out of London ahead of Brexit despite fears of a mass financial sector move to Europe before March 2019 deadline   
-

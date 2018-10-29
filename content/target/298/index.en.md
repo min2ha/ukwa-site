@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Nottingham City CCG
-
 None

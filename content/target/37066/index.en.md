@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sky: Your EU Referendum Survival Guide
-
 Website for the digital broadcaster Sky News

@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# Al Lewis Music 
-
 Al Lewis is a bilingual singer/songwriter originally from North Wales

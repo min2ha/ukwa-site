@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# UK Says No More (@UKSAYSNOMORE) on Twitter
-
 Official Twitter Page for #UKSAYSNOMORE. Committed to ending Domestic Violence and Sexual Assault in the UK. 

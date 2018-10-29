@@ -10,5 +10,3 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# Conwy Town Orchestra | Cerddorfa Tref Conwy
-

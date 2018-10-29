@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ulster Badminton
-
 None

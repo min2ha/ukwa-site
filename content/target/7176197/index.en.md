@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Karen Blakeman's Blog
-

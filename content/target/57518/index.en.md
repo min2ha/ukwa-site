@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Darllen Cymru | Reading Wales 
-
 Reading Wales is a haven of resources and information to encourage a love of reading. The initiative is supported by Wales Books Council and the Welsh Government.

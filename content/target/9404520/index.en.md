@@ -11,6 +11,4 @@
   "subject": "Latin America UK"
 }
 
-# Central American Women's Network (CAWN)
-
 None

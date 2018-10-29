@@ -10,5 +10,3 @@
   "start_date": "2010-07-29T00:00:00Z"
 }
 
-# Wales The True Taste
-

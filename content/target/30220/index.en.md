@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Living Knowledge Blog
-
 Living Knowledge is the corporate blog of the British Library, revealing the strategic bigger picture at the UK national library and going behind the scenes of a wide range of activities, projects and programmes. 

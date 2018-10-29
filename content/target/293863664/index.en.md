@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Ynni Anafon Energy
-
 Anafon hydro scheme is a community venture in Abergwyngregyn, mid Wales,

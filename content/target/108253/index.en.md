@@ -10,6 +10,4 @@
   "start_date": "2005-05-26T00:00:00Z"
 }
 
-# South Asian Health Foundation
-
 Welcome to the South Asian Health Foundation web site. The aims of this site are encapsulated within our mission statement: 1. To promote improvements in the quality of, and access to, healthcare and health promotion in South Asians. 2. To promote research that leads to the above objectives

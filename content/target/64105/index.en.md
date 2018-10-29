@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# NIHRC (@NIHRC) on Twitter
-
 Northern Ireland Human Rights Commission - Protecting and promoting your rights in Northern Ireland

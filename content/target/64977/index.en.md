@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Artists Rooms
-
 Siet of a collection of international modern and contemporary art, established through one of the largest and most imaginative gifts of art ever made to museums in Britain. It is owned on behalf of the United Kingdom by the National Galleries of Scotland and Tate, who together care for the Collection and arrange for its presentation across the country.

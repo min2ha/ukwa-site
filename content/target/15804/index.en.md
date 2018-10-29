@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Global Source Supply
-
 <p>Global Source Supply helps finding strategic solutions for global purchasing requirements. It is a UK-based limited company with experience in sourcing, manufacturing and importing products from China.</p>

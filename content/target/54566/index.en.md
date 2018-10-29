@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T11:30:00Z"
 }
 
-# Help Our Campaign
-
 Scottish National Party site aimed at encouraging voters to the polls.

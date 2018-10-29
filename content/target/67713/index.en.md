@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Brewers' Association of Scotland (TBAS), The
-
 Site of a association of Scottish brewers existing to grow the value and reputation of the Scottish brewing industry.

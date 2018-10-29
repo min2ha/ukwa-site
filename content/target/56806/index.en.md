@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Marymass Festival Irvine
-
 Site of an annual festival at Irvine, reviving traditional religious medieval festival and boundary marking ceremony.

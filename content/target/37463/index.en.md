@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Socialist, The: A chance for unions to lead the working-class leave campaign in EU referendum
-
  Despite past support from trade unions of a 'social Europe', they have often opposed the reality of EU policies and not all of them have a formal position on the EU referendum. With Unison announcing a branch consultation on the issue, and other unions likely to follow suit, there is still a chance for the unions to put themselves at the head of a working class leave campaign. If the unions did so, it could transform the situation in Britain.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories accused of playing politics with Trident after defence debate
-
 None

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: CBI calls for UK to remain in a customs union with EU 
-
 Carolyn Fairbairn, head of the CBI, said there was a "lack of clarity" surrounding ongoing talks about the future of UK-EU trade. Speaking on ITV's Peston on Sunday, she also said a customs union would be best for UK economic growth and prosperity.
 
 

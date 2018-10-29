@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Exeter Cathedral: Lunchtime Bite: Magna Carta
-

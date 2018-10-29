@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Mail Online: Elections watchdog launches an investigation into whether the Leave.EU campaign broke the law during Brexit battle
-
 The Electoral Commission has launched an investigation into the European referendum spending of Arron Banks' campaign group Leave.EU.
 
 Read more: http://www.dailymail.co.uk/news/article-4433186/Elections-watchdog-launches-investiation-eave-EU.html#ixzz4euPFSaS2 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Almr (The association of Licensed Multiple Retailers)
-
 ALMR is a network of entrepreneurial retailers and industry suppliers that champions the smaller independent companies that own and operate pubs, bars and casual dining restaurants in UK.

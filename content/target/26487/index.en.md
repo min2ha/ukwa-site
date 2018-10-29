@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: This is no normal election: don't let your voice be taken away – video
-
 None

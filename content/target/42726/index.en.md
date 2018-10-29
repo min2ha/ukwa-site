@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Parishes of the Rough Bounds
-
 Site of three Scottish Roman Catholic parishes in Highland, Scotland; Arisaig, Moidart and Glenfinnan.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Confor
-
 Site of a group of organisations aiming to support sustainable forestry and low-carbon businesses through promotion of markets for forest products and helping improve members' competitiveness.

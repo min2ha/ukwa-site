@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Murgitroyd & Company Limited
-
 The website of Murgitroyd & Company Limited, a patent and trademark attorney company based in Glasgow, Scotland. 

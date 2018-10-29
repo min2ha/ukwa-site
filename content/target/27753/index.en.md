@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hemel Today: Britain’s Got Talent winning dance group Diversity to perform show at Lincoln Castle
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RICHARD LYLE FOR HOLYROOD 2016 | BOTH VOTES SNP
-
 Richard Lyle is the Scottish National Party candidate for the Uddingston and Bellshill constituency in the 2016 Scottish Parliament election.

@@ -10,5 +10,3 @@
   "start_date": "2015-05-27T09:00:00Z"
 }
 
-# Make a Mother's Day
-

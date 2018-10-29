@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# National Student Drama Festival
-
 encourage and celebrate the best and brightest student theatre that the UK had to offer

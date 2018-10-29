@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 12th July 2018: EU Exit: Future Relationship White Paper
-
 Lord Callanan reads the government's statement introducing the white paper on the UK's future relationship with the European Union, followed by debate.

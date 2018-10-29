@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Moroccan Children's Trust
-
 The Moroccan Children's Trust is a small British charity that works to uphold and to protect the rights of all Moroccan children. 

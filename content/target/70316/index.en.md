@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# British Theatre Academy, The, (BTA)
-
 The British Theatre Academy is the growing standard in accessible theatre training and performance opportunities for young people in the UK.

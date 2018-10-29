@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Let's Rock the 80's
-
 Website for Let's Rock the 80's, a vintage music festival.

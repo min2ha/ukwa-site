@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Not time to nitpick on Brexit - Jacob Rees-Mogg
-
 Reports Tory pro-remain and pro-leave MPs' reaction to Theresa May's Mansion House speech on the future UK-EU trading partnership.

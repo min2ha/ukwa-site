@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food and Rural Affairs: Environment Secretary confirms sentience of animals will continue to be recognised and protections strengthened when we leave the EU
-
 Michael Gove sets out the government's position on animal sentience after we leave the EU in a Written Ministerial Statement

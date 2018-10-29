@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Huw Beynon, a personal website
-
 Huw Beynon is an industrial sociologist, written or edited 20 books and was appointed to the first Science Advisory Council of Wales 2011-2014. He is currently Emeritus Professor at Cardiff University.

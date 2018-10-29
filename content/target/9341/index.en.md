@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jenny Jones Snowboarder on Twitter
-

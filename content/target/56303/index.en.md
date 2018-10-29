@@ -10,5 +10,3 @@
   "start_date": "2017-08-02T09:00:00Z"
 }
 
-# Dock, Lock and River: a blog about boats & other stuff @ Gallions Point, London
-

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Businesses face unanswered questions a year from Brexit – sector by sector analysis
-

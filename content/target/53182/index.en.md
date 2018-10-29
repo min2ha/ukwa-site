@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Spectator, The: General Election 2017
-
 Articles related to the 2017 General Election.

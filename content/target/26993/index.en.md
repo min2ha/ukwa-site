@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirby Laing Institute For Christian Ethics, The
-
 The Whitefield Institute was reconstituted in summer 2006 as the Kirby Laing Institute for Christian Ethics. The aim is to promote the study and understanding of Christian ethics marked by both biblical fidelity and contemporary relevance.

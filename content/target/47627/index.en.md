@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# Scottish Parent Teacher Council
-
 Site of a membership organisation and charity whose purpose is to maximise parental involvement in Scottish children's education.

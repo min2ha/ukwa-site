@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Gunsgreen House
-
 Site of an historic house located at Eyemouth, Scottish Borders (Berwickshire), now working as an events venue, hotel and visitor attraction.

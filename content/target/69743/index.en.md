@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Joseph's Blantyre
-
 Site of a Scottish Roman Catholic parish church in Blantyre, Lanarkshire.

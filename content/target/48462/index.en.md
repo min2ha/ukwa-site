@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# Ullapool
-
 Site providing information about businesses, activities and local amenities principally for visitors to the town of Ullapool and the area around Loch Broom, Highland, Scotland.

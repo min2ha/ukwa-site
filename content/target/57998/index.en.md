@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM's European Council press statement: 20 October 2017
-
 Prime Minister Theresa May addressed the press while in Brussels for a European Council summit in October 2017.
 

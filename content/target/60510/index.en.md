@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Arwel Hughes
-
 Arwel Hughes (1909-1988) was a Welsh orchestral conductor and composer born in Rhosllannerchrugog near Wrexham and honorary Music Director of the Llangollen International Eisteddfod.

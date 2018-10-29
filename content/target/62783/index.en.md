@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Eglwys Crist Y Bala | Christ Church Bala
-
 Christ Church is part of the Penedeyrn Mission Area and is in Bala, Gwynedd.

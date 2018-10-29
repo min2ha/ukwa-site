@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Miller Argent
-
 Miller Argent is a modern mining company operating in Merthyr Tydfil area since 2007 and operates the Ffos-y-fran Land Reclamation Scheme.

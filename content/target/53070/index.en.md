@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Runnymede Liberal Democrats
-
 Website offers news and a local manifesto

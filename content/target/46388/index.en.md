@@ -10,6 +10,4 @@
   "start_date": "2017-01-11T09:00:00Z"
 }
 
-# Telling Tales: Rewriting the Canterbury Tales
-
 Telling Tales: Rewriting the Canterbury Tales is a blog written by writer Patience Agbabi, born in London to Nigerian parents, and grew up in North Wales with her adopted family. 

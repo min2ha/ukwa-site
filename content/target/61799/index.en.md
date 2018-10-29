@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Reality Check: Labour's Brexit position
-
 Analyses Jeremy Corbyn's speech at Coventry University on February 26th 2018, in which he put the case for staying in a customs union with the EU

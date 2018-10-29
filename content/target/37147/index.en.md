@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Rope: What the Queen really said about Europe
-
 The Queen had issued a formal complaint against The Sun newspaper's claim that she supports Brexit. The blog contains information regarding the political positions in relation to the EU. 

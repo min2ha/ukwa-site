@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crieff and Strathearn Rugby Club
-
 Site of a Scottish rugby union football club based at Crieff, Perth and Kinross.

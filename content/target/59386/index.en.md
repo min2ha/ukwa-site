@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The European Union (Withdrawal) Bill: Devolution
-
 This briefing paper has been prepared for the Committee Stage of the European Union (Withdrawal) Bill 2017-19 [Bill 5] (the EUW Bill) in the House of Commons. It concerns provisions in the Bill about devolution, which are due to be considered on days 4 and 5, scheduled for 4 and 6 December 2017. It is one of a series prepared for Committee Stage.

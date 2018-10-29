@@ -10,5 +10,3 @@
   "start_date": "2015-12-15T09:00:00Z"
 }
 
-# Scottish Federation of Organists
-

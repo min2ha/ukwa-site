@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# PRCA (@PRCA_UK) on Twitter
-
 With 24,000 members, the Public Relations and Communications Association is Europe’s largest and most influential PR and communications membership body.

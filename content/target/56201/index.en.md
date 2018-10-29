@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# Mari Ellis Dunning - Weird words and book reviews
-
 Welsh writer of poetry, short stories, novels and children’s books and her debut poetry collection, Salacia, will be launched in Spring 2018 with Parthian.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-13T09:00:00Z"
 }
 
-# Visit Lincoln
-
 Website promoting tourism in Lincoln.

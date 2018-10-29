@@ -10,5 +10,3 @@
   "start_date": "2016-07-19T12:00:00Z"
 }
 
-# University of Aberdeen, The: Celtic and Anglo-Saxon Studies | The School of Language, Literature, Music and Visual Culture
-

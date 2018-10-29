@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: UN race relations envoy sparks fury as she suggests Brexit has caused a rise in racism and anti-Semitic abuse 
-
 UN race relations envoy Tendayi Achiume sparked fury when  she claimed at a press conference that Brexit had made Britain more racist and fuelled a rise in anti-Semitism.    
 
 

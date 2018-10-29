@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# James Carver, Ukip on Facebook
-
 None

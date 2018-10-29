@@ -10,6 +10,4 @@
   "start_date": "2015-04-15T09:00:00Z"
 }
 
-# Taking Britain Further
-
 Website promoting the idea of building a third runway at Heathrow.

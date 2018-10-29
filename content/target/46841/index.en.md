@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Gareth Bennett AC/AM (@GarethBennettAM) on Twitter 
-
 Gareth Bennett is the UKIP AC/AM for South Wales Central.

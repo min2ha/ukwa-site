@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit: Wave of hate crime and racial abuse reported following EU Referendum
-
 Incidents that have occurred since EU Referendum result

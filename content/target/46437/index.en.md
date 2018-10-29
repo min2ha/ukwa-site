@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Civitas: Potential post-Brexit tariff costs for EU-UK trade
-
 This purpose of this analysis is to determine the potential tariff implications for both UK and EU exporters in the event a free trade deal has not been reached by the time the UK exits the European Union.analysis shows that if the UK leaves the EU without a trade deal UK exporters could face the potential impact of £5.2 billion in tariffs on goods being sold to the EU. However, EU exporters will also face £12.9 billion in tariffs on goods coming to the UK.

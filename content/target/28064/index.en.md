@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# Freedom and Whisky
-
 David Farrer blogs on libertarianism and Scotland.

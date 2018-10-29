@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Horror in Cornwall
-
 None

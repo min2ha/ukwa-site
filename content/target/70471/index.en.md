@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: NHS managers warn about impact of no deal
-
 NHS Providers, a group representing hospitals and ambulance services in England warned of a lack of "contingency planning" to deal with the impact of a no-deal Brexit on the health service in a leaked email seen by the BBC..
 

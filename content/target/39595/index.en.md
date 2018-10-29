@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Tunstill's Army and Long Preston during World War 1
-
 Project to work with other groups in the village to raise awareness of the role Long Preston played in the First World War.

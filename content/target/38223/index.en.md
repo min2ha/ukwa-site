@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SfB Glasgow Uni (@SfBGlasgowUni) on Twitter
-
 University of Glasgow branch of Students for Britain

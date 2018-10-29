@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Iain Duncan Smith mocks Church of England's 'dwindling relevance'
-
 None

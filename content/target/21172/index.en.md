@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gemma Weir on Facebook (Workers Party candidate for Belfast North)
-

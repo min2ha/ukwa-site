@@ -10,6 +10,4 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# Welsh Way, The | Ffordd Cymru
-
 The Wales Way is a network of three national routes. The Coastal Way travels the west coast around Cardigan Bay, a 180-mile (290km) road-trip between the sea and mountains. The Cambrian Way crosses the spine of Wales for 185 miles (300km) between Llandudno and Cardiff, through National Parks and big green spaces. The North Wales Way leads 75 miles (120km) past mighty castles into the island of Anglesey. The site is brought to you by Visit Wales, the tourist department of the Welsh Government.

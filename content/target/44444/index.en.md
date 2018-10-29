@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe: EU referendum: David Cameron must be ambitious, not cautious
-
 An article regarding David Cameron's approach to the EU Referendum.

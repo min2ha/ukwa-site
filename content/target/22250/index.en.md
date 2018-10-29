@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# theunforgotten.net
-
 Project exploring the history of the First World War in Powerstock, Devon.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Voters split 50/50 on pulling out of Europe for the first time, heaping more pressure on Cameron ahead of summit   
-

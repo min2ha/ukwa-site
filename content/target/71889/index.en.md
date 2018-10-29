@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# SPICe Spotlight / Solas air SPICe
-
 News drawn from the Scottish Parliament Information Centre website.

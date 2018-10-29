@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# British Web Design and Marketing Association (BWDMA)
-
 The BWDMA is a "broad church", inclusive organisation, open to all companies and individuals that have an interest in the new media sector. BWDMA is influence-driven rather than membership-driven. 

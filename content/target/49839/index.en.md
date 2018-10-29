@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Integrate My School
-
 Integrate My School is designed to enable parents in Northern Ireland to register their support for their child’s school to become an integrated school.An integrated school welcomes children from Protestant and Catholic backgrounds, as well as those of other faiths and none. 

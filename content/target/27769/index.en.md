@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# ITV: News: Monuments and Shakespeare for Charles and Camilla's US trip
-

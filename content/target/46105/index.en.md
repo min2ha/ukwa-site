@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Theatr Dawns Cascade | Cascade Dance Theatre
-
 Cascade Dance Theatre is a repertory touring company working based in Wales.

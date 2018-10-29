@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Weir (mikeweirsnp) on Twitter
-
 Twitter profile of Michael Weir, Scottish National Party candidate for Angus in the 2017 general election.

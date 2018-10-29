@@ -11,6 +11,4 @@
   "subject": "Pandemic Influenza"
 }
 
-# Boots
-
 Boots is a chain of UK beauty, health and pharmacy stores with the HQ in Nottingham.

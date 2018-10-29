@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jim Murphy gets Labour’s problem, albeit too late in the day
-
 None

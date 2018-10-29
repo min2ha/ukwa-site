@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Yoker Parish Church on Facebook
-
 Facebook page a Church of Scotland parish church at Yoker, Glasgow.

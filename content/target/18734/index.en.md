@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Magna Carta story illuminated by discovery of medieval poem
-

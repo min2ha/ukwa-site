@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow Boys Football Club
-
 Site of a boys / juvenile football club based in Glasgow.

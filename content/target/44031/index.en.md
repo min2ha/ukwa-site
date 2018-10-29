@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Eleanor St Clair Blog
-
 Originally a poetry/writing blog, it also includes a number of posts about the EU Referendum, some of which were widely shared on social media.

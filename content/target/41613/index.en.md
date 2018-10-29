@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Portland Community Partnership
-
 The Portland Community Partnership was formed to carry on the good work of the Single Regeneration Budget (SRB).

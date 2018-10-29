@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Thorsaa Film Festival
-
 Site of a film festival with a competitive element established to promote cinema, film, music and arts developement in Scotland and particularly in Caithness.

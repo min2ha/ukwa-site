@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Afzal Amin: from dream Conservative candidate to fall from grace
-
 None

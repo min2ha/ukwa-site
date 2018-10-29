@@ -10,5 +10,3 @@
   "start_date": "2007-11-02T00:00:00Z"
 }
 
-# U: Students' Union: University of Wales, Bangor - U: Undeb Myfyrwyr Cymraeg Bangor: University of Wales, Bangor
-

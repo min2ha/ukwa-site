@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Cofio Cwmorthin Remembered
-
 Cofio Cwmorthin Remembered is a voluntary group dedicated to the preservation of Cwmorthin’s heritage and the history of its people. It was a community of families who gathered there in the 19th Century slate-rush, joining an already established farming community. The community has now moved and all is left is an abandoned settlement.

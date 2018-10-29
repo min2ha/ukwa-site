@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Get Britain Out: Summary of Polling Reports relating to EU Referendum Vote 
-

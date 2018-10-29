@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Naked Politics
-
 Naked Politics is a brand new political blog dealing with the latest political news, debates, and political issues affecting the world today. We are different to other political websites because we are naked: transparent, honest and agenda-free. 

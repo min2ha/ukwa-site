@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Can the Ebola outbreak rejuvenate global health security?
-
 Article on global health security following the Ebola outbreak

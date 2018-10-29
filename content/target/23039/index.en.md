@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Naushabah Khan on Facebook (Labour candidate for Rochester and Strood)
-

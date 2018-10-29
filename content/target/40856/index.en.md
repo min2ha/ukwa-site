@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dry Drayton Blog
-
 This is a place for those ephemeral bits of village news which Dry Drayton folks are welcome to comment on. The Blog is linked from www.drydrayton.net, the community web site for the village of Dry Drayton in Cambridgeshire

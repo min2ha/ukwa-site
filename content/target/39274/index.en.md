@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Michael Gove's post-EU vision labelled 'utopian rubbish' by Angela Eagle 
-
 Guardian, The

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: David Cameron’s touted EU deal could face legal challenge, experts warn
-

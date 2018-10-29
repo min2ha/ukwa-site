@@ -10,6 +10,4 @@
   "start_date": "2009-10-06T00:00:00Z"
 }
 
-# Osteopathic Sports Care Association
-
 Web site of profession

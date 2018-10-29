@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Leave.eu (@LeaveEUofficial) on Twitter
-
 The twitter account of leave.eu, a cross-party campaign advocating a vote to leave in the forthcoming referendum.

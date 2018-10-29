@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Infectious Disease in Pregnancy Screening Programme
-
 None

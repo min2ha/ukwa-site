@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Lizzy's Literary Life
-

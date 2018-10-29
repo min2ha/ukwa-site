@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Snub for David Cameron as top business leaders distance themselves from newspaper letter backing Tories 
-
 None

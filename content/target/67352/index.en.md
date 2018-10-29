@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Northwich RUFC (@NorthwichRUFC) on Twitter
-
 The official Twitter account of Northwich Rugby Union Football Club.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Abortion Rights: Manifesto : UK General Election 2017
-
 Abortion Rights have put together their dream manifesto, calling on politicians and policy makers to review 5 key areas which are central in the aim of removing current obstructions to women’s reproductive rights

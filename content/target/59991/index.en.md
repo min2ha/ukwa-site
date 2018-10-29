@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Lord Adonis quits government role in stinging letter
-
 Transcript of Lord Adonis' letter of resignation as the government's infrastructure adviser, in which he attacks Brexit as a "populist and nationalist spasm".

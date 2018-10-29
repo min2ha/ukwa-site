@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Chief of the independent Budget watchdog insists he has NOT reached a verdict on the risks of Brexit despite Osborne's claim   
-

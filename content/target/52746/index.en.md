@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# Hire A Town Crier Celebrity
-
 David Hinde is a ‘Member Of Ancient & Honourable Guild Of Town Criers’ and ‘is currently The Official Town Crier For Helmsley North Yorkshire and The Bellman Of Bridlington Old Town.’ He is available for various events and can be hired through his website.

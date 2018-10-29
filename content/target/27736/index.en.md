@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: A visit to Mount Vernon, a look at the 1297 Magna Carta and a meeting with President Obama: Charles and Camilla to visit the US for the third time next month
-

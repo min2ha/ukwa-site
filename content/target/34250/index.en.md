@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# National Coding Week
-
 Website of the coding festival which takes place in the UK.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Liam Fox: No deal most likely Brexit outcome for UK
-
 Liam Fox said the chance of a no-deal Brexit was growing, blaming the "intransigence" of the European Commission.

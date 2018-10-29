@@ -10,6 +10,4 @@
   "start_date": "2016-07-21T10:00:00Z"
 }
 
-# League of St George
-
 League of St George is a British neo-Nazi organisation 

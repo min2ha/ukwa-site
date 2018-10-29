@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Llantwit Major Chamber of Trade 
-
 The aim of the Chamber is to promote and boost trade within the town and surrounding area and to support friendship between all businesses.

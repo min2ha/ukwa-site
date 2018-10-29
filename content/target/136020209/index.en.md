@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Salford LINk
-
 None

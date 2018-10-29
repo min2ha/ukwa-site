@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Amateur Swimming Association: ASA launches Manifesto for Aquatics
-
 As England’s national governing body
 for swimming, diving, synchronised
 swimming, and water polo, the ASA has

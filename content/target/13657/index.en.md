@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Record: Torcuil Crichton
-
 Daily Record Westminster editor covering Scottish-interest news from the 2015 General Elections.

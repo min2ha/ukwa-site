@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Independent:   10 things girls need in order to grow up strong and independent, according to a parenting expert
-
 An article where Steve Biddulph talks to The Independent about the importance of feminism when raising young girls

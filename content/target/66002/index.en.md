@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Gamblers Anonymous Scotland
-
 Site of a group of people who share their experience, strength and hope with each other that they may solve their common problem and help others to recover from a gambling problem.

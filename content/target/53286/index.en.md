@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Islington Labour
-
 Constituency website offers local news, a blog, and contact details

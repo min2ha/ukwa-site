@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Maggie James
-
 Maggie James is a Welsh painter.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Nether Lochaber Parish Church
-
 Site of a Church of Scotland parish church located at Onich, Lochaber, Highlands.

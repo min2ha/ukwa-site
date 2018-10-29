@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# David Cameron and Sadiq Khan plan pro-EU joint appearance
-
 Guardian, The

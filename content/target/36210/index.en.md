@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Daniel Johnson – Labour's Scottish Parliament Candidate for Edinburgh Southern
-

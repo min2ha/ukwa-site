@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vote Alan Brown
-
 This is the website of Alan Brown, the Scottish National Party (SNP) candidate for Kilmarnock and Loudoun in the UK General Election on the 7th May 2015.

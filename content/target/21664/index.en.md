@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election 2015: is it really just a straight choice between Labour and the Tories?
-
 None

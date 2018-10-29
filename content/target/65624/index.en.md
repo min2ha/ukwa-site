@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Textile Services Association (TSA)
-
 TSA is the trade association for the textile care services industry. TSA represent commercial textile rental businesses and retail garment care companies. 

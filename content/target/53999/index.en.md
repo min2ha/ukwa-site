@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gary Legg (@garyupnorth)  on Twitter (UKIP  Politician)
-
 Gary Legg stood as UK Independence Party (UKIP) candidate in the constituency of North Tyneside in the 2017 General Election but was not elected.

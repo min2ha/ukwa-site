@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cardiff North Conservatives
-
 Website of Cardiff North Conservatives, providing information on representative and candidates, events, campaigns and local and national news and opinion.

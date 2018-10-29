@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Boglyn: gwneud yn Gymraeg
-
 This is a blog by Sara Huws, a public historian who has worked as a researcher and museum curator and is co-founder of East End's Women Museum.

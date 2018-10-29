@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Ministers 'will agree Brexit stance' at Chequers summit
-
 Cabinet minister James Brokenshire told Andrew Marr that he was sure that the government would overcome divisions and agree on the kind of future relationship it wanted with the EU at a crunch meeting at Chequers on July 6th 2018. 

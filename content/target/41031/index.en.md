@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wells Harbour by the sea; Port of Wells
-
 This site provides information for harbour users, visiting vessels, Wells residents and holiday-makers.

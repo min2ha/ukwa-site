@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Catrin Brock for Neath 2015 - Green Party on Facebook
-
 Catrin Brock is the Green Party for Neath.

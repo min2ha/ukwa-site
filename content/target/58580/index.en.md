@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Football fine art : Colin Yeats
-
 The following gallery displays the Phil Vasili archive built up over two decades. The images are free to use without copyright restrictions. 

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Lesbury Remembers
-
 Remembering Piper Laidlaw and other local heroes from FWW by placing a commemorative plaque in the village hall, formerly the school; followed by a weekend of events.

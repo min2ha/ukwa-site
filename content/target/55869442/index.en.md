@@ -10,5 +10,3 @@
   "start_date": "2010-08-20T00:00:00Z"
 }
 
-# Third Sector European Policy (TSEP) Network, London School of Economics and Political Science (LSE)
-

@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Artichoke
-
 Artichoke Trust was founded in 2005 by Helen Marriage and Nicky Webb. Since 2006, Artichoke has produced several large-scale events across the country, from London to Liverpool; from light festivals to giant mechanical spiders. 

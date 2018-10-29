@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Campaign for a Cornish Assembly, Cornish Constitutional Convention
-
 None

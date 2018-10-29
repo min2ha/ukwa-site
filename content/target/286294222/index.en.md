@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Hidden Gardens, The: Mandela Celebration
-
 <p>Founded by NVA public arts organisation in 2003, The Hidden Gardens is an award-winning unique public greenspace and community development organisation located in Pollokshields, one of Scotland’s most diverse communities.</p>
 <p>This webpage contains information about the Mandela Celebration, a day of community, unity and change in celebration of the rich cultural heritage and traditions of the local community and Commonwealth visitors to the city. Inspired by the life and work of the late Nelson Mandela. The event is part of the Festival 2014 programme.</p>

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Laura Cram (@neuropols) on Twitter
-
 Twitter profile of Laura Cram, Professor of European Politics and Director of NRLabs Neuropolitics Research.

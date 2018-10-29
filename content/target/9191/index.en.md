@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jenna McCorkell Figure Skater
-
 None

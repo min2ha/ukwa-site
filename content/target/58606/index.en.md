@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Hestia Housing & Support
-
 Hestia Housing & Support are a charity, working together with adults and children find a permanent home, manage their finances, take care of their health, and access work, training or education, as well as providing emotional and practical support.

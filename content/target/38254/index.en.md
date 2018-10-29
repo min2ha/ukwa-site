@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Liberal Democrats IN together (@LDINtogether) on Twitter
-
 Grassroots and community led campaign fighting to keep the UK a thriving and leading member of Europe.

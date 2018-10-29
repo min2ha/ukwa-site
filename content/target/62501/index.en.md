@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: How shaming that two former PMs obsessed with a fake row over Ireland have become Brussels' useful idiots 
-
 Comments on the argument put forward by Tony Blair and John Major that Brexit will lead to the creation of a hard border between Northern Ireland and the Irish Republic, which could result in a resurgence or terrorism 

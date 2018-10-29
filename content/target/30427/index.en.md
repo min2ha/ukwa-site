@@ -10,5 +10,3 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Conservative Home: Labour – a threat to our national security
-

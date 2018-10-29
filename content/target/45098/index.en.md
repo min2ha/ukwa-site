@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# 10 most outrageously sexist moments of the Rio Olympics so far
-
 Many things have shocked us about the Rio Olympics - such as the green diving pool, the double restart of the men's Keirin final or the disappearance of Dan Goodfellow - but perhaps most shocking of all is the ridiculous amount of sexism that has occurred. Here's the worst of it.

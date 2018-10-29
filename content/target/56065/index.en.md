@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Goldman urges government to make Brexit transition deal
-
 A "significant" Brexit transitional period needs to be agreed as soon as possible, to stop jobs being moved from the UK to Europe, according to the boss of Goldman Sachs International.

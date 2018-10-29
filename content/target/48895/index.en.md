@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Culter Football Club
-
 Site for a Scottish junior football club based in Peterculter, Aberdeenshire, Scotland.

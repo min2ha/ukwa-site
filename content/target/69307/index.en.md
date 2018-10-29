@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Montgomeryshire Literary Festival | Gwyl Llên Maldwyn
-
 Monty Lit Fest, founded by Simon Baynes, will take place on the 9th June 2018 in the gardens of Bodfach Hall just outside Llanfyllin.

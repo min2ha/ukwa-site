@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: After this week, I refuse to believe that Brexit is unstoppable
-

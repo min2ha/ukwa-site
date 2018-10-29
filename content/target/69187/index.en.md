@@ -10,6 +10,4 @@
   "start_date": "2018-07-21T09:00:00Z"
 }
 
-#  Digital, Culture, Media and Sport Committee (@CommonsCMS) on Twitter
-
 We are the Digital, Culture, Media and Sport Select Committee, a cross-party committee of MPs appointed to scrutinise the Government.

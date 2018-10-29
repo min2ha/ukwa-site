@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: DUP hits out at Irish government's Brexit stance
-
 Arlene Foster, Leader of the Democratic Unionist Party, argues that the Irish Government are using Brexit negotiations to put forward their vision for the future of the island of Ireland. She accused Dublin of not allowing EU negotiations "to move forward until they have certain things they demand".

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Linc, The: Opinion: Depression memes are a way of talking about mental health in a more comfortable way
-
 Article discussing how the internet has changed and shaped the way in which the discourse surrounding mental health takes place

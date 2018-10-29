@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Streatham Labour Party (@StreathamLabour) on Twitter
-

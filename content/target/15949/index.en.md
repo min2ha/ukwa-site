@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Court of the Lord Lyon, The
-
 The official heraldry office for Scotland.

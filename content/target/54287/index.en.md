@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jake Lambert (Labour  Politician)
-
 Jake Lambert sttod as Labour candidate for Eastbourne and Willingdon in the 2017 General Election but was not elected.

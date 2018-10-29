@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Small Eyes Big City
-
 Small Eyes Big City is a website run by Lilly, a French living in London. She presents her personal experiences and of her fellow ex-pats.

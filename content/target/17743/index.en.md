@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Labour will take aim at Tory and Lib Dem London seats to get Ed Miliband into Number 10, reveals Sadiq Khan
-
 None

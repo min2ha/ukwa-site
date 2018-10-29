@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Culture Northern Ireland
-
 Culture Northern Ireland is Norther Ireland's arts and cultural website, covering music, literature, heritage, sport, dance, theatre, the visual arts and much more besides. It contains articles, reviews, profiles, event listings and multimedia content. It is funded by the Arts Council of Northern Ireland.

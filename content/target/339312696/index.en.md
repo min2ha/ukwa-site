@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Story, The 
-
 The Irish Story is a blog that features articles and book reviews on Irish history.

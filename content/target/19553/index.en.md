@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Freedoms of citizens to the fore
-

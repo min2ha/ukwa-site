@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Лондонская школа русского языка и литературы / Londonskaia shkola russkogo iazyka i literatury [London School of Russian Language and Literature]
-
 A specialist Russian Language Saturday School for bilingual Russian-English children in the UK.

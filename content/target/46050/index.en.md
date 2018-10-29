@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T11:00:00Z"
 }
 
-# Congenital Anomaly Register & Information Service (CARIS)
-
 CARIS aims to provide reliable data on congenital anomalies in Wales which can be used to assess patterns of anomalies, including possible clusters and their causes and to inform the work of health services, including antenatal screening.

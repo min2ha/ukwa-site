@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# National College of Education
-
 The National College of Education is an independent organisation dedicated to raising the status of the teaching profession through effective training.

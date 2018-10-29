@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Royal Borough of Kensington and Chelsea, The: Statement of Persons Nominated
-
 Statement of Persons Nominated for the 2018 Local Elections on the 3rd of May in The Royal Borough of Kensington and Chelsea. 

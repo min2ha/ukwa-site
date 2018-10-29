@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aberystwyth and Aberaeron EGO
-
 Aberystwyth and Aberaeron EGO is a magazine promoting & celebrating the people, businesses & organisations of Aberystwyth and Aberaeron.

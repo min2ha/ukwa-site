@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff City mauve and yellow army
-
 Cardiff City blog covering six decades of supporting the club.

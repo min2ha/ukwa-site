@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Liverpool Collegiate (@LC_RUFC) on Twitter
-
 The official Twitter account of Liverpool Collegiate Rugby Football Club. A community rugby club based in Liverpool with 4 senior teams and a thriving junior section.

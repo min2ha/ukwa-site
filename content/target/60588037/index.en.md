@@ -10,5 +10,3 @@
   "start_date": "2011-04-21T00:00:00Z"
 }
 
-# Reach - Association for Children with Upper Limb Deficiency
-

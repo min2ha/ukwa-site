@@ -10,5 +10,3 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Gwasg Prifysgol Cymru | University of Wales Press
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Royal Institute of British Architects: Build a Better Britain
-
 Official website of the Royal Institute of British Architects (RIBA), an organisation championing better buildings, communities and the environment through architecture.

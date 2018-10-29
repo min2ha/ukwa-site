@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: GDP figures: a blow for Osborne's growth and austerity mantra
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NI Football Daily (@NIFootballDaily) on Twitter
-
 The official Twitter account of NI Football Daily.

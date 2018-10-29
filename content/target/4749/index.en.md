@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# University of Bedfordshire: University flies South Africa flag in honour of Nelson Mandela
-
 None

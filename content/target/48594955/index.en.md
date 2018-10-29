@@ -11,5 +11,3 @@
   "subject": "Aging"
 }
 
-# SPECAL - specialized early care for Alzheimer's
-

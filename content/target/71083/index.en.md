@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Selby RUFC on Pitchero
-
 The official website of Selby Rugby Football Club.

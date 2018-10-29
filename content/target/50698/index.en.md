@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Edinburgh Dungeon
-
 Site of a visitor attraction focusing on Edinburgh's grisly past.

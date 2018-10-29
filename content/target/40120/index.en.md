@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Bob Kilmister on Facebook (Liberal Democrats candidate for Preseli Pembrokeshire)
-
 Bob Kilmister is the Liberal Democrats candidate for Preseli Pembrokeshire at the 2016 National Assembly Election. 

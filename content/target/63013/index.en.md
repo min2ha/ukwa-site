@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Oxfordshire Local History Association (OLHA)
-
 The Oxfordshire Local History Association (OLHA) is for everyone interested in the history of the county of Oxfordshire, UK.  

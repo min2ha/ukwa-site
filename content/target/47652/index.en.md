@@ -10,6 +10,4 @@
   "start_date": "2016-12-06T09:00:00Z"
 }
 
-# Finding Your Feet
-
 Site of an organisation providing support to individuals who have been affected by amputation or limb difference, through sporting initiatives and social inclusion projects.

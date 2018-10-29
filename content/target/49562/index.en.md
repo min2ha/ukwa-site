@@ -10,6 +10,4 @@
   "start_date": "2017-02-21T09:00:00Z"
 }
 
-# Positive East
-
 Positive East is based in East London, they provided a range of support services for people living with and affected by HIV in London for over 25 years. 

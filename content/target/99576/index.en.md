@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Wellcome Library Blog
-
 The Wellcome Library are one of the world's major resources for the study of medical history. They also offer a growing collection of material relating to contemporary medicine and biomedical science in society.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Aboyne Highland Games
-
 Site of an annual Highland games taking place at Aboyne, Aberdeenshire and featuring traditional Highland sports, music and dance competitions.

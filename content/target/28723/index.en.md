@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# ITV News: Forth Rail Bridge marks 125 year anniversary
-

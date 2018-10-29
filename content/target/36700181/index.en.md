@@ -10,5 +10,3 @@
   "start_date": "2010-03-08T00:00:00Z"
 }
 
-# BBC News Archive - Dracos.co.uk
-

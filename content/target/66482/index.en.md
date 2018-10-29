@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Score Group Plc
-
 The website of Score Group plc, an international engineering business based in Peterhead. 

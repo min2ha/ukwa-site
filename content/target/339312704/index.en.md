@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Sackville Street Art Project 
-
 This is the website of the ‘1916 Sackville Street Art Project’. The project aims to hold an exhibition of houses in 3D art form commemorating the lives of the ordinary civilians that were killed during the 1916 Easter Rising.

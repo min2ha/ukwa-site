@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# National Archives, The: Ireland's Easter Rising 1916
-
 Research guide 'How to look for records of...' by The National Archives

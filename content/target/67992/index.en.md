@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Walk Scilly 
-
 Guided walks across nine islands as well as talks and music

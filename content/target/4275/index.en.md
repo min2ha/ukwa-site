@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Youth and Students for Independence
-
 None

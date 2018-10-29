@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Orla Lowe (@orlalowe) on Twitter
-
 Conservative Parliamentary Candidate for Neath at the 2017 General Election.

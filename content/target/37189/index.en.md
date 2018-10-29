@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum: It's not Project Fear to want answers from Leave campaign, says Justine Greening
-
 Telegraph, The: EU referendum: It's not Project Fear to want answers from Leave campaign, says Justine Greening

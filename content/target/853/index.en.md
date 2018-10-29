@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derbyshire Healthcare
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Helensburgh Scottish National Party (SNP)
-
 The website of the Helensburgh branch of the Scottish National Party (SNP).

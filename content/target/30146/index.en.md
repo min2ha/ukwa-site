@@ -10,6 +10,4 @@
   "start_date": "2015-09-03T10:00:00Z"
 }
 
-# Gustavius Payne
-
 Gustavius Payne is a Welsh figurative artist.

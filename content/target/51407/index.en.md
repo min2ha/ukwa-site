@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Samye Foundation Wales
-
 Samye Foundation Wales was established in 2006 as a not-for-profit company; for the primary purpose of promoting mindfulness, meditation, the Tibetan culture and well-being in Wales. 

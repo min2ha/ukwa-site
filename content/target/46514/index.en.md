@@ -10,5 +10,3 @@
   "start_date": "2016-10-27T11:00:00Z"
 }
 
-# Parish of Porthkerry and Rhoose, The
-

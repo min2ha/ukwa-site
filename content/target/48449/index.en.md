@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Speech is 'clearest idea' of deal PM wants
-
 After her speech on January 17th 2017, we have the clearest idea of the deal Theresa May wants: UK access to the European Single Market but no membership of it; a tariff-free customs union with the EU but freedom to sign trade deal with other countries; some sort of bridging arrangement between membership of the EU and life outside it to avoid "a disruptive cliff edge", to use Theresa May's phrase; a close security relationship with the EU. 

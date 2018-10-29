@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Conservative manifesto key policies: David Cameron's plan to win the General Election
-
 None

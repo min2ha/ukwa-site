@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# SCP News (NewsSCP) on Twitter
-
 The twitter profile of the Scottish Christian Party.

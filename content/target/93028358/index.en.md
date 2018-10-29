@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Secret Lives of Objects
-
 None

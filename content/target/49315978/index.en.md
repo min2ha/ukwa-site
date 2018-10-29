@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Wigtown Book Festival
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# What Works Scotland
-
 An initiative to improve public service development decision making and reform.

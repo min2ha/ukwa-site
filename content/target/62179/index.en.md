@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberlour Parish Church
-
 Site of a Church of Scotland parish church at Aberlour, Moray, seriving Aberlour, Craigellachie, Edinvillie and Benrinnes.

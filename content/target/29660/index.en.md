@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sherborne Literary Festival
-
 Festival organised by the Sherborne Literary Society

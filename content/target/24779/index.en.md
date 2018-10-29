@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ruth Fabricant (@RuthFabricant) on Twitter (Green Party candidate for Beckenham)
-
 Ruth Fabricant stood as Green Party candidate for Beckenham at the 2017 General Election but was not elected. She also stood for the same seat in 2015 but was not elected.

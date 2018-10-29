@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# British Newspaper Archive, The: The Easter Rising: As documented in the British newspapers, 1916
-
 Blog post about the Easter Rising in the British press 1916, with scans of articles and link to the British Newspaper Archive.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Kevin Williamson (@williamsonkev) on Twitter
-
 Twitter profile of Kevin Williamson author and founder of Rebel Inc, co-founder of Bella Caledonia and Neu! Reekie!

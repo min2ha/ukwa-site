@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Bois Afan Male Voice Choir
-
 Bois Afan was formed in 1986. They meet in the village of Cwmafan near Port Talbot.

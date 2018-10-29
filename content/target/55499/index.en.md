@@ -10,6 +10,4 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# QualityWatch
-
 QualityWatch is an independent body to monitor the quality of health care in the UK.

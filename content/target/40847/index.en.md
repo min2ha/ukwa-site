@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cabinet Office: The UK’s cooperation with the EU on justice and home affairs, and on foreign policy and security issues
-
 This note provides background information on the UK’s cooperation with the EU on justice and home affairs, and on foreign policy and security issues.

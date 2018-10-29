@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband accuses David Cameron of broken promises on the NHS - video
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Metro: Using Facebook ‘damages your mental health and drains your lust for life,’ study finds
-
 News Article: Facebook and mental health

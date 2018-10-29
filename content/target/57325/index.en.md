@@ -10,6 +10,4 @@
   "start_date": "2017-09-22T09:00:00Z"
 }
 
-# Mercury Rapids
-
 Mercury Rapids is a sci-fi conspiracy thriller that was published by Steven Johnson. This is the official website for the novel.

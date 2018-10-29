@@ -10,6 +10,4 @@
   "start_date": "2017-04-25T09:00:00Z"
 }
 
-# Ayrshire College
-
 Site of a further education college based in Ayrshire.

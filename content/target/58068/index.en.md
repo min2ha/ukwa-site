@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Kurdistan Solidarity Network
-
 UK-based solidarity organisation for a free and independent Kurdistan.

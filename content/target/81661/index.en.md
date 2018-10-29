@@ -10,6 +10,4 @@
   "start_date": "2018-10-19T09:00:00Z"
 }
 
-# Ipsen
-
 Ipsen is a biopharmaceutical group dedicated to improving lives through innovative medicines in oncology, neuroscience and rare diseases. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

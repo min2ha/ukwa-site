@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Heriot's Rugby Club
-
 Site of a Scottish rugby union football club based in Edinburgh with links to the Heriot's independent school.

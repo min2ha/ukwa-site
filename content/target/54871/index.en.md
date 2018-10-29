@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# WITT UK Group
-
 The WITT UK Group are designers and manufacturers of industrial fans, and associated air movement solutions. The company makes ventilation systems that extract smoke in a fire and was involved in the Grenfell Tower refurbishment project that took place in 2015-2016. It has removed any references to Grenfell Tower from its website.

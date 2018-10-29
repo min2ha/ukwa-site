@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Quotidian : a literery magazine
-
 Site of a literary magazine published writers connected by University of Strathclyde.

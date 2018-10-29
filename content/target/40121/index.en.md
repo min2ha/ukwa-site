@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WWI Soldiers from East Sheen & Mortlake Heritage Project
-
 This project explores, conserves and shares the heritage of the First World War's impact on the East Sheen and Mortlake areas of Richmond Upon Thames

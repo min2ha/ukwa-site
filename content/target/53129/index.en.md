@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# National Secular Society: As a nation we’re thinking about our future, here’s our secular manifesto for change
-
 Ahead of the 2017 General Election the National Secular Society is calling on political parties to embrace a series of secular reforms, drawn from their recently published secular manifesto, that make society, our education system, and the law fairer for all.

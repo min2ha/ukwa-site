@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Marys Old Boys RFC on Pitchero
-
 The official website of St Mary's Old Boys Rugby Football Club.

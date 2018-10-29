@@ -10,6 +10,4 @@
   "start_date": "2017-04-25T09:51:00Z"
 }
 
-# Simon Sansome (@simonlibdem) on Twitter (Liberal Democrats candidate for Charnwood)
-
 Simon Sansome stood as Liberal Democrat candidate for Charnwood at the 2017 General election but was not elected.

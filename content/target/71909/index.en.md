@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Tawerin
-
 Dawnswyr Tawerin are a Folk dancing team from Swansea.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Law Analysis: EU Referendum Briefing 1: Can the UK control the EU’s future if it stays a member?
-
 During the EU referendum campaign, a number of arguments have been made that staying in the EU is risky, because of possible future developments of the EU itself. While there will always be someone somewhere who says they would like to see an EU army, or some development related to the single currency, such an expression of opinion is meaningless by itself.  The fundamental issue is whether the UK could control such developments – either by vetoing them or opting out.

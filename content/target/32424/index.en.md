@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# London Ladies Club
-
 The London Ladies Club offers its members and their guests a friendly meeting place. Ladies of all ages and from all walks of life gather for informal talks on Tuesday mornings at The Army and Navy Club in Pall Mall.

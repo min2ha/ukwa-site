@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# London Datastore
-
 London Datastore provides open city data to the community and developers in an open and collaborative environment where requests for new data can be made and ideas brought to fruition.

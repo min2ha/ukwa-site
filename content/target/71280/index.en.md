@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Safe Sex Berkshire: Gender Identity
-
 Safe Sex Berkshire services information page on aspects of gender identity

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research: A win for ‘proper’ people? Brexit as a rejection of the networked world
-
 The referendum result, David Runciman suggests, was won by those who feel excluded from modern, highly networked forms of economy and society. The tragedy, he argues, is that the elites on the losing side will be able – and likely – to respond not by re-engaging with national politics but by distancing themselves even further from it.

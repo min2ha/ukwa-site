@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Black Deer Festival
-
 Website for the Black Deer Festival.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Cynulliad Plant a Phobl Ifanc Cymru | Children's and Young People's Assembly for Wales 
-
 Children's and Young People's Assembly was established to enable 'children and young people in Wales to get their voices heard by Government and others who make decisions about policies and services that affect their lives'.

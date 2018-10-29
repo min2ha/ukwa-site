@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Warwick Words - Festival of Literature and the Spoken Word
-
 Festival organised by the Warwick Events Group.

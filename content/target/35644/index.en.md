@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# UK Parliament: EU law and treaties
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Will Scobie (Labour candidate for South Thanet)
-

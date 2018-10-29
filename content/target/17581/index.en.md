@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# International Special Events Society UK Chapter
-
 International Special Events Society UK Chapter focuses on providing a monthly newsletter, member to member networking and promotional activities for a business in the events industry.

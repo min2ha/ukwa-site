@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Chain Bridge Forge - A Living Museum Incorporating South Holland Life
-
 Website promoting the Chain Bridge Forge in Lincolnshire.

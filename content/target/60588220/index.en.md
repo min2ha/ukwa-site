@@ -10,6 +10,4 @@
   "start_date": "2011-06-07T00:00:00Z"
 }
 
-# Fighting Depression
-
 Website that has brought together lots of information about dealing with depression, beating depression various types of depression, and other mental health issues.

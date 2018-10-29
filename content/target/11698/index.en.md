@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eilish McColgan
-
 <p>The blog of athlete Eilish McColgan, runner and member of Team Scotland for Glasgow 2014 Commonwealth Games.</p>

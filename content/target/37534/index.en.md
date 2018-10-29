@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: EU Referendum tags
-
 Spectator, The: EU Referendum tags

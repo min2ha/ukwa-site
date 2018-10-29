@@ -10,6 +10,4 @@
   "start_date": "2016-07-15T11:00:00Z"
 }
 
-# Cumbernauld Theatre
-
 Site of a theatre, company and theatre education located in Cumbernauld, North Lanarkshire, Scotland.

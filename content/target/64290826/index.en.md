@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Asexual Visibility and Education Network (AVEN), The
-
 The Asexual Visibility and Education Network (AVEN) hosts the online asexual community as well as a large archive of resources on asexuality. 

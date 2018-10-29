@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# IT Contractors UK
-
 IT Contractors UK is an information and resource portal for IT Contractors and Jobseekers in the UK.

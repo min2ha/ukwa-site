@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Campaign to Protect Rural England (CPRE)
-
 Campaign to Protect Rural England (CPRE) campaigns for a beautiful and living countryside. They work to protect, promote and enhance  towns and countryside to make them better places to live, work and enjoy, and to ensure the countryside is protected for now and future generations.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: How did Conservative whips get Brexit bill rebellion so wrong?
-

@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T11:00:00Z"
 }
 
-# Canasg Music on Facebook
-
 Canasg Music is a printer of Scottish traditional music in Gaelic and Scots. This is its official Facebook page.

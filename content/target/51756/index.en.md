@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints, Isleworth
-
 A river of life.

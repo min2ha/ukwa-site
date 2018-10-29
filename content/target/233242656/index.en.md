@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Institute of Historical Research, The (IHR)
-
 The Institute of Historical Research (IHR) is a member of the School of Advanced Study at the University of London.

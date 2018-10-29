@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Eu vote: where the cabinet and other MPs stand
-
 A detailed overview of the stances of different MPs and parties on the EU referendum

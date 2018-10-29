@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# British Association for Chemical Specialities (BACS)
-
 The British Association for Chemical Specialities (BACS) is a UK-based trade association which represents companies operating in the speciality chemicals sector of the chemicals supply chain.

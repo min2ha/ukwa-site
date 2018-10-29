@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# HM Govt of Gibraltar (@GibraltarGov) on Twitter
-
 "Deputy Chief Minister Dr Joseph Garcia explains the challenges of Brexit for Gibraltar to BBC Scotland."

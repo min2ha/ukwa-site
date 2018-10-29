@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Quarry Voices
-
 Already archiving main council site

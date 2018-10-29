@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Pretty Vicious
-
 Pretty Vicious are a Welsh rock band originally from Merthyr Tydfil who are signed to Big Machine Records.

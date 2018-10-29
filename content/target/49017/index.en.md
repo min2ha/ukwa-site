@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# House of Commons Hansard: 2nd Feb. 2017: Exiting the EU: New Partnership 
-
 David Davis presents the White Paper on the Government's plans for EU withdrawal

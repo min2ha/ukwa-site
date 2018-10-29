@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Keith Johnson Wellington NZ
-
 Keith Johnson is a British citizen residing in Wellington, New Zealand. This is his personal blog covering a wide variety of current affairs. 

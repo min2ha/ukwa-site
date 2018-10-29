@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: German firms told to prepare for hard Brexit or face heavy losses
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Almost nine in ten Scots think sectarianism is a problem for Scotland
-
 None

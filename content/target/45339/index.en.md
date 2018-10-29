@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Parc Peulwys
-
 Parc Peulwys in Conwy is the first Welsh housing development to be awarded the prestigious Green Flag, for it’s regeneration, general appearance and improved quality of life for residents.

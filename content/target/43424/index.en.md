@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Andrew Rosindell (@AndrewRosindell) on Twitter (Labour candidate for Romford)
-

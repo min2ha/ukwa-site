@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Joey Essex and Nick Clegg ‘selfie’ portrays a political system in crisis
-
 None

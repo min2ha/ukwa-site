@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'Miliband can only get to No.10 with SNP support... and YOU would pay the price in higher taxes'
-
 None

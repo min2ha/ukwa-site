@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Catherine McKinnell (Labour Politician)
-
 Catherine McKinnell stood as Labour candidate for Newcastle upon Tyne North at the 2010 General Election. She was first elected to serve as the MP for Newcastle upon Tyne North in 2010 and re-elected in 2015. She stood for re-election again in 2017 and was successful. 

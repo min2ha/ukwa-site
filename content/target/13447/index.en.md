@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheila Gilmore (SheilaGilmoreMP) on Twitter
-
 The twitter profile of Sheila Gilmore, Labour candidate for Edinburgh East.

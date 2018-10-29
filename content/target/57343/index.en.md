@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Scribblers Picnic
-
 Site of an annual charity event at Stirling staged to raise funds for cancer charities in Scotland.

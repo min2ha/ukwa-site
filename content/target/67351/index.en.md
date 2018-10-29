@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Heaton Moor Rugby Union Football Club
-

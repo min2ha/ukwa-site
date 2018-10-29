@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# Tay Cities Deal
-
 Investment in the cities of Dundee and Perth, Angus and the north part of Fife from UK and devolved government.

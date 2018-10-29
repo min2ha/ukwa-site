@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T08:00:00Z"
 }
 
-# British Film Institute (BFI)
-
 The British Film Institute (BFI) was founded in 1933. They are a charity governed by a Royal Charter. They combine cultural, creative and industrial roles, bringing together the BFI National Archive and BFI Reuben Library, film distribution, exhibition and education at BFI Southbank and BFI IMAX, publishing and festivals. They award Lottery funding to film production, distribution, education, audience development and market intelligence and research.

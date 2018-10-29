@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Rock UK
-
 We offer fun-packed activity breaks for schools, groups, families and individuals across the UK. Book now for an experience you'll never forget!

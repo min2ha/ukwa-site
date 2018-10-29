@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: European Union (Notification of Withdrawal) Bill: analysis of Lords' amendments
-
 This Commons Library briefing analyses the Lords’ new clauses on EU/EEA citizens in the UK and on a ‘meaningful vote’ at the end of the negotiations, for the Bill's return to the Commons.
 

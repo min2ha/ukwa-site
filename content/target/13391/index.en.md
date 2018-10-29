@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Fergus Ewing MSP (FergusEwingMSP) on Twitter
-
 <p>The twitter profile of Fergus Ewing, Scottish National Party Member of the Scottish Parliament for Inverness and Nairn and Scottish Government Minister for Minister for Energy, Enterprise and Tourism.</p>

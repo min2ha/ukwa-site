@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The DJ's United - International Mobile DJ Forum
-
 An online enthusiast community concerned with DJing. Discusses starting out, sound & lighting, equipment reviews and various other related topics.

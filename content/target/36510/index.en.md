@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Has the world gone mad! General's fury after Downing St mistakenly adds his name to letter backing Cameron's EU campaign   
-

@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Alfred Russel Wallace Website, The
-
 The Alfred Russel Wallace Website is written by evolutionary biologist, entomologist and Wallace scholar Dr George Beccaloni (aka 'Wallace's Rottweiler'). It covers the life of Alfred Russel Wallace (1823 - 1913), a British naturalist, explorer, geographer, anthropologist, and biologist. 

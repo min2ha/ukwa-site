@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'What happens on tour stays on tour': how a week on a young Tory campaign bus might look
-
 None

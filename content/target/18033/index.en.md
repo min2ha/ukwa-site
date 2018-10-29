@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Davies, working hard for Brecon and Radnor
-
 Chris Davies is the Conservative prospective parliamentary candidate for Brecon and Radnor.

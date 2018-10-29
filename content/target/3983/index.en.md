@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Devolution Matters
-
 A blog of comment and analysis about devolution in the United Kingdom, how it works and how it is developing. The author is Alan Trench.

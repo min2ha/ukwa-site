@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# International Business News UK: Lost Magna Carta worth £10m discovered in Victorian scrapbook
-

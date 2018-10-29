@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: The 'kingmaker seats' that will decide who becomes Prime Minister 
-
 None

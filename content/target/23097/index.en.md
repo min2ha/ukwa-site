@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Rees-Evans (@JohnReesEvans) on Twitter
-

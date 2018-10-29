@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# The Nutrition Society
-
 The Nutrition Society was established in 1941 ‘to advance the scientific study of nutrition and its application to the maintenance of human and animal health'.
 
 Highly regarded by the scientific community, the Society is the largest learned society for nutrition in Europe. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Drum, The: Social media analysis predicts Yes campaign as the winner in Scottish referendum 
-
 <p>Report posted 9.20am on 18 September 2014, using data from social media sources that show the Yes campaign as having greater prominence than No in online discussions.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Chancellor speech: CBI Annual Dinner 2018
-
 Philip Hammond rejects business' calls for the UK to remain in the customs union after Brexit

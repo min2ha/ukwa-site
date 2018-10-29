@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football365
-
 Football News, Views, Gossip and much more

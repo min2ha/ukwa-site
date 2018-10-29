@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Fuselit's Cut Out & Keep
-

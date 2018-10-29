@@ -10,6 +10,4 @@
   "start_date": "2005-08-10T00:00:00Z"
 }
 
-# Edinburgh / The City of Edinburgh Council
-
 None

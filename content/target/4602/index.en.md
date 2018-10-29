@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Keeping the Faith: the transmission of Sikhism among young British Sikhs
-
 <p>Research project at the University of Leeds, funded by the AHRC/ESRC Religion and Society programme and the Bradford Educational and Cultural Association of Sikhs (BECAS)</p>

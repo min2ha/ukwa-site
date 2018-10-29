@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Jess Woodrow
-
 Jess Woodrow is an artist and story writer living and working in the black Mountains in Wales. 

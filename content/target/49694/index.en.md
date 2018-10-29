@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Glenrothes Amateur Musical Association Youth / GAMA Youth
-
 Site of the youth section of an amateur musical theatre association set up to to encourage participation in, and appreciation of, all aspects of musical theatre, involving staging of a live production.

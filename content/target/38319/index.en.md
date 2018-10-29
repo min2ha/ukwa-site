@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Leaked Brexit email claims David Cameron has 'starved' NHS
-
 Guardian, The

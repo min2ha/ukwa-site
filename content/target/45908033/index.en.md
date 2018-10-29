@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mike MacKenzie MSP
-
 Mike MacKenzie was Scottish National Party member of the Scottish Parliament for Highlands and Islands Region from 2011 to 2016.

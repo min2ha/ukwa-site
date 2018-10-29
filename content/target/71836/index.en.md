@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Arts & Business Scotland
-
 Art and Business Scotland is a charity which encourages connections between business and cultural sectors.

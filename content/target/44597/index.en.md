@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Better Society Network
-
 A news site that highlights the contribution corporations have been making to tackle environmental and ethical issues both indirectly and directly.

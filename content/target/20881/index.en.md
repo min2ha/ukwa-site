@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huw Bell on Facebook
-
 This is the Facebook page of Huw Bell, the Conservative Party candidate for North East Fife in the UK General Election on the 7th May 2015.

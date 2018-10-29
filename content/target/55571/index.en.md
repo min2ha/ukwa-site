@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Eutopia Law
-
 EUtopia law was founded by members of Matrix Chambers‘ EU law group. It aims at commenting selectively on interesting developments in EU law, particularly as they affect lawyers’ practice areas, and at contributing to the debate on topical issues, including extensive comment on Brexit

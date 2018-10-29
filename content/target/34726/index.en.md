@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prospect
-
 Website of Prospect, a union for professionals and specialists.

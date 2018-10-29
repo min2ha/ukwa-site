@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tony Blair's former business backer Sir Charles Dunstone 'frightened' by Ed Miliband winning election
-
 None

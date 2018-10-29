@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Breitbart - London: LEAKED: Soros-Backed, Multi-Million Pound Plot to Thwart Brexit in Six Months
-
 Leaked papers revealed how the foreign-funded group ‘Best for Britain’ hopes to spend a £5.6 million war chest on subverting or overturning the British people’s vote to leave the European Union (EU).

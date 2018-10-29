@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# YCS (Y Cwmni Siarad/The Talking Company) Counselling Wales
-
 YCS (Y Cwmni Siarad/The Talking Company) is a Social Enterprise working to improve access to therapies and counselling for underrepresented groups in South Wales.

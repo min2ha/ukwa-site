@@ -10,5 +10,3 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Obraichean Gàidhlig | Gaelic Jobs Board - Find your next Gaelic job
-

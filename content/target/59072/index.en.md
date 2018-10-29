@@ -10,6 +10,4 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# Untold Lives (@UntoldLives) on Twitter
-
 Sharing stories from the past - a British Library blog

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ardsley Residents Association
-

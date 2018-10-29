@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# City Pubs
-
 City of London, Square Mile pubs and bars listed and reviewed.

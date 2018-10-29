@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 10th July 2017: G20
-
 Debate on the Prime Minister's statement on the G20 meeting in Hamburg, with numerous references to post-Brexit trade.

@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Fenland District Council
-
 Website of Fenland District Council provides Information on local services, news and events. You can also find out about the Council's plans, policies and strategies and read consultation documents, committee papers and meeting minutes.

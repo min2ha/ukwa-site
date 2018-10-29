@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Cathedral Revealed in time for Magna Carta celebrations!
-

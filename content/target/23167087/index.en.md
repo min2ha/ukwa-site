@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# UK Shareholders Association (UKSA)
-
 None

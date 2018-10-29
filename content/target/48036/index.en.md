@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Now let's appoint an EU ambassador who believes in Brexit!' Britain's 'pessimistic' man in Brussels QUITS after facing major backlash over his 'gloomy' warnings about EU divorce  
-

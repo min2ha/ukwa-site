@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# David King Ice Skater
-

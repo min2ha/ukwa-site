@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems will triple statutory paternity leave to 6 weeks if re-elected
-
 None

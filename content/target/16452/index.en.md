@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: Ed Miliband is 'wriggling like an eel' over 'weaponising' NHS
-
 None

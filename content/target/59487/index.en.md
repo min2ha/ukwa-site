@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May backed us on Catalonia. Brexit will not break our bond
-

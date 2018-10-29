@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Ivy Alvarez
-
 Writer listed in the Literature Wales' Writers of Wales database. She is a 'MacDowell and Hawthornden Fellow twice-nominated for the Pushcart Prize, both Literature Wales and the Australia Council for the Arts awarded her grants towards the writing of Disturbance'.

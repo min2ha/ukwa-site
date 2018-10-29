@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# York Health and Wellbeing Board
-
 None

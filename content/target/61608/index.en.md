@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 21st February 2018: Leaving the EU: No-deal Alternatives
-
 Members express concern at the prospect of a "hard" Brexit, where the UK leaves the EU without a deal and trades on WTO terms. They favour membership of EFTA-EEA as a sort of safe harbour.

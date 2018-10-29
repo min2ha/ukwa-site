@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# South East Cornwall Liberal Democrats (@libdemssec) on Twitter
-
 Twitter account of South East Cornwall Liberal Democrats, providing information on campaigns, events, representatives and candidates and local and national news updates.

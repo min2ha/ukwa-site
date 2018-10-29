@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Angela Eagle: 'Tory blokes' playground spat' drowning out EU debate
-
 Guardian, The

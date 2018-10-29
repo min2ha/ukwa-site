@@ -10,7 +10,5 @@
   "start_date": "2009-03-11T00:00:00Z"
 }
 
-# Latex Alergy Support Group
-
 To raise awareness of latex allergy amongst the general public and, in
 particular, healthcare workers.

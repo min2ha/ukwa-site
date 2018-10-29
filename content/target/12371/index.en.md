@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tour de British Library on Twitter
-

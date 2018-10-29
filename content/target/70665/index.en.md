@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Mark Doidge (@markdoidge) on Twitter
-
 Sociologist @UniofBrighton. Researches activist football fans, ultras, discrimination & making #refugeeswelcome. 

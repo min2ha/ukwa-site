@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Fine Gael
-
 This is the website of Fine Gael. It contains the text of a speech given in 2015 by the former leader of Fine Gael and An Taoiseach, Enda Kenny T.D. on the occasion of the opening of the 'Birth of a Nation' exhibition.

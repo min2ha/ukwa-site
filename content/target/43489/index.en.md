@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Saint, The: St Andrews University Student Newspaper: TURN OUT FOR WHAT: Thomas Claridge discusses why Benefit makeup, Colin Firth’s Oscar, and British rabbits all benefit from EU membership.
-
 An article discussing the benefits of EU membership and the implications that leaving might have upon students as well as society as a whole.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Document Film Festival
-
 Site of an annual film festival in Glasgow, focusing on documentary films about human rights.

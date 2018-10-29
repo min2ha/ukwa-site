@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# The Beaupre Singers
-
 The Beaupre Singers are a mixed choir (SATB) formed in 1987, in Cowbridge and sing music of the 16th and 17th centuries, both sacred (motets) and secular (madrigals).

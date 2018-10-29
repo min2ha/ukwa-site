@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Anglesey Vintage Equipment Society | Cymdeithas Hen Gelfi Ynys Mon
-
 The aims of the Anglesey Vintage Equipment Society are to promote the preservation of old machinery and artefacts and, where possible, keep them in their native area.

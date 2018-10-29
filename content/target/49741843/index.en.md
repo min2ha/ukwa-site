@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Knowledge Blog
-
 None

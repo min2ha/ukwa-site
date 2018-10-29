@@ -10,6 +10,4 @@
   "start_date": "2017-07-13T09:00:00Z"
 }
 
-# Alys Conran
-
 Alys Conran is the author of 'Pigeon' (Parthian Books, 2016), which is shortlisted for the International Dylan Thomas Prize. It is the first novel to be published simultaneously in English and Welsh. She is also a lecturer in creative writing at Bangor.

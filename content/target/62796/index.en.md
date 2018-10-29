@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Birmingham 2022 Commonwealth Games
-
 The official website of Birmingham Commonwealth Games 2022.

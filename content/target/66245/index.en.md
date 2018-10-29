@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Lubavitch of Scotland
-
 Ste of the Orthodox Jewish, Hasidic movement Lubavitch / Chabad in Scotland.

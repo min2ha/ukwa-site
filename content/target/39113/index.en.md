@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Airdrie & Shotts SNP
-
 The constituency branch of the Scottish National Party in Airdrie and Shotts.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# Lorn Leisure and Libraries on Facebook
-
 Facebook page reporting on the Corran Halls, libraries, Active Schools Activities, football programmes and other sport programmes and courses within Lorn in Scotland.

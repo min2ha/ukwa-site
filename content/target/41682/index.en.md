@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Creech St. Michael
-
 Creech St. Michael is a village and parish in Somerset, England, situated three miles east of Taunton in the Taunton Deane district. In 2002 the village had a population of 2,464 (Somerset County Council, population estimate).

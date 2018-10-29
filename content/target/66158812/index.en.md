@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Pool of Memories - Moseley Road Baths, Birmingham
-
 None

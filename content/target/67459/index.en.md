@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 13th JUne 2018: European Union (Withdrawal) Bill
-
 Report of second day's debate on Lords amendments to the European Union (Withdrawal) Bill, with the Government being victorious in all 20 votes. The voting laid bare huge divisions within the Labour Party over thr UK remaining in the single market.

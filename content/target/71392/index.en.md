@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Olney RFC on Pitchero
-
 The official website of Olney Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Polish Express
-
 Polish breaking news in UK! Poles in the UK, United Kingdom, England.

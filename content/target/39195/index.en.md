@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# EH49 Food
-
 Site of a business and voluntary group of residents of Linlithgow, Scotland bringing fresh, locally produced, sustainable and ethically sourced food to the town at fair, affordable prices.

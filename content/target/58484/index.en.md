@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Inverness Shinty Club
-
 Site of a shinty club based in Inverness.

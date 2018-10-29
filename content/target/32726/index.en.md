@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Denise Mina
-
 Alex Mina is a crime novelist and playwright.

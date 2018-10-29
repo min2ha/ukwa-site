@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Good Morning London
-
 Online newspaper for the French community in London.

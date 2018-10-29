@@ -10,5 +10,3 @@
   "start_date": "2011-12-16T00:00:00Z"
 }
 
-# CARM: Centre for Advanced & Renewable Materials
-

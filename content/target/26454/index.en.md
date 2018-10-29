@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon questions legitimacy of UK government without Scottish MPs
-
 None

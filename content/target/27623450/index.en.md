@@ -10,5 +10,3 @@
   "start_date": "2009-03-09T00:00:00Z"
 }
 
-# Reception of British and Irish Authors in Europe
-

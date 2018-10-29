@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 remains Unfinished Business
-
 Website of the Republican Sinn Féin National Centenary Committee

@@ -10,6 +10,4 @@
   "start_date": "2015-12-10T09:00:00Z"
 }
 
-# Cymwysterau Cymru | Qualifications Wales
-
 Qualifications Wales is the regulator of non-degree qualifications and the qualifications system in Wales. It is a Welsh Government Sponsored Body established through the Qualifications Wales Act 2015.

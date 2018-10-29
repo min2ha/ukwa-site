@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Shakespeare Plays, The 
-
 The Shakespeare Plays is a screenplay for a full-length biopic of William Shakespeare.

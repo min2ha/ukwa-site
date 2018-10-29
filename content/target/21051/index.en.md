@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Naomi Long (@naomi_long ) on Twitter (Alliance Party candidate for Belfast East)
-

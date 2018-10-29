@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Small Business Federation Northern Ireland
-

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Baptist Peace Fellowship
-
 Baptist Peace Fellowship provides fellowship for Baptists who seek nonviolent means to confront and overcome injustice.

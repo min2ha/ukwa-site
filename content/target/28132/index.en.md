@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Ed Hawkins (@ed_hawkins) on Twitter
-
 Twitter feed of climate scientist Ed Hawkins from the University of Reading, UK

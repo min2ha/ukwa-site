@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Annie Morgan Suganami
-
 Annie Morgan Suganami is a Welsh artist and musician currently living and working in Machynlleth.

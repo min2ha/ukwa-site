@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-#  Jackie Morris Artist 
-
 Jackie Morris is a Pembrokeshire based  author, illustrator and painter. She works in partnership with Solva Woollen Mill and her books have been published in 14 different languages.

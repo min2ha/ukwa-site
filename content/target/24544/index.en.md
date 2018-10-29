@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: The BBC election debate in 10 minutes
-
 None

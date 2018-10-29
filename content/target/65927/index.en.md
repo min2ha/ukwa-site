@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Fears that dispute over Irish border checks post-Brexit could spiral into violence as survey finds a fifth of Catholics would back protests   
-

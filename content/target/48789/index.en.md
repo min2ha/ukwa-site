@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Hywel Williams AS/MP (@HywelPlaidCymru) on Twitter
-
 Hywel Williams is the Plaid Cymru MP for Arfon.

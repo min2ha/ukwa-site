@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Julie Jones-Evans (@juliejonesevans) on Twitter (Independent  Politician)
-
 Julie Jones-Evans stood as an Independent candidate in the constituency of Isle of Wight in the 2017 General Election but was not elected. 

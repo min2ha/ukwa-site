@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newton Stewart Rugby Football Club
-
 Site of a Scottish rugby union football club based in Newton Stewart, Dumfries and Galloway.

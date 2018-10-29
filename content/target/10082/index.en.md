@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# What Scotland Thinks 
-
 A blog providing analysis on attitude and opinion surveys on the question of Scottish independence. The blog is maintained by Professor John Curtice, with additional posts from guests.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: EU rebuffs idea of escalating Brexit talks to leaders' summit
-
 European officials poured cold water on hopes that Theresa May could negotiate Brexit with other EU leaders in September 2018 to break the deadlock over Britain’s departure. Diplomatic sources rejected suggestions that May could hold direct talks on Brexit with the 27 other EU heads of state and government at a summit in Salzburg.

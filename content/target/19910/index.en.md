@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Phil Woods (@DeesideChooses) on Twitter
-
 Independent candidate for Alyn and Deeside.

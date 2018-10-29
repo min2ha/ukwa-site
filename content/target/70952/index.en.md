@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 5th September 2018: Prime Minister's Questions
-
 Jeremy Corbyn used all six of his questions to highlight Cabinet splits over the prime minister's Brexit proposals - starting with a quote from International Trade Secretary Liam Fox, who said the chance of a "no deal" Brexit was 60/40..

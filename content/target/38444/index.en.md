@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Dominic Raab, Conservative
-
 Dominic Raab is a Eurosceptic Conservative Mp representing Esher and Walton. The website provides a biography and information about his local and parliamentary activities and campaigns. He was appointed Brexit Secretary after David Davis resigned in July 2018.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Royal Institution of Chartered Surveyors (RICS)
-
 RICS commissions independent research to provide information, stimulate debate and promote leading edge thinking among our members, policy makers and key decision makers in business.

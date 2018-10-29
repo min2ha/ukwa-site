@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Graham Winter (@Grahamcrhlabour) on Twitter (Labour Party Politician)
-
 Graham Winter stood as Labour Party candidate for Camborne and Redruth in the 2017 General Election but was not elected.

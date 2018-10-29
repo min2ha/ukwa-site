@@ -10,7 +10,5 @@
   "start_date": "2016-06-15T10:00:00Z"
 }
 
-# Ben Kelly (@TheScepticIsle ) on Twitter
-
 Campaigning to leave the EU
  "

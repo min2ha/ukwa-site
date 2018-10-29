@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Whitby on Facebook (Labour Party Candidate for North Cornwall) 
-

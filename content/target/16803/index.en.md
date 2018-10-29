@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Rheumatoid Arthritis Society (NRAS): General Election 2015
-
 The NRAS aim to provide information and support for people with rheumatoid arthritis (RA) and juvenile idiopathic arthritis (JIA), their families, friends and carers, as well as health professionals with an interest in RA.

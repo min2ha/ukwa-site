@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Emily McGoven
-
 Emily McGovern is a webcomic creator. This website publishes her comics which are also available on Facebook.

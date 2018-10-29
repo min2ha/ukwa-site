@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Festival of Choice London
-
 A celebration of feminist solidarity and prochoice activism across the world

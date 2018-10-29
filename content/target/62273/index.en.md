@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Roots Hall Stadium
-
 Roots Hall is a football stadium located in Southend-on-Sea, Essex, England. The stadium is the home ground of the League One football club Southend United.

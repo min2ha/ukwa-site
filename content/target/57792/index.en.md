@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The; Daggers drawn! PM slaps treacherous Chancellor down as tensions between No.10 and No.11 reach breaking point   
-

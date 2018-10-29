@@ -10,5 +10,3 @@
   "start_date": "2011-03-18T00:00:00Z"
 }
 
-# Dyfed Young Composer and Young Musician - Cerddorion a Cyfansoddwyr Ifanc Dyfed
-

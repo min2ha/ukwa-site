@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Grove : Fountainbridge Community Garden
-
 WordPress site of a community garden based in the area of Fountainbridge, west Edinburgh, and using vacant sites as bases for mobile and temporary community gardens.

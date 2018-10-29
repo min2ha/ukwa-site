@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Men on the Memorial, The 
-
 This project is about conserving the memorial to the men from Skelsmergh who served in WW1 and exploring and sharing their stories and the stories of the community they left behind.

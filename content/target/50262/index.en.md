@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Welsh Language App Directory
-
 Apps in Welsh is a joint venture between Applingua and the Welsh Government.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Global Counsel
-
 Provide advice to corporate strategists and senior management

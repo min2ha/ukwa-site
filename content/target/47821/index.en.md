@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# EU Joint Action on Dementia
-
 Site to promote the activities resulting from EU Joint Action DEM2, to improve the lives of those living with dementia and their carers.

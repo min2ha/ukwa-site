@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Michael Gove is RIGHT about the PM's EU deal not being 'legally binding' claims Boris Johnson's barrister wife   
-

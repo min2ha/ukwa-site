@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Abdie & Dunbog linked with Newburgh Parish Churches
-
 Site of Church of Scotland parish churches atcovering Abdie, Dunbod and Newburgh, Fife.

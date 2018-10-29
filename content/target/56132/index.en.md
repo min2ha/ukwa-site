@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Daily Mail, The: I fear there is a sinister reason why Labour's turning a blind eye to students voting twice
-
 Argues that the Labour leadership is turning a blind eye to students voting twice where this advantages their candidates and damages the Tories.

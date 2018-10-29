@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Lawrence Webb (@UKIPWebb4London) on Twitter (UKIP  Politician)
-
 Lawrence Webb stood as UK Independence Party (UKIP) candidate in the constituency of Hornchurch and Upminster in the 2017 General Election but was not elected. He has run in previous elections and is currently a local councillor for the ward of Gooshays. 

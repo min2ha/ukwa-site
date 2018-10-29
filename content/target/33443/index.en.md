@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Easter Rising/7 Leaders
-
 This website contains paintings of the leaders of the Easter Rising, 1916 created on an Apple iPad using Procreate and the Maglus Stylus.

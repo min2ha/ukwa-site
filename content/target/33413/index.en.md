@@ -10,6 +10,4 @@
   "start_date": "2015-12-12T09:00:00Z"
 }
 
-# Welsh Writers’ Trust
-
 Welsh Writers’ Trust  was established in order to nurture new and well-established English-language writing talent in Wales.

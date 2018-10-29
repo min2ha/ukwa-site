@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Central: Lincoln Castle unveils plans for Magna Carta’s 800th anniversary
-

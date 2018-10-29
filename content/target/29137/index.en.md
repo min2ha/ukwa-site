@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Linlithgow Journal and Gazette: Out of this world
-

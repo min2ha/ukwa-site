@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Brechin Cathedral Church of Scotland
-
 Site of a Church of Scotland parish church at Brechin, Angus.

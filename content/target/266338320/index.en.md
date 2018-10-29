@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Loyal North Lancashire Regiment 1914-1918, The
-
 <p>Recording the stories of the soldiers of the Loyal North Lancashire Regiment that served during the First World War.</p>

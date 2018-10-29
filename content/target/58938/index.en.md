@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Wrexham Anti-Racist Network
-
 Wrexham Anti-Racist Network was formed in 2009, under the banner of Wrexham Communities Against Racism, to provide a counter event to a protest by the English/Welsh Defence League in Wrexham, and to combine activities against the far right in the area. The blog was publishing between 2010 and 2011.

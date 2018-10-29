@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Tories accused of trying to bribe pensioners with pre-election handouts
-
 None

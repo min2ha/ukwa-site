@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hidden Land and the Hive Glasgow
-
 Site of a community of artists, designers, musicians and more, working in around 100 studios off Argyle Street, Finnieston, Glasgow.

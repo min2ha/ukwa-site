@@ -11,8 +11,6 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Muslim Council of Britain
-
 The Muslim Council of Britain is a national representative Muslim umbrella body with over 500 affiliated national, regional and local organisations, mosques, charities and schools.
 
 It is an independent body, established to promote consultation, cooperation and coordination on Muslim affairs in the United Kingdom.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Lenzie Old Parish Church
-

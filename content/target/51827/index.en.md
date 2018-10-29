@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# TravellingGallery
-
 Site of a custom-built, mobile, contemporary art space inside a converted bus, which delivers contemporary art exhibitions and events to schools and communities throughout Scotland.

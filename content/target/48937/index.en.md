@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# #Scotswummin
-
 Site recording five youth projects across Scotland to investigate and celebrate influential and potentially unnoticed Scots women.

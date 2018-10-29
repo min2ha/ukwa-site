@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Clichés
-
 A website to to analyse football clichés in detail.

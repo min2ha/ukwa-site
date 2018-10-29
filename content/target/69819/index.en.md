@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Chetham’s Library
-
 Chetham’s Library was founded in 1653 and is the oldest public library in the English-speaking world. It is an independent charity and remains open to readers and visitors free of charge.

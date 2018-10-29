@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Headington & Marston Neighbourhood  Forum
-
 <p>Information on e-democracy.org relating to Headington &amp; Marston (suburbs of Oxford).</p>

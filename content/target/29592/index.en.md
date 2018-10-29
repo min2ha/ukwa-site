@@ -10,5 +10,3 @@
   "start_date": "2015-08-01T10:00:00Z"
 }
 
-# Cymdeithas Defaid Mynydd Cymreig Balwen | Balwen Welsh Mountain Sheep Society
-

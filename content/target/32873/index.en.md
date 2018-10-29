@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Welsh Amateur Boxing Association (WABA)
-

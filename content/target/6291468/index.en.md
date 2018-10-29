@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Elephant Facts! History of the Elephant & Castle in South London
-
 None

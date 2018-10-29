@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Re-elect Chris Baugh
-
 The official website to launch the campaign in 2018 to re-elect Chris Baugh as the Assistant General Secretary of PCS the Public and Commercial Services Union.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hannah Whelan (HannahkWhelan) on Twitter
-
 <p>The twitter profile of gymnast Hannah Whelan, member of England's Artistic Women's Team for the Glasgow 2014 Commonwealth Games.</p>

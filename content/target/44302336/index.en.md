@@ -10,5 +10,3 @@
   "start_date": "2010-04-29T00:00:00Z"
 }
 
-# Traditional Arts in the Community - Traddodiadau a Syniadau Celf
-

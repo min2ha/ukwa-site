@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# John Hardy Composer
-
 John Hardy is a composer whose work includes substantial opera, choral and instrumental music commissioned by organisations including Welsh National Opera, DV8, BBC National Orchestra & Chorus of Wales, Music Theatre Wales, BBC Concert Orchestra, Test Dept, and Westminster Abbey. Hardy was born in Exmouth and has lived in Wales since 1980. 

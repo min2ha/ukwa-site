@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Perthshire Rugby
-
 Site of a Scottish rugby union football club based in Perth, Perth & Kinross.

@@ -10,6 +10,4 @@
   "start_date": "2017-08-01T09:00:00Z"
 }
 
-# 6G Llandudno Junction Steam Locomotive and Carriage Shed 1899-2000
-
 A nostalgic site looking the history of 6G Llandudno Junction Steam Locomotive and Carriage Shed, a motive power depot in north Wales.

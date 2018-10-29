@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Darren Jones (@DarrenDJJones) on Twitter (Plaid Cymru candidate for Gwent Police and Crime Commissioner) 
-
 Darren Jones is the Plaid Cymru candidate at the 2016 Police and Crime Commissioner Elections for Gwent.

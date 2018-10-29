@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# GKN plc
-
 GKN plc is a British multinational automotive and aerospace components company which operates four divisions: GKN Aerospace, GKN Driveline, GKN Powder Metallurgy and GKN Land Systems. With approximately 56,100 people working in GKN companies and joint ventures in more than 30 countries.

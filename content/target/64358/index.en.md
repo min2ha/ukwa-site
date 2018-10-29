@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cambrian Rally
-
 Formed in 1955 the North Wales Car Club was born out of the Llandudno Aero Club which accidentally destroyed it’s one and only plane. The group was becoming interested in cars and met in Llandudno to form what has now become one of the premier clubs in the North-West. 

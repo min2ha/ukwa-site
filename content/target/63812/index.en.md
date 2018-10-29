@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Arbirlot and Carmyllie Churches
-

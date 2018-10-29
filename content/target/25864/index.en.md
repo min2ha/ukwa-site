@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: There’s one photograph all politicians fear: the one of them eating
-
 None

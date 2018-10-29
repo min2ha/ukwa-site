@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Worth the Tour
-
 <p>website of a community group set up to bring businesses and people together to celebrate the Tour de France by staging events.</p>

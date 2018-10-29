@@ -10,6 +10,4 @@
   "start_date": "2018-09-26T09:00:00Z"
 }
 
-# Bloomsbury Ephemera Fair (Etc Fairs)
-
 Monthly fair for printed ephemera and postcards in Bloomsbury, London

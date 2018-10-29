@@ -10,7 +10,5 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Polly Thomas
-
 "
 Polly Thomas is an internationally published freelance photographer based in Cardiff."

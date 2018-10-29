@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dundee Jazz Festival
-
 Site of an annual jazz music festival staged in Dundee.

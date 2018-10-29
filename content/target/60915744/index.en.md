@@ -10,5 +10,3 @@
   "start_date": "2011-09-02T00:00:00Z"
 }
 
-# Enabling Benchmarking Excellence Project
-

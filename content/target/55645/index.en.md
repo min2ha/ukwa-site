@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Melvin Burgess
-
 Personal site of British author Melvin Burgess, best known for his YA novel 'Junk'.

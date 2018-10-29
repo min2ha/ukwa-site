@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# United Kingdom Association of Fire Investigators (UK-AFI)
-
 United Kingdom Association of Fire Investigators (UK-AFI) focuses on the preservation of life and property and prevention of crime for the public benefit, in particular by: developing and maintaining good practice in the investigation of fire and arson by ensuring the highest professional standards of competence; developing technical knowledge in fire and arson investigation techniques and procedures and making that knowledge available to professionals, service providers and the public.

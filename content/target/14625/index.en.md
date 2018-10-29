@@ -10,6 +10,4 @@
   "start_date": "2014-11-21T06:00:00Z"
 }
 
-# Pharmaceutical Journal, The: 
-
 None

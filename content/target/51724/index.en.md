@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Queens Road Church, Llandudno
-

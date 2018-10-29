@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Philosophy Bites
-
 A podcast that covered a range of philosophical issues and topics, it offers both introductions and overviews to the large body of philosophical thought at the time of production.

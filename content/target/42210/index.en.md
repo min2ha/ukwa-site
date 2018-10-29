@@ -10,6 +10,4 @@
   "start_date": "2016-06-02T10:00:00Z"
 }
 
-# Magforum
-
 Magforum.com is about the past, present and future of magazines and publishing. Founded in 2001 by Tony Quinn  who had published similar pages as Head of Watford School of Publishing at West Herts College.

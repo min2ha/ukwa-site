@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General election 2015: Britain goes to the polls in closest vote for a generation 
-
 None

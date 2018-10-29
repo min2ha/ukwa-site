@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Derbyshire Remembers
-
 Theatre company Fifth Word will deliver an innovative project to mark the centenary of the Great War through the creation of a new mobile exhibition co-curated by volunteers & local children.

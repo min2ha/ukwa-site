@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Independent: Brexit: Theresa May's plans for EU withdrawal 'hugely damaging to Northern Irish peace process'
-

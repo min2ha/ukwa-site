@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Bangor University: Welsh Music Research Group | Cerddoriaeth Cymru
-

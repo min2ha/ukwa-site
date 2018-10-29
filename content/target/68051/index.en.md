@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Glen Spean Brewing Co. on Facebook
-
 Facebook page of a brewer located in Spean Bridge, Highland.

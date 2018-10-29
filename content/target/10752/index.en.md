@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Paul Oakley (@PaulJamesOakley) on Twitter (UKIP Politician)
-
 Paul Oakley stood as UK Independence Party (UKIP) candidate for Clacton in the 2017 General Election but was not elected. He also stoo for Mole Valley in the 2015 General Election but again was not elected.

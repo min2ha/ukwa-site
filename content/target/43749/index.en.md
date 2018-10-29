@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Denial then panic: how the EU misjudged the British mood
-
 Guardian, The

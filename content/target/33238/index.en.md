@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Just IT
-
 Just IT is a company offering IT training programmes.

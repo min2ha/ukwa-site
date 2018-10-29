@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Carlijn Metselaar 
-
 Carlijn Metselaar is a Dutch composer of contemporary classical music based at Cardiff. Her work includes opera, music theatre and ballet as well as music for choirs and chamber ensembles.

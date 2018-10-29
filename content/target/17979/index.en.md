@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Opinium: Survey results: Voting intention
-
 Opinium Research LLP is a market research consultancy established on 7 September 2007 as a Limited liability partnership. Its registered headquarters are in London. 

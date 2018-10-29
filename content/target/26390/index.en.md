@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband wants to control immigration. Let’s look at the myths behind this message
-
 None

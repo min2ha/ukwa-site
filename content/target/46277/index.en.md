@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Dairy UK Statement on New Government Posts
-
 A statement from Dairy UK Chief Executive Dr Judith Bryans.

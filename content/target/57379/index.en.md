@@ -10,6 +10,4 @@
   "start_date": "2017-09-23T09:00:00Z"
 }
 
-# Hanes Dyffryn Ogwen
-
 Hanes Dyffryn Ogwen is a site covering the history and interesting places of Ogwen Valley in Gwynedd. It is written by John Ll. Williams a Lowri W. Williams.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Scottish independence: Referendum demand 'will be rejected'
-
 Reports that the UK government is to reject calls for a Scottish independence referendum before Brexit after Theresa May said "now is not the time".

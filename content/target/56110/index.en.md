@@ -10,6 +10,4 @@
   "start_date": "2017-07-25T09:00:00Z"
 }
 
-# Sunshine Radio
-
 Sunshine Radio is a radio station broadcasting across Herefordshire and Monmouthshire and operated by Murfin Media Ltd.

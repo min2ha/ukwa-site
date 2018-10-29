@@ -10,6 +10,4 @@
   "start_date": "2016-02-19T09:00:00Z"
 }
 
-# John Palmer's Web site
-
 Includes information about Roman Purbeck stone and other archaeological research.

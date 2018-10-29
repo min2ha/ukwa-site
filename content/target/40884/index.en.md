@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Western Bay | Bae'r Gorllewn
-
 The Western Bay Health and Social Care Programme’s protects children and adults from 'harm, promote independence and deliver positive outcomes for people' in Bridgend, Neath Port Talbot and Swansea. If is funded by the Welsh Government.

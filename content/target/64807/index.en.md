@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Denbighshire Housing | Tai Sir Ddinbych
-
 This website offers information about rented and affordable accommodation in the Denbighshire area and aims to help those looking for a home to make choices about the most suitable option for them. 

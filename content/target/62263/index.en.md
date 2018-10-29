@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Book Review (@footybookreview) on Twitter
-
 Independent football writing - fact, fiction, poetry, prose or reviews. 

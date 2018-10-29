@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Writer's Corner Cymru
-
 Writers’ Corner Cymru was written between 2012 and 2013 and 'aims to explore  the freshness, dynamism and diversity present in Welsh writing today'. It was written by Katie Beth Harris who describes herself as a 'writer based in Wales'.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Massive £40k campaign to boost city's tourism launched today
-

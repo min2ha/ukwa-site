@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Jeremy Hunt proposes ban on sexting for under-18s
-
 news article covering the proposed ban on sexting and the role of social media

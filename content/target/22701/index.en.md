@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hugh Lanning on Facebook (Labour candidate for Canterbury)
-

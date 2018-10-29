@@ -10,6 +10,4 @@
   "start_date": "2018-08-04T09:00:00Z"
 }
 
-# Katherine Stansfield - novelist and poet
-
 Katherine Stansfield is a novelist and poet based in Cardiff. She teaches for the Open University and the School of Continuing and Professional Education at Cardiff University and works as a mentor for Literature Wales, is a Writing Fellow at the University of South Wales, and is the Royal Literary Fund fellow at Cardiff University. 

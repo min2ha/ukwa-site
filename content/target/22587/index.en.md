@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election 2015: Ed Miliband vows to cap profits private companies can make from the NHS
-
 None

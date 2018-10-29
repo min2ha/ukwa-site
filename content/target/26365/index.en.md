@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Britain at a crossroads: why you should pay attention to the UK general election
-
 None

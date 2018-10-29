@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Roach
-
 Website for David Roach, Scottish Conservatives candidate for East Lothian in the 7th May 2015 UK General Election.

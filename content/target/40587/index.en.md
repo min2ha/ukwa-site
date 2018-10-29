@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Lusitania: the War at the Mouth of the Mersey
-
 A touring audio exhibit that explores the tragedy of the Lusitania through the stories of some of the 600 passengers and crew connected to the Merseyside region.

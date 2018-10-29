@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Martin McCluskey (@martinmccluskey) on Twitter
-
 Twitter profile of Martin McCluskey, Scottish Labour candidate for Inverclyde in the 2017 general election.

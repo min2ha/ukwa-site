@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# A.M. Qattan Foundation (AMQF)
-
 A.M. Qattan Foundation (AMQF) is an independent, not-for-profit developmental organisation working in the fields of culture and education, with a particular focus on children, teachers and young artists.

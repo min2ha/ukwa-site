@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Called to arms: Australian soldiers in the Easter Rising 1916
-
 This webpage contains an article on the role of Australian soldiers during the Easter Rising, 1916

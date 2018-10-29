@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Mark for Leader/ Mark ein Harweinydd (@mark4leader) on Twitter
-
 This is the official Twitter Feed of Mark Drakeford's campaign to be leader of Welsh Labour in 2018.

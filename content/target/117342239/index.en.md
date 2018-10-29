@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Aston University BioEnergy Research Group
-
 None

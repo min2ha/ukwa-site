@@ -10,5 +10,3 @@
   "start_date": "2005-03-22T00:00:00Z"
 }
 
-# Medical Journalists Association (MJA)
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Rt Hon Norman Lamb: Letter to Mr Dilnot (UK Statistics Authority) on claims in Vote Leave campaign literature
-

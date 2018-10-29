@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Sarah Poland: Artist, Painter, Printmaker
-
 Sarah Poland is an artist from Inverness and now director of Aberystwyth Printmakers.

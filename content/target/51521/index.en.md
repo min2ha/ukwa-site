@@ -10,5 +10,3 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Plaid Cymru Cangen Llundain London Branch 
-

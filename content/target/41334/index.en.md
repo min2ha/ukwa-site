@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tamworth Informed
-
 Set up by a Tamworth resident to keep people updated news that matters to people who live, work or play in and around Tamworth.

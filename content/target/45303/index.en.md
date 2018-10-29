@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# Dalit Leon
-
 Born in Haifa, Israel but living and working in the UK. He is a Part-time lecturer at Coleg Sir-Gar and has exhibited widely in Wales.

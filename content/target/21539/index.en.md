@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Afzal Amin should 'fess up' and quit if newspaper claims are true, says Tory minister
-
 None

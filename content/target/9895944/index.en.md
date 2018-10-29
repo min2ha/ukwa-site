@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Bullying UK
-
 None

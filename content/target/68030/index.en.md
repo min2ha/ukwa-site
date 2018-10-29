@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Keynsham Walking Festival
-

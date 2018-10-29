@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Amici del Canto
-
 Amici del Canto are a North Wales based Chamber Choir founded in 2005 and who rehearse at Bryn Cadno Centre, Colwyn Heights.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dr. Rowan Williams, 104th Archbishop of Canterbury
-
 Official website of the former Archbishop of Canterbury Dr Rowan Williams.

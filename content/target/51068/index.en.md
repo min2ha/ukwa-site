@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Essex Craft Society
-
 The Essex Craft Society was formed in 1994 as a group of artists who support each other and promote high standards of design and craftsmanship in the County.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Stories from 1916 
-
 ‘Stories from 1916’ is an online portal for the collection and presentation of stories of the participants and living relatives of those involved in the 1916 Easter Rising 

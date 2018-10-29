@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Vincent Lo (@VincentLoUK ) on Twitter (Labour Politician)
-
 Vincent Lo stood as Labour candidate for Uxbridge and South Ruislip at the 2017 General Election but was not elected.

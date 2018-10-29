@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Whittington NHS Trust
-
 None

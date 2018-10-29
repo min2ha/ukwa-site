@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Slow Food UK
-
 <p>Slow Food is a global, grassroots movement with thousands of members around the world that links the pleasure of food with a commitment to community and the environment. It was founded in 1989 in Italy. It is a not–for–profit organisation seeking to promote a better way to eat, celebrating the rich food traditions of the UK and protecting our edible biodiversity.</p>

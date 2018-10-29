@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ellon Rugby
-
 Site of a Scottish rugby union football club based in Ellon, Aberdeenshire.

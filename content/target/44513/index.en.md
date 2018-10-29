@@ -10,5 +10,3 @@
   "start_date": "2016-07-22T10:00:00Z"
 }
 
-# Canolfan Cymru er Cydraddoldeb mewn Addysg | Wales Centre for Equity in Education
-

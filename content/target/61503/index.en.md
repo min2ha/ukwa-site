@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexiteers branded 'reckless' over NI peace process
-
 Brexiteers who had questioned the sustainability of the Good Friday Agreement were branded "reckless" by the Irish deputy prime minister. Simon Coveney warned they could undermine the foundations of Northern Ireland's "fragile" peace process.
 
 

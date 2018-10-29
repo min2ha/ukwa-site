@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Sotheby's Institute of Art
-
 Official website of the Sotheby's Institute of Art, London.

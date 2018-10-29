@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Maciej Wiczynski for Holyrood 2016 on Facebook
-

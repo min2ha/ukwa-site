@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Liberal Democrat Voters for Scottish Independence
-

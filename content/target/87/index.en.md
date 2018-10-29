@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Basildon and Thurrock University Hospitals
-
 None

@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Who Do You Think You Are Magazine: 125 years on, the men who died building the Forth Bridge
-

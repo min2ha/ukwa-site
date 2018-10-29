@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Constitution Committee:  European Union (Withdrawal) Bill
-
 he Committee's report states that legislation is necessary to ensure legal continuity and certainty when the United Kingdom leaves the European Union. The Committee does not comment on the merits of Brexit, but concludes that the Bill, as drafted, has fundamental flaws of a constitutional nature. The Committee find that the Bill risks undermining the legal certainty it seeks to provide, gives overly-broad powers to ministers, and has significant consequences for the relationship between the UK Government and the devolved administrations. The Committee propose a number of recommendations to improve the Bill to make it more constitutionally appropriate and fit for purpose, while still meeting the Government’s objectives.

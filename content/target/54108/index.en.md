@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tony Caldeira (Conservative Politician)
-
 Tony Caldiera stood as Conservative candidate for Wirral West in the 2017 General Election but was not elected.

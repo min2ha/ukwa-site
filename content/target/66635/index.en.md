@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Tillicoultry Quarries Limited
-
 The website of Tillicoultry Quarries Limited, a construction supplies provider based in Fife, Scotland.

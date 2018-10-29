@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: American liberty finally comes to London: Bill of Rights and Declaration of Independence go on display with Magna Carta at British Library
-

@@ -10,6 +10,4 @@
   "start_date": "2015-07-16T10:00:00Z"
 }
 
-# Broadstairs Dickens Festival
-
 Festival organised by the Broadstairs Dickens Festival

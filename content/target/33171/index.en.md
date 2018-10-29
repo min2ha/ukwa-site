@@ -10,6 +10,4 @@
   "start_date": "2015-12-03T09:00:00Z"
 }
 
-# You Can Be a Doctor
-
 You Can Be a Doctor is a website designed and written by a team of senior medical students at the University of Edinburgh.

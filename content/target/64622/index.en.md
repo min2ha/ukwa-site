@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Go Fund Me: What's Best for Britain
-
 Gina Miller uses crowd funding to raise money for a campaign to get voters at the 2017 UK General Election to support candidates who are opposed to a hard Brexit.

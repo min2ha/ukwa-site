@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Romford and Gidea Rugby club on Pitchero
-
 The official website of Romford and Gidea Rugby club.

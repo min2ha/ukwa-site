@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# University of Leicester: Nelson Mandela Changed My Life
-
 None

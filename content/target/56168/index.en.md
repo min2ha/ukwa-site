@@ -10,6 +10,4 @@
   "start_date": "2017-07-27T09:00:00Z"
 }
 
-# Lloyd the Graffiti
-
 Lloyd the Graffiti is Lloyd Griffiths, a Cardiff based graffiti artist. This is his blog which ran from 2010 to 2013.

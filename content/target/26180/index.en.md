@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Free Enterprise Group: A Manifesto Fit for 2015
-
 After the 2010 General Election the FEG was established. The group therefore came together to renew the case for genuine free markets and free enterprise, to make the argument for the next generation that free markets can create wealth for the whole country, and because Britain needs to leave the slow lane in order to become economically competitive again.

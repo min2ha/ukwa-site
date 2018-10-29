@@ -11,6 +11,4 @@
   "subject": "Slavery and Abolition in the Caribbean"
 }
 
-# Mountravers Plantation, Nevis, West Indies
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2010-03-29T00:00:00Z"
 }
 
-# History of Medical and Industrial Equipment (MIE) Limited
-

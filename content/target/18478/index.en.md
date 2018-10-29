@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Energy watchdog to be given powers to cut prices under Labour
-
 None

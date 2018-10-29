@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# BHP Billiton plc
-
 BHP Billiton plc is among the world’s top producers of major commodities including iron ore, metallurgical coal, copper and uranium. They also have substantial interests in oil, gas and energy coal.

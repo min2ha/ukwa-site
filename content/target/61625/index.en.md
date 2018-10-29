@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parishes of Cawdor with Croy & Dalcross
-
 Site of a Church of Scotland parish church at Cawdor, Highland, incorporaring the chuch communities at Croy and Dalcross.

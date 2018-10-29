@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Graphic Design Forum
-
 An online enthusiast community concerned with graphic design. Discusses the graphic design market, general graphic design, website design, software and hardware related to graphic design and various other topics.

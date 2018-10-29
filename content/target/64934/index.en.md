@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# 71a
-
 71a is a gallery and events space located in East London. As home to youth culture brand HUCK and film title Little White Lies, we champion and influence creative rebellion and nonconformist cultures, communities, and artists.

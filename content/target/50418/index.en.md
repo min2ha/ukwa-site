@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Patrick Leigh Fermor Society
-
 The Patrick Leigh Fermor Society has been formed in 2014 and aims to promote interest in the life and works of Patrick Leigh Fermor and to support his legacy.

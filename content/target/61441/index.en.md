@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# YoungMinds: Charity Mission Statement
-
 Young Minds Charity for young people's mental health 

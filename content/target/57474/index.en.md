@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Tula Lotay : artist & illustrator
-
 Official website of Lisa Wood, known by her pen name Tula Lotay, an English comic book artist. She is best known for illustrating Supreme: Blue Rose, written by Warren Ellis for Image Comics.

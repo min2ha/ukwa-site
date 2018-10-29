@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Culture Hack
-
 Culture Hack is a digital development programme for arts and culture that enables the creation of innovative digital prototypes and creates new working relationships across the arts, technology and the creative industries.

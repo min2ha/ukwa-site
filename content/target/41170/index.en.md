@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Unique Wakefield
-
 Unique Wakefield is a guide to some of the City’s unique and friendly places to eat, drink, shop and relax.

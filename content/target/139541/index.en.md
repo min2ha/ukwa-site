@@ -10,5 +10,3 @@
   "start_date": "2014-05-08T00:00:00Z"
 }
 
-# Patricia Ferguson MSP : working hard for Glasgow Maryhill
-

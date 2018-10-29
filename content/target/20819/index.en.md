@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Zoe Hennessy on Facebook
-
 This is the Facebook page of Zoe Hennessy, the Communist Party of Britain candidate for Glasgow North West in the UK General Election on the 7th May 2015.

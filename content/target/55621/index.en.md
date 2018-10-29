@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Pigeon Watch - Shooting Forum and Country Sports UK
-
 An online enthusiast forum concerned with shooting and country sports. Discusses pigeon shooting, airguns, guns and equipment, clay pigeon shooting, game keeping and shooting management, dogs and dog training, events and various other topics.

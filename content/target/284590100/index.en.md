@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum 2014"
 }
 
-# Michael McCann MP | Member of Parliament for East Kilbride, Strathaven & Lesmahagow
-

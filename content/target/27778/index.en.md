@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: VIDEO: Magna Carta's new home to 800 years of history
-

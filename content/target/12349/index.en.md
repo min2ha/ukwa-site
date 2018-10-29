@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nigel Levine (@NigelLevine) on Twitter
-
 Twitter profile of Nigel Levine, 800m competitor for Team England at the Glasgow 2014 Commonwealth Games.

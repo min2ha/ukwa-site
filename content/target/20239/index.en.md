@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# National Federation of Fishmongers, The
-
 The National Federation of Fishmongers is an official body representing the retail sector of the fish industry. The Federation was formed in 1932 to protect and further the interests of the fishmonger and associated trades. 

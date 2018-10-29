@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Gandhi Foundation
-
 The Gandhi Foundation exists to spread knowledge and understanding of the life and work of  Mohandas K. Gandhi (1869-1948). Our most important aim is to explain and demonstrate the continuing relevance of Gandhi’s insights and actions today.

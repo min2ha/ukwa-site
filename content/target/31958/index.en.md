@@ -10,6 +10,4 @@
   "start_date": "2015-10-29T17:00:00Z"
 }
 
-# Bank of England: PRA Rulebook Online
-
 The Rulebook publishes rules made by the PRA under powers conferred by the Financial Services and Markets Act 2000 (FSMA). The Rulebook applies to all PRA-authorised persons (and in some cases, unauthorised persons and individuals) and contains the prudential requirements relevant to them. The Rulebook contains the most accessible version of the PRA’s rules which are consolidated on a regular basis. The definitive rules are always contained in the PRA's rule-making instruments.

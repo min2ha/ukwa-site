@@ -10,6 +10,4 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Royal College of Nursing (RCN)
-
 The Royal College of Nursing (RCN) represents nurses and nursing, promotes excellence in practice and shapes health policies.

@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Premier Christianity
-
 <p>Premier Christianity is a magazine focusing on the issues of the Church in the UK.</p>

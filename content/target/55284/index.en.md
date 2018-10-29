@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# PortmeiriCon
-
 PortmeiriCon is "The Prisoner" Portmeirion Official Convention based on the cult 1967 Patrick McGoohan TV series. They exist to celebrate and appreciate the 1960's TV series "The Prisoner".

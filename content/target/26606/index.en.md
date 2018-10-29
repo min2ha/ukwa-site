@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: It’s vital to know why Labour lost – yet more so to know why the Tories won
-
 None

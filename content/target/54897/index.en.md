@@ -11,7 +11,5 @@
   "subject": "Black and Asian Britain"
 }
 
-# Dahlia Publishing
-
 Dahlia Publishing is a small press based in Leicester, founded in 2010 by Farhana Shaikh. Dahlia Publishing manages both The Asian Writer and Leicester Writes.
 Our diversity policy is at the heart of everything we do and we’re passionate about publishing regional and diverse writing.

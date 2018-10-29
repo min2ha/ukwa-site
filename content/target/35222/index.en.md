@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Suki Sangha (@sukisangh) on Twitter
-
 The twitter profile of Suki Sangha, RISE Alliance candidate for Glasgow.

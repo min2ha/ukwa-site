@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: Take back real control! A Green response to Brexit
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

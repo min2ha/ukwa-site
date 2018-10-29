@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# NHS Blog Doctor
-
 None

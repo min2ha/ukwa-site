@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Jude and St John Ogilvie's Parish Church, Glasgow
-
 Site of a Scottish Roman Catholic parish church located in Garrowhill, Glasgow.

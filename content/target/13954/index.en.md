@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Full Fact: Scotland's independence referendum
-
 Full Fact is an independent fact checking organisation. We provide free tools, information and advice so that anyone can check the claims we hear from politicians and the media.

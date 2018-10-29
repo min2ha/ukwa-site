@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Centre for Scottish Public Policy Blog
-
 <p>Blog posts from the cross-party think tank on Scottish public policy.</p>

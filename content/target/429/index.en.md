@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sutton Health and Wellbeing Board
-
 None

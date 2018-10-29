@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Norwich Greens (@NorwichGreens) on Twitter
-
 Twitter account of the Green Party in Norwich, providing information on campaigns, events, representatives and candidates and local and national news updates.

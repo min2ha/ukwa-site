@@ -10,6 +10,4 @@
   "start_date": "2016-06-22T10:00:00Z"
 }
 
-# Scottish Love in Action
-
 Site of a charity based in Edinburgh caring for homeless children in East Godivari District of the State of Andhra Pradesh, South-East India.

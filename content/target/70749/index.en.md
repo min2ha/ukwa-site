@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Siop-y-Bont
-
 Siop-y-Bont is based in Pontypridd market and stock a range of Welsh books for adults, children and Welsh learners together with English books about Wales. The shop closed in 2018.

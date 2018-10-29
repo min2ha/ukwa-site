@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Invergarry Station Project
-
 Site of a group aiming to restore and set up a railway museum in the former Invergarry & Fort Augustus Railway station at Invergarry.

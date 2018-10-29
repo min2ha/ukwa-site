@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# SLR Consulting
-
 SLR provides global environmental and advisory solutions from a network of offices in Europe, North America, Asia-Pacific and Africa.

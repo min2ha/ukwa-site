@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Wrexham Matters
-
 Wrexham Matters wasa established to promote the regeneration of Wrexham. The key objective in the regeneration of the town is to grow the community theme and provide unique experiences that offer something to all ages. Wrexham Matters is run by Wrexham Savers Ltd. 

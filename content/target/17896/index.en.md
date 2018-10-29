@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# David Starkey (@davidstarkeyCBE) on Twitter
-
 Twitter account of David Starkey, historian and presenter of the BBC programme 'David Starkey's Magna Carta'.

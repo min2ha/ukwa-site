@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Folksy: Modern British Craft
-
 <p>Commercial site selling hand crafted gifts from independent sellers.</p>

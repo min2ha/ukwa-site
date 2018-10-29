@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Association of European Journalists (AEJ): United Kingdom Section
-
 The Association of European Journalists (AEJ) is an independent, self-funding association for journalists, writers and specialists in European affairs. The UK section is part of a Europe-wide network of some 20 national sections across Europe, with more than 1000 members.

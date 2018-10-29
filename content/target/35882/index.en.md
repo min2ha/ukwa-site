@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: EU referendum impact on Northern Ireland explored with academics
-
 Briefing paper

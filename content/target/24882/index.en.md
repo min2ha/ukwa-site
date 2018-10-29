@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Oliver James Coppard (Labour Candidate for Sheffield Hallam)
-

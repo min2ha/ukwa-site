@@ -10,5 +10,3 @@
   "start_date": "2010-01-26T00:00:00Z"
 }
 
-# British Institute of Radiology (BIR)
-

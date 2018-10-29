@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Zee-3: Plok The Exploding Man
-
 Webcomic by the Pickford Brothers following the adventures of Plok, who first appeared in computer games, including a self-titled console game for the SNES.

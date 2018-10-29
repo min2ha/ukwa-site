@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: will consumers be protected?
-
 The House of Lords EU Justice Sub-Committee calls on the Government to explain exactly how it intends to ensure that UK citizens' consumer rights will be protected and enforced after the UK leaves the European Union. Consumer rights are best protected through shared legislation, shared mechanisms and cooperation with cross-border agencies. The Government has provided no detail on how it will protect consumer rights via these mechanisms post-Brexit. 

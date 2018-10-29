@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter Grant on Facebook
-
 This is the Facebook page of Peter Grant, the Scottish National Party (SNP) candidate for Glenrothes in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons. Treasury Committee: Economic and financial costs and benefits of UK's EU membership inquiry
-
 The Government committed itself to holding an in-out referendum on the UK’s membership of the EU by the end of 2017. In response, the Treasury Committee launched a wide-ranging inquiry into the UK’s EU membership

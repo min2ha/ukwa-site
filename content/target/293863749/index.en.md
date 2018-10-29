@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Nathan Gill (UKIP MEP for Wales)
-
 Nathan Gill stood as UKIP candidate for  Wales at the 2014 European Parliament election and was elected to serve as MEP.  He is also an independent member of the Welsh Assembly, being elected in 2016.

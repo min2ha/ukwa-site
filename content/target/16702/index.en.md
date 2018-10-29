@@ -10,6 +10,4 @@
   "start_date": "2014-02-05T06:00:00Z"
 }
 
-# Get Into Gear
-
 None

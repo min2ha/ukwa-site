@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# SSE and the Commonwealth Games
-
 None

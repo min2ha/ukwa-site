@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# A Crow - Green politics and poetry on Facebook
-

@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Salford Zine Library
-
 Salford Zine Library is a self-publishing archive formed in January 2010 by Craig John Barr. The library aims to share creative self-published work.

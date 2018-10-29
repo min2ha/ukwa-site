@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Mothers At Home Matter (MAHM)
-
 e have 3 core campaigning aims that, to put it simply, centre around the following: children, family, and mothers.

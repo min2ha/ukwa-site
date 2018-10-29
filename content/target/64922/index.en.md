@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# DMW Group Ltd
-
 DMW is a strategic IT partner, working internationally for ambitious public and private sector organisations

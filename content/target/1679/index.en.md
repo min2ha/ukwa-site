@@ -10,6 +10,4 @@
   "start_date": "2013-05-15T13:00:00Z"
 }
 
-# Healthy Living UK
-
 <p>Healthy Living is a unit within the School of Life Sciences, Northumbria University, conducting reacher on public health interventions; including school and community breakfast clubs; nutrition within school and the workplace; and the associations between nutrition, cognition and physical activity.</p>

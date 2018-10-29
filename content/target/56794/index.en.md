@@ -10,6 +10,4 @@
   "start_date": "2017-08-24T09:00:00Z"
 }
 
-# Dunoon Burgh Hall
-
 Site of a multifuctional venue with art gallery and theatre and general cultural hub in Dunoon, Argyll & Bute.

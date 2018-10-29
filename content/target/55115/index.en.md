@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Body Positive Instagram Star Shares Post Explaining Why You Shouldn't Feel Bad About Indulging
-
 Daily Mail: News article on body positivity and instagram

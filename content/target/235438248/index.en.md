@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# On the Brink - The Politics of Conflict 1914 - 1916
-
 <p>Project about the impact and legacy of the outbreak of the First World War, the Battle of the Somme and the Easter Rising in the Mid and East Antrim and Causeway areas.</p>

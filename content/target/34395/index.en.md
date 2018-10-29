@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Angry Microwave, The
-
 Website with information about gaming, music, theatre, film and comedy.

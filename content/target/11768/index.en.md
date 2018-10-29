@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sarah Jones  (sarah3483) on Twitter
-
 <p>The twitter profile of wrestler Sarah Jones,  member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

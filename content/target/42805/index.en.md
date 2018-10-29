@@ -10,6 +10,4 @@
   "start_date": "2016-06-12T10:00:00Z"
 }
 
-# Prisoners' Families and Friends Service
-
 PFFS provides support, friendship and advice to the families and friends of anyone sentenced to imprisonment or remanded in custody in the UK

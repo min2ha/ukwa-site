@@ -10,6 +10,4 @@
   "start_date": "2016-01-29T09:00:00Z"
 }
 
-# Owain Llwyd
-
 Owain Llwyd is a Welsh Composer for Film and Media.

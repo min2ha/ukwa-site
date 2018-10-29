@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Anniesland Labour (@AnnieslandLab) on Twitter
-
 Twitter profile of the Glasgow Anniesland branch of Scottish Labour.

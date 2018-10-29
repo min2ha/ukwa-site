@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Lib Dems move level with UKIP for first time since 2013
-
 None

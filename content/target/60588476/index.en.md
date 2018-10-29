@@ -10,6 +10,4 @@
   "start_date": "2015-06-20T09:00:00Z"
 }
 
-# WikiArc - The Wiki Archaeological Information Resource
-
 WikiArc is intended as an online toolkit for professionals, students and other people interested in the fields of archaeology, classical antiquity, palaeoanthropology, forensic anthropology, cultural heritage studies, and Quaternary sciences.

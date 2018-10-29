@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# History of the Dole
-
 The author of this 'gained [his] PhD from Swansea University in 2011'. Many of his posts relate to Welsh and the Labour movement.

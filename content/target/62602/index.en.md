@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Jessica Leigh Jones
-
 Jessica Leigh Jones is an engineer and astrophysicist from Cardiff. Jessica was the first woman to win the UK Young Engineer of the Year Award after designing a portable contraction monitor for pregnant women. She is also as an ambassador for women entering science.

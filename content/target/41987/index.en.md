@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# More Than 90 Minutes
-
 Site of a fanzine written for and by supporters of Celtic Football Club.

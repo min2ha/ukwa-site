@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Seaboard History
-
 Site of a local history group focusing on the Seaboard villages of Easter Ross, from North Sutor, Nigg to the tip of Tarbat Ness, Highland.

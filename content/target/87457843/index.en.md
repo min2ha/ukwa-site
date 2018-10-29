@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Idea Business Solutions
-

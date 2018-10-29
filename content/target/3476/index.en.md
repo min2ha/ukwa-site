@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Fakenham and Wells Times
-
 None

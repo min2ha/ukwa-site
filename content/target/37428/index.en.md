@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# LexisNexis Comet: Braced for a Brexit? Why lawyers should start thinking about a UK-EU divorce now
-

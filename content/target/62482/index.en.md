@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BallGirls
-
 A blog dedicated to women's ball sports.

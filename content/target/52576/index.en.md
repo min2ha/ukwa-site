@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sherborne Abbey
-
 Founded by St. Aldhelm in AD 705, the Abbey has developed from Saxon cathedral to the worshipping heart of a monastic community, and finally, to one of the most beautiful of England’s parish churches. For many it is still the ‘cathedral of Dorset’, and our Benedictine heritage lives on in the daily offering of prayer and praise.

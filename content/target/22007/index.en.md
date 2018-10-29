@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jack Dromey (@JackDromeyMP) on Twitter (Labour Politician)
-
 Jack Dromey stood as Labour Party candidate for Birmingham Erdington in the 2017 General Election and was elected MP. He was first elected to serve as MP for Birmingham Erdington in 2010 and re-elected in 2015.

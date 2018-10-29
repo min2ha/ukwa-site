@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Classic Malts Selection
-
 Site promoting Scotch whisky malts produced by the Diagio Group.

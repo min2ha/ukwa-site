@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Tracey West on Facebook (Conservative candidate for Blaenau Gwent)
-
 Tracey West is the Conservative candidate for Blaenau Gwent at the 2016 National Assembly Election. 

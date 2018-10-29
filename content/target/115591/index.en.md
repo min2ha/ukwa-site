@@ -10,5 +10,3 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# OpenDOAR - Directory of Open Access Repositories
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Box clever? Lib Dem photo op sends social media into meltdown
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit: What are the implications for employment law? 
-
 News on DLA Piper's (employment law firm) website 

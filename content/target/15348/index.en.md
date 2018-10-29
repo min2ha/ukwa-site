@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# whatsinKenilworth.com
-
 <p>Blog about mass communication and media change by Mike Downs.</p>

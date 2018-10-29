@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ESRC Research Centre for Population Change: Income inequality in Scotland - implications for the independence debate
-
 None

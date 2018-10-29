@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gloucestershire Health and Wellbeing Board
-
 None

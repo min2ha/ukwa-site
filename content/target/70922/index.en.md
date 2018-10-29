@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# Buckhaven Baptist Church
-
 Site of a Scottish Christian church of the Baptist denomination and its congregation located in Buckhaven, Fife.

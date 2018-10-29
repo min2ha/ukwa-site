@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916: Ride the Revolution
-
 This tour involves professional actors guiding participants on a tour through the landmark locations associated with the Easter Rising, 1916.

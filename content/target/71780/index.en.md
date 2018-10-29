@@ -10,6 +10,4 @@
   "start_date": "2018-09-29T09:00:00Z"
 }
 
-# Eat Well Age Well
-
 Site of a national project tackling malnutrition in older people living at home in Scotland.

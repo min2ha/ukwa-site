@@ -10,5 +10,3 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Royal Ordnance Factory Bridgend-ROF 53 1936-1946, The
-

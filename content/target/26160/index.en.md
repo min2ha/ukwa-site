@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Association of the British Pharmaceutical Industry: 2015 manifesto: Our Agenda for Change
-
 The Association of the British Pharmaceutical Industry (ABPI) represents innovative research-based biopharmaceutical companies, large, medium and small, leading an exciting new era of biosciences in the UK.

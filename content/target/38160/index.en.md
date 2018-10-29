@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# David Cameron 'could lose EU referendum over handling of steel crisis' 
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit campaigners dominating referendum fundraising battle
-
 Guardian, The

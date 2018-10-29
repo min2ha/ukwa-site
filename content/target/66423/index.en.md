@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# The Cordoba Foundation (TCF)
-
 The Cordoba Foundation is a UK-based research and advisory group with the stated aim of “bridging the gap of understanding between the Muslim World and the West”.The group has been criticized for its links to organizations suspected of terrorist activities, such as the Muslim Brotherhood and Hamas.

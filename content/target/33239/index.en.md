@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Datascope Recruitment
-
 Datascope Recruitment is a consultancy for the games industry, based in central London and was founded in 1991.

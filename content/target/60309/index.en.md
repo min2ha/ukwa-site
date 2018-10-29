@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# JAMMA+ Arcade Video Game Collectors Forum
-
 An online enthusiast community forum concerned with collecting arcade videogames. Includes sections for general arcade chat, arcade and technical restoration, pinball and various other related topics.

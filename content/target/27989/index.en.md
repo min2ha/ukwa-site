@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Hampstead Comedy Club
-
 Website for the Hampstead Comedy Club, London, with listings and news.

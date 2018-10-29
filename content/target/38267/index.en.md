@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# ProEU Girl (@proEUgirl) on Twitter
-
 Campaigning for better European understanding and a high turn-out on 23 June.

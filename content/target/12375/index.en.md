@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ben Moreau (Ben_Moreau) on Twitter
-
 The twitter profile of marathoner Ben Moreau, member of Team England for the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: The General Election A-Z: From Apathy to Zero Hours via Eggs and Mumsnet 
-
 None

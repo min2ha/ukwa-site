@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: TV election debates: Tories go to war over BBC's 'institutional arrogance'
-
 None

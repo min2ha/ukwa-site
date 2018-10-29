@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Elaine Hugh - Jones
-
 Elaine Hugh-Jones is a Welsh pianist, music educator and composer born in London.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Cromarty Courthouse Museum
-
 Spanglefish site for a museum based in the town of Cromarty in Highland, Scotland.

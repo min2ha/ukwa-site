@@ -10,6 +10,4 @@
   "start_date": "2015-06-02T09:00:00Z"
 }
 
-# Dylathon 100
-
 The Dylathon was a finale to the year long celebrations that marked the centenary of Dylan Thomas' birth and took the form of a 36 hour reading of the Thomas canon over the centenary birthday week-end in October 2014.

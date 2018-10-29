@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Kirklees Stadium
-
 KIrklees Stadium, also known as the The John Smith's Stadium, is a multi-use sports stadium in Huddersfield in West Yorkshire, England. Since 1994, it has been the home ground of football club Huddersfield Town and rugby league side Huddersfield Giants, both of whom moved from Leeds Road

@@ -10,6 +10,4 @@
   "start_date": "2016-02-15T09:00:00Z"
 }
 
-# Jack Latham
-
 Jack is a Welsh freelance photographer based in Brighton.

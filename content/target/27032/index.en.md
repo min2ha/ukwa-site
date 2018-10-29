@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of Southampton Library 
-
 Official website of the University of Southampton Library.

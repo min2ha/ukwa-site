@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Guildford Cathedral
-
 Official website of the Guildford Cathedral.

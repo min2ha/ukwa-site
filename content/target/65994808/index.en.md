@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# London Revolution 2012
-

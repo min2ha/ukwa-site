@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Osborne drags 'neutral' watchdog into EU row: Tory fury as Chancellor claims Office for Budget Responsibility is against Brexit   
-

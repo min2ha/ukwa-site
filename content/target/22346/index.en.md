@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Xander McDade on Facebook
-
 This is the Facebook page of Xander McDade, the Independent candidate for Perth and North Perthshire in the UK General Election on the 7th May 2015.

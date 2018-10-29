@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# Scots Scriever (@ScotsScriever) on Twitter
-
 The Twitter profile of Hamish MacDonald, the Scots Scriever at the National Library of Scotland, a post created to write, explore and promote the Scots language.

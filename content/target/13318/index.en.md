@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Change.org: Petition - Drop ATOS as a sponsor for the 2014 Commonwealth Games
-
 <p>A petition against Atos being an official supporter and supplier of services to the XX Commonwealth Games, because Atos are employed by the Department of Work and Pensions (DWP) to carry out assessments on sick and disabled people.</p>

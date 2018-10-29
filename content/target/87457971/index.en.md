@@ -10,5 +10,3 @@
   "start_date": "2012-12-11T00:00:00Z"
 }
 
-# Digital Literacies for Organisational Development in Higher Education
-

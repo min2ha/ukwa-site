@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Canolfan Tywi | Tywi Centre
-
 The Tywi Centre promote the care and repair of the old buildings of West Wales through providing information, training and support to homeowners, builders, agents and building professionals. The Tywi Centre is located in Llandeilo and is part of the Planning Department of Carmarthenshire County Council.

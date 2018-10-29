@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election 2015: How to make the perfect TV politician
-
 None

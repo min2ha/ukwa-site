@@ -10,6 +10,4 @@
   "start_date": "2016-07-07T10:00:00Z"
 }
 
-# Sir John Chilcot delivers damning verdict on Tony Blair's decision to invade Iraq
-
 Analysis of the Sir John Chilcot Report on the British Invasion of Iraq. This report was released on the 6/07/2016.

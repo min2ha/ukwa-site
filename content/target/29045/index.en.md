@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North East Green Party
-
 Website of North East Green Party, providing information on elected Greens, regional officers, elections and manifestos, and analysis and comment.

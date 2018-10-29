@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Queen's and Lord Treasurer's Remembrancer (QLTR)
-
 The Queens and Lord Treasurers Remembrancer is the Crowns representative in Scotland who deals with ownerless property.

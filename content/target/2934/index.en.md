@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# My Experiment
-
 <p>Virtual Research Network which allows scientists to share their entire research process (lab  notes, data, code etc) online.</p>

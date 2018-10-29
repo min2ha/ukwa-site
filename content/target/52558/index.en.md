@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Patrick's Catholic Church, Soho Square
-
 The mission of St Patrick’s is that of the whole Church and therefore that of Jesus Christ himself.

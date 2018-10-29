@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: PM faces being 'empty-chaired' as TV debates are expected to go ahead
-

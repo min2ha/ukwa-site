@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Patrick's Parish, Kilsyth
-
 Site of a Roman Catholic church in Scotland for the parish of St. Patrick's, Kilsyth, Lanarkshire.

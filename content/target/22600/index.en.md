@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Let the battle commence: Finally, the General Election campaign is on
-
 None

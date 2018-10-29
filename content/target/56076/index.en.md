@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Evangelical Movement of Wales
-
 The Evangelical Movement of Wales is a registered charity that serves churches and Christians, helping them to promote God, share the gospel throughout Wales, and recruit new members.

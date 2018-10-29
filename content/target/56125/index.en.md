@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Think Mrs May has problems? Corbyn's are just as bad
-
 Argues that Jeremy Corbyn facces a dilemma over Brexit. In his heart, he is wary of the EU — with a decades-long record of opposition to the Brussels-driven project for a European superstate. However, Mr Corbyn’s stance places him at odds with the majority of his party, particularly his Shadow Brexit Secretary Sir Keir Starmer.

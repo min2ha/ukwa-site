@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Balls admits with two weeks until the General Election he's not worried about the result 
-
 None

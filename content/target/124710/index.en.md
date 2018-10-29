@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Rutland Osprey Project
-
 None

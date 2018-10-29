@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# WLGA (Welsh Local Government Association) Manifesto 2016-21: A plan for public services in Wales
-

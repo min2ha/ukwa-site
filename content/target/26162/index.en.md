@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# ActionAid: Ending the injustice of poverty: ActionAid’s 2015 manifesto totackle global poverty
-
 ActionAid is a leading international charity working in over 45 countries. They work with the poorest women and children in the world, changing their lives for good.

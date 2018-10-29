@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Camilla Beaven (@CamillaBeaven) on Twitter 
-
 Camilla Beaven is the Labour candidate for the Vale for Glamorgan at the 2017 General Election.

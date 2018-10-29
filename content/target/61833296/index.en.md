@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# AS Roma
-
 None

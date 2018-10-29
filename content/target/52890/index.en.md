@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Elisha Fisher (@Vote_Fisher) on Twitter
-
 Twitter profile of Elisha Fisher, Scottish Labour candidate for Cumbernauld, Kilsyth and Kirkintilloch East in the 2017 general election.

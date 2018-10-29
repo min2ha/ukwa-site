@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Avon & Somerset Police Authority
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# Gwent Guild of Weavers, Spinners and Dyers
-

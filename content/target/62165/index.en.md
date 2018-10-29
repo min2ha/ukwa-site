@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: MPs investigate impact of social media and screens on youth
-
 News article about a The Commons Science and Technology Committee announcing an inquiry into the impact of social media and screen-use on young people's health

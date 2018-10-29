@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Winning Students
-
 <p>Winning Students is Scotland's sports scholarship programme supporting students competing in high performance sport; the website contains information about the scholarship, athletes and participating institutions.</p>

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BTN Women's Centre (@BTNWomensCentre) on Twitter
-
 BWC Women aim to empower women and children to improve their life chances and lead independent lives by reducing inequalities through the provision of holistic and integrated services.

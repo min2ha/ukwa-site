@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Dumfries Christian Network
-
 Site of a portal for contact details for Chistian churches/fellowships within Dumfries and the immediate area.

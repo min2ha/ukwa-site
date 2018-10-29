@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Bargoed Male Voice Choir
-
 This is the website for Bargoed Male Voice Choir, re-formed in 1961.

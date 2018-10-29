@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Patricia Gibson (@pgibsonsnp) on Twitter
-
 Twitter profile of Patricia Gibson, Scottish National Party candidate for North Ayrshire and Arran in the 2017 general election.

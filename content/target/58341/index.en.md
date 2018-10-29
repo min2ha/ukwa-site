@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Strathyre Music Festival
-
 Site of an annual folk music festival in Stirlingshire.

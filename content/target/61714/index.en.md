@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Jeremy Corbyn’s cosy Brexit pitch is a gamble. But he’s still beating May
-

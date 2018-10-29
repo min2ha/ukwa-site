@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Controversial ‘healer’ who claims he can cure Ebola and AIDs will appear at conference
-
 Article on a conference planned in Seaford featuring a man who claims he can cure Ebola

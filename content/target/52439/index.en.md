@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Daisy Cooper (@LibDemDaisy) on Twitter (Liberal Democrats Politician)
-
 Daisy Cooper stood as Liberal Democrat candidate for St Albans at the 2017 General Election but was not elected.

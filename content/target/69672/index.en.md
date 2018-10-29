@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Surge Festival
-
 Street theatre descends on the Merchant City

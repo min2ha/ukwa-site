@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Aylesbury Rugby Football Club
-

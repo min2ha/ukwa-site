@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# SODAM Rugby (@SodamRFC) on Twitter
-
 The official Twitter account of Social Rugby Club.

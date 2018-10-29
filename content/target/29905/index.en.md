@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Spirit of Moray Book Festival  2015
-
 Festival  organised by the Moray Council

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Port Vale Football Club
-
 Port Vale Football Club is a professional association football club based in Burslem, Stoke-on-Trent, England. 

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# New Statesman: Davis wins easily…
-

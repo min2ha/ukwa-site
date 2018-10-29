@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Harley Facades Ltd
-
 Harley Facades Ltd provides a design and construction packages for building envelopes including; curtain walling, windows, doors, structural glazing, and rainscreen cladding systems. It was involved in the Grenfell Tower refurbishment project that took place in 2015-2016. It has provided cladding for other London tower blocks. However, part of the company was declared bankrupt after Grenfell work.

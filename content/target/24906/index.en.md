@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stuart Macdonald on Facebook, Green Party parliamentary candidate for Witney
-

@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# Institut Francais du Royaume Uni: Behind the Scene Documentary Trailer
-

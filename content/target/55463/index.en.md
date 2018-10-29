@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Runners World Forum
-
 An online enthusiast forum concerned with running. Discusses general running, tips for beginners, training, gear, injuries, events and various other topics

@@ -10,6 +10,4 @@
   "start_date": "2014-01-08T13:00:00Z"
 }
 
-# Real Nappies in the Lothians
-
 None

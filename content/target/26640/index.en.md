@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Milibandits deface Cameron Wikipedia page with 'vote Labour' vandalism 
-
 None

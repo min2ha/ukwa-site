@@ -10,6 +10,4 @@
   "start_date": "2017-01-20T09:00:00Z"
 }
 
-# Tighnabruaich District Development Trust
-
 Site of a community development organisation for the village and district of Tighnabruaich, Argyll & Bute, Scotland.

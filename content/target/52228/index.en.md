@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# International.wales - Wales International Football Fanzine
-

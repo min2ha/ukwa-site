@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# WeAreB28, Hall Green Neighbourhood Forum
-

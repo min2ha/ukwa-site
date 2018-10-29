@@ -10,5 +10,3 @@
   "start_date": "2014-06-11T00:00:00Z"
 }
 
-# Mid Wales Chamber of Commerce
-

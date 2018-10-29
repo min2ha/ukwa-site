@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# #orangefest hashtag on Twitter
-

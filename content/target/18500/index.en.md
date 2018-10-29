@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: SNP devo max plans 'mean 15p on income tax'
-
 None

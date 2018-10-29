@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Openreach
-
 Openreach Limited is a wholly owned subsidiary of British Telecommunications plc and we run the UK's digital network business.They connect homes, mobile phone masts, schools, shops, banks, hospitals, libraries, broadcasters, governments and businesses – large and small – to the world. 

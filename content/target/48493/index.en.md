@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Gremlin Alley Social Centre 
-
 Gremlin Alley is a squat, social centre and art space in Cardiff.

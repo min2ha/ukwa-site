@@ -10,6 +10,4 @@
   "start_date": "2015-07-08T10:00:00Z"
 }
 
-# Goff Morgan - Adventures In Hack Poetry 
-
 A repository for the poetry of Goff Morgan, the one and only Newport Town Poet. Goff was the only official town poet in Wales from 1997 to 2000, and since then has continued in an informal capacity to write commissioned verse for BBC Radio Wales, and others.

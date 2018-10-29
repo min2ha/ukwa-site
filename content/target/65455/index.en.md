@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Bath Festival of Motoring
-
 Website for the Bath Festival of Motoring

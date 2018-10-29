@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Article about MusicFEST
-
 Northern Echo article about MusicFEST, a festival to raise awareness of Parkinson's and Motor Neurone Disease

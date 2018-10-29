@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Llais Llanychaer
-
 This is a community websute for the villages of Llanychaer and Llanychaer Bridge in the Gwaun valley. The village is located about 2.5 miles inland from Fishguard, Pembrokeshire.

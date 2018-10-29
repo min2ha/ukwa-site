@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Cynllun Efe: Efengyl i'r fro Eco
-
 Cynllun Efe was established in order to present the message of the gospel of Jesus Christ to young people in the villages in and around Llanberis.

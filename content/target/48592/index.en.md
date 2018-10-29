@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# NFU Cymru President (@Nfucpresident) on Twitter
-
 Twitter account for Stephen James, President NFUCymru representing the interests of Welsh farmers in Cardiff, London and Brussels. He is a Dairy farmer from Pembrokeshire.

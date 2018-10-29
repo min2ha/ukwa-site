@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# United Diocese of Moray, Ross & Caithness
-
 Site of the Moray, Ross & Caithness diocese of the Scottish Episcopal Church

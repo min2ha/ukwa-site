@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Cabinet agrees 'collective' stance on future EU deal
-
 The cabinet reached a "collective" agreement on the basis of the UK's future relationship with the EU after Brexit at a meeting on July 6th 2018. Ministers signed up to a plan to create a free trade area for industrial and agricultural goods with the bloc, based on a "common rule book".
 

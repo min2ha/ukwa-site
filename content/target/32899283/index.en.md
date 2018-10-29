@@ -10,5 +10,3 @@
   "start_date": "2009-12-14T00:00:00Z"
 }
 
-# Headlines, the Craniofacial Support Group
-

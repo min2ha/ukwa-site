@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour launches David Cameron attack ad aimed at Facebook and Twitter
-
 None

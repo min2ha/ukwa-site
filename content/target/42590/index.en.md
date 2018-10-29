@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Iraqi Association al-Muntada al-Iraqi
-
 Charity supporting Iraqi community in UK

@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Clan Fraser of Lovat
-
 Website of the Clan Fraser of Lovat, a society for people who share Fraser name and / or heritage running gatherings and social events, as well as providing family history.

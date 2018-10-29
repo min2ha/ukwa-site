@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Push Doctor
-
 Company offering mental health advice and treatment over the internet

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General election 2015: Seven of the key battlegrounds
-
 None

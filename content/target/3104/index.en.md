@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# National Union of Journalists (NUJ)
-
 The National Union of Journalists (NUJ) is the voice for journalists and journalism. The NUJ is an inclusive union and represents a broad range of media professionals.

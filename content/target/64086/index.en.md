@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women & Equalities Committee (@Commonswomequ) on Twitter
-
 We are the Women and Equalities Select Committee, a cross-party committee of MPs appointed to scrutinise the Government on equalities. RTs ≠ endorsements.

@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# RUBRIC Russian School in Birmingham
-
 Russian school in Birmingham.

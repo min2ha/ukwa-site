@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Richard Corbett (Labour MEP for Yorkshire and the Humber)
-
 Richard Corbett stood as Labour candidate for Yorkshire and Humber at the 1999 European Parliament election and was elected to serve as MEP. He was re-elected in 2004, 2009 and 2014.

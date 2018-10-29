@@ -10,6 +10,4 @@
   "start_date": "2014-02-07T01:00:00Z"
 }
 
-# Environment Agency
-
 None

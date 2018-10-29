@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# gwallter
-
 Blog by Andrew Green, former CEO of the National Library of Wales.

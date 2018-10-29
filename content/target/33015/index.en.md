@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# 1940's Swansea Bay 
-
 Swansea based museum with a focus on World War Two.

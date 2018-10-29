@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Julie Hilling  (Labour  Politician)
-
 Julie Hilling stood as Conservative candidate for Bolton West at the 2017 General Election but was not elected.

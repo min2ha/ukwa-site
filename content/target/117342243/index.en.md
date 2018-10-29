@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Oil & Gas UK
-
 None

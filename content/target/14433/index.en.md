@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - I am very wary of the circular arguments being...
-
 Ewan Morrison comments on arguments made by the Yes campaign, posted on 13th June 2014.

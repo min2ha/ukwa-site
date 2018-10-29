@@ -10,6 +10,4 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# A new nature blog
-
 A blog by Miles King about politics, nature and the environment. 

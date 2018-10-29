@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Craig Pickering Bobsleigh on Twitter
-

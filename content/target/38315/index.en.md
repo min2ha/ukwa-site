@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Open Culture / Merseyside Arts & Culture: Centenary Events of Liverpool/ Dublins Easter Rising 1916
-
 Liverpool  events page

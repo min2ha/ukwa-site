@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Global Warming Policy Forum, The
-
 A London-based think tank which conducts campaigns and activities which do not fall squarely within the Global Warming Policy Foundation’s remit as an educational charity.

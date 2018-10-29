@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Northern Ireland Assembly: Health and Social Care in NI - Areas of EU Competence, Action and Support
-
 Research and Information Service Briefing Paper looking at areas of EU competence in health and a selected range of specific areas that will need to be addressed post-Brexit.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Winchester Writers' Festival
-
 Festival organised by The University of Winchester 

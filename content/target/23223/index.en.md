@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Disabled People Against Cuts: Who2Vote4
-

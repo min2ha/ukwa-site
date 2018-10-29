@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Society of Sports Therapists, The
-
 The Society of Sports Therapists was established in 1990 to address the growing demands from sport and leisure on everyone involved in the management and care of injured participants. 

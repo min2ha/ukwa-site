@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Carol Mochan for Carrick, Cumnock and Doon Valley on Facebook
-

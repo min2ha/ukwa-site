@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Royal Society, The: UK research and the European Union: the role of the EU in funding UK research
-

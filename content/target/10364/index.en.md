@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jean Lambert (Green Party MEP for London)
-
 Jean Lambert stood as Green Party candidate for London at the 1999 European Parliament election and was elected to serve as MEP.  She then stood for re-election in 2004, 2009 and 2014 and was successful.

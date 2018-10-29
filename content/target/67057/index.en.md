@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: The bewildering battle of the Brexit backstop is a fight that can’t end well for the UK
-
 Argues that the government's failure to prepare for our not reaching a deal with the EU has left the UK in a dangerously weak negotiating position.

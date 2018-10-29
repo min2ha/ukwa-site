@@ -10,6 +10,4 @@
   "start_date": "2018-07-13T09:00:00Z"
 }
 
-# Disused Stations: Closed Stations in the UK
-
 Documents closed railway stations in the UK

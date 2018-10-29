@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Scottish Maritime Museum - Collections Review Blog
-
 A blog run by the Scottish Maritime Museum which focuses on its national collections held at the Linthouse building in Irvine, and the Denny Ship Model Experiment Tank in Dumbarton.

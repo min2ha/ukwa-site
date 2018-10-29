@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wheels and Fins Festival 
-
 Website for the Wheels and Fins Festival, a three-day sports and music festival in Kent

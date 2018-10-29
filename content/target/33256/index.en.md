@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Intelligent Systems Laboratory, University of Bristol
-
 Intelligent Systems Laboratory at the University of Bristol is a research unit, which activities include foundational work in machine learning, applications to web intelligence, machine translation, bioinformatics, semantic image analysis, robotics, as well as natural intelligent systems.

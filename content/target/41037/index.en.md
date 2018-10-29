@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bank of England: Inflation report Q&A, 12th May 2016
-
 Transcript of the press conference following the Bank's May 2016 Inflation report, which predicted that a vote to leave to European Union on June 23rd 2016 could lead to materially lower economic growth in the UK.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Chillingham Castle
-
 This 12th century stronghold, just twenty minutes from the seaside and the home of Sir Humphry Wakefield and his family, became 'base-camp' for the 1298 conquering attack on William Wallace by “Hammer of the Scots”, King Edward 1st. 

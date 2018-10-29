@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Collective Investigations
-
 Collective Investigations is a London based artists’ collective, interested in experimental publishing, book history and book culture. The artists exploit a range of outcomes that vary from conventional publishing methods to innovative arts installations.

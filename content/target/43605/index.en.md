@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Money Week: The EU referendum is not the same as the Scottish referendum
-
 An article comparing the EU Referendum to the Scottish Independence Referendum and claiming that the two referendums are entirely different.

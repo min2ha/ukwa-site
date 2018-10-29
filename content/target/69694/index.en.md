@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bartholomew's, Castlemilk
-
 Site of a Roman Catholic church in Scotland for the parish of St. Bartholomew's, Castlemilk, Glasgow.

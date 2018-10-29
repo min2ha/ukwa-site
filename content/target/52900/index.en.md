@@ -10,5 +10,3 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# East Lothian Labour (@EastLothianCLP) on Twitter
-

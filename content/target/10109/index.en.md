@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Danny Bates Green Party on Twitter
-

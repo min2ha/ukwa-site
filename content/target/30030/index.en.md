@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Suffolk Libraries
-
 Official website of the library services in Suffolk.

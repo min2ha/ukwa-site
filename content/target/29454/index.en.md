@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leicester Book Festival
-
 Leicester Book Festival organised by the Bookshop Kibworth

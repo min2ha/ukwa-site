@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: DUP plan to vote against the Budget over Brexit red lines
-
 Northern Ireland's Democratic Unionist Party was planning to vote against the 2018 Autumn Budget if Theresa May breached the party's Brexit red lines.
 

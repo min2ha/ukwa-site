@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Edinburgh Labour
-
 Website of Edinburgh Labour, providing information on councillors, MSPs and MPs, community events, and local and national news.

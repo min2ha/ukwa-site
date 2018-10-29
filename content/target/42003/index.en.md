@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit ‘will put UK access to cutting-edge medicines at risk’
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Iain McGill
-
 Iain McGill is the Scottish Conservative and Unionist Party candidate for Edinburgh Northern and Leith constituency in the 2016 Scottish Parliament election.

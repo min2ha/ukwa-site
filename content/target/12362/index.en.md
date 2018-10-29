@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christopher Thompson (Thommo10k) on Twitter
-
 <p>The twitter profile of athlete Christopher Thomson, competitor in the 10, 000 meters for Team England in the Glasgow 2014 Commonwealth Games.</p>

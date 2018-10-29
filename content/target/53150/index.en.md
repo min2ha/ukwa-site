@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Diabetes UK: UK General Election 2017
-
 The Diabetes Manifesto sets out what needs to happen so everyone living with Type 1 or Type 2 diabetes across the UK can enjoy better care and support. It also tells politicians what they can do to help more people avoid Type 2 diabetes

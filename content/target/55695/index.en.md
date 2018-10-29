@@ -10,6 +10,4 @@
   "start_date": "2017-07-13T09:00:00Z"
 }
 
-# UK Wood Ants
-
 The website of the National Wood Ant Steering Group.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-#  Migrant Voice (@MigrantVoiceUK) on Twitter 
-
 We're a migrant-led organisation empowering migrants to speak out, challenge perceptions and change public debate. RTs not endorsements

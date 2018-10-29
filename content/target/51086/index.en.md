@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Pianola Institute
-
 The first true Pianola was completed by Edwin Scott Votey in a workshop at his home at 312, Forest Avenue East, Detroit, by the spring or summer of 1895. Votey later joined the Aeolian Company, which put the instrument on sale in the USA in the autumn of 1898, and in Europe a month or two later. But the Pianola and its competitors were not simply the invention of any one person; E. S. Votey's particular contribution was to draw together a number of existing mechanisms which rendered his creation the first truly musical piano-playing device in the world.

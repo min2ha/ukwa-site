@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Islay Ultimate Online Guide - Isle of Islay Queen of the Hebrides
-
 Islay Info is the ultimate online guide to the Isle of Islay on the west coast of Scotland including information about history, heritage, and tourist information.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-30T17:00:00Z"
 }
 
-# bmi regional
-
 <p>bmi regional is owned by Sector Aviation Holdings Ltd (SAH), with its headquarters in Aberdeen and East Midlands Airport. It concentrates on the regional flights servicing the niche markets on domestic UK and European routes which are suited to small jet operations.</p>

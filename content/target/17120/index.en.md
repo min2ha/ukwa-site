@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Letter from the Political Editor: With 100 days still to go how will Cameron, Miliband and Co. keep us all engaged? 
-

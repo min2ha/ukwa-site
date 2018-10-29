@@ -10,6 +10,4 @@
   "start_date": "2016-12-31T09:00:00Z"
 }
 
-# Ancient Lamps - RomQ Reference Collection
-
 A reference collection of ancient lamps housed in the UK, set up in 2006 and provided as a public resource.

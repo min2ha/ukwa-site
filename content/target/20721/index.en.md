@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gordon Bain (@GordonBain) on Twitter
-
 The Twitter profile of Gordon Bain, the Liberal Democrats candidate for Central Ayrshire in the UK General Election on the 7th May 2015.

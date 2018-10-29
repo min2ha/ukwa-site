@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Brunel Museum
-
 London museum based in engine house designed by Isambard Kingdom Brunel

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Holmes Chapel During WWI
-
 Project to tell the story of the impact of the First World War on the small village of Holmes Chapel.

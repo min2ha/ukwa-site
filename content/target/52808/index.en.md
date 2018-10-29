@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Hexham Local History Society
-
 Hexham originated as a monastery founded by Saint Wilfrid in 674. The crypt of the original monastery survives, and incorporates many stones taken from nearby Roman ruins, probably Coria (Corbridge) or Hadrian's Wall.

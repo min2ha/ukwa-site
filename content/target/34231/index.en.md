@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# St Paul's Grangetown
-
 St Pauls Church is a Church of Wales Church located in Grangetown, Cardiff.

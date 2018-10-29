@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Theo Clarke (Conservative Politician)
-
 Theo Clarke stood as Conservative candidate for Bristol East at the 2017 General Election but was not elected.

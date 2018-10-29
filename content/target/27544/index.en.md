@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: From Vince Cable to Danny Alexander, the coalition ministers who lost their heads
-
 None

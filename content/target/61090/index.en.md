@@ -10,5 +10,3 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Morriston RFC Male Choir | Côr Meibion Clwb Rygbi Treforys
-

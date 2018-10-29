@@ -10,6 +10,4 @@
   "start_date": "2014-11-23T06:00:00Z"
 }
 
-# Construction & Development Partnership
-
 <p>Established in 2008, the Construction and Development Partnership is a construction industry led development charity. They are a British based registered charity operating in London and Sierra Leone.</p>

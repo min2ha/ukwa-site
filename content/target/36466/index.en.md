@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cabinet Office: Alternatives to membership: possible models for the United Kingdom outside the European Union
-
 This paper looks at a number of possible alternatives for the UK’s relationship with the EU, if there were to be a vote to leave. It provides examples of countries that are not members of the EU but have other arrangements with it, specifically Norway, Switzerland, Canada and Turkey. It also looks at a possible relationship based only on World Trade Organisation membership. It sets out the main features and implications of each of the key existing models for the relationship, and assesses their suitability for the UK.

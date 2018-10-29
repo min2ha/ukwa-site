@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Forever Young
-
 A young person / cross generational focused complement to the wider 1245 Sunflowers Programme which is being delivered across Stockton on Tees.

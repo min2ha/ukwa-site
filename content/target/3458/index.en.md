@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Braintree and Witham Times
-
 None

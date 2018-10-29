@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Derby County Ladies Football Club
-
 Derby County Ladies Football Club was established in 1989 and currently runs 2 senior womens teams playing in the FA Women's Premier League Northern Division and 10 junior teams competing in the Nottinghamshire Girls League, Derbyshire Girls and Ladies League and the Central Warwickshire Girls League.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour and Conservatives neck and neck in latest Observer poll 
-

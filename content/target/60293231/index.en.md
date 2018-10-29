@@ -10,5 +10,3 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# National Centre for the Replacement, Refinement and Reduction of Animals in Research, The - NC3Rs
-

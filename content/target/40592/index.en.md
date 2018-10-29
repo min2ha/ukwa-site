@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: 'Brexit will make it harder to keep suicide bombers off the streets of London': Cameron's latest warning as he turns up the heat in the EU referendum battle    
-

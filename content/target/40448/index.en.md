@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Leadhills & Wanlockhead Railway
-
 Website of a narrow gauge railway, museum and visitor attraction in the Leadhills area of South Lanarkshire, Scotland.

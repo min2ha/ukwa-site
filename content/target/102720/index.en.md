@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Socialist Workers Party
-
 The Socialist Workers Party (SWP) is a far-left political party in Britain. Founded as the Socialist Review Group by supporters of Tony Cliff in 1950, it became the International Socialists in 1962 and the SWP in 1977. The party considers itself to be Trotskyist. Cliff and his followers criticised the Soviet Union and its satellites, calling them "state capitalist" rather than socialist countries.

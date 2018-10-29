@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Ham Life Amateur Radio Enthusiasts 
-
 Ham Life provides information on set up, the types of radio available, what’s happening in the world of Amateur Radio.

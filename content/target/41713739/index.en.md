@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Geraint Davies Working hard for Swansea
-
 Geraint Davies is the MP for Swansea West.

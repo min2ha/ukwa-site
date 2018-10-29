@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 20 October 2016: Brexit: Environmental and Climate Change Policy 
-
 The House of Lords debates the future of environmental and climate change policy in the light of the result of the referendum for the withdrawal of the United Kingdom from the European Union

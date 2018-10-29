@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Perth Racecourse
-
 Site of a horse racing course and events venue at Perth, Perth & Kinross.

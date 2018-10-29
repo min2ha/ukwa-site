@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Diabetes Stories
-
 This website presents 100 audio interviews with people with diabetes, members of their families and healthcare professionals. To use these features please visit the live website.

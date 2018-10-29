@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Elim Christian Fellowship Paisley
-
 Site of a Scottish Elim Pentecostal (Christian) Church located in Paisley, Renfrewshire.

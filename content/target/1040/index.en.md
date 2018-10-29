@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South West Bowel Cancer Screening QARC
-
 None

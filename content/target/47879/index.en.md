@@ -10,6 +10,4 @@
   "start_date": "2016-12-17T09:00:00Z"
 }
 
-# High St. Gallery, Kirkcudbright
-
 Site of a commercial art gallery located in Kirkcudbright, Dumfries & Galloway, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Creative Industries Federation: Brexit Report
-
 Creative Industries Federation analysis of the impact of leaving the EU on the UK's arts, creative industries and cultural education - and what should be done.

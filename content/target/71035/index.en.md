@@ -10,6 +10,4 @@
   "start_date": "2018-09-11T09:00:00Z"
 }
 
-# Experimenta
-
 Experimenta was established in 2001 by Chapter Arts Centre and is an annual five-day Festival held in Cardiff.

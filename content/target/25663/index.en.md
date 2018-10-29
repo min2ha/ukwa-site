@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon: Tories bullied Ed Miliband into rejecting SNP support
-
 None

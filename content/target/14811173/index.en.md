@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Inner London Ramblers
-
 None

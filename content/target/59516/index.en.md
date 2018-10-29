@@ -10,6 +10,4 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# Cardiff & Vale County Schools Football Association
-
 Cardiff & Vale County Schools Football Association is an association managed by teachers and supported by primary and secondary schools in Cardiff and the Vale of Glamorgan.

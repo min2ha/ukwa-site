@@ -11,6 +11,4 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# ForthBridgesFestival (@forthbridgesfes) on Twitter
-
 The twitter profile of the Forth Bridges Festival.

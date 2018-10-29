@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Mathematical Medicine at Swansea
-
 This is the website for Mathematical Medicine and Mathematical Oncology Group at Swansea University. They use interdisciplinary multi-scale approaches and utilize mathematics to understand the underlying complexity of various biological and biomedical problems in medicine and in particular, cancer. They are a part of Mathematical Methods in Biology and Life Sciences Group at Mathematics Department and Biomathematics Centre at Swansea University.

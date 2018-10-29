@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  Allison Pearson: why stay in the EU when its capital is also the capital of jihadism in Europe?
-

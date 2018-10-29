@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bradford Bulls RL
-
 The official Bradford Bulls Twitter feed, bringing you the latest news and views directly from Odsal Stadium. Born in 1863 as Bradford Rugby Club

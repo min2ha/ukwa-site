@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Argyle Pride
-
 At Argyle Pride we are always working towards providing an environment where LGBT supporters of the Green Army can express themselves with out the threat of anti-LGBT abuse which we see everyday in football; from grass roots right through to the pinnacle of the Premier League.

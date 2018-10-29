@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Renfield St. Stephen's Church
-

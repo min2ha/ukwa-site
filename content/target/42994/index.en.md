@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Fiscal Commission
-
 Website of Scottish Fiscal Commission - a non-statutory body providing independent scrutiny of Scottish Government forecasts of receipts and economic determinants from taxes devolved to Scotland.

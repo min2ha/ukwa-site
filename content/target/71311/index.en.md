@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Isla Deveron Churches 
-
 Site of a group of Christian churches and their congregations of belonging to the Scottish Episcopal denomination and located in Aberdeenshire, namely St. Marnan, Aberchirder; Keith, Holy Trinity; Christ Church, Huntly

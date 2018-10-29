@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Sport: Winter Olympics
-
 None

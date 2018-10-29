@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Welsh Music Prize
-
 The Welsh Music Prize was created in 2011 by Radio 1 DJ Huw Stephens and festival promoter and music industry expert John Rostron.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Linlithgow Book Festival
-
 Linlithgow Book Festival

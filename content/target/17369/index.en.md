@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Migrants' Rights Network
-
 Migrants' Rights Network is a national NGO working and campaigning in support of migrants in the UK.
 
 Their work brings together migrant activists and support organizations, think tanks, academics, faith groups and public sector representatives to advocate for a rights-based approach towards migration in the UK.

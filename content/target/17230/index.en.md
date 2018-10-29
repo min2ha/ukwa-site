@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Shoot 500 pheasants and save a Tory! How David Cameron raised £3m at bizarre fundraising ball
-
 None

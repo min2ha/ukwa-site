@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Neil Miney (@NeilMiney) on Twitter (UKIP Politician)
-
 Neil Miney stood as UK Independence Party (UKIP) candidate in the constituency of Knowsley in the 2017 General Election but was not elected.

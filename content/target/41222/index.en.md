@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Auntie's Recipes
-
 Auntie's Recipes is a free search engine for the BBC Recipes that were being cut from the BBC website as announced on the 17th of May 2016.

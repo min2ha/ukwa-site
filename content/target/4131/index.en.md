@@ -11,5 +11,3 @@
   "subject": "UK response to Typhoon Haiyan (Philippines) 2013"
 }
 
-# Pennyappeal Philippines Emergency
-

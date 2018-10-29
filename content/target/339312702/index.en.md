@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# ‘Paddy Joe’ (1895-1960): a tribute to a 1916 fighter
-
 This website was created by Jim Stephenson as a tribute to his grandfather Patrick Joseph Stephenson who fought in both the Easter Rising and the War of Independence. 

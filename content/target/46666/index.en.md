@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Discovery Film Festival
-
 Site of an international film festival aimed at young audiences, and taking place in Dundee.

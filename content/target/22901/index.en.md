@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# 38 degrees blog: posts tagged '2015 election'
-

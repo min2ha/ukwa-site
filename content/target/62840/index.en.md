@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ulster Rugby (@UlsterRugby) on Twitter
-
 Professional Rugby Club based at Kingspan Stadium, Belfast.

@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Rainyday Gallery
-
 None

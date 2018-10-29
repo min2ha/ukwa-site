@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: In Europe we see only one loser from Brexit – and it won’t be us
-

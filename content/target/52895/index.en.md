@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lesley Brennan (@LesleyBzz) on Twitter
-
 Twitter profile of Lesley Brennan, Scottish Labour candidate for Dundee East in the 2017 general election.

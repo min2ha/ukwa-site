@@ -10,6 +10,4 @@
   "start_date": "2017-06-22T09:00:00Z"
 }
 
-# National Campaign for Courtesy
-
 Launched in 1986, the National Campaign for Courtesy is a registered charity number 328296 and a not-for-profit organisation that has a membership base including a network of volunteer regional representatives.

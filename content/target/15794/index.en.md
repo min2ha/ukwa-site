@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T09:00:00Z"
 }
 
-# British Association of Perinatal Medicine (BAPM)
-
 British Association of Perinatal Medicine (BAPM) promotes structured, collaborative approach to caring for pregnant women, newly-delivered mothers and newborn babies where hospitals, clinicians and other health professionals work closely together, formally and informally, to provide the safest and most effective service for mothers and babies.

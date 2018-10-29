@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kilburn Literary Festival, The
-
 Kilburn Literary Festival

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# MARSM: Promoting Arabic culture in the UK and beyond.
-
 Marsm is an events company that promotes the rich and diverse culture of the Arab world across the UK. Marsm has had the privilege to unite the vibrant cultural offerings of the Arab world with UK audiences, hungry for new sounds and new perspectives. The company is proud to provide a space for dissenting voices of today’s Middle East, combining politics and art.

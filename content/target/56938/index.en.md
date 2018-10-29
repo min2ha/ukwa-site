@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian: As Labour becomes party of soft Brexit, hard battles lie ahead
-
 Argues that Labour now has a clear path to join forces with Tory supporters of remaining in the EU to amend the EU withdrawal Bill to stop hard Brexit in its tracks.

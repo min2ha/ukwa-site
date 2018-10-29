@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T10:00:00Z"
 }
 
-# Equality and Human Rights Commission in Scotland
-
 Scottish branch of the The Equality and Human Rights Commission (EHRC), a non-departmental public body in Great Britain that was established by the Equality Act 2006. The Commission has responsibility for the promotion and enforcement of equality and non-discrimination laws.

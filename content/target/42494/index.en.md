@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Celebrating The Queen’s 90th Birthday!
-
 Bluestone National Park Resort in Pembrokeshire will be hosting a street party.

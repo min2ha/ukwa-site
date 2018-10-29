@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: David Davis says EU Brexit negotiator meeting 'a good start'
-
 Brexit Secretary David Davis described his meeting with the European Parliament's chief negotiator Guy Verhofstadt as a "good start". Although they could not negotiate yet, he said their discussions had been able to cover structures and how both sides propose to approach the Brexit talks. He said a deal was possible that was in the interests of the EU and the UK.

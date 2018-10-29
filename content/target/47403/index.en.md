@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Bethel Congregational Church, Middle Hill, Freystrop
-
 Bethel Congregational Church is in Freystrop, Pembrokeshire. The Congregational Federation in Wales is a Christian Denomination whose Churches use the English language for worship. They have a friendly relationship with the Welsh-speaking Congregational Denomination, Undeb yr Annibynwyr Cymraeg. 

@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# ACI UK: Financial Markets Association
-
 Representing the interests of dealing, broking, operations, regulatory and compliance members engaged in FX, MM and derivatives markets.

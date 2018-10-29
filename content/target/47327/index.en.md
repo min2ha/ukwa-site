@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Wyndham Lewis Society
-
 The Wyndham Lewis Society supports the work of The Wyndham Lewis Memorial Trust in promoting Lewis's oeuvre by organizing events, publishing academic volumes, and circulating Lewis-related knowledge and information.

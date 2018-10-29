@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Wales Governance Centre
-
 <p>A research centre of Cardiff University, sponsored by the Law School and Department of Politics and International Relations. The Centre conducts research across subjects relating to the politics and governance in Wales, and the wider UK and EU contexts.</p>

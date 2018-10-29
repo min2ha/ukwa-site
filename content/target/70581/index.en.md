@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Yeovil Town Ladies FC (@YeovilLadiesFC) on Twitter
-
 Twitter account for Yeovil Town Ladies Football Club

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Billy Bragg says Independence would "create a new...
-
 Ewan Morrison's post of 16th of June, 2014.

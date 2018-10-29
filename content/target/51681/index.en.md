@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 30th March 2017: Legislating for UK Withdrawal from the EU
-
 David Davis, Secretary of State for Exiting the European Union, makes a statement about the publication of a White Paper on the Great Repeal Bill.

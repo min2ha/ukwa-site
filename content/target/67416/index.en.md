@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Barney's Beer
-
 Site of a brewer located in Edinburgh.

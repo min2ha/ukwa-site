@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gavin Robinson (@GRobinsonDUP) on Twitter (DUP candidate for Belfast East)
-

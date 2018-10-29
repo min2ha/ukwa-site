@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Nigel Farage warns there could be RIOTS as he clashes with Brexit wrecker nemesis Gina Miller over her legal bid to block EU exit   
-

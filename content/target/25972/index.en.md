@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour expected to gain in northern England, but Ukip lurks in wait
-
 None

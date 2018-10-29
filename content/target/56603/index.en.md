@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Association of Celtic Students of Ireland and Britain
-
 The Association of Celtic Students of Ireland and Britain support students of Celtic Studies and the Celtic languages and enable networking between students from different institutions and different countries. 

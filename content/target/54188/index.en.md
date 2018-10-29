@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Darren Jones (Labour Party candidate  Politician)
-
 Darren Jones stood as Labour candidate for Bristol North West at the 2015 General Election but was not elected. He stood again in 2017 and was successful.

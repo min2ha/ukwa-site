@@ -10,5 +10,3 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Telegraph, The: Economic threat of Brexit is being 'exaggerated', says former Bank of England chief
-

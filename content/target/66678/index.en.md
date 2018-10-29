@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Barnet FC (@BarnetFC) on Twitter
-
 The official Twitter account of Barnet Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Confederation of Passenger Transport UK (CPT)
-
 The Confederation of Passenger Transport UK (CPT) is recognised by Government as the voice of the bus and coach industry, and the focus for consultation on national and international legislation, local regulations, operational practices and engineering standards.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-30T09:00:00Z"
 }
 
-# Spectator, The: Theresa May should fear a Brexiteer who feels betrayed
-
 Argues that, if Theresa May wants to win Parliamentary votes on the customs union, she will have to threaten to quit if the Commons goes against her. Only this threat would bring Tory remainers to heel.

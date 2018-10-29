@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Ukip call for migrant cut: Influx of unskilled migrants has only ‘kept wages down’
-
 None

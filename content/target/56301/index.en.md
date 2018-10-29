@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# High Commission of India, London
-

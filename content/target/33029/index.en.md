@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Real Point Blog
-
 Real Point Blog is a space to share tips as well as industry news and opinion from sectors including technology and IT, digital marketing as well as business more generally. It is run by Ian O'Donnell, director of Real Point Design.

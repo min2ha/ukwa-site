@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Legal Cheek: Chris Grayling’s global summit turns to sh*t
-

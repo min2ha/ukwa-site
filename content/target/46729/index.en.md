@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Croda International plc
-
 Croda International plc is a British speciality chemicals company, manufacturing chemicals as well as; paints, printing inks, adhesives, dyestuffs and processing honey. The business is split into three core market sectors: Personal Care, Life Sciences, made up of: Crop Care and Health Care and Performance Technologies, made up of: Coatings and Polymers, Geo Technologies, Home Care, Lubricants and Polymer Additives. They also have an Industrial Chemicals business area.

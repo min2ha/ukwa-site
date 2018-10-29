@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isabel Sigmac (Conservative)
-
 Isabel Sigmac stood as Conservative candidate for Birmingham, Ladywood at the 2015 General Election but was not elected.

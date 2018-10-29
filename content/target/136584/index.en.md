@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# United Nations Association of Great Britain and Northern Ireland (UNA-UK)
-
 The United Nations Association - UK (UNA-UK) is the UK's leading source of independent analysis on the UN, and a UK-wide grassroots movement.

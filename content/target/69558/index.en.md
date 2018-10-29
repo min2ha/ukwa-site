@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Holywood CFC, Christian Fellowship Church, Northern Ireland
-

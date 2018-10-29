@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Run. Coed y Brenin
-
 Run. Coed y Brenin is the UK's first bespoke trail running centre.

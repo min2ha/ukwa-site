@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# York Mix
-
 <p>News and events for York</p>

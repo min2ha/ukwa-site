@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# MI Casnewydd (@MICasnewydd) on Twitter 
-
 A Menter Iaith/ Welsh language initiative for the Welsh Language in Newport.

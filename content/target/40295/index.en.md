@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# East Neuk Open Studios
-
 Site showcasing painters and scuptors working in East Fife, Scotland, and featuring an annual artists' trail, where visitors are encouraged to follow various itineraries covering several artists studios.

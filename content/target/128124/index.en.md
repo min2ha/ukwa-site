@@ -10,5 +10,3 @@
   "start_date": "2006-09-07T00:00:00Z"
 }
 
-# Ancient Human Occupation of Britain
-

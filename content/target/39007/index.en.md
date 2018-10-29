@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Bishops' Conference of Scotland
-
 Site for the bishops of the Roman Catholic Church in Scotland, as well as the main online presence for Catholicism in Scotland.

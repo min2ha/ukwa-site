@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Richard O'Carroll
-
 This website was created in memory of Richard O’Carroll, a trade union activist, Labour Party politician, and Irish Volunteer who took part in the Easter Rising 1916. It outlines his role in the Easter Rising and contains numerous contemporaneous photographs.

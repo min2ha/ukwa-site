@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Palestine Solidarity Campaign: Parliament update: tributes to Mandela
-
 None

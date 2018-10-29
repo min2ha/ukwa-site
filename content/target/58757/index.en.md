@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Glasgow Gaels Shinty Club on Facebook
-
 Facebook page of a shinty club based in Glasgow.

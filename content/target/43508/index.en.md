@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# gair rhydd: What impact will Brexit have upon the British economy?
-
 An article in  the University of Cardiff newspaper considering the economic implications of a Brexit vote.

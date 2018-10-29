@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow East Rugby Club
-
 Site of a Scottish rugby union football club based at Barrachnie Park, Glasgow.

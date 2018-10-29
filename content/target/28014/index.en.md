@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Edinburgh Eye
-
 Jane Carnall is an Edinburgh based blogger, writing extensively about equality and politics.

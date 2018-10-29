@@ -10,6 +10,4 @@
   "start_date": "2006-02-03T00:00:00Z"
 }
 
-# NWTV: Community TV on the Web
-
 None

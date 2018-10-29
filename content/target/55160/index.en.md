@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for International Development: Government pledges to help improve access to UK markets for world’s poorest countries post-Brexit
-
 The Government will use Brexit to cement Britain’s standing in the world and meet our commitments to the world’s poorest by securing their existing duty-free access to UK markets and providing new opportunities to increase trade links.

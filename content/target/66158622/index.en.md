@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# Living Life to the Full
-
 Living Life to the Full course is a life skills course that aims to provide access to practical and user-friendly training in life skills.

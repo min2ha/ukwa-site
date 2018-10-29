@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Ruthin Art Trail
-
 The Ruthin Art Trail is a partnership between Cadwyn Clwyd, Denbighshire County Council, Ruthin Town Council, with support from Bro Rhuthun. Ruthin Art Trail aims to encourage visitors to Ruthin Craft Centre to visit the centre of town, and to link the community of Ruthin with the Craft Centre. 

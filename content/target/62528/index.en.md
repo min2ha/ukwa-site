@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# Lodge Fort William No. 43
-
 Site of a masonic lodge located in Fort William, Highland (Invernesshire) and affiliated with the Grand Lodge of Scotland.

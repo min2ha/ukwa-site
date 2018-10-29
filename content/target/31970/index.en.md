@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Reach Will Ltd.
-
 Website of a UK IT company.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit: workers' rights best secured by staying in single market, says TUC chief
-

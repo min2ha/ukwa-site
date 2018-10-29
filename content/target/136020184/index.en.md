@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wiltshire Involvement Network (WIN)
-
 None

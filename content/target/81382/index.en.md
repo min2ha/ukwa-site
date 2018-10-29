@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: No-deal Brexit planning shuts M26 overnight
-
 The M26 in Kent was shut overnight while work was done to see if it could be used as a "parking lot" for lorries, in the event of a no-deal Brexit.
 

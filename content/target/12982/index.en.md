@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Street Level Photoworks: Commonwealth Family Album
-
 <p>Street Level is a leading photography arts organisation that provides artists and the public with a range of opportunities to make and engage with photography.<br />
 Commonwealth Family Album is a series of photographic poster artworks showcasing different photographers work, to be installed around the city during the Commonwealth Games.  The project celebrates contemporary representations of people that make up the Commonwealth today, across different facets of daily life and sport. Poster sites include the live zones at Glasgow Green and Kelvingrove Bandstand.</p>

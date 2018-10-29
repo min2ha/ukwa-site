@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Coalition 'derailed programme to save lives by reducing salt in food'
-
 None

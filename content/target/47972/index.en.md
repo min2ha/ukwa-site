@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Society under the patronage of Saint Wilfrid and Saint Hilda, The 
-
 The Society is an ecclesial body, led by a Council of Bishops. 

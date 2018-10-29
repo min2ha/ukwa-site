@@ -10,5 +10,3 @@
   "start_date": "2011-09-15T00:00:00Z"
 }
 
-# Healing the Wounds
-

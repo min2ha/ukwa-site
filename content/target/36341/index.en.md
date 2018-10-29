@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Inside politics: Eurosceptics need to find a leader fast
-
 Column by Macer Hall

@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Ellie Emberson (@EllieEmberson) on Twitter
-
 The official Twitter account of Ellie Emberson. She became the youngest female councillor ever on Reading Borough Council, winning Minster Ward for Labour in the 2018 Local Elections at the age of 19.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Irish in Britain: Brexit
-
 The subsection of the Irish in Britain website related to Brexit.

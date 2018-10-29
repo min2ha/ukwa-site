@@ -10,6 +10,4 @@
   "start_date": "2009-10-19T00:00:00Z"
 }
 
-# Buxton Hydro, The
-
 The Story of the Spa Town's best known Hydropathic between 1866 and 1974

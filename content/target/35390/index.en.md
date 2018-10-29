@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Travel Health Pro
-
 Travel Health Pro: Website of the National Travel Health Network & Centre.

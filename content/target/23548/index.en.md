@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Steve Slade on Facebook (Green Party candidate for St Austell and Newquay)
-

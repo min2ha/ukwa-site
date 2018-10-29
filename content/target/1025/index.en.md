@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HPA Events and Conferences
-
 None

@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Offwell Woodland & Wildlife Trust
-
 None

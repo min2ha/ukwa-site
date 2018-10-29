@@ -10,6 +10,4 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# Band Pres Llareggub Brass Band
-
 Llareggub Brass Band is a Bronx hip hop-inspired New Orleans-tinged North Walian brass band.

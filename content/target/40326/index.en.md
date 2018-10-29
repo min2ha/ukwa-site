@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Expats Blog: Survey shows massive expat majority in support of Stay campaign 
-
 British expats able to vote in the upcoming Brexit referendum are overwhelmingly in favour of staying as part of the European Union.

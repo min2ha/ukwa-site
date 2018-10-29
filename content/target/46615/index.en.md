@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: This week's preposterous EU summit reminded me exactly why I voted Leave in the first place 
-
 The first European Council meeting since the EU referendum was marred with the indignity of the European leaders snubbing Theresa May. Greeting her short, functional speech with a planned stony silence. It was petty. It was designed to humiliate. It looked rather like a bunch of schoolboy louts ganging up and bullying.

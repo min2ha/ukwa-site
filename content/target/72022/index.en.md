@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU migrants won't get special treatment, May says
-
 Low-skilled migration would fall when the UK ended EU free movement access after Brexit, Theresa May promised at the 2018 Conservative Party conference. The prime minister said high-skilled workers would be prioritised with no preferential treatment for people from the EU compared with those from the rest of the world. But she said a future trade deal with the EU could include an agreement on "mobility" of each other's workers.
 
 

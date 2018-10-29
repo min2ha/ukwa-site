@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Syr John Rhŷs (@JohnRhys2015) on Twitter 
-
 John Rhŷs  (1840-1915) was one of Britain’s most prominent scholars of Celtic Studies at the end of the nineteenth century and the beginning of the twentieth. In 2015, the centenary of John Rhŷs’s death was marked by two public lectures and two academic conferences at Aberystwyth, the fruit of collaboration between Aberystwyth University’s Department of Welsh and the National Library. This is the twitter feed for the centenary.

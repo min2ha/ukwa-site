@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Technical note: other separation issues - phase 2
-
 In December 2017, the UK Government confirmed the joint UK and EU desire to establish a deep and close future partnership. Both parties also agreed, as part of the Joint Report published in December, that there were a number of areas relating to the UK’s separation from the EU where further discussion would be required to reach agreement. These issues were defined as “Other Separation Issues” and are distinct from citizens’ rights, Northern Ireland and the financial settlement. The technical note sets out the UK’s proposed approach to these ‘Other Separation Issues’.
 

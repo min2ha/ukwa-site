@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Bay Magazine Swansea 
-
 The Bay is a lifetime magazine for Swansea Bay.

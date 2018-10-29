@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amir Williamson (@AmirWilliamson) on Twitter
-
 The twitter profile of hammer thrower Amir Williamson, member of Team England for the Glasgow 2014 Comonwealth Games.

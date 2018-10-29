@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ross County Football Club
-
 Site of a senior Scottish professional football club based in Dingwall, Highland, Scotland.

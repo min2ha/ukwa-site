@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South East NDTMS Team
-
 None

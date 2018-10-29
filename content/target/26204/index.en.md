@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Association for Shooting and Conservation, The: General Election 2015
-
 The British Association for Shooting and Conservation (BASC) is a non-profit making Industrial and Provident Society, whose mission is to promote and protect sporting shooting and the well-being of the countryside throughout the United Kingdom and overseas. 

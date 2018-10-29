@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UK defence spending 'concerns' US Army chief Raymond Odierno
-
 None

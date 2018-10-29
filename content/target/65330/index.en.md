@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexit breakthrough? Ministers mull EU trade plan that could see UK tied to customs union for YEARS more but make a clean break afterwards   
-

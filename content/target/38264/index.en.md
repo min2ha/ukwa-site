@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UKIP Nonsense (@UKIPNFKN) on Twitter
-
 Curated News & Blogs about UKIP, the Far Right & forthcoming EU Referendum. Political comments, debates & discussions.

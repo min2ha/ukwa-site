@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Galsworthy and Human Battles on the Home Front
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Beth Sloan (bethsloan_7) on Twitter
-
 The twitter profile of swimmer Beth Sloan, who competed in the 100 metre medley relay at the Glasgow 2014 Commonwealth Games for Team Wales.

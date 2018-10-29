@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Maindee Festival
-

@@ -10,5 +10,3 @@
   "start_date": "2013-07-11T00:00:00Z"
 }
 
-# rioxx: the rioxx metadata profile and guidelines
-

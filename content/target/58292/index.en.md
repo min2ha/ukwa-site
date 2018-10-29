@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Senedd Home
-
 Senedd Home is a weekly "magazine" focused on the latest news from the Senedd and other major developments in Welsh politics. The author is the civic nationalist blogger, Owen Donovan.

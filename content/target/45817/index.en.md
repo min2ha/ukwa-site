@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Wave, The
-
 The Wave is run by the Newport Equity Partnership and offers a safe and confidential environment for young LGBTQ people.

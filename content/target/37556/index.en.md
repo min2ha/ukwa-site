@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tax Payers Alliance (TPA), The: The TPA and the EU referendum
-
 The view of the Tax Payers Alliance on the EU referendum

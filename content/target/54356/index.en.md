@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Yen Hongmei Jin
-
 Yen Hongmei Jin, Independent candidate for Dumfries and Galloway in the 2017 general election.

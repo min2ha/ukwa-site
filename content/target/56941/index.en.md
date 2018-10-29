@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: No decisive progress on Brexit - Barnier
-
 EU Brexit negotiator Michel Barnier says "no decisive progress" has been made on key issues, in the latest round of talks with the UK.

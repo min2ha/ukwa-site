@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alex Cole-Hamilton (@agcolehamilton) on Twitter
-
 The Twitter profile of Alex Cole-Hamilton, Scottish Liberal Democrats MSP for Edinburgh Western.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Orpington Labour on Facebook
-

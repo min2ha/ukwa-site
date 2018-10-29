@@ -10,7 +10,5 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Studio Practice 
-
 
 Andrew Smith has a painting studio in Harlech. He has worked consistently with colour exploring different processes and methodologies including printmaking. A former senior lecturer in Fine Art at Bangor University, he is now an elected member of the Royal Cambrian Academy of Art (RCA).

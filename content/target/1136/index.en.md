@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dorset Cancer Network
-
 None

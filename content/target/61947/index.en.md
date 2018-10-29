@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Burnley FC (@BurnleyOfficial ) on Twitter
-
 Burnley F.C. is a professional association football club based in Burnley, Lancashire, England.

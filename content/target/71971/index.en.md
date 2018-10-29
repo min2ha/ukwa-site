@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Daily Mail, The: The 'agony' of being a 50/50 mother? Oh please. It's called equality - and fathers deserve their share just as much as women
-
 An article about parental equality

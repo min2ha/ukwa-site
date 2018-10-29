@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gavinton, Fogo & Polwarth Community Council
-

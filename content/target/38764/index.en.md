@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WWI Avonmouth and Shirehampton
-
 This project will enable the community to explore and learn about the lost history of the region through archaeological and documentary investigations.

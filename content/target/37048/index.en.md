@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: EU referendum: George Osborne hits out at Boris Johnson for backing Brexit as Tory tensions over Europe grow
-

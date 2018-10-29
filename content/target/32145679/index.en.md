@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Kendall and Sedburgh Quakers
-

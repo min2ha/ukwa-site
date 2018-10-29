@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Cumulus Journal
-
 Experimental poetry journal with bases in Nottingham, Edinburgh and London

@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# Success at School: Supporting Young People in Education through Volunteering
-
 The Success At School (SAS) is a EU project, managed from the UK which aims to address young people (ages 14-19) who have left or are at risk of leaving school to keep being engaged with education. 

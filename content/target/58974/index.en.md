@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Ruperra Conservation Trust
-
 Ruperra Conservation Trust is a registered charity based near Caerphilly. The aim is to conserve and restore the biodiversity and built heritage of Coed Craig Ruperra.

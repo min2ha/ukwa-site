@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'Thick as mince and lazy as a toad!' Architect of Vote Leave launches a brutal assault on 'vain' Brexit Secretary David Davis as civil war over how to deliver the referendum gets WORSE   
-

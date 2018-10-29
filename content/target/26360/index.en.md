@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: As the papers loudly declare party allegiances, it won't just be one that wins it
-
 None

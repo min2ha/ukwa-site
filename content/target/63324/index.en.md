@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Kerslake Arena Review
-
 The Mayor of Greater Manchester Andy Burnham commissioned a non-statutory independent review of the events and aftermath of the Manchester Arena Terrorist Attack in July as part of his role as Police and Crime Commissioner. The review identified what a range of responding agencies did well on the night and during the following week that helped people as well as what could have been done better

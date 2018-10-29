@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Lodge Callendar No. 588
-
 Site of a masonic lodge located in Falkirk and affiliated with the Grand Lodge of Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Knops Brewery
-
 Site of a brewer located at Dirleton, East Lothian.

@@ -10,6 +10,4 @@
   "start_date": "2016-12-09T09:00:00Z"
 }
 
-# Comisiwn Staff y Gwasanaethau Cyhoeddus | Public Service Staff Commission
-
 Public Services Staff Commission is an independent non-statutory organisation that advises Welsh ministers and public service organisations in Wales on the workforce issues arising from public service reforms.

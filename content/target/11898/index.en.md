@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Selby (andrewselby1) on Twitter
-
 The twitter profile of althete Andrew Selby, boxer and member of Team Wales for the Glasgow 2014 Commonwealth Games.

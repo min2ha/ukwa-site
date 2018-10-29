@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: fisheries
-
 The fishing industry represents a very small part of the UK’s GDP. Yet it is
 of great importance to many coastal communities across the UK. Successful
 fisheries management is also vital to the health of the wider marine environment. Withdrawing from the Common Fisheries Policy gives the UK the opportunity to develop a fisheries management regime that is tailored to the conditions of UK waters and its fleet.

@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Jools Holland
-
 Julian Miles "Jools" Holland, OBE, DL is an English pianist, bandleader, singer, composer and television presenter. 

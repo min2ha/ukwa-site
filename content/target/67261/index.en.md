@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Ayr Brewing Company Ltd
-
 Site of a brewer located at Ayr, Ayrshire.

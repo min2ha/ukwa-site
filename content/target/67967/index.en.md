@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harlequins M&Y Rugby (@QuinsMins) on Twitter
-
 The official Twitter account of Harlequin Amateurs Rugby Club. Harlequin Amateurs and Lockside RFC of Teddington have merged to form Harlequin Amateurs Rugby Club. 

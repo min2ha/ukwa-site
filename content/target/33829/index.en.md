@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum: Who in Britain wants to leave, and who wants to remain?
-

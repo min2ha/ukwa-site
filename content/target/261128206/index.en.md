@@ -10,5 +10,3 @@
   "start_date": "2014-08-20T00:00:00Z"
 }
 
-# Fresh Start Wales | Cychwyn Iach Cymru
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vapers for Britain
-
 Vapers campaigning for the UK leave the EU

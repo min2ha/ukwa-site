@@ -10,5 +10,3 @@
   "start_date": "2012-10-16T00:00:00Z"
 }
 
-# Llanfyllin Music Festival | Gwyl Gerdd Llanfyllin
-

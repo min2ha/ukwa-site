@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Oral History Society (OHS)
-
 The Oral History Society promotes the collection, preservation and use of recorded memories and plays a key role in facilitating and developing the use of oral history.

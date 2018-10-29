@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Yes Highland
-
 <p>Highland portal for the Yes campaign</p>

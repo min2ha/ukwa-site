@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# Public Media Alliance
-
 The Public Media Alliance is the largest global association of public service broadcasters. The members are the organisations that communicate daily and free of charge through TV, radio and online with the 2.5 billion citizens living in the 54 countries that our members serve.

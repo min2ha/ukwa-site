@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Col Howarth Stand Up For Comedy
-
 Col Howarth is a Manchester-born, Cardiff-based stand-up comedian.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: David Mepham: If I were Prime Minister: I would make Britain a true champion of human rights
-

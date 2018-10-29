@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Murdoch Curling on Twitter
-
 None

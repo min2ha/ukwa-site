@@ -11,8 +11,6 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Oxford at War 1914-1918
-
 Oxford at War 1914-1918 brings together material related to Oxford during the period of the First World War. Anyone can share their stories and material through the site, or explore the collection for free. The collection will keep on growing through the Centenary.
 
 Oxford at War 1914-1918 is based at the University of Oxford. It is part of the Oxford World War I Centenary Programme with support from the van Houten Bequest.

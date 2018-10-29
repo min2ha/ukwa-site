@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Banff Rugby Club
-
 Site of a Scottish rugby union football club based in Banff, Aberdeenshire.

@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Just Giving: Weʼre raising £100 to help veterinary fees for animals caught in the London fire
-
 An online crowd funder to help veterinary fees for animals caught in the fire at Grenfell on the 14th of June 2017.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Gay Dads Scotland
-
 Site of an organisation offering a social space and support for gay fathers in Scotland.

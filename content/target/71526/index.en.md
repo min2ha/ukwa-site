@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Common People
-
 Website for the Common People, music and arts festival. 

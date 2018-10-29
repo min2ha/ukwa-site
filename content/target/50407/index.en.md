@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Anglican-Lutheran Society
-
 The Anglican-Lutheran Society was formed in 1984 by two friends. Both were Christians - one a Lutheran, the other an Anglican. In conversation they quickly realized that neither knew very much about the other's tradition.

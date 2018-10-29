@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Deerstock Music Festival
-
 Website for Deerstock Music Festival, a  music festival organised by festival goers for festivals goers, on a not for profit basis. 

@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Brysgaga Welsh Black Cattle
-
 Brysgaga Welsh Black cattle are a herd situated in north Ceredigion.

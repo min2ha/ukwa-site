@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T08:00:00Z"
 }
 
-# Evelyn Williams (1929-2012)
-
 Welsh artist.

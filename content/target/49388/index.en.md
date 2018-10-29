@@ -10,5 +10,3 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Aberdare Park Road Races
-

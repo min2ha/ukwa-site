@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# English Grammar Day 2015 on Storify
-
 This is a collection of all the tweets on the hashtag for the English Grammar Day 2015 - the event that took place at the British Library on 29th June 2015.

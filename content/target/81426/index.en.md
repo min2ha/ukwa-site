@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newcastle Blackhawks (@blackhawksflag) on Twitter
-
 Newcastle flag football team. Non contact American football, fast, fun and skillfull.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Roller Coaster Club of Great Britain
-
 A website about roller coaster enthusiasts in Great Britain

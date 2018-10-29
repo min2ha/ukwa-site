@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Femedic, The
-
 Created as a response to a perceived lack of information about specific women's health conditions, The Femedic offers advice, information and education about women's health and health related issues.

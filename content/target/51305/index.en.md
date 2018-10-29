@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Willow Tea Room
-
 Site of a tea room designed by Glasgow architect and artist Chales Rennie Mackintosh, continuing to be run as a commerical business, located in Sauchiehall Street, Glasgow.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Our politics is old and crumbling: is it any wonder the young won't vote?
-
 None

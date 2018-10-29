@@ -10,6 +10,4 @@
   "start_date": "2016-02-16T09:00:00Z"
 }
 
-# Bernard Mitchell Photographer
-
 Bernard Mitchell is a Welsh photographer from Swansea.

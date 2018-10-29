@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Express: Brexiteers’ fury at EU ‘common rulebook’ plan
-
 THERESA May was under fire after  details of her new Brexit plan leaked in advance of a Cabinet meeting at Chequers on July 6th suggested Britain would stay tied into a swathe of EU rules and regulations after leaving the bloc. 

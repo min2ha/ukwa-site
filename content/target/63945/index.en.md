@@ -11,7 +11,5 @@
   "subject": "Gender Equality"
 }
 
-# About the 8th
-
 Public information on the 8th Amendment to the constitution in the Republic of Ireland and the proposed law reform in 2018.. 
 

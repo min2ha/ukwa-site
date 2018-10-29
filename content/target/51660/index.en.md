@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Bright Club Dundee
-
 WordPress site for a comedy club based in Dundee.

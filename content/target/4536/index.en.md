@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Public and Commercial Services Union: Tribute to Nelson Mandela
-
 <p>A tribute to Nelson Mandela from the Public and Commercial Services Union, noting the support of predecessor unions for the Anti-Apartheid Movement and PCS's continuing affiliation with Action for South Africa.</p>

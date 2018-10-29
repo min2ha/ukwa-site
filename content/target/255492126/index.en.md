@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Electoral Commission: Scottish Referendum
-
 None

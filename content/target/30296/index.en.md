@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# Historic Scotland: Forth Bridge inscribed as Scotland’s latest World Heritage site
-

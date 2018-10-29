@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Mind The Game 
-
 Mind The Game is an escape room entertainment activity.

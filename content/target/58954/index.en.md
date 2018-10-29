@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Scottish Islamic & Cultural Centre Dundee / Jam’i Mosque Bilal
-
 Site of a Islamic place of worship and cultural centre located in Dundee.

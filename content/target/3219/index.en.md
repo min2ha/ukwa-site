@@ -10,6 +10,4 @@
   "start_date": "2013-08-09T12:00:00Z"
 }
 
-# Idea of a University, The
-
 None

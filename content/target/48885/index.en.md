@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tummel & Tay Festival
-
 Site of a festival of Comedy, Arts, Theatre, Music, History, Food and Film taking place at three venues across Perthshire; Birnam Arts Centre, Pitlochry Festival Theatre and the Birks Cinema, Aberfeldy.

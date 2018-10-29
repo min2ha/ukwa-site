@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Quaker Concern For Animals
-
 None

@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Soroptimist International of Great Britain and Ireland (SIGBI)
-

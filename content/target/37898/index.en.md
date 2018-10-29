@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Prospect Magazine: Brexit would not damage UK security
-

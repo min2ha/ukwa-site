@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Finally, David Davis has told leavers the truth: Brexit means compromise
-

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# North Wales Chronicle
-
 None

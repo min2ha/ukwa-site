@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Library of Innerpeffray
-
 Site of an historic Scottish library at Innerpeffray, Perthshire, founded by Third Lord Madertie, David Drummond, and now open to the public.

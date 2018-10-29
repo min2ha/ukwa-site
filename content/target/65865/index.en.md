@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Sea Scotland
-
 Site of an annual conference series that provides a multi-interest forum for Scotland-focused dialogue and knowledge-exchange for progressive marine policy and management, aiming to bring together experts and stakeholders to generate and share innovative thinking in order that Scotland addresses challenges of managing its seas sustainably.

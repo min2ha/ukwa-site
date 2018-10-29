@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Documentary Wales | Dogfen Cymru
-
 Dogfen Cymru// Documentary Wales will act as a catalyst for the support, inspiration and nurturing of documentary in Wales. It was established by  a group of documentary filmmakers and supporters in 2014.

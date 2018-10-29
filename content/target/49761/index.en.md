@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis: Estonia and the UK will remain close partners after Brexit
-
 Secretary of State for Exiting the European Union, David Davis, writes in Postimees ahead of his meeting with Estonia's Brexit Chief Negotiator, Matti Maasikas, in Tallinn.

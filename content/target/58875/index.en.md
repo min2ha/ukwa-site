@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Welsh Whisperer
-
 Welsh Whisperer sings Country Folk Pop from Wales and is signed to the Fflach record label.

@@ -10,6 +10,4 @@
   "start_date": "2018-10-16T09:00:00Z"
 }
 
-# GetitLoudinLibraries (@LoudinLibraries) on Twitter
-
 We put gigs on in libraries. Part of the National Portfolio

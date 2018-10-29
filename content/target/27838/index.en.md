@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Sky plc
-
 Sky plc is a British satellite broadcasting, on-demand internet streaming media, broadband and telephone services company. It has operations in the United Kingdom, Ireland, Germany, Austria and Italy. Sky is Europe's biggest and leading media company and largest pay-TV broadcaster.

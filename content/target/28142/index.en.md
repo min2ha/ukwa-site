@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Richard Betts (@richardabetts) on Twitter
-
 Twitter feed of Richard Betts, professor of climate impacts at the University of Exeter.

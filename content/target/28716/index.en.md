@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate Group, The
-
 The Climate Group is an award-winning, international non-profit. Their stated goal is a prosperous, low carbon future.

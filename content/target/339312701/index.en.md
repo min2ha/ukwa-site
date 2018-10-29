@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Richmond Barracks
-
 This is the website of a new exhibition centre at Richmond Barracks in Dublin which held prisoners in the aftermath of the Easter Rising, 1916. 

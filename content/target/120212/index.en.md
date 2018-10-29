@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Institute for Fiscal Studies
-
 The Institute for Fiscal Studies was founded in 1969. Established as an independent research institute, IFS was launched with the principal aim of better informing public debate on economics in order to promote the development of effective fiscal policy. Through the establishment of rigorous 

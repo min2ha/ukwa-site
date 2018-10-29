@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Project Britain - British Life and Culture: Facts about the Magna Carta for kids
-

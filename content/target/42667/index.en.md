@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# The Source Mag
-
 Source for Kensal Green, Kensal Rise, Queens Park and North Kensington.

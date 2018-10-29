@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: As a German, I’m amazed at this election. You obsess over selfies but ignore big issues like Europe
-
 None

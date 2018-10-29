@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nigel Farage's Tory challenger owns website encouraging Hungarians to migrate to the UK for wo
-
 None

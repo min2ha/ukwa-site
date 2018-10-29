@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Popularhotels.com: London
-
 Popularhotels.com is a site that hand picks hotels in larger cities for different travelers. They have divided the hotel market into different categories: Family, Business, Couples, Budget and Luxury. 

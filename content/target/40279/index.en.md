@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Alistair Darling: leaving EU could put £250bn of UK export trade at risk 
-
 Guardian, The

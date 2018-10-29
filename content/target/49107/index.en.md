@@ -10,5 +10,3 @@
   "start_date": "2017-02-07T09:00:00Z"
 }
 
-# Department for the Economy
-

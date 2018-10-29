@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Michelle Dewberry (@MichelleDewbs) on Twitter (Independent  Politician)
-
 Michelle Dewberry stood as ain Independent candidate for Kingston upon Hull West and Hessle in the 2017 General Election but was not elected.

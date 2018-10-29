@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Forget the Greens - if the UK wants a truly leftwing party, it might have to grow its own
-
 None

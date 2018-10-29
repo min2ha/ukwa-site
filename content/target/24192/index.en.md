@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Boris Johnson would make a good prime minister, David Cameron suggests
-
 None

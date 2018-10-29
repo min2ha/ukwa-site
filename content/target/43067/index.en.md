@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Beth Potter (@beth_potter) on Twitter
-

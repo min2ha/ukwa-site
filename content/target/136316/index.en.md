@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rathayatra UK - Festival of the Chariots
-

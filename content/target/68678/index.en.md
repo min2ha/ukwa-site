@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bournemouth 7s
-
 Website for the Bournemouth 7s Festival of Sports and Music

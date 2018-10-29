@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Business Support Helpline (@businessgov) on Twitter
-
 As the government's Business Support Helpline for England we're here to provide impartial expert  business support for you & your small business.

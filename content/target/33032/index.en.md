@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Which?: Tech Daily
-
 The Which? technology blog aims to put the hype that surrounds the launch of new technology products into perspective by carrying out objective and thorough product reviews. 

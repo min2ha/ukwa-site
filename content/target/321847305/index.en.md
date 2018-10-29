@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Law Wales | Cyfraith Cymru
-
 This Welsh Government site provides information about Wales' constitutional arrangements and law made in Wales.

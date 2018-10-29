@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Open Rights Group, The
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron: Britain is the jobs factory of Europe – video
-
 None

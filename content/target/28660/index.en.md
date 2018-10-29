@@ -10,6 +10,4 @@
   "start_date": "2015-07-03T10:00:00Z"
 }
 
-# Magor & Undy Walkway Station
-
 A pressure group with the aim of re-opening a railway station to serve the community of Magor and Undy.

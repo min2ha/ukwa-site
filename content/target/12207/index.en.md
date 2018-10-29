@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andrew Davies (fellrunningandy) on Twitter
-
 The twitter profile of Andrew Davies, marathon runner and member of Team Wales for the Glasgow 2014 Commonwealth Games.

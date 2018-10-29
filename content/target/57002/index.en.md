@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 3rd Battalion Monmouthshire Regiment 1914 - 1916
-
 A history by Martyn Gibson of the 3rd Battalion Monmouthshire Regiment which existed between 1914 and 1916. Due to a shortage of drafts, the battalion was broken up and the men dispersed between its sister battalions, Welsh Regiment and Royal Welsh Fusiliers.

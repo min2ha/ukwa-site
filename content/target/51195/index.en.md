@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Royal Yacht Britannia
-
 Site of a visitor attraction at Leith, Edinburgh, the historic Royal boat, Britannia.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# UK Consitutional Law Association: Blog
-
 Items tagged Brexit

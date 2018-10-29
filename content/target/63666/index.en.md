@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dumbarton Riverside Parish Church
-
 The website of Riverside Parish Church.

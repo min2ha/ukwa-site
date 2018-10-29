@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# Brechdan
-
 A blog by a retired UK doctor 'who responded in late 2010 to an appeal for volunteers to work in resource poor areas of the world to help those countries attain the Millenium Developement Goals in health particularly to reduce the number of women dying in childbirth and babies dying as newborn.'

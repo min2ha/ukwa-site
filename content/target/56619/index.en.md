@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Hefin Jones 
-
 Hefin Jones is is a multi-disciplinary designer. His work involves people in processes of creating new possibilities for their skills, culture, and locality and his practice is grounded by a process called participatory speculation.

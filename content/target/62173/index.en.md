@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirkoswald Parish Church
-
 Site of a Church of Scotland parish church at Kirkoswald, Ayrshire, also including the church at Fisherton.

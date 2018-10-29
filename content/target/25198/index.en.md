@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband promises NO extra borrowing to pay for Labour's election manifesto policies 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Independent, The: Grenfell Tower
-
 The subsection of The Independent newspaper related to Grenfell Tower.

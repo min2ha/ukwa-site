@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Book Reviews
-
 Independent football writing - fact, fiction, poetry, prose or reviews.

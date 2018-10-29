@@ -10,6 +10,4 @@
   "start_date": "2016-02-25T09:00:00Z"
 }
 
-# Glasgow Gurdwara
-
 Website of the Sikh Gurdwara acting as a cultural, educational and religious hub for Sikhs and the wider community throughout the city of Glasgow.

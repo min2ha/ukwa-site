@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Posters telling Muslims not to vote seen in Cardiff
-
 None

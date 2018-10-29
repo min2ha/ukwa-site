@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Alnwick & District Local History Society
-
 Formed in 1969, the society was established to encourage interest in, and to advance the study of Northumberland, especially in the Alnwick area.

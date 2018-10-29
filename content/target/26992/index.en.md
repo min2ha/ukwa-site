@@ -10,6 +10,4 @@
   "start_date": "2015-05-28T09:00:00Z"
 }
 
-# Kirby Laing Institute For Christian Ethics, The: Ethics in Brief
-
 Online edition of the periodical 'Ethics in Brief' published by the Kirby Laing Institute For Christian Ethics.

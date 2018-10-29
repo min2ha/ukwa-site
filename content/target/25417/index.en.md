@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: General election social media: a good week for breweries and cupcakes …
-
 None

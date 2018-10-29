@@ -10,6 +10,4 @@
   "start_date": "2014-11-21T06:00:00Z"
 }
 
-# Public Health Wales / Iechyd Cyhoeddus Cymru: Ebola Outbreak in West Africa
-
 None

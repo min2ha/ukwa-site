@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Times Higher Education
-
 Times Higher Education is a  news magazine, not an academic journal. Opinion articles and features for the publication are written in a fairly informal style.

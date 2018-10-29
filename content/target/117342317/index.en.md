@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Claire Harman
-
 Claire Harman is a writer and critic and author of five literary biographies.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Meldrum and Bourtie Church
-
 The website of Meldrum and Bourtie Churches, which were formally linked in 1942.

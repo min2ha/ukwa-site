@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T08:00:00Z"
 }
 
-# South Riverside Community Development Centre
-
 SRCDC was established for the purpose of benefiting the communities in the Riverside, Canton and Grangetown areas and is based in the South Riverside area of Cardiff. The area also contains a very diverse population. 

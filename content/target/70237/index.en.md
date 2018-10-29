@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# nmlfootball.com (@NMLFootballNI) on Twitter
-
 The official Twitter account of NML Football Irish football photography.

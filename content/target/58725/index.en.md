@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Scotland's Festival of History
-
 Site of a festival of Scottish history held in Chatelherault Country Park, Lanarkshire.

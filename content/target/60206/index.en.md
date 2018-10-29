@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Handsworth to Flanders Field
-
 Rookery School has a war memorial in its Red Hall, and a school logbook dating back to World War 1. Working with Year 6, we’ve traced two soldiers named on the memorial, and have been piecing together archive materials and historical artefacts to imagine what life might have been like for their families living locally a hundred years ago during the war.

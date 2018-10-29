@@ -10,7 +10,5 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Rene Cassin
-
 WHO WE ARE
 René Cassin is a charity working to promote and protect universal human rights, drawing on Jewish experience and values.

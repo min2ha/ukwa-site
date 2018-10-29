@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The 4th British Beard & Moustache Championships 2018
-
 Website for the 4th British Beard & Moustache Championships 2018.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Claire Stewart (@stvclaire) on Twitter
-
 Twitter of Claire Stewart, Political Correspondent for STV.

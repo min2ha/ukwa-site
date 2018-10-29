@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# STV News: Scotland Decides
-
 <p>News and analysis from STV relating to the Scottish Independence referendum, and the following debate on further devolution of powers to the Scottish Parliament. The latter includes the 'Devomax Daily' satirical reports.</p>

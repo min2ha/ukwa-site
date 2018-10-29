@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'We're the party for grafters': Cameron hits out at Labour sneerers as he comes out fighting
-
 None

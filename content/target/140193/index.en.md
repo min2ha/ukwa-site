@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Political Betting
-
 Political Betting is a British political blog.

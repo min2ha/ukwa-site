@@ -10,6 +10,4 @@
   "start_date": "2014-04-10T03:00:00Z"
 }
 
-# Justin Welby on Twitter
-
 None

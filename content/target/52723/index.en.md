@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Take Back Control
-
 Take Back Control is a series of events about the future of the country. They will bring together leave and remain voters, make sense of Brexit and discuss the change we want to see in our communities.

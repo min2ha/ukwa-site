@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# GB Theatre Company
-
 GB Theatre Company is a British theatre company performing classic plays around the UK and internationally. 

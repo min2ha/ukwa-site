@@ -10,5 +10,3 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# St. Christopher's Priesthill and Nitshill Parish Church
-

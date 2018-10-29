@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-#  Dumfries Art Trail
-
 WordPress site of a group of artists promoting their studios based in Dumfries, Dumfries & Galloway, by linking them in a single artists trail.

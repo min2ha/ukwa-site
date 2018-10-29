@@ -10,6 +10,4 @@
   "start_date": "2013-07-29T10:00:00Z"
 }
 
-# University of Glasgow
-
 The official website of the University of Glasgow.

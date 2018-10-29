@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Opera’r Ddraig
-
 Opera’r Ddraig was a youth opera company based in Cardiff.

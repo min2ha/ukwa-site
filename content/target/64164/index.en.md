@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Pregnancy Network (@Preg_Research) on Twitter
-
 Perceptions of Pregnancy is a multidisciplinary network for researchers working on fertility, pregnancy & childbirth from the earliest times to the present day

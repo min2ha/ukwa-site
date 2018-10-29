@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: STEPHEN GLOVER: I don't use the word treachery lightly but how else to describe the ecstatic reaction of the CBI, the BBC and mandarins to Corbyn's cynical speech
-
 Comments on reaction to Jeremy Corbyn's Coventry speech in which he advocated remaining in a customs union after Brexit by the BBC, CBI, etc

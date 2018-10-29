@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Alister Rutherford | Politics and Current Affairs from Scotland
-

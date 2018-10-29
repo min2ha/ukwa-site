@@ -10,6 +10,4 @@
   "start_date": "2006-09-15T00:00:00Z"
 }
 
-# British Pain Society
-
 The British Pain Society is the largest multidisciplinary professional organisation in the field of pain within the UK. Our membership comprises medical pain specialists, nurses, physiotherapists, scientists, psychologists, occupational therapists and other healthcare professionals actively engaged in the diagnosis and treatment of pain and in pain research for the benefit of patients.

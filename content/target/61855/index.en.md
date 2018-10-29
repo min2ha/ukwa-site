@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the EU: EU citizens arriving in the UK during the implementation period 
-
 This paper sets out the terms under which EU citizens and their family members arriving in the UK during the implementation period will be able to continue living here beyond the end of that period.
 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Robot Builder Forum
-
 An online enthusiast community concerned with robot building. Discusses fighting robots, lightweight & autonomous robots, programming, electronics and various other topics.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sports Sphere
-
 A sports agent that represents athletes. 

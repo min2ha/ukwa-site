@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Trent to Trenches
-
 The project will focus on researching the combined villages of Misterton and West Stockwith during the First World War.

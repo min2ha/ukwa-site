@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Former Ukip councillor expelled over racism row claims 'hidden agenda'
-
 None

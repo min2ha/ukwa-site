@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jack Laugher (JackLaugher) on Twitter
-
 <p>The twitter profile of diver Jack Laugher, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

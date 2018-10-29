@@ -10,6 +10,4 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# Sound Archive (@soundarchive) on Twitter
-
 Sound Archive @BritishLibrary: 6.5 million recordings of music, voices, environments.

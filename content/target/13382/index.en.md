@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Aileen Campbell (ClydesdAileen) on Twitter
-
 Twitter profile of Aileen Campbell, Scottish National Party member of the Scottish Parliament for Clydesdale.

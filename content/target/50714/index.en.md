@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# World Textile Information Network
-
 World Textile Information Network (WTiN) is an information provider, delivering unmatched intelligence and insight into the global textile manufacturing industry. Whether through wtin.com, the WTiN app, portfolio of business-to-business magazines, exhibition newspapers and conferences, WTiN’s content is recognised for its authority and market-leading coverage. This clear industry focus means WTiN has become an integral part of the textile community, providing the highest-quality business and technical intelligence.

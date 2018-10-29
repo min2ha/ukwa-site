@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# WLGA European Office (@WelshLGA_Europe) on Twitter
-
 Welsh Local Government Association twitter account exploring how EU decisions affect how Welsh councils deliver services and Brexit implications.

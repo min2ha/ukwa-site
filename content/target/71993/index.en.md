@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Motability Operations Ltd.
-
 Company leasing and selling wheelchair accessible vehicles & mobility scooters. Based in Southwark, London and Bristol.

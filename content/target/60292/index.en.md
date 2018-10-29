@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Municipal Dreams: Grenfell Tower
-
 The wesbite "Municipal Dreams" celebrates the efforts and achievements of our early municipal reformers; this is a page for the Grenfell Tower Accident

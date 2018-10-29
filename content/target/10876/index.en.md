@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Sport; Tour de France 2014
-
 <p>Report on TdF from sport section of the Guardian newspaper</p>

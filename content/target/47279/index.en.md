@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Operation Black Vote: Gina Miller: A powerful Black woman taking on the Gov
-
 Brief comment on the role of Gina Miller in challenging in the High Court the government's claim that it could trigger the process of leaving the EU without a vote in Parliament.

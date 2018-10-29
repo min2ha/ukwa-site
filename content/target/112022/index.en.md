@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Stonewall
-
 Stonewall is a lesbian, gay and bisexual rights charity in the UK.

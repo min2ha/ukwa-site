@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# https://dennistounbaptist.co.uk/
-
 Site of a Scottish Christian church and its congregation of the Baptist denomination located in Dennistoun, Glasgow.

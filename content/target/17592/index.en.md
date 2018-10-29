@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Row over bishops' left-wing manifesto spills out into the open as ministers mock Church of England's 'dwindling relevance' 
-
 None

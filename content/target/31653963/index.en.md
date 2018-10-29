@@ -10,5 +10,3 @@
   "start_date": "2009-09-22T00:00:00Z"
 }
 
-# Memories of Bexley Hospital
-

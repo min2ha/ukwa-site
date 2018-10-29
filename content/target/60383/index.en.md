@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Peter Cronin
-
 Peter Cronin is a South Wales based full time artist working in oil and watercolour and member of The Royal Society Of Marine Artists, the Royal Watercolour Society of Wales and the Pure Watercolour Society.

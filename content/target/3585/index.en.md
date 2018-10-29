@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Liverpool Echo
-
 A local newspaper for the city of Liverpool that covers a wide area of subjects including a dedicated section to both English Premiership football clubs Liverpool FC and Everton FC. 

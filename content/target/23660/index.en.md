@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Anthony Evans
-
 Welsh artist from Cross Hands.

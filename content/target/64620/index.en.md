@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Llunwyr, Y | Picturemakers, The
-
 The Picturemakers (Y Llunwyr) was established in 2006 and is a self-funded collective of visual artists, based in mid-Wales. 

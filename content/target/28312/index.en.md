@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Arab International Women’s Forum 
-
 The Arab International Women’s Forum is a non-profit organisation set up in London to link Arab business and professional women in the 22 Arab countries with each other and with their counterparts in the international community. 

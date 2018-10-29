@@ -10,7 +10,5 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# Academy of Marketing
-
 The Academy of Marketing focuses on pursuing activities and policy which further the professional development of marketing education; encouraging and promoting academic research in marketing; supporting marketing academics and associated staff as they develop their careers; providing for regular liaison between marketing academics and associated organisations and fostering a positive relationship between the requirements of practice and the academic discipline.
     

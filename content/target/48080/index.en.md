@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Safer Neath Port Talbot
-
 Safer Neath Port Talbot Partnership operates a multi-agency partnership approach to community safety and crime and disorder issues.

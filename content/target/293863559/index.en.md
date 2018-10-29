@@ -10,6 +10,4 @@
   "start_date": "2015-04-17T09:00:00Z"
 }
 
-# Felin Uchaf
-
 Felin Uchaf is s social enterprise located near Pwllheli.

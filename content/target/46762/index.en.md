@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# High Court: R (Miller) -V- Secretary of State for Exiting the European Union
-
 The High Court decided that the Government does not have the power under the Crown's Prerogative to give notice pursuant to Article 50 for the UK to withdraw from the European Union.

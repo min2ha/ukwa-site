@@ -10,6 +10,4 @@
   "start_date": "2013-05-02T19:00:00Z"
 }
 
-# Depaul UK 
-
 <p>Website of Depaul UK, which is part of Depaul International, a group of charities working to support homeless and marginalised people around the world.</p>

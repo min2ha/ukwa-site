@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: SNP 'could take safest Labour seat and oust Charles Kennedy'
-
 None

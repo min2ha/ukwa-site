@@ -10,5 +10,3 @@
   "start_date": "2013-02-07T00:00:00Z"
 }
 
-# Anheddau Cyf
-

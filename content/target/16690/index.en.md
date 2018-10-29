@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Kinnock for Aberavon
-
 <p>Labour canditiate for Aberavon.</p>

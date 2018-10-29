@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cass Business School: Measurement without theory: On the extraordinary abuse of economic models in the EU Referendum debate
-
 The Treasury’s reports1 predict that each household in the UK will be worse off (in terms of a lower gross domestic product) by £4,300 or more by 2030. This report finds that this prediction is grossly exaggerated for two main reasons.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Outgoing Labour MP dismisses claims party could field 'paedophile' and still win Grimsby seat
-
 None

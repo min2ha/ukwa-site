@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Express: Brexit: Our journey out of the EU is almost over, says BORIS JOHNSON
-
 Makes the case for leaving the EU.

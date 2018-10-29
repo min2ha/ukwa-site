@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Chelmsford Today
-
 None

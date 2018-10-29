@@ -10,8 +10,6 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# Do-it Trust
-
 The UK’s national volunteering database, Do-it.org makes it easy for anyone to volunteer in their community.
 
 Do-it.org lists over 1m volunteering opportunities that are posted by volunteer centres, national/local charities and voluntary groups. Enabling 200,000 people every month to donate their time and build their skills, Do-it ensures that almost 50,000 organisations find the help they need to provide vital services to the community.

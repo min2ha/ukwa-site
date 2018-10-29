@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Mark Chirnside's Reception Room - Olympic, Titanic & Britannic, Majestic, Aquitania and other liners of the past
-
 None

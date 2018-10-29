@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ford: Play Your Part
-
 None

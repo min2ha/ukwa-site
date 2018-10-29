@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: Help needed as part of celebrations to mark the 800th anniversary of the signing of the Magna Carta
-

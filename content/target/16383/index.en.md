@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Institute of Development Studies (IDS): Ebola
-
 <p>Pages dedicated to the Ebola virus on the website of the Institute of Development Studies (IDS). Includes a blog.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Grant Shapps dumped as Tory chairman for junior foreign aid job in demotion branded a 'f****** disgrace' by allies
-
 None

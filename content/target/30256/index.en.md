@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Norfolk Family History Society
-
 The Society's collection of genealogical resources encompass parish register transcripts, monumental inscriptions, census returns, wills, family trees, pedigrees, photographs and a wide range of published work to help  tracing a family's Norfolk origins.

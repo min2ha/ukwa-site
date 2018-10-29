@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Quaker Concern for the Abolition of Torture
-

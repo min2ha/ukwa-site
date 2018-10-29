@@ -10,6 +10,4 @@
   "start_date": "2014-04-26T03:15:00Z"
 }
 
-# Ivor Catt's Home Page (work on Electromagnetic Theory)
-
 None

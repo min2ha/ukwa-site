@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Burrows UKIP
-
 This is the blog of Michael Burrows, the UK Independence Party (UKIP) candidate for Inverclyde in the UK General Election on the 7th May 2015.

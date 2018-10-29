@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# World Wide Web Consortium (W3C)
-
 World Wide Web Consortium (W3C) is responsible for the web standards.

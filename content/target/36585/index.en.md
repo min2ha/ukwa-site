@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Jeremy Corbyn should be campaigning for Brexit – but he just doesn't care
-

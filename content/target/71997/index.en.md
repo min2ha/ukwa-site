@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Mid Wales Bowling Association
-
 Mid Wales Bowling Association was formed in 1912 and has its headquarters at Llandrindod Wells. 

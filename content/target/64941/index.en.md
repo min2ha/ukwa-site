@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Castle Quarter Arcades | Cwr y Castell
-
 The Castle Quarter consists of 3 Victorian and Edwardian arcades, all located within the centre of Cardiff – Castle Arcade, High Street Arcade and Duke Street Arcade. They were opened in 1885.

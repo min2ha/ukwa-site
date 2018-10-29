@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John’s, New Malden
-
 St. John's Church New Malden (St. John the Divine, to use our full name) is an Anglican church situated in the residential suburbs of London between New Malden and Kingston upon Thames. 

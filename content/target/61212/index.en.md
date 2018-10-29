@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Discover Flintshire
-
 This is a tourist information guide to Flintshire provided by Flintshire Tourist Association.

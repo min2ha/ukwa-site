@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hilton Church
-
 Parish website of the Hilton Church of Scotland. 

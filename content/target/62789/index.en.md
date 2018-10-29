@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scrum Queens
-
 A women's rugby website

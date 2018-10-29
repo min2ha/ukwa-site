@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Leaf Card
-
 Leafcard is only available for use from Monday-Thursday, it is subject to each restaurant's food/table availability and to a minimum table spend of £5. Only one Leafcard can be used per table/bill. By joining Leafcard a free card will be generated which is available for use in each of our restaurants with no additional payment required.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Heseltine vows to rebel in Lords bill debate
-
 Senior Tory Lord Heseltine said he would  rebel against the government when peers debate the bill giving Theresa May the authority to trigger Brexit. 

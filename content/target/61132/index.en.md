@@ -10,6 +10,4 @@
   "start_date": "2018-02-09T09:00:00Z"
 }
 
-# Cardiff Transition | Trawsnewid Caerdydd
-
 Transition Towns are voluntary and grassroot community group formed as part of the international transition movement to prepare a make a transition to a healthier and low carbon future. This is the website for Cardiff Transition.

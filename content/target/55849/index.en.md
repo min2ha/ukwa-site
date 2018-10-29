@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Under the breadfruit tree: thoughts and feelings sights and sounds, culture and creativity
-
 Personal website of Lucille Junkere: artist, textile practitioner, researcher,  indigo dyer and lover of culture.  "Issues that interest me relate to the environmental impact of the fashion and textile industry, minimising waste, recycling, community education, traditional cultures and artisan techniques. My specialised skills are natural dyes and millinery, screen printing, hand and machine embroidery and more recently machine knitting.  I love music, visual arts and travelling, especially to places where the sun is hot, the people lively, the music loud, the food tasty, the markets bustling and the rum strong!"

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Construction News: EU referendum: Nearly half of SMEs say UK could 'legislate more freely' after Brexit
-
 This artcile is based on a survey by the Federation of Master Builders which found roughly 40% of SMEs believed that leaving the EU would leave the UK with greater legislative flexibility. 20 percent believed Brexit would have no positive consequences.

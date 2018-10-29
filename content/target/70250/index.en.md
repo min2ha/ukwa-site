@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women On Boards (@WOBUK) on Twitter
-
 Twitter account of Women On Boards UK, established to improve the number of women on boards ad in leadership roles across the UK

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Ruskell (@markruskell) on Twitter
-
 The Twitter profile of Mark Ruskell, Scottish Green Party candidate for Mid Scotland and Fife in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Church of England: The Big Jubilee Thank You
-
 additional seed: http://www.churchofengland.org/media/1383488/letter_of_thanks.pdf

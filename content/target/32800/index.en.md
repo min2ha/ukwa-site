@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Richard Owain Roberts
-
 Richard Owain Roberts is a Welsh author from Ynys Mon.

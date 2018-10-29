@@ -10,6 +10,4 @@
   "start_date": "2016-12-20T09:00:00Z"
 }
 
-# British Tárogató Association, The
-
 The British Tárogató Association was formed in 2005 by Dr. Marc B. Naylor following his return from the International Tárogató Congress, at Vaja, Hungary. The intention of the Association is to raise awareness of the Tárogató throughout Great Britain, and to make composers and performers aware of the instrument's amazing capabilities and round, warm tone.

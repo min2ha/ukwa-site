@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clive Lewis (Labour Politician)
-
 Clive Lewis stood as Labour candidate for Norwich South at the 2015 General Election and was elected to serve as MP. He then stood for re-election in 2017 and was successful.

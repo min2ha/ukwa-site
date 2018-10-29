@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lytchett Minster RFC on Pitchero
-
 The official website of Lytchett Minster Rugby Football Club.

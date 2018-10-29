@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# TechRadar
-
 TechRadar is a website with news and advice about technology, IT and telecommunication.

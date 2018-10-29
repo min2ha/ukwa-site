@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# CAFOD South Wales Blog: Updates from CAFOD in the Cardiff and Menevia Dioceses
-

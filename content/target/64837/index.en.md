@@ -10,6 +10,4 @@
   "start_date": "2018-04-26T09:00:00Z"
 }
 
-# Your Communities: Poet celebrates talent at Cadbury Sixth Form
-
 Cadbury College recently welcomed Birmingham Poet Laureate Joanna Skelt to its Kings Norton campus to celebrate its talented young poets.

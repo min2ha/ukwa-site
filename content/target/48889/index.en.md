@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wishaw Juniors Football Club Facebook Page
-
 Facebook page for a Scottish junior football club based in Wishaw, Lanarkshire, Scotland.

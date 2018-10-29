@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May: Brexit deal possible with intensive work
-
 In advance of the EU Council meeting in Brussels on October 17th 2018, Theresa May said that "Intensive" work was needed to overcome differences on the Irish border and reach a Brexit deal.

@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# Cayman News Service: Hurricanes 2017
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Cheshire NHS Trust
-
 None

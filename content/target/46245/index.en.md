@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T12:00:00Z"
 }
 
-# The Brilliant Club
-
 The Brilliant Club is an a charity that exists to widen access to highly-selective universities for pupils from under-represented groups.

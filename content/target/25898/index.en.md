@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A-Z: Britain's Tory-Lib Dem coalition government
-
 None

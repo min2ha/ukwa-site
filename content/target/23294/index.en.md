@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Open Garden Squares
-
 Open Garden Squares Weekend is organised by the London Parks & Gardens Trust (LPGT), who work to protect and promote London's green open spaces.

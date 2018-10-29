@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: George Osborne on Tory NHS £8bn pledge
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS West Midlands Specialised Commissioning Group (WMSCG)
-
 None

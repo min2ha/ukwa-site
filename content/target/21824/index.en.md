@@ -10,5 +10,3 @@
   "start_date": "2015-04-14T09:00:00Z"
 }
 
-# Welsh St Donats community website
-

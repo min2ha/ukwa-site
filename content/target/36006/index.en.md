@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Hannah Bettsworth (@H_Bettsworth) on Twitter
-
 The Twitter profile of Hannah Bettsworth, the Scottish Liberal Democrats candidate for the Lothian list in the 2016 Scottish Parliament election.

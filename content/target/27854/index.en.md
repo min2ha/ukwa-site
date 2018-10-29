@@ -10,6 +10,4 @@
   "start_date": "2015-06-11T09:00:00Z"
 }
 
-# Teaching English
-
 Teaching English offers free classroom materials to download, from short activities to full lesson plans, for teaching kids and adults. There are also articles on aspects of teaching, and free teacher development and teacher training materials.

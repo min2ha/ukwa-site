@@ -10,5 +10,3 @@
   "start_date": "2018-07-07T09:00:00Z"
 }
 
-# Bruce Crawford – MSP for the Stirling Constituency
-

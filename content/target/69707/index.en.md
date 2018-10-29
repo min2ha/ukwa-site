@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: UK adoption of EU external agreements after Brexit
-
 The UK Government has said it is seeking to rollover the EU’s free and preferential trade agreements covering more than 70 non-EU countries. The EU currently has more than 1,000 international agreements with non-EU countries covering myriad regulatory and policy issues. It is not clear how many require action to ensure continuity in the UK’s relations with these countries post-Brexit.
 

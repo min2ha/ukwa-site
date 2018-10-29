@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Bridgwater & Albion Rugby Football Club
-

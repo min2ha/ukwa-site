@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Institute of Education, University College London: IOE  London blog
-

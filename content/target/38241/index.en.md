@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Britain's Choice (@Choice4Britain) on Twitter
-
 Providing information about the EU and the UK's upcoming in/out referendum. Independent, impartial and non-partisan.

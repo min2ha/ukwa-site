@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Sputnik Theatre Company
-
 Sputnik is a British theatre company dedicated to sourcing, translating and producing new Russian drama for British audiences.

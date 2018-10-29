@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Abergavenny Food Festival
-
 <p>The Abergavenny Food Festival is a social enterprise which is held during the month of September.</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Glenrothes Amateur Musical Association
-
 Site of an amateur musical theatre association based in Glenrothes, Fife.

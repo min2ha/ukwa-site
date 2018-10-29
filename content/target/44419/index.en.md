@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: UK economy must endure 'short, sharp shock' after Brexit vote
-

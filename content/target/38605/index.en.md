@@ -10,6 +10,4 @@
   "start_date": "2016-04-12T10:00:00Z"
 }
 
-# Tayside - A Maritime History
-
 Local history website focussing on the maritime heritage of Dundee and the Tay estuary, Scotland.

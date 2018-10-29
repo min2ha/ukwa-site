@@ -10,6 +10,4 @@
   "start_date": "2007-03-12T00:00:00Z"
 }
 
-# Cymuned Cysylltiedig Blaenau Ffestiniog Connected Community
-
 None

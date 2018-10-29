@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Open House London
-
 Open House London is the world’s largest architecture festival, giving free public access to 800+ buildings, walks, talks and tours over one weekend in September each year.

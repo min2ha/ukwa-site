@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festivals in Fife
-
 Site established by Fife Council and Creative Scotland to advance Fife's position locally, nationally and internationally as a world class festival destination and be recognised as a collective of quality festivals offering excellent experiences for locals and visitors alike.

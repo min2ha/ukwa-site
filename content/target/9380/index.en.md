@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Guardian, The: Kevin McKenna 
-
 None

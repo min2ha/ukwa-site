@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lido Ponty: National Lido of Wales
-
 Lido Ponty is a Grade II listed lido and has been restored and updated for the 21st Century visitor. It is the only Lido in Wales.

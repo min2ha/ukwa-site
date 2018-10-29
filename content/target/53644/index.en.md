@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:54:32.268961", 
+  "date": "2018-10-29T13:21:33.609331", 
   "open_access": false, 
   "target_url": "http://www.ospreysrugby.com/", 
   "description": "", 
   "end_date": null, 
   "title": "Ospreys Rugby", 
-  "record_id": "20181029T125432/yFl/RwJ9xSqPiqNjNPizBQ==", 
+  "record_id": "20181029T132133/yFl/RwJ9xSqPiqNjNPizBQ==", 
   "publisher": "ospreysrugby.com", 
   "start_date": null, 
   "subject": "Sport: Football"
 }
-
-# Ospreys Rugby
 

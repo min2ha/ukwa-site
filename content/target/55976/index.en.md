@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Astronomy Shed 
-
 A UK based astronomy forum. 

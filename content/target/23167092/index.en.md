@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# House of Fraser
-
 Website of a popular department store.

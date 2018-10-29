@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# R&A, The
-
 Formed in 2004 and based in St Andrews, The R&A seeks to engage in and support activities that are undertaken for the benefit of the game of golf and, despite deriving its name from the members’ club, is separate and distinct from The Royal and Ancient Golf Club of St Andrews.

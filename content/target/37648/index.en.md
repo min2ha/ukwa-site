@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Obama shouldn't be barracked into silence about the EU
-

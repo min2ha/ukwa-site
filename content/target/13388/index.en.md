@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Nigel Don (NigelDonMSP) on Twitter
-
 <p>The twitter profile of Nigel Don, Scottish National Member of the Scottish Parliament for Angus North and Mearns.</p>

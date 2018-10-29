@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# SERA Labour's Environment Campaign
-

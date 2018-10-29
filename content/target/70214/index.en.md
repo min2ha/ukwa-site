@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Workers Party Northern Ireland: Significant and emphatic YES!
-
 The worker Party of Northern Ireland's response to the result of the 8th Amendment Referendum in the Republic of Ireland. 

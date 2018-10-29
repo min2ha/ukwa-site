@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Porth Esboniadur
-
 Esboniadur is open source directory/ wiki for students at Coleg Cymraeg Cenedlaethol. The pages are created by lecturers and ex-students to assist students in their studies at Coleg Cymraeg Cenedlaethol.

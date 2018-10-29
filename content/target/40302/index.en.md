@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Fochabers Heritage
-
 Site of a heritage centre and museum based in Fochabers, Moray, Scotland, who run Fochabers Folk Museum and Heritage Centre.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: So what demented (and doomed) ploy to stop Brexit will they come up with next!
-
 Comments on the latest allegations by anti-Brexit campaigners that the Vote Leave broke Electoral Commission rules by funnelling £625,000 to a linked group called BeLeave, and that Cambridge Analytica, using a technique called psychographics, played a decisive role in convincing the public to vote for Brexit.

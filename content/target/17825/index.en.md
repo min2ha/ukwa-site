@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Ed Miliband: Hedge funds more important than hedge cutters
-
 None

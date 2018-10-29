@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Nuncio to UN urges world leaders to commit to Ebola fight
-
 Article on the Vatican’s United Nations (UN) nuncio's comments on Ebola.

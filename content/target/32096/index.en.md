@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Software Sustainability Institute
-
 The Software Sustainability Institute is a national facility for cultivating and improving research software to support world-class research.

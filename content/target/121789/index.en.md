@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Women's Resource Centre (WRC)
-
 None

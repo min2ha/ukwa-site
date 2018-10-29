@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# DJ Johnston-Smith for East Lothian | 2016 Candidate for the SNP
-

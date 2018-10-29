@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Stow Parish Archive
-
 Site of a community archive for the parish of Stow, Scottish Borders.

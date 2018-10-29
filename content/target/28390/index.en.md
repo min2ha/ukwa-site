@@ -11,8 +11,6 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# IMAAN LGBT Muslim Support
-
 Imaan supports LGBT Muslim people, their families and friends, to address issues of sexual orientation within Islam. It provides a safe space and support network to address issues of common concern through sharing individual experiences and institutional resources.
 
 Imaan promotes the Islamic values of peace, social justice and tolerance through its work, and aspires to bring about a world that is free from prejudice and discrimination against all Muslims and LGBT people.

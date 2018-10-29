@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May: Tories must be a party for everyone
-
 In her speech at the 2018 Party conference, Theresa May told the Conservatives they must be the "party for everyone" and said austerity was ending. She also defended her under-fire Brexit strategy, saying she was "standing up for Britain".
 
 

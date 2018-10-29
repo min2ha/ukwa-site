@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hillingdon Liberal Democrats
-
 Website of Hillingdon Liberal Democrats providing information on how to get involved and local, national and party news.

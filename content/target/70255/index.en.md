@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Northern Ireland (@NorthernIreland) on Twitter
-
 The official Twitter account of of the NORTHERN IRELAND national teams.

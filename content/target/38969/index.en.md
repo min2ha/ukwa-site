@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Ardchattan Parish Archive
-
 Local and family history site for the parish of Ardchattan in Argyllshire, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-21T00:00:00Z"
 }
 
-# Adele Parks
-
 <p>Official website of the author Adele Parks.</p>

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Giles Goodall: Liberal Democrat Party
-
 None

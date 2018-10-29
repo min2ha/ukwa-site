@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guy Learmonth (GuyLearmonth) on Twitter
-
 <p>The twitter profile of althete Guy Learmonth, 800m runner and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

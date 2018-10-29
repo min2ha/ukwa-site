@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: European Studies Blog
-
 This blog is written by European Studies curators and cataloguers, with occasional pieces by guest contributors presenting the collections from continental Europe, news and views on European culture and affairs. 

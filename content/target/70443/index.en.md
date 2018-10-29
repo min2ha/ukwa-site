@@ -10,6 +10,4 @@
   "start_date": "2018-08-26T09:00:00Z"
 }
 
-# Barbour Product Search (UBM (UK) Ltd.)
-
 Building product search resource operated by UBM (UK) Ltd. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sol Campbell may run as Tory candidate in seat to be vacated by Malcolm Rifkind
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Central London (Westminster) CCG
-
 None

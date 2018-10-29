@@ -10,6 +10,4 @@
   "start_date": "2017-07-04T09:00:00Z"
 }
 
-# Hull Choral Union 
-
 An amateur choir that has been providing high quality music in the City of Hull for over 80 years.

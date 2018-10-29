@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Institute of Advanced Study
-
 The Institute of Advanced Study (IAS) is an interdisciplinary research centre of Durham University. The IAS - set up to mark Durham's 175th anniversary[1] - is intended to attract scholars and public figures from across the world to collaborate on 'agenda-setting research

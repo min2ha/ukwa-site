@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Redbridge LINk
-
 None

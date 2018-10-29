@@ -10,6 +10,4 @@
   "start_date": "2017-02-18T09:00:00Z"
 }
 
-# National Library of Wales: Walter Davies ('Gwallter Mechain') a'r Bwrdd Amaeth | Walter Davies ('Gwallter Mechain') and The Board of Agriculture
-
 This is a National Library of Wales Digital Exhibition. The Board of Agriculture's printed surveys of 1810 and 1815 cast significant light on the rural economy and society of Wales at the turn of the 19th century. 

@@ -10,6 +10,4 @@
   "start_date": "2018-09-22T09:00:00Z"
 }
 
-# Nottingham Moderns Rugby Club on Pitchero
-
 The official website of Nottingham Moderns Rugby Club.

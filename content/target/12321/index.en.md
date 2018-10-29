@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Seniors for Yes (SeniorsForYes) on Twitter
-
 <p>The twitter profile of Seniors for Yes, a campaigning group for the Scottish Independence Referendum 2014.</p>

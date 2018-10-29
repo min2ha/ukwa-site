@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Scottish Deer Centre
-
 Site of a visitor attraction featuring deer and other animals, many once native to Scotland.

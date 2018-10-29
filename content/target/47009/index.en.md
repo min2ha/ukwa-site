@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Pottermore (@pottermore) on Twitter
-
 Pottermore is the digital publishing, e-commerce, entertainment and news company from J.K. Rowling.

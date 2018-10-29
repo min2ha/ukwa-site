@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ainon Baptist Church, Bryncoch
-

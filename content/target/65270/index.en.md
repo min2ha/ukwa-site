@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cranhill Parish Church
-
 Site of a Church of Scotland parish church in Glasgow.

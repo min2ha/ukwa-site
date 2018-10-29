@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Alan Milburn criticises Labour's NHS 'comfort zone' campaign that could lose General Election
-
 None

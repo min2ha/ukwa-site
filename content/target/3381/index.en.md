@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Sourozh, Patriachate of Moscow 
-
 <p>Christian Orthodox<br />
 The Russian Orthodox diocese in the UK and Ireland</p>

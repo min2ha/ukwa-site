@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Designing Libraries
-
 Designing Libraries is a freely accessible resource for everyone interested in design and innovation in libraries. Designing Libraries was established in 2004 with funding from the Museums, Libraries and Archives Council (MLA) as part of its Framework for the Future programme. 

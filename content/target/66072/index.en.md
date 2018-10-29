@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Question One Ltd.
-
 Runs pub quizzes and corporate quiz services in the London area as well as overseas.

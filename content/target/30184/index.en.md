@@ -10,6 +10,4 @@
   "start_date": "2015-09-08T10:00:00Z"
 }
 
-# Canasg Choral Music Publishing
-
 Canasg Music is a printer of Scottish traditional music in Gaelic and Scots. 

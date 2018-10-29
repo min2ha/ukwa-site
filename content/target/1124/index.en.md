@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Central Quality Assurance Reference Centre (QARC)
-
 None

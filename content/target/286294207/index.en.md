@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ingleby Gallery
-
 <p>Website of the Ingleby Gallery. GENERATION is a landmark series of exhibitions tracing the remarkable development of contemporary art in Scotland over the last 25 years. The Ingleby Gallery represent a number of artists who are exhibiting work as part of GENERATION.</p>

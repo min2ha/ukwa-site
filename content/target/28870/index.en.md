@@ -10,6 +10,4 @@
   "start_date": "2015-07-11T10:00:00Z"
 }
 
-# Catcher Media 
-
 The site includes participatory video projects with young people (and others) and presents a broad spectrum of socially engaged and issue-driven work which uses participatory video techniques with communities to create high-quality films.

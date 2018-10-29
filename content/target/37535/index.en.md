@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Politics Home: Blow for Leave campaign as Theresa May hints she won't back Brexit
-
 Theresa May has dropped a huge hint that she will campaign for Britain to remain in the EU by declaring a draft agreement  "is a basis for a deal".

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Folding Mirror Poetry
-
 None

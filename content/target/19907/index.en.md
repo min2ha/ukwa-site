@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Blair Smillie on Facebook
-
 Blair Smillie is the great-grandson of Robert Smillie, the founder of the Labour Party. He is also the UK Independence Party PPC for Alyn & Deeside.

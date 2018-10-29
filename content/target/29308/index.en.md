@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# Anheddau Cyf
-
 Anheddau is a charitable organisation which empowers disabled adults with support needs to live fulfilled lives in Wales.

@@ -10,6 +10,4 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Glyncoch Community Regeneration Ltd 
-
 Community Regeneration body for the locality of Bryncoch, near Pontypridd.

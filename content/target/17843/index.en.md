@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Top Tories in plan to 'Save Dave' if he loses election in case Labour is forced to call a second General Election
-
 None

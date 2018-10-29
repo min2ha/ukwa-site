@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Your Northwood Hills: Vote OUT of the EU on the 23rd of June and stop Britain from being absorbed into the undemocratic and borderless United States of Europe
-
 A community blog post supporting and arguing for 'Brexit'.

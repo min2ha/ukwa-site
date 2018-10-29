@@ -10,5 +10,3 @@
   "start_date": "2013-02-26T00:00:00Z"
 }
 
-# Grangetown Community Concern
-

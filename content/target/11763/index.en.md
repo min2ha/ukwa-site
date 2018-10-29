@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alan Clyne (Clynesquash) on Twitter
-
 <p>The twitter profile of althete Alan Clyne, squash player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Chesham Stags R.U.F.C
-

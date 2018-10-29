@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Andrew Lewer (@ALewerMEP) on Twitter (Conservative MEP for East Midlands)
-
 Andrew Lewer was elected to the European Parliament as Conservative MEP for East Midlands in 2014. He was first elected to local government office in 2003, at Derbyshire Dales District Council before being elected to Derbyshire County Council in 2005, where he became Leader of the County Council in 2009. He was elected as MP for Northampton South in 2017

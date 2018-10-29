@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Esports Association: Benefits of Esports & Video Games
-
 An info-graphic by the British Esports Association providing information and statistics on the benefits of Esports, which includes benefits linked to mental health. 

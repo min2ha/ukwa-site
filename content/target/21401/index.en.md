@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Farage forced to backtrack over call to axe race laws
-
 None

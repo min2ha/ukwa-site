@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Leanne Wood: Plaid Cymru leader whose politics were forged in the Valleys mining communities
-
 None

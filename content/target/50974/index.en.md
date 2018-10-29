@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# World Court Project 
-
  World Court Project, a world-wide campaign that resulted in an historic opinion from the International Court of Justice (ICJ) in July 1996. The ICJ ruled that the threat or use of nuclear weapons is generally illegal, and that states have an obligation to conclude negotiations on their elimination. 

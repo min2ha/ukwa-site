@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tories will reduce UK public spending to Estonian levels
-
 None

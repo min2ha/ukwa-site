@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mick Antoniw (Labour Assembly Member for Pontypridd)
-

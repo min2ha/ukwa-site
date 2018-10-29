@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Grenfell Legal (@grenfell_legal) on Twitter
-
 Grenfell Legal Support are a voluntary liaison service between those affected by the Grenfell fire and legal representatives, ensuring proper access to justice. This account was set up in June 2017.

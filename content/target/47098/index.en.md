@@ -10,5 +10,3 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Cyngor Iechyd Cymuned Abertawe Bro Morgannwg | Abertawe Bro Morgannwg Community Health Council
-

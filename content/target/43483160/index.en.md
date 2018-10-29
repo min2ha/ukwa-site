@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Liberal Democrats in Hull and Hessle
-
 None

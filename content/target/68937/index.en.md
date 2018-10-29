@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May is teetering. But her fall will not end the crisis
-

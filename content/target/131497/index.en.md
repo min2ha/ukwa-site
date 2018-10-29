@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Bedford Centre for the History of Women
-
 None

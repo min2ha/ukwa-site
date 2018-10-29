@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Consultation with disabled people on the effect on their services of the UK leaving the EU
-
 This House of Commons Library Debate Pack briefing provides information in anticipation of a debate entitled "Consultation with disabled people on the effect on their services of the UK leaving the EU". This debate was sponsored by Dr Lisa Cameron MP and took place on Tuesday 11th July at 4.30pm in Westminster Hall.

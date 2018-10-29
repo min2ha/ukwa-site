@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Skye Book Festival 
-
 Website of Skye Book Festival, a literary festival that takes place on Scotland's Isle of Skye.

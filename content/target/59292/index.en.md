@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Islay Birds Blog
-
 A blog concerned with bird sighting in Islay or Jura in Scotland. Features posts from various users regarding sightings. Active from 2007 to the present.

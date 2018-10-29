@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# Cantorion Rhos
-
 Cantorion Rhos is a mixed choir from the Wrexham area who have enjoyed success at  the National Eisteddfod of Wales and the Northern Ireland International Music Festival.

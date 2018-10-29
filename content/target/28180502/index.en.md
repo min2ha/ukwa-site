@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Pacitti Company
-
 Pacitti Company aim to create and curate meaningful interdisciplinary art, shared with audiences in new and accessible ways.

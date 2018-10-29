@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Boris Johnson defends 'negative' Tory tactics - What's wrong with calling Ed Milliband a backstabber?
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Ethigen Limited
-
 Ethigen Limited is a Scotland-based distributor of pharmaceutical products. 

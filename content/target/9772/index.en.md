@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Young Scot: The national youth information and citizenship agency for Scotland 
-
 <p>Young Scot works in partnership with private, state and charity sectors to support and promote active citizenship. It produces and promotes the Young Scot National Entitlement Card (NEC), which is used for discounts in shops and travel, as proof of age, and for access to public services, such as school meals. This website is designed for younf Scottish people still at school.</p>

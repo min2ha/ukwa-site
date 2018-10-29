@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Hidden Histories, Eastside Community Heritage
-
 They are a heritage and arts organisation dedicated to recording, documenting and preserving stories from their community.

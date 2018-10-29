@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# AQA Psychology A Level Revision
-
 <p>AQA Psychology A Level Revision website is an education based blog turned revision website that helps students, adult learners and home-school students prepare for A level in psychology.</p>

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Through the Flaming Sword
-

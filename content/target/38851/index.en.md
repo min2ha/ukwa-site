@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alex Neil (@AlexNeilSNP) on Twitter
-
 Twitter profile of Alex Neil, Scottish National Party MSP for Airdrie and Shotts.

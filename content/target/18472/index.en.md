@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband 'doesn't understand' business, says Apprentice star Karren Brady
-
 None

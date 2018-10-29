@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC: Andrew Marr Show: Interview with Liam Fox, December 18th 2016: Transcript
-
 Liam Fox discusses the possibility of the UK remaining within the Customs Union after leaving the EU.

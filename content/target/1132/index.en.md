@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Anglia Cancer Network 
-
 None

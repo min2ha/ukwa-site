@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# British Association for Counselling and Psychotherapy: General Election 2017
-
 Calls on BACP members To speak up for counselling and psychotherapy during the 2017 general election campaign and get the professions the political support and protection they need.

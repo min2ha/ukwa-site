@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Royal Scottish National Orchestra / RSNO
-
 Site of the national orchestra of Scotland, based in Glasgow.

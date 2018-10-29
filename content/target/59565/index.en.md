@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Shaw Trust, Scotland
-
 Site of a registered charity helping Scotland’s citizens to create brighter futures through the delivery of a range of employment, learning and skills services.

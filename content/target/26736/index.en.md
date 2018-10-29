@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The : 12 charts that show just how different the Tory Cabinet is to the people it claims to represent 
-
 None

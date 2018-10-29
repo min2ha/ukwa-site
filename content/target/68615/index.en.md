@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London Poverty (@PovertyLondon) on Twitter 
-
 Official twitter feed of London's Poverty Profile providing a source of data on poverty and inequality in London, the capital city of England.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chatham House: Europe
-
 Chatham House, the Royal Institute of International Affairs, is an independent policy institute based in London.  

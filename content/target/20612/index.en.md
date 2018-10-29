@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why should Ed Miliband bow to media pressure over SNP deal? 
-

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Church of Ireland
-
 This is the website of the Church of Ireland. It outlines the United Dioceses of Cork, Cloyne and Ross’ 1916 Centenary Commemorations. It also contains some reflections on the Easter Rising commemorations by Bishop of Cork, Dr Paul Colton.

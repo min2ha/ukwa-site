@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# OneEurope
-
 OneEurope is an independent, non-profit initiative publishing daily new articles, infographics and videos, created by volunteers. Its mission ‘is to inform, build bridges and raise the debate on a more united Europe and a more democratic EU’.

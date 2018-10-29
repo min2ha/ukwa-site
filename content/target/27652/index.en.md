@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Yvette Cooper: Labour didn't spend too much before the crash
-
 None

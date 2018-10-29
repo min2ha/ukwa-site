@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# MindMate
-
 Site promoting a mobile phone application designed to improve cognition in people suffering dementia.

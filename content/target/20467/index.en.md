@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour challenged over 'cast-iron' guarantee to cut tuition fees
-
 None

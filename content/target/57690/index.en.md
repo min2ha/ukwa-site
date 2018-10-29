@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: The scary effects of pornography: how the 21st century's acute addiction is rewiring our brains
-
 News article discussing the effect of easy accessible pornography on mental health

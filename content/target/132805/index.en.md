@@ -10,6 +10,4 @@
   "start_date": "2006-07-21T00:00:00Z"
 }
 
-# Housedustmite.org
-
 Everything you need to know about the house dust mite and its relation to asthma, rhinitis and eczema is a click away! 

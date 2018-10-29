@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Swansea University: Populo
-
 Populo is run by students in Swansea University’s Department of Political and Cultural Studies which is apart of the College of Arts and Humanities. It is a biannual undergraduate journal to showcase some of the work produced by its students.

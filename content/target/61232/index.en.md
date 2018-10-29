@@ -10,7 +10,5 @@
   "start_date": "2018-02-13T09:00:00Z"
 }
 
-# Cresselly House
-
 Cresselly was built in 1769 and is located near Kilgetty and has only
 recently been opened to the public.

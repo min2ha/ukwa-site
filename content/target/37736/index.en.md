@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# Anglo-Scottish Family History Society
-
 Site of a genealogy group based in Manchester focusing on Scottish ancestors in England, specifically Manchester and Lancashire

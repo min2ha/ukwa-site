@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Wales International Documentary Film Festival
-
 Wales' first international documentary festival showcases short documentaries, features, masterclasses and celebrations of international and local film to Blackwood.

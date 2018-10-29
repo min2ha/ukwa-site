@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Present Attempt
-
 Present Attempt is a collective of artists making experimental theatre, performance and live art. 

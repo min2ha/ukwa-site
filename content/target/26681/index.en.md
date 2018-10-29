@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: There is one solution to our disunited politics: a Federal Kingdom of Britai
-
 None

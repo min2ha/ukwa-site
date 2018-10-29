@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Matthew Tree Project
-
 In 2010, Mark Goodway (Founder of The Matthew Tree Project) had a vision to create a social model of working which identified and plugged the ‘gaps’ people were falling through in the social sector and to support and empower victims of such a situation to rebuild their lives and flourish. 

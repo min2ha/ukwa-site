@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC: Commissioner: UK 'must avoid data protection Brexit'
-
 The UK's new information commissioner has called for the country to adopt forthcoming EU data protection laws, despite its plan to leave the Union.

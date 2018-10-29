@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Britain Express: Richard the Lionheart, King John, and the Magna Carta
-

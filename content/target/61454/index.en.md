@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office:  PM speech at Munich Security Conference: 17 February 2018
-
 Prime Minister Theresa May's speech at the 2018 Munich Security Conference, in which she talks about the future of UK-EU security co-operation after Brexit.

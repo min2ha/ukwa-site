@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Asia Scotland Institute
-
 The Asia Scotland Institute is a non-profit organisation which exists to promote a greater understanding of Asia through the sharing of knowledge.

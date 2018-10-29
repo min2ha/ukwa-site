@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-#  Equal Pay Portal (EPP)
-
 This is an independent website organised by Sheila Wild, an equality professional. 

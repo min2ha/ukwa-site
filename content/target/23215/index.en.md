@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# School of Advanced Study - University of London: Ebola worries make for timely arrival of award-winning disease expert
-
 Website for the University of London's School of Advanced Study

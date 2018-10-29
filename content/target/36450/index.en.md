@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: PM warns Brexit could spark Scots breakaway
-
 Article by Tom Martin

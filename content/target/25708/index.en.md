@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Three-minute election: Is this the end of David Cameron? – video
-
 None

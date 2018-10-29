@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# UK Theatre
-
 UK Theatre supports theatre and performing arts organisations and individuals who work professionally in the performing arts at any stage of their career. It publishes 'UK Theatre Magazine'.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Lib Dems face difficult election aftermath
-
 None

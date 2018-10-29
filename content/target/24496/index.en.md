@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The SNP's very Scottish conspiracy…
-
 None

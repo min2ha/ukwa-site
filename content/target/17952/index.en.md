@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Freedom From Torture
-
 Freedom from Torture is an organisation in the UK dedicated solely to the treatment and rehabilitation of survivors of torture. 

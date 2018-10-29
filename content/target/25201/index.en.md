@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: BBC Election Debate 2015: RECAP after 5 election candidates battled it out in the challengers TV debate 
-
 None

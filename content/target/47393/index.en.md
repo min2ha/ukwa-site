@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# InterContinental Hotels Group plc
-
 InterContinental Hotels Group plc is a British multinational hotels company, its brands include: Candlewood Suites, Crowne Plaza, Even, Holiday Inn, Holiday Inn Express, Hotel Indigo, Hualuxe, InterContinental, Kimpton Hotels and Resorts and Staybridge Suites.

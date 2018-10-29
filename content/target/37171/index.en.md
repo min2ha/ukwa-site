@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: "I'd bet on a Brexit", Andy Burnham says
-
 Telegraph, The: "I'd bet on a Brexit", Andy Burnham says

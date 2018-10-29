@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# DeDomenici Blog
-
 Blog pertaining to the non-art related activities of artist Richard DeDomenici. 

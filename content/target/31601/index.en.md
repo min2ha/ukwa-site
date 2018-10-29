@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# DataServe Retro
-
 DataServe Retro provides information on the range of 8-bit micro computers focusing on the companies behind them, their development history and for most of them, their ultimate demise.

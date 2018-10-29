@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum can bring the Tories down
-
 Editorial of the Socialist, issue 903

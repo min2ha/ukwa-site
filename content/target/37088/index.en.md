@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: As a new map of England shows, the Brexit vote is about the ethnic make-up of the UK
-
 Independent, The: As a new map of England shows, the Brexit vote is about the ethnic make-up of the UK

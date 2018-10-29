@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Who exactly will ‘take back control’? Parliament vs executive after Brexit and the ‘Great Repeal Bill’ 
-
 There’s no plausible argument that we need to destroy parliamentary democracy in order to save it. The Leave side argued for British parliamentary supremacy – not for ‘handing back control’ to our ‘unelected bureaucrats’. Parliamentary sovereignty doesn’t need fair-weather friends: it needs supporters who will take the opportunity of Brexit to strengthen it for reasons of principle, not undermine it for reasons of tactical advantage.

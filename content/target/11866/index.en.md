@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Red Sky Management
-
 Edinburgh based Red Sky Management's website contains information about their sponsorship programmes for athletes and businesses, including profiles of each sportsperson.

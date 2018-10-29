@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# LSESU Irish Society (@LSEIrishSociety) on Twitter
-
 Irish Society of the London School of Economics. We promote Irish culture on campus and foster links with the Irish community.

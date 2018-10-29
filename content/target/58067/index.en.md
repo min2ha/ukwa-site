@@ -10,6 +10,4 @@
   "start_date": "2017-10-25T09:00:00Z"
 }
 
-# Meri Wells, Ceramic Sculptor
-
 Meri Wells, Ceramic Sculptor from Machynlleth, Wales.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: How will polling station chaos of 2010 be avoided?
-
 None

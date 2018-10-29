@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Butterflies & Moths of the Outer Hebrides 
-
 Site and database, with photographs, set up by an individual listing Lepidoptera identified in the Outer Hebrides, mainly Uist and Benbecula.

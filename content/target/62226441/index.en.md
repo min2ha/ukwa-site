@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Linen Press Books
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Martin Whitfield (@MartWhitfield) on Twitter
-
 Twitter profile of Martin Whitfield, Scottish Labour candidate for East Lothian in the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Chatham House: The Costs of Dis-Union for a UK Without Scotland
-
 None

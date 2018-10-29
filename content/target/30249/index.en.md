@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Society of Genealogists (SoG)
-
 Founded in 1911 the Society of Genealogists (SoG) is Britain’s family history society. The Society maintains a genealogical library and education centre in Clerkenwell in London.

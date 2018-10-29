@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Jalalia Mosque and Islamic Education Centre
-
 Jalalia Mosque and Islamic Education Centre is based in Riverside, Cardiff.

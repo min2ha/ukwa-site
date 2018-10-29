@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Joy Cornock
-
 Joy Cornock is a Soprano/Harpist and Freelance TV Producer from Fishguard in Pembrokeshire.

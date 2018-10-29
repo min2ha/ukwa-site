@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Transport for London (@TfL) on Twitter
-
 Official feed about the Capital’s transport network. 

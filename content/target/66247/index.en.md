@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Jewish Care Scotland
-
 Site of an organisation and charity running a day care centre, providing a wide range of services for the Jewish community, from a Kosher foodbank, to support with mental health issues, helping refugees integrate into our community and everything in between.

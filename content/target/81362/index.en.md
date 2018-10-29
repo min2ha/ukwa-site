@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Independent: Theresa May calls on Labour MPs to put 'national interest' first and back her Brexit deal in defiance of Corbyn
-
 Theresa May told Labour MPs they should put the “national interest” ahead of loyalty to Jeremy Corbyn when it came to a decision over whether to back her government’s Brexit plans. This came amid reports that up to 30 Brexit-backing Labour MPs might support Ms May’s deal, while Tory Eurosceptics said they had 40 ready to vote against it.
 
 

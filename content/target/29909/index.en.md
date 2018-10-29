@@ -10,6 +10,4 @@
   "start_date": "2015-08-20T10:00:00Z"
 }
 
-# Twitter: Monkeyshine Comedy (@MonkeyshineCom)
-
 Twitter account for the Monkeyshine Comedy Club at the University of Kent.

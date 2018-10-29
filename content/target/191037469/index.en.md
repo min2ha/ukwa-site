@@ -10,5 +10,3 @@
   "start_date": "2013-09-06T00:00:00Z"
 }
 
-# Parish of Llangynwyd with Maesteg Plwyf
-

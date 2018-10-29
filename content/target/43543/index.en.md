@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# University of Glasgow: The implications for Scotland of a vote in the EU referendum for the UK to leave the EU
-
 A blog from the University of Glasgow's School of Law about the future of Scotland if 'Brexit' gets through.

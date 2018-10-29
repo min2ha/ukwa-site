@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC: EU referendum: Trade unions divided on Brexit vote
-
 Northern Ireland's largest trade union, Nipsa, is to recommend to its members that they should vote for the UK to leave the EU.

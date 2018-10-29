@@ -11,5 +11,3 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Confessions of an Ageing Trainspotter
-

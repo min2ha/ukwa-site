@@ -10,5 +10,3 @@
   "start_date": "2017-11-01T09:00:00Z"
 }
 
-# Taxpayers Alliance Wales on Facebook
-

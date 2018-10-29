@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Dyslexia Health Education Association, The
-
 <p>The Dyslexia Health Education Association website provides information and developments in dyslexia, health and education in the United Kingdom and news about events and policy announcements.</p>

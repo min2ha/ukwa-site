@@ -10,6 +10,4 @@
   "start_date": "2017-09-22T09:00:00Z"
 }
 
-# Cardiff Music School
-
 Cardiff Music School is a community music school based at at Chapter Arts, Canton in Cardiff.

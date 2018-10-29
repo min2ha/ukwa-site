@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Burgess Hill RFC
-
 A progressive family club that welcomes all abilities.

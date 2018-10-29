@@ -10,6 +10,4 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Glenn Edwards Photojournalist
-
 Welsh photojournalist and former UK Press Photographer of the Year.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Carluke SNP (@SNPCarluke) on Twitter 
-
 Twitter profile of the Carluke branch of the Scottish National Party (SNP).

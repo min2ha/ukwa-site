@@ -10,6 +10,4 @@
   "start_date": "2017-10-14T09:00:00Z"
 }
 
-# Dorian Spencer Davies Art 
-
 Dorian Spencer Davies is a Welsh artist from Carmarthen. His paintings are mainly of the Welsh landscape and coast.

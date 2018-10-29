@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Roxburgh Reivers Orienteering Club
-
 Site of an orienteering club based in Roxburghshire, but with members all over the Scottish Borders.

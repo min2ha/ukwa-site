@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Northumbrian Jacobites Society
-
 Site of a society researching and providing information on the Jacobite movement in Northumberland connected to risings in 1715 and 1745 and aiming to restore the Stuart monarchs to the United Kingdom throne.

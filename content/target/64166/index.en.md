@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Marie Stopes International (@MarieStopes) on Twitter
-
 We deliver quality family planning and reproductive healthcare to millions of the world's poorest and most vulnerable women. Tweets by Kylie, Ellinor and Peta.

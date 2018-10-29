@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Restoring Integrity to Democracy (@Integrity4UK) on Twitter
-
 Campaigning for Brexiteers to face criminal charges for 'misleading' voters during the 2016 referendum campaign.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Law UK
-
 Digital Law UK is the UK's law firm specialising solely in data protection, privacy, cyber security and social media law.

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# insider.co.uk: Stephen Hawking dies at the age of 76
-
 Insider looks back at the life of the famed scientist and author of A Brief History of Time who has died peacefully at his home in Cambridge

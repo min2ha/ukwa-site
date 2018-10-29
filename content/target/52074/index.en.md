@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit deadline a specific factor in snap election move
-
 Analysis of Theresa May's motivation for calling a snap general election on June 8th 2017.

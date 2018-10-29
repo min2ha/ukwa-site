@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: EXCLUSIVE: Nigel Farage WON'T rule out Ukip leader return due to 'nagging' EU referendum
-
 None

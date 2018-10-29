@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Cards Association, The: Manifesto
-
 None

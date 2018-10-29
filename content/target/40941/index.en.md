@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# North East Lincolnshire Council
-
 Web site of North East Lincolnshire Council offers information about council services, news, consultations, planning and policy documents and committee papers and agendas

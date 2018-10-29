@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Cyfeillion Plas Hendre, Aberystwyth
-
 The website provides 'information about cultural events organised by Cyfeillion Plas Hendre, a society whose members have, over the years, been closely associated with the life of this historic Aberystwyth house'.

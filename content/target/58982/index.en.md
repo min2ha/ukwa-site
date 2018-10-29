@@ -10,5 +10,3 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Friends of the City of Swansea Botanical Complex
-

@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Newport Salop RUFC
-
 The official website of Newport Salop Rugby Football Club.
 
 Beautifully situated on the edge of Newport on the Shropshire/Staffordshire border we are one of the most senior clubs in the North Midlands region.

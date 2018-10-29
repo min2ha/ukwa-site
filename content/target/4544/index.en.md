@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# needleblog: Nelson Mandela 1918-2013
-
 None

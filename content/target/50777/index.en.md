@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Prime Minister Theresa May wants 'more united Britain'
-
 In a speech to the Conservatives' Spring Forum, Theresa May set out her desire to create a more united Britain.

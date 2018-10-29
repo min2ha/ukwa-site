@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# View Dunfries & Galloway : people, places and heritage
-
 Site for the online photographic collection of Dumfries & Galloway Council. Photography.

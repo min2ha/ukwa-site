@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Lady Colin Campbell 1857-1911
-
 None

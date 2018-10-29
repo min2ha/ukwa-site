@@ -10,6 +10,4 @@
   "start_date": "2016-04-12T10:00:00Z"
 }
 
-# Women@War
-
 The project will develop an original production, enabling young people to engage with the legacy of WW1 and the evolution of women's role in society.

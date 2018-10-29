@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# Myxomycetes of Clyne Wood, Swansea
-
 The website provides a list of Myxomycetes species that have been found in Clyne Wood near Swansea over the past few years. 

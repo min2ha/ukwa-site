@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# A Hackney Autobiography
-
 A Hackney autobiography is a project recording and remembering the history of Centerprise, funded by the Heritage Lottery Fund. Centerprise was a groundbreaking community centre in Hackney that opened in 1971. It hosted a bookshop, publishing project, reading centre, café, youth club, creche and more all under one roof in Dalston.

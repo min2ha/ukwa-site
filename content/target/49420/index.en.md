@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# British Museum Shop Online
-
 The official online shop for the British Museum

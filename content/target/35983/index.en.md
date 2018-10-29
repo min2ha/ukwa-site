@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Britain must stay in the EU to protect itself from Isil, former military chiefs say
-

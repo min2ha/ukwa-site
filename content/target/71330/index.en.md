@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Paviors RFC on Pitchero
-
 The official website of Paviors Rugby Club.

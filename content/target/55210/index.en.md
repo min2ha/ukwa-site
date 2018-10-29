@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# London Irish Abortion Rights Campaign: Press & Media
-
 Press and media accounts from the London Irish Abortions Rights Campaign (LIARC) dating from when the group was established in 2016 to the end of June 2017 after our collection period for the UK General Election 2017 collection.
 

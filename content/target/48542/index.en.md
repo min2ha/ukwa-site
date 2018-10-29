@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# UK Government Wales (@UKGovWales) on Twitter 
-
 Twitter account of the Office of the Secretary of State for Wales. UK Government.

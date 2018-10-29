@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Pensioners for Independence on Facebook
-
 A discussion platform to form a group of Scottish Pensioners for Independence.

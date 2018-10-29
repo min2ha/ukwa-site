@@ -11,5 +11,3 @@
   "subject": "Food Archive"
 }
 
-# Vegan Connections Festival
-

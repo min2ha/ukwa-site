@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: 'We're not Brexit rebels, we're pragmatic leavers,' says Tory MP
-
 Antoinette Sandbach said labelling her and other pro-Europe Tories as traitors was ‘ridiculous’

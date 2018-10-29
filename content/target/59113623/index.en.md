@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Gillian Richardson Fine Art : Pembrokeshire Photo Gallery
-
 Gillian Richardson is one of Pembrokeshire's leading landscape photographers. She has a gallery in Haverfordwest.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Reading List: 6 essential books on Scotland and the Scottish independence referendum: LSE Review of Books
-
 None

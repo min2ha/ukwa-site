@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# National Piping Centre, The
-
 The NPC exists as a national and international centre of excellence for the Great Highland Bagpipes and its music

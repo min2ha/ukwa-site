@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: UK universities draw up plans for EU campuses ahead of Brexit
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Annan Athletic Football Club
-
 Site of a senior Scottish football Club based in Annan, Dumfries and Galloway.

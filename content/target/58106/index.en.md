@@ -10,6 +10,4 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# Welsh Health Economic Support Service (WHESS) | Gwasanaeth Cymorth Economeg Iechyd Cymru (GCEIC)
-
 The Welsh Health Economic Support Service (WHESS) is based at Bangor University and is funded by Health and Care Research Wales to support health and social care research across Wales.

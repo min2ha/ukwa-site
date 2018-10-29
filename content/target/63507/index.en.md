@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Русский в Англии / Russkii v Anglii (Russian in England)
-
 Russkii v Anglii is a Russian-language online and print news outlet.

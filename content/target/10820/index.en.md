@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ITV Le Tour de France
-
 ITV Tour de France web pages

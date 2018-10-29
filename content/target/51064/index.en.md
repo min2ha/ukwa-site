@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Paddy Power Betfair plc
-
 Paddy Power Betfair plc is a bookmaking business created by the merger of Paddy Power and Betfair. Paddy Power Betfair is one of the world’s leading sports betting and gaming operators, it owns over 600 betting shops in the UK and Ireland, including a well established on-line betting exchange.

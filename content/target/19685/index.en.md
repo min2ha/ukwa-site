@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Owen Smith Labour on Facebook
-
 Labour MP for Pontypridd and Shadow Secretary State for Wales.

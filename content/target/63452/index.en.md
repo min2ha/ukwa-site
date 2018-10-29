@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Cheating may have swayed Brexit poll - Christopher Wylie
-
 The UK might not have voted for Brexit if it had not been for "cheating" by the Leave campaign, a former employee of Cambridge Analytica claimed at a Digital, Media and Sport Committee hearing. Christopher Wylie said Vote Leave and other pro-Brexit groups had a "common plan" to get round spending controls.
 
 

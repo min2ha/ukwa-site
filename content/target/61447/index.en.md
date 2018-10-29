@@ -10,6 +10,4 @@
   "start_date": "2018-02-20T09:00:00Z"
 }
 
-# Cambrian Consort of Viols, The 
-
 The Cambrian Consort of Viols was established in 2007 and is a viol consort based in South Wales. Their performances are based around the consort music of the Renaissance and early Baroque periods.

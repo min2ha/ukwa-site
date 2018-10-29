@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Government is failing UK workers over Brexit - McDonnell
-
 The government's "shambolic" approach to Brexit is failing to equip the UK economy for leaving the EU, shadow chancellor John McDonnell said.

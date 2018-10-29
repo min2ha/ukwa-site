@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# Gliffords Circus
-
 Giffords Circus is a musical village-green circus that tours Gloucestershire, the South West and beyond through the summer.

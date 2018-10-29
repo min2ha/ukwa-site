@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# Malfranteaux Concepts 
-
 Site of a poetry publisher based in the north east of Scotland.

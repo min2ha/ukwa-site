@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Political Studies Association Sport and Politics Study Group
-
 The study group was established in 2005 under the auspices of the UK Political Studies Association to provide opportunities for discussion, debate and research on sport politics. The group is very active and hosts annual events (conferences, workshops and panels) to foster the development of academic research on sport politics within political studies/science, and political aspects of sport in related fields and disciplines.

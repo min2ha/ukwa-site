@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Wood Protection Association (WPA)
-
 The WPA is a technical and advisory organisation dedicated to improving the performance and value of wood as a sustainable construction material.

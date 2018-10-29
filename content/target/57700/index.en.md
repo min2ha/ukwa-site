@@ -10,6 +10,4 @@
   "start_date": "2017-10-06T09:00:00Z"
 }
 
-# Alexander Paul Duncan
-
 Alexander Paul Duncan is a Welsh sculpturist, Royal Cambrain Academy member and former Joseph Hermann Award/People's Choice Award Winner National Eistedfod of Wales.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# 84 Great Eastern Street
-
 Small Tumblr archive of images from social centre created during squat of 84 Great Eastern Street, East London during June-July 2010

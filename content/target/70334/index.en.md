@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aber Town Ladies (@AberTownLadies) on Twitter
-
 Official twitter page for Aberystwyth Ladies Fc.

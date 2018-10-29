@@ -10,6 +10,4 @@
   "start_date": "2018-08-04T09:00:00Z"
 }
 
-# Rock n Roll Bride
-
 Rock n Roll Bride magazine, a bi-monthly, nationally available magazine was launched in 2015. This magazine focuses on encouraging engaged couples to plan a day that reflects them and their partner and declares their love in their own special way.

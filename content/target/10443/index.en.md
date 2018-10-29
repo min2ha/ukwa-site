@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Catherine Stihler  (@C_Stihler_MEP) on Twitter (Labour MEP for Scotland)
-
 Catherine Bearder was first elected as a Liberal Democrat MEP for the South East of England in 2004. She was then re-elected in 2009 and 2014.

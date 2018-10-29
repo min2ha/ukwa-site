@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Russell Brand: the general election is irrelevant in the face of inequality
-
 None

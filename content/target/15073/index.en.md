@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hampton People's Network
-

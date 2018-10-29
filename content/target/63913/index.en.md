@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Hillington Park Parish Church
-

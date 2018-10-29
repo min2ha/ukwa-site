@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Pinner Methodist Church 
-
 Pinner Methodist Church is a registered charity in England and Wales.

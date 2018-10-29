@@ -10,6 +10,4 @@
   "start_date": "2018-07-03T09:00:00Z"
 }
 
-# David Duguid MP on Facebook
-
 David Duguid is the Member of Parliament for Banff and Buchan.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Record of the Day: BPI survey of UK record labels on EU referendum
-
 Record of the Day is an independent company publishing a weekly PDF magazine and a daily email newsletter featuring relevant and up-to-date music and media news. Here they summarise the findings of the BPI (British Phonographics Industry) survey of UK record labels opinions on the EU referendum.

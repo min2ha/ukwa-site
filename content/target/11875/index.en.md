@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish Gymnastics (ScotGymnastics) on Twitter
-
 <p>Official Twitter account of Scottish Gymnastics.</p>

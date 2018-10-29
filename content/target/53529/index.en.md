@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mark Garnier (Conservative  Politician)
-
 Mark Garnier stood as Conservative candidate for Wyre Forest at the 2017 General Election and was elected to serve as MP.

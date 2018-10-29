@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Welsh and Scottish governments raise pressure over Brexit plans
-

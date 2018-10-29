@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Fiona O'Donnell on Facebook
-
 This is the Facebook page of Fiona O'Donnell, the Labour Party candidate for East Lothian in the UK General Election on the 7th May 2015.

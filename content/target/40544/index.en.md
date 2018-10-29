@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Edinburgh City of Print
-
 Site providing online access to the print and publishing collections of Edinburgh Museums & Galleries and aiming to provide a photographic record and detailed description of the material stored there and the rich heritage of Edinburgh's printing industry as well as capturing knowledge of traditional work practices and how machinery was used.

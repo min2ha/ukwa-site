@@ -10,6 +10,4 @@
   "start_date": "2017-09-15T09:00:00Z"
 }
 
-# War Graves of Ystradgynlais, The
-
 Ystradgynlais Wargraves is a memorial page for each of the fallen from both world war using basic information from the Commonwealth War Graves Commission and detailed information from the Llais newspaper archive, local memorials, cemeteries and family contacts with the researcher. 

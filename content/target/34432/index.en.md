@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# For Argyll and the Islands | News and Comment About Argyll and its Communities
-

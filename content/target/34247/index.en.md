@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Colin Keir MSP
-
 Colin Kier is Scottish National Party Member of the Scottih Parliament for Edinburgh Western.

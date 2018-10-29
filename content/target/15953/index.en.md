@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# Poppy Factory, The
-
 <p>The Poppy Factory in Richmond, Surrey, has been making poppies, crosses and wreaths for The Royal Family and The Royal British Legion’s Poppy Appeal. It has transformed itself into a charity. As well as providing work for disabled veterans at its HQ in Richmond, The Poppy Factory uses its expertise to help its clients find work with many commercial organisations all over the UK.</p>

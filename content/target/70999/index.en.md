@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St Francis RFC
-
 The official website of St Francis Rugby Football Club.

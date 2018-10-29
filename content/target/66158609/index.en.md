@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# West Mercia Police Authority
-
 None

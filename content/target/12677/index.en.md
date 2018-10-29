@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Nanette Milne
-
 The website of Nanette Milne, Scottish Conservative and Unionist Party Member of the Scottish Parliament for North East Scotland.

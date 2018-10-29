@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Dundee–Nablus Twinning Association
-
 Site of an organisation working towards the formal twinning of the city of Dundee, Scotland and Nablus, West Bank, Palestine.

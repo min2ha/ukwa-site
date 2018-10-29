@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# Adaptation and Resilience in the Context of Change Network (ARCC)
-
 The Adaptation and Resilience in the Context of Change network (ARCC) is staffed and managed by UKCIP, and hosted by the Environmental Change Institute, University of Oxford. The network supports the creation of robust built environment and infrastructure sectors within the UK, to deliver benefits to society, the economy and the environment.

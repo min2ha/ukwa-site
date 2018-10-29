@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Labour figures admit underestimating Ukip threat cost them seats in the general election
-
 None

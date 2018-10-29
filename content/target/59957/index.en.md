@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: 'Iconic' blue British passport to return after Brexit
-
 Reports that the Home Office has decided to change the colour scheme of British passports from Burgundy to blue after Brexit. The decision was widely mocked on social media by remain supporters.

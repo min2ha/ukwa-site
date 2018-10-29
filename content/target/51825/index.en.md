@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Future of the Left
-
 Future of the Left are a Welsh alternative rock band.

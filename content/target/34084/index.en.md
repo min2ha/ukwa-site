@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Senior Tory says Chris Grayling is 'peddling myths' about EU 
-

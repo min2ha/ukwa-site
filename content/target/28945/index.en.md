@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Leicestershire Liberal Democrats
-
 Website of Leicestershire Liberal Democrats, providing information on local news updates and reaction, national news and how to join the party.

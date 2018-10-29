@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Loanhead Music Festival
-
 Site of an annual Scottish traditional music festival taking place in Loanhead, Midlothian, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Independence Live Events
-
 <p>Scottish Independence Live Events, a website which offers a platform for streaming video of Scottish Independence events.</p>

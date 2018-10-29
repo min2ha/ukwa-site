@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Lennox Brewery Limited
-
 Site of a brewer located in Dunbartonshire.

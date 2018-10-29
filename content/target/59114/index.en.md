@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Zia-Ul-Quran
-
 Site of a Islamic place of worship (mosque) and educations centre located in the Southside of Glasgow.

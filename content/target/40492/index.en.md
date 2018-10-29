@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Estelle Maskame
-
 Website of a Scottish author of fiction aimed at young adults.

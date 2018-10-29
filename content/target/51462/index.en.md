@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: British voters must have the final say on Brexit
-

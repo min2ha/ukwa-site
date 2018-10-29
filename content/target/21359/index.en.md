@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scotland-US
-
 Scotland-US was formed to serve three main purposes: As an Advocacy Group for Scottish Interests in the United States. As a Resource for Scottish Businesses. As an Advisory Group to the Scottish Government.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff Hurricances
-
 Cardiff Hurricances is a Flag American Football club based in South Wales​.

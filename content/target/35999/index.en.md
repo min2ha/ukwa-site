@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Robert Brown (@Robert4LibDems) on Twitter
-
 Twitter profile of Robert Brown, Scottish Liberal Democrat candidate for Rutherglen and Hamilton West in the 2017 general election.

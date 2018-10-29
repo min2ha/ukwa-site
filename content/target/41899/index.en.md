@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Clan Mackenzie Society of Scotland & the UK
-
 Site of a genealogical and clan history society focusing on the name Mackenzie and its septs.

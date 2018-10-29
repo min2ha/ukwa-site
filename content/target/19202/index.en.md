@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Legal Cheek: Bar in cyber war with itself over bigwig support for Global Law Summit
-

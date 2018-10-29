@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# Stefhan Caddick
-
 Stefhan Caddick is a Welsh visual artist.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Cor Meibion Aberystwyth Male Voice Choir
-
 This is the website for Aberystwyth Male Voice Choir established in 1962.

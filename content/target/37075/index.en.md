@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: EU referendum: Brexit would prompt 'regulationfest' of replacing Brussels bureaucracy, leading lawyers warn
-

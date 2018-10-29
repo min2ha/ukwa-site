@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Please Vote Leave on Thursday, because we'll never get this chance again
-

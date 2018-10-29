@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Company of Merchants of the City of Edinburgh
-
 Site of an organisation originally established in Edinburgh as a guild of merchants but now dedicated to charitable causes sponsored by local business people.

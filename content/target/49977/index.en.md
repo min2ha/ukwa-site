@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Catherine Wynne-Paton
-
 Catherine Wynne-Paton is an 'artist intrigued by exchanges between artist peers and audience in many forms - the processes, challenges and questioning nature of current art dialogues'.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Erwood Station Craft Centre
-
 Erwood Station is rural railway station on the River Wye supporting over 70 artists and crafts people from the local area.

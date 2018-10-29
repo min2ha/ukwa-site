@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: History events at the IHR: Why publicize Magna Carta, now and then? 
-

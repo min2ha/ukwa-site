@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal National Mòd on Facebook
-
 The Royal National Mòd is an annual celebration of Gaelic language and culture involving arts competitions. This is its official Facebook page.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Now - Official Site
-
 Celebs Now for the latest celebrity news, gossip and pictures - plus new celebrity hair, celeb fashion, beauty and video of celebs.

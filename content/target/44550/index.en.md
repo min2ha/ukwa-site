@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Global Witness
-
 Many of the world’s worst environmental and human rights abuses are driven by the exploitation of natural resources and corruption in the global political and economic system.  Global Witness is campaigning to end this. 

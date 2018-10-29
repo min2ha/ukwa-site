@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Social Experimentalist 
-
 Social Experimentalist is a political organisation.

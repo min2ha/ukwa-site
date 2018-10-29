@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Liverpool John Moores University
-
 Official website of Liverpool John Moores University.

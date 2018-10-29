@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Dunoon Mod Shop
-
 Fundraiser's blog for 2018 Royal National Mod held in Dunoon

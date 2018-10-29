@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Owen Money MBE the official site
-
 Owen Money is a Welsh musician, actor, comedian, and radio presenter from Merthyr Tydfil. 

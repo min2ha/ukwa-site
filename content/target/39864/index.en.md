@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Edinburgh Conservative & Unionist Association on Facebook
-

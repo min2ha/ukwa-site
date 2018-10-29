@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Clitheroe Advertiser and Times
-
 None

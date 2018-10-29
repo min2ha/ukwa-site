@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T10:00:00Z"
 }
 
-# Nation Radio
-
 Nation Radio is a regional radio station, broadcasting to South Wales and West and North East Wales. It is owned and operated by Nation Broadcasting and broadcasts from studios on the outskirts of Cowbridge.

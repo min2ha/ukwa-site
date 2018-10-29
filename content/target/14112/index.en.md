@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# LA Times: Scotland's expats want a say on independence from Britain
-
 None

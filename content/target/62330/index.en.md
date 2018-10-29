@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# The Hive London
-
 The Hive Stadium is a 5,176 capacity stadium in Canons Park, in the London Borough of Harrow on the former site of the Prince Edward Playing Fields. The stadium is home to Football League Two football club Barnet and London Bees of the FA WSL.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Ogof Ffynon Ddu | Cave of the Black Spring, The
-
 Ogof Ffynon Ddu is in the Upper Swansea Valley.

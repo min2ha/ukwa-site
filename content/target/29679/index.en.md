@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stoke Newington Literary Festival
-
 Stoke Newington Literary Festival

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael McCann on Facebook
-
 This is the Facebook page of Michael McCann, the Labour Party candidate for East Kilbride, Strathaven and Lesmahagow in the UK General Election on the 7th May 2015.

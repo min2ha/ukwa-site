@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Criccieth Community Church
-

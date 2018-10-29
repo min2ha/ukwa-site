@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guerilla Policy
-
 Guerilla Policy is a project to develop a radically different approach to conducting policy and research work. 

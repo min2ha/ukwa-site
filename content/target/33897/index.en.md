@@ -10,6 +10,4 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# Dramatic Need
-
 Dramatic Need is a creative arts charity helping vulnerable children in Africa suffering the effects of conflict, trauma & hardship.

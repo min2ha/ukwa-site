@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Woodfest Country Show, Denbighshire
-
 WoodFest Country Show is a celebration of all things wood, held at St Asaph, Clwyd.

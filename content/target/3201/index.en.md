@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Welsh Rugby Union
-
 The Welsh Rugby Union is the national governing body for grassroots and elite rugby in Wales.

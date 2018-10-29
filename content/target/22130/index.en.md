@@ -10,5 +10,3 @@
   "start_date": "2015-04-23T09:00:00Z"
 }
 
-# Jonathan Bishop Dzon on Facebook (Plurarist Party candidate for Liverpool Walton)
-

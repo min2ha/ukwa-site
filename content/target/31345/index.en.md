@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Gecko
-
 Gecko is a physical theatre company, led by Artistic Director Amit Lahav.

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# DJ Johnston-Smith for East Lothian on Facebook
-

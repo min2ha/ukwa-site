@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# 576 Squadron RAF
-
 A personal website about a well known WWII RAF Squadron. This website and its content is copyright of David William Fell and/or the contributors. 

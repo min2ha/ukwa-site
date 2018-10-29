@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# PistonHeads
-
 PistonHeads is an online news site dedicated to the automotive industry. The site contains motoring related articles, used car classifieds, and an internet forum.

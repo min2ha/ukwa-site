@@ -10,6 +10,4 @@
   "start_date": "2016-06-21T10:00:00Z"
 }
 
-# Cambridge for Europe - Students on Facebook
-
 Cambridge for Europe - Students is the student branch of Cambridge for Europe, the pro-EU referendum campaign for Cambridgeshire.

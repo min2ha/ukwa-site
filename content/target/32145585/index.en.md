@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T09:00:00Z"
 }
 
-# Roman Map of Britain, The
-
 In 1994 the author began a study of the British section of a manuscript known as The Ravenna Cosmography. That section records place-names of Britain during the Roman occupation.

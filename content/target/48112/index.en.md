@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Legislating for Brexit: EU external agreements
-
 The EU has over 1,000 external agreements with other countries or organisations, many of which the individual Member States, as well as the EU, have ratified. Many of them concern trade but they cover a range of policy areas and it is not clear what Brexit will mean for the UK's participation in these agreements.

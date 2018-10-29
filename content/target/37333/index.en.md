@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph Blogs: Benedict Brogan
-
 Political Blog: Benedict Brogan

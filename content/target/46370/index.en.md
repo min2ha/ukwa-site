@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T10:00:00Z"
 }
 
-# Gobaith Môn
-
 Gobaith Môn is a youth initiative that has come out of the churches across Ynys Môn and aims to bring together Christians from all denominations to bring 'hope to the youth of the Island by encouraging and developing youth work in schools, churches and communities'.

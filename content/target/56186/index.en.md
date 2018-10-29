@@ -10,6 +10,4 @@
   "start_date": "2017-07-28T09:00:00Z"
 }
 
-# Cardiff Breakfast Club
-
 The Cardiff Breakfast Club is a breakfast networking event.

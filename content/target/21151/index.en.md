@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lynne Featherstone (@lfeatherstone) on Twitter (Liberal Democrat candidate for Hornsey and Wood Green)
-

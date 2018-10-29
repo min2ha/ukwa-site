@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# South Staffordshire District Council
-
 Website of South Staffordshire District provides local news, the South Staffordshire Review magazine in full text, information about council services, and access to consultations. It also provides information about the Council's budget and expenditure, planning policy and local plans.

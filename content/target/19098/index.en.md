@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Global Law Summit: Bury St Edmunds: Stone sculpture to be made in the Abbey Gardens to commemorate Magna Carta
-

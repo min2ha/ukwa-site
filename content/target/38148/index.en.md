@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Karen Marjoram (@KarenMarjoram) on Twitter
-
 Twitter profile of Karen Marjoram, the Scottish National Party list candidate for Mid Scotland & Fife region in the 2016 Scottish Parliamentary election.

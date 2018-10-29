@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's United Reformed Church, Cardiff
-

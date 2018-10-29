@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Six Days Trial
-
 Site of a motorcycle comptetition at Fort William where riders are tested for endurance and skill over rough terrain.

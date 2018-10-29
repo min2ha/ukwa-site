@@ -10,6 +10,4 @@
   "start_date": "2017-11-25T09:00:00Z"
 }
 
-# UK Registrars Group (UKRG)
-
 A forum for communication and co-operation between registrars and professionals in other fields related to the work undertaken by registrars

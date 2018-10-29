@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Chaplin (@medwaypaul) on Twitter (Liberal Democrats candidate for Gillingham and Rainham)
-
 Paul Chapman stood as Liberal Democrats candidate for Gillingham and Rainham at the 2015 General Election but was not elected. 

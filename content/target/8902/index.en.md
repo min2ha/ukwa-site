@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Tearfund: Celebrating Nelson “Madiba” Mandela
-
 None

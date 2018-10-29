@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jacqueline for Alyn and Deeside, Plaid Cymru/The Party of Wales on Facebook
-
 Facebook page of Plaid Cymru/The Party of Wales Westminster Candidate for Alyn & Deeside Jacqueline Hurst.

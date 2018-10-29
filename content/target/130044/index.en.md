@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# National Literacy Trust (NLT)
-
 The National Literacy Trust Network supports schools to develop outstanding literacy provision by providing literacy leaders with tools, resources and inspiration.

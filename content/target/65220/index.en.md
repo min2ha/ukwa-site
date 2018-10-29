@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Colmon Parish Church
-
 Site of a Church of Scotland parish church at Colmonell, near Ballantrae, Ayrshire.

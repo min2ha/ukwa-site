@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Leasehold Knowledge Partnership
-
 Campaigning charity and all-party parliamentary group. The Leasehold Knowledge Partnership exists to protect ordinary leaseholders from being fleeced by landlords and their agents. They exploit the many opportunities offered by this flawed form of property tenure.  The LKP seeks to identify and accredit property managing agents who sign up to open accounting and straight dealing.

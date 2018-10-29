@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T10:00:00Z"
 }
 
-# Equate Scotland
-
 Site of a Scottish organisation established to equalise the opportunities in science, technology, engineering and mathematics between men and women / girls and boys, by tackling stereotypes and accessibility issues in education and the workplace.

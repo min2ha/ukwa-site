@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Ymddiriedolaeth Susan Williams-Ellis Foundation
-
 Ymddiriedolaeth Susan Williams-Ellis Foundation is 'dedicated to supporting culture and the arts in the area around Susan’s family home at Plas Brondanw', Penrhyndeudraeth.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# LSE Brexit Blog: ‘The brightest and best’, us – and the rest: desirable and undesirable migration in EU referendum leaflets
-
 A blog post by Alexandra Bulat (UCL SSEES) who examined the LSE’s Brexit pamphlets collection and founds – on both sides – a distinction between ‘desirable’ and ‘undesirable’ migrants, whether from within or outside the EU. At no point were the views of the migrants themselves heard.

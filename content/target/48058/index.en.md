@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  St. Helena's News (@STHELENANEWS1) on Twitter
-
 St Helena's news & information service Twitter page.

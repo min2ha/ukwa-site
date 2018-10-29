@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Logistics Learning Alliance
-
 LLA humanitarian and business logistics and supply chain online learning programmes/face-to-face events are driven by your requirements. 

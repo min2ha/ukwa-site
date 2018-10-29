@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bowls England (BowlsEng) on Twitter
-
 <p>The twitter profile of the national governing body for outdoor flat green bowls in England.</p>

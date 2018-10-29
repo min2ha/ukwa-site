@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Rugby Blog, The
-
 None

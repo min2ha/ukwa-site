@@ -10,5 +10,3 @@
   "start_date": "2016-03-03T09:00:00Z"
 }
 
-# Independent: Brexit would make it harder for UK to help world's most vulnerable people, warns Nicola Sturgeon
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Votes for Vinny
-
 League against Cruel Sports campaign website launched at the time of the 2017 General Election aiming to keep fox hunting illegal. 

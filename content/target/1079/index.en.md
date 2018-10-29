@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Health Programmes (Health Needs Assessment Toolkit)
-
 None

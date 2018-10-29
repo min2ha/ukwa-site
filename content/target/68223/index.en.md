@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Welsh Government: UK-India 2017-18
-
 This is the dedicated Welsh Government pages dedicated to the UK India Year of Culture 2017. The site provides information on the eleven Welsh arts projects that took Welsh culture to India and India to Wales in 2017.

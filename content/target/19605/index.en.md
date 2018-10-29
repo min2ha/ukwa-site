@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# English-Speaking Union, The
-
 The English-Speaking Union (ESU) is a unique global educational charity and membership organisation that brings together and empowers people of different languages and cultures. Their vision is to provide people in the UK and internationally with communications skills, confidence and opportunities to engage in an exchange of ideas and opinions. 

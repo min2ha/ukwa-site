@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Richard Black (@_richardblack) on Twitter
-
 Twitter feed of Richard Black, Director of the Energy and Climate Intelligence Unit.

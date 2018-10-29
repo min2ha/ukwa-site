@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Pet Show
-
 festival bringing together all creatures great and small with dedicated animal zones.

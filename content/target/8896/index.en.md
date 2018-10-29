@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Save the Children's response to Mandela's passing
-
 None

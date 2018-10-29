@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bucksburn Stoneywood Parish Church of Scotland
-

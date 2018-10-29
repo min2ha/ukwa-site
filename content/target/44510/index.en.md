@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cherwell: Protests in Oxford against EU referendum result
-
 An article reporting protests in Oxford as a result of the EU referendum result

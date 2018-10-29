@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Bite Club UK
-
 Bite Club is a secret supper club where there is nothing routine. Each month they pop up in a different top secret location (to be revealed only to all those who have booked) with a new menu, new concept and new vibe.

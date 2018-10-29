@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Paisley Rugby Football Club on Pitchero
-
 Site of a Scottish rugby union football club based in Paisley, Renfrewshire.

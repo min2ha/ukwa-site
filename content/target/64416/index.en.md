@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women and Equalities Committee - UK Parliament
-
 The Women and Equalities Committee is a new select committee appointed to examine the Government’s performance on equalities issues.

@@ -10,6 +10,4 @@
   "start_date": "2018-01-10T09:00:00Z"
 }
 
-# Òganan Dhùn Èideann
-
 Site of an organisation providing pre-school child care in an immersive Gaelic language situation, and provinding support for parents wishing to send their children to Gaelic language school; based in Edinburgh.

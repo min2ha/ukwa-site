@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# The National Council for Palliative Care
-
 The NCPC is the umbrella charity for all those involved in palliative, end of life and hospice care in England, Wales and Northern Ireland. Policy and campaigning is focused on removing inequalities in treatment and care for people approaching the end of their lives.

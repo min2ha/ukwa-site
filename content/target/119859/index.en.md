@@ -10,5 +10,3 @@
   "start_date": "2006-05-12T00:00:00Z"
 }
 
-# National Reyes Syndrome Foundation UK
-

@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Superwomen of Science
-
 Site of a music-theatre programme and research project, pairing women scientists and composers throughout the UK, developed by electric voice theatre, Edinburgh Napier University, Novo Science and the National Library of Scotland.

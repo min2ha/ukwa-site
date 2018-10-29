@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# #SP16 hashtag on Twitter
-
 The SP16 hashtag on Twitter is used by tweets relating to the Scottish Parliamentary elections in May, 2016.

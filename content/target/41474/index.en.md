@@ -10,6 +10,4 @@
   "start_date": "2016-05-23T10:00:00Z"
 }
 
-# Watergaw Ceramics
-
 Site of a ceramics manufacturer based in Whitehills, Aberdeenshire, Scotland.

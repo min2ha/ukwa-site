@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# #bettertogether hashtag on Twitter
-
 <p>Twitter posts containing the hashtag #bettertogether.</p>

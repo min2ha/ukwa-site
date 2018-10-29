@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Inverness St. Columba Church of Scotland New Charge
-
 Site of a Church of Scotland church located in Inverness.

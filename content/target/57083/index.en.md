@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Labour Leave
-
 Labour Leave campaigns to achieve a fair deal from Brexit negotiations. They recognise the will of the UK public and will hold the government and the Labour Party to account.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Election 2015 | Scoop.it
-
 Scoop.it page collecting comment and articles about the 2015 UK General Election.

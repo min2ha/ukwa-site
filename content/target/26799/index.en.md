@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# South Wales Scorpions Rugby League
-

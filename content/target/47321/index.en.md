@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Lambeth United Housing Cooperative
-
 Campaigning against the eviction of 40-year-old housing co-operatives in Lambeth. Stop Lambeth Council destroying established, self-reliant communities!

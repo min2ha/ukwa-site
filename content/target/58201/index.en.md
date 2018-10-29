@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Grazia: Cara Delevingne Opens Up About Her Struggle With Depression On Twitter
-
 Grazia article about Cara Delevigne discussing depression on Twitter

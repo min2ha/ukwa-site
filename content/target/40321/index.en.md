@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Simmons & Simmons Elexica: Brexit
-
 Simmons & Simmons have undertaken comprehensive analysis of the potential legal consequences of the UK exiting the EU and have developed this microsite to help businesses understand the possible legal implications of a Brexit

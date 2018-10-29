@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Girvan Traditional Folk Festival
-
 Site of an annual tradtional festival of music, storytelling and verse located in Girvan South Ayrshire.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conservative Party Manifesto 2015
-
 Link from the Conservative Party Website

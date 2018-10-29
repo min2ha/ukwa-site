@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Liddesdale Parish Church on Facebook
-
 Site of a Church of Scotland parish church at Newcastleton, Scottish Borders.

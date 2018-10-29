@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# West Wales Youth Association League
-

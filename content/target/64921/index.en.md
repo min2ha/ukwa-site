@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Gowling WLG
-
 Gowling WLG has more than 1,400 legal professionals across offices in 18 cities worldwide and specialised expertise in countries around the globe.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Cubicgarden.com - The thoughts and ideas of a dyslexic designer/developer
-
 Blog run by Ian Forrester about IT. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Royal College of Psychiatrists: "Cyberbullying and its impact on young people’s emotional health and well-being"
-
 Bulletin on Cyberbullying and its impact on young people’s emotional health and well-being

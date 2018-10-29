@@ -10,6 +10,4 @@
   "start_date": "2015-09-12T10:00:00Z"
 }
 
-# Local Mod - Isle of Mull UK
-
 Mòd Ionadach na Dreòlluinn encourages the use and development of the Gaelic language and music through voice, choral, oral and instrumental competitions.

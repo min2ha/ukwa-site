@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Grace's Guide to British Industrial History
-
 Grace's Guide is the leading source of historical information on industry and manufacturing in Britain, containing information and images on early companies, their products and the people who designed and built them.

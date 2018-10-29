@@ -10,6 +10,4 @@
   "start_date": "2009-10-06T00:00:00Z"
 }
 
-# British Liver Trust
-
 The British Liver Trust is the national charity working to reduce the impact of liver disease in the UK through support , information and research 

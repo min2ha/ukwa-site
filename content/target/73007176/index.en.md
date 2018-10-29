@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Arnolfini
-
 Arnolfini is a centre for the contemporary arts, presenting work in the visual arts, performance, dance, film, music and events, accompanied by a programme of learning and participation activities. Five exhibition spaces, a theatre/cinema auditorium, Reading Room and Light/Dark Studios are housed in the Grade II listed, fully accessible building. The converted warehouse also contains an arts bookshops as well as a Café Bar serving local and seasonal produce. Arnolfini is a registered charity, core funded by Arts Council England and in receipt of regular funding from Bristol City Council.

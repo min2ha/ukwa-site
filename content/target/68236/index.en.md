@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Tristan da Cunha News
-
 Headlines for all the latest news from and about the Tristan da Cunha archipelago in the South Atlantic Ocean.

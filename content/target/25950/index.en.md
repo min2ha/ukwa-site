@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view of the press and Ed Miliband: it’s the Leveson factor too
-
 None

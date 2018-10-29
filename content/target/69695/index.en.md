@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bride's Bothwell
-
 Site of a Roman Catholic church in Scotland for the parish of St. Bride's, Bothwell, Lanarkshire.

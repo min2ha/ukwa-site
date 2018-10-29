@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Analysing the logic of a vote for the Labour party
-
 None

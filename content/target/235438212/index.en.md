@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Big UK Domain Data for the Arts and Humanities
-
 Website of research projects based on the UK Web Archive.

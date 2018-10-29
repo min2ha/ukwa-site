@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Addysg LLGC (@addysgllgc) on Twitter
-
 This is the Welsh language twitter feed for the National Library of Wales Education Service.

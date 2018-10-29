@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Liberal Democrats were behind Nicola Sturgeon memo leak, says Cameron
-
 None

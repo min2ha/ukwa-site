@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leek Rugby Club (@LeekRugbyClub)
-
 The official Twitter account of Leek Rugby Club.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Barbara's Muirhead on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of St. Barbara, Muirhead, Lanarkshire.

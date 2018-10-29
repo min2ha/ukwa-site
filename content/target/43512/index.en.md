@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# gair rhydd, Cardiff University Student Newspaper: How Brexit could affect universities and students
-
 An article in the student newspaper of the University of Cardiff, explaining the cost of a Brexit vote upon British universities, their funding and their accessibility to students.

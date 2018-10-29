@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Engaging Networks: Write to your candidates about child poverty in London
-
 Engaging Networks is a software platform for charities.This is a letter writing template from the The London Child Poverty Alliance.

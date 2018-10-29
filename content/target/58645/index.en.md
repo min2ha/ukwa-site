@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Machynlleth Today
-
 Machynlleth Today is the Machynlleth and Llanidloes edition of the Cambrian News published in Aberystwyth.

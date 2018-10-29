@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lindsay McCallum on Facebook
-
 This is the Facebook page of Lindsay McCallum, the Conservative Party candidate for Ross, Skye and Lochaber in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# People's Assembly, The 
-
 The assembly will provide a national forum for anti-austerity views which, while increasingly popular, are barely represented in parliament. 

@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Bioacoustics Journal - the International Journal of Animal Sound and its Recording
-
 None

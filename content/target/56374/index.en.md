@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# India Dance Wales
-
 India Dance Wales is a professional Indian Dance company established in 1983 specialising in the classical dance form of Bharata Natyam.

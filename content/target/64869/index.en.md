@@ -10,6 +10,4 @@
   "start_date": "2018-04-27T09:00:00Z"
 }
 
-# Capital XTRA
-
 It is a radio station that exclusively broadcasts Urban, Hip Hop and R'n'B music.

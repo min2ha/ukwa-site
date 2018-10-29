@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Post Viral Fatigue
-
 Personal site documenting the experience of recovering from Post Viral Fatigue

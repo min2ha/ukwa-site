@@ -10,5 +10,3 @@
   "start_date": "2005-08-12T00:00:00Z"
 }
 
-# S.W. Archibald & his travelling show
-

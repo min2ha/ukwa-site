@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North East Lincolnshire care Trust Plus
-
 None

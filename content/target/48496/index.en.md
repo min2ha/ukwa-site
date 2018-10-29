@@ -11,5 +11,3 @@
   "subject": "Political Action and Communication"
 }
 
-# Empty Cages Collective: Organising & action against the prison industrial complex - Wrexham
-

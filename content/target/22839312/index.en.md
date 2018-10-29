@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Travel Insurance Guide
-
 None

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Seamus Cullen’s Personal Web Site
-
 FEATURING LOCAL HISTORY FROM NORTH KILDARE

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# After a campaign scarred by bigotry, it’s become OK to be racist in Britain
-
 A discussion on the rise of racism since the EU Referendum result.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Saint Padarn, Llanbadarn Fawr
-

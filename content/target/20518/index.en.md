@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guaridan, The: Election 2015: the polls are moving - 'the overtaking' is upon us
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Renewable UK: General Election manifesto
-
 RenewableUK - The voice of wind and marine energy is a not-for-profit renewable energy trade association. Their vision is for renewable energy to play a leading role in powering the UK.

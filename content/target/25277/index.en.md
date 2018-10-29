@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Prime Minister's pledge to Express readers: Only the Tories can give you what you want 
-
 None

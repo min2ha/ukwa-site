@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# David Linden (@DavidLinden) on Twitter
-
 Twitter profile of David Linden, Scottish National Party candidate for Glasgow East in the 2017 general election.

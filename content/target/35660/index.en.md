@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Hannah Blythyn (Labour candidate for Delyn)
-
 Hannah Blythyn is the Labour candidate for Delyn at the 2016 National Assembly Elections.

@@ -10,7 +10,5 @@
   "start_date": "2015-09-21T10:00:00Z"
 }
 
-# Environment Wales
-
 Environment Wales contribute to sustainable development by supporting and encouraging voluntary action to protect and improve the environment.
 Environment Wales is funded by the Welsh Government. The core partners that make up the initiative are Keep Wales Tidy, The National Trust, Wildlife Trusts Wales, WCVA, Groundwork in Wales and The Woodland Trust. 

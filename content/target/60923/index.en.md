@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# VegClub.uk
-
 An online enthusiast community forum concerned with growing fruit and vegetables. Discusses vegetable growing, fruit growing, raised beds & containers, greenhouses and polytunnels, allotments and various other related topics.

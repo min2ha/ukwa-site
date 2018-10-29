@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Young Stonewall: Gender Identity
-
 A Stonewall Youth page with information about gender identity for young people.

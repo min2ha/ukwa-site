@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Welsh Retail Consortium: A Vision for Welsh Retail: Investment, Jobs, Growth - ahead of the 2016 elections to the National Assembly of Wales
-

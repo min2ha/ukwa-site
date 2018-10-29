@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Llyfrgell Gen Cymru (@LLGCymru) on Twitter 
-
 This is the official Welsh language feed for the National Library of Wales.  

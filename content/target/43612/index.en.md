@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Katie Hopkins (@KTHopkins) on Twitter
-
 Katie Hopkins on Twitter

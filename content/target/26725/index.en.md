@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News : Norman Lamb confirms Lib Dem leadership bid
-
 None

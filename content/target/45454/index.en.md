@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guaridan, The: UkIP's new leader says she counts Vladimir Putin as a political hero
-
 Diane James tells BBC1’s Sunday Politics she places the Russian president in her top three alongside Thatcher and Churchill.

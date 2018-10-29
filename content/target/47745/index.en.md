@@ -10,6 +10,4 @@
   "start_date": "2016-12-13T09:00:00Z"
 }
 
-# North Wales Hydro Power
-
 North Wales Hydro Power are developers of hydroelectric schemes in North and Mid Wales.

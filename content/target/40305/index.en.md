@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Friends of Swansea Slip Bridge 
-
 The Slip Bridge was built  in 1915 and and dismanted in 2006. The Friends of Swansea Slip Bridge are working towards its reinstatement.

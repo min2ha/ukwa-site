@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Newark and Sherwood District Council
-
 The Newark and Sherwood District Council website gives access to information on council services, news, consultations, council budget and finance, and committee papers and minutes

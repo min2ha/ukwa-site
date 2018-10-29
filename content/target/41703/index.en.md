@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Lawyers in for Britain: The UK and the UK: benefits, misconceptions and alternatives
-

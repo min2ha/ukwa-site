@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Cardiff Union TV (CUTV)
-
 Cardiff Union TV (CUTV) is affiliated to the Students Union of Cardiff University and creating online media and broadcast live events for Cardiff University students.

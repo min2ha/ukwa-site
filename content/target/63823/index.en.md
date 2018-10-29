@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# SomeWomen.UK
-
 Some Women is part of Manchester’s ‘Centenary City‘ programme funded by the U.K. government. Co-ordinated by the Pankhurst Centre, the home of the suffragette movement, the project documents Manchester’s response to the centenary of (some) women getting the right to vote, and connects the history of the suffragettes with contemporary activism and campaigns for gender equality.  

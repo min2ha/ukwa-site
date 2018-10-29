@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Legal Cheek: Grayling Magna Carta party latest — win raffle to open a bridge
-

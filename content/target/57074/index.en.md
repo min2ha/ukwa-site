@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tory MPs issue Brexit transition warning
-
 In a letter seen by the BBC, Eurosceptic Tory MPs warned ministers not to use a post-Brexit transitional period to stay in the EU "by stealth".

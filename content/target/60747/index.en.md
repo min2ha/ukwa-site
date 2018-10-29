@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Mary the Virgin Brecon, The Parish Church of Brecon
-

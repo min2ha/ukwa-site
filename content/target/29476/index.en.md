@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Government's Dialogue
-
 The Scottish Government's Dialogue app, a service which structures online discussion of policy.

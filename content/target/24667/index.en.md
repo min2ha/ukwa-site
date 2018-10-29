@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Simon Saggers (@simonsaggers) on Twitter (Green Party candidate for South Cambridgeshire)
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ongar RFC (@OngarRugby) on Twitter
-
 The official Twitter account of Ongar Rugby Club.

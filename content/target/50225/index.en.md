@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aid to the Church in Need
-
 Aid to the Church in Need is a Pontifical Foundation of the Catholic Church, supporting the Catholic faithful and other Christians where they are persecuted, oppressed or in pastoral need.

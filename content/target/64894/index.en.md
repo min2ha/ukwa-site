@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Committee of Public Accounts: Exiting the European Union: The Department for Business, Energy and Industrial Strategy
-
 The Public Accounts Committee report finds that despite the scale of the Brexit task facing the Department for Business, Energy and Industrial Strategy and its significant domestic policy agenda, the Department has made virtually no attempt to re-order its priorities.
 

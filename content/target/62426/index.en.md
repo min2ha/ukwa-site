@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Concord College
-
 Concord College is an independent co-educational international day/boarding school in Shropshire, England situated in the grounds of Acton Burnell Castle. The college admits students aged between 12 and 19; the majority of whom come from overseas.

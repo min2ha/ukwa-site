@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# B44 Blog, The
-

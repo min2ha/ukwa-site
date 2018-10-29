@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scotland In Union
-
 Scotland In Union is an organisation which supports Scotland remaining in the UK.

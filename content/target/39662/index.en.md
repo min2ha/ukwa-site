@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Shetland Heritage Association
-
 Site of a group organised in Shetland to provide central advocacy for the volutray heritage individuals and groups throughout the islands that make up Shetland, as well as providing information about the memberships and their activities.

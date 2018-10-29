@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford University Centre for Socio-Legal Studies Podcasts: Can The Referendum Be Democratic? Reflections On The Brexit Process
-
 Podcast of a lecture by Stephen Tierney, Professor of Constitutional Theory, University of Edinburgh, who discusses the circumstances surrounding the forthcoming referendum on the United Kingdom’s membership of the European Union.

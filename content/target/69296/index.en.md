@@ -10,6 +10,4 @@
   "start_date": "2018-08-15T09:00:00Z"
 }
 
-# Centralbeltshuffle | Notes from a Central Belt commuter
-
 A blog recounting stories of travels between Glasgow, Edinburgh and Stirling on public transport.

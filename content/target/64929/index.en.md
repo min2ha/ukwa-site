@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian: Support grows for cross-party plans to prevent ‘no deal’ Brexit 
-
 A group of MPs and peers has been carefully crafting amendments to the EU (Withdrawal) Bill that will hand parliament guaranteed powers to soften any deal and send the government back to the negotiating table. Tory sources already think there is enough support in the Commons for the plan, which they believe would end the threat of a “no deal” outcome. The move is being described by senior figures as one of the most significant amendments of the Brexit process. 

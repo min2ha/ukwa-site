@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Otley Rugby Club (@OtleyRugby) on Twitter
-
 The official Twitter account of Otley Rugby Union Football Club.

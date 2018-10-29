@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Llio Rhydderch
-
 Llio Rhydderch is a Welsh harp player from Anglesey and recognised as the foremost and most innovative and influential exponent of the Welsh Triple Harp today.

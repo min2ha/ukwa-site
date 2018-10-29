@@ -10,5 +10,3 @@
   "start_date": "2010-09-10T00:00:00Z"
 }
 
-# Green Party Trade Union Group
-

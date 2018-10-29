@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Imagine Watford
-
 outdoor arts festival in Watford with outdoor performances for the whole family

@@ -10,6 +10,4 @@
   "start_date": "2016-09-20T10:00:00Z"
 }
 
-# Catrin Collier
-
 Catrin Collier is a novelist, short story writer and playwright from Pontypridd. 

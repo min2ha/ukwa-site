@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Deaf news: 'Fake' sign language interpreter mars Nelson Mandela service for Deaf people worldwide
-
 <p>Blog posting on The Limping Chicken website, including reaction on Twitter from deaf people and sign language interpreters.</p>

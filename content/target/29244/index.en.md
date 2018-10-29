@@ -10,6 +10,4 @@
   "start_date": "2015-08-20T10:00:00Z"
 }
 
-# Fowey Festival of Words and Music
-
 Festival organised by the du Maurier Festival Society

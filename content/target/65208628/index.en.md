@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Blitz Games
-
 Blitz Games Studios Limited was a video game developer located in Leamington Spa, United Kingdom best known for producing games based on franchises such as iCarly, SpongeBob SquarePants and Bratz.

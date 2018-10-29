@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Socialist Youth
-
 <p>The website of Scottish Socialist Youth, the youth wing of the Scottish Socialist Party.</p>

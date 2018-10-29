@@ -10,6 +10,4 @@
   "start_date": "2017-05-09T09:00:00Z"
 }
 
-# West of England Academic Health Science Network
-
 The West of England Academic Health Science Network (AHSN) is helping to deliver positive healthcare outcomes in the region and nationally by driving the development and adoption of new innovations and enabling patients to play an increasing role in their own care and of others. 

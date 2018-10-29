@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# Kilkeel Development Association (KDA)
-
 Kilkeel Development Association (KDA), was established in 1991 with the main aim of addressing the physical, social and economic decline of Kilkeel, brought about primarily by the decline in the town’s core industries of fishing, farming and construction. 

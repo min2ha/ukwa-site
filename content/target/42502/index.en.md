@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Practical Caravan 
-
 Founded in 1967, Practical Caravan is one of Britain's best selling caravan magazine. Since 2001, practicalcaravan.com has been the online home of Practical Caravan magazine. 

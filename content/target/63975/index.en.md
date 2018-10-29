@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Rutherglen West and Wardlawhill Church
-

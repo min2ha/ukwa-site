@@ -10,6 +10,4 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# yonda
-
 yonda is an innovative Chester based company that specialises in aerial video and photography using drones or Unmanned Aerial Vehicles (UAVs). Yonda produce video to make your business look great and provide a low cost alternative to manned helicopters. 

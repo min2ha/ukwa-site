@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Immigration: the big issue that the left just can’t get right
-
 None

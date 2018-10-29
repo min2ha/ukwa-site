@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Froome
-
 Web page for Chris Froome, TeamSky leader and contender for TdF title in 2014

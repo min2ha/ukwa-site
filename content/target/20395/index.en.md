@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jim Hood on Twitter
-
 The twitter profile of Jim Hood, Scottish Labour Parliamentary Candidate for Lanark & Hamilton East.

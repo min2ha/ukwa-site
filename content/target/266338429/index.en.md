@@ -11,7 +11,5 @@
   "subject": "Blogs"
 }
 
-# Lynne Rees, Hungry Writer
-
 This is the archive of the hungry writer blog, written by Welsh author, Lynne Rees, between the Autumn of 2010 and Spring 2017. 
 

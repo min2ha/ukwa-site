@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# British Medical Journal: Zika virus
-
 Main British Medical Journal hub page on the Zika virus

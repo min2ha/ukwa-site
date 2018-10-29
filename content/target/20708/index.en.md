@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eilidh Whiteford on Twitter
-
 Twitter profile of Eilidh Whiteford, Scottish National Party candidate for Banff and Buchan in the 2017 general election.

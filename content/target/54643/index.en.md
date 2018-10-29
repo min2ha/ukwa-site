@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Centre for Economics and Business Research
-
 For 20 years the Centre for Economics and Business Research (Cebr) has supplied independent economic forecasting and analysis to hundreds of private firms and public organisations.

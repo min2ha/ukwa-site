@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish National Party: Submission to Smith Commission 10 October 2014
-
 <p>Statement of the SNP to accompany their submission to the Smith Commission on the further devolution of powers to the Scottish Government.</p>

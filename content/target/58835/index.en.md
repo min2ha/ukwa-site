@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Children's Commissioner: Letter from Anne Longfield to Simon Stevens, Chief Executive of NHS England
-
 Website for the Children's Commissioner for England 

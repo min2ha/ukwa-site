@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Anna Lewis artist design maker
-
 Anna Lewis is an 'artist and designer maker exploring ideas through the mixture of jewellery, fashion, photography and film'. She is also a lecturer at UWTSD Swansea.

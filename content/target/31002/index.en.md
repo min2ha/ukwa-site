@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Coisir Sgir a'Bhac on Facebook
-
 The Facebook page of Coisir Sgir a 'Bhac, based in the district of Back, on the Isle of Lewis.

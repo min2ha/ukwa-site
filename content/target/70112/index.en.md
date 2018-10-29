@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Love Vegfest UK
-
 Organisers of the UK's biggest vegan events including festivals in Brighton, Bristol and London

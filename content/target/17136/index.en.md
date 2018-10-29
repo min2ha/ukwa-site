@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: David Cameron says he wants TV debates and his rivals are 'running away'
-

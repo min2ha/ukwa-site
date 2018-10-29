@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: 'We will not sit down with Nicola Sturgeon', says Ed Balls 
-
 None

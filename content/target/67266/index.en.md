@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Tory MP Phillip Lee is cheered by Remainers as he compares Brexit to the DEATH PENALTY in the Commons after betraying his friend Theresa May by quitting government just HOURS before crucial EU Bill votes
-

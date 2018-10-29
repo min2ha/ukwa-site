@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Victoria Percival (Green Party candidate for East Lincolnshire)
-
 Victoria Percival stood as Green Party candidate for Boston and Skegness at the 2017 general election but was not successful.

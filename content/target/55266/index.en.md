@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Soundlands
-
 Soundlands promotes sound art for the natural and built environment. One of its projects, Bangor Sound City, aim is to make positive contributions to Bangor and its environs through the sound arts. 

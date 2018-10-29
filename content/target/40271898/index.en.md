@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Reckless (UKIP)
-
 Mark Reckless stood as UKIP candidate for Rochester & Strood at the 2015 General Election but was not elected.

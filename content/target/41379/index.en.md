@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stokenham Parish Council
-
 The Parish of Stokenham, bounded by the black line on the map, covers the whole of the southern half of Start Bay, from Slapton Sands to Start Point and on to Lannacombe Beach. It encompasses the villages of Torcross, Beesands, Hallsands, Kellaton, Kernborough, Dunstone, Beeson and Chillington, as well as Stokenham itself, covers an area of some 20.6 square kilometres, and has a population of approximately 2,000. 

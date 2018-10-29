@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BBC Sport: Rugby Union
-
 The Rugby Union sub section of the BBC Sport website.

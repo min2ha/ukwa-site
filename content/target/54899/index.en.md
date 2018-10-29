@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Bernadine Evaristo - writer
-
 British writer Bernardine Evaristo is the award-winning author of seven books and numerous other published and produced works that span the genres of novels, poetry, verse fiction, short fiction, essays, literary criticism, and radio and theatre drama. She is also an editor of anthologies and special issues of magazines. Her writing and projects are based around her interest in the African diaspora. She is Professor of Creative Writing at Brunel University London.

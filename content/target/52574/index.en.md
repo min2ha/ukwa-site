@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Whitbread plc
-
 Whitbread plc is the UK’s largest hotel, restaurant and coffee shop operator.

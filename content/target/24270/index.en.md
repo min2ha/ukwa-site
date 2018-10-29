@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Balls dismisses Labour's 'no money left' note as 'silly'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Notes from North Britain
-
 The blog of Adam Tomkins, John Millar Professor of Public Law at the University of Glasgow and Conservative MSP for Glasgow from May 2016.

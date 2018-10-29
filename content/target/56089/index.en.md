@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Ubele: working inter-generationally to secure the future of our community
-
 Ubele (derived from the Swahili mbele meaning The Future) is an inter-generational community building initiative, formed in May 2011, which focuses on the African Diaspora community in the UK. It aims to increase our community’s capacity to lead, community build and  create innovative and entrepreneurial social responses to some of our most stuck social issues.

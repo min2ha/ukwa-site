@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Aberystwyth Cycle Festival
-
 'Aber Cycle Fest' is a 10 day festival of cycling in Aberystwyth held during the last Bank Holiday of May each year. 

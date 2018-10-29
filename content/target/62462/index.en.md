@@ -10,6 +10,4 @@
   "start_date": "2018-03-10T09:00:00Z"
 }
 
-# Lodge Elgin and Bruce No. 1077
-
 Site of a masonic lodge located in Limekilns, Fife and affiliated with the Grand Lodge of Scotland.

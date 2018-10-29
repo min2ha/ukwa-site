@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Judicial Complaints Reviewer
-
 The Judicial Complaints Reviewer (JCR) was established under The Judiciary and Courts (Scotland) Act 2008 to review the handling of complaints investigations by the Judicial Office for Scotland into members of the judiciary, to ensure that they have been dealt with in accordance with the Rules.

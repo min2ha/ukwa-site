@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Aladdin 4 Caerphilly on Facebook
-
 Liberal Democrats PPC for Caerphilly 

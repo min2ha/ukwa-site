@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Coventry Socialist Party: Dave Nellist
-
 Dave Nellist is a member of the Socialist Party. He was a Labour MP (1983-1992), SP city councillor in Coventry (1998-2012), now national Chair of TUSC.

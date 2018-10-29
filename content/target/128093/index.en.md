@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# National Council for the Conservation of Plants and Gardens (NCCPG)
-
 National Council for the Conservation of Plants and Gardens (NCCPG) is a garden plant conservation charity, bringing together the talents of botanists, horticulturalists and conservationists and the dedication of keen amateur and professional gardeners. Through the National Plant Collections and the Threatened Plants Project, they encourage the conservation of cultivated plants in the British Isles.

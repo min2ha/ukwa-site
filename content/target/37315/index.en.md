@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: EU referendum: Queen neutral, palace says after Sun claim
-

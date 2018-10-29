@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# City Wire: Angus Tulloch speaks up for Scottish independence
-
 <p>Veteran Asia Pacific fund manager is among Scottish financiers arguing for a more balanced debate on Scotland's referendum</p>

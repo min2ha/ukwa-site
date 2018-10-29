@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tories musn’t turn their backs as more children fall into poverty
-
 None

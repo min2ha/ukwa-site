@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit anxiety taking its toll on financial services sector, CBI finds
-

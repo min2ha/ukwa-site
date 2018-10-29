@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lancashire Care NHS Foundation Trust
-
 None

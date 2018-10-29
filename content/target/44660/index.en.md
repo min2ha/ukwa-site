@@ -10,6 +10,4 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# Christopher Fischer
-
 Christoph Fischer is an Independent writer from Germany, living in Wales.

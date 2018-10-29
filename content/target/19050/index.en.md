@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Express: Original surviving copies of historic Magna Carta to be brought together for first time
-

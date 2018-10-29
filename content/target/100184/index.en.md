@@ -10,6 +10,4 @@
   "start_date": "2005-02-16T00:00:00Z"
 }
 
-# ACCAC Awdurdod Cymwysterau, Cwricwlwm ac Asesu Cymru - Qualifications, Curriculum & Assessment Authority for Wales
-
 Website has joined the Assembly website.

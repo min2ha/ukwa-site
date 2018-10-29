@@ -10,6 +10,4 @@
   "start_date": "2017-05-27T09:00:00Z"
 }
 
-# Archdiocese of Glasgow Arts Project
-
 Site of an arts organisation set up by the Catholic Archdiocese of Glasgow to engage with Christian faith through arts events taking place throughout the year.

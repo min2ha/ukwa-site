@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Gwent County Football Association
-

@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Pure Resourcing Solutions Ltd
-

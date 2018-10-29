@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - This is what I'll be studying this lunchtime....
-
 Ewan Morrison's Facebook post of the 28th of May 2014.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Left Unity (@LeftUnityUK) on Twitter
-
 Left Unity is a left-wing political party in the United Kingdom, which was founded in 2013 when film director Ken Loach appealed for a new party to replace the Labour Party (which, he claimed, failed to oppose austerity and had shifted towards neoliberalism)

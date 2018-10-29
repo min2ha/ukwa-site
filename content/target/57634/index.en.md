@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Police UK Forum
-
 An online enthusiast community concerned with serious discussion on everything UK police/crime related that is happening in the news. Discusses UK Police / Crime news, police careers & training, study & personal development, kit & equipment and various other related topics.

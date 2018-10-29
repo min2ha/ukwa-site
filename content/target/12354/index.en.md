@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hannah England (hannengland) on Twitter
-
 Twitter profile of Hannah England, member of Team England who competed in the 1500 metres at the Glasgow 2014 Commonwealth Games.

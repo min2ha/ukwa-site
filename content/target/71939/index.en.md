@@ -10,8 +10,6 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# VQday (Vocational Qualification)
-
 VQ Day Wales celebrates vocational qualifications and the achievements of practical learners in Wales. VQ Day is organised jointly by the Welsh Government, the National
 Training Federation for Wales, Qualifications Wales and ColegauCymru /
 CollegesWales. 

@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russian Children's World
-
 A community platform of events for Russian-speaking children and teenagers, information about Russian-language education, and youth organizations.

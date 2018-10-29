@@ -10,6 +10,4 @@
   "start_date": "2016-03-03T09:00:00Z"
 }
 
-# Plant yn Sir Gar | Children in Carmarthenshire (AMDRO)
-
 Carmarthenshire County Council school service website. The service also hosts websites of all primary, secondary and special schools in Carmarthenshire.

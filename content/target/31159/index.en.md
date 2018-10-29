@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital 60
-
 Archived version of the website Digital 60 containing information about 60th anniversary of creating the BABY machine at the University of Manchester.

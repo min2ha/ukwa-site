@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Just Eat plc
-
 Just Eat plc operate a leading global marketplace for online food delivery, providing customers with an easy and secure way to order and pay for food from their Restaurant Partners.

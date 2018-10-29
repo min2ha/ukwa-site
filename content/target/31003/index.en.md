@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Còisir Sgire Phort Rìgh / Portree District Gaelic Choir
-
 The website of Còisir Sgìre Phort Rìgh, the Portree District Gaelic Choir; their members come from the Isle of Skye and further afield.

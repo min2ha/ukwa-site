@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Primelocation
-
 Primelocation is a UK property portal owned by Zoopla that lists upmarket properties in the UK and abroad. It was founded in 2001 by a group of 200 UK estate agents. It accepts property listings only from estate agents, letting agents and property developers. Its main rival is Rightmove.

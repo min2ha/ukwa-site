@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Marc Fothergill on Facebook (Green Party candidate for Dwyfor Meirionnydd)
-

@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# National Piping Centre, The on Facebook
-
 The NPC exists as a national and international centre of excellence for the Great Highland Bagpipes and its music. This is its official Facebook page.

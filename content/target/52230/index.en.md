@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Merthyr Tydfil Association Football League
-

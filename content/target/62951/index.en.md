@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 19th March 2018: European Union (Withdrawal) Bill
-
 The Lords, sitting as a committee of the whole House, continues to debate amendments to the European Union (Withdrawal) Bill, focusing on local government consultation, mutual recognition agreements relating to public health,  holding a second referendum on revocation of the UK's withdrawal in the event of no satisfactory agreement on Brexit being reached, implications of Brexit for recreational boating, UK/EU collaboration on maintenance of public health, maintenance of the Common Travel Area between the UK and the Irish Republic, implementation of agreements reached with the EU on nuclear research and development, and imposition of restrictions on the Government's regulation making powers

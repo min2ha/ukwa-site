@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Margaret Curran MP (Margaret_Curran) on Twitter
-
 <p>The twitter profile of Margaret Curran, Labour's Shadow Secretary of State for Scotland and Member of Parliament for Glasgow East.</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# Newport Folk Club
-
 Newport folk Club is held at Newport Fugitives Athletic Club in Rogerstone.

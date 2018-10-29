@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Real Independent News and Film (RINF): Major Brexit court challenge could declare Article 50 plans undemocratic, illegal
-
 Reports that the Times has seen a draft legal argument which accuses the government of acting unconstitutionally by over-extending the use of royal prerogative to trigger TEU Article 50 without Parliamentary consent.

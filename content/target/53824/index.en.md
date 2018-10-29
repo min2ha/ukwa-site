@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mark Keir (@markgrn4Hillgdn) on Twitter (Green Party Politician)
-
 Mark keir stood as Green Party candidate for Uxbridge and South Ruislip at the 2017 General Election but was not elected.

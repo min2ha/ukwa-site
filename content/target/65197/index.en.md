@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Centre for Stress Management
-
 The Centre for Stress Management website. Information about our recognised & approved training courses.

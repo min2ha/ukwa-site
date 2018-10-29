@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Sussex County Council 
-
 None

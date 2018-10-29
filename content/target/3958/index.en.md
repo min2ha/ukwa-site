@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Rotherham Advertiser
-
 None

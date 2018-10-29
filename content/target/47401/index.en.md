@@ -10,5 +10,3 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Undeb Myfyrwyr Drindod Dewi Sant | Trinity Saint David's Student Union
-

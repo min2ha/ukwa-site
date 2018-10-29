@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge St. Molios No. 774
-
 Site of a masonic lodge located in Lamlash, Isle of Arran, Argyll & Bute and affiliated with the Grand Lodge of Scotland.

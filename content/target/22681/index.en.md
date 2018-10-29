@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Beard (@Simon_Beard) on Twitter (Liberal Democrats candidate for Dartford)
-
 Simon Beard stood as Liberal Democrats candidate for Dartford at the 2015 General Election but was not elected. 

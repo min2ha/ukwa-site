@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Vegan Punk, The
-
 The Vegan Punk is a vegan and animal rights blogger and activist based in Leeds, the UK. "I support, promote, and regularly take part in vegan and animal rights activism."

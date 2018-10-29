@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ardrossan Presbytery
-
 Website for the Presbytery of Androssan. The Presbytery is responsible for 28 congregations in the Cunninghame district of North Ayrshire. 

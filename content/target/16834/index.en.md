@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bite the Ballot
-
 Bite the Ballot is party neutral, not-for-profit community interest company. They work with young people helping them making informed decisions at the ballot box, encouraging them to take power and become the champions that will change the face of British politics.

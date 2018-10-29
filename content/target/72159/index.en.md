@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bield at Blackruthven
-
 Site of a Christian retreat belonging to the Scottish Episcopal denomination and located in Perthshire.

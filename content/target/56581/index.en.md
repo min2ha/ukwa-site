@@ -10,7 +10,5 @@
   "start_date": "2017-08-15T09:00:00Z"
 }
 
-# Working Together in Cwm Taf
-
 Working Together in Cwm Taf provides news on partnerships, engagement and influencing for the third sector in RCT and Merthyr Tydfil. The site is the responsibility of Voluntary Action Merthyr Tydfil (VAMT) and Interlink, the voluntary organisation in Rhondda Cynon Taf.
 

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# 24MATINS: Stephen Hawking
-
 24matins.uk, a general media service operated by ADN CONTENTS, presents news information in dedicated categories such as sport, cinema, music, people and technology in a simple, efficient and effective manner. 24matins.uk also provides more general type news, such as international stories and information from the worlds of politics, the environment and the economy.

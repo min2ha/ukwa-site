@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Southall on Facebook (Green Party for Clacton)
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# London Borough of Newham Olympics Site
-

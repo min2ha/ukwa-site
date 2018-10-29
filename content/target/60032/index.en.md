@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FootyCon (@FootyCon) on Twitter
-
 The International Football History Conference official Twitter account.

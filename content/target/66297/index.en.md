@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Vogue: Why You Should Care About Irish Abortion Law
-
 Opinion article from British Vogue online

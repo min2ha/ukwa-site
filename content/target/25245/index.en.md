@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Whoops! Now Miliband's candidates forget the deficit as poll reveals what would-be MPs think are the big issues facing UK
-
 None

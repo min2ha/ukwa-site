@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Brian McGinley (@mcginleyforayr) on Twitter
-
 Twitter profile of Brian McGinley, the Scottish Labour candidate for Ayr in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Beer In The Evening
-
 Online pub, bar and club guide featuring user generated content.

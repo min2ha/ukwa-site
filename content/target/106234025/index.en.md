@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Your Space Serviced Apartments
-

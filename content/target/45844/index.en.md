@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Write Idea Festival, The
-
 The festival is an integral part of the reading offer of Idea Store, the innovative library, learning and information service created by Tower Hamlets Council. All the events take place over a single weekend (11-13 November) and are based in one venue, Idea Store Whitechapel. Brick Lane Bookshop will be supplying books for sale throughout the festival.

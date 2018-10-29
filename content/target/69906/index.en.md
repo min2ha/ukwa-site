@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Columbkille's Church Rutherglen
-
 Site of a Scottish Roman Catholic parish church located in Rutherglen, Lanarkshire.

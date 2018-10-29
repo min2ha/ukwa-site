@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Steel Valley Project
-
 The Steel Valley Project has been enhancing Stocksbridge, Bradfield and the Upper Don area since forming in 1988. We have a long history of delivering environmental, community and countryside projects with a range of partners, consistently working to improve the environment in our operational area.

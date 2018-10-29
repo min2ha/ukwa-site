@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Catrin Brock (@greencatrin) on Twitter
-
 Green Party candidate for the constituency of Neath in the 2015 General Election.

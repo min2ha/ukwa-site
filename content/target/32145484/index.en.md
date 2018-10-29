@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# Dogon Music Worldwide (DMW)
-
 None

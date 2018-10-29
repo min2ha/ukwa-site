@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegrapth, The: EU referendum: Business advisers to David Cameron and major UK companies decline to sign pro-EU letter 
-

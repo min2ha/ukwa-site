@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Bodleian Libraries: One hundred years of women's suffrage: how far have we come?
-
 Bodleian Libraries event to celebrate International Women's Day, 2018.

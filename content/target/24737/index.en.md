@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Rod Abouharb (Labour Party candidiate for Kensington) (@kensingtonrod) on Twitter
-

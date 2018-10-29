@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Chinese Scooter Club Forum
-
 An online enthusiast forum concerned with Chinese scooters. The forum discusses engines, body and electrical workshop, tuning and modification, insurance, scooters for sale and various other related topics.

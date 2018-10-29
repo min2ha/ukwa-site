@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Welsh Ploughing Association
-
 <p>The Welsh Ploughing Association was founded by the Radnor Valley Ploughing Society in 1958.</p>

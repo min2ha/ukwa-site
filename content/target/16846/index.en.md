@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Dogs Trust: Our manifesto for 2015
-
 Founded in 1891, Dogs Trust is one of the largest dog welfare charities in the UK. Their mission is to bring about the day when all dogs can enjoy a happy life, free from the threat of unnecessary destruction.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Archerfield Walled Garden
-
 Site of a restaurant, shop and microbrewery located in Dirleton, East Lothian.

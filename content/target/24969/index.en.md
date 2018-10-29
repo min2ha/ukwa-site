@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Historic election night sees record number of women win seats in Parliament - with almost a third of MPs now female
-
 None

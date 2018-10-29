@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: Football's first ever rules book displayed at British Library alongside Magna Carta and works of Shakespeare
-

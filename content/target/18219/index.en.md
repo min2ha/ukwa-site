@@ -10,6 +10,4 @@
   "start_date": "2015-03-18T09:00:00Z"
 }
 
-# Hannah Lowe - Poetry
-
 Hannah Lowe is a writer living in London. She is an author of the poetry collection 'Chick', the chapbooks 'R x' and 'Ormonde' and the family memoir 'Long Time, No See'.

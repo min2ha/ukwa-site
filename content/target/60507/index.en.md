@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Landsker Singers
-
 Landsker Singers are a mixed voice choir from Pembrokeshire established in 1990.

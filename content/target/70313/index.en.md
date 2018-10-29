@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# Alliance of Suicide Prevention Charities, The (TASC)
-
 The Alliance of Suicide Prevention Charities (TASC) is an alliance of the leading charities dealing with suicide prevention and mental health issues.

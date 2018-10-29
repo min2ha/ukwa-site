@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Southern Ocean, The  
-
 A personal website that contains photos and provides information on the Southern Oceans natural history. It explores some of the threats to this unique environment, together with the steps being taken to protect the Antarctic region.

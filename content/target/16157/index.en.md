@@ -10,6 +10,4 @@
   "start_date": "2015-01-27T00:00:00Z"
 }
 
-# Institute of Contemporary Arts (ICA), The
-
 <p>The Institute of Contemporary Arts (ICA) supports radical art and culture. Through a programme of exhibitions, films, events, talks and debates, the ICA challenges perceived notions and stimulates debate, experimentation, creativity and exchange with visitors. It was founded in 1946 by a group of artists, collectors and critics including Roland Penrose, Peter Watson and Herbert Read.</p>

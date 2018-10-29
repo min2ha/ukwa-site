@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Parent Zone: Mental Health in the Digital Age
-
 Parent Zone: article on new report on internet and young people's mental health

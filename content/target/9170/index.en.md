@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Labour Voters for Scottish Independence on Facebook
-
 Facebook group for followers of the Labour party in favour of an Independent Scotland. 

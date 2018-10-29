@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hampshire Health and Wellbeing Board
-
 None

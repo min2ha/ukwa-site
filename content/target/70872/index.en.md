@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Mal Ryder
-
 Mal Ryder was born in Llanfrechfa, near Cwmbran who became a popular singer in Italy in the late 1960s, singing with his band Mal and the Primitives.

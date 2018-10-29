@@ -10,6 +10,4 @@
   "start_date": "2017-07-08T09:00:00Z"
 }
 
-# Emily Blewitt
-
 Emily Blewitt is a poet from Carmarthen who has published poetry widely. Emily Blewitt’s debut collection of poetry, Her debut collection, 'Is Not A Rescue' was published by Seren Books. 

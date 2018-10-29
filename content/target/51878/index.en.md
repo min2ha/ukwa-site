@@ -10,6 +10,4 @@
   "start_date": "2017-04-11T09:00:00Z"
 }
 
-# Taconeando Scotland 
-
 Taconeando Scotland is a travel blog written by a woman from Seville who has been living and travelling in Scotland for two years. She aims to connect with a larger community of Spanish expatriates who are now living abroad, and to document Scottish culture. The blog features original photography of Scottish landmarks and landscapes. 

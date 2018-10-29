@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Helen's Langside
-
 Site of a Scottish Roman Catholic parish church located in Glasgow.

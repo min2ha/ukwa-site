@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Ahmadiyya Muslim Medical Association (AMMA)
-
 We work together to create a community for professional support, progress in medical research, run community initiatives to raise awareness and provide high-class healthcare to those in need at home and abroad. Please explore our website to read more about each of these.

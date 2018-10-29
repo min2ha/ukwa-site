@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Bailies of Bennachie
-
 Site of a conservation organisation set up to preserve Bennachie, maintain access to the hill, study its natural history, collect information about the site and promote public interest.

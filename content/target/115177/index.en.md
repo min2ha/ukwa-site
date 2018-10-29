@@ -10,6 +10,4 @@
   "start_date": "2006-02-20T00:00:00Z"
 }
 
-# Accelerando
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Leaving EU without deal would be no disaster, says thinktank
-

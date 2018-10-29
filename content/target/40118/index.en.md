@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Ken Barker on Facebook (Green Party candidate for Pontypridd)
-
 Ken Barker is the Green Party candidate for Pontypridd at the 2016 National Assembly Election. 

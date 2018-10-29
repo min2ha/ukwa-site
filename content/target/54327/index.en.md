@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nesta: What’s happening on Twitter following announcement of a snap #GE17 election?
-
 Uses the Political Futures Tracker to track the election hype in the hours after Prime Minister Theresa May made her election plans public

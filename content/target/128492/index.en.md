@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# United Nations Environment Programme World Conservation Monitoring Centre (UNEP-WCMC)
-
 None

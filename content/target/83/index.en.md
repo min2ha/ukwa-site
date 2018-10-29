@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barking, Havering and Redbridge University Hospitals NHS Trust
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC: Rio Paralympics 2016: Iranian Para-cyclist dies after crash
-
 An Iranian Para-cyclist died after a crash during the men's C4-5 road race at the Rio Paralympics.

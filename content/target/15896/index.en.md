@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Student Awards Agency For Scotland (SAAS)
-
 The Student Awards Agency For Scotland is an Agency of the Scottish Government which gives financial support to eligible students undertaking higher education in the UK.

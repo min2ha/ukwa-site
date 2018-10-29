@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS: Instagram 'ranked worst for mental health' in teen survey
-
 NHS News article regarding Instagram 'ranked worst for mental health' in teen survey

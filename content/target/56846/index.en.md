@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK seeks data transfer pact with EU
-
 The UK will seek "new arrangements" with the EU in order to allow for the continued free flow of personal data, according to a government paper. It argues the UK starts from "unprecedented" alignment with EU law, but acknowledges collaboration will be needed to protect British interests.
 

@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Arcade Cardiff 
-
 Arcade Cardiff is a artist run contemporary project space based in a shop unit in the Queens Arcade shopping centre and has been in existence since 2011.

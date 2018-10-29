@@ -10,5 +10,3 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Herald Scotland: Marathon man Callum Hawkins makes it to the Olympics with Tsegai Tewolde as brother Derek runs Rio qualifying time
-

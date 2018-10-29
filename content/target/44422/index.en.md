@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph,The: EU referendum: The claims that won it for Brexit, fact checked
-
 An article commenting on the claims made by the Brexit campaigners that steered people towards voting 'leave'.

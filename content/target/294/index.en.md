@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Fylde and Wyre CCG
-
 None

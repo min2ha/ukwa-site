@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Silksworth and Tunstall in the Great War
-
 None

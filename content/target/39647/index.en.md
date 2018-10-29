@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Chic Brodie for South Scotland on Facebook
-
 Facebook page of Chic Brodie, Scottish National Party (SNP) list candidate for South Scotland in the 2016 Scottish Parliamentary election.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-26T09:00:00Z"
 }
 
-# Newspaper Club (@newspaperclub) on Twitter
-
 The Newspaper's Club is a UK based printing company that helps people make and print their own newspapers. This is their official Twitter account.

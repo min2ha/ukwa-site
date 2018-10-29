@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Blak Sox (@BlaksoxSox) on Twitter
-
 Blaksox was formed on October 1st 2015, the first day of Black History Month in Britain.

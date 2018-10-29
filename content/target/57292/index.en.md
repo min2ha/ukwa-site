@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Valerie James Ceramic Sculpture
-
 Valerie James is a ceramic artist living in Llanfyrnach, Pembrokeshire.

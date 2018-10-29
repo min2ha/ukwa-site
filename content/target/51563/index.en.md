@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Independent, The: Northern Ireland ‘can rejoin EU after Brexit if it votes for reunification’
-
 Leaked ministerial letter - If Northern Ireland opts for reunification with republic it would be part of EU

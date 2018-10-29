@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 6th Feb. 2017: Informal European Council
-
 Prime Minister Theresa May gave a statement on issues discussed at the informal European Council in Malta: migration, America and Brexit.

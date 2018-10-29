@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig na Leargaidh Ghallda / Largs Gaelic Choir
-
 This is the site of Còisir Ghàidhlig na Leargaidh Ghallda, the Largs Gaelic Choir.

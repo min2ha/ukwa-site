@@ -10,5 +10,3 @@
   "start_date": "2015-03-24T09:00:00Z"
 }
 
-# Scottish Review of Books
-

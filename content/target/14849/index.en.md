@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Interesting article explores the future direction...:
-
 <p>Yes Scotland link to the New Left Project blog post: "Buying Time: After the Scottish Referendum" at 9.07am on the 23rd of September, 2014.</p>

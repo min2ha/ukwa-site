@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Major Ukip donor urges party's supporters to vote Conservative in unwinnable seats
-
 None

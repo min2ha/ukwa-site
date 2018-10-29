@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Centre for Business Research: The macro-economic impact of Brexit: using the CBR macro-economic model of the UK economy
-
 This working paper uses the new CBR macro-economic model of the UK economy to investigate possible futures following the referendum decision to leave the EU. Two scenarios are presented. 

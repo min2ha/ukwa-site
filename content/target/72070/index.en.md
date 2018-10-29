@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Quality Welsh Food Certification Ltd (QWFC)
-
 Quality Welsh Food Certification Ltd (QWFC) is a company established by cooperatives in Wales to operate as a certification body for schemes that aim to deliver quality in farm and food production. 

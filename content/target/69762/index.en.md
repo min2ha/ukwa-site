@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Cloud Appreciation Society
-
 An online community bringing together people who love the sky

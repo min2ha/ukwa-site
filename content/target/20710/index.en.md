@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scots Independent Newspaper on Facebook
-
 Facebook account for the Scots Independent, the only regularly produced publication that fully supports the cause of Independence. It is produced and distributed by volunteers. 

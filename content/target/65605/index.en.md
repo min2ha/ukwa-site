@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Student Hubs
-
 Student Hubs supports students to tackle social challenges, learn about issues and connect with each other.

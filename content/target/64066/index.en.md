@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Womens ActionNetwork (@Amnesty_WomenUK) on Twitter
-
 Human rights updates focusing on women, run by and for Amnesty members. We're volunteers, follow @amnestyUK for all Amnesty updates and actions

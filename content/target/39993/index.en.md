@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# All Glasgow Branches Scottish Socialist Party (SSP) on Facebook
-

@@ -10,6 +10,4 @@
   "start_date": "2016-06-27T10:00:00Z"
 }
 
-# Sheen Blackhall
-
 Website of the Scottish author Sheena Blackhall

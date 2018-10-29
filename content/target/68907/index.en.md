@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady Of Aberdeen Roman Catholic Church
-
 Site of a Roman Catholic church in Scotland for the parish in Kincorth, Aberdeen.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-30T09:00:00Z"
 }
 
-# Visit Midlothian
-
 Site of a tourist marketing and information service focussing on the county of Midlothian, Scotland.

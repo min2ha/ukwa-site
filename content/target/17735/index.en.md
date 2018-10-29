@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Ukip: The First 100 Days - Ofcom investigates C4s spoof documentary after over 6,500 complaints 
-
 None

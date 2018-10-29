@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Westmorland Gazette, The: LETTER: Brexit campaign has not come up with a coherent plan for the future
-
 An open-letter challenging the coherency of the Brexit plan should Britain leave the EU

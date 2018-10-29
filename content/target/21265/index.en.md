@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Lucas on Facebook
-
 Labour candidate for Wrexham.

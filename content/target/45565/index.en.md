@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gorsedd y Beirdd
-
 Gorsedd y Beirdd run National Eisteddfod of Wales ceremonies. They are an association made up of poets, writers, musicians, artists and other people who have made a distinguished contribution to the Welsh nation, the language, and its culture. 

@@ -10,6 +10,4 @@
   "start_date": "2015-01-21T00:00:00Z"
 }
 
-# Emily Berry
-
 <p>Official website of the poet Emily Berry.</p>

@@ -11,5 +11,3 @@
   "subject": "Cornwall"
 }
 
-# Superfast Cornwall
-

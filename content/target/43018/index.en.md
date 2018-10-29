@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Morrissey: Trump's response to Orlando terror attack is anti-gay and pro-gun
-
 Singer posts lengthy critique of the US presidential race, questioning CNN’s coverage and praising Bernie Sanders.

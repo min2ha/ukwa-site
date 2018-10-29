@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Clock Tower Theatre Company 
-
 Clock Tower is a Theatre Company based in Cardiff. 

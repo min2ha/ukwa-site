@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Robert Haines
-
 Robert Haines is a photographer and filmmaker from Merthyr Tydfil, Wales.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# MG ALBA on Facebook
-
 MG ALBA works in partnership with the BBC to broadcast gaelic language entertainment on BBC ALBA. This is their official Facebook page.

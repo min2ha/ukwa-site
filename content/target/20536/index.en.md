@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: How to solve the election debate fiasco: Cameron watches at home, Gogglebox-style
-

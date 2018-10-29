@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Mobile Uploads - Women for Independence
-
 <p>Yes Scotland post a message from Women for Independence at 7.32am on 22nd September, 2014.</p>

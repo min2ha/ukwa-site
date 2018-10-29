@@ -11,5 +11,3 @@
   "subject": "Governing the Police"
 }
 
-# Choose My PCC - Police and Crime Commissioner Candidates
-

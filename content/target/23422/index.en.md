@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Suzie Ferguson (@SuzieFerguson4MP) onTwitter, Independent candidate for Reading West
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# BT London 2012
-

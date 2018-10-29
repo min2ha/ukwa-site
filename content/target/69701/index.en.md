@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Joseph's and Saint Dominic's Catholic Parishes
-
 Site of two Scottish Roman Catholic parish churches, Saint Joseph's, Stepps and Saint Dominic's, Craigend, both Glasgow.

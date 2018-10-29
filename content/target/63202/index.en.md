@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Home Affairs Committee: UK-EU security cooperation after Brexit
-
 The Home Affairs Committee warns of serious legal, constitutional and political obstacles in the way of achieving continued close policing and security cooperation after Brexit. The report cautions that these issues need urgently to be resolved, or the UK's future policing and security capabilities will be seriously undermined.

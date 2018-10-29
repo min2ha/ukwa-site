@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Orford Museum WWI Exhibition, community and archive project
-
 Orford Museum's WWI project will build on existing archives and artefacts by researching both the war dead and the living, including how the local population managed throughout the war years.

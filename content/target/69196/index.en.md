@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Let's Dance International Frontiers
-
 bringing innovative dance from around the world to Leicester

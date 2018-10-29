@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Education Support Partnership: Teacher Wellbeing Manifesto 2017-2022
-
 Education Support Partnership prepared this Teacher Wellbeing Manifesto for 2017-2022 in response to alarming findings from their services, surveys and other ongoing research. This manifesto sets out five policies for the five-year Parliamentary term, which will significantly improve the wellbeing of teachers and the wider education workforce: something, which is proven to relate to student outcomes.
 

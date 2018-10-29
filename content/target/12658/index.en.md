@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Graeme Pearson MSP
-
 The website Greame Pearson, Scottish Labour Member of the Scottish Parliament for South Scotland.

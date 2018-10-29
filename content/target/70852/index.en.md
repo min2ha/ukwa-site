@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Blurrt
-
 Blurrt is a software platform that allows users to collect, listen, showcase, analyse and engage with their social audiences in real time. Blurrt analyse social media and have offices in London and Cardiff.

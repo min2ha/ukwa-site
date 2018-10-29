@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nicola Adams
-
 The website of boxer Nicola Adams, member of Team England for the Glasgow 2014 Commonwealth Games.

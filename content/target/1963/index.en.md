@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester North, Central and South CCGs: twitter
-
 None

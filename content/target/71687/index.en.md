@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: STAY OF EXECUTION Cabinet gives Theresa May’s troubled Chequers plan two weeks to make progress — or face a final demand to dump it
-
 The Tory top table ducked out of a confrontation with the PM over the Salzburg summit debacle during their weekly meeting on September 24th 2018, with no appetite to 'throw the PM under the bus' just six days before the start of the Tories’  conference

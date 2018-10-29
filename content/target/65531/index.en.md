@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Ayrshire Architectural Heritage Trust
-
 Site of a Scottish charity protecting, preservating and conserving the built and natural environment in the districts of North, East and South Ayrshire, through active involvement in the acquisition and restoration of buildings and land, and through identifying and developing new, compatible and sustainable uses for such properties. 

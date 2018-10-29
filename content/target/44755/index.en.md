@@ -10,6 +10,4 @@
   "start_date": "2016-08-02T10:00:00Z"
 }
 
-# Landscapism
-
 Landscapism explores landscape, topography and sense of place. The author is undertaking PhD research project is entitled 'Topographical legacies of monasticism: evolving perceptions and realities of monastic landscapes in the south-eastern Welsh Marches'.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lochs Gaelic Choir on Facebook
-

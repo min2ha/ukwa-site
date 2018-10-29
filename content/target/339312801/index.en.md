@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Reservoir Action Group (RAG)
-
 Reservoir Action Group (RAG) is a campaign to protect Llanishen and Lisvane Reservoirs, Cardiff.

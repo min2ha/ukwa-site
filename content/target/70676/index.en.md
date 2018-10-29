@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Oxford Festival of the Arts
-
 Website for of the Oxford Festival of the Arts.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Midhurst RFC on Pitchero
-
 The official website of Midhurst Rugby Football Club.

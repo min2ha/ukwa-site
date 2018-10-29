@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# London Evening Standard: Sam Leith: British values? Blame it all on Magna Carta
-

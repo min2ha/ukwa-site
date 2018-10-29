@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Teen's death at Chinese internet addiction camp sparks anger
-
 News article about a Chinese teenager who died while attending a boot camp to overcome internet addiction 

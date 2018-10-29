@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Caine Prize for African Writing: Nelson Rolihlahla Mandela, 1918 – 2013
-
 None

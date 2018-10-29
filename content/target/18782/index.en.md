@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: David Starkey's Magna Carta, BBC2 - TV review: In our illiberal age an 800-year-old text matters more than ever
-

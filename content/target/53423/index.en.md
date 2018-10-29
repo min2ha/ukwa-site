@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hillingdon Labour (@HillingdonLab) on Twitter
-
 Twitter feed of Hillingdon Labour Group with some coverage of the 2017 general election campaign.

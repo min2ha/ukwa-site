@@ -10,6 +10,4 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Trefriw
-
 Community website for the village of Trefriw in Snowdonia.

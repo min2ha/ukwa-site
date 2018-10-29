@@ -10,6 +10,4 @@
   "start_date": "2017-02-17T09:00:00Z"
 }
 
-# Danielle Cohen UK Immigration Solicitors
-
 Danielle Cohen UK Immigration Solicitors is a specialist in Immigration Law and Human Rights solicitors situated in Camden Town, London.

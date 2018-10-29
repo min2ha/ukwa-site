@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Before You Sign Up
-
 A website outlining the pros and cons of joining the UK armed forces.

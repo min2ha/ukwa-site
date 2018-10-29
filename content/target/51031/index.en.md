@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Scottish Music Industry Association
-
 Site of an organisation established as a trade body to promote and serve the best interests of Scotland’s music industry, and to strengthen and champion the industry in Scotland.

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Shuttlescots
-
 Site of an LGBT friendly social badminton club located in Edinburgh.

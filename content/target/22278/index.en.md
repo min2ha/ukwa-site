@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mhairi Fraser for Coatbridge, Chryston & Bellshill
-
 Website for Mhairi Fraser, Scottish Conservative Party candidate for Coatbridge, Chryston and Bellshill in the 7th May 2015 UK general elections.

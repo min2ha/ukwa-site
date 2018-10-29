@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ChiMat Data Atlas
-
 None

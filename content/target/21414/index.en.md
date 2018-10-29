@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron's cuts are making the country worse according to HALF of voters 
-
 None

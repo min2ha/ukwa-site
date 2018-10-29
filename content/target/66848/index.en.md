@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Lodge Ugie #939
-
 Site of a masonic lodge located in Mintlaw, Aberdeenshire and affiliated with the Grand Lodge of Scotland.

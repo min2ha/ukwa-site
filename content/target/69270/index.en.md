@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of St. Ignatius of Loyola, The
-
 Site of a Roman Catholic church in Scotland for the parish of St. Ignatius of Loyola, Wishaw, Lanarkshire.

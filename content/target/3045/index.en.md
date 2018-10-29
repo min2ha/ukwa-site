@@ -10,8 +10,6 @@
   "start_date": "2015-05-21T09:00:00Z"
 }
 
-# Economic & Social Research Council
-
 Economic & Social Research Council is the UK's largest organisation for funding research on economic and social issues. They support independent, high quality research which has an impact on business, the public sector and the third sector. They support researchers and postgraduate students in academic institutions and independent research institutes.
 
 We are a non-departmental public body (NDPB) established by Royal Charter in 1965 and receive most of our funding through the Department for Business, Innovation and Skills (BIS). 

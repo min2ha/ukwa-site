@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# The Orkney News
-

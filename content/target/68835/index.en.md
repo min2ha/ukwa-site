@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Publishing Talk 
-
 Website offering advice to aspiring authors on publishing and marketing their books. Includes magazine, details of courses etc.

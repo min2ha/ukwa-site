@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# PMCJ Events
-
 Website of a Glasgow-based promoter of live music events.

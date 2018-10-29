@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Anguilla Vacation & Travel Guide
-
 Anguilla tourism website.

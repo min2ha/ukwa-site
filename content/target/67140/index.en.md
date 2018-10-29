@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May calls for party unity before key Brexit votes
-
 Theresa May was to urge her MPs to send a message of unity over Brexit by reversing Lords amendments to the EU withdrawal bill, with senior government figures saying they were confident a revolt could be headed off.
 

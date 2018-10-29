@@ -10,5 +10,3 @@
   "start_date": "2016-11-23T09:00:00Z"
 }
 
-# Panel Heddlu a Throsedd Gogledd Cymru | North Wales Police and Crime Panel
-

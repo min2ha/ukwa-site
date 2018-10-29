@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Farmers for Britain on Facebook
-
 A Facebook page for Farmers for Britain (a campaigning group).

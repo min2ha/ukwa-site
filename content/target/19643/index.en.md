@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Oxfordshire Green Party
-
 Website of Oxfordshire Green Party, providing information on councillors, policies, events and local, national and party news.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK and EU at odds over 'exit bill'
-
 The UK and EU are still at odds over citizens' rights and the amount the UK will pay to leave the bloc, at the end of the second week of Brexit talks.

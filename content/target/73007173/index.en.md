@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Old BBC Radio Broadcasting Equipment and Memories
-
 None

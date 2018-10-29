@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Milton Keynes Comedy Festival
-
 Website for the Milton Keynes Comedy Festival.

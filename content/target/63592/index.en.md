@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Alexandria Parish Church
-
 Site of a Church of Scotland parish church at Alexandria, West Dunbartonshire.

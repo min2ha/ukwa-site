@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Middlesbrough Football Club
-
 Middlesbrough Football Club is a professional association football club based in Middlesbrough, North Yorkshire, England.

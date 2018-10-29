@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Guardian, The: Standup comics hit the boom time
-
 Brian Logan, comedy critic and arts writer for The Guardian, writes about the stand-up comedy explosion, in 2010.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Red Cell, The
-
 The Red Cell is a small pro-Brexit think tank. The website offers a collection of briefing papers on thorny issues and counters arguments for remaining.

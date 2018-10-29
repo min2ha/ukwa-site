@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# Lucy M Mcphee Composer
-
 Lucy M Mcphee is a Welsh Composer of Contemporary Classical Music.

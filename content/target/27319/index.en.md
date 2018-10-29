@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Derby
-
 Official website of the Anglican Diocese of Derby.

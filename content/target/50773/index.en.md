@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# London Evening Standard: May is right to deny Sturgeon another Scottish Referendum
-
 Argues that the SNP leader’s renewed calls for a vote on Scottish independence should not be considered until the terms of Brexit have been decided.

@@ -10,5 +10,3 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# British Historic Towns Atlas
-

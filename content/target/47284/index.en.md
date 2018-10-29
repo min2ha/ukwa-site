@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Fresnillo plc
-
 Fresnillo plc mining company produce gold and silver from six locations across Mexico, from exploration through to mine development and operation.  Their precious metal assets include the largest primary silver mine in the world, as well as being one of the largest gold producers in Mexico.

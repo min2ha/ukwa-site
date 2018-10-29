@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Tommy Sheridan (@citizentommy) on Twitter
-
 Twitter profile of Tommy Sheridan, Solidarity Scotland candidate for the Glasgow regional list in the 2016 Scottish Parliament election.

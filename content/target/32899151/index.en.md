@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Notts and Derby Quakers
-

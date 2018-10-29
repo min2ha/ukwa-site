@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 11 careers Nick Clegg has tried out in preparation for losing his seat 
-
 None

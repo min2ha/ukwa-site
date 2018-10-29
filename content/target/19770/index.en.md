@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Age UK Blog: General Election 2015
-

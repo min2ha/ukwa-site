@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# ICSHC (@ICSHC) on Twitter
-
 The official Twitter account of the International Centre for Sports History and Culture (ICSHC) based at De Montfort University, Leicester, UK.

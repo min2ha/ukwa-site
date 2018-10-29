@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Lothian and Borders Police
-
 None

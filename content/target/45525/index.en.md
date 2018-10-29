@@ -10,6 +10,4 @@
   "start_date": "2016-09-22T10:00:00Z"
 }
 
-# International Dylan Thomas Prize, The 
-
 Launched in 2006, the Dylan Thomas Prize is one of the most prestigious international awards for young writers in the world.

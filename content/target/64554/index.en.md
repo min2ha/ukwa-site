@@ -11,8 +11,6 @@
   "subject": "Gender Equality"
 }
 
-# Women’s Aid in Luton
-
 
 
 Women’s Aid in Luton is a voluntary organisation supporting women and children who fall victim to domestic abuse. 

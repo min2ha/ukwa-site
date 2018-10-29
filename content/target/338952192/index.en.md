@@ -10,5 +10,3 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Christopher Salmon: Police and Crime Commissioner Dyfed-Powys
-

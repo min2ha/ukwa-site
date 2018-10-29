@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Richard Herring's Leicester Square Theatre Podcasts
-
 Series of podcasts consisting of comedy interviews in front of a live audience with fellow comedians, actors and others.

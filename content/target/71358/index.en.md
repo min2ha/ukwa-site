@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# World record smashed as V&A Dundee and 3D Festival draw the crowds on museum’s opening weekend
-
  Article about the opening of the V&A Dundee. 

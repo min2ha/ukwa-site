@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband: UK only succeeds if we ALL succeed - and Labour can win election
-
 None

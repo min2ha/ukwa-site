@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: ITV to air first party leaders’ TV debate on 2 April
-
 None

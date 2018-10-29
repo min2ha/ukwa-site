@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# UK Sport
-
 UK Sport is a national agency strategically investing the National Lottery and Exchequer income into Olympic and Paralympic Sport.

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Michael Gove urges Tories to back Theresa May's plan
-
 Michael Gove urged Tory MPs to back Theresa May's compromise Brexit plan as the best chance of a "proper" exit from the EU. He told the BBC it was not all he hoped for, but said he was a "realist" and dismissed claims it would leave the UK as a "vassal state".
 
 

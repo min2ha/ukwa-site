@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Parish of St Helier
-
 Website for the Parish of St Helier, the capital of Jersey.

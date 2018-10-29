@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Curation Centre (DCC)
-
 The Digital Curation Centre (DCC) is a centre for digital information curation with a focus on building capacity, capability and skills for research data management across the UK's higher education research community.

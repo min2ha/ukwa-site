@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Leaders' debates: Conservatives and Labour must man up or fade away 
-
 None

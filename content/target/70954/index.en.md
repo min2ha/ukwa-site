@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Greater Manchester mayor backs fresh referendum as 'last resort'
-
 A second referendum would be divisive but a price worth paying to prevent the "catastrophic damage" of a no-deal Brexit, Greater Manchester's mayor said. Andy Burnham said he would support a fresh vote only as a "last resort" to prevent the UK leaving the European Union with no agreement. He said it could "widen" divisions and even "create social unrest". 

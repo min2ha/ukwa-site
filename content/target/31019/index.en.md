@@ -10,6 +10,4 @@
   "start_date": "2015-09-30T10:00:00Z"
 }
 
-# Hayscastle and area
-
 Community information resource for Haycastle in Pembrokeshire.

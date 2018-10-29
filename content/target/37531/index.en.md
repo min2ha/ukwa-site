@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: BLOGS COFFEE HOUSE Barack Obama is right to offer his government’s view on the EU referendum
-
 Spectator, The: BLOGS COFFEE HOUSE Barack Obama is right to offer his government’s view on the EU referendum

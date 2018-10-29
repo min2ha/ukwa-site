@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rona Mackay for Strathkelvin and Bearsden : Scottish National Party (SNP)
-
 Rona Mackay is the Scottish National Party Memeber of the Scottish Parliament for Strathkelvin and Bearsden constituency.

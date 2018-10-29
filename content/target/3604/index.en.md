@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Times & Star (North West)
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Veronika Tudhope (@VoteVeronika) on Twitter
-
 The Twitter profile of Veronika Tudhope, Scottish Green Party candidate for West Scotland in the 2016 Scottish Parliament election.

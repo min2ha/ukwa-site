@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Drum&Bass Arena Forum
-
 An online enthusiast community forum concerned with Drum & Bass music. Discusses Drum & Bass production, track listings, photos, dubstep, grime, UK hiphop and various other related topics.

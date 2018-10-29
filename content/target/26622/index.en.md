@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Let David Cameron have his moment of glory. The plotters await
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joe Bourke (@Joseph Bourke) on Twitter (Liberal Democrat  Politician)
-
 Joe Bourke stood as Liberal Democrat candidate for Brentford & Isleworth at the 2017 General Election but was not elected.

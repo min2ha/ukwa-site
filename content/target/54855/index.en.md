@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# Gavin Puckett
-
 Gavin Puckett is a children’s author from South Wales, was the winner of the 2013 Greenhouse Funny Prize, and his first book ‘Murray the Horse’ was published with Faber Children’s in June 2015. 

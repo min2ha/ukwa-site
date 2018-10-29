@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# LibCrowds (@LibCrowds) on Twitter
-
 Crowdsourcing projects from the British Library Digital Scholarship team. Tweets by Mia Ridge and Christian Algar. 

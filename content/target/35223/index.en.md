@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# James McEnaney (@MrMcEnaney) on Twitter
-
 The twitter profile of James McEnaney, RISE Alliance candidate for Glasgow.

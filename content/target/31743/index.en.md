@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Kelly Jones, Writer and Theatre Maker
-
 Kelly Jones was the winner of the Wales Drama Award 2014. Originally from the London Borough of Barking and Dagenham, Kelly Jones has been living and working in Wales since 2007. 

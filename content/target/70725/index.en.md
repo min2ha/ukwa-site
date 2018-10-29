@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Verulamians Rugby Club on Pitchero
-
 The official website of Verulamians Rugby Club

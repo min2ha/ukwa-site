@@ -10,6 +10,4 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# SOS Silence of suicide
-
 SOS Silence of suicide was founded by Michael Mansfield QC and Yvette  Greenway in 2015 to facilitate open discourse, work to eradicate stigma, and raise awareness  of the impact of suicide on those who have suicidal feelings, have attempted suicide or have been bereaved by suicide.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Could the UK stay in the single market after leaving the EU? The planned case on Article 127 EEA 
-
 This piece discusses whether Parliament would be legally obliged to approve withdrawal from the European Economic Area (EEA) separately from exiting the EU.

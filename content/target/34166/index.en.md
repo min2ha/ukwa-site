@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Association of Consulting Actuaries (ACA)
-
 The Association is a representative body for UK consulting actuaries.  The Association is a full member of the International Actuarial Association.

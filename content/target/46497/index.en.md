@@ -10,6 +10,4 @@
   "start_date": "2016-10-26T10:00:00Z"
 }
 
-# Smart Energy Wales
-
 This is Wales' premier Smart Energy event, organised by Renewable UK Cymru, and is held on an annual basis in Cardiff.

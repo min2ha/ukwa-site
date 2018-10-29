@@ -10,6 +10,4 @@
   "start_date": "2014-01-10T23:00:00Z"
 }
 
-# Planet Science
-
 None

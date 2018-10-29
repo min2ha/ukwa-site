@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron or Miliband: who does the world want to win the UK election?
-
 None

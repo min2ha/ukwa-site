@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# 2016 Rio Games Collection – How to Get Involved!
-
 A blog post on how members of the public can get involved in the IIPC Rio 2016 Olympic and Paralympic web archiving project.

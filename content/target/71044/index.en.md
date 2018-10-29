@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC, The: Social media apps are 'deliberately' addictive to users
-
 News article by the BBC detailing how social media applications are made to be addictive.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wivenhoe Forum
-
 The Wivenhoe Forum is an online message board that was launched in January 2011 to help promote the town of Wivenhoe in North Essex. 

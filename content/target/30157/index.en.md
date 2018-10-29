@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T10:00:00Z"
 }
 
-# OLTA (@obantweet) on Twitter
-
 Twitter profile of Oban and Lorn Tourism Association, a voluntary marketing group promoting Oban.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-20T09:00:00Z"
 }
 
-# Tighnabruaich Pier Accociation
-
 WordPress site of an organisation established to raise funds to build a pier at the village of Tighnabruaich, Argyll & Bute, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-02-01T09:00:00Z"
 }
 
-# Mihangel Jones
-
 Mihangel Jones is an artist living and working in North Wales and an elected member of the RCA (Royal Cambrian Academy). Mihangel’s work is both subjective & conceptual in nature & expressed through a variety of media. 

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# General Federation of Trade Unions
-

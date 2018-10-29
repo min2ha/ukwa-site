@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# STV News (STVNews) on Twitter
-

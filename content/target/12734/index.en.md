@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Julia Bleasdale
-
 <p>The website of runner Julia Bleasdale, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2011-03-03T00:00:00Z"
 }
 
-# Plants and Us
-
 Plants & Us is dedicated to the vital roles that plants play in everyday life.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Conservatives risk losing us over Scotland warns DUP
-
 None

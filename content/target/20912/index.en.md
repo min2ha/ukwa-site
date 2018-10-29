@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Democratic Dashboard | Everything you need to know about your local area for Election 2015 & 2017
-
 Democratic Audit (LSE) provides voters with more in-depth information about their local constituency.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Association of Employment and Learning Providers (AELP) 
-
 The Association of Employment and Learning Providers (AELP) is the national trade association representing providers involved in skills and employment delivery, responding to the needs of employers, learners and the local communities. AELP members deliver the majority of Apprenticeships, Traineeships, English and maths in the workplace and programmes for the unemployed including the Work Programme.

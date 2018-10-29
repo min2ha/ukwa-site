@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Macmillan Cancer Support: Cancer Matters
-
 Macmillan Cancer Support calls on the next government to: ensure that there are enough health and care staff with the right skills to provide the best support for people with cancer; ensure that good quality palliative end-of-life care is available; hold back from cutting welfare benefits for people with cancer and their carers.

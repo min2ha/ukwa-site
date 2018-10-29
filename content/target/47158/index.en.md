@@ -10,6 +10,4 @@
   "start_date": "2016-11-18T09:00:00Z"
 }
 
-# Bloomsbury Publishing
-
 An international publishing company with offices in London and Oxford.

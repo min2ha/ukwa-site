@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Buckie South & West Linked with Enzie
-
 Site of two Church of Scotland parish churches at Buckie and Enzie, Aberdeenshire.

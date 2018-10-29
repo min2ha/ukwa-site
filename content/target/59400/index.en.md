@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Wales IP
-
 Wales IP is the website for the Intellectual Property Collaboration Project, a partnership between Wales' leading research institutions and showcased the expertise of Wales' research-intensive universities, helping investors and companies locate innovative opportunities and applications.

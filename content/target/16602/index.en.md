@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leaders' debates: chicken allegations met with chorus of clucks
-
 None

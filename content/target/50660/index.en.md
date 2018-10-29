@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Inverness Presbytery
-
 The website of the Inverness Presbytery.

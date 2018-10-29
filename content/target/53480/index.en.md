@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mirror, The: Spending too much time online ' causing mental illness in children ' government health advisers warn
-
 News article regarding the correlation between the time spent online and mental illness in children.

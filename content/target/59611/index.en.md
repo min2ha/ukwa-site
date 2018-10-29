@@ -10,5 +10,3 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# Gwyl Merlod a Chobiau Cymreig Aberaeron | The Aberaeron Festival of Welsh Ponies and Cobs
-

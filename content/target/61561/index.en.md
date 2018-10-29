@@ -10,5 +10,3 @@
   "start_date": "2018-02-23T09:00:00Z"
 }
 
-# Breathe: A Ghost Story by Kate Pullinger
-

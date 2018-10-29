@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Southern Socialists (@SocialistSouth) on Twitter
-
 The latest Tweets from Southern Socialists (@SocialistSouth). Socialist Party members across the South with branches in Aylesbury Basingstoke Bracknell IOW Oxford Portsmouth Reading Southampton and Staines. South East, England.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Rigby & Rigby
-
 As an internationally respected developer of super-prime property, the Rigby and Rigby name has become synonymouswith inspiring architecture and striking interiors.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# East Kent Hunt Saboteurs
-
 Undertake direct action in East Kent to prevent hunts killing wildlife

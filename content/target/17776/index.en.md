@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Biggest non-union donor to Ed Miliband's party guilty of 'tax avoidance', says Labour MP
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo-Indonesian Society, The 
-
 They are an independent, non-political Society dedicated to fostering friendship and understanding between Britain and Indonesia.

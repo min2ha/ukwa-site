@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: E-petitions 200004, 187570, 193282 and 200311 relating to a referendum on the deal for the UK’s exit from the European Union
-
 Debate Pack for the Westminster Hall debate on Monday 11 December at 4.30pm considering e-petitions 200004, 187570, 193282 and 200311 relating to a referendum on the deal for the UK’s exit from the European Union. The debate was initiated by the Petitions Committee and will be led by Susan Elan Jones
 

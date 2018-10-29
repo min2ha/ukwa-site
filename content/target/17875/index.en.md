@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# International Society for Seed Science (ISSS)
-
 The International Society for Seed Science (ISSS) is a professional organisation of seed scientists, committed to fostering and promoting research, education and communication in the scientific understanding of seeds, in all aspects, pure and applied, from molecular biology to ecology.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# GPWIZARD F1 Forum
-
 An online enthusiast community concerned with F1 racing. Discusses F1 teams, drivers, history and various other topics.

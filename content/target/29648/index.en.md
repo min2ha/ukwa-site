@@ -10,6 +10,4 @@
   "start_date": "2015-08-06T10:00:00Z"
 }
 
-# Taste Montgomery
-
 Taste Montgomery promotes the food & beverage producers & retailers of Montgomery, Powys.

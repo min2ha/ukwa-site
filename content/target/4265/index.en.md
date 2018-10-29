@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Republican Socialist Movement
-
 The official page for the Scottish Republican Socialist Movement.

@@ -10,5 +10,3 @@
   "start_date": "2015-10-30T09:00:00Z"
 }
 
-# Canolfan Cofnodion Bioamrywiaeth De Ddwyrain Cymru | South East Wales Biodiversity Records Centre
-

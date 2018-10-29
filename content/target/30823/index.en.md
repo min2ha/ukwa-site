@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Port of Jersey
-
 Website for the Port of Jersey, with passenger information and regulations and guidance for port users.

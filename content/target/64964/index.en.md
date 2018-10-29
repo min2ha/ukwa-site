@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# WalthamForestTUSC (@TUSCWF) on Twitter
-
 Trade Unionist and Socialist Coalition in Waltham Forest, London.

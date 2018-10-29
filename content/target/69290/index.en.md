@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Joseph’s Church Tollcross
-
 Site of a Roman Catholic church in Scotland for the parish of St. Joseph’s Church Tollcross, Glasgow, incorporating the of church of St. Joachim's, Carmyle.

@@ -10,8 +10,6 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Young Lawyers HRLA (@youngHRLA) on Twitter
-
 Young Lawyers HRLA 
 @youngHRLA 
 Young Lawyers Committee of @HumanRightsLawA - Seminars, Careers Days & annual Judicial Review Competition. We also publish an annual journal.

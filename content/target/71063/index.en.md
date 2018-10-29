@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# Slough Rugby Club on Pitchero
-
 The official website of Slough Rugby Club.

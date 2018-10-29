@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Sex abuse: Labour promises power for victims to challenge police
-
 None

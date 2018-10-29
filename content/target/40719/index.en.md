@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# South Derbyshire WW1 Commemorative Walks and Trails and School Parks Packs
-
 This project will involve the development of two WW1 educational loans boxes and two accompanying downloadable trails for schools, families, other groups and individuals to use in Maurice Lea Memorial Park and Eureka Park in Swadlincote.

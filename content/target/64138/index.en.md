@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Amnesty UK (@AmnestyUK) on Twitter
-
 Amnesty International in the UK - standing up for human rights across the world, wherever justice, freedom, fairness and truth are denied.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum: Top firms back pro-EU letter, but supermarkets refuse to sign 
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: TV leaders’ interviews: Jeremy Paxman goes for the jugular
-
 None

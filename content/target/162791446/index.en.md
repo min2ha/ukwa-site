@@ -10,5 +10,3 @@
   "start_date": "2013-06-04T00:00:00Z"
 }
 
-# Arolygiaeth Gofal a Gwasanaethau Cymdeithasol Cymru | Care and Social Services Inspectorate Wales
-

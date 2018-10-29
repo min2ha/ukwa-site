@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tactical voting in the 2015 general election: how to stop Ed Miliband winning 
-
 None

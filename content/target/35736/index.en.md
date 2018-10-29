@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Constitution Unit, The: EU referendum
-
 The Constitution Unit conducts independent research into constitutional change and its consequences.

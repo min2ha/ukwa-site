@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Taste of Monmouthshire
-
 Taste of Monmouthshire is a boutique food and drink festival celebrating the finest food and drink from Monmouthshire and neighbouring counties.

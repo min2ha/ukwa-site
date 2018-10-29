@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Women's Football Magazine, The 
-
 A voice for Women's Football from grassroots to the Lionesses.

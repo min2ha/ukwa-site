@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Labour conference 2018 The Guardian view on Jeremy Corbyn’s speech: catching the zeitgeist
-

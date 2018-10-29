@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberdeen St. Mark's Church of Scotland
-
 Site of a Church of Scotland parish church in Aberdeen.

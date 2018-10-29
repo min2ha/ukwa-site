@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Journal: Cunard ships to celebrate the anniversary of signing of the Magna Carta
-

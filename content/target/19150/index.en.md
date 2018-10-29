@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Huffington Post UK: Magna Carta Dating From 1297 Goes On Display In London
-

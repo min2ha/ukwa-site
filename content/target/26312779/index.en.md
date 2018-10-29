@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Galaxy Zoo Blog
-

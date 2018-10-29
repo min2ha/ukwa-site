@@ -10,6 +10,4 @@
   "start_date": "2014-12-12T06:00:00Z"
 }
 
-# Stop TB UK 
-
 <p>Stop TB UK is a coalition of organisations and individuals who share a commitment to fight tuberculosis.</p>

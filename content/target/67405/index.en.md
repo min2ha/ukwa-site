@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Insights Group Limited, The
-
 Website of a company that offers professional training services. 

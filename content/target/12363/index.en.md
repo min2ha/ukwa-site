@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sonia Samuels (SoniaSamuels) on Twitter
-
 <p>The twitter profile of athlete Sonia Samuels, competitor in the 10,000 metres for Team England in the Glasgow 2014 Commonwealth Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2018-03-02T09:00:00Z"
 }
 
-# Bishoptown Communiy Council
-
 Site of a community council serving the community of Bishopton, Renfrewshire.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Meena  Hans (@meenahansgreen) on Twitter  (Green Party Politician)
-
 Meena Hans stood as Green Party candidate for Ealing North at the 2017 General Election but was not elected.

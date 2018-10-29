@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# All Model Railroading Community Chat Forum
-
 An online enthusiast community concerned with model railroading. The forum covers advice for newcomers, technical & electronics, train related photography and various other related topics.

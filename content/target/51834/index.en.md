@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrews Parish Church, Blantyre
-
 The website of St Andrews Parish Church, located in Blantyre. 

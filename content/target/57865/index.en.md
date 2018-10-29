@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Vintage British Diecast Forum
-
 An online enthusiast community concerned with collecting die casts 'matchbox' cars. Discusses various die cast cars by manufacturer.

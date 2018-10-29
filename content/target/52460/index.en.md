@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Cleddau Community Church Apostolic Centre, Milford Haven
-

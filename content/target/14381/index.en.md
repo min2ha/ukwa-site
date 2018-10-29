@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Ewan Morrison - Why I Joined Yes and why I changed to No: Facebook
-
 The author links to his blog publishing his change of position on the Scottish Independence Referendum; includes comments and discussion.

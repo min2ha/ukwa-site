@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Our human rights don’t just begin with Magna Carta, Mr Prime Minister
-

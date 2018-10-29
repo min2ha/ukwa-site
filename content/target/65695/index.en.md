@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# Eventbrite: Rum & Reggae Festival Liverpool
-

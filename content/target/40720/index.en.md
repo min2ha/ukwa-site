@@ -10,6 +10,4 @@
   "start_date": "2016-09-20T10:00:00Z"
 }
 
-# Roald Dahl's City of the Unexpected 
-
 City of the Unexpected will celebrate the wonderful story worlds of Roald Dahl  through a wide range of events.  The celebration will be held in Cardiff in September 2016.

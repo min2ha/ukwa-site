@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# We Made This
-
 Founded by Matt Ball and Jacqui George in 2014, 'We Made This' is a theatre company based in Pontypridd.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Bright Light
-
 Site of a relationship counselling organisation with Scottish charitable status, located in Edinburgh.

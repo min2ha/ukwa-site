@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Freedom Tour
-
 '1916 Freedom Tour' is a experiential guided tour with supporting audio visual period footage of key locations of 1916 Dublin in a converted 1916 themed truck. 

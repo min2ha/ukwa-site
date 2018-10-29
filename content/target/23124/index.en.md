@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Claire Leigh (@ClaireLeighLab) on Twitter (Labour candidate for Tonbridge and Malling)
-

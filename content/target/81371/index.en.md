@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Grove RFC on Pitchero
-
 The official website of Grove Rugby Football Club. Grove RFC is a family friendly community rugby club.

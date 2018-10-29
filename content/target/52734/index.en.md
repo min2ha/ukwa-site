@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# London Essays
-
 London Essays is a journal published by Centre for London. It explores the economic, social, and environmental challenges facing London and other cities, and ways they can be addressed.

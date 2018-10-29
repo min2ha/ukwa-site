@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Adur & Worthing Councils
-
 The website of Adur & Worthing Councils offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending. 

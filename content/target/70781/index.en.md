@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kilmarnock Baptist Church
-
 Site of a Scottish Christian church and its congregation of the Baptist denomination located in Kilmarnock, Ayrshire.

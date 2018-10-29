@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Inside the home of one of Britain's biggest hoarders: pensioner claims council clean-up order breaches the Magna Carta
-

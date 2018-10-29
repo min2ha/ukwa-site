@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# London School of Economics: EUROPP: European Politics and Policy
-
 None

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UKIP, Nigel Farage & Kipper Nonsense
-
 Satirical blog about UKIP, the Far Right and the EU Referendum

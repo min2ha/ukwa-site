@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival of Speed
-
 Goodwood road and racing website advertising the Festival of Speed

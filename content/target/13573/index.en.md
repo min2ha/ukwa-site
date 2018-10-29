@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Economist: Scotland
-
 <p>Commentary and analysis on the Scottish independence referendum from the webiste of The Economist.</p>

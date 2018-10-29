@@ -10,5 +10,3 @@
   "start_date": "2015-12-02T09:00:00Z"
 }
 
-# Powys Uncut: Defending Powys communities against the cuts
-

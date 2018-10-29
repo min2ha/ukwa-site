@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Esgyn
-
 <p>Esgyn provide support for those with mental health issues and other difficulties to live independently in Wales.</p>

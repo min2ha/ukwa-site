@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# William Ward on Facebook (Green Party candidate for Garston and Halewood)
-

@@ -10,5 +10,3 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# Guardian,The: £50bn to leave the EU. What an unforgivable waste of money
-

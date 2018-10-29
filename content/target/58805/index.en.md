@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Breastfeeding Network, The: Blog
-
 Blog component of a website that covers issues of mental health in the perinatal period

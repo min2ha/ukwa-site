@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Huddersfield RUFC
-
 The official website of Huddersfield Rugby Union Football Club, one of the oldest rugby clubs in Yorkshire, has pioneered change in the game since the 19th Century and founded mini rugby in England in 1969. 

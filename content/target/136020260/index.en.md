@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# My NHS Alerts - NHS news and information across London
-
 None

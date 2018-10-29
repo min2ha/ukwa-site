@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband is failing to sell Labour to business community, adviser admits
-
 None

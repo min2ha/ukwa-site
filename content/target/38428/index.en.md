@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Steven Gordon (@steveljub) on Twitter
-
 Twitter profile of Steven Gordon, the 'A Better Britain - Unionist Party' list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

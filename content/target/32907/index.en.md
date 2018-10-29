@@ -10,6 +10,4 @@
   "start_date": "2015-11-25T09:00:00Z"
 }
 
-# Heart of the Kingdom | Early Medieval Govan
-
 A blog about the early medieval history of Govan.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War, The - A Great War? A heritage exhibition on WW1 in Snowdonia.
-
 Project enabling a bilingual exhibition, open free to the general public, to be held in the redundant St Julitta's church (www.stjulittas.org) in Capel Curig in the heart of Snowdonia.

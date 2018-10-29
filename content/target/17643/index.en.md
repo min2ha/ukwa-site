@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Cameron challenged on 'no cuts' school funding promise
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Meera Sonecha (@Meera4South ) on Twitter (Conservative Politician)
-
 Meera Sonnecha stood as Conservative candidate for Leicester South at the 2017 General Election but was not elected.

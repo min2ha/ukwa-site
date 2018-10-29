@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Westham 130
-
 Project to celebrate 130 years of Westham's history as a neighbourhood and to host a large FREE public event in April/May 2013 to promote this community milestone.

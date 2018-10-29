@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Rejoiners, The
-
 ‘The Rejoinders’ is a research network between Wales and India, exploring collaborative process, the visual arts and ‘in-between’ spaces. The research group has two entities, one Mumbai, the other Cardiff. It is done in collaboration with Shreyas Karle and Hemali Bhuta, Ranjit Hoskote, Nancy Adajania, Hetain Patel, Dr Jonathan Prior, Amanda Colbourne, Per Törnberg and Paul Goodfield, g39 (Wales), and University of Worcester. It is part of India Wales, a joint initiative between Wales Arts International and the British Council that supports artistic collaboration and exchange between creative professionals and arts organisations in Wales and India and part of the broader UK India Year of Culture 2017.

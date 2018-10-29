@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit trade deal could take 10 years, says UK's ambassador
-
 A post-Brexit UK-EU trade deal might take 10 years to finalise and still fail, the UK's top diplomat in Brussels privately warned the government.
 

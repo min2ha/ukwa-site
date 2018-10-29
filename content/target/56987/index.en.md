@@ -10,6 +10,4 @@
   "start_date": "2017-09-05T09:00:00Z"
 }
 
-# Pint-sized Plays
-
 Pint-sized Plays is a competition for short plays of up to 10 minutes.  The winning plays are performed in selected pubs in Pembrokeshire and and at the Script Slam at Theatr Gwaun in Fishguard.

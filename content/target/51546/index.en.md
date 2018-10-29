@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# PSICOLOGÍA EN EDIMBURGO
-
 This service supplies therapy and support for spanish-speakers in Scotland who are seeking help for psychological issues. 

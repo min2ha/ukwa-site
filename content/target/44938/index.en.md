@@ -10,6 +10,4 @@
   "start_date": "2016-08-10T11:00:00Z"
 }
 
-# Sarha Collective // تجمع سرحة
-
 Sarha Collective is a London-based interdisciplinary platform started by two women, Mai and Nadia, who were inspired whilst living in Palestine to form a collective which would encourage new ways of representing and thinking about Palestine and the broader Middle East.

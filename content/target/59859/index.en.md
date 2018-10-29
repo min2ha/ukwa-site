@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Angel Magic UK
-
 Website of Angel , a healer, clairvoyant and white witch based in the South of England.

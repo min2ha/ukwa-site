@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Inclusive Mosque Initiative: IMI
-
 Launched in 2012, the Inclusive Mosque Initiative is dedicated to creating places of worship, particularly for marginalised communities, spiritual practice and the promotion of inclusive Islamic principles. Our events are held in the UK, usually in London. Founded by Tamsila Tauqir and Dervla Zaynab Shannahan, IMI was created with their experiences of exclusion and those of many others in mind. We currently host regular Friday prayers, seminars and discussion groups. We aim to create a family-friendly place of worship that welcomes people regardless of their religious belief, their race, gender, impairments, sexuality or immigration status.

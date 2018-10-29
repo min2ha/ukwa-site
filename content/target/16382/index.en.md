@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# GlaxoSmithKline (GSK): Press releases
-
 <p>Press releases by the GlaxoSmithKline, a pharmaceutical company.</p>

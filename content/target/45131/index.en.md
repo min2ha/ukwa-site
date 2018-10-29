@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rio 2016: Irish boxer Michael O'Reilly becomes first athlete to fail drugs test
-
 Irish boxer Michael O'Reilly becomes first athlete to fail drugs test ahead of Rio 2016.

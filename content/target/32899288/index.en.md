@@ -11,5 +11,3 @@
   "subject": "Fashion"
 }
 
-# Croeso i Bridfa Llangybi : Welcome to Llangybi Stud
-

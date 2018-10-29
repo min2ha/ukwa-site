@@ -10,7 +10,5 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Stay Well in Wales | Arolwg Cadw’n Iach yng Nghymru
-
 This was a survey conducted by Public Health Wales in 2017 looking at developing a long term strategy for Public Health Wales to find out what the Welsh public think will help us all live healthier, happier and longer lives.
  

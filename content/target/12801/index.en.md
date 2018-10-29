@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Commonwealth Games athletes and fans head for Tayside
-
 <p>BBC news item on XX Commonwealth Games events in Tayside.</p>

@@ -10,5 +10,3 @@
   "start_date": "2015-08-27T10:00:00Z"
 }
 
-# Academi Frenhinol Gymreig, Yr | Royal Cambrian Academy, The
-

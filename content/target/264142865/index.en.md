@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bolton Soldiers in Gallipoli - Remembering some of the Bolton men who lost their lives in the Gallipoli Campaign of 1915
-
 <p>Project about the involvement of Bolton Soldiers in the Gallipoli campaign.</p>

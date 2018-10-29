@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems vow to block Tory welfare cuts plan in any coalition talks
-
 None

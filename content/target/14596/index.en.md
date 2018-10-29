@@ -10,6 +10,4 @@
   "start_date": "2015-11-09T09:00:00Z"
 }
 
-# Lunar Mission One
-
 <p>Site of the planned UK mission to send a probe to the Moon, in advance it is hoped of setting up a base on the Moon's South Pole.</p>

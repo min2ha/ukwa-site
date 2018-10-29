@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Native Woods Cooperative Scotland (Ltd)
-
 Native Woods Cooperative Scotland (Ltd) are a Scottish land consultancy.

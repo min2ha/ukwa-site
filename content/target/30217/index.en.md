@@ -10,6 +10,4 @@
   "start_date": "2015-09-04T10:00:00Z"
 }
 
-# Hebrides News Today | Hebrides News, Western Isles & Stornoway
-
 News website focusing on news from the Western Isles and Stornoway.

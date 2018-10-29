@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Broughton St. Mary's Parish Church
-

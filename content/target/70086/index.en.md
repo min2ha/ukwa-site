@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Soul Circus
-
 Yoga and wellness festival in the Cotswolds

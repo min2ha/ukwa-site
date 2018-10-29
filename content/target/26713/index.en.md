@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent , The Alan Sugar has quit the Labour party because he thinks it's anti-business
-
 None

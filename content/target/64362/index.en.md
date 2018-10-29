@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Royal Welsh Trail Running Festival
-
 The 10K and Half Marathon trail courses start and finish in the Royal Welsh Showground in Builth Wells and is held in May.

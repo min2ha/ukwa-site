@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# i100: 18 generl election leaflet mistakes that will make you fear for democracy
-
 None

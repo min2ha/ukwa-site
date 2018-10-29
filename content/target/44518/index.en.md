@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Douglas Carswell (@DouglasCarswell) on Twitter
-
 Twitter account for UKIP parliamentary member, Douglas Carswell

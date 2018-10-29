@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Government of Montserrat  
-
 Government of Montserrat official website.

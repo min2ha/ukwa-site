@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Macdonald Hotels Limited
-
 Macdonald Hotels Limited own and manage hotels and leisure resorts.

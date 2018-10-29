@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Lancastria Association of Scotland
-
 The Lancastria Association of Scotland aims to archive the history of the HMT Lancastria and commemorate those who were affected by her sinking in 1940.

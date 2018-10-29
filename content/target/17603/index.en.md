@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband set to reveal plans to slash students university tuition fees
-
 None

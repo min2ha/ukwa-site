@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Net migration soars to nearly 300,000 leaving David Cameron's immigration pledge in tatters 
-
 None

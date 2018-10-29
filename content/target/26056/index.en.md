@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Vote Labour for radical powers in Scotland, say Murphy and Brown
-
 None

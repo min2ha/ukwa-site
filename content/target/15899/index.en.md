@@ -10,6 +10,4 @@
   "start_date": "2015-03-18T09:00:00Z"
 }
 
-# Coventry Transport Museum
-
 Coventry Transport Museum helps to discover the story behind the development of road transport from the earliest cycles to the fastest cars on Earth.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jack Thomas (JackThomas1995) on Twitter
-
 <p>The twitter profile of swimmer Jack Thomas, competing in the S14 para-swimming event for Team Wales at the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# London Women and Planning Forum (LWPF)
-
 None

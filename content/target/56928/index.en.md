@@ -10,6 +10,4 @@
   "start_date": "2017-08-31T09:00:00Z"
 }
 
-# Ruth Shelley
-
 Ruth Shelly is a contemporary glass artist based in Cardiff.

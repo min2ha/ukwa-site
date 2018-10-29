@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Claudia Beamish (claudiabeamish) on Twitter
-
 The twitter profile of Claudia Beamish, Scottish Labour and Co-op MSP for South Scotland and Shadow Minister for the Environment and Climate Change.

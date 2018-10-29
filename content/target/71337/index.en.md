@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Paignton Rugby Football Club
-
 The official website of Paignton Rugby Football Club.

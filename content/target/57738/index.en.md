@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Fresh Loaf Forum
-
 An online enthusiast community concerned with bread baking. Discusses ovens, bakeries, baking styles and techniques, equipment and various other related topics.

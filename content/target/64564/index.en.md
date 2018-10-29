@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Scottish Society for Northern Studies
-
 Site of a society which explores the inter-relationships between the Scandinavian, Celtic and Scottish cultures through a variety of historical media and scholarly research.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Visit Belfast: Commemorative Events Programme 1916-2016 Belfast
-
 Programme of Easter Rising centenary talks, lectures and discussions on the official Belfast visitor website.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Department for Environment, Food and Rural Affairs (@defragovuk) on Twitter
-
 Official feed for Defra, UK Department for Environment, Food and Rural Affairs. 

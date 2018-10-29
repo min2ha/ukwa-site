@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# City Ground Stadium
-
 The City Ground is a football stadium in West Bridgford, Nottinghamshire, England, on the banks of the River Trent. It has been home to Nottingham Forest Football Club since 1898, and has 30,445 seats.

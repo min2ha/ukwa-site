@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Clwyd Veteran & Vintage Machinery Society Ltd.
-
 This is the website for the Clwyd Veteran and Vintage Machinery Society Ltd established in 1976.

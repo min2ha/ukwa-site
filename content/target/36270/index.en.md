@@ -11,7 +11,5 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Belinda Roberston (Labour candidate for South Wales Central)
-
 Belinda Robertson is the Labour candidate for South Wales Central at the 2016 National Assembly Elections. 
 

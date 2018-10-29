@@ -10,6 +10,4 @@
   "start_date": "2016-12-03T09:00:00Z"
 }
 
-# True Highlands
-
 Tourist marketing site based in Dingwall, and focusing on the Highlands, western islands and northern Islands of Scotland.

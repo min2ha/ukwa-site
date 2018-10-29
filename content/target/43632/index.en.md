@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# It's Nice That: Creative industries make last attempts to sway EU referendum voters
-
 An article describing the various efforts artists have gone to to support the 'remain' campaign in the EU Referendum.

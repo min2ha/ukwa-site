@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Open Research Online Student Dissertations for module: A329 The making of Welsh history 
-
 The Open university runs a dissertation module on Welsh history. The best of those dissertations each year are made publicly and freely available from the 'Open Research Online Student Dissertations for module:A329 The making of Welsh history' web page.

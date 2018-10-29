@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  The horrific murder of Jo Cox and a contemptible campaign to smear Brexit supporters
-
 Argues that those who insinuate that the Brexit campaign was inherently racist are guilty of greater intolerance.

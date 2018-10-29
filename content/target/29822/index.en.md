@@ -10,6 +10,4 @@
   "start_date": "2015-08-17T10:00:00Z"
 }
 
-# Traversetheatre (@traversetheatre) on Twitter
-
 Twitter profile of the Traverse theatre in Edinburgh, which puts particular emphasis on producing new plays.

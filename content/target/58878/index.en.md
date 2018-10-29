@@ -10,6 +10,4 @@
   "start_date": "2017-11-16T09:00:00Z"
 }
 
-# Academi côr
-
 Academi côr is a residential summer school for experienced adult choral singers and a initiative of Tŷ Cerdd. Academi côr will provide high-quality choral training in an intensive week of rehearsals, workshops, masterclasses and public performances.

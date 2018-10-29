@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Tulloch Ringing Centre
-
 Website of a centre established to promote and teach the art of bellringing in Scotland and beyond.

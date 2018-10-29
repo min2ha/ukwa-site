@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Burnt Roti
-
 Magazine celebrating South Asian talent. Essays on mental health, women's rights, racism/colourism, celebrity interviews and more.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Nerve Centre: The 1916 Easter Rising
-
 Teaching resources provided by the Nerve Centre's project 'Teaching Divided Histories'

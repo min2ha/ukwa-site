@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Graham Smith, working hard for Torfaen
-
 Graham Smith, Conservative candidate for Torfaen in the 2015 General Election and 2016 National Assembly for Wales Election.

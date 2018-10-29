@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scotland Women book place at World Cup
-
 Online news article about the Scotland women's team qualification for the World Cup in France, 2019.

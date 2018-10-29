@@ -10,6 +10,4 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# East Vale Group of Churches
-
 The East Vale Group of Churches are seven small rural parishes of Bonvilston, Pendoylan, Peterson-super-Ely, St Brides-super-Ely, St Nicholas, St George-super-Ely and Welsh St Donats in the Vale of Glamorgan.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ipswich Hospital  NHS Trust
-
 None

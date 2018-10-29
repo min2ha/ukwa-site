@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# WMC10
-
 Celebrating 10 years of the Wales Millennium Centre.

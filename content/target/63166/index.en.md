@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Trinity Hall, Cambridge
-
 Trinity Hall is a constituent college of the University of Cambridge, England. It is the fifth-oldest college of the university, having been founded in 1350 by William Bateman, Bishop of Norwich. Historically, Trinity Hall was known for teaching Law; today, it teaches the sciences, arts and humanities.

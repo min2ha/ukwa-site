@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Scenes Journal / S.C.N. : a screenwriting journal
-
 Scenes is a biannual print magazine publishing screenplays. Each issue includes an interview with a screenwriter, original and classical scripts, and film essays.

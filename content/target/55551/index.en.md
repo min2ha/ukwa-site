@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# All Wales Event for Weavers, Spinners & Dyers
-
 All Wales Event for Weavers, Spinners & Dyers is a bieninal gathering of members of the Welsh Guilds of Weavers, Spinners and Dyers at Llanidloes.

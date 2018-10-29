@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Gower Heritage Centre
-
 <p>The Centre is a visitor attraction and rural life museum based around a working 12th century water-mill.</p>

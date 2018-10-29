@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# WWF - World Wildlife Fund: WWF's position in the referendum on the UK's Membership of the European Union
-
 Artical conerning the WWF's position on the EU referendum and the impact of EU membership on the environment. 

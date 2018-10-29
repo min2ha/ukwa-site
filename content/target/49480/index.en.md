@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Danielle Cohen UK Immigration Solicitors: In Sickness and in Health, post-Brexit
-
 A blog post about how EU citizens can apply for permanent residency in the UK.

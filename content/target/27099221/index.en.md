@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# West Briton Transcriptions
-
 Transcriptions of the West Briton and Cornwall Advertiser from 1836-1856.

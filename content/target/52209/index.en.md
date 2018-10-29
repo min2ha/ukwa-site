@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mark’s Church, Leamington Spa
-
 St Mark’s is an open evangelical Anglican church in the parish of New Milverton, Leamington Spa.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-05T10:00:00Z"
 }
 
-# Muir of Dinnet NNR
-
 Updated by Scottish Natural Hertiage reserve staff working on Muir of Dinnet.

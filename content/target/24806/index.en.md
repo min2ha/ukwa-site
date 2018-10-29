@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rupa Huq (Labour  Politician)
-
 Rupa Huq stood as Labour Party candidate for Ealing Central & Acton in the 2017 General Elections and was elected MP. She was first elected as a MP for Ealing Central and Acton in 2015.

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Stepney City Farm
-
 Stepney City Farm in London’s East End is a working farm, Rural Arts Centre and community meeting place. They give children and adults a chance to meet farm animals, learn how to grow food and try out arts and crafts.

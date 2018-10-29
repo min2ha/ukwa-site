@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# www.KellySibley.com
-
 <p>Website of table tennis player Kelly Sibley,  member of Team England for the Glasgow 2014 Commonwealth Games.</p>

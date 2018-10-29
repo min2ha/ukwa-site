@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Christian People's Alliance
-
 The CPA is a Christian Democratic party whose members come from all backgrounds and church traditions. We actively promote Christian social teaching and draw our principles from the Bible, especially the life and teaching of Jesus Christ.

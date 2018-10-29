@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Local Visitor: Nottingham has its say on the EU referendum
-

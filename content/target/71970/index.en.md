@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Illogan Park RFC on Pitchero
-
 The official website of Illogan Park Rugby Football Club.

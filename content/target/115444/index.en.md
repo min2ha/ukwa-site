@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Foundation for Women's Health, Research and Development - FORWARD
-
 None

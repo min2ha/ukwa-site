@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The London Coffee Festival
-
 Website for the London Coffee Festival.

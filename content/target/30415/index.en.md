@@ -10,5 +10,3 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Welsh Centre for Printing and Coating | Canolfan Argraffu a Chaenu Cymru (WCPC)
-

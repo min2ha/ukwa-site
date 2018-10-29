@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brian Smith TUSC (@VoteSocialist) on Twitter
-
 The Twitter profile of Brian Smith, the Trade Unionist and Socialist Coalition candidate for Glasgow South in the UK General Election on the 7th May 2015 and Glasgow Carthcart in the 2016 Scottish Parliamentary election.

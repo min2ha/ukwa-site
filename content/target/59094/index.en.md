@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Treasure Maps: Welsh Slate Mines, Metal Mines, Quarries and Ruins
-
 The site provides information, photography and observations from abandoned Slate Mines, Metal Mines, Quarries and Ruins across North Wales. 

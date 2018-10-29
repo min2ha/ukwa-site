@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sampford Peverell Society
-
 This site could be useful to anybody with an interest in the parish of Sampford Peverell, Devon, England.

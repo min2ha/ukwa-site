@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit ruling: Lord Chancellor backs judiciary amid row
-
 The Lord Chancellor backed the independence of the UK's judiciary but stopped short of condemning attacks on senior judges over the Brexit ruling. 

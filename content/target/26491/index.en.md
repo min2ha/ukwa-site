@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tory economic plan is NOT working, at all - sadly, their PR war is
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Internal Fire Museum of Power
-
 Internal Fire Museum of Power is located at Tanygroes, Ceredigion.

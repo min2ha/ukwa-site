@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sion Swifts Ladies (@SionSwiftsLFC) on Twitter
-
 The official Twitter account of Sion Swifts Ladies FC.

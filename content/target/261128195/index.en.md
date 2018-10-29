@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mascot
-
 <p>The website for Clyde, official Mascot of the Commonwealth Games XX.</p>

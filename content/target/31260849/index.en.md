@@ -10,5 +10,3 @@
   "start_date": "2009-08-21T00:00:00Z"
 }
 
-# BBC News: UK troops in Afghanistan
-

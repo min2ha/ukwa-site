@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Somerset Archives & Local Studies
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Vote No Borders
-
 <p>Vote No Borders Campaign provides a platform for Scottish voters, and other concerned people who do not have a vote in the referendum, to share their positive views on Scotland remaining part of the UK.</p>

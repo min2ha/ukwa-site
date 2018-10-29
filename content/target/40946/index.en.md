@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# North Kesteven District Council
-
 Website of North Kesteven District Council which gives access to information about council services, council news, spending and performance, consultations, key plans and policies, and committee papers and agenda.

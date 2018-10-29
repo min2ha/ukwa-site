@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# London Irish
-
 The official website of London Irish

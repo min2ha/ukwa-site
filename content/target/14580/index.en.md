@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Pembrokeshire Virtual Museum
-
 <p>The Virtual Museum provides a short historical introduction to Pembrokeshire.</p>

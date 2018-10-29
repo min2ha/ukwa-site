@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# clare e potter: poet. writer. performer. educator. 
-
 Clare Potter is a poet, writer, performer and educator. She teaches creative writing at Cardiff University and won the John Tripp Award for Spoken Poetry. She received a bursary from Literature Wales and has written a subsequent collection, A Certain Darkness.

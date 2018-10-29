@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Grant Thornton: Key Challenges Facing MSBs
-
 Grant Thornton is an organisation that deals with independent assurance, tax and advisory firms. These firms help dynamic organisations unlock their potential for growth by providing meaningful, forward looking advice.

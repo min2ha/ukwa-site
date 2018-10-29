@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Quidditch forum 
-
 UK-based Quidditch forum 

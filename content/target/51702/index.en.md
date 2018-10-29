@@ -10,8 +10,6 @@
   "start_date": "2017-04-04T09:00:00Z"
 }
 
-# Ciliopathy Alliance
-
 The Ciliopathy Alliance brings together patient support groups, researchers, doctors and allied health professionals representing patients and families living with and affected by ciliopathies - diseases caused by defects in the function or structure of cilia.
 
 Dysfunctional cilia are known to underlie a number of often chronically disabling and sometimes life-threatening genetic conditions. They affect multiple systems, causing blindness, deafness, chronic respiratory infections, kidney disease, heart disease, infertility, obesity and diabetes.

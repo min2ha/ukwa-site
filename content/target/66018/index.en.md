@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May defends customs Brexit 'backstop'
-
 Theresa May said that a "backstop" plan to keep the UK aligned with the EU's customs union after 2020 would only apply "in a very limited set of circumstances". 
 

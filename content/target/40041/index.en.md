@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# St Matthias Primary School World War 1 project
-
 Project enabling St Matthias Primary School are running a range of projects to commemorate the World War 1 Centenary in the Autumn Term of 2014.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# North Glenrothes Community Council
-
 Site of a community council in Fife.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bristol Post: How will Bristol vote in the EU referendum?
-
 Opinions of key figures and business owners in Bristol on the vote in relation to the EU referendum.

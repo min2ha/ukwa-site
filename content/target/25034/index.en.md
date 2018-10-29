@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Back Ed, says Brand, comic who believes voting is a joke
-
 None

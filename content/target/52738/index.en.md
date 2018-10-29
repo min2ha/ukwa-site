@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Preservation at Oxford and Cambridge (DPOC)
-
 A collaborative research project to evaluate and provide sustainable recommendations for their digital preservation programmes.

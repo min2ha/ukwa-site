@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# More powerful Europe EU commissioners finally talking sense as one admits Brexit would be a good thing 
-
 Sun, The

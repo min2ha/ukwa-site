@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# WalesOnline: Cross-border education row? It's a taste of things to come as we head towards polling day 
-

@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Fife Folk Museum
-
 Site of a museum of agriculture, craft and history located in Ceres, Fife, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Celtic Studies"
 }
 
-# Ashbourne Highland Gathering
-
 None

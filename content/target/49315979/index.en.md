@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Theatres Trust, The
-
 The Theatres Trust is the National Advisory Body for Theatres, protecting theatres for everyone. They operate nationally in England, Scotland and Wales promoting the value of theatre buildings and championing their future.

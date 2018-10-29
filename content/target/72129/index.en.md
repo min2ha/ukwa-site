@@ -11,7 +11,5 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# BBC News: DUP 'won't accept' Brexit Irish Sea checks
-
 DUP leader Arlene Foster emphasized that the DUP would not support a Brexit deal which could lead to any new checks on goods coming into NI from elsewhere in the UK,
 

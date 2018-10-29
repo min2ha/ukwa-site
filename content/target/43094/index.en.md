@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Drone Campaign Network 
-
 The Drone Campaign Network is a UK-based network of organisations working together to share information and coordinate collective action in relation to military drones.

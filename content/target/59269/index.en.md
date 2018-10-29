@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Lodge St Vincent Sandyford No. 553
-
 Site of a masonic lodge located in Galsgow and affiliated with the Grand Lodge of Scotland.

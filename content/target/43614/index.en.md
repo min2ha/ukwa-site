@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Just Football: Bye, Bellerin! Peace out, Payet! Five ways Brexit could change English football forever
-
 Just Football blog post on five ways Brexit could change English football

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The first-time voters born under Blair: where they stand and what they think
-
 None

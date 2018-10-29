@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Crown Prosecution Service (@cpsuk) on Twitter
-
 The Crown Prosecution Service is responsible for criminal prosecutions in England & Wales. 

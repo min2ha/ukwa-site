@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: How Britain's Eurosceptic newspapers reacted to David Cameron's 'new settlement'
-

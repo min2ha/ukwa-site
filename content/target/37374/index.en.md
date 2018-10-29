@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vice: What do serving prisoners think about Brexit?
-
 An informal and subjective relation of Brexit inmate opinions by a prison teacher

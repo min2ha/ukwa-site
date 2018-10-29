@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff City Football Club
-
 Cardiff City Football Club (Welsh: Clwb Pêl-droed Dinas Caerdydd) is a professional association football club based in the city of Cardiff, Wales.

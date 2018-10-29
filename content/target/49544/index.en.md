@@ -10,7 +10,5 @@
   "start_date": "2017-02-18T09:00:00Z"
 }
 
-# National Badminton Centre
-
 The National Badminton Centre, based in Milton Keynes, opened its doors to members in January 2000. It is the training centre for England's professional Badminton Squad. It also has a conference centre and on-site accommodation.
 

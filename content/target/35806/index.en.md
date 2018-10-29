@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Hugh Gaffney (@hgaffney48) on Twitter
-
 Twitter profile of Hugh Gaffney, Scottish Labour candidate for Coatbridge, Chryston and Bellshill in the 2017 general election.

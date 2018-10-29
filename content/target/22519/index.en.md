@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour faces backlash from some of Britain's biggest companies over advert
-
 None

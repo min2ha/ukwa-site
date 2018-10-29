@@ -10,6 +10,4 @@
   "start_date": "2016-08-10T10:00:00Z"
 }
 
-# GTFM Community Radio
-
 GTFM was the first Ofcom Community Radio licensee Wales in 2006 and serves Pontypridd and Rhondda Cynon Taff,

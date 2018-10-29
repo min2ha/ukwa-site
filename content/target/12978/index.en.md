@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Arches, The
-
 The Arches is a cultural venue based under Glasgow's Central Station and host to a wide variety of performances during the XX Commonwealth Games.

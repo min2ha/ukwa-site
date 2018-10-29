@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Faith Matters
-
 Faith Matters is a not for profit organization which works on reducing extremism and developing platforms for discourse and interaction between Muslim, Sikh, Christian and Jewish communities right across the UK. Faith Matters also works extensively on community cohesion, interfaith, conflict resolution and prevent programmes at a local, national and international level.

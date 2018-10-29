@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Why British environmentalists should vote for Brexit 
-
 Michael Liebreich, the founder and chairman of the advisory board of Bloomberg New Energy Finance, argues that British environmentalists should vote for Brexit as the best recent environmental policies (such as phasing out coal and creating nature reserves) were local initiatives, not driven by the EU

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Prime Minister's Office:  PM: Cost of holidays and travel to rise if the UK left the EU
-
 The cost of a 4-person holiday to Europe could rise by £230 following a vote to leave the EU, Treasury analysis shows

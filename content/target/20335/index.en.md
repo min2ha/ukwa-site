@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Beckenham Labour Party on Facebook
-

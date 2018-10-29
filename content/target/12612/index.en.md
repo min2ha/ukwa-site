@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Indy Convention (ScotIndConv) on Twitter
-
 <p>The twitter profile of the Scottish Independence Convention, a cross party group to promote independence.</p>

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Guardian, The: What Britain really needs is a memorial to the Easter Rising
-
 Article by Jonathan Jones 

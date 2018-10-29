@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Scottish Salmon Think Tank
-
 Site of a pressure group aiming for reform in salmon cultivation in Scottish sea-lochs.

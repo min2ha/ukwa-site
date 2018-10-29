@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Overclockers UK Forums
-
 An online enthusiast forum concerned with PC building. Discusses general hardware, project logs, CPUs and various other topics. 

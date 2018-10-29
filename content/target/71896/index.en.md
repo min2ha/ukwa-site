@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kingswood RFC on Pitchero
-
 The official website of Kingswood Rugby Football Club.

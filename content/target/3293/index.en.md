@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Church in Wales
-
 <p>Christian Anglican.<br />
 The Anglican (Disestablished) Church in Wales.</p>

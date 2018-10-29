@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Ansar Ali Khan, Labour on Facebook
-
 None

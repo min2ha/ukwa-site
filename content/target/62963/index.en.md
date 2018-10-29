@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Myrtle House, Church in Community, Llanelli
-

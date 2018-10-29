@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Halifax RLFC (@Halifax_RLFC) on Twitter
-
 The official Twitter account of Halifax Rugby League Football Club. Situated on the south side of Halifax, Shay Stadium is the home of Halifax Rugby League Football Club.
 
 Founded in 1873 the club was formerly a rugby union club, as were all clubs before the formation of the rugby league in 1895.

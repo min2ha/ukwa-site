@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Homeless Link: Joint manifesto to end rough sleeping
-
 Homeless Link, in partnership with charities Centrepoint, Crisis, Shelter and St Mungo’s, is calling for all political parties to commit to end rough sleeping, with an ambitious new national initiative.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War exhibition and commemoration events - Pitminster and Angersliegh Parish
-
 Project to create and curate an exhibition and host an number of events (in Pitminster and Angersliegh, Blackdown Hills, Somerset) commemorating local people who served in the First World War.

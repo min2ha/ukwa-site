@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Slugger O'Toole: Insurrection 1916…… a Unionist perspective
-
 Article by Quincey Dougan

@@ -10,6 +10,4 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# African Studies Association of the UK (ASAUK)
-
 The ASAUK is a scholarly organisation with a membership that includes academics, journalists and broadcasters, civil servants and many others with an interest in Africa. 

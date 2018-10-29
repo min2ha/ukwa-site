@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Kerala Catholic Association Of The UK
-
 Kerala Catholic Association of the UK

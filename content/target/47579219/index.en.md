@@ -10,5 +10,3 @@
   "start_date": "2010-05-28T00:00:00Z"
 }
 
-# Nature of God, The
-

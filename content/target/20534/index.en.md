@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Guardian view on the leaders' debate fiasco: prime ministerial cynicism 
-

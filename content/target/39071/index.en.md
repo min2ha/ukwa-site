@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Sean Driscoll (@Sean4CardiffW) on Twitter (Conservative candidate for Cardiff West)
-
 Sean Driscoll is the Conservative candidate for Cardiff West at the 2016 National Assembly Elections.

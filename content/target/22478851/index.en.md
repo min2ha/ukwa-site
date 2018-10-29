@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Studio 5 Book Arts
-
 None

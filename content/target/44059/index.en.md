@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WWI Lives Remembered Christ Church Southgate 
-
 The stories of some of the 146 men from Southgate, Barnet & Palmers Green listed on the WW1 memorial inside Christ Church Southgate.

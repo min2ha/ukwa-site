@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Subterranean Sepoys - A Radio Play about Life in the Trenches for the Indian Army on the Western Front
-

@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# The Robin Hood Tax
-
 A campaign for the introduction of a tax on financial transactions, and for the proceeds of the tax to be put to poverty reduction initiatives. The website includes news and campaigns materials, in particular as relates to the UK.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lochcarron Camanachd-Lochcarron Shinty Club on Facebook
-
 Facebook page for a shinty club based at Lochcarron, Highland.

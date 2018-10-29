@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Centre for Climate Change Economics and Policy
-
 The ESRC Centre for Climate Change Economics and Policy (CCCEP) brings together some of the world's leading researchers on climate change economics and policy, from many different disciplines. The Centre is hosted jointly by the University of Leeds and the London School of Economics and Political Science (LSE).

@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Engage Cymru
-
 Engage Cymru represents the Wales body of Engage members, responding to training and networking needs within gallery education with a Wales focus. They are a part of Engage, a professional association dedicated to promoting greater access to and enjoyment of the visual arts, through action-research projects, training, publications and advocacy. 

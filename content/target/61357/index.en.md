@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# The Road To Port Of Barry: Carnage In A Caravan
-
 The Road To Port Of Barry is a short black comedy play set in South Wales written by Robert Gould & Christopher J. Orton. It travelled theatres across south Wales in 2010.

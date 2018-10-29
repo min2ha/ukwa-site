@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The V&A’s election show is ‘the artistic equivalent of a hung parliament’
-
 None

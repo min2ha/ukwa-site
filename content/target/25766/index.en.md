@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Do the SNP's manifesto sums add up?
-
 None

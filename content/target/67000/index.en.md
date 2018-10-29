@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# The Barras Market Glasgow
-
 Site of The Barras Market Glasgow, an indoor and street weekend market in Glasgow, Scotland. 

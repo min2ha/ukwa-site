@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# People's Chancellor (@PplsChancellor) on Twitter
-
 The People's Chancellor Page is a campaign to support John McDonnell in becoming Chancellor of the Exchequer. They are the sister page of JC4PM and do not speak for either person or the Labour Party in an official capacity.

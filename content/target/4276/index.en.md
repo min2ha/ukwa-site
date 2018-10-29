@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War One Centenary: Continuations and Beginnings
-
 <p>An Open Educational Resource from the University of Oxford, supporting new directions in the teaching of World War One.</p>

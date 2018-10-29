@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Northern Ireland 'may become part of EU customs territory'
-
 Northern Ireland could be considered part of European Union customs territory post-Brexit, according to Irish national broadcaster RTE 
 

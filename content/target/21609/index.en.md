@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Talk About Local: General election 2015 planning for hyperlocals
-
 None

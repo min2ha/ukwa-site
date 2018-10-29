@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Focus E15 / Focus E15 Mothers campaign
-
 Facebook page of the Focus E15 campaign. Fighting for decent homes for all, to stop evictions and social cleansing. "Housing is a human right!  We are originally a group of mothers from a hostel in East London Stratford called Focus E15. Focus E15 is a hostel run by East Thames housing association to accommodate young people under 25."

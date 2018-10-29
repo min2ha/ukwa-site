@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Ethnic minorities are being sold poisionous lies on the benefits of Brexit
-

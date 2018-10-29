@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Football Historian
-
 Site on an online association football fanzine focusing on the game in Scotland and played by Scots.

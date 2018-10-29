@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: EU summit on 29 April to discuss way ahead
-
 A summit of EU member states to discuss Brexit was be held on 29 April 2017, a month after the UK triggered Article 50. The meeting would be used to agree the guidelines for the EU's negotiating team headed by Michel Barnier.
 

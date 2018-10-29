@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T08:00:00Z"
 }
 
-# UK European Migration Network (UK EMN)
-
 The UK European Migration Network (UK EMN) provide up-to-date, objective, reliable and comparable information on migration and asylum to inform policy development at National and EU levels. 

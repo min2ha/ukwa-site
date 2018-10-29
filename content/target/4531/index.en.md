@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# UK Government: Death of Nelson Mandela
-
 <p>This web page describes the immediate response of the UK government to the news of the death of Nelson Mandela. It links to statements by Prime Minister David Cameron, Deputy Prime Minister Nick Clegg and Foreign Secretary William Hague.</p>

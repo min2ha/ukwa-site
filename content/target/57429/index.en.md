@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Tracey Rhys
-
 Tracey Rhys is a Welsh poet from Bridgend. Her first collection of poems, Teaching a Bird to Sing, was published in 2016 by Green Bottle Press.

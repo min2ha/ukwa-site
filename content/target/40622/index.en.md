@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cylchgrawn Taliesin
-
 Taliesin is a Welsh literature magazine that begun in 1961 but ceased publication in 2016.

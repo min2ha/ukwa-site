@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The world is clear-eyed about Brexit, and knows it must be reversed
-

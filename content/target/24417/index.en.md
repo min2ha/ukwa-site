@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Conservative policies promise 30 hours of free childcare as manifesto is launched: as it happened
-
 None

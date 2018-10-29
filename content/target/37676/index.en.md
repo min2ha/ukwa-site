@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Welsh National Rights Movement | Mudiad Hawliau Cenedlaethol Cymru
-
 Welsh National Rights Movement campaign for full constitutional political sovereignty in a free Welsh Republic. 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave Warwick (@WarwickLeaveEU) on Twitter
-
 Campaigning for a Leave Vote in the EU referendum on 23rd June.

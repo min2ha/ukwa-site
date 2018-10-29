@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Ashton Grammar School memorial project, The 
-
 Project to get a wooden memorial conserved and displayed as part of an exhibition at Portland Basin Museum.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Past Tense : London radical histories and possibilities
-
 Past Tense is a loose collective project that explores working class, social, subversive and underground history and geography, mainly (but not always) around the areas where we live in London – in print, online, and through walks and occasional talks or actions.

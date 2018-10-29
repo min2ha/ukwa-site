@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Sally Matthews
-
 Sally Matthews is an elected member of the RCA (Royal Cambrian Academy) born in Tamworth and now lives near Builth Wells, Powys. Her work mainly involves animal sculptures.

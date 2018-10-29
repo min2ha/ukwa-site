@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Embassy of the Maldives, London
-
 As a resident mission in a key European location, the London Embassy leads the Government of Maldives’ efforts to promote Maldives’ interests in the United Kingdom and Europe, and share an accurate representation of the Maldives with our European partners. 

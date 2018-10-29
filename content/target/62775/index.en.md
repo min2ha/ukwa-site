@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Springfield Cambridge Church of Scotland
-
 Site of a Church of Scotland parish church at Bishopbriggs, Glasgow.

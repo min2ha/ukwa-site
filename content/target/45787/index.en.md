@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Gregory Akerman
-
 Gregory Akerman is a writer/comic who has been working for a few years. He has written for various things and performed with various people.

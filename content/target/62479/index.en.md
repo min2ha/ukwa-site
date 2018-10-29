@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# History of the Women's Football Association
-
 This website charts the key developments in women's football from 1968 to 1993.

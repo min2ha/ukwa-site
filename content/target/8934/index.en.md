@@ -10,6 +10,4 @@
   "start_date": "2014-01-08T18:00:00Z"
 }
 
-# Suburban Neighbourhood Adaptation for a Changing Climate - SNACC
-
 None

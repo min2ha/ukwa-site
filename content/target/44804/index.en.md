@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Louis Barabbas blog
-
 Blog by musician Louis Barabbas on musical project about politics in the light of the EU Referendum

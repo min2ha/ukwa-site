@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Keith & Dufftown Railway
-
 Site of a railway preservation group in Moray, Scotland.

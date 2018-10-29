@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# West Side Cinema
-
 Site of a community cinema located at Stromness, Orkney.

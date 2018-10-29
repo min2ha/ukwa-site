@@ -10,6 +10,4 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# Lodge Blairhoyle No. 792
-
 Site of a masonic lodge located in Blairhoyle, near Port of Menteith, Stirlingshire and affiliated with the Grand Lodge of Scotland.

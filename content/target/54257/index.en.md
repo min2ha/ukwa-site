@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# Yellae Deuks
-
 Site of an annual music festival located in Anstruther, Fife, Scotland, featuring local acts of Scottish, national repute.

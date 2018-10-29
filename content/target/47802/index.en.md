@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# International Consolidated Airlines Group SA
-
 International Consolidated Airlines Group, S.A. is a British-Spanish multinational airline holding company.  It was formed in January 2011 by the merger of British Airways and Iberia, the flag carrier airlines of the United Kingdom and Spain respectively.  Its other operating subsidiaries are IAG Cargo, Aer Lingus and Vueling

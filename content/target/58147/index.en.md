@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Sebastian Bruno
-
 Sebastián Bruno is an Argentine/Spanish visual artist, working with photography, moving image and installation currently living in Wales and a graduate from the Documentary Photography course at the University of South Wales.

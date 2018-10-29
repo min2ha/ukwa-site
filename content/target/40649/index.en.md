@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bigger Picture, The -- Vote Remain to keep Scotland in the EU
-
 The Bigger Picture is a campaign of the European Movement in Scotland, the nation's dedicated pro-European campaigning group. 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian: Brexit plans could fall apart 'like a chocolate orange', says auditor general
-
 Theresa May's Government was putting a successful Brexit at risk by failing to show "active and energetic" leadership, the head of the National Audit Office warned. In an unprecedented intervention Sir Amyas Morse said Whitehall departments were being left to "struggle on their own" with the challenges of Brexit because of a failure of leadership and direction.

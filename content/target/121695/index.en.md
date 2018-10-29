@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War One Cemeteries
-
 Website run by Terry Heard and Brent Whittam listing names of the fallen servicemen. It also contains photos of the cemeteries. 

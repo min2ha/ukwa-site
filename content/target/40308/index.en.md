@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Save Wales: Trail Riders Fellowship (TRF)
-
 Trail Riders Fellowship (TRF) represents responsible trail riders and promote the preservation of historic, public rights of way for the benefit of all user groups.

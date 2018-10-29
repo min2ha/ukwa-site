@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Bushmills Inn
-
 None

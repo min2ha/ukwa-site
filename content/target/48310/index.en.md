@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Donald Trump's first UK post-election interview: Brexit a 'great thing'
-

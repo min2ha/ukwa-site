@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# North Atlantic Rib Marine
-
 <p>North Atlantic RIB Marine Ltd is a marine company providing Rigid Inflatable Boats (RIBs) and boating accessories across UK, Ireland and Europe.</p>

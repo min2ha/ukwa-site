@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BritishLibraryPolicy (@BLPolicy) on Twitter
-
 Tweets from the British Library's public policy team.

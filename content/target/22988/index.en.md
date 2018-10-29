@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Whybrow (@martinwhybrow) on Twitter (Green Party  Politician)
-
 Martin Whybrow stood as Green Party candidate for Folkestone and Hythe at the 2017 General Election but was not elected.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Brian Higginson (@higginson_b) on Twitter (UKIP candidate for Belfast West)
-

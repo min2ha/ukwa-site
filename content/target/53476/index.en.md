@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Darren Woodiwiss (@darrenwoodiwiss) on Twitter (Green Party Politician)
-
 Darren Woodwiss stood as Green Party candidate for Harborough in the 2017 General Election but was not elected.

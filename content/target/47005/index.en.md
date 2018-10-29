@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# Parliament Research Briefings
-
 Access to research briefings produced by the House of Commons Library, the House of Lords Library and the Parliamentary Office of Science and Technology (POST). 

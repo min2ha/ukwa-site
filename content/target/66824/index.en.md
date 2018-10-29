@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Ukulele Wolves
-
 Ukulele Wolves meet for jam sessions at the Wolf's Castle, Llanishen and play ukulele music commonly associated with Hawaii.

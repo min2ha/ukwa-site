@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# VisitBritain: Tourism 2012 Games
-

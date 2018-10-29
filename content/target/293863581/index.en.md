@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Argoed Community Council
-
 <p>Argoed Community Council serves the communities of Bryn y Baal, Llong, New Brighton and Mynydd Isa.</p>

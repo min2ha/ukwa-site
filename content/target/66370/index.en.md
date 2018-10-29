@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: May’s big gamble: PM lays down the gauntlet to Tory Brexiteers and Remainers by urging EU customs extension until 2023 as she paves way for major Commons showdown   
-

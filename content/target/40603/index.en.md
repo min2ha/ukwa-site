@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 'Our 15: remembered lives'
-
 Project to stage an exhibition and produce one or more publications to commemorate the lives and the families of the fifteen young men and boys named on the Wansted United Reformed Church’s Great War Memorial.

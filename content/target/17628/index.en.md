@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour may not win the general election outright, Peter Mandelson says
-
 None

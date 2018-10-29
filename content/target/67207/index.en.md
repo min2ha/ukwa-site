@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Dr Philip Lee MP
-
 Dr Phillip Lee is the Member of Parliament for the Bracknell Constituency.

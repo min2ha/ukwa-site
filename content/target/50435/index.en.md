@@ -10,6 +10,4 @@
   "start_date": "2017-03-14T09:00:00Z"
 }
 
-# Sickle Cell Society
-
 The Sickle Cell Society supports and represents people affected by sickle cell disease to improve their overall quality of life.

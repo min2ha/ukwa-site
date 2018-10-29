@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: Events: Professor Nigel Saul, "The 800th anniversary of Magna Carta"
-

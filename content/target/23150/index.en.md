@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tom Gordon (@HTScotPol) on Twitter
-
 Twitter account of Tom Gordon, Scottish Political Editor at the New Sunday Herald.

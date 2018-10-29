@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# Positive Outcomes for Dissociative Survivors (PODS)
-
 None

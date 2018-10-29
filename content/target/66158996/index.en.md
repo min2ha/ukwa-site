@@ -10,6 +10,4 @@
   "start_date": "2012-11-07T00:00:00Z"
 }
 
-# Roger McGough
-
 Main site UK Touring is being archived.

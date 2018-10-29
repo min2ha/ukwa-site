@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour election chaos over NHS as Ed Miliband accused of running 'comfort zone campaign'
-
 None

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tony Blair donates £1,000 to each Labour candidate in target seats
-

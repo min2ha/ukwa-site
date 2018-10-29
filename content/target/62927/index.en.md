@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Melin Meirion Mill
-
 Meirion Mill is a woollen mill at Dinas Mawddwy in Gwynedd. It was originally built in 1867 to serve as a warehouse for the nearby Minllyn slate quarry. It is now a tourist attraction and sales venue.

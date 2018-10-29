@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 21st June 2017: Debate on the Address
-
 Debate on the Queen's Speech, June 21st 2017, including issues relating to the UK's withdrawal from the EU

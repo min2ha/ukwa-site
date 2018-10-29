@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Word Power Books
-
 Word Power Books is an independent bookshop based in Edinburgh; it organises the annual Edinburgh Independent Radical Book Fair.

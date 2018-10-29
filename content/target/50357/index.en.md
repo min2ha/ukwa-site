@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Collective, The
-
 The Football Collective is dedicated network of people who wish to bring critical debate to football – for those interested and involved in building football for the future. 

@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Caitlin Jenkins
-
 Caitlin Jenkins is a potter from Ewenny, South Wales. Her family have been potters in Ewenny, South Wales since 1610.

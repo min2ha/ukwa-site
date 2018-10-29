@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Cumbria University Hospitals
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2013-03-18T00:00:00Z"
 }
 
-# OSS-Watch: open source software advisory service
-

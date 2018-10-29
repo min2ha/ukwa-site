@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: DAILY MAIL COMMENT: Now hire a diplomat who truly backs Brexit   
-

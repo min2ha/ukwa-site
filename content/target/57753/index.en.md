@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Artefacto
-
 Artefacto was founded in London by Sara Wingate Gray and Kate Lomax in 2013 to work with cultural and heritage organisations to provide new, creative ways for audiences to engage with collections.

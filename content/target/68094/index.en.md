@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Association of Surgeons in Training, The (ASiT)
-
 The Association of Surgeons in Training (ASiT) is an independent professional body and registered charity (No. 274841) which works to promote the highest standards in surgical training.

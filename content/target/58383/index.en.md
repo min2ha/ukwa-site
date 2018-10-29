@@ -10,6 +10,4 @@
   "start_date": "2017-11-02T09:00:00Z"
 }
 
-# Quite Interesting Limited (QI)
-
 Quite Interesting Limited is a British research company. It also provided the research for the British television panel game QI.

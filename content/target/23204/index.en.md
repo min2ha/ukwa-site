@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mark Isherwood on Facebook (Conservative candidate for Delyn)
-

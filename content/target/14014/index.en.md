@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Loki and The Kartel (@lokiscottishrap) on Twitter
-

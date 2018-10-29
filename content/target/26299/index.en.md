@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Grace - Fresh Vital Worship
-
 Grace is a creative and experimental church communities. It is based in Ealing, London, but has a global audience and connections. The site contains an archive of over 20 years of monthly services and liturgies, some of which have been published in book form, all available for others to use and adapt. Grace has constantly challenged what a church service can contain and how a church community can be organised.

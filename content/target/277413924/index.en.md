@@ -10,5 +10,3 @@
   "start_date": "2014-11-26T00:00:00Z"
 }
 
-# Rhys David Writer Editor
-

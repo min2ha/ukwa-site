@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# How do you make the Olympics pay? Fudge the figures
-
 A comment on the economic impact of hosting Olympic Games.

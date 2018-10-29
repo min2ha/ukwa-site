@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Anglesey Farmers Market
-
 Anglesey Farmers Market is held on the third Saturday of each month at Ysgol David Hughes, Menai Bridge. 

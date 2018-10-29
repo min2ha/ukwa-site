@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# InternetMatters: How can cyberbullying affect my child’s mental health?
-
 Internet Matters page on social media bullying

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum: many don’t care what happens next, they just wanted change
-
 Analysis of the vote leave result in the EU Referendum

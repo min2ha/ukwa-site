@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T02:00:00Z"
 }
 
-# Kidney Wales Foundation | Sefydliad Aren Cymru
-
 <p>Kidney Wales Foundation promote renal research and care and holds many fundraising events for the cause.</p>

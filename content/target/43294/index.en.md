@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Constitution Unit (@ConUnit_UCL) on Twitter
-
 The Constitution Unit is an independent, non-partisan research centre based in the Department of Political Science (@uclspp) at University College London.

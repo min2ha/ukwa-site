@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Cardiff Dragons FC
-
 Cardiff Dragons FC is Wales’ first Lesbian, Gay, Bisexual, Transgender and Intersex (LGBTI+) football club.

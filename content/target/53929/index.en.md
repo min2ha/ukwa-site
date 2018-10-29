@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# STV News: Political news, analysis, commentary and debate
-

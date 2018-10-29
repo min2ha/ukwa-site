@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Beautiful Barry
-
 Docks Incinerator Action Group (D.I.A.G) is a non party-political voluntary group of Barry residents who have been campaigning against the biomass plant since 2008.

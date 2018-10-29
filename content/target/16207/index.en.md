@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# British Eventing
-
 <p>British Eventing is the National Governing Body for the sport of Eventing in Great Britain. Eventing is a combination of all the disciplines of dressage, cross country over fixed fences and show jumping in one exciting activity. BE also owns and runs the Blenheim Palace International Horse Trials.</p>

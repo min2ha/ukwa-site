@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: So Ukip have lost their policy chief? No problem, I'll write the manifesto
-
 None

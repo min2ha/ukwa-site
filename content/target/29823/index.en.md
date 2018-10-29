@@ -10,6 +10,4 @@
   "start_date": "2015-08-17T10:00:00Z"
 }
 
-# Queen's Hall, The (@queens_hall) on Twitter
-
 Twitter profile of the Queen's Hall, a music venue in Edinburgh that participates in the Fringe Festival.

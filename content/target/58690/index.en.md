@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Standing Together Against Domestic Violence
-
 Standing Together Against Domestic Violence is a UK charity bringing communities together to end domestic abuse.

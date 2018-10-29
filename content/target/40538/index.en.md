@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great War Through Our Windows, The on Facebook
-
 Project taking inspiration from the unique stained glass War Memorial Windows in St Mary's Church, Swaffham Prior to create a musical drama that will illuminate the story of the people of the village during WW1.

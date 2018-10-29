@@ -10,5 +10,3 @@
   "start_date": "2015-04-30T09:00:00Z"
 }
 
-# David Naghi (@DavidNaghi) on Twitter (Liberal Democrats candidate for Faversham and Mid Kent)
-

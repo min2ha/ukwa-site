@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Monica Lennon – A campaigning champion for the communities of Central Scotland
-
 Monica Lennon is the Scottish Labour Party list candidate for Central Scotland region in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bhaktidham Wales
-
 Bhaktidham Wales is a charity advancing the Hindu faith and traditions and educating people about Indian & Hindu culture.

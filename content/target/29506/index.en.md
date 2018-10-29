@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Non-native Species Secretariat
-
 The Non-native Species Secretariat has responsibility for helping to coordinate the approach to invasive non-native species in Great Britain. They are responsible to a Programme Board which represents the relevant governments and agencies of England, Scotland and Wales.

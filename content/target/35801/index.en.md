@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Russell George AM (@russ_george) on Twitter (Conservative candidate for Montgomeryshire)
-
 Russell George is the Conservative candidate for Llanelli at the 2016 National Assembly for Wales Elections.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Salisbury and Stonehenge
-

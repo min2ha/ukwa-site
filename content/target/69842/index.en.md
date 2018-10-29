@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# 大英图书馆 / Da Ying Tu Shu Guan (The British Library) on Weibo
-
 The official Weibo social media account for the British Library. 

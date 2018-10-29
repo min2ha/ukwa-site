@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Swyddfa Gwirfoddoli Chwaraeon Caerdydd | Cardiff's Volunteer Sports Bureau 
-
 Sport-Cardiff VSB is co-ordinated by Cardiff City Council to identify, train and deploy volunteers across the sporting spectrum in Cardiff.

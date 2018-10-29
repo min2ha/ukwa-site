@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# World Rugby Museum (@wrugbymuseum) on Twitter
-
 The official Twitter account of the World Rugby Museum. The World Rugby Museum re-opened in early February 2018 in the South Stand of Twickenham Stadium. It was formerly known as ‘The Museum of Rugby’ in 1996 and became the World Rugby Museum in 2007.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Captive Animals’ Protection Society (CAPS)
-
 Founded in 1957, the Captive Animals’ Protection Society (CAPS) is a UK charity working to protect animals.

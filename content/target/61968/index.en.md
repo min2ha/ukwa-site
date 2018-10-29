@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aston Villa Ladies (@AVLFCOfficial) on Twitter
-
 Aston Villa Ladies Football Club is an English women's football team affiliated with Aston Villa, currently playing in the FA WSL 2. The club has been in existence under several names since 1973.

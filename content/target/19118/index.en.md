@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hereford Cathedral: Hereford Writ To Be Displayed At British Library
-

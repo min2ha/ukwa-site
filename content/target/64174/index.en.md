@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# womensgrid (@womensgrid) on Twitter
-
 Women's issues in the UK and Ireland

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Somerset Partnership NHS Foundation Trust
-
 None

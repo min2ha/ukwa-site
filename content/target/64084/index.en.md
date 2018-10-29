@@ -11,7 +11,5 @@
   "subject": "Gender Equality"
 }
 
-# Birthrights (@birthrightsorg) on Twitter
-
 @birthrightsorg 
 Birthrights promotes human rights in pregnancy and childbirth. We provide information, advice and training on lawful treatment of women in maternity care.

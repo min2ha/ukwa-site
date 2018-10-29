@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Place for Hope
-
 Site of Scottish faith based charity promoting transformational potential of conflict's potential for peacebuildling in and between communities.

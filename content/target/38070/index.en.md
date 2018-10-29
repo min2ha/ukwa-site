@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chiswick Stronger In (@Chiswick Stays) on Twitter
-
 Chiswick local campaign for the UK to stay in the EU

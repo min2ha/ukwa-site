@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Complementary Therapists Association (CThA)
-
 A professional association representing sports, spa and complementary therapists in the UK and Ireland. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Stewart Bennett (MarkSBBennett) on Twitter
-
 The official twitter profile of rugby player Mark Stewart Bennett.

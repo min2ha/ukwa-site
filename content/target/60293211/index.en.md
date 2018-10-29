@@ -10,5 +10,3 @@
   "start_date": "2011-03-09T00:00:00Z"
 }
 
-# Medicine Garden
-

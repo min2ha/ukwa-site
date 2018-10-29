@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Northamptonshire Telegraph: 'Honour 1916 heroes in Derry' - IRSP
-

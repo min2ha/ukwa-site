@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Civitas: Inclusive Capitalism: How we can make independence work for everyone
-
 Brexit provides the UK with an opportunity to break free of market fundamentalism and to embrace a new Inclusive Capitalism – an economic and political system compatible with democracy, personal freedom, international peace, and a market economy that is inclusive rather than extractive. This system recognises that a market economy is not a natural outcome found in the absence of intervention by the state. Rather, it is an achievement of legislation and public policy. We need continuously to refine the laws and institutions of business and commerce.
 

@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Experience Wales in Venice
-
 Experience Wales in Venice is a web platform to showcase Helen Sear work in  Cymru yn Fenis/Wales in Venice exhibition in Venice. They are also working with the fifteen artists to document their individual experiences of Wales in Venice. 

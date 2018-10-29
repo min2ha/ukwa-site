@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Northern Soul: Liverpool Lambs: Untold Stories From the Easter Rising
-
 Article by Damon Fairclough, focusing on Liverpool volunteers in the Easter Rising and the play 'Liverpool Lambs' at the Liverpool Unity Theatre

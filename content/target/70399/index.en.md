@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Nostalgia Fest
-
 Website for the Nostalgia Fest.

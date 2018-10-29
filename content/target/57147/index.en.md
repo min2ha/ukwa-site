@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# Bernews: Bermuda's 24/7 News Source: #2017 Hurricane Season
-

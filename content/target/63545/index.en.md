@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Tarbert Church of Scotland
-

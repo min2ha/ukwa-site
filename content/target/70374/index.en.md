@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Museum and Digital Memory
-
 Museums and Digital Memory was also designed to align with Museum Futures, the British Museum’s latest Skills for the Future training programme, supported by the Heritage Lottery Fund. In partnership with over 20 museums across the UK, this five-year programme will invest in a new generation of diverse museum professionals to equip them with a dynamic understanding of digital data management, preservation and access practices relating to museum collections.

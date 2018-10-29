@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Newton International Fellowships
-
 The Newton International Fellowships scheme is run by The British Academy and the Royal Society. The Fellowships cover the broad range of physical, natural and social sciences and the humanities.

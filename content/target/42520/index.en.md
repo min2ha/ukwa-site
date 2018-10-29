@@ -10,6 +10,4 @@
   "start_date": "2016-06-07T10:00:00Z"
 }
 
-# Blenheim Palace
-
 Blenheim Palace is set in over 2,000 acres of beautiful Parkland landscaped by ‘Capability’ Brown.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Southend In Europe (@SouthendInEU) on Twitter
-
 Southend local campaign for the UK to stay in the EU

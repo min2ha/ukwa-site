@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Proud Cherries (@ProudCherries) on Twitter
-
 Afc Bournemouth's official LGBT+ and friends, supporters group

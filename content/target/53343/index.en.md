@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mark Whittet (@ScotsIndyRef3) on Twitter
-
 Twitter profile of Mark Whittet, Scotland’s Independence Referendum Party candidate for Edinburgh West in the 2017 general election.

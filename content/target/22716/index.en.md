@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Brendan Chilton (@BrendanChilton) on Twitter (Labour candidate for Ashford)
-

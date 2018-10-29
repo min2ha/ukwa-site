@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Margaret's Church, Forfar
-
 This is the parish website of St. Margaret's Church of Forfar. 

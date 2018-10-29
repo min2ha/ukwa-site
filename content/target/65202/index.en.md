@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May requests 'revised' customs proposals
-
 Theresa May asked officials to draw up "revised proposals" for post-Brexit customs arrangements after a key meeting with her most senior ministers on May 2nd 2018. One of the government's preferred options - a "customs partnership" - has faced heavy criticism from Brexiteers. Brexit Secretary David Davis told MPs on Thursday May 3rd that both options had merits and both had drawbacks "which is why we are taking more time over them".

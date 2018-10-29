@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Henley Hawks Rugby (@HenleyHawks) on Twitter
-
 The official Twitter account of Henley Rugby Football Club, is a sustainable community rugby club which started life in 1930 as Old Henleiensians.

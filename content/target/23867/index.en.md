@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T09:00:00Z"
 }
 
-# Adfywio Cymru | Renew Wales
-
 Renew Wales help to deliver community renewable and environmental project in Wales.

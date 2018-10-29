@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Pickled Politics
-
 None

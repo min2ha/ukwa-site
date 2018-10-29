@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Head of Steam: North East Railways in World War One Records
-
 The North East Railways in World War One project has seen a team of volunteers search through the archive at Head of Steam - Darlington Railway Museum and record over 9,000 railway men who enlisted in the First World War.

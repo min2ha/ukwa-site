@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Aileen McLeod (AileenMcLeodMSP) on Twitter
-
 Twitter profile of Aileen McLeod, the Scottish National Party Member of the Scottish Parliament for South Scotland.

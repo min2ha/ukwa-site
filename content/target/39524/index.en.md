@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Carwyn Jones on Facebook (Labour candidate for Bridgend)
-
 Carwyn Jones is the Labour candidate for Bridgend at the 2016 National Assembly for Wales elections. 

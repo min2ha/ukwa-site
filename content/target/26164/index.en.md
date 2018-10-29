@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Action for Renewables: Renewables manifesto
-
 To campaign for renewable energy, both at the local level and across the country.

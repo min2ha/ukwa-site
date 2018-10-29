@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Gloddaeth United Church, Llandudno
-

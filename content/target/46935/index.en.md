@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London Region CND 
-
 CND campaigns to scrap nuclear weapons and create genuine security for future generations.

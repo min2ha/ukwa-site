@@ -10,6 +10,4 @@
   "start_date": "2013-05-20T10:00:00Z"
 }
 
-# Emerald Group Publishing
-
 <p>Books and Journals publisher.</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-09-23T09:00:00Z"
 }
 
-# UK Copyright Literacy
-
 This site is for everyone interested in fostering a better understanding of copyright and intellectual property rights issues in the UK. It is aimed primarily at people with responsibility for communicating and modelling ethical practices relating to copyright and related rights, such as librarians, archivists, curators, teachers, researchers and copyright support staff. However it is intended to promote enlightened conversation on the subject for anyone whose professional or personal life is significantly affected by copyright.

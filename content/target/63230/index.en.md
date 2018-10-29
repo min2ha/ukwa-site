@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Crail Church
-
 Site of a Church of Scotland parish church at Crail, Fife, incorporating the associated parish church of Kinsbarns.

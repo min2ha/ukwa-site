@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Shetland Bird Club
-
 Site of a club promoting study, conservation and recording of the bird life of Shetland.

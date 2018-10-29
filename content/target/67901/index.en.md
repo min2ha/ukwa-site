@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# UoL Rugby Union (@LincsRugbyUnion) on Twitter
-
 The official Twitter account of Lincoln University Men's Rugby Union Club.

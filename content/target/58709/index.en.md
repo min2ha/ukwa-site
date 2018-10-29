@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Buccleuch Centre
-
 Site of a theatre and events venue at Langholm, Dumfries & Galloway

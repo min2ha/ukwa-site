@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Newyddion Solfach | Solva News
-
 Solva News is the online home of community news and information for residents and visitors to Solva alike.

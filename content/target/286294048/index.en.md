@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Playerthree
-
 <p>Playerthree is an independent digital production company based in London.</p>

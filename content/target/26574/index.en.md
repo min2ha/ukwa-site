@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: George Osborne made first secretary of state in cabinet reshuffle
-
 None

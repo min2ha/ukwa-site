@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research: Becoming one of us: Reforming the UK's citizenship system for a competitive, post-Brexit world
-
 The British citizenship system has lain unreformed for decades, and the Brexit vote has cast the status and security of the 3 million EU citizens living here into doubt. This report reviews current policy, and sets out the immediate reforms required to reshape a fairer, globally competitive citizenship system that would best serve Britain's interests.

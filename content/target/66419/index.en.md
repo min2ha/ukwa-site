@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# Centre for Health and the Public Interest (CHPI)
-
 The Centre for Health and the Public Interest (CHPI) began operation in June 2013 as a dynamic health and social care policy think-tank committed to the founding principles of the NHS.

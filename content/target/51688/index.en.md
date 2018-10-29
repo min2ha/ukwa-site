@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Scottish referendum: Nicola Sturgeon's letter to Theresa May
-
 Full  text of First Minister Nicola Sturgeon's letter to Prime Minister Theresa May, asking for a Section 30 order to allow Holyrood to legislate for a referendum on Scottish independence in the light of Brexit.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Western Isles Wildlife
-
 Site of a group providing photographs, information and lists of plant and animal wildlife in and around the Western Isles of Scotland.

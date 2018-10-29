@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# http://www.publications.parliament.uk/pa/cm201617/cmselect/cmenvaud/599/599.pdf
-
 MPs warn the Government that environmental protections must not be weakened during the process of leaving the EU or afterwards. The Environmental Audit Committee is calling on the Government to introduce a new Environmental Protection Act during Article 50 negotiations to maintain the UK's strong environmental standards.

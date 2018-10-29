@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Parc & Dare Band, The
-
 The Parc & Dare Band is a brass band based in Treorchy founded in 1893.

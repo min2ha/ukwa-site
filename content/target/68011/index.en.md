@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Nestle Rowntree RUFC (@RowntreesRUFC) on Twitter
-
 The official Twitter account of Nestle Rowntree Rugby Union Football Club. Founded originally in 1894 and re-founded in 1954.

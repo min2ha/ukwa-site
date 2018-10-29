@@ -10,6 +10,4 @@
   "start_date": "2016-01-21T09:00:00Z"
 }
 
-# Liverpool Theatres
-
 Website with listings and information about theatre productions in Liverpool and the surrounding area.

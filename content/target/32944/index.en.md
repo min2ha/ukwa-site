@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Rhoose and District History Society
-

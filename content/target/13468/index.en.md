@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pamela Nash MP (pamela_nash) on Twitter
-
 The twitter profile of Pamela Nash, Labour Parliamentary Candidate for Airdrie and Shotts.

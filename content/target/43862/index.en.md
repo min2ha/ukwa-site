@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Chris Bryant MP (@RhonddaBryant) on Twitter
-
 Chris Bryant is the MP for Rhondda.

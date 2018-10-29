@@ -10,6 +10,4 @@
   "start_date": "2016-07-27T11:00:00Z"
 }
 
-# Gwledd Conwy Feast 
-
 Gwledd Conwy Feast is a Food and Drink Festival held in Conwy.

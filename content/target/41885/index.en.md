@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Mancunian Matters
-
 News for the Manchester area.

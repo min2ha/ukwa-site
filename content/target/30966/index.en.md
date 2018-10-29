@@ -10,5 +10,3 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Words Per Minute | spoken word | music | film | performance
-

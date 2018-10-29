@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John the Evangelist  Parish, Caol
-
 Site of a Roman Catholic church in Scotland for the parish of St. John the Evangelist , Caol, Fort William, Highland, incorporating the church of St Mary & St Finnan, Glenfinnan.

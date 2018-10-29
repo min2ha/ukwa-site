@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Fortnight -culture, arts, politics
-
 None

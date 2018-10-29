@@ -10,6 +10,4 @@
   "start_date": "2017-02-15T09:00:00Z"
 }
 
-# Jumping Fitness Britain
-
 WorldJumping is a dynamic fitness training system, conducted on specially developed trampolines. 

@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Celtic Renewables
-
 Celtic Renewables develop processes for the production of biofuel from whisky byproducts.

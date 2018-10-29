@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Bad Influences: A Blog Fiction
-
 This website is the creative element of a PhD thesis on the Relational Poetics of Blog Fiction. It is an example of an important form of online, interactive distributed narrative. It is run by Emma Segar.

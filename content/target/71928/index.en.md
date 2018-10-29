@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kesteven RFC on Pitchero
-
 Kesteven RFC is the official rugby club of Grantham, Lincolnshire.

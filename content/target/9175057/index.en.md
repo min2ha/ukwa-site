@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Falmouth University 
-
 Official website of Falmouth University.

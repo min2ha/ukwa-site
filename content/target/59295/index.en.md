@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Somerset Birding Forum
-
 An online enthusiast community concerned with birdwatching in Somerset. The forum cover society news, bird sightings and other related topics.

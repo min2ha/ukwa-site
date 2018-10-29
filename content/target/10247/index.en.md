@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Andrew Cooper, Green Party on Twitter
-

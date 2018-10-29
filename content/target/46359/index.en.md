@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Davis was battling well against the Remain whingebags of Miliband and Clegg, says QUENTIN LETTS  
-
 Sketch of Commons debate on October 10th 2016 when Brexit Secretary David Davis gave an update on progress with plans to leave the EU.
 
 

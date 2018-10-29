@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# Rockbeare Parish Council
-
 PARISH STATISTICS:
 Population estimated 2012; 682 electors
 368 Households

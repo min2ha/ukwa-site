@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Church, Chertsey
-
 St. Peter’s Chertsey is a growing, lively Anglican Church with a variety of ministries. 

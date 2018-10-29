@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hillingdon Health and Wellbeing Board
-
 None

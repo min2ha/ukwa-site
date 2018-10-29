@@ -10,6 +10,4 @@
   "start_date": "2015-11-20T09:00:00Z"
 }
 
-# Rhona MacLeod, Forensic Scientist
-
 Official website for Rhona MacLeod, Forensic Scientist, creation of crime writer Lin Anderson.

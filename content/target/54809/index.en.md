@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Will Tories and DUP seal a deal?
-
 Reports on progress with negotiation of a deal for the Democratic Unionist Party MPs to support Theresa May's minority government in Parliament

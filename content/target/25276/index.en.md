@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: General Election goes ballistic.. Tories and Labour go head to head over Trident renewal
-
 None

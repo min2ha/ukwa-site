@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Michael Eavis urges Glastonbury fans to use their vote on Europe 
-
 Guaardian, The

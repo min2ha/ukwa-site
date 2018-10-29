@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# BBC News: General election: What you need to know
-
 Information about the the 2017 General Election and information about the outgoing parliament. 

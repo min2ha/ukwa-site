@@ -10,6 +10,4 @@
   "start_date": "2017-10-18T09:00:00Z"
 }
 
-# Peter Douglas Edwards
-
 Peter Douglas Edwards is a British portrait artist.

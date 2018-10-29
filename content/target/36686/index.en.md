@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Leave campaign public letter sparks row over sole trader supporters
-

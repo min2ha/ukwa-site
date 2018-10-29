@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Jane Hutt (Labour Assembly Member for Vale of Glamorgan)
-

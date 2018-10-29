@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Canolfan Bedwyr
-
 Bangor University's Centre for Welsh Language Services, Research and Technology.

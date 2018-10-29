@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# JR Dalziel Limited
-
 JR Dalziel Limited is a company based in Bellshill, Scotland, that serves the meat processing and retail butchery industry.

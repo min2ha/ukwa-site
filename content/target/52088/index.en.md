@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Borderlands Mission Area | Ardal Cenhadaeth Y Gororau
-

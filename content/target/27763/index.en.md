@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Magna Carta, Tunis and why tourists are still a soft but effective target 
-

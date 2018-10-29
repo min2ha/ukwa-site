@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Mosque Anwar–e–Madina
-
 Site of a mosque in Livingston, West Lothian.

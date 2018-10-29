@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election morning briefing: Sturgeon 'walks the line' as Miliband rules out deal
-
 None

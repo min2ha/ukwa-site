@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Tyfu a Datblygu | Up & Coming
-
 Up & Coming is managed by Safer Merthyr Tydfil and funded by the Heritage Lottery Fund. Up and Coming is a young people’s project designed by young people for young people and will be engaged in a range of outreach activities in particular those from disadvantaged backgrounds.

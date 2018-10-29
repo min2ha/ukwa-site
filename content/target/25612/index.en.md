@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Housing policies in the general election – what do the experts think?
-
 None

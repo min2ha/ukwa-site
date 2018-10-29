@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Central: Barge from The Queen’s Diamond Jubilee to lead Magna Carta anniversary river pageant
-

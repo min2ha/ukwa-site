@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library Events (@eventsBL/) on Twitter
-
 Inspiring British Library events in the heart of London

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bridge Chruch, Chepstow
-

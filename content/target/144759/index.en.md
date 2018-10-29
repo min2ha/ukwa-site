@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Ron Aitken : Liberal Democrat Scottish parliamentary candidate for Kilmarnock and Loudoun
-
 None

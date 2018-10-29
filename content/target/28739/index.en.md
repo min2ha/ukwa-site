@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate UK
-
 Climate UK is the national face of local climate action. We are the network of climate change partnership organisations in England, Northern Ireland and have close links with the Scottish Government-funded Adaptation Scotland programme and the Welsh Government.

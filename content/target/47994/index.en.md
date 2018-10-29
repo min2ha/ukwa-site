@@ -10,6 +10,4 @@
   "start_date": "2016-12-31T09:00:00Z"
 }
 
-# Biodiversity Planning Toolkit
-
 The Biodiversity Planning Toolkit is an online resource - aimed at helping users to incorporate biodiversity into the planning system and new development.

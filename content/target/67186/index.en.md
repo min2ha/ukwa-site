@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Marlens - Marine Lake Enthusiasts
-
 A website about the Clevedon Marine Lake

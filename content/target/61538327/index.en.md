@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stoke Newington Quaker Meeting
-

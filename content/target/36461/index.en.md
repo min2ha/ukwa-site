@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: 'Scaremongering' Cameron claims Brexit will 'trigger economic shock' across Britain
-
 Article by Macer Hall

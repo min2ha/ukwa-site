@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Connect Technology Group
-
 The Connect Technology Group provide security systems, management software and technology for measuring time and attendence metrics to the UK market, particuarly within the childcare industry, the long-term care industry and the facilities management industry. 

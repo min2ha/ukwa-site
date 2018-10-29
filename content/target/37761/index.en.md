@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Centre for Economic Performance: Life after Brexit
-
 It is highly uncertain what the UK’s future would look like outside the European Union (EU), which makes ‘Brexit’ a leap into the unknown. This report reviews the advantages and drawbacks of the most likely options.

@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Irish News: Time not right for royals to commemorate Easter Rising 
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: MEPs urge delay in trade talks decision
-
 On October 3rd 2017, MEPs voted to urge the EU not to open the next phase of Brexit talks unless there was a "major breakthrough".  A motion in the European Parliament to back a delay in any decision over trade discussions was backed by 557 MEPs, with 92 against and 29 abstentions.

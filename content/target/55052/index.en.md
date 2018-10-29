@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Superbrands UK
-
 Superbrands is a listing of the UK's strongest brands, published annually since 1995.

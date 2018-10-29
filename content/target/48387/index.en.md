@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Newport Memorial Hall | Neuadd Goffa Trefdraeth
-
 Newport Memorial Hall is also the base of Newport's Medieval Kiln.

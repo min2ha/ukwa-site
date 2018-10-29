@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Lanark Museum & the Royal Burgh of Lanark Museum Trust
-
 Site of a local history museum based in Lanark, South Lanarkshire, Scotland.

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Tesco plc
-
 Tesco plc is a British multinational grocery and general merchandise retailer.  It has stores in 8 countries across Asia and Europe and is the grocery market leader in the UK, Ireland, Hungary, Malaysia and Thailand.

@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Digital Jersey
-
 The purpose of Digital Jersey is to act as an accelerator for the digital economy and as an accelerator for a digitally enabled society. The digital economy includes the digital sector itself and the application of technology across all sectors.

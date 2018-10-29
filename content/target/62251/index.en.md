@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cambuslang Parish Church
-
 Site of a Church of Scotland parish church at Cambuslang, Glasgow, being the union of three existing congregations, Cambuslang Old Parish, Trinity St. Paul’s and St. Andrew’s.

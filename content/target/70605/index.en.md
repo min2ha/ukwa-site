@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Department of Health and Social Care: Letter to the health and care sector: preparations for a potential no-deal Brexit
-
 The Secretary of State for Health and Social Care Matt Hancock wrote  to all NHS organisations, GPs, community pharmacies and other service providers. The letter sets out what the health and care system needs to consider in the period leading up to March 2019, including the supply of medical products in the event of a "no deal" Brexit:
 
 

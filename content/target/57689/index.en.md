@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Belfast Telegraph: Pupils' survey shows backlash against social media
-
 News article regarding the findings of a survey of 5000 students by the Digital Awareness UK and the Headmasters' and Headmistresses' Conference (HMC)

@@ -10,8 +10,6 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# St. Sepulchres
-
 St. Sepulchre’s is a vibrant Anglican church in the City of London, with a vision of ‘Living for God in the heart of the City’.
 
 Our location in the midst of the City of London’s workplaces inspires our vision to be ‘The Workplace Church’.  We seek to envision and equip people to live out their faith at work, sharing the good news of Jesus with those around them.

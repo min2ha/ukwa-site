@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bengairn Parishes
-
 Site of a group of Church of Scotland churches located in historic Kirkcudbrightshire, covering Buittle & Kelton, and Auchencairn & Rerrick.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-20T10:00:00Z"
 }
 
-# Sant Garmon Abersoch
-
 Sant Garmon Roman Catholic Church is in Abersoch. It is due to close in 2016.

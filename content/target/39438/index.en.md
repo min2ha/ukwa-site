@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Middlewich and the Great War
-
 Project involves Middlewich schools and community groups coming together to commemorate and increase our understanding of the Great War era. 

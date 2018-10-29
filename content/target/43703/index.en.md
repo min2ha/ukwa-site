@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Poems in which
-
 An "occasional" issue-based online poetry journal. All poems published begin with the title "Poem in which..." 

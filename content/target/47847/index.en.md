@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Public Sector Broadband Aggregation Wales (PSBA)
-
 PSBA is a Wales-wide network which was launched in 200 and is a managed network which connects public sector organisations in Wales to a private secure Information and Communications Technology (ICT) Wide Area Network (WAN). 

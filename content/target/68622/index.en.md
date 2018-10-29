@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# GALVmed
-
 A charity which focusses on "developing products to meet the needs of small-scale livestock producers and passing them over to others to manufacture and distribute".

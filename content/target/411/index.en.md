@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richmond Health and Wellbeing Board
-
 None

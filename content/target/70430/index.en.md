@@ -10,6 +10,4 @@
   "start_date": "2018-08-25T09:00:00Z"
 }
 
-# Socialist Party
-
 The Socialist Party is a left wing political party in Ireland, active in both the Republic of Ireland and Northern Ireland. Internationally, it is affiliated to the Committee for a Workers' International.

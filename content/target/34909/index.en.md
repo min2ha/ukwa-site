@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Bro Radio 
-
 Bro Radio is a local community radio station for the Vale of Glamorgan.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Politicians changed minds over UK and EU
-
 A video about how politicians have changed their minds on UK and EU over the years

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hope Gwendraeth
-
 Hope Gwendraeth is an outpost of the Ammanford Evangelical Church and located in Cwm Gwendraeth. 

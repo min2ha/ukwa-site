@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Scottish Bike Polo Forum
-
 An online enthusiast community forum concerned with Scottish Bike Polo. Discusses various topics related to the sport in a general forum section alongside other sections discussing traditional polo.

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Referendum Rant, The: First Scottish
-

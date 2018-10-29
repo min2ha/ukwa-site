@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# GOV.UK :Digital Marketplace
-
 Digital Marketplace gives information about the cloud technology and support, web hosting and IT health checks; people to work on digital projects, e.g. technical architects and web designers and physical datacentre space for legacy systems.

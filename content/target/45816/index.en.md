@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Out and Proud Cardiff
-
 Out and Proud Cardiff is a Cardiff based LGBT+ youth group for people age 13-21. 

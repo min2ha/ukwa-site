@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# North Thanet Liberal Democrats
-

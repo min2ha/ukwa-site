@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lizzy Yarnold: Great Britain Skeleton Athlete
-
 Lizzy Yarnold is a Great Britain Skeleton Athlete and the 2014 Olympic Champion. This is her official website.

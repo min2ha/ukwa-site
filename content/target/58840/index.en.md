@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Camphill Blair Drummond
-
 Site of a charitable community for adults with learning disabilities to live, learn, work and relax, located at Blair Drummond, Stirlingshire; established with the ethos of the Camphill movement, to building communities where everyone can find purpose and belonging.

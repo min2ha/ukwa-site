@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'My workable plan B that WILL break the Brexit deadlock': Former Tory minister NICK BOLES unveils how he would end the impasse
-
 Nick Boles' plan involves the UK leaving the EU on March 29, 2019, and, for an interim phase only, moving to a position like Norway’s in what is called the European Economic Area (EEA). That’s the Common Market that integrates the economies of countries in the EU with those of Norway, Iceland and Liechtenstein.

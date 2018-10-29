@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Employability in Scotland
-

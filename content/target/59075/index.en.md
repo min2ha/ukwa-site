@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Press Office (@BLpressoffice) on Twitter
-
 The latest news from the British Library press office. Harry Potter: A History of Magic opens on 20 October.

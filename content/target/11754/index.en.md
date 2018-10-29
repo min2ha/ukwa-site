@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sean Lamont (sflamont) on Twitter
-
 <p>The twitter profile of althete Sean Lamont, rugby player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

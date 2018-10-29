@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matthew Dixon (@mattdixon2000) on Twitter
-
 The twitter profile of diver Matthew Dixon, member of Team England for the Glasgow 2014 Commonwealth Games.

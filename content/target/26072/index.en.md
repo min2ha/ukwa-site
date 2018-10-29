@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: William Hague unveils plans to stop Scottish MPs voting on English issues
-
 None

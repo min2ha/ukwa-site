@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Retro Gamer
-
 Retro Gamer is a website dedicated to old videogames and their creators.

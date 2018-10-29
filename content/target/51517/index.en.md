@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Jo Mazelis
-
 Jo Mazelis is a prize-winning writer of short stories, non-fiction and poetry. 

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Alfred Dunhill Links Foundation
-
 Site of a charitable foundation based in Edinburgh, and recipient of funds from the Alfred Dunhill Links Championship golf event.

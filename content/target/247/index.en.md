@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Airedale, Wharfedale and Craven CCG
-
 None

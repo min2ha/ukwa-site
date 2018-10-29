@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'Lethal weapon' Boris unveiled as giant voter defence shield for Cameron
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# Bill Chadkirk
-
 <p>It is a website of Bill Chadkirk, a researcher, Quaker and activist.</p>

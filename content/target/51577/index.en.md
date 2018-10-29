@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Moray Presbytery
-
 The website of the Moray Presbytery. The Moray Presbytery includes 40 churches. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Keynsham RFC (@KeynshamRfc) on Twitter
-
 The official Twitter account of Keynsham Rugby Football Club.

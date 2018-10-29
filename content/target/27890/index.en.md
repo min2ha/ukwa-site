@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Ecotricity
-
 'The world’s first Green Electricity company.'

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Withdrawal from the European Union (Article 50) Bill 2016-17
-
 A Bill to require Her Majesty’s Government to notify the European Council by 31 March 2017 of the United Kingdom’s intention to withdraw from the European Union. Private member's bill introduced by Peter Bone.

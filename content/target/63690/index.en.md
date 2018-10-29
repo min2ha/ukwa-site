@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dundonald Parish Church
-
 The website of Dundonald Parish Church. 

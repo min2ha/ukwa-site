@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: If Miliband is so weak, why is Cameron so afraid of debating with him?
-

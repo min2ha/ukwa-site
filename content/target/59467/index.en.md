@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Teach: When I Worry About Things
-
 When I Worry About Things is a collection of animated films that use personal testimony to explore mental health issues from the perspective of children. Alongside each, there is more information about the content of the film, and suggestions of how it could be used in the classroom.These resources are suitable for use with pupils aged 8-13 and are made available online 

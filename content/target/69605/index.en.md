@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tony Collins
-
 this is the personal blog of academic Tony Collins that focuses on the history of Rugby and related subjects. 

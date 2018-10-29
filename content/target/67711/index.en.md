@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Best Bar None Scotland
-
 Site of a Scottish national accreditation and award scheme aimed at raising standards and rewarding licensed premises who undertake positive management practices in support of a great and safe night out.

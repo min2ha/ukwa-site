@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Siloh Fach Independent Chapel, Melincryddan, Neath
-
 Siloh Fach Independent Chapel, Melincryddan, Neath

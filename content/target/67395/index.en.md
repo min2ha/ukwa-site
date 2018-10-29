@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whitehaven RUFC (@WhitehavenRUFC) on Twitter
-
 Rugby union club located in the Whitehaven town centre, running two senior teams.

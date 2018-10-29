@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# London Thinks: The EU Referendum - What Happens Next?
-
 An event to discuss the future of the UK after the EU Referendum result.

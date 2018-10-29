@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Match of the Day Magazine
-
 Online version of the Match of the Day Magazine.

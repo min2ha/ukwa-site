@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Friends of the Earth: The EU Referendum and the Environment
-

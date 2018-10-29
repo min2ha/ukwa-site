@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Football Historical Archive
-
 The Scottish Football Historical Archive compiles resources relating to the history of football in Scotland.

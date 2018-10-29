@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Susan Partridge (@PartridgeSusan) on Twitter
-
 The twitter profile of althete Susan Partridge, runner and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

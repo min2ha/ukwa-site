@@ -10,6 +10,4 @@
   "start_date": "2018-08-10T09:00:00Z"
 }
 
-# Agricultural Engineering Precision Innovation Centre (Agri-EPI Centre)
-
 Research and training centre for agriculculture and aquaculture, established by the UK government.

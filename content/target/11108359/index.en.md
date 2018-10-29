@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# Palace Barracks Memorial Garden
-

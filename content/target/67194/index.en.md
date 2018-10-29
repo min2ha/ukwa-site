@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Lofi Studios
-
 Website of a Lofi Studios, a Glasgow-based recording studio, rehearsal space, and storage facility.

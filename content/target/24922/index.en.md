@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Natalie Bennett  (@natalieben) on Twitter (Green Party Politician)
-
 Natalie Bennet stood as Green Party candidate for Sheffield Central at the 2017 General Election but was not elected. She also stood for Holborn & St Pancras in 2015 but was not elected. She was was also Green Party Leader 2012-2016.

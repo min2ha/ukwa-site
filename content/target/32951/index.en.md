@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Grangetown World War One
-
 Project for the Grangetown local history society to research the names of the dead of the great war on the Grange Gardens memorial.

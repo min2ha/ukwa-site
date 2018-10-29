@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Gwent Cross Country League
-

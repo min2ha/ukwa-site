@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Bodies of Knowledge
-
 Bodies of Knowledge, an online directory of some 120 organisations and artists who specialise in providing professionals working in the performing arts with continuing training opportunities. The site was launched in November 2006 as a pilot and if funds permit it will be developed so that it can carry documentations and discussions in the field of continuing training and related research. 

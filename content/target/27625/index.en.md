@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip is deciding the general election result - but not the way anyone expected
-
 None

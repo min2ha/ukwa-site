@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Centre for Policy Studies: The existential challenges looming for the EU
-
 If taken at face value, the European Commission appears confident in its Brexit negotiating position. Yet the EU faces numerous existential challenges. 

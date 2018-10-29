@@ -10,6 +10,4 @@
   "start_date": "2016-05-31T10:00:00Z"
 }
 
-# Undercurrents
-
 Website of Undercurrents. Based in Swansea, South Wales. "We produce video productions all over the UK. We produce video for online use, documentaries, project appraisal and for promotion. We also have a unique archive going back to protest against the M11 link road in 1993.

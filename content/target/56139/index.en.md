@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit transition period could take two years, says Fox
-
 The international trade secretary told the BBC there could be a two-year "implementation phase" after the UK officially left the EU, in March 2019.

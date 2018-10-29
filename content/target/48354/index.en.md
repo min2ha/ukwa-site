@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# "Daily Mail, The:  Why our cautious Chancellor's just dropped a Brexit bomb on Berlin... 
-
 In his interview for Welt am Sonntag, Mr Hammond dashed the hopes of those who saw the Treasury as a drag anchor against what might be called the Full Brexit. He insisted the leaders of the EU ‘need to respect the British people’s sense that our history and destiny is an engagement with the rest of the world . . . historically we have never been a nation that was focused on continental Europe’.

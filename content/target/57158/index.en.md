@@ -10,6 +10,4 @@
   "start_date": "2017-09-13T09:00:00Z"
 }
 
-# August 012 Theatre Company 
-
 August 012 is a theatre company based in Cardiff that produces international contemporary plays rarely seen in Wales.

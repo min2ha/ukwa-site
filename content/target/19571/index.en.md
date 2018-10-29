@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Worcester Cathedral: Programme for Magna Carta 800th Anniversary in 2015 and marking the 800th Anniversary of the death of King John in 2016
-

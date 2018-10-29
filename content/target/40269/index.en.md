@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Solway Heritage
-
 Site of an organisation set up to Solway Heritage was set up to conserve, interpret and promote the natural, built and cultural heritage of Dumfries and Galloway.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thames Cancer Registry
-
 None

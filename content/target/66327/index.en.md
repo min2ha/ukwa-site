@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Credit Services Association (CSA)
-
 UK trade association for the debt collection and debt purchase industry.

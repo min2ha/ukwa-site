@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# Project 1917 on Facebook
-
 Project 1917 on Facebook. Pushkin House participates in a collaborative, web-based project  giving users a unique way to experience the human drama of the year leading up to October Revolution of 1917.  Partnering with Project1917 in Russia, Pushkin House brings translations from Project1917’s  exploration of the thoughts and deeds of a remarkable group of people whose lives were caught up in fateful events of that year.  Drawing on primary sources, some previously unpublished, Project1917 provides daily postings on social media of selected writings by some 300 historical figures as they witnessed and participated in the making of history.

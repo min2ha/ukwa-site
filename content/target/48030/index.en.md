@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Dawnswyr Delyn
-
 Welsh Folk Dance Group based in Mold, North Wales.

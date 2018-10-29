@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# GuildHE
-
 GuildHE is one of the two recognised representative bodies for Higher Education in the UK.  By 2020, it wants to see a sector that is more distinctive, more inclusive and stronger as a result. The diversity of UK higher education nurtures innovation and creativity. It means more choice for students and for graduate employers and more opportunities to reach out to new learners. It encourages healthy competition, fresh approaches to research, different ways of engaging with business and industries and new ways of enriching the social, economic and cultural prosperity of life in the UK’s communities and regions. Diversity is the key to excellence.

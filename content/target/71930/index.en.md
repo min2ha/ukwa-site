@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kenilworth Rugby Football Club on Pitchero
-
 The official website of Kenilworth Rugby Football Club.

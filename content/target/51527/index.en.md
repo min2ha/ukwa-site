@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Day one and already Brussels is wailing! Theresa May is accused of BLACKMAIL after saying she could withdraw co-operation on security unless a fair trade agreement is struck   
-

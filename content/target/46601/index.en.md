@@ -10,6 +10,4 @@
   "start_date": "2016-10-29T11:00:00Z"
 }
 
-# Lèirsinn Research Centre (SMO)
-
 Lèirsinn Research Centre at Sabhal Mor Ostaig

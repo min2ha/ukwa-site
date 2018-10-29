@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Gizmodo UK - Stephen Hawking
-
 Gizmodo is a design, technology, science and science fiction website that also features articles on politics.These are articles related to Stephen Hawking

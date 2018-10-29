@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# David John Roche
-
 David John Roche is a British-Welsh composer/guitarist/conductor living in Cambridge. His music has been performed by the BBC National Orchestra of Wales, BBC Singers, Notes Inegales, Britten Sinfonia, Huw Watkins, Richard Watkins and Carducci Quartet.

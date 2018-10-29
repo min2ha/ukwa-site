@@ -11,6 +11,4 @@
   "subject": "Spending Cuts 2010: Impact on Social Welfare"
 }
 
-# National Housing Federation: Don't Mention the Housing Crisis
-
 None

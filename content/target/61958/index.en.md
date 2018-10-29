@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Millwall Lionesses L.F.C.
-
 Millwall Lionesses Ladies Football Club is an English women's football club based in East Dulwich, south-east London, that plays in the FA WSL2, the second tier of English women's football.

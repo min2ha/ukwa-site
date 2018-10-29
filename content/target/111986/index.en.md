@@ -10,6 +10,4 @@
   "start_date": "2005-07-06T00:00:00Z"
 }
 
-# British Society for Immunology
-
 The BSI is one of the oldest, largest, and most active, Immunology societies in the world and is the largest in Europe. 

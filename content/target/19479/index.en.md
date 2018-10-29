@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Surrey County Council: Magna Carta - The Freedom Game
-

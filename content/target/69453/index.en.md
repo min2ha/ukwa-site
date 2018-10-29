@@ -10,6 +10,4 @@
   "start_date": "2018-07-31T09:00:00Z"
 }
 
-# INEOS
-
 "INEOS is a global manufacturer of petrochemicals, speciality chemicals and oil products."

@@ -10,6 +10,4 @@
   "start_date": "2017-09-28T09:00:00Z"
 }
 
-# Dani Danaher
-
 Dani Danaher is from Tredegar and former winner of the Contemporary Art Society of Wales David Tinker award . The main theme that runs through his 'work is that of family relationships and the recollection and re-creation of remembered events enacted for the camera'. 

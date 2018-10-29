@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# History Extra
-
 The official website of the BBC History Magazine.

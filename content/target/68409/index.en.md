@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Outlaws RL (@outlawsRL) on Twitter
-
 The official Twitter account of Nottingham Outlaws Community Rugby League Club. The club was founded in 1997 and their headquarters are based at The Bay in West Bridgford.

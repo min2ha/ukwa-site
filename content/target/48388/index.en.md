@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Road Danger Reduction Forum 
-
 1.Seek a genuine reduction in danger for all road users by identifying and controlling the principal sources of threat.

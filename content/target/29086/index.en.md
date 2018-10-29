@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UKIP Mid Dorset & North Poole
-
 None

@@ -11,6 +11,4 @@
   "subject": "Spending Cuts 2010: Impact on Social Welfare"
 }
 
-# Prime Minister, The (legacy website)
-
 <p>The official site of the Prime Minister of the United Kingdom.</p>

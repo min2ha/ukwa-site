@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Seat at the back cinema magazine
-
 Personal cinema magazine, predominantly covering horror and gothic cinema in the UK

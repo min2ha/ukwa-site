@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Vale of Lune Rugby Union Football Club on Pitchero
-
 The official website of Vale of Lune Rugby Union Football Club.

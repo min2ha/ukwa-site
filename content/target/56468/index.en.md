@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Northern Alliance
-
 Northern Alliance is a group of ambitious school leaders and schools who have come together to use our collective capacity, creativity and insight to ensure that all the young people achieve the best they can and become the best they can be and are meant to be.

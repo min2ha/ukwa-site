@@ -10,5 +10,3 @@
   "start_date": "2015-07-29T00:00:00Z"
 }
 
-# Higher Education Funding Council for Wales | Cyngor Cyllido Addysg Uwch Cymru
-

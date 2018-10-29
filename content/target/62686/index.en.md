@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Lodge Govandale  No. 437
-
 Site of a masonic lodge located in Govan, Glasgow and affiliated with the Grand Lodge of Scotland.

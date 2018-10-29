@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Business & Human Rights Resource Centre
-
 We work with everyone to advance human rights in business and eradicate abuse.

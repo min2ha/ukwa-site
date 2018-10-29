@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Jeremy Corbyn: More EU talks if MPs reject Brexit deal
-
 The UK government would have to return to the EU negotiating table if Parliament rejects its Brexit deal, Jeremy Corbyn told the BBC. Mr Corbyn said Labour would decide whether to back the deal based on its six tests - which the party said the government was nowhere near meeting.

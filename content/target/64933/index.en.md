@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Customs union plan brewing in Whitehall
-
 Most MPs and peers want to stay as close to the customs union as possible, for as long as possible, which is anathema to Brexiteers. Plans are being developed in Whitehall for the UK to stay in a customs union after Brexit as a reasonable compromise. However Mrs May is unlikely to agree to this approach.
 

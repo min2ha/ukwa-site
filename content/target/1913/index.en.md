@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calderdale Council
-
 Website of Calderdale Council offers information on its services and activities, and news and events.  You can also respond to consultations online, find out about budgets and spending and planning policy, read council committee papers and agendas, and respond to consultations via the portal.

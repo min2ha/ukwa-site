@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Lib Dem demise in perspective – where Nick Clegg really went wrong
-
 None

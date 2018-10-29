@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 21st February 2018: European Union (Withdrawal) Bill
-
 The Lords continue as a committee of the whole house to debate amendments to the European Union (Withdrawal) Bill, focusing on implications for the devolved administrationa and leaving Euratom

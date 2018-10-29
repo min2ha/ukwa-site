@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Welcome Home
-
 Welcome home is a context – responsive art project looking at notions of returning, non returning, and disappearance from a political, psychological and domestic perspectives. In 2006 Welcome Home focused in particular on the Palestinian Right to Return.

@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# North Wales Chinese Association
-

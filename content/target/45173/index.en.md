@@ -10,6 +10,4 @@
   "start_date": "2016-08-31T10:00:00Z"
 }
 
-# Storify: Buy land in Scotland... style yourself as Lord or Lady of Glencoe! Or something.
-
 A short Storify about Scots property law.

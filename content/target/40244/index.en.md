@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Scottish Potters Association
-
 Site of an organisation aiming to promote any activity which will further collective and individual interests of the society and its members as potters/ceramists and to raise the standards and awareness of the craft.

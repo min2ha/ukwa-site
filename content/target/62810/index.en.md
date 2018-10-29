@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee:  The progress of the UK's negotiations on EU withdrawal December 2017 to March 2018
-
 In this second report of the overarching inquiry into the Article 50 negotiations, the Exiting the European Union Committee makes recommendations with regard to the Draft Withdrawal Agreement, a transition or implementation period and the future partnership with the EU.
 

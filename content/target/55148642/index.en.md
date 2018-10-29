@@ -10,5 +10,3 @@
   "start_date": "2010-09-10T00:00:00Z"
 }
 
-# National Museums Liverpool: Indian Presence in Liverpool
-

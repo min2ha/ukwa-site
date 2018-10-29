@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# St John Ambulance: Manifesto 2017
-
 Calls on the next government to: ensure that all children learn first aid at school; protect health and safety legislation after Brexit; and develop NHS commissioning that encourages resilient communities

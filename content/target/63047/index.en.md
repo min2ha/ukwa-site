@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Save the Single Market
-
 Campaign for Britain to stay in the European single market after Brexit

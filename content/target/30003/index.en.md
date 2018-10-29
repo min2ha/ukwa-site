@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# London Review Bookshop 
-
 London Review Bookshop was opened in 2003 by the London Review of Books. It is a place for people who love books to meet and talk.

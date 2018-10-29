@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: European reaction to poll announcement
-

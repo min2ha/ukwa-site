@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# English UK
-
 English UK is the national association of accredited English Language centres and a language teaching association. They are a UK-registered charity with the key aim of advancing the education of international students in the English language.

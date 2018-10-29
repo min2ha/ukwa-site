@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Aircraft Registry
-
 Jersey Aircraft Registry is a new proposition for the registration of high-value private and corporate aircraft, the Registry will place an emphasis on safety and professional expertise, with the assurance of an exceptional client service.

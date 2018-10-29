@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Team Cally
-
 Team Cally works with Caledonian residents, Islington Council and local service providers to help improve life and opportunities for those living in the neighbourhood.

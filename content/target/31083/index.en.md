@@ -10,5 +10,3 @@
   "start_date": "2015-10-01T10:00:00Z"
 }
 
-# Blog Pàrlamaid na h-Alba | Fiosrachadh is naidheachd bho Phàrlamaid na h-Alba
-

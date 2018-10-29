@@ -10,5 +10,3 @@
   "start_date": "2008-08-20T00:00:00Z"
 }
 
-# Database of Court Officers 1660-1837
-

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Blog Cronfa Cyfeithiadau Cymraeg
-
 The blog is run by the Mercator Unit at Aberystwyth University and supports the work undertaken on creating an online catalog that will be a dictionary of Welsh language words and phrases from the social sciences, humanities and Arts.

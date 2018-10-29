@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Proudfoot Forward
-
 After cycling round the world, Helen Proudfoot is back in London, planning more adventures, stories and landscapes of playfulness.

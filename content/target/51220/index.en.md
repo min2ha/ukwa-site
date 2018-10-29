@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Scottishdocuments.com
-
 Site used and run by the National Archives of Scotland to test online access to digital images of historical documents.

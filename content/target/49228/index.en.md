@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# New Statesman: The May doctrine
-
 Report of an interview with Prime Minister Theresa May covering Brexit, Trump, the return of the state and enticing Labour supporters to vote Tory.

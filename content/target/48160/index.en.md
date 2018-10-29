@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Huntly on the Web
-
 Community website providing business, events, history and amenity information for members of the community and visitors to the town of Huntly, Aberdeenshire, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# John G Russell (Transport) Limited
-
 The website of John G Russell (Transport) Limited. Trading as The Russell Group, the company is based in Glasgow, Scotland and provides logistics and non-logistics services.

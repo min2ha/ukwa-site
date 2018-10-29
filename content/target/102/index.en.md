@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# City Hospitals Sunderland
-
 None

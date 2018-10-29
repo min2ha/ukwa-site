@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: Events: CFP: Lincoln Record Society Magna Carta Conference
-

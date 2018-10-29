@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Health Emergency
-
 None

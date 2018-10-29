@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Polish PM says UK must pay for EU access
-
 In an interview with Kamal Ahmed, the Polish Prime Minister said Britain would have to continue making financial contributions to the European Union if it wanted to enjoy privileged access to the single market.

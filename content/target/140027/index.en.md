@@ -10,5 +10,3 @@
   "start_date": "2007-09-18T00:00:00Z"
 }
 
-# @mser web site design
-

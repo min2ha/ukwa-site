@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 21st March 2018: European Union (Withdrawal) Bill
-
 The Lords, sitting as a committee of the whole House, debate amendments to the European Union (Withdrawal) Bill, focusing on limiting the use of secondary legislation to amend, retained EU law, whether retained EU law is to be considered primary or secondary legislation, and enshrining the principles of the Belfast Agreement in the bill.

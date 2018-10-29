@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# www.soccerbilia.co.uk/
-
 A website dedicated to all things to do with vintage British soccer / football magazines.

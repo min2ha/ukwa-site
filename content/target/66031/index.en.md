@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# www.strathpeffer.org
-
 Community website for the village of Strathpeffer, Highland, providing information on events, amenities, heritage and businesses for residents and visitors.

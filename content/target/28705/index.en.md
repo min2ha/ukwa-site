@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Desertec-UK
-
 The Desertec Foundation (formerly the 'TREC' international network of scientists and engineers), in association with the Club of Rome, has developed the Desertec concept to take advantage of the energy falling as sunlight on the world's deserts.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Gallipoli Centenary Education Project
-
 The Gallipoli campaign was fought in a quiet corner of Turkey, but made the Great War into a World War. Today, people look back at the costly campaign with very different feelings – pride, shame, anger, sorrow – depending on which country they live in.  Through this exciting educational project, schools from all over the world are sharing their stories.

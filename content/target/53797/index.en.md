@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# TechUK : Inventing the Future: techUK launches 2017 manifesto
-
 TechUK sets out a bold and ambitious vision for the next Government to create a modern and dynamic digital economy that works for everyone.

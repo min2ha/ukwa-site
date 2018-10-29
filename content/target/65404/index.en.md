@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# University of Nottingham: Gendering Latin American Independence
-
 This research project offers a community-driven approach to understanding women's involvement in independence in Latin America. 

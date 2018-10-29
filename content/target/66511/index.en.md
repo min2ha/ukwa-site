@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Food Standards Agency (@foodgov) on Twitter
-
 Official Twitter feed from the Food Standards Agency (FSA). Keep up with the latest food safety tips, news and alerts. 

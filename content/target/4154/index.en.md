@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:14.584114", 
+  "date": "2018-10-29T13:22:21.847931", 
   "open_access": false, 
   "target_url": "http://www.theguardian.com/world/2013/nov/14/typhoon-haiyan-philippines", 
   "description": null, 
   "end_date": null, 
   "title": "Guardian, The: Typhoon Haiyan: Philippines aid effort hampered by lawlessness", 
-  "record_id": "20181029T125514/tIblCR9XVOn7KeP6htFngg==", 
+  "record_id": "20181029T132221/tIblCR9XVOn7KeP6htFngg==", 
   "publisher": "theguardian.com", 
   "start_date": null, 
   "subject": "UK response to Typhoon Haiyan (Philippines) 2013"
 }
-
-# Guardian, The: Typhoon Haiyan: Philippines aid effort hampered by lawlessness
 
 None

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Renfrewshire Witch Hunt 1697
-
 Site based in Paisley in Renfrewshire providing young people with information and resources on the Renfrewshire Witch Hunt in 1697.

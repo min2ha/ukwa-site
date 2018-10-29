@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail, The: "Instagram saved my life"
-
 Web article about one experience with anorexia and Instagram 

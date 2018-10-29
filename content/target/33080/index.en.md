@@ -10,6 +10,4 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Scottish Network on Digital Cultural Resources Evaluation
-
 The Scottish Network on Digital Cultural Resources Evaluation is a Royal Society of Edinburgh funded project investigating the use of digital cultural resources amongst visitors and audiences.

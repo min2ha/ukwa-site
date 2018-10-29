@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wigan St Cuthberts (@StCuthsARLFC) on Twitter
-
 The official Twitter account of Wigan St Cuthberts and Norley Sports and Community Club.

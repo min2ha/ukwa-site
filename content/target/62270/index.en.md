@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Gateshead International Stadium
-
 Gateshead International Stadium is a multi-purpose, all-seater venue in Gateshead, Tyne and Wear, England. Originally known as the Gateshead Youth Stadium, the venue was built in 1955 at a cost of £30,000. It has since been extensively re-developed on three occasions. Its capacity of around 11,800 is the greatest in the Metropolitan Borough of Gateshead, the third-largest in Tyne and Wear and the sixth-largest in North East England.

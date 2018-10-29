@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ivan McKee (@Ivan_McKee) on Twitter
-
 The Twitter profile of Ivan McKee, the Scottish National Party candidate for Glasgow Provan in the 2016 Scottish Parliament election.

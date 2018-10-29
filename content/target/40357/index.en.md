@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Emergency Medical Retrieval & Transfer Service Cymru (EMRTS Cymru)
-
 The Emergency Medical Retrieval and Transfer Service (EMRTS) Cymru is provides Consultant and Critical Care Practitioner-delivered pre-hospital critical care across Wales.It is a partnership between Wales Air Ambulance Charity, Welsh Government and NHS Wales.

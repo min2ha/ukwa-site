@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# British Pugwash
-
 British Pugwash is the UK arm of the Pugwash Conferences on Science and World Affairs, an international network of scientists and others concerned about the social impact of science, with particular emphasis on abolishing weapons of mass destruction and war. 

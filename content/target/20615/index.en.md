@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Working Britons worse off under Tories, says shadow chief secretary to the Treasury - video
-

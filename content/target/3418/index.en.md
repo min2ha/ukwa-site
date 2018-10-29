@@ -10,6 +10,4 @@
   "start_date": "2013-10-11T00:00:00Z"
 }
 
-# Complex Regional Pain Syndrome Research Forum
-
 <p>Website of Complex Regional Pain Syndrome researchers at Bath University.</p>

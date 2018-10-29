@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Horbury Village
-

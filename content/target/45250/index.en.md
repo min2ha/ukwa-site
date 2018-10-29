@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Explorers : the Scottish Plant Hunters Garden
-
 Site of a garden and visitor attraction located in Pitlochry, Perth & Kinross, focussing on Scottish botanist as explorers and adventurers.

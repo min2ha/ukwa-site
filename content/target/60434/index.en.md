@@ -10,6 +10,4 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# Dawn Woolley
-
 Dawn Woolley is a visual artist using photography, video, installation, performance, and sound and is senior lecturer at Anglia Ruskin University.

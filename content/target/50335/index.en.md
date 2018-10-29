@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ebenezer Church, Grangetown
-
 Ebenezer Church is in Grangetown, Cardiff.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# University of Cambridge: EU Migrant Worker Project
-

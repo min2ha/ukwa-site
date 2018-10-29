@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Newborn Hearing Screening Programme
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: David Cameron's 12-month election honeymoon
-
 None

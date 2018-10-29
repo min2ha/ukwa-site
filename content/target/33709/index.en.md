@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Wakefield Historical Society
-
 Wakefield Historical Society aims to promote knowledge of the area's past and raise awareness of local heritage. They offer a programme of winter lectures and summer excursions and organise talks and short courses.

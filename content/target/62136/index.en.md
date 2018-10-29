@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Brentford Community Stadium
-
 Brentford Community Stadium is a stadium currently under construction in Brentford, west London with a projected capacity of 17,250. It is planned to be the home of Brentford FC and London Irish RFC. Projected to open late 2019.

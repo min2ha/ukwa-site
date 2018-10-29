@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Ossett - The History of a Yorkshire Town
-
 History site with original research and significant local history content not available elsewhere.

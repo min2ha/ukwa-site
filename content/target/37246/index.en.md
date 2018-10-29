@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# RT: BBC defends £2mn EU handout, says it won’t prejudice Brexit referendum coverage
-

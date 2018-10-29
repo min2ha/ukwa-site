@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Insight UK
-
 Insight UK is a provider of IT products and services.

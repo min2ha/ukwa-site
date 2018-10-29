@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# RoomSixty
-
 Site of a Scottisg Charity working to engage young people in reaching their fullest potential by providing opportunities for personal development, and located in Ayr, Ayrshire.

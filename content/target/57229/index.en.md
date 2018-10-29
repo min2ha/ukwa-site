@@ -11,7 +11,5 @@
   "subject": "Sports Collection"
 }
 
-# Run. Coed y Brenin
-
 Run. Coed y Brenin is the UK’s first bespoke trail running centre
 With a trail running shop stocking leading brands in footwear, apparel and accessories, a unique demo cabinet stocking over 80 pairs of Salomon hire and demo shoes, four fully way-marked trails for all standards of trail runner and a range of trail running events, from trail marathons to 3-hour endurance night events

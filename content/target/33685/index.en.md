@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# London Progressive Journal: Easter Rising 1916
-
 Article about the Easter Rising

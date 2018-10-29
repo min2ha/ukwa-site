@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# PeatWorrier (@PeatWorrier) on Twitter
-
 Twitter profile of Andrew Tickell, law lecturer at Glasgow Caledonian University.

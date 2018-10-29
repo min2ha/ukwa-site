@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Pistyll Rhaeadr, The highest waterfall in Wales
-
 Pistyll Rhaeadr is a waterfall located in the Berwyn Mountains and is Britain's tallest single-drop waterfall. This is a short guide to the falls.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-15T11:00:00Z"
 }
 
-# Velvet Coalmine: self-preservation is what's really going on today
-
 Rhian E Jones writes 'fiction and non-fiction about history, politics, popular culture and the places where they intersect'. She is the author of two books: 'Clampdown: Pop-Cultural Wars on Class' and 'Gender and Petticoat Heroes: Gender, Culture and Popular Protest in the Rebecca Riots'.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-10T09:00:00Z"
 }
 
-# Richard Cox
-
 Richard Cox is an artist and former Senior Lecturer at Cardiff Metropolitan University. 

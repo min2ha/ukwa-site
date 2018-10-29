@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Berwick Liberal Democrats
-
 Website for the Berwick Liberal Democrats providing information about news, events and campaigns. 

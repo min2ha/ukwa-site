@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 6th Feb 2017:  European Union (Notification of Withdrawal) Bill 
-
 The Commons sits as a Committee of the whole House to consider amendments to the European Union (Notification of Withdrawal) Bill

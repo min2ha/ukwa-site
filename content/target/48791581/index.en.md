@@ -10,5 +10,3 @@
   "start_date": "2010-07-16T00:00:00Z"
 }
 
-# RikVerse Website, The
-

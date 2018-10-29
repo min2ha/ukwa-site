@@ -11,7 +11,5 @@
   "subject": "Local History Societies "
 }
 
-# Aber Valley Heritage Group
-
 The Aber Valley include the communities of Senghenydd and Abertridwr near Caerphilly.
 The Aber Valley Heritage Group was established to preserve the rich heritage of the communities within the Aber Valley. This website also marks the 100 year anniversary of the Universal Colliery Explosion in 2013, the scene of the largest mining disaster in British history.

@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Marine Current Turbines
-
 None

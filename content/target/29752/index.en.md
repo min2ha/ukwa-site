@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Underbelly
-
 Underbelly is a UK-based live entertainment company that runs several festivals and events across the country.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron flunks General Election 2015 test as Jeremy Paxman puts him on the ropes
-
 None

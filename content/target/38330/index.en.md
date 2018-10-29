@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# era.org.uk: Marking the Centenary of the Easter Rising 1916
-
 Collection of audio-visual broadcast material for non-commercial educational purposes

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jenny Marra MSP on Facebook
-
 The Facebook page of Jenny Marra, former Scottish Labour Party Member of Scottish Parliament for North East Scotland and candidate for Dundee City West and North East Scotland region in the 2016 Scottish Parliamentary election.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Polly Parrot Rescue UK
-
 Polly Parrot Rescue UK has been set up to take in parrots of all breeds. No parrot will be turned away regardless of age, health, condition or temperament.

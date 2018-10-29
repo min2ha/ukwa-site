@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# IAAF World Champs (@IAAFWorldChamps) on Twitter
-
 IAAF World Championships were hosted in London from 4-13 August 2017.

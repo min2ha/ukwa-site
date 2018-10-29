@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Marina Ahmad (@LabourMarina) on Twitter (Labour Party Politician)
-
 Marina Ahmad, the Labour Party candidate for Beckenham in the 2017 General Election but was not elected.

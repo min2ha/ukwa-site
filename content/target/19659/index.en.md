@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Maidenhead Labour Party
-
 Website of Maidenhead Labour Party, providing information on events, meetings, campaigns, pledges and news items.

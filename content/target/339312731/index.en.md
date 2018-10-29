@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# University of Glasgow: Reach 06 - Remembering the Easter Rising
-
 Newsletter of the University of Glasgow College of Arts Knowledge Exchange.

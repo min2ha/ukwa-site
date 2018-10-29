@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Edinburgh Mandolin & Guitar Orchestra
-
 Site of an orchestra based in Edinburgh, concentrating on music for mandolins and guitars.

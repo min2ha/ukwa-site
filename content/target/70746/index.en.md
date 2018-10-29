@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# XVIth International Congress of Celtic Studies, The
-
 The International Congress of Celtic Studies is the foremost international gathering of scholars researching the languages, literatures and cultural traditions of the Celtic-speaking peoples and is held once every four years. The XVIth Congress will be held at Bangor University, Wales, on 22-26 July 2019.

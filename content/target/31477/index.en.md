@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Virtual Acorn
-
 Virtual Acorn is a UK IT company selling products that allow to run the Acorn operating system RISC OS on a different oparating system (e.g. Windows or Mac OS).

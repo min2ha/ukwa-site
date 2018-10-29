@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Join in
-
 <p>Join In is managed and run by the registered charity, The Join In Trust Limited. The aim of Join In is to encourage people to help out at sports clubs and community groups around the UK.</p>

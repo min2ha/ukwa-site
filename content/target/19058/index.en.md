@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: Magna Carta the unstoppable: 15 facts about the deal that's reined in royalty for 800 years 
-

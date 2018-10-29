@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Claire Baker (ClaireBakerMSP) on Twitter
-
 The twitter profile of Claire Baker, Scottish Labour MSP for Mid-Scotland and Fife and Labour's Shadow Cabinet Secretary for Rural Affairs and the Environment.

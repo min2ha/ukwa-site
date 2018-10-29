@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems could lose £26,000 in candidates' deposits, polls suggest
-
 None

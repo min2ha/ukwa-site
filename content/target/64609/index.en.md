@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Aeon Archaeology
-
 Aeon Archaeology is an archaeological contractual and consultancy service based in Broughton, Chester and covering northern England, north and mid-Wales.

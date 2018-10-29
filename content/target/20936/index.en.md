@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Carol Monaghan (@Carol4GlaNW) on Twitter
-
 The Twitter profile of Carol Monaghan, the Scottish National Party (SNP) candidate for Glasgow North West in the UK General Election on the 7th May 2015.

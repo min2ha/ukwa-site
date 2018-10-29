@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron defends Scottish Tories' unofficial alliance with SNP
-
 None

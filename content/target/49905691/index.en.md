@@ -10,5 +10,3 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Positive Action in Housing Ltd
-

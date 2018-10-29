@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: How will the Conservatives pay for David Cameron's Good Life?
-
 None

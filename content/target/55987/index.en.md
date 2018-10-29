@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# Mavron Quartet, The
-
 The Mavron Quartet are a leading string quartet from Wales.

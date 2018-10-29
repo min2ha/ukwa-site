@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Democracy: BREXIT: the R is for Racism
-
 Martin Shaw (research professor of international relations at the Institut Barcelona d'Estudis Internacionals (IBEI) and the University of Sussex, and professorial fellow in international relations and human rights at the University of Roehampton) on racism in the Brexit campaign.

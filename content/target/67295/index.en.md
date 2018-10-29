@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Dead Ink Books: publishing the underground
-
 Dead Ink is a small, ambitious and experimental literary publisher based in Liverpool.

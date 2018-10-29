@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Lincolnshire Police & Crime Commissioner
-
 None

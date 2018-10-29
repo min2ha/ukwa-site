@@ -10,6 +10,4 @@
   "start_date": "2015-11-03T09:00:00Z"
 }
 
-# Child and Adolescent Health Research Unit
-
 CAHRU is dedicated to improving understanding of child and adolescent health in Scotland

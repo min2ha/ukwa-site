@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Iwan For Ceredigion (@Iwan4Ceredigion) on Twitter (Labour candidate for Ceredigion)
-
 Iwan Jones is the Labour candidate for Ceredigion at the 2016 National Assembly Elections. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lesley Brennan (@LesleyEastend) on Twitter
-
 The Twitter profile of Lesley Brennan, the Scottish Labour candidate for the North East Scotland list in the 2016 Scottish Parliament election.

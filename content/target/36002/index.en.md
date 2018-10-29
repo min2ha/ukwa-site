@@ -10,6 +10,4 @@
   "start_date": "2016-02-25T09:00:00Z"
 }
 
-# New Lanark World Heritage Site and Visitor Attraction 
-
 Site for the museum and UNESCO World Heritage Site of New Lanark 

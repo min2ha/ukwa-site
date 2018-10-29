@@ -10,6 +10,4 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# Venture Wales
-
 Venture Wales is a premier business support organisation to firms who are interested in starting and growing their business in Wales. 

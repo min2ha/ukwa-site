@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Planned Environment Therapy Trust Archive and Study Centre, The
-
 None

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Addysg Uwch Cymru Brwsel | Welsh Higher Education Brussels
-

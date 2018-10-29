@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Week, The: EU referendum polls: Does Europe really want us?
-

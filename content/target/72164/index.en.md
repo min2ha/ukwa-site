@@ -10,6 +10,4 @@
   "start_date": "2018-10-05T09:00:00Z"
 }
 
-# Department for Work and Pensions Publications
-
 Documents issued by the Department for Work and Pensions

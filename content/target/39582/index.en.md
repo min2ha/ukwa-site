@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Russell George AM on Facebook (Conservative candidate for Montgomeryshire)
-
 Russell George is the Conservative Assembly candidate for Montgomeryshire at the 2016 National Assembly for Wales election. 

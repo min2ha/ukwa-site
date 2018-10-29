@@ -10,6 +10,4 @@
   "start_date": "2018-09-02T09:00:00Z"
 }
 
-# Lanark & District U3A
-
 Site of the Lanark, Lanarkshire, branch of a national charity for lifelong learning into the 'third age', namely, after retirement.

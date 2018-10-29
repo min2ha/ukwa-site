@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Possil and Henry Drummond Church
-
 Site of a Church of Scotland parish church in Possil, Glasgow.

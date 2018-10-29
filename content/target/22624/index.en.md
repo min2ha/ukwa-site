@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: As debate rivals and leftwingers savage Ukip chief for saying 60% of victims aren't British … Did Farage get it right on HIV health tourists?
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T11:00:00Z"
 }
 
-# Honda Shadow Owners Club UK 
-
 A club for Honda Shadow Owners in the UK.

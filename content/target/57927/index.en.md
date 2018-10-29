@@ -10,6 +10,4 @@
   "start_date": "2017-10-18T09:00:00Z"
 }
 
-# Boundary Commission for England: 2018 Boundary Review
-
 The Boundary Commission for England is conducting a review of parliamentary constituencies and needs the public's help. On this site you can view the proposals, make comments, see what other people have said and learn about the Commission and the review.

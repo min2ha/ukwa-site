@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Sheffield City Council: Positive parenting
-
 Sheffield City Council website about parenting courses and advice

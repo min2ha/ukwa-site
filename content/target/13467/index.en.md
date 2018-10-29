@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Murray MP (IanMurrayMP) on Twitter
-
 Twitter profile of Ian Murray, Scottish Labour candidate for Edinburgh South in the 2017 general election.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: And now here's the next lot lining up to have a go: EU links of judges who will rule on Brexit impact   
-

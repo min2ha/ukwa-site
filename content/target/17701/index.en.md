@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: HSBC scandal: George Osborne signals new tax evasion measures
-
 None

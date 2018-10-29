@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Penryn Rugby Football Club on Pitchero
-
 The official website of  Penryn Rugby Football Club.

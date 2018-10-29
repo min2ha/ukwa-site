@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 4th September 2018: Taxation (Cross-border Trade) Bill
-
 Second reading debate in the Lords on the Taxation (Cross Border Trade) Bill, which they could not amend as it was designated a money bill. The Lords argued that the bill was being forced through without sufficient Parliamentary scrutiny, and expressed grave concerns about the implications for Northern Ireland

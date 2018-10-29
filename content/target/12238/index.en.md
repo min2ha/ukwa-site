@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ollie Hynd MBE:  European & Paralympic Champion Swimmer
-
 The website of Ollie Hynd, Paralympic swimmer and member of Team England for the Glasgow 2014 Commonwealth Games.

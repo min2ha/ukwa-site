@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Invisible Dot, The
-
 Website for The Invisible Dot, a venue and agency for comedians, staging comedy and theatre performances.

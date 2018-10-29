@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Countdown to the election: Operation save Danny Alexander shifts into high gear as the SNP target his Commons seat
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Steve Rotheram (Labour candidate for Liverpool Walton)
-

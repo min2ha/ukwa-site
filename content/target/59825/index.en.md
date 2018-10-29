@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Garden Birds
-
 An online enthusiast website concerned with bird watching in the UK. Includes sections for aiding in identifying birds. Also includes a discussion board for users to interact and discuss various topics related to bird watching.

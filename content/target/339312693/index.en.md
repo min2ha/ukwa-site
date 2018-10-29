@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Easter Rising 1916
-
 This organisation produces and sells posters and banners related to the Easter Rising.

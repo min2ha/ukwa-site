@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Cymunedau sy'n Cydweithio | Collaborative Communities
-
 Body that supports voluntary organisations and third sector organisations in South West Wales.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Voluneteers Commemorative Organisation (I.V.C.O)
-
 The I.V.C.O. is a non-political, non-profit organisation dedicated to recording and preserving the history and artifacts of the Irish Volunteers in the years 1913-1922.

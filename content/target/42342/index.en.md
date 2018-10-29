@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Interesting Literature: a library of literary interestingness
-
 Interesting Literature  is an "online library of all that is most interesting and captivating about literature" set up by an English lecturer at Loughborough University

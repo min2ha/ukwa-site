@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Vote Michael Shanks (@mgshanks) on Twitter
-
 Twitter profile of Michael Shanks, Scottish Labour candidate for Glasgow North West in the 2017 general election.

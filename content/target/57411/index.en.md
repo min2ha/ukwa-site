@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Clybiau Gwawr 
-
 Clybiau Gwawr are part of the Merched y Wawr movement and provides opportunities for young female welsh speakers to meet up and socialise. There are groups throughout Wales.

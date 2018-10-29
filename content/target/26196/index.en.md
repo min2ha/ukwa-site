@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Interactive Entertainment Association (Ukie): Games Industry Manifesto for the Next Parliament
-
 Ukie (UK Interactive Entertainment) is a trade body for the UK's games and wider interactive entertainment industry. 

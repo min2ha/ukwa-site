@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Roman Military Research Society (RMRS), The
-
 The Roman Military Research Society (RMRS) is a UK-based group of history enthusiasts who research and perform practical experiments to re-create Roman military and civil life.

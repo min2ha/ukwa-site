@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: University tuition fees: Vote Labour in general election to stop this student finance fiasco
-
 None

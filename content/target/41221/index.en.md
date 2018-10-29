@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Belville Community Garden
-
 Site of a hyper-local community group in Greenock, Renfrewshire, running community projects within local schools and community groups in art and design and horticulture.

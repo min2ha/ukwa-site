@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Medieval reunion: Four surviving copies of Magna Carta to be brought together for the first time ever to celebrate their 800th anniversary
-

@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-#  Art of Podcast (@ArtOfPodcast) on Twitter/
-
 A Podcast Production Company. We aim to get to the heart of who people are and why they do what they do by telling intimate, compelling stories using podcasts.

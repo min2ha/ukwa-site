@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# #AnTaghadh hashtag on Twitter
-
 BBC Alba #AnTaghadh (the Election); a hashtag used by BBC Alba to highlight general election news.

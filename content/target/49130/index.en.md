@@ -10,6 +10,4 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Abbey Vale Football Club
-
 Site for a Scottish amateur football club based in New Abeey, Dumfries & Galloway.

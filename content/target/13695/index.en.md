@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Women's Convention
-
 The Scottish Women's Convention is funded by the Scottish Government with the aim of involving women in Scotland in the development of public policy.

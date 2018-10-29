@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Hard Brexit ideologues threaten the UK’s economic future
-

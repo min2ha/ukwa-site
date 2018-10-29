@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Badminton England
-
 None

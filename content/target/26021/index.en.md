@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP would demand to be consulted by minority Labour government
-
 None

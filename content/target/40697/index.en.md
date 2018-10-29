@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Aberdeen Art Gallery & Museums
-
 Combined site for Aberdeen art gallery, along with various museums located throughout the city.

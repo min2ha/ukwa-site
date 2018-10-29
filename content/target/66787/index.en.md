@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Sterling Furniture Group Limited
-
 The website of Sterling Furniture Group Limited, a Clackmannanshire-based furniture retailer. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Facebook says it is investigating how it affects the wellbeing of users after former exec says it is 'destroying' society
-
 News article about comments made by a fomer executive at facebook about the impact the site has on mental health

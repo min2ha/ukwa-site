@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Montserrat Tourist Board  
-
 Montserrat Tourist Board  official website.

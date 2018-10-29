@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Londonist: Comedy 
-
 Comedy listings and reviews on Londonist, an online magazine with listings, reviews, and news about things happening in London.

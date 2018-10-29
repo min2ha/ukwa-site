@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# PollQuest
-
 The twitter feed for PollQuest, a collaborative comic created by Luke Hyde which polls followers in a 'choose your own adventure' style to create the plot of the comic.

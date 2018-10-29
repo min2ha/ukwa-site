@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Health Service (NHS): Catch It
-
 Information about the NHS app, Catch It, which is aimed at those struggling with issues such as anxiety or depression. Catch it uses Cognitive Behavioural Therapy (CBT) to help users.

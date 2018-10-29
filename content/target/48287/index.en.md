@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Wales Fast Growth 50
-
 Wales Fast Growth 50 is the list of the fastest growing firms in Wales. Wales Fast Growth 50 was launched in 1999. The 2017 list of the fastest growing firms in Wales will appear in a special supplement, which will be published by the Western Mail in association with Enlli Associates Ltd.

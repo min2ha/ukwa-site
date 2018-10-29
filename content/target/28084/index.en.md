@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Stand Comedy Club, The 
-
 Website for The Stand Comedy Club, with venues in Glasgow, Edinburgh and Newcastle.

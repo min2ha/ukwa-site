@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Why David Cameron's victory in the leaders' interviews matters
-
 None

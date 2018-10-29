@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# London Business School
-
 Official website of the London Business School.

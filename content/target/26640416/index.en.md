@@ -10,5 +10,3 @@
   "start_date": "2012-11-01T00:00:00Z"
 }
 
-# Long Horse Ride, The
-

@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Ceiri Torjussen
-
 Ceiri Torjussen is a Welsh-born composer, but based in Los Angeles.

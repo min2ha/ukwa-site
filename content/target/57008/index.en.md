@@ -10,6 +10,4 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# Society of Solicitors in the Supreme Courts of Scotland
-
 Site of an organisation participating in the work of the Courts of Scotland and the legal profession generally, and working to represent the interests of its members and to assist in upholding the integrity of Scots Law. 

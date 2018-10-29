@@ -10,6 +10,4 @@
   "start_date": "2018-05-29T09:00:00Z"
 }
 
-# Lodge St. John Mid Calder No. 272
-
 Site of a masonic lodge located in Mid Calder, West Lothian and affiliated with the Grand Lodge of Scotland.	

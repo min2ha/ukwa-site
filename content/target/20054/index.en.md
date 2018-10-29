@@ -10,6 +10,4 @@
   "start_date": "2015-03-30T09:00:00Z"
 }
 
-# Mabon ap Gwynfor prospective National Assembly for Wales candidate for Clwyd South
-
 Mabon ap Gwynfor prospective National Assembly for Wales candidate for Clwyd South.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Roots Foundation in Wales, The
-
 The Roots Foundation Wales is based in Swansea and supports young people in care, care leavers, children in need and adults who have left care with the transition period of independent living.

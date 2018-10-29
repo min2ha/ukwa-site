@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library, The: Digital Scholarship Blog
-
 The Digital Scholarship Department works to enable innovative research based on the British Library digital collections. The blog is updated by the Library’s Digital Curators with contributions from colleagues across the Library and special guests.

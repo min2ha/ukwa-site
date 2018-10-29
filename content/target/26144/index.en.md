@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tourism Alliance: The Tourism Briefing 2015
-
 The Tourism Alliance seeks to establish and maintain a favourable operating environment for all businesses involved in the delivery of tourism, particularly in England. Their main purpose is to lobby government both in the UK and Brussels on the key strategic issues facing the industry.Their Members comprise leading Trade Associations and Destination Management organisations within the sector.

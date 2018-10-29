@@ -10,6 +10,4 @@
   "start_date": "2016-07-02T10:00:00Z"
 }
 
-# National Action
-
 Nationalist street movement primarily aimed at young people

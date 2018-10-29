@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The Big O Vintage  Festival 
-
 Website for the The Big O Vintage Festival, which celebrates Suburbia through the decades.

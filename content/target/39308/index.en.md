@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Craig Martin for Falkirk East on Facebook
-

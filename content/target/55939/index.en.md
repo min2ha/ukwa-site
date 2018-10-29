@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Exiting the EU with certainty
-
 Press release on the publication of the European Union Withdrawal Bill, which is designed to ensure that the UK exits the EU with maximum certainty, continuity and control. 

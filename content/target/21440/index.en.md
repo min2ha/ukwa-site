@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: If I became chancellor, I'd swap that red box for a green one
-
 None

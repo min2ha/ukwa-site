@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# National Assembly  of Women
-
 The National Assembly of Women is a national, non-funded voluntary womens organisation established in 1952 and campaigning for equality for women in all spheres. They are based in Powys.

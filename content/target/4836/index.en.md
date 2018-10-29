@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Wales Online: Nelson Mandela
-
 <p>News and commentary on the passing of Nelson Mandela.</p>

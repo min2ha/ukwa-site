@@ -10,6 +10,4 @@
   "start_date": "2018-08-26T09:00:00Z"
 }
 
-# BNP Paribas Real Estate
-
 International property research, consultancy and management company with UK offices.

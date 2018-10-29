@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Vaughan Gething (@vaughangething) on Twitter 
-
 Vaughan Gething is the Labour candidate for Cardiff South and Penarth at the 2016 National Assembly Elections. 

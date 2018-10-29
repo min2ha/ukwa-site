@@ -10,6 +10,4 @@
   "start_date": "2017-09-07T09:00:00Z"
 }
 
-# Ancestor Homes
-
 Ancestor Homes is an extensive private collection of digitised property deeds and associated documents that relate to properties throughout England & Wales dating back to the 1660s.

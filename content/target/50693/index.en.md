@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gospel for Asia United Kingdom
-
 Gospel for Asia is about changing communities—both for this life and for eternity.

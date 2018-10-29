@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# The Queen's 90th birthday celebration: what you need to know
-
 Details of the celebrations at Windsor Castle from 12-15 May.

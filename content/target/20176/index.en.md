@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vote Scott Jones TUSC, Llanelli 2015 on Facebook
-
 TUSC is backed by the RMT trade union and socialist organisations. The candidate in Llanelli is Scott Jones. 

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Labour frontbencher who quit over EEA vote defends decision
-
 In a Commons vote on a Lords amendment to the EU Withdrawal Bill on June 13th 2018 that would in effect mean staying in the EEA, 75 backbenchers defied party instructions to abstain and voted for the EEA. A further 15, also defying the party whip, voted against.
 

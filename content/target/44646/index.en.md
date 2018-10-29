@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit: how did news media play a role?
-
 An analyses of the EU Referendum result and the role the mainstream media played in shaping the argument.

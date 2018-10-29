@@ -10,6 +10,4 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# Audio Glasgow
-
 Website of Audio Glasgow, a live music venue in Glasgow, Scotland. 

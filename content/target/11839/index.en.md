@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Wealthy Nation
-
 <p>Our goal is to create confidence that a free Scotland in our sense will be a wealthy nation.</p>

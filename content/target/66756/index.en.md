@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Think Woof
-
 Think Woof is an online resource for information about the care of Dogs

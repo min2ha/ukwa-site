@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Johann Lamont
-
 Johann Lamont is Scottish Labour member of the Scottish Parliament for Glasgow Pollok.

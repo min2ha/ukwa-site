@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Stockton International Riverside Festival
-
 Outdoor art spectacular with a focus on international performers and companies.

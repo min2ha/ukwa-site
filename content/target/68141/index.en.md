@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Airbus: Brexit - Risk Assessment
-
 Airbus said if the UK left the EU in 2019 without a deal - meaning it left both the single market and customs union immediately and without any agreed transition - it would "lead to severe disruption and interruption of UK production".

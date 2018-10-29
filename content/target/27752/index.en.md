@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Protesters accuse government of 'hijacking' Magna Carta anniversary
-

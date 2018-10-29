@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour needs to be ready when the Tories slip up - and they will slip up
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Mary-on-the-Rock, and St James-the-Less
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Aberdeenshire, at Ellon and Cruden Bay.

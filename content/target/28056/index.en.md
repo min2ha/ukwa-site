@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Capoeira Canal
-
 Website of a capoeira school based in West London.

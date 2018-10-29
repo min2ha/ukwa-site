@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bridport Literary Festival, The 
-
 Bridport Literary Festival

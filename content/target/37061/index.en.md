@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Plaid Cymru: Leanne Wood warns that June Brexit vote would show disregard for Wales
-
 Party website for Plaid Cymru (Party of Wales)

@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Stand Edinburgh, The on Facebook
-
 The Stand is a purpose built comedy venue in Edinburgh and venue at the Fringe Festival. This is the official Facebook account.

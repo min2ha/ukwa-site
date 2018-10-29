@@ -10,5 +10,3 @@
   "start_date": "2016-08-09T11:00:00Z"
 }
 
-# Made in Scotland Showcase
-

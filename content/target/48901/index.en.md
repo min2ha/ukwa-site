@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Pushkin House
-
 Pushkin House is the UK's oldest independent Russian cultural centre. Today, Pushkin House remains true to its original mission.  In its current home, a 300-year-old listed building on Bloomsbury Square, Pushkin House hosts a varied programme of Russian literature, poetry, art, cinema, music, theatre and dance, history, philosophy and current affairs. Pushkin House is a politically independent, Registered UK Charity, owned and run by the Pushkin House Trust.

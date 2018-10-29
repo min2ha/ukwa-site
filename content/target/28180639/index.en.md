@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Lewes District Council
-
 Lewes District Council website provides information on local services, news, consultations, committee meeting agendas and minutes, and information on budget and spending.

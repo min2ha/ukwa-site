@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Portree Local History Society
-
 Local history society for Portree on Skye. Also called Comann Eachdraidh Ionadail Phortrigh, but no Gaelic content.

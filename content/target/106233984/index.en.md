@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Jan Cavelle Furniture Company Ltd
-

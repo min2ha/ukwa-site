@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# BBC Travel
-
 BBC Travel updates for road, rail, light rail and ferry incidents across the UK. In addition to searching above, you can look for incidents with quick links on the home page.

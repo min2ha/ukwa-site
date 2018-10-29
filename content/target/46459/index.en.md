@@ -10,6 +10,4 @@
   "start_date": "2016-10-25T10:00:00Z"
 }
 
-# Vale of Glamorgan Council: Creative Rural Communities
-
 The Creative Rural Communities was established in 2004 and is the Vale of Glamorgan Council's rural regeneration initiative. 

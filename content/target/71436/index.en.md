@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# SaintsDundee
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Dundee, namely St. John the Baptist and St. Martin.

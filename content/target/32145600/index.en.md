@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Association of Genetic Nurses and Counsellors (AGNC)
-
 None

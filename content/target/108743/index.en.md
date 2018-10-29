@@ -10,5 +10,3 @@
   "start_date": "2005-05-31T00:00:00Z"
 }
 
-# Churchill Archives Centre
-

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Newbury Rugby Football Club
-

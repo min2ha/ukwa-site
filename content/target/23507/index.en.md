@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Corney (Green Party Candidate for South East Cornwall)
-
 Martin Corney Green Party Candidate for South East Cornwall in the 2015 General Election  but was not elected.

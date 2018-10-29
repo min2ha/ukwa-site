@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Team Scotland (@Team_Scotland) on Twitter
-
 Official Twitter of Team Scotland representing Scotland at the Commonwealth Games & Commonwealth Youth Games.

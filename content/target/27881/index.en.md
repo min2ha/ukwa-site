@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Forest of Dean Family History Trust
-
 The site's aim is to provide website based resources for family history researchers whose ancestors and families lived in the Forest of Dean and its borders. The site also has a collection of old photographs of people and places of the Forest of Dean.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Cywaith Gemwaith Gogledd Cymru | North Wales Jewellers Collective
-
 CGGC began in 2013 and established a support network for jewellers and silversmiths in the North Wales area. 

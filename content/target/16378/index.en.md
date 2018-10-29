@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Doctors of the World UK: Ebola Appeal
-
 None

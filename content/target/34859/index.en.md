@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# International HIV/AIDS Alliance
-
 International HIV/AIDS Alliance is a charity founded in 1993 to support community groups in countries that were most affected by the global AIDS crisis. 

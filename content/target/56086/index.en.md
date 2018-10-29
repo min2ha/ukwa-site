@@ -10,5 +10,3 @@
   "start_date": "2017-07-25T09:00:00Z"
 }
 
-# Enjoy Swansea bay
-

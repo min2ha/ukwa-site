@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# Box UK
-
 Box UK is a Cardiff-based software development firm Box UK are an award-winning Agile software consultants and UX practitioners delivering high performance digital products.

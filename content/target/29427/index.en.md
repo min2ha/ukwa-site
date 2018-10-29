@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# D-Lab - Digital Art in Derbyshire
-
 D-Lab is a visual arts project from Arts Derbyshire that will bring new digital art to Derbyshire. D-Lab is funded by Arts Council England and supported by Arts Derbyshire and Derbyshire County Council. 

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Never Forget your Welsh Heroes
-
 Never Forget Your Welsh Heroes is a campaign run by Friends of the Royal Welsh Regimental Museum to track down and publish letters from Welsh soldiers and soldiers who served in Welsh regiments.

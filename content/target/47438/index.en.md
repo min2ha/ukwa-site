@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# LGBT History Month Scotland
-
 Site of a annual celebration during the month of February of lesbian, gay, bisexual, transgender and queer lives and culture, and to recognition of the contribution LGBT people have made to Scotland and the world.

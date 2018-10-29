@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Blair Heary (@BlairHeary) on Twitter
-
 Twitter profile of Blair Heary, Scottish Labour candidate for Edinburgh Pentlands in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tonbridge and Malling Green Party
-
 Tonbridge and Malling Green Party campaigns for Social and Environmental Justice within the West Kent borough of Tonbridge and Malling.

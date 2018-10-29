@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Equality and Human Rights Commission: Healing a divided Britain
-
 This report represents the biggest ever review into race inequality in Great Britain, providing a comprehensive analysis on whether our society lives up to its promise to be fair to all its citizens. It reveals a ‘very worrying combination’ of a post-Brexit rise in hate crime and long-term systemic unfairness and race inequality’

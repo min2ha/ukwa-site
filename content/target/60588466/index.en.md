@@ -11,5 +11,3 @@
   "subject": "Spending Cuts 2010: Impact on Social Welfare"
 }
 
-# Commons Select Committee: White Paper on Universal Credit
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ann McKechin on Twitter
-
 The twitter profile of Ann McKechin, Labour candidate for Glasgow North in the 2015 UK General election.

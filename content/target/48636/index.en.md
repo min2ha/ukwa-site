@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Orkney Amateur Football Association
-
 Site of the organisers and governing body for various association football competitions based in Orkney, Scotland.

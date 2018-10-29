@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Red Sky Management: Craig Benson
-
 Sponsor's profile of swimmer, Mark Benson.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Richard Ashworth MEP on Facebook
-
 None

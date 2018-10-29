@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# University of Cambridge: Celebrating India
-

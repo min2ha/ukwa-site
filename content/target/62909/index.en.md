@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# City of Edinburgh Methodist Church
-
 Site of a methodist church located in the centre of Edinburgh.

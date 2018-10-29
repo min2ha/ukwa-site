@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM meeting with Donald Tusk: 8 September 2016
-
 Theresa May held her first formal bilateral meeting with European Council President Donald Tusk to discuss the UK's withdrawal from the EU.

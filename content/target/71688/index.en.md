@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: New referendum could include option to Remain under Labour plans, says Keir Starmer
-
 Labour’s Brexit spokesman Sir Keir Starmer said his party's new approach to a fresh referendum does not rule out an option to stay in the EU. Sir Keir told The Independent the motion agreed with delegates at the 2018 Party conference could allow a new referendum with ‘Remain’ on the ballot paper.

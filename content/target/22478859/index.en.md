@@ -10,5 +10,3 @@
   "start_date": "2008-10-03T00:00:00Z"
 }
 
-# Festivals Company, The
-

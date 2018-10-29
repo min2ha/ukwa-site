@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West London Hospitals
-
 None

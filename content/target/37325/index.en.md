@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# openDemocracy: Women and the young are being left in the dark by the Brexit debate
-
 The unequal representation of female and young demographics in voices on Brexit underlines the need for better information

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The chancellor has failed to provide a clear direction on Brexit
-

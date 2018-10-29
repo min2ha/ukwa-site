@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: DAN HODGES: Brexit needs trust not soap stars' cheap shots
-

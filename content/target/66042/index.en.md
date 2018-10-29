@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Entertainment Retailers Association, The (ERA)
-
 The Entertainment Retailers Association is a UK trade organisation formed specifically to act as a forum for the physical and digital retail and wholesale sectors of the music, video and videogames industries.

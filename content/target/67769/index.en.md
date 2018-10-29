@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Côr Meibion Caerfyrddin | Carmarthen Male Choir
-
 Carmarthen was established in 1958 and are based in Carmarthen.

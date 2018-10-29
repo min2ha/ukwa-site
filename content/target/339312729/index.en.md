@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Cairde na hEireann Liverpool
-
 Cairde na hEireann Liverpool is an Irish community group, based on Merseyside, which was established in 2008.

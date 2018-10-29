@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Polls point to Tories being largest party – but Miliband holds the cards in race for No 10
-
 None

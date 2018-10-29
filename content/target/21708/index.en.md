@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Miliband's done his homework – now he's ready for the TV test
-
 None

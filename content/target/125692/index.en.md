@@ -11,6 +11,4 @@
   "subject": "Latin America UK"
 }
 
-# Tango Oblivion
-
 None

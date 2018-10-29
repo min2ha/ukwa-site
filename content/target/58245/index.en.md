@@ -10,6 +10,4 @@
   "start_date": "2017-11-01T09:00:00Z"
 }
 
-# Dominion Cinema
-
 Site of an independent cinema located in the Morningside area of Edinburgh.

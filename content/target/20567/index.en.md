@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon: SNP will never vote to renew Trident - video 
-

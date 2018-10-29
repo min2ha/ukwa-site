@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Arloesiadur
-
 Arloesiadur is a collaboration between Nesta and Welsh Government to map innovation in Wales and work closely with Welsh Government and infogr8, a data visualisation agency, to map innovation in Wales. Nesta (formerly NESTA, National Endowment for Science, Technology and the Arts) is an innovation foundation based in the UK.

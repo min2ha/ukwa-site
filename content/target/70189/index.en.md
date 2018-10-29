@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Portadown Football Club (@Portadownfc) on Twitter
-
 The Official Twitter Account of Portadown FC who play in the NIFL Bluefin Sport Championship in Northern Ireland.

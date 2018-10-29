@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cheltenham Science Festival
-
 6-day celebration of science, jam-packed with thought-provoking discussions, energetic schools shows, hands-on workshops, mindblowing performances and interactive exhibitions.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Human Eights Watch: Putting the British Election to Rights
-
 In both domestic and foreign policy, political parties should make human rights a central focus of their manifestos, and of their vision for Britain and its place in the world.

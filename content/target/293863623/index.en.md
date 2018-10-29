@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Big Plus, The
-
 Scotland's capaign to promote adult literacy and numeracy.

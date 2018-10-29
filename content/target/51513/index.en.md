@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Euros Childs
-
 Euros Childs is a Welsh musician and songwriter and frontman for the band Gorky's Zygotic Mynci. 

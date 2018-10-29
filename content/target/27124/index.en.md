@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Jewellery Quarter Research Trust (JQRT)
-
 Jewellery Quarter Research Trust (JQRT) is a not for profit un-incorporated trust whose aim is to research the history and times of people and places in and around Birmingham’s Jewellery Quarter particularly the two historic cemeteries at Key Hill and Warstone Lane.

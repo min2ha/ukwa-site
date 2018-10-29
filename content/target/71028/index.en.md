@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# BAWSO
-
 BAWSO was established in 1995 and support people from Black and Ethnic Minority backgrounds who are affected by domestic abuse and other forms of abuse, including Female Genital Mutilation, Forced Marriage, Human Trafficking & Prostitution.

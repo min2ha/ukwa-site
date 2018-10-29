@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Crichton Trust
-
 Site of a trust established to promote, regenerate and care for the Crichton Estate and other buildings of historic interest throughout Dumfries and Galloway.

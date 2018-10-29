@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Eddie Ladd
-
 Welsh performer.

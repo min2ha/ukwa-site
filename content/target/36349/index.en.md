@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: David Cameron’s patience over EU will not be rewarded
-

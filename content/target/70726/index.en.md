@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Why Labour must lead calls for a people’s vote on Brexit
-

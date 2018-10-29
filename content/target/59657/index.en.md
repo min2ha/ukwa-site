@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'It's unravelling faster than a Christmas jumper': May is lashed in the Lords over Brexit deal as she fights to keep it afloat despite rare display of Tory unity in the Commons   
-

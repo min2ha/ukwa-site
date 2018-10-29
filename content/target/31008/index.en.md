@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# States of Jersey Consultations
-
 Online portal for States of Jersey public consultations

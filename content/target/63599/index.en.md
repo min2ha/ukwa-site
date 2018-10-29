@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Pink News : Stephen Hawking
-
 Subsection on Stephen Hawing

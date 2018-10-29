@@ -10,5 +10,3 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Angus Soft Fruits Ltd
-

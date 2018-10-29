@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Caribbean Council
-
 The Caribbean Council is a specialist not-for-profit consultancy providing services internationally to companies, trade associations, governments, public sector organisations, and regional and multilateral organisations. Through its activities and membership organisations, it seeks to support and encourage trade and investment between the UK, the Caribbean and Central America. It aims to catalyse relationships and create strategic partnerships between those in both the private and public sectors, facilitating practical and targeted outcomes.

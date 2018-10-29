@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sacred Heart, Torry, Aberdeen
-
 Site of a Roman Catholic church in Scotland for the parish of Sacred Heart, Torry, Aberdeen

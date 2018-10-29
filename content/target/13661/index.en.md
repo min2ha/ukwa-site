@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Our Scotland
-
 <p>Our Scotland is a discussion forum to encourage online discussion about Scottish politics, Independence and society.</p>

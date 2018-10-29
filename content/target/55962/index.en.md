@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Garrison 
-
 A large star wars costuming group, UK branch of the 501st legion.

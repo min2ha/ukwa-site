@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Special Needs UK
-
 The site contains information on the range of schools and support groups for children of all ages with special needs.

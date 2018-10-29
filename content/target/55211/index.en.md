@@ -10,5 +10,3 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Socialist Health Association Scotland
-

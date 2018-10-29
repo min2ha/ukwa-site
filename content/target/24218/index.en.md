@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC Question Time leaders debate: five things we learned
-
 None

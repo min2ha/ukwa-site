@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# About Reconnection, the website of the artist Owen Griffiths
-
 About Reconnection is the website of the artist Owen Griffiths, an artist based between Wales and Denmark.

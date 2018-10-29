@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jim McGovern on Facebook
-
 The Facebook page of Jim McGovern as an MP. Scottish Labour Party Parliamentary Candidate for Dundee West, until standing down on grounds of ill health.

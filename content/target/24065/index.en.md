@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News:  Election results: How did pollsters get it so wrong?
-
 None

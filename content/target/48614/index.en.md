@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 20th Jan 2017: Prime Minister's Questions
-
 Prime Minister, Theresa May answers oral questions about her Brexit strategy from Labour leader Jeremy Corbyn and others. 

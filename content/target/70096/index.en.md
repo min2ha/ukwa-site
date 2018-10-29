@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newry City Ladies FC (@NCLadiesFC) on Twitter
-
 The Official Twitter account for Newry City Ladies Football Club.

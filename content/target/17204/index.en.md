@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Inside Politics: leader's wives take centre stage in General Election war
-
 None

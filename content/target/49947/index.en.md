@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bonnyrigg Rose Football Club
-
 Site page for a Scottish junior football club based in Bonnyrigg, Midlothian.

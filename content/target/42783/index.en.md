@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# DIY space for London
-
 DIY Space For London is a cooperatively-run social centre located in South London, just off Old Kent Road hosting events, talks, screening and providing space for community activities

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Institute of Consumer Sciences (ICSc)
-
 None

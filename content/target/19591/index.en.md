@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dame Anne Begg on Facebook
-
 The Facebook page of Dame Anne Begg, Scottish Labour Member of Parliament for Aberdeen South.

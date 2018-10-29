@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal National Institute of Blind People (RNIB): Voting and Elections
-
 The right to vote independently, and in secret, is a cornerstone of our democracy. Yet blind and partially sighted voters continue to face unacceptable barriers to exercising their democratic right to vote in secret.

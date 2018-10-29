@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Souls Fife
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Fife, covering St. Serf's Burntisland, St. Peter's, Inverkeithing and St. Columba's, Aberdour.

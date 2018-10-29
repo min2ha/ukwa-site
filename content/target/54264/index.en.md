@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Official London Theatre: Harry Potter Broadway premiere confirmed
-

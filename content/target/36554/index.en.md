@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Nine out of ten economists say Brexit will damage economy
-

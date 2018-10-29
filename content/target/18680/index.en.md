@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Magna Carta 2007 - an updated version to protect us from an overweening State
-

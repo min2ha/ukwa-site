@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Fladgate: Brexit Briefings
-
 Blog of the Fladgate Brexit team, covering the legal implications of Britain's leaving the EU

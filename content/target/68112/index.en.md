@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bridgnorth RFC
-
 One of Shropshires Premier clubs, running four senior teams, colts, youth minins and a Senior Womens team too.

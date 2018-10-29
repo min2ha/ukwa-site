@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: "I used to think social media was a force for good. Now the evidence says I was wrong"
-
 News article about the dangers of social media for health 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Cynllo's Church Llangynllo Ceredigion
-

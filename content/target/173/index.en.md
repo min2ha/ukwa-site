@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Cornwall Hospitals
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish International Storytelling Festival
-
 The Scottish Storytelling Centre is a lively arts venue located in the heart of Edinburgh and is home to the Scottish International Storytelling Festival and TradFest.

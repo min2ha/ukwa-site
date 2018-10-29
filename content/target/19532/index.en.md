@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: GALLERY: The Magna Carta on show
-

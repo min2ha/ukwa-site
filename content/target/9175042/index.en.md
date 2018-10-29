@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Cornish Bible Project - Projekt an Bibel Kernewek
-
 None

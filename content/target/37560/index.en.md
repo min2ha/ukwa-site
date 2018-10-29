@@ -10,6 +10,4 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# Sheffield Students' Union
-
 Sheffield Students' Union exists to provide support, representation, facilities, services, entertainment and activities to students studying at the University of Sheffield.

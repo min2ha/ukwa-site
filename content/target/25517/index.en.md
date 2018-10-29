@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ukip voters the least likely to regularly try food from other countries
-
 None

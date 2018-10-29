@@ -10,5 +10,3 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Let Down in Wales: The campaign for private rented sector reform in Wales
-

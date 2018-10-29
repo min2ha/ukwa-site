@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: PM'S BIG PUSH Theresa May begins a frantic ten-day push to lock down a divorce deal ahead of EU summit deadline
-
 Once free of the 2018Conservative Party conference, the Prime Minister was able to offer more concessions to Brussels in the Brexit negotiations

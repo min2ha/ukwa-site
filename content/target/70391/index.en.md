@@ -10,6 +10,4 @@
   "start_date": "2018-08-25T09:00:00Z"
 }
 
-# Childwise Research Ltd.
-
 Company undertaking quantitative and qualitative research into children and young people. Publishes reports and does bespoke research. Site includes news and blogs

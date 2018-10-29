@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Chapel Cottage Studio
-
 Chapel Cottage Studio and Gallery is an Art teaching Studio & Gallery, located 10 minutes outside Abergavenny and is run by professional Artist, Jantien Powell.

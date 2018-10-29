@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Haycorn Cottage
-
 None

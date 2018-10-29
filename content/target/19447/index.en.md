@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Government minister visits St Albans Magna Carta exhibition
-

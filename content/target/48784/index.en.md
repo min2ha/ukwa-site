@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Llangollen Railcars
-
 Llangollen Railcars is a fleet of seven two-car diesel railcars. The aim is to preserve, maintain, and operate our railcars for the benefit of the public and future generations.

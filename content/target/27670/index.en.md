@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed Miliband 'hid opinion poll that showed Ed Balls would lose his seat', claims ally of ousted former shadow chancellor
-
 None

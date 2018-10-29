@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BuzzFeed: Brexit Could Worsen Abortion Rights For The Women Of Gibraltar
-
 Women on the Overseas Territory can not access an abortion in Gibraltar and access to the morning after pill is restricted to prescription only. Women wishing to avail of these services travel to Spain and with the Brexit negations are worried that this will be made more difficult if there is a hard border enforced. 

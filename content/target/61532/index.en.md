@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Auchtertool Kirk
-
 Site of a Church of Scotland parish church at Auchtertool, Fife.

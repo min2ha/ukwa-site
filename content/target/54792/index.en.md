@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# Mercian Volunteers Regimental Association
-
 The Mercian Regimental cap badge of a Saxon crown over a double headed eagle was originally the Crest of Leofric, Earl of Mercia, better known through his wife Lady Godiva of Coventry.

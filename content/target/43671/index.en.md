@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Will Straw (@wdjstraw ) on Twitter
-
 Will Straw is Executive Director of Britain Stronger in Europe and campaigned for Britain to remain in the EU

@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Telegraph: Easter Rising: DUP's Foster will have nothing to do with centenary of rebellion in Ireland
-

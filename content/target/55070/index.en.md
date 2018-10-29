@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Library Carpentry: Introduction to programming with Python on Github
-
 This lesson is an introduction to programming in Python for librarians with little or no previous programming experience. 

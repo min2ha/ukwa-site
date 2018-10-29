@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed Balls REFUSES to match Tory election pledge to increase NHS spending by £8billion a year
-
 None

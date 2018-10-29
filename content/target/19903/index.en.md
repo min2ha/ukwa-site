@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alasdair Ibbotson (@That_Alasdair) on Twitter
-
 Green candidate in Alyn & Deeside

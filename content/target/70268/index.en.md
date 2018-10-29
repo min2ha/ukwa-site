@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC, The: BBC Four announces all female cast and writers for Snatches: Moments From 100 Years Of Women's Lives curated by Vicky Featherstone
-
 BBC Media centre article announcing a programme of monologues written and performed by women, to mark 100 years of suffrage.

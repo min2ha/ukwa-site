@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Loughborough Junction, WORLD WAR 1, Augmented Reality Stories
-
 Project to create an Augmented Reality experience using trails of individually designed paving slabs, linking various parts of Loughborough Junction with the events of the First World War.

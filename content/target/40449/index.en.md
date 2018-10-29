@@ -10,6 +10,4 @@
   "start_date": "2016-05-05T11:00:00Z"
 }
 
-# Dyfodol Adeiladu Cymru | Construction Futures Wales
-
 According to the site, 'Construction Futures Wales (CFW) is a unique and fully funded initiative by Welsh Government and the CITB offering the Welsh construction industry the support that it needs to grow'.

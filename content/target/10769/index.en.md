@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Chris for Europe (Chris Stephens, Scottish National Party on Facebook)
-
 None

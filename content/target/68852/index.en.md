@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Isle of Wight Festival
-
 Website for the Isle of Wight Music Festival.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tavish Scott
-
 Tavish Scott is Scottish Liberal Democrat Member of the Scottish Parliament for the Shetland Islands constituency.

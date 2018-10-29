@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Revolution, The 
-
 The Irish Revolution is a collaborative online project between University College Cork and the Irish Examiner.

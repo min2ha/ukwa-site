@@ -10,5 +10,3 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Nick Thomas-Symonds (Labour MP for Torfaen)
-

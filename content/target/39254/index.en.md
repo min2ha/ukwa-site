@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# National Assembly for Wales Election: MS Matters in Wales
-

@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Skye Times
-
 Site of an online news service based in Skye, and aimed at Skye and Raasay, Western Isles / Hebrides, residents.

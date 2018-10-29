@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Fair Fuel UK: The Fair Fuel UK 2015 General Election Manifesto
-
 FairFuelUK Campaign advocates to stop any Fuel Duty rises in this Parliament (2010-2015) and beyond and cut Fuel Duty by 3p for economic growth.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Hanson on Facebook
-
 Labour MP for Delyn.

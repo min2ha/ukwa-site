@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Hit the North Festival 
-
 Website for the Hit the North Music Festival.

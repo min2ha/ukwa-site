@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Open Reason
-
 Open Reason works with a number of organisations to advocate reforms in a range of areas. This includes addressing issues around the UK's relationship with the EU after the 2016 referendum, inequalities in education and drugs policy reform.

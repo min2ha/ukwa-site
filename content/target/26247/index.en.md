@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Northern Ireland Council for Ethnic Minorities (NICEM)
-
  NICEM was officially launched on 8th of June 1994 at the Conference on “Racism and Poverty”, which was organised by the Northern Ireland Anti-Poverty Network and NICEM. The initial idea for NICEM developed from the linkage and working relationship between the Chinese, Indian and the Traveling communities, which together with the Committee on the Administration of Justice (CAJ), have been the forefront in campaigning for the race relations legislation in Northern Ireland since 1991.

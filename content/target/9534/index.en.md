@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Liberty GB
-
 Liberty GB is a far-right British ultra-nationalist political party. It was registered with the Electoral Commission on 5 March 2013 by Paul Weston and George Whale.

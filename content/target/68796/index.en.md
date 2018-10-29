@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# The Case of Oleg Sentsov
-
 A UCL European Institute article on the hunger strike of Ukrainian director, writer and civic activist Oleg Sentsov in a Russian prison during the 2018 World Cup in Russia by Uilleam Blacker, lecturer at UCL SSEES and the translator of Sentsov’s stories.

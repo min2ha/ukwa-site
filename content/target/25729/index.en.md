@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Who will protect, provide, shelter, build?' Why privatisation is the key to the election
-
 None

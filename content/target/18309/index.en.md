@@ -11,5 +11,3 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Reach Beyond: 'Bucket Brigade' Campaign to Help Break Ebola Infection Cycle in Sierra Leone
-

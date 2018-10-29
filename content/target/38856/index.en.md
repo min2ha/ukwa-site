@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: IMF warns Brexit will create 'severe global damage'
-

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Play Your Part - Community sports and activity project by Sport Wales
-
 Play Your Part is a Sport Wales Community sports and activity project. The aim is to work to get every child in Wales hooked on sport for life and to create a nation of Welsh sporting champions.

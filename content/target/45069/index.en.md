@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Swimming
-
 Scottish Swimming is the national governing body for swimming in Scotland.

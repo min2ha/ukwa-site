@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# WriterStories TV
-
 Arts channel dedicated to writing, storytelling and all things literary.

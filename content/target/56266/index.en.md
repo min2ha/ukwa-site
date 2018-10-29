@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: 'Selfie' body image warning issued
-
 News article on relationship between selfies and negative self comparison on Facebook

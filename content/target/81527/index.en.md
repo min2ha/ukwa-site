@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# National Union of Student (NUS) Connect: Parenting
-
 NUS connect sub page highlighting parenting good practice examples

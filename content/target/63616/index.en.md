@@ -10,6 +10,4 @@
   "start_date": "2018-04-05T09:00:00Z"
 }
 
-# Lodge Lockhart St. John No. 248
-
 Site of a masonic lodge located in Carnwath, Lanarkshire and affiliated with the Grand Lodge of Scotland.

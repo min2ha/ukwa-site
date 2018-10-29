@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# IDF50: 2012 Olympic Games
-

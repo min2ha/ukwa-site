@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# St. Brides Major, Southerndown and Ogmore-by-Sea Community Website 
-
 The site promote the villages and surrounding areas of St. Brides Major, Southerndown, and Ogmore-by-Sea in the Vale of Glamorgan.

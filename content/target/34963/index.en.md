@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Confederation of Paper Industries (CPI)
-
 The Confederation of Paper Industries (CPI) is an organisation working on behalf of the UK's Paper-based Industries. CPI represents the supply chain for paper, comprising recovered paper merchants, paper and board manufacturers and converters, corrugated packaging producers and makers of soft tissue papers.

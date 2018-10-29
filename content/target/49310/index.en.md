@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# East Kilbride Football Club
-
 Site of an amateur football club based in East Kilbride, Lanarkshire.

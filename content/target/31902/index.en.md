@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UK Data Service
-
 The UK Data Service is a comprehensive resource funded by the ESRC to support researchers, teachers and policymakers who depend on high-quality social and economic data.

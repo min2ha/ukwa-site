@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Can Munro & Clan Munro (Association)
-
 Site dedicated to the history, family history and traditions of the Munro clan and its septs. 

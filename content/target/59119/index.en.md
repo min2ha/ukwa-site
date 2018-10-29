@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Penllech Coastcare
-
 Penllech Coastcare is a Keep Wales Tidy (KWT) volunteer group operating on the northern coastline of  the Lleyn Peninsula monitoring marine litter, beach clean ups; and reports on marine wildlife strandings.

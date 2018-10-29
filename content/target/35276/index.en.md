@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Sheila Mechan (@sheilamechan) on Twitter
-
 Twitter profile of Sheila Mechan, Scottish Conservative and Unionist Party candidate for East Dunbartonshire in the 2017 general election.

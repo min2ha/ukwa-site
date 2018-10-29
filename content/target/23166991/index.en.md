@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Deer Park Farm Holiday Cottage
-
 None

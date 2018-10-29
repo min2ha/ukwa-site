@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The 10 Brexit compromises Theresa May won't talk about
-

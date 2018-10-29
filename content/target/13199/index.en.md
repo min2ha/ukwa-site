@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# David Hume Institute (DHImusings) on Twitter
-
 <p>The twitter profile of the David Hume Institute, an independent public policy charity promoting informed debate in Scotland.</p>

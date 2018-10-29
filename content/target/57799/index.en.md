@@ -10,6 +10,4 @@
   "start_date": "2017-10-13T09:00:00Z"
 }
 
-# Stephanie Tuckwell
-
 Stephanie Tuckwell is a British artist well-known for her watercolours. She graduated from Goldsmith’s College London in 1975 and is based in Cardiff.  Her work is based on 'her experiences in the landscape with a focus on the intersection of land and sea.'

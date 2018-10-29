@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bônau Cabbage Patch: The Quarterly Magazine of Pwll
-
 The Bônau Cabbage Patch is a quarterly magazine for the residents of Pwll near Llanelli and is published by The Pwll Action Committee. The site provides online access to issues of the magazine from edition 1 which was published in 2004.

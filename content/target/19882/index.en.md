@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Oggy Bloggy Ogwr
-
 Oggy Bloggy Ogwr is a non-affiliated nationalist blog based in Bridgend. 

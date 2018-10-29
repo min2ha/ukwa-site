@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# GB Short Track Speed Skating
-
 None

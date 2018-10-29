@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Carol Monaghan (@CMonaghanSNP) on Twitter
-
 Twitter profile of Carol Monaghan, Scottish National Party candidate for Glasgow North West in the 2017 general election.

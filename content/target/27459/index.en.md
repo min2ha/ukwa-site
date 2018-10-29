@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election: 7 things that have been wrong with this campaign - and what needs to change if politicians really want more people to vote
-
 None

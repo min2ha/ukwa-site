@@ -11,8 +11,6 @@
   "subject": "Black and Asian Britain"
 }
 
-# National Association of Nigerian Communities UK (NANC-UK)
-
 The National Association of Nigerian Communities (NANC) is an organisation that has been in existence since the 1970s.
 We started as a students union and when our pioneers ceased to be students, the union then metamorphosed into a welfare association called the NNU.
  

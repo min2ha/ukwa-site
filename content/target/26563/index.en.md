@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Even if the Tories win the battle, they’ve already lost the war for England’s soul
-
 None

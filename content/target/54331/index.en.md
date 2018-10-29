@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# EDL News (@edlnews) on Twitter
-
 An anti English Defence League (EDL) Twitter account.

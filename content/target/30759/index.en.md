@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Scottish Association for Marine Science (SAMS), The
-
 Official website of the Scottish Association for Marine Science in Oban, Argyll.

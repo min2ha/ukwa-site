@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit Door, The
-
 Blog arguing in favour of leaving the EU, written by a musician living in rural Norfolk

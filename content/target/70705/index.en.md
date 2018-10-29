@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home:  The Chequers proposal would prevent the UK regaining an independent trade policy
-
 Tariffs are only one aspect of current free trade agreements. The relatively low level of tariffs in most developed countries means that the real meat of free trade negotiations these days involves regulations and standards for products and agricultural goods. Food safety, product labelling, consumer safety, environmental standards, etc, all become subjects for negotiation. But if the UK accepts EU regulations and standards for all traded goods, it has no leeway to negotiate different outcomes in its negotiations with third countries.
 

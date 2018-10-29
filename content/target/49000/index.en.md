@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# Warburton Gallery
-
 Site of a not-for-profit organisation founded with the aim of facilitating the creation of new art of the highest quality and enabling artists to experiment and take risks in their artistic practice, moving creative ideas to the fore and providing a place for work to be displayed.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cara Hilton MSP (cara_hilton) on Twitter
-
 Twitter profile of Cara Hilton, Scottish Labour candidate for Dunfermline and West Fife in the 2017 general election.

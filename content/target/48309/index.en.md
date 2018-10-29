@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May must commit to single market in her Brexit speech
-

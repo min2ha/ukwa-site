@@ -10,6 +10,4 @@
   "start_date": "2016-11-04T09:00:00Z"
 }
 
-# Carmichael Watson Project Blog
-
 Carmichael Watson Project Blog

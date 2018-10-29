@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservative support slips but party stays just ahead of Labour
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Russia hunts suspected female Sochi suicide bomber
-
 None

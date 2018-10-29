@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Kensington and Chelsea Tenant Management Organisation (KCTMO)
-
 KCTMO is managed by a Board of Directors comprising of eight elected tenant and leaseholder members, four appointed Councillor members and three independent appointed other members. Grenfell Tower is one of many social housing properties that it manages.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Zetha Media - Polish Express Media Group
-
 Polish Express Media Group & Advertising Agency in the UK

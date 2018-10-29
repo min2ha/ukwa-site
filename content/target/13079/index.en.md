@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# MigrantsRightsSctl'd (MigRightsScot) on Twitter
-
 <p>The twitter profile of Migrants' Rights Scotland; a not-for-profit company which works alongside migrants and their community organisations (MCOs) for a rights-based approach to migration, supporting their engagement in developing the policies and procedures which affect their lives in Scotland and in the UK.</p>

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Ministry of Defence (@DefenceHQ) on Twitter
-
 DefenceHQ is the official corporate news channel of the UK Ministry of Defence.

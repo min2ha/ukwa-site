@@ -10,6 +10,4 @@
   "start_date": "2014-02-05T06:00:00Z"
 }
 
-# a2bsafely.com
-
 <p>A Road Safety Scotland site aimed at schoolchildren, including educational resources for teachers and parents.</p>

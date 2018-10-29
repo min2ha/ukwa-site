@@ -862,6 +862,4 @@
   "endDateText": ""
 }
 
-# Cambridge Network
-
 The Cambridge Network is a membership organisation based in the vibrant high technology cluster of Cambridge. The British Library captured the websites of over 700 of the cluster of companies, educational institutions and other organisations associated with the Cambridge Network between 2011 and 2013. The collection comprises many research centres and enterprises associated with the University of Cambridge, such as the Centre for Business Research or the Centre for Advanced Photonics and Electronics (CAPE). Also included are the sites of organisations whose purpose is to facilitate knowledge exchange in general, such as the UK Innovation Research Centre or the Huntingdonshire Business Network. There are also websites from local government, the law, financial services, the charitable sector and the many other parts that go to make up the rich ecology of business in a local area. This collection will hopefully be of great value in capturing a snapshot of innovation in progress in a particular geographical area.

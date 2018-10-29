@@ -10,6 +10,4 @@
   "start_date": "2017-12-06T09:00:00Z"
 }
 
-# The Monmouthshire Way
-
 The Monmouthshire Way is a 116 mile circular walk that explores Monmouthshire and was designed by South Wales Long Distance Walkers Association member, David Morgan.

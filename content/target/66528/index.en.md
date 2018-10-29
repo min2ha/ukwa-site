@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Met Office (@metoffice) on Twitter
-
 The official Met Office account for weather and climate, news and jobs. Got a weather question?

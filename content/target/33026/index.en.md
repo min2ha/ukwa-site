@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Office of Public Works Dublin Commemorative Sites
-
 This is the website of The Office of Public Works who manage and operate sites which memorialise those who lost their lives in the conflicts of 1912 – 1922/3. 

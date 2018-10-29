@@ -10,6 +10,4 @@
   "start_date": "2016-07-06T10:00:00Z"
 }
 
-# Royal Scottish Society of Painters in Watercolour
-
 Site of an academic society existing to promote the art of watercolour painting in Scotland and beyond.

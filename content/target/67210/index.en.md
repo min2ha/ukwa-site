@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Orkney Brewery, The
-
 Site of a brewer, their brewery and visitor centre located in Orkney.

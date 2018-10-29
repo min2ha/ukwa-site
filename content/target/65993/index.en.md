@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Mellten
-
 Mellten is a quarterly comic aimed at boys and girls between 7-13 years old. It is published by Lolfa and is edited by the cartoonist Huw Aaron. On publication it was the first Welsh language comic in more than 20 years.

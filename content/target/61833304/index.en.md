@@ -10,5 +10,3 @@
   "start_date": "2011-10-05T00:00:00Z"
 }
 
-# Infectious Diseases Research Network (IDRN)
-

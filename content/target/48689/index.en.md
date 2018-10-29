@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Oasis Community Learning
-
 Established in 2004, they are a Multi-Academy Trust based in England.

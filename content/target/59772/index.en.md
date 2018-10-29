@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# "BBC News: Brexit: UK in Erasmus student scheme until at least 2020 "
-
 Theresa May praised Erasmus+ and confirmed the UK would still be involved after Brexit in March 2019.

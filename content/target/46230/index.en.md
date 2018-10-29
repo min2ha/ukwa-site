@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: A special kind of arrogance!' Brexiteers condemn ex-model investment fund manager as she launches landmark court battle to derail process of leaving EU   
-

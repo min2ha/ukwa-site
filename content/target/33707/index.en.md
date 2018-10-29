@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish Central
-
 Irish Central is an Irish site in North America and covers news and interests, from the nostalgic and the modern Irish America and Ireland. 

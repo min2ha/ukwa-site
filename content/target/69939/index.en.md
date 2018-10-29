@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Water Tower Appreciation Society
-
 The British Water Tower Appreciation Society exists to connect enthusiasts of water towers to share their enjoyment of their artistic, cultural, architectural, historical, social and engineering significance.

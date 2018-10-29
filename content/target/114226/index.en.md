@@ -10,5 +10,3 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# Central Registry of Information on Looted Cultural Property, 1933-1945
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Katie Byres
-
 <p>The website of pole vaulter Katie Byres, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

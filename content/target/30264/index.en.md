@@ -10,6 +10,4 @@
   "start_date": "2015-10-04T10:00:00Z"
 }
 
-# Bookmark (@bookmarkblair) on Twitter
-
 Twitter account for Bookmark, an annual Scottish book festival based in Blairgowrie, Rattray and the Glens.

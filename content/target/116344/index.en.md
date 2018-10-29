@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Labour Women's Network
-
 Labour Women's Network trains and supports Labour women for public office.

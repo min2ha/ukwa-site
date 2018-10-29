@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Radical Wales
-
 Radical Wales is an independent platform for considered radical political analysis, commentary and discussion. According to the site it 'provides a space for the extra-parliamentary left of anarchists, communists, greens, left-republicans and socialists outside of the major political parties to explore issues important to them.'

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-#  Telegraph, The: Support for Brexit grows after business leaders unswayed by PM's negotiations
-

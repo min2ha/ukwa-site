@@ -10,5 +10,3 @@
   "start_date": "2018-07-03T09:00:00Z"
 }
 
-# Paul Sweeney MP | Labour and Co-operative Member of Parliament for Glasgow North East
-

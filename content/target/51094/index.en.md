@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bradley Road Baptist Church, Wrexham
-

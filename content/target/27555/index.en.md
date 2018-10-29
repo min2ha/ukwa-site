@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: The tactical voting guide: How to make your vote count even when you think it doesn't
-
 None

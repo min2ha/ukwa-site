@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Contact Scotland British Sign Language
-
 Site of Scotland's video relay service (VRS) providing deaf British Sign Language users access to all of Scotland's public and voluntary sectors.

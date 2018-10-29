@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tin Forest, The
-
 <p>A National Theatre of Scotland project “The Tin Forest” invites the people of Glasgow to retell the city’s story and to reimagine its future. Part of the Glasgow 2014 Cultural Programme.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The UK's contribution to the EU budget
-
 This note considers how much the UK contributes to the EU budget and how much it receives back. Potential payments to the EU on or after Brexit are also discussed.

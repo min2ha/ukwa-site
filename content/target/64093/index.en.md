@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# WSLobbyistNI (@WSLobbyistNI) on Twitter
-
 Women's Sector Lobbyist at @WRDA_team. Informing and influencing the development and implementation of policy affecting women.

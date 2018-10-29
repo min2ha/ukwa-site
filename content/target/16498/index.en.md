@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Portsmouth MP Mike Hancock 'undecided' on standing in 2015 General Election
-
 None

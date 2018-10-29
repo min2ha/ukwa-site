@@ -10,5 +10,3 @@
   "start_date": "2015-11-26T09:00:00Z"
 }
 
-# Cyngor Cristnogol Ysgolion Cymru | Christian Council for the Schools in Wales
-

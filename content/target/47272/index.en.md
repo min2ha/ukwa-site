@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Campaign for Protection of Rural England: New model farming
-
 This paper suggests that, following the EU referendum decision, there is an opportunity for major policy change to develop a new vision and policies that will establish a sound future for farming. The paper identifies a range of recommendations to increase the diversity, sustainability and resilience of the farming sector on which so much of our countryside depends

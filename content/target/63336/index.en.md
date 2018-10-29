@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Belfast Telegraph: Stephen Hawking
-
 Northern Ireland live news, sport, business, opinion, entertainment, lifestyle updates from Belfast Telegraph belfasttelegraph.co.uk. These are the articles relating to Stephen Hawking.

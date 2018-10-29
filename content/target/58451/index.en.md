@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-#  Pattern in Islamic Art
-
 An archive of over 4000 images of patterns and other design features drawn from the rich cultural heritage of the Islamic world. Historically, the decorative arts have always formed a major part of Islamic aesthetic expression.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael's Dumbarton Roman Catholic Church
-
 Site of a Scottish Roman Catholic parish church in Dumbarton, Dunbartonshire.

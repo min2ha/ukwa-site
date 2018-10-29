@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# NHS 24: Ebola virus
-
 <p>NHS 24: Ebola virus website gives the latest information on Ebola virus disease.</p>

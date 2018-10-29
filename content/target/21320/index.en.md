@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calum Kerr - SNP, Berwickshire, Roxburgh, Selkirk, Scottish Borders
-
 Website of Calum Kerr, Scottish National Party (SNP) candidate for Berwickshire, Roxburgh, Selkirk and Scottish Borders in the 2015 UK General Election.

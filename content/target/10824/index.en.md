@@ -10,6 +10,4 @@
   "start_date": "2014-05-15T03:00:00Z"
 }
 
-# London & Partners
-
 London & Partners is the official promotional company for London. We promote London and attract businesses, events, congresses, students and visitors to the capital. 

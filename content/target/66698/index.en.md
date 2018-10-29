@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Nuffield Council on Bioethics
-
 The Nuffield Council on Bioethics is a UK-based independent charitable body, which examines and reports on bioethical issues raised by new advances in biological and medical research. Established in 1991, the Council is funded by the Nuffield Foundation, the Medical Research Council and the Wellcome Trust. The Council has been described by the media as a 'leading ethics watchdog', which 'never shrinks from the unthinkable'

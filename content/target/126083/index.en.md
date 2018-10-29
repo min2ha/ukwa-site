@@ -10,5 +10,3 @@
   "start_date": "2011-09-28T00:00:00Z"
 }
 
-# Prifysgol Cymru y Drindod Dewi Sant | University of Wales Trinity Saint David
-

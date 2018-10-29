@@ -10,8 +10,6 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Morriston Ladies Choir 
-
 About Us
 
 Morriston Ladies Choir, or MLC as its affectionately known, was formed in 1941 by  Miss Lillian Abbot.

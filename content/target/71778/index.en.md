@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Don’t scoff at Comrade Corbyn, says QUENTIN LETTS: His party’s got zip in its tank – and if the Tories don’t wake up, we’re all banjaxed
-
 Comments on the enthusiasm of the young Labour Party members at the 2018 annual conference. Contrasts this with the dull, lifeless Conservative government under Theresa May.

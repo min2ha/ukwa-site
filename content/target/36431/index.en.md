@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Take control back from the EU, says John Whittingdale
-
 Comment by John Whittingdale

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Turks and Caicos Weekly News
-
 The national newspaper of the Turks and Caicos Islands.

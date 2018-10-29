@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Porthcawl Lifeboat
-
 The website for Porthcawl Lifeboat providing a short history and an overview to the lifeboat station.

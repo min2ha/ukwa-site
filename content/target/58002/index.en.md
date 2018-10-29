@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Llandovery History Society
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thomas Docherty on Facebook
-
 This is the Facebook page of Thomas Docherty, the Labour Party candidate for Dunfermline and West Fife in the UK General Election on the 7th May 2015.

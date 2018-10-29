@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Green Wales | Cymru Werdd
-
 <p>This is the Natural Resources Wales Environmental Management System (EMS) ‘micro-site’. The site includes their Environmental Policy statement as well as our Environmental Systems Manual (EMS) and its associated documents.</p>

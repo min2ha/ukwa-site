@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Universities for Britain
-
 A pro-Brexit group of students in the Home Counties.

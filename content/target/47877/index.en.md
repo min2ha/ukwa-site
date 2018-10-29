@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Echoes from the Vault
-
 A blog from the Special Collections of the University of St Andrews.

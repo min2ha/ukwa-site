@@ -10,6 +10,4 @@
   "start_date": "2013-03-25T15:45:00Z"
 }
 
-# Grammar Blog. A blog about punctuation and grammar
-
 <p>More amusing grammar failure's, snapped by enterprising member's of the public.</p>

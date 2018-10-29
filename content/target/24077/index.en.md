@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Business leaders call for EU question to be settled 'quickly'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whitecraigs Rugby Club
-
 Site of a Scottish rugby union club based at Newton Mearns, Glasgow.

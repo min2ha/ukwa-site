@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: I would bet on Brexit to win the referendum, warns Labour's Andy Burnham as he calls for the Remain campaign to make the 'emotional' case for the EU   
-

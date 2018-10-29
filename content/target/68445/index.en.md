@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Grieve 2: an amendable motion?
-
 Looks at the 'Grieve 2' amendment to the EU Withdrawal Bill, which proposes to guarantee that the Commons can consider a motion on the Government's Brexit policy

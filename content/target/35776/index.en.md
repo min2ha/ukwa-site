@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cameron’s deal is a chance to make the EU work. Seize it 
-
 Guardian, The

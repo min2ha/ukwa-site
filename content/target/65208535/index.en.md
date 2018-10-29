@@ -10,5 +10,3 @@
   "start_date": "2012-05-02T00:00:00Z"
 }
 
-# Dorset Learning Disability Partnership Board
-

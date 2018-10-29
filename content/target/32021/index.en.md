@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Prime Cymru
-
 PRIME Cymru: The Prince’s Initiative for Mature Enterprise in Wales is dedicated to providing practical support to people aged 50 and over who want to become and remain economically active.

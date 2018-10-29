@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Insomnia 
-
 Website for the Insomnia gaming festival

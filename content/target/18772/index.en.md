@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: Taunton Deane Branch Programme 2014-15
-

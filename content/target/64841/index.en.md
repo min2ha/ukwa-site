@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Sanquhar St. Brides Church of Scotland on Facebook
-
 Facebook page of a Church of Scotland parish church at Sanquhar, Dumfries & Galloway.

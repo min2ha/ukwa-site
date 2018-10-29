@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Jenny Willott - First ever Lib Dem MP for Cardiff Central
-
 Jenny Willott is the Liberal Democrats prospective parliamentary candidate for Cardiff Central.
 She is also the current MP.

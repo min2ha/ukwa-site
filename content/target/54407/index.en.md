@@ -10,6 +10,4 @@
   "start_date": "2017-06-08T09:00:00Z"
 }
 
-# Cardiff Scan Club 
-
 Cardiff Scan Club is a metal detecting society based in Cardiff

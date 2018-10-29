@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Festival City
-
 Site of an agglomeration of the various festivals staged annually in Edinburgh to work collaboratively and strategically to enhance and sustain Edinburgh as a leading festival city.

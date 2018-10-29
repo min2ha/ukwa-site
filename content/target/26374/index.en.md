@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clegg will not let second coalition advocate EU withdrawal
-
 None

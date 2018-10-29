@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Kings Christian Centre, Mold
-

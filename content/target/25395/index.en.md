@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Debate heckler: I'm interested in making our lives better - video
-
 None

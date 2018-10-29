@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# High Tide
-
 Festival of live performance including comedy, music and family shows

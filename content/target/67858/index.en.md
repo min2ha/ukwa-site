@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aylestonians RFC
-
 Known as The Stones we play our rugby in the shadow of The Tigers just a ten minute walk from Welford Road ground. 

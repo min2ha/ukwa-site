@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The EU supports poorer regions. Will the Tories abandon them after Brexit?
-

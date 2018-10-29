@@ -10,5 +10,3 @@
   "start_date": "2014-02-26T00:00:00Z"
 }
 
-# St Johns United Reformed & Methodist Church
-

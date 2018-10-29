@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: Magna Carta can still challenge the orthodoxy and help resolve today’s democratic difficulties
-

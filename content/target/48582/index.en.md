@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Dunblane's Community Website
-
 Community website for the town of Dunblane, Stirlingshire, Scotland, providing details of amenities, businesses and events for residents and visitors.

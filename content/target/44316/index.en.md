@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Free Tibet 
-
 
 Supporters for Tibet in London in 2014 
 

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Baslow History Group 
-
 A group of local enthusiasts and amateur historians interested in researching and popularising all aspects of the local history and heritage of Baslow and Bubnell, two picturesque villages set in the heart of the Peak District.

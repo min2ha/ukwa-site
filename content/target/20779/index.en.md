@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tommy Sheppard on Facebook
-
 This is the Facebook page of Tommy Sheppard, the Scottish National Party (SNP) candidate for Edinburgh East in the UK General Election on the 7th May 2015.

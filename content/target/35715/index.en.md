@@ -10,6 +10,4 @@
   "start_date": "2016-02-22T09:00:00Z"
 }
 
-# Pride Gwyrdd | Green Pride
-
 This is a group established by the Wales Green Party to advance the rights of Lesbian, Gay, Bisexual, Trans, Intersex & Queer (LGBTIQ) people. 

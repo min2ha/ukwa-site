@@ -10,5 +10,3 @@
   "start_date": "2006-07-25T00:00:00Z"
 }
 
-# Starbucks Edinburgh Jazz and Blues Festival
-

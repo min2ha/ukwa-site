@@ -10,5 +10,3 @@
   "start_date": "2012-06-06T00:00:00Z"
 }
 
-# Polish DeConstruction
-

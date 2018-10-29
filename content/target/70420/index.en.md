@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Barefoot Festival
-
 Festival focussed on getting back to basics and in touch with namture

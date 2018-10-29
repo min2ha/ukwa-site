@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sadiq Khan (@SadiqKhan) on Twitter (Labour Mayor of London)
-
 Sadiq Khan, Mayor of London,  joined forces with David Cameron to campaign for the UK to remain in the European Union. After the electorate voted to leave, the Mayor campaigned to protect the interests of EU citizens in London and to keep the capital open for business.

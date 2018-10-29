@@ -10,5 +10,3 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# Andy Graham on Facebook (Liberal Democrat candidate for Witney)
-

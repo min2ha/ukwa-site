@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Come on Wales – outrage over Mars support for England football team is storm in a tea-break
-

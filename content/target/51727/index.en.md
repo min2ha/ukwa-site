@@ -10,6 +10,4 @@
   "start_date": "2017-04-05T09:00:00Z"
 }
 
-# Worshipful Company of Security Professionals
-
 Membership of the Company is drawn from the Security Industry in its widest sense and includes leading security professionals from the industrial and retail sectors, serving and retired members of the police and armed services, security consultants, academics, heads of security for corporate businesses, investigators and electronic surveillance practitioners.

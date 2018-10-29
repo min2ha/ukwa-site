@@ -10,6 +10,4 @@
   "start_date": "2017-09-16T09:00:00Z"
 }
 
-# Shani Rhys James
-
 Shani Rhys James is a Welsh-Australian artist and former BBC Wales Visual Artist of the Year and Eisteddfod winner.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Elaine Murray
-
 Elaine Murray is the Scottish Labour candidate for Dumfriesshire in the 2016 Scottish Parliamentary election.

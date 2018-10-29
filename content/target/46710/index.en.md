@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Canolfan Hanes Uwchgwyrfai
-
 Canolfan Hanes Uwchgwyrfai is a community enterprise located in the old school at Clynnog Fawr and covers the parishes of Llanaelhaearn, Clynnog, Llandwrog, Llanwnda a Llanllyfni.

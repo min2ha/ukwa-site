@@ -10,6 +10,4 @@
   "start_date": "2016-10-28T11:00:00Z"
 }
 
-# Climate Psychology Alliance (CPA)
-
 The Climate Psychology Alliance provides a forum for people wanting to make connections between depth psychology and climate change.

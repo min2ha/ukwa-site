@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Unite Live: Windrush: Unite calls for ‘dignity and respect’
-
 An article about the Windrush scandal.

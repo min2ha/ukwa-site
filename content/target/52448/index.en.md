@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Forza Swansea | A Swansea City Blog
-
 Forza Swansea is a blog following the fortunes of Swansea City Football Club.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# Phil Gault - Baritone
-
 Phil Gault is a Welsh baritone who has performed internationally and at major venues throughout the UK, with a repertoire including Dichterliebe, Chansons Gaillardes, Songs of Travel, Carmina Burana, A Sea Symphony, and the Bach Passions and cantatas.

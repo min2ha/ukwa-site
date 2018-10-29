@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Byline Fest
-
 a riot of independent journalism at pippingford bad press awards.

@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Argotist Online, The
-
 The Argotist Online (established in 2005) is the successor to The Argotist arts magazine, which came into being in 1996 and ran for four years. The magazine sought to act as a bridge between what is perceived as “high-brow” and “low-brow” in the arts. The Argotist Online differs from The Argotist magazine in that it is devoted entirely to poetry and poetics.

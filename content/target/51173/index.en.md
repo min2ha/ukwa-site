@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Unite For Europe (@Unite4Europe) on Twitter
-
 Official Unite for Europe Twitter Page. Unite for Europe is a national umbrella group of remain campaigners that organised the National March to Parliament on 25 March 2017.

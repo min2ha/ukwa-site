@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May takes personal charge of Brexit talks
-
 Theresa May announced in a written statement to the Commons that she would be taking personal charge of the Brexit negotiations assisted by Olly Robbins, head of the Europe Unit in the Cabinet Office.

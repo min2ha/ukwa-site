@@ -10,6 +10,4 @@
   "start_date": "2015-12-10T09:00:00Z"
 }
 
-# Modernist Network Cymru
-
 Modernist Network Cymru is a new scholarly network that aims to bring together academics and postgraduate students working on modernism in Wales. 

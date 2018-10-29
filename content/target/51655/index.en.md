@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Monifieth Hillwalking & Rambling Club
-
 Site of a hillwalking and rambling club in the Dundee area.

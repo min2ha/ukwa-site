@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Poll shows Tories edging ahead of Labour in rare poll win
-
 None

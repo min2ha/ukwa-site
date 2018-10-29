@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jamie Halcro Johnston for Orkney on Facebook
-

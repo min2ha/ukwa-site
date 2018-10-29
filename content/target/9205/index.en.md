@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Telegraph, The: Winter Olympics 2014
-

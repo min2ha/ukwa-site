@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Martin Peet (@MartinPeet) on Twitter (Conservative candidate for Arfon)
-
 Martin Peet is the Conservative candidate for Arfon at the 2016 National Assembly Elections. 

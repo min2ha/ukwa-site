@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# Farming UK
-
 Farming UK is a website with news and information about agriculture sector in the UK.

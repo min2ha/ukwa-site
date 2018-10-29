@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: Canterbury Branch Programme 2014-15
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Dundee LibDems (@DundeeLibDems) on Twitter
-
 Twitter profile of the Dundee branch of the Scottish Liberal Democrats.

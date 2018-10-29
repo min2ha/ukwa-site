@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Of course farmers fear Brexit, but it could save the British countryside
-

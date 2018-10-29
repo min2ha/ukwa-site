@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Slaughter and May: Brexit essentials: Exit negotiations, trade deals, and the rules of political lobbying
-
 This briefing focuses on the negotiations between the UK, the EU and key overseas stakeholders which will be needed to deliver Brexit and to sustain the UK's trading relationships with the rest of the world following its exit from the EU. It considers what will be negotiated, who will be negotiating, and how businesses can make their voices heard.

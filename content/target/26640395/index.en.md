@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# Stoves Online
-
 None

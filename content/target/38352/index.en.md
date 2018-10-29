@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# BMJ Blogs: Doctors, The BMJ, and Ireland’s Easter Rising
-
 Post on the British Medical Journal blog about the Easter Rising was reflected in the 1916 BMJ issues

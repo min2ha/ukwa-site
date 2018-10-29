@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Ysgol Cilcennin School | Ysgol Gymunedol Cilcennin
-
 Ysgol Cilcennin is a primary school located in Ceredigion. 

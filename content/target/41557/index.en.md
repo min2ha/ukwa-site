@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fraserburgh Football Club
-
 Site of a Scottish football club based in Fraserburgh, Aberdeenshire.

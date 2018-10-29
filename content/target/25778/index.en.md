@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election coverage: fewer than one in five politicians featured are female
-
 None

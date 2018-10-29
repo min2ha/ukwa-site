@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: European press warns 'Little Britain' is heading for 'isolation' following Theresa May's vow to implement a 'full Brexit'   
-

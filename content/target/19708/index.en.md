@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Property Federation: Manifesto 2015
-
 British Property Federation (BPF) is a not-for-profit membership organisation representing companies involved in property ownership and investment.

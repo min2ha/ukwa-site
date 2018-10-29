@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# International Business Times: Remainers who insist Brexit voters are racist create a self-fulfilling immigration prophecy
-
 Article from a Conservative Party member about benefits of EU referendum and leaving 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Gambling Community Forum
-
 An online enthusiast community concerned with gambling. 

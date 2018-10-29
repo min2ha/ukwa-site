@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: BBC under fire by In campaigners for proposing 'bear pit' Wembley Arena televised debate
-

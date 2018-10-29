@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Home Live Art
-
 Home Live Art is a company of creative producers working in the field of live art and performance. With an emphasis on participation and public interaction, their projects and events respond to different locations, contexts, audiences.

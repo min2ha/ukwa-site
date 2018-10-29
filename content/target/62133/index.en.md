@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# All This Rotting
-
 All This Rotting by Alan Trotter. All This Rotting is an unstable story about an unstable mind, it is a story about deaths: one sudden and violent, one slow and incremental. It's a story about loss — of a daughter, a sister, a child's feet, of a man's mind. Approach All This Rotting carefully, because like the story, it is very fragile.

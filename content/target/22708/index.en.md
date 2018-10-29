@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# James Flanagan (@JamesCanterbury) on Twitter (Liberal Democrats candidate for Canterbury)
-
 James Flanagan stood as Liberal Democrats candidate for Canterbury and Whitstable at the 2015 General Election but was not elected. He stood again in 2017 but again was not elected.

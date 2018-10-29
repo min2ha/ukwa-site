@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Jane E M Callaghan
-
 A personal blog by an academic psychologist,  and a Professor of Child Protection and Wellbeing at the University of Stirling. 

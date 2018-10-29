@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Hafal: Mair's Manifesto
-
 Hafal is the principal organisation in Wales working with individuals recovering from serious mental illness and their families. 

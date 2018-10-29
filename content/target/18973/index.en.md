@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Simon de Montfort: The turning point for democracy that gets overlooked
-

@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Withered Hand
-
 Site of a musician, Dan Willson, based in Fife, Scotland, and using.

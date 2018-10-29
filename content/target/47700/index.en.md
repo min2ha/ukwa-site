@@ -10,6 +10,4 @@
   "start_date": "2016-12-09T09:00:00Z"
 }
 
-# Pembrokeshire Outdoor Charter Group
-
 Pembrokeshire Outdoor Charter Group meet and run training events to develop best practice and create voluntary codes of conduct and ensure that adventurous activities do not impact on Pembrokeshire’s coastline and wildlife.

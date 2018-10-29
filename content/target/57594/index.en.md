@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis' opening remarks at the start of the fourth round of EU exit negotiations 
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow Mela
-
 Site of an annual festival of Indian / South Asian culture taking place in Glasgow.

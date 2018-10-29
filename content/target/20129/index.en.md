@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# International Compliance Association (ICA)
-
 International Compliance Association (ICA) a provider of professional certificated qualifications and training in anti money laundering (AML), compliance and fraud/financial crime prevention.

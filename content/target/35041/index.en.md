@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tænketanken EUROPA
-
 Think Tank Europa is an independent think tank focusing on European issues. It is dedicated to finding constructive and forward-looking answers to Denmark’s role in the European Union. On the basis of competent research and independent analysis, the think tank aims to qualify, refine and influence the debate on Europe in Denmark for the benefit of the broader public

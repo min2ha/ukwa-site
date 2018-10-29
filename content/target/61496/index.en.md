@@ -10,6 +10,4 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Cae Hir Gardens
-
 Cae Hir is located at Cribyn near Lampeter and is the creation of Dutchman Wil Akkermans. Since 1983, Cae Hir has matured and developed into one of Britain’s most highly acclaimed private gardens, having been chosen by the RHS as one of their select Partner Gardens.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Elston (@ThyPirateDave) on Twitter 
-
 Pirate Party candidate for Bridgend at the 2015 General Election and Vale of Glamorgan at the 2017 General Election.

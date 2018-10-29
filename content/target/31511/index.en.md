@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Playhubs
-
 Playhubs is a co-working space for the games industry and an incubator for early stage games startups, located within Somerset House, Central London.

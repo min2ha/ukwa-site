@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Women's Sports Network (WSNet)
-
 The Women's Sports Network (WSNet) is a not for profit community promoting issues/opportunities around WomenSport & SportsWomen by supporting others in commercial/NFP/educational/Charityorganisation to develop their 'position' in line with their own values/beliefs. 

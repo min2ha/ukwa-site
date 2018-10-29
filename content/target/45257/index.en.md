@@ -10,6 +10,4 @@
   "start_date": "2016-09-07T10:00:00Z"
 }
 
-# Bill Lawson Publications
-
 Site of a publisher specialising in genealogy and local history for the Outer Hebrides, and based in Harris.

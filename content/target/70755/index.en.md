@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Cordon Sanitaire Wales: Take a stand against the far right in Wales |  Cordon Sanitaire Cymru: Gwnewch safiad yn erbyn yr asgell-dde eithafol yng Nghymru
-
 Cordon Sanitaire Wales is a blog that take a stand against the far right in Wales. Its authors include Simon Brooks and Huw L. Williams.

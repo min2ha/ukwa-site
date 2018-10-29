@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Wheelchair Athletic Association
-

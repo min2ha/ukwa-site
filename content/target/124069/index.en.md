@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Commonwealth War Graves Commission (CWGC)
-
 The Commonwealth War Graves Commission (CWCG) ensures that 1.7 million people who died in the two world wars will never be forgotten. They care for cemeteries and memorials at 23,000 locations, in 154 countries. 

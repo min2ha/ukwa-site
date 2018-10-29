@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Glasgow Family History
-
 Site created by Glasgow Life promoting and providing information on the family history related resources available in the city of Glasgow, through archives and libraries.

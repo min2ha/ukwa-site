@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Donald Tusk: UK Brexit plans 'pure illusion'
-
 The European Council president told a news conference in Brussels on February 23rd 2018 that the UK was still trying to "cherry pick" its future relationship with the EU. This approach was totally unacceptable to the EU 27.
 

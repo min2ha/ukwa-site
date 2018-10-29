@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Russ Timpson (@RussT2015Thanet) on Twitter (Liberal Democrats candidate for South Thanet)
-
 Russ Timpson stood as Liberal Democrats candidate for South Thanet at the 2015 General Election but was not elected. 

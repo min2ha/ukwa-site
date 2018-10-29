@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# GEEK (Game Expo East Kent) 2013
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Visible Fictions (visiblefictions) on Twitter
-
 <p>The twitter profile of Visible Fictions. Innovative Glasgow based theatre company who are performing “Get on your bike” in green spaces across Scotland as part of the Glasgow 2014 Cultural programme.</p>

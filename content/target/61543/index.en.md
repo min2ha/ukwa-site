@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Draft Text For Discussion: Implementation Period
-
 This document sets out the United Kingdom’s approach to the legal text of the implementation period to be provided for in the Withdrawal Agreement. It was allegedly published without Cabinet agreement. It raises the prospect of an open-ended transition period, It makes no mention of Theresa May's pledge to end free movement after Britain leaves the EU in March 2019, and could limit Britain's ability to strike free trade deals.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-#  Gair Rhydd: Page for stories related to EU referendum 
-
 List of stories published by Gair Rhydd concerning possible 'Brexit' and the EU referendum. 

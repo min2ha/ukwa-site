@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Tower Bridge Facts
-
 None

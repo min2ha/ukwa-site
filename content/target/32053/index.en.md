@@ -10,6 +10,4 @@
   "start_date": "2015-11-03T09:00:00Z"
 }
 
-# Wicid
-
 This is a site for young people of Rhondda Cynon Taf. Promo Cymru have been funded to deliver Wicid in partnership with Rhondda Cynon Taf Youth Engagement and Participation Service. 

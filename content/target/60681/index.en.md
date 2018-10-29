@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow High Kelvinside / GHK Rugby Football Club
-
 Site of a Scottish rugby union football club based in Glasgow.

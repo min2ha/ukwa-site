@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sophie Heawood: Who needs therapy? It’s high time our politicians hit the couch
-
 None

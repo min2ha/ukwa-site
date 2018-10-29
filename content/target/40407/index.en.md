@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Germanic Cardiff
-
 Germanic Cardiff focuses on all things Welshy-German. The author studied German at Oxford and moved to Cardiff, and is keen to strengthen ties between the Germanic nations and the Welsh capital.

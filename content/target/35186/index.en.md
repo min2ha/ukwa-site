@@ -10,6 +10,4 @@
   "start_date": "2016-02-12T09:00:00Z"
 }
 
-# Laura Thomas
-
 Laura Thomas is a Welsh textile artist.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bike Radar
-
 Website associated with the Cycling Plus magazine.

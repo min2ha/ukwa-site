@@ -10,5 +10,3 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Wrexham Glyndŵr Students Union |  Undeb Myfyrwyr Glyndŵr Wrecsam
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dartford and Gravesham NHS Trust
-
 None

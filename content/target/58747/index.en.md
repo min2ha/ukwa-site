@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May warns rebels as Brexit talks set to resume
-
 Theresa May outlines plans to set the UK's departure date and time from the EU in law, warning she will not "tolerate" any attempt to block Brexit.

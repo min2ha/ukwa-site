@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Eurosport: Euro 2016 fever persuades England fans to look differently at Brexit
-
 Eurosport article on the effect of Euro 2016 on the opinions of English football fans towards Brexit

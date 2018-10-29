@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Flame Church
-
 Site of an independent Chirstian church located in Darvel, Ayrshire.

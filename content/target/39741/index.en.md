@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mohammad Asghar on Facebook (Conservative Assembly Member for South Wales East)
-
 Mohammad Asghar is the Conservative candidate for South Wales East at the 2016 National Assembly for Wales elections. 

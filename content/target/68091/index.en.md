@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# UK Association of Aesthetic Plastic Surgeons
-
 This is compiled by our Members , for our Members and has the unreserved and unashamed purpose of promoting safer Aesthetic Plastic Surgery practice to the public. Using modern marketing techniques, cosmetic surgery patients will be made aware of the training and experience required by our GMC Specialty Registered Plastic Surgeon Members located throughout the entire United Kingdom and even abroad. 

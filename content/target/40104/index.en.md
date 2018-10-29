@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# John Griffiths on Facebook (Labour candidate for Newport East)
-
 John Griffiths is the Labour candidate for Newport East at the 2016 National Assembly Election. 

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dan Heap (@danheaped) on Twitter
-
 The Twitter profile of Dan Heap, Scottish Green Party candidate for Lothian in the 2016 Scottish Parliament election.

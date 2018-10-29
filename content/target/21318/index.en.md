@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dr. Eilidh Whiteford
-
 Dr. Eilidh Whiteford is the Scottish National Party (SNP) candidate for Banff and Buchan.

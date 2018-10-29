@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# NHS Million (@NHSMillion) on Twitter
-
 NHS Million was created in response to the under funding and privatisation of the service. This is their official Twitter account.

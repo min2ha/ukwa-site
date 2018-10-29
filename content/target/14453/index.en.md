@@ -10,6 +10,4 @@
   "start_date": "2014-11-30T23:00:00Z"
 }
 
-# Ceredigion Moths
-
 <p>The blog records the sightings of moths in Ceredigion.</p>

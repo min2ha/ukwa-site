@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# National Collective (WeAreNational) on Twitter
-
 <p>The twitter profile of National Collective, artists and creatives for Scottish Independence.</p>

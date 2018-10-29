@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Magdalene College, University of Cambridge
-
 The College of St Mary Magdalene is located in the centre of Cambridge beside the bridge on the River Cam, from which the city takes its name. Magdalene College is a constituent college of the University of Cambridge. The college was founded in 1428 as a Benedictine hostel, in time coming to be known as Buckingham College, before being refounded in 1542 as the College of St Mary Magdalene.

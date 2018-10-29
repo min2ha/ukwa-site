@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# ShinyShiny
-
 ShinyShiny is a website that focuses on the way technology is enriching the lives of women. Our readers are female early adopters – an important and influential audience – and our team brings them the latest news, no-nonsense reviews and video round-ups of the coolest stuff out there. 

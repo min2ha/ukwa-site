@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# North Leith Parish Church
-
 Site of a Church of Scotland parish church at Leith, Edinburgh.

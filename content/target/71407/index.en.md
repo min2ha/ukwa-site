@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Old Streetonians RFC
-
 The official website of Old Streetonians Rugby Football Club.

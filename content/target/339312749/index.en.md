@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# History@Kingston: Reinterpreting Rebellion: the Centenary of the 1916 Easter Rising
-
 Article from the Kingston University history department's blog

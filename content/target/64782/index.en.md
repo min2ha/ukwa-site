@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-#  House of Commons Library: Legislative consent and Brexit: devolved governments’ objections to the EUW Bill
-
 Explains why the Scottish and Welsh Governments recommended that their legislatures withhold consent to the EU Withdrawal and Trade Bills

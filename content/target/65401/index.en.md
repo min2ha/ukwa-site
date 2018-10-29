@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Gwent Police Choir
-
  The Gwent Police Choir was formed in 1969.

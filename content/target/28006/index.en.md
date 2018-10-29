@@ -10,6 +10,4 @@
   "start_date": "2015-06-16T09:00:00Z"
 }
 
-# ARTistiaid Sir Benfro | ARTists Pembrokeshire
-
 ARTists PEMBROKESHIRE is run by a group of local artists, and its aim is to promote the work of artists and makers in the county. 

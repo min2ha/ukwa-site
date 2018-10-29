@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's Chuka Umunna admits he doesn't always get receipts when paying cash in hand 
-
 None

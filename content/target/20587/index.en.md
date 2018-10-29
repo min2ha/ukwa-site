@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP leader Nicola Sturgeon: we can help create a government Labour supporters are 'crying out' for - video
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 15 November 2017: European Union (Withdrawal) Bill
-
 Committee stage debates on amendments to the European Union (Withdrawal) Bill

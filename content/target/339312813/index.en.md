@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Glyn Price
-
 Glyn Price is a landscape painter from north Wales.

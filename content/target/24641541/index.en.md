@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# African Musicians Profiles (AMP)
-
 None

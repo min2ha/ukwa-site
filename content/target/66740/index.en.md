@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Veg Gardeners (@UKVegGardeners) onTwitter
-
 Twitter pages of UK Veg Gardeners

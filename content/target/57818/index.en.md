@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Philip Hammond says his remarks were a poor choice of words
-
 The chancellor labelled the European Union's Brexit negotiators as "the enemy" - a remark he subsequently described as a "poor choice of words". During a television interview, Philip Hammond also called the negotiators "the opponents" and said they should "behave like grown-ups".

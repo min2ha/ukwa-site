@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lauren Hankinson (@HankinsonLA) on Twitter
-
 The Twitter profile of Lauren Hankinson, the Conservative Party candidate for Glasgow North in the UK General Election on the 7th May 2015.

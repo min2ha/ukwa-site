@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Esther McVey won't say if she backs PM's EU trade plan
-
 Reports Cabinet unease of proposals for the whole of the UK to remain in a customs union with the EU indefinitely if a trade deal cannot be struck.

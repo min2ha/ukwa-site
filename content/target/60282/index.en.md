@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: On Europe, Labour was right to be cautious. No longer
-

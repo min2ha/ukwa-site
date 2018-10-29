@@ -10,5 +10,3 @@
   "start_date": "2008-08-20T00:00:00Z"
 }
 
-# Rapid Business Improvement
-

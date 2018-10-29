@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# National Institute of Economic and Social Research (NIESR): Economics of Scotland
-
 <p>Independent analysis from NIESR on the economic consequences both for Scotland and the rest of the United Kingdom</p>

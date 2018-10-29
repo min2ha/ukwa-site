@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Labour Start
-
 LabourStart is an online news service maintained by a global network of volunteers which aims to serve the international trade union movement by collecting and disseminating information and by assisting unions in campaigning and other ways. 

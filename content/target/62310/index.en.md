@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Ryanair chief executive Michael O'Leary threatens to ground planes after Brexit in a bid to force Britain 'rethink' its vote to quit the EU   
-

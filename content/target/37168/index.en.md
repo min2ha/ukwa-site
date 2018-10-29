@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: UK renegotiations 'not top of EU agenda'
-

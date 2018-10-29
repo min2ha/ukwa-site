@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kenny Selbie (@KennySelbie) on Twitter
-
 The Twitter profile of Kenny Selbie, the Labour Party candidate for Kirkcaldy and Cowdenbeath in the UK General Election on the 7th May 2015.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: We are all farcically in the dark about what would happen after a vote for Brexit
-

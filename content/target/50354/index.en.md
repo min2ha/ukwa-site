@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St. Alban's Parish, Splott, Cardiff
-

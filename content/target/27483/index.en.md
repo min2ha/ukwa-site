@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: What happens if no-one wins? Here is all you need to know
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Lighthouse Gallery
-
 First opened in the Spring of 2003 by Directors Tracey Spry and Christine Weschke, Lighthouse Gallery is now one an established Gallery in Cornwall.

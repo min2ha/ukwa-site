@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Miliband blasts Ed's Labour leadership as he rules out running for party's top job
-
 None

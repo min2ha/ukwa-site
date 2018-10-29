@@ -10,6 +10,4 @@
   "start_date": "2017-09-14T09:00:00Z"
 }
 
-# Raven House Trust
-
 Provide food and furniture for people in need throughout the old county of Gwent and beyond.

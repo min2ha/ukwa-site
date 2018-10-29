@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Tiger Bay and the World. 
-
 The website will post images of bygone Tiger Bay in Cardiff with the intention of trying to identify the people and places in the images along with possibly the date the photo was taken. The information will be used to enhance the photographic archive of the "Tiger Bay and the World" organisation.

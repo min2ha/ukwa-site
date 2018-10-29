@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Amber Rudd (@AmberRuddHR  ) on Twitter (Conservative Politician)
-
 Amber Rudd stood as Conservative candidate for Hastings and Rye at the 2017 General Election and was successful. She was first elected to serve as MP for Hastings and Rye in 2010 and re-elected in 2015. 

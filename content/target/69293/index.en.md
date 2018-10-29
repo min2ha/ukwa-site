@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# FIPP
-
 FIPP - the network for global media, represents content-rich companies or individuals involved in the creation, publishing or sharing of quality content to audiences of interest. 

@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Cruinn - Traditional & Contemporary Gaelic Song
-
 The Highland based quartet Cruinn brings together four of Scotland's premier Gaelic singers - James Graham, Fiona Mackenzie, Brian O hEadhra and Rachel Walker. 

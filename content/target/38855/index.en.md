@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Leave.EU to launch legal challenge against Electoral Commission decision to promote rival Out campaign
-

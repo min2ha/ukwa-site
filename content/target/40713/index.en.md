@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Jullundur Brigade, The: An untold story
-
 This project will bring school children from 16 schools across Lancashire l to research and share the untold story of the Indian Army in World War 1.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Duntocher Trinity Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Duntocher, West Dunbartonshire.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Asylum Justice
-
 Asylum Justice is a charity that provides free legal services to asylum seekers and refugees in Wales in cases where Legal Aid is not available. 

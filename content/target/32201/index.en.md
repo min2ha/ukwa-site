@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cwmni'r Fran Wen
-
 Welsh theatre company for children and young people.

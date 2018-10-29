@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Kenya Children's Home
-
 Site of a charity based on Scotland, but running a children's orphanage in Kenya.

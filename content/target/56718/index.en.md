@@ -10,6 +10,4 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-# Lara Davies
-
 Lara Davies is a a Maesteg born artist. 

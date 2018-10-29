@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Grassroots Scotland (@Grassroots_Sco) on Twitter
-

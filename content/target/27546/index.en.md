@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Ed Miliband: Election 2015: Britain only succeeds when all its working people succeed
-
 None

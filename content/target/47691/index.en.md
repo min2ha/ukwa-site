@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Why Italy's vote matters
-
 The defeat of Matteo Renzi in Italy's referendum on constitutional reform is not about Europe or the EU but it will be interpreted as an indicator of the strength of the anti-establishment winds blowing through Europe in the aftermath of Mr Trump's unexpected victory. 

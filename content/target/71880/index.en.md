@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Mail on Sunday: Theresa May plans to evoke the 1951 'Festival of Britain' with a £120million nationwide celebration to boost post Brexit pride
-
 Reports that Theresa May was planning to evoke the spirit of the famous 1951 Festival of Britain with a £120 million nationwide celebration after Brexit. 
 

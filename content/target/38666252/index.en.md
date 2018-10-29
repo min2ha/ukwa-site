@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Judo Association
-
 None

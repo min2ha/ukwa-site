@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Clare Haughey (@haughey_clare) on Twitter
-
 The Twitter profile of Clare Haughey, the Scottish National Party candidate for Rutherglen in the 2016 Scottish Parliament election.

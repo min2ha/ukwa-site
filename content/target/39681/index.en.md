@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ian Russell on Facebook
-
 Facebook profile of Ian Russell, Solidarity list candidate for Lothian region in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Independent Subbuteo Forum
-
 An online enthusiast community concerned with collecting Subbuteo. Discusses playing Subbuteo, restoration of equipment, items wanted / for sale and tournaments & competitions and various other related topics. Includes sections for photos of user Subbuteo stadiums and custom paint jobs.

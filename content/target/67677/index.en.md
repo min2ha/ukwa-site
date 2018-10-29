@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# WISE Campaign, The (@thewisecampaign) on Twitter
-
 Twitter account of the WISE campaign: campaign for gender balance in science, technology and engineering

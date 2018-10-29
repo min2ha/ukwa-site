@@ -10,6 +10,4 @@
   "start_date": "2011-03-18T00:00:00Z"
 }
 
-# Healing Thyme
-
 Situated in the lovely old market town of Whitchurch in north Shropshire, Healing Thyme is a centre of excellence for integrated health practice.

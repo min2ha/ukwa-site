@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# G-A-Y in the Subject Field - Roger N. Taber focuses on his gay-interest poems
-
 This blog is especially for gay readers; its aim is to offer support and encouragement to gay people worldwide by way of introducing the authors poems on a gay theme.

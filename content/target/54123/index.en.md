@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Laura Davison (@laurafd) on Twitter (Labour Party  Politician)
-
 Laura Davison stood as Labour Party candidate for Folkestone and Hythe in the 2017 General Election but was not elected.

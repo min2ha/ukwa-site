@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Lodge Fortrose, No. 108
-
 Site of a masonic lodge located in Stornoway, Isle of Lewis, Western Isles and affiliated with the Grand Lodge of Scotland.

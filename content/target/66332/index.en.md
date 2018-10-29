@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# STV Creative
-
 STV Creative is the commercial production division of STV Group. 

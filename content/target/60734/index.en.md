@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Llanishen and District Churches Together
-

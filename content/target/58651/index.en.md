@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Latin Elephant 
-
 Latin Elephant is a charity that promotes ways of engaging and incorporating migrant and ethnic groups in processes of urban change in London.

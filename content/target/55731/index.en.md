@@ -10,6 +10,4 @@
   "start_date": "2017-07-14T09:00:00Z"
 }
 
-# Mam Cymru
-
 Mam Cymru is the first bilingual blogzine for mothers in Wales. The blogzine provides discussions, experiences, reviews and tips on learning Welsh. It was Created by Heulwen Davies a Ashleigh Edwards.

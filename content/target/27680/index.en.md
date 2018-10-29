@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Can Farage survive? Leadership crisis engulfs Ukip as donor calls for him to resign after MEP says he's 'snarling, thin-skinned and aggressive'
-
 None

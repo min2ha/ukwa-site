@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# UK Food Group
-
 The UK Food Group is a network of around 50 development, environment, farmer and academic organisations in the UK working on global food and agriculture issues. The diversity of membership gives a unique, dynamic and holistic perspective on food and agriculture issues.
 
 Purpose

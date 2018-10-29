@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 24th July 2018: Writeen Statement on Machinery of Government Change
-
 The Prime Minister formalises Downing Street's control of the Brexit negotiations in this written statement. In the statement, she says that "I will lead the negotiations, with the Secretary of State for Exiting the European Union deputising on my behalf", with Olly Robbins' Europe Unit at the Cabinet Office having "overall responsibility for the preparation and conduct of the negotiations, drawing upon support from DExEU and other departments as required".
 

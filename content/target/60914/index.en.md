@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cu Chulainns (@cuchullains) on Twitter
-
 Cu Chulainns GAA Club in South East London - the only senior hurling and gaelic football in London.

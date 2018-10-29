@@ -10,5 +10,3 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Eglwysi Presbyteraidd Bro Dinbych
-

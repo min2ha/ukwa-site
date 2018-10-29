@@ -10,6 +10,4 @@
   "start_date": "2015-04-08T06:00:00Z"
 }
 
-# Joanna Cherry on Facebook
-
 This is the Facebook page of Joanna Cherry, the Scottish National Party (SNP) candidate for Edinburgh South West in the UK General Election on the 7th May 2015.

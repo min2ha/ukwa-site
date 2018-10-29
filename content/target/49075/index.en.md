@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Al Ikhlas Culture and Education Centre, Cardiff
-
 Al Ikhlas Culture and Education Centre is located in Adamsdown, Cardiff. The Al Ikhlas Culture and Education Centre was officially established in 2013 and belong to the Sunni tradition of Islam.

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Cyber Security Summit
-
 Cyber Security Summit is a one-day cyber security event, bringing together cyber security experts, senior officials and policy-makers from across the public and private sector to provide an update on cyber security policy, share best practice strategies, and help the UK to combat cyber threats.

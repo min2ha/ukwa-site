@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Our Story Scotland
-
 Site of an organisation collecting, archiving and presenting the life stories and experiences of the LGBT community in Scotland.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Nicola Ross
-
 Nicola Ross is the Scottish Conservative and Unionist Party candidate for Dundee City West constituency in the 2016 Scottish Parliament election.

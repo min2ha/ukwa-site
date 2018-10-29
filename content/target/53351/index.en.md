@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tweet your Candidate(s)
-
 An online platform that can identify the candidates running in your area by entering the Postcode. They include the candidates Twitter account, email, website and Facebook details if they are available.

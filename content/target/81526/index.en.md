@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Tylorstown Band
-
 This is the website for Tylorstown Band, a band competing in local competitions in 1885.

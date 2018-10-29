@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservative pledge to freeze taxes is a sign of desperation, say economists
-
 None

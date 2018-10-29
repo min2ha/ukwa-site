@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Mai Thomas
-
 Mai Thomas was is a artist from North Wales. Her work is influenced directly by the diversity in the landscape, natural forms and plants.

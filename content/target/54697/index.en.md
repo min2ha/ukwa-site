@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UKC Forums
-
 The UKC (UK Climbing) Forum is an online enthusiast forum concerned with mountain climbing in the UK.

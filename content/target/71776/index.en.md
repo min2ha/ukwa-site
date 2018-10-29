@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit Unknowns (update)
-
 What do we still not know about the Brexit process or the withdrawal agreement with the EU that is currently being negotiated? This paper looks at some of the main unknowns.

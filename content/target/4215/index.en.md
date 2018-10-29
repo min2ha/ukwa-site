@@ -10,6 +10,4 @@
   "start_date": "2013-11-20T21:00:00Z"
 }
 
-# National Policing Improvement Agency (NPIA)
-
 None

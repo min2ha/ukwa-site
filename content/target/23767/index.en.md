@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Constructing Excellence in Wales | Adeliadu Arbenigrwydd yng Nghymru
-
 CE Wales is a 'link between Welsh Government, construction clients, the construction industry and end users of construction and infrastructure assets to improve construction processes through greater collaboration and integration.'

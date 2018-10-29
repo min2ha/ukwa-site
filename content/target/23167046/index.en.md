@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# South Shropshire District Council
-
 None

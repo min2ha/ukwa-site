@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Democrats Abroad Women's Caucus
-
 We are women united in advancing and securing our fundamental human rights both in the United States and abroad.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Toon Football Programmes And Memorabilia (@ToonProgrammes) on Twitter
-
 A lifelong Newcastle United fan that owns a shop selling football programmes and memorabilia.

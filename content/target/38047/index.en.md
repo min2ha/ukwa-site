@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Trafford Stronger In (@TrafStongerIn) on Twitter
-
 Local campaign for Altrincham, Sale, Stretford & Urmston to keep Britain in Europe

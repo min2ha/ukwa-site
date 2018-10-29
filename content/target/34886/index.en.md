@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Training Partnership, The
-
 The Training Partnership is a company offering students' placements.

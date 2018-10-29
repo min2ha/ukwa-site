@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 11th July 2017: Exiting the EU
-
 The Foreign Secretary, Boris Johnson, answers Parliamentary questions on British withdrawal from the EU. It includes the famous remark by Mr Johnson, that the EU can "go whistle" for the divorce payments it wants from the UK.  MPs also explore inconsistencies in approach between the Chancellor and the Prime Minister.

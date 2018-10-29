@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Spousal loyality and nice frocks? This election doesn't bode well for women
-
 None

@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:15.354070", 
+  "date": "2018-10-29T13:22:22.796249", 
   "open_access": true, 
   "target_url": "http://www.pastreunited.com/", 
   "description": null, 
   "end_date": null, 
   "title": "Pastreunited.com", 
-  "record_id": "20181029T125515/Mt4GNF+JlMEUq92+3GuDtg==", 
+  "record_id": "20181029T132222/Mt4GNF+JlMEUq92+3GuDtg==", 
   "publisher": "pastreunited.com", 
   "start_date": null
 }
-
-# Pastreunited.com
 
 None

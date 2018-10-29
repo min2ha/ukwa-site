@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: Osborne rejects Lib Dem claims on Conservatives' welfare cuts - live
-
 None

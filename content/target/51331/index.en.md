@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Brethren Archivists and Historians Network
-
 The Brethren movement has had an influence on Protestant evangelicalism that is out of all proportion to its size. This is because of the zealous spirituality of its members, its conservatism in theology, and the participation of many of its members in para-church institutions. They represent an expression of lay piety which has recurred in Christian history, with theirs originating in the early nineteenth century among radical evangelicals 

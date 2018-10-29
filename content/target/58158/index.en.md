@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wales Online: I lost £9,000 in three hours' The devastating reality of what it's like to be addicted to gambling
-
 News article about the impact of online gambling addiction on Sarah Grant's mental health

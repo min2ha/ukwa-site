@@ -10,5 +10,3 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Ysgol Dyffryn Conwy Secondary School, Llanrwst
-

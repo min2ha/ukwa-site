@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Government: More Powers for the Scottish Parliament
-
 <p>Report of the Scottish Government (and endorsed by the SNP) submitted to the Smith Commission on the future devolution of powers to Scotland.</p>

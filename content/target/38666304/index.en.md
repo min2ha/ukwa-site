@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hopkins Van Mil - creative connections
-

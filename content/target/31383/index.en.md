@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Festival of Words
-
 Website for Jersey Festival of Words, Jersey's literary festival.

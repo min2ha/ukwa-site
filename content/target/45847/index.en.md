@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Consolidate the Corbyn victory
-
 Editorial of the Socialist (issue 918), weekly paper of the Socialist Party (England & Wales).

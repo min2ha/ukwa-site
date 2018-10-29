@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Gibraltar News from the Olive Press
-
 A campaigning, community newspaper for the Gibraltar people. The Rock's only investigative local newspaper. We care about Gibraltar.

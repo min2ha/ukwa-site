@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# East Lothian Antiquarians
-

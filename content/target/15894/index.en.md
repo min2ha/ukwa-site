@@ -10,6 +10,4 @@
   "start_date": "2015-03-18T09:00:00Z"
 }
 
-# Gambling Reform & Society Perception (GRASP) 
-
 Gambling Reform &amp; Society Perception (GRASP) was established in November 2010 and is a non-profit organization. It is run by former Compulsive Gamblers who would like to prevent other people from suffering from the addiction. They help and advise problem gamblers but the primary focus is on prevention and raising awareness of problem gambling.

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Clwb Pêl-droed Glantraeth | Glantraeth Football Club
-

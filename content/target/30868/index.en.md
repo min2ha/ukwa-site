@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC: Make It Digital
-
 Throughout 2015 the BBC’s Make It Digital season is shining a light on the world of digital in a major UK-wide initiative to inspire a new generation to get creative with coding, programming and digital technology.

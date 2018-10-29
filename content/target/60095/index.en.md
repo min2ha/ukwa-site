@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Edinburgh Rugby
-
 Site of a Scottish professional rugby union football club based in Edinburgh.

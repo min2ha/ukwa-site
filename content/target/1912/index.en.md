@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bradford Metropolitan District Council
-
 Website of Bradford City Council provides information on its activities and services, including budgets and spending, and planning policy. You can take part in consultations and read committee papers, minutes and decisions.

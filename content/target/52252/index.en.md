@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Industrial Biotechnology Innovation Centre (IBioIC)
-
 Site of an organisation working with industry and the academic community as a single forum for industrial biotechnology throughout Scotland.

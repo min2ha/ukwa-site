@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Busters
-
 Blog collecting news and opinion relating to the EU and the EU Referendum

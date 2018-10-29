@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aston Villa Ladies (@AVLFCOfficial) on Twitter
-
 The official Twitter account of Aston Villa Ladies.

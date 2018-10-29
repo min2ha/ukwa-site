@@ -10,5 +10,3 @@
   "start_date": "2005-11-15T00:00:00Z"
 }
 
-# Graham Greene Birthplace Trust
-

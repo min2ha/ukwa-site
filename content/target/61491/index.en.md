@@ -10,8 +10,6 @@
   "start_date": "2018-02-22T09:00:00Z"
 }
 
-# Plas Dinam Country House
-
 Plas Dinam is located at Llandinam, Powys. Plas Dinam was designed and
 built in 1873/4 and and brought in 1884 bought by David Davies of
 Llandinam. It is now open to the public.

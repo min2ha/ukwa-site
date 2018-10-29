@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Alun Michael (@alunmichael) on Twitter (Labour candidate for South Wales Police and Crime Commissioner) 
-
 Alun Michael is the Labour candidate for South Wales Police Commissioner in the 2016 Police and Crime Commissioner Elections. 

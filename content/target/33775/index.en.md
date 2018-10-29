@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# UK and Ireland
-
 UK government website on British-Irish relations

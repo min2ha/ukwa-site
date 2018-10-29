@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Pembrokeshire Youth
-
 Pembrokeshire Youth provides experiences, opportunities, information, advice and personal support for young people aged 11-25 years. 

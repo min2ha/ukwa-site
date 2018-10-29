@@ -10,6 +10,4 @@
   "start_date": "2016-07-27T10:00:00Z"
 }
 
-# Gwyl Bwyd Môr Bae Ceredigion | Cardigan Bay Seafood Festival
-
 Cardigan Bay Seafood Festival is an held annually in Aberaeron.

@@ -10,7 +10,5 @@
   "start_date": "2010-04-13T00:00:00Z"
 }
 
-# Women and Children First (WCT - UK)
-
 Women and Children First (WCF) improves the health and wellbeing of women and children in poor communities, with a particular focus on pregnancy and the first month of life. 
 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  The shock lessons for liberals from Brexit and the Trumpquake
-

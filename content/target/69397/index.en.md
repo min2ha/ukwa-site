@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Anti-Slavery International: Report: Brexit a threat to Britain’s fight to tackle modern slavery
-
 Brexit poses ‘existential threat’ to UK’s co-operation with European countries essential to tackle modern slavery in Britain.

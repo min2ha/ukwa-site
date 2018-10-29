@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# St Hilary Community Website
-
 This is a community website for the village of St Hilary in the Vale of Glamorgan.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# LGBT History Scotland
-
 Site documenting the the history of Lesbian Gay Bisexual and Trasngender rights in Scotland.

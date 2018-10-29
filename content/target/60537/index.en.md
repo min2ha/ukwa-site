@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: President Trump predicts 'tremendous increase' in UK-US trade
-
 President Donald Trump predicted a "tremendous increase" in UK-US trade, after talks with Theresa May.at the 2018 Davos World Economic Forum

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Malcolm Chisholm MSP on Twitter
-
 <p>The twitter profile of Malcolm Chisholm MSP for Edinburgh Northern and Leith.</p>

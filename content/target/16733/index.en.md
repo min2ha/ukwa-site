@@ -10,6 +10,4 @@
   "start_date": "2014-02-06T06:00:00Z"
 }
 
-# Public Contracts Scotland
-
 None

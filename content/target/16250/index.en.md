@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Theatr Na Nog
-
 <p>Theatr na nÓg is a Welsh theatr company was established in 1982.</p>

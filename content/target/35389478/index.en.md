@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Pennal Stud. Quality Welsh Cobs.
-

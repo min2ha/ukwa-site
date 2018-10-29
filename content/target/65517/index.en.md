@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Cardiff Open Studios
-
 Cardiff Open Studios was supported by Cardiff Council, The Arts Council of Wales, National Lottery and Welsh Assembly Government as part of Cardiff Contemporary 2016 and Cardiff’s Artists’ opened their Studios to the Public during the month of august. The website was updated from 2016 to 2017.

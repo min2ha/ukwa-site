@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Pub landLARD: Al Murray told he is 'too fat' to do election parachute stunt
-
 None

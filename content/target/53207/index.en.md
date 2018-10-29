@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal College of General Practitioners: Six Steps for Safer General Practice
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North East Cambridgeshire Liberal Democrats
-
 Website of North East Cambridgeshire Liberal Democrats, providing local and national news updates, information on candidates and how to get involved.

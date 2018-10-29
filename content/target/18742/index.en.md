@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Queues gather to gaze at grubby Magna Carta
-

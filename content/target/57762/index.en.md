@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Treasury: Customs Bill: legislating for the UK’s future customs, VAT and excise regimes
-
 This document sets out the government’s plans to legislate for the standalone customs, VAT and excise regimes the UK will need once it leaves the EU. 

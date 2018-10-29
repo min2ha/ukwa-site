@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Welsh Lamb and Beef Producers Ltd (WLBP)
-
 Welsh Lamb and Beef Producers Ltd (WLBP) is a farmer-controlled agricultural cooperative society of over 7,500 Welsh livestock farmers.

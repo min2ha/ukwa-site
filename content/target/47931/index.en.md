@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Scientists need to wake up to the opportunities of Brexit
-

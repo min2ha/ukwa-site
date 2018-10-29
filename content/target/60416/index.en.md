@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# RGFE: Reading Groups for Everyone
-
 Welcome to Reading Groups for Everyone, the UK’s largest reading group network. Whether you’re already in a reading group, want to join one or looking to set one up, you’re in the right place.

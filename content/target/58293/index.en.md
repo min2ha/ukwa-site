@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Child internet addicts sent to £4,500 a week addiction clinics
-
 News article that discusses the costs of private health care for those suffering from internet addiction and gaming addiction, with some clinics costing £4,500 a week

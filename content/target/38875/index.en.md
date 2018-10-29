@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Northern Ireland Assembly, 2011-16: Bill no. 13: Welfare Reform Bill
-
 A Bill to make provision for universal credit and personal independence payment; to make other provision about social security; to make provision about child support maintenance and the use of jobcentres; and for connected purposes.

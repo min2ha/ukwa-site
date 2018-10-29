@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: I used to love the EU. Now I want Britain to Leave
-
 Telegraph, The: I used to love the EU. Now I want Britain to Leave

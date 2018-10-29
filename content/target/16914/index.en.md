@@ -10,7 +10,5 @@
   "start_date": "2015-02-10T00:00:00Z"
 }
 
-# Student Assembly Against Austerity, The
-
 <p>The Student Assembly Against Austerity brings together all students that wish to campaign for free education, against tuition fees, cuts to education and the broad austerity. It is the student wing of the<br />
 People’s Assembly Against Austerity which is a gathering of the anti-cuts movement since the Tory-led government came to power in 2010.</p>

@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# East Kilbride SNP – The East Kilbride Branch of the Scottish National Party
-

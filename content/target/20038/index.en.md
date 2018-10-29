@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kevin Brennan on Facebook
-
 Labour Member of Parliament for Cardiff West 

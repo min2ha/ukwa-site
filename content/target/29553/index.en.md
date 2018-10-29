@@ -10,6 +10,4 @@
   "start_date": "2015-07-31T10:00:00Z"
 }
 
-# Campaign for Democracy
-
 Campaign for Democracy aim to introduce political processes that transfer sovereignty from our Parliaments and Assemblies to the people of Britain and Wales. They campaign for Direct Democracy and a political reform process that uses an initiative and referendum system. 

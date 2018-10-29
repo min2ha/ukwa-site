@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Scottish Library and Information Council (SLIC)
-
 The Scottish Library and Information Council (SLIC) is the independent advisory body to the Scottish Government on library and information services.

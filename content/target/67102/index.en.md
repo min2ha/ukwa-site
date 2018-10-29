@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Association of Valuers of Licensed Property (AVLP)
-
 Body for specialist property advice on hotels, restaurants, pubs, bars, clubs or other leisure premises.

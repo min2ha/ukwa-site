@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Office for National Statistics: Migration Statistics Quarterly Report: August 2017
-
 More than half of the change in net migration in the year ended March 2017 can be accounted for by a decrease in net migration of EU citizens (down 51,000); this was driven by an increase (33,000) in emigration for EU citizens (in particular EU8 emigration up 17,000 (both statistically significant)) and a 19,000 decrease in immigration (not statistically significant).

@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# The Resource Alliance
-
 The Resource Alliance inspires sharing and collaboration to create powerful change in the social impact sector.

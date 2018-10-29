@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Art Space Gallery St Ives blog
-
 None

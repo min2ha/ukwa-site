@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Cardiff University: Medieval and Early Modern Research Initiative (MEMORI)
-
 MEMORI is the multi-disciplinary research hub for Cardiff University’s staff and students working in medieval and early modern cultural studies. 

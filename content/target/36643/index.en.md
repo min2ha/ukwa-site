@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# New Europeans
-
 Promotes the rights of EU citizens to work, study and vote in all member states

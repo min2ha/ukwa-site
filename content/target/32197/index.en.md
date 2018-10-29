@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Huw Aaron
-
 Huw Aaron is a Welsh freelance cartoonist and illustrator.

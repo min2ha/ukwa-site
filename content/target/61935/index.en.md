@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Strathbrock Parish
-
 Site of a Church of Scotland parish church at Uphall, West Lothian, with St. Nicholas Church, Uphall

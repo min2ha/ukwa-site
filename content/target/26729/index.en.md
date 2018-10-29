@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News : What does an ex-MP do next?
-
 None

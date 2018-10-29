@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# News Post Leader (North East)
-
 None

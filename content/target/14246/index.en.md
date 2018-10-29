@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# NewsnetScotland
-
 <p>A news site, focussing on Scotland and Scottish issues.</p>

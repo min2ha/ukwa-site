@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The New European
-
 Extensive coverage of Brexit and the 2017 General Election from a pro-European point of view.

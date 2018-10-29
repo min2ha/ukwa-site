@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Frances Crook: If I were Prime Minister: No child would be caged in a failing prison
-

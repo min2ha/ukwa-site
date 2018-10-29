@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Refinery29: Harry Potter 20 Year Anniversary Edinburgh Guide
-

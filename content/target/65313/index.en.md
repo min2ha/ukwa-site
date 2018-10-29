@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Theresa May vows she WILL take Britain out of the EU customs union as Brexiteer Cabinet ministers threaten open revolt in Tory civil war over plans for 'hybrid' links with Brussels   
-

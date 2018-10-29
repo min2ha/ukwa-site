@@ -10,6 +10,4 @@
   "start_date": "2017-04-19T09:00:00Z"
 }
 
-# Gwlad y Chwedlau Cymru | Land of Legends Wales
-
 Land of Legends Wales website provides literary tourism itineraries interwoven with the existing, 'wider tourism infrastructure already in place (i.e. Welsh food, drink, hotels, attractions, landscapes) – tailored for Independent Explorers from Wales and the UK who are planning their own trips'.

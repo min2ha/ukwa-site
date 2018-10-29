@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Telegraph, The: The Queen to help the Irish commemorate the 1916 Easter Rising
-

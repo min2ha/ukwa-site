@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Knit The City
-
 Graffiti knitting art collective.

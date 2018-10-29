@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 18th April 2018: European Union (Withdrawal) Bill
-
 First day's debates at the Report Stage of the European Union (Withdrawal) Bill in the House of Lords. The government was defeated in votes on two amendments.  The first division was on the amendment making make the passing of the legislation conditional on the Government seeking to “negotiate a customs union as part of the framework for a future UK-EU relationship”.  peers also backed an amendment to give enhanced protection for retained EU law relating to rights in the fields of employment, equality, health and safety, consumer standards and environmental standards by making any changes to them post-Brexit subject to new primary legislation

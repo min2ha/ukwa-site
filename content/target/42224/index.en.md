@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Association of Wales: Fixtures and Results
-
 Euro 2016 Fixtures and results 

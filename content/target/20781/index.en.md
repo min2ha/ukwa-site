@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul McGarry (@PaulMcGarryUK) on Twitter
-
 Twitter profile of Paul McGarry, Scottish Liberal Democrat candidate for East Kilbride, Strathaven and Lesmahagow in the 2017 general election.

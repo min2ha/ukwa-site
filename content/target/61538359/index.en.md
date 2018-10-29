@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Nature Observer's Scrapbook, A
-
 None

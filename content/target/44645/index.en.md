@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Gwyl Bwyd a Diod y Wyddgrug | Mold Food and Drink Festival
-

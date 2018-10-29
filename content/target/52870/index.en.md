@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Grace O'Keeffe (@Grace_E_OKeeffe) on Twitter
-
 Twitter profile of Grace O'Keefe, Scottish Conservative and Unionist party candidate for Aberdeen North in the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# MAG: Mines Advisory Group
-
 MAG helps people to be safe from landmines and unexploded ordnance (UXO).

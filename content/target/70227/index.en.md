@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Ham Radio Deals Forum
-
 A forum for HAM radio enthusiasts

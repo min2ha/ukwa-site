@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Green Party: Yes to an EU Referendum: Green MP calls for chance to build a better Europe
-

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Futureworks School of Media
-
 Official website of the Futureworks School of Media, Manchester.

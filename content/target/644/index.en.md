@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Heywood, Middleton and Rochdale
-
 None

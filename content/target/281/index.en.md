@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS East Leicestershire and Rutland CCG
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Martin Horwood (@MartinChelt) on Twitter (Green Party Politician)
-
 Martin Horwood stood as Liberal Democrat candidate for Cheltenham in the 2017 General Election but was not elected.

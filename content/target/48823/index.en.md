@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Halen Môn | Anglesey Salt
-
 Halen Mon organic sea salt is smoked over the wood chips of an expired 800-year old oak tree. Its names are protected by the European Protected Designation of Origin (PDO) status.

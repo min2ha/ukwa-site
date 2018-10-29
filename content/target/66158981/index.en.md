@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Cheshire Police Authority
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Glasgow's para-sport legacy must change behaviour as well as attitudes
-
 Article by Tom Nightingale about the legacy of integrating the para-sports programme into the main schedule at the XX Commonwealth Games. From “The Conversation” an independent source of news and views, sourced from the academic and research community.

@@ -10,6 +10,4 @@
   "start_date": "2013-12-13T16:00:00Z"
 }
 
-# Fair Share Trust (FST) Impact
-
 None

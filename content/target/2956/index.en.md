@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Touch Local
-
 <p>UK online business directory network.</p>

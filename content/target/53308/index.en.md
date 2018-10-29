@@ -10,6 +10,4 @@
   "start_date": "2017-05-18T09:00:00Z"
 }
 
-# Jobcentre Plus
-
 The job centre plus info is not part of the Uk government directgov websites but is intended as an aide to finding local offices.

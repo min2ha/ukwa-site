@@ -10,5 +10,3 @@
   "start_date": "2007-05-29T00:00:00Z"
 }
 
-# Family Policy Studies Centre, University of Oxford
-

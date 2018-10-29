@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Referendum Forum on politicsforum.co.uk
-
 An internet forum on the EU Referendum

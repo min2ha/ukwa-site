@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Bradford Methodist Circuit
-
 None

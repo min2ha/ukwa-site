@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Memo, The
-
 The Memo is an online publication for people curious about the future, reporting on the individuals, technology and ideas changing the world.

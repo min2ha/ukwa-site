@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Arkless (@ArklessRichard) on Twitter
-
 Twitter profile of Richard Arkless, Scottish National Party candidate for Dumfries and Galloway in the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Livingstone Football Club
-
 Site of a senior Scottish football club based in Livingstone.

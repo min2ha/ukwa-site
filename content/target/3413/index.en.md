@@ -10,6 +10,4 @@
   "start_date": "2013-10-03T00:00:00Z"
 }
 
-# Scottish Information Literacy Project
-
 <p>Website of organisation which worked in literacy projects in Scotland including the National Information Literacy Framework (Scotland).</p>

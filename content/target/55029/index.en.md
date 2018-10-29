@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# JAGS Foundation
-
 Jags foundation, an acronym of James Andre Godfrey smartt-ford, was set up as a not-for-profit community interest company as a lasting tribute to  James who was tragically murdered inside streatham ice rink in 2007.

@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Molly Scott Cato, Green Party, on Twitter
-

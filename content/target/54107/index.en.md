@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Scott Dickinson (Labour Party Politician)
-
 Scott Dickinson stood as the Labour Party candidate for Berwick-upon-Tweed in the 2017 General Election but was not elected.

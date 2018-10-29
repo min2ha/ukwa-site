@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Warrington and Halton NHS Foundation Trust
-
 None

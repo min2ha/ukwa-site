@@ -10,6 +10,4 @@
   "start_date": "2017-09-12T09:00:00Z"
 }
 
-# Elan Grug Muse
-
 Elan Grug Muse is a poet from Wales and a former winner of the Urdd National Esiteddfod bardic chair. 

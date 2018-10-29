@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# We think Scotland has a bright future : Scottish Liberal Democrats
-
 None

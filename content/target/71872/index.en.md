@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Northern Ireland"
 }
 
-# Institute of Economic Affairs: "Generators on barges in the Irish Sea"
-
 Governments and operators on both sides of the Irish border are committed to maintain the Single Electricity Market (SEM). This is also in keeping with the EU’s stated commitment to deliver competitive energy market and value to consumers, as its termination would be prejudicial not just to NI but to consumers in the ROI. Given the success of the SEM and the obligations of cross-border cooperation under the Belfast Agreement, there is no good reason not to expect it to continue.

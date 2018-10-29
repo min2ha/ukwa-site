@@ -11,5 +11,3 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Southbank Centre: Samhära: Nrityagram Dance Ensemble with Chitrasena Dance Company
-

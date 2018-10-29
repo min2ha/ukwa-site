@@ -10,7 +10,5 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Brownlee Centre
-
 Website of a purpose-built National Health Servive unit for people with infections, based at Gartnavel General Hospital, Glasgow, and caring for people 
 living with HIV infection and other conditions. 

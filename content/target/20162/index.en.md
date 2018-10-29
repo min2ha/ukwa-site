@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liz Evans (@LizEvans_Gower) on Twitter
-
 Labour Parliamentary candidate for Gower.

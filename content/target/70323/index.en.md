@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aberdeen FC Ladies (@aberdeenfcl) on Twitter
-
 Official Twitter account of Aberdeen FC Ladies.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Stop Brexit pessimism, Liam Fox and David Davis tell Tories
-
 In speeches at the 2017 Conservative Party conference, Liam Fox and David Davis called for an end to pessimism over Brexit and for the British public to "keep their eyes on the prize" on offer.

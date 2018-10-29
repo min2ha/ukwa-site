@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jewish Labour Movement
-
 The Jewish Labour Movement is a membership organisation of Labour supporting members of the Jewish Community. A formal affiliate of the Labour Party in the UK since 1920, JLM campaigns within the party and the wider community to support labour values within the UK, Israel and Internationally.

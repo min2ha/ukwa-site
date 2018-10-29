@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wiveliscombe
-
 This website is owned and managed by Wiveliscombe Town Council on behalf of the residents, businesses and visitors of Wiveliscombe.  Funding is provided via Council Tax and the Wiveliscombe Town Council precept. 

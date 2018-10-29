@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T11:00:00Z"
 }
 
-# Mast and Tower Safety (MATS) Group
-
 The Mast and Tower Safety (MATS) Group consists of organisations that own or manage masts and towers (including monopoles, gantries, satellite dishes and roof tops) or any other structure where there are specific and significant work at height and occupational radio frequency (RF) hazards.

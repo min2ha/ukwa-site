@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Northern Ireland Council for Voluntary Action (NICVA)
-
 None

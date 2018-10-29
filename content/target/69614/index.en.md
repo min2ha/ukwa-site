@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:   M20 could be giant lorry park for years in event of no-deal Brexit – report
-

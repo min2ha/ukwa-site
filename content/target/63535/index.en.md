@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-#  Lairg and Rogart Parish
-
 Combined website for the linked parishes of Lairg and Rogart.

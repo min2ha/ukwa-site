@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Banbury Literary Live
-
 Banbury Literary Festival

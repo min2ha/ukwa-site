@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Students being put off voting for Lib Dems over tuition fees U-turn
-
 None

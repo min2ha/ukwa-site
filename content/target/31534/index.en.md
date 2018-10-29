@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Tech World
-
 Techworld delivers a blend of analysis, features and expert advice on topics including mobile, apps, cloud, cyber security, big data, wearable tech, social media, user experience, e-commerce and IT startups.

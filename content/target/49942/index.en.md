@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aboyne-Dinnet linked with Cromar Parish Churches
-
 Website for the linked Aboyne-Dinnet and Cromar Parishes. 

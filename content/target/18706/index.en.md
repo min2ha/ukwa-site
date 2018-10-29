@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Economist, The: The Magna Carta at 800: The uses of history: Comments
-

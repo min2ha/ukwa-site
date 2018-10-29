@@ -10,6 +10,4 @@
   "start_date": "2016-07-20T10:00:00Z"
 }
 
-# Lily Mae Foundation, The
-
 A charity set up to support parents and families after a stillbirth or neonatal death. 

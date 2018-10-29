@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Shetland.org | Official Gateway to the Shetland Islands
-
 Site providing comprehensive information about Shetland for visitors; activities, planning visits, businesses and amenities, as well history, geography, climate, culture, economy, and geology.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calum Kerr on Facebook
-
 The Facebook page of Calum Kerr, the Scottish National Party candidate for Berwickshire, Roxburgh and Selkirk in the 2015 UK General Election.

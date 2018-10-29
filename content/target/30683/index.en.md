@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# European School of Osteopathy
-
 Official website of the European School of Osteopathy, Maidstone.

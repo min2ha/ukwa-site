@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dundee Contemporary Arts: Continue Without Losing Consciousness
-
 <p>Dundee Contemporary Arts exhibit “Continue Without Losing Consciousness”, contemporary art by Rob Churm, Raydale Dower and Tony Swain presented alongside a series of music and performance events that take place in and amongst the works. Continue Without Losing Consciousness is a Generation exhibition, part of the Glasgow 2014 Cultural Programme.</p>

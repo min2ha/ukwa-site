@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# Lodge Fingal 318
-
 Site of a masonic lodge located in Dinwall, Highland (historically, Ross shire) and affiliated with the Grand Lodge of Scotland.

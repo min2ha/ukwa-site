@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Ecologist: Election 2015 - our chance to campaign for nature and wellbeing
-

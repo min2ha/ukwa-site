@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Mandem
-
 A platform that aims to offer a space for young men of colour to express themselves through writing, filmmaking and music and also encourages them to engage in social issues affecting wider society and culture.

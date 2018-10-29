@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T03:00:00Z"
 }
 
-# Wales Online: Aberfan - 50 years on
-
 Wales Online (Media Wales Ltd) special supplement covering the Aberfan Disaster.

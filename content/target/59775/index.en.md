@@ -10,6 +10,4 @@
   "start_date": "2017-12-16T09:00:00Z"
 }
 
-# Cròileagain Dhùn Eideann
-
 Site of Gaelic medium playgroups located in Edinburgh. Site in English and Gaelic.

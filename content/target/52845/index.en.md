@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Mineral Products Association: Mineral Products Industry Priorities for Government
-
 The Government's post-election policy development and implementation will be central to the future health of the UK economy and the mineral products sector upon which so much depends. Negotiating a good deal on Brexit, which maintains UK competitiveness, will be vital.
 

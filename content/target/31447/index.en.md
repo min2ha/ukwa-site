@@ -10,6 +10,4 @@
   "start_date": "2015-10-14T10:00:00Z"
 }
 
-# Show Racism the Red Card
-
 Show Racism the Red Card is the campaign that uses top footballers to educate against racism.

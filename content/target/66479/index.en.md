@@ -10,6 +10,4 @@
   "start_date": "2018-06-01T00:00:00Z"
 }
 
-# Maclay Murray & Spens LLP
-
 The site of Maclay Murray & Spens LLP, a Glasgow-based law firm. In 2017 the firm merged with Dentons.

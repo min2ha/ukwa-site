@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: If David Cameron can’t win over Ukip voters, he’s had it
-
 None

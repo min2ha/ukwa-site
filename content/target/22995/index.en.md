@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Baroness Randerson (@jennyranderson) on Twitter 
-
 Liberal Democrat member of the House of Lords and Wales Office Minister.

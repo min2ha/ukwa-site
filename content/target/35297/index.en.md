@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# European Commission Representation in the United Kingdom
-
 The European Commission has offices, called Representations, in all the Member States of the European Union. The website provides information about the activities of the EU and their impact on the UK, including the benefits of membership.

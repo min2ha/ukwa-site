@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent News: Crowds flock to see £20m Magna Carta in Faversham
-

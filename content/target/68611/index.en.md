@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# Gothic Novel Jam
-
 Gothic novels often feature mystery, terror, supernatural horror and sometimes romance set in old buildings, such as castles or crumbling mansions. As well as Frankenstein and Wuthering Heights, both Dracula and The Hound of the Baskervilles are regarded as gothic novels.

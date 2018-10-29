@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Pub Landlord Al Murray on his election strategy: 'I could drink Nigel Farage and William Hague under the table'
-
 None

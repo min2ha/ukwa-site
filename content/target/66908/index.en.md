@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-#  Silicon UK
-
 Breaking news for Britain’s tech business community: cloud services, startups, Big Data, mobility, social media, security, privacy and Government strategy

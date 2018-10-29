@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# Menter Rhosygilwen
-
 Menter Rhosygilwen promotes music, the arts and culture with the aim of enjoyment and economic regeneration in this part of Pembrokeshire.

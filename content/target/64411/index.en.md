@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Meinir Heulyn
-
 Meinir Heulyn is one of Wales’ most proficient harpists and for thirty years the Principal Harpist for the Orchestra of Welsh National Opera. 

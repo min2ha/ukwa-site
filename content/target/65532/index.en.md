@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Liberton Tower / Castles of Scotland Preservation Trust
-
 Site of a restored castle in Edinburgh operating as a commercial venue / hotel  and the Casles of Scotland Preservation Trust promoting and encouraging the protection and preservation of Scotland’s rich architectural heritage

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# University and College Union: General Election 2017
-
 The University and College Union (UCU) supports a vision of lifelong learning which allows everyone to access the learning they need, whenever they need it. As people live longer and our working lives are shaped more radically by globalisation and technology, it’s imperative that people can develop their skills in order to adapt and thrive. Ahead of the general election on 8 June, this manifesto sets out some areas for reform of post-school education.

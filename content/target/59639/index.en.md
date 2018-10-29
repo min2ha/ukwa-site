@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Redblu Graphics & Displays Ltd.
-
 Redblu Graphics & Displays Ltd. design exhibition stands, displays and signage.

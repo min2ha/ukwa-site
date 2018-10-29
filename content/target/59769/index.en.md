@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit bill: Government loses key vote after Tory rebellion
-
 The government was narrowly defeated in a key vote on its Brexit bill after a rebellion by 11 Tory MPs. In a blow to Prime Minister Theresa May, MPs voted to give Parliament a legal guarantee of a vote on the final Brexit deal struck with Brussels.

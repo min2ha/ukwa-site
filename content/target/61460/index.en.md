@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Environment, Food and Rural Affairs Committee: Brexit: Trade in Food
-
 In the event that the UK leaves the EU without a free trade agreement, UK-EU trade will proceed under World Trade Organisation (WTO) rules. Reverting to WTO tariffs will have a significant impact upon agriculture as tariffs are higher for agricultural products than for other goods and services. ◾The Government has offered no clarity to the agricultural industry on its post-Brexit policy. The Government must offer this clarity and stability so that the industry has the confidence to invest and take advantage of the opportunities offered to the sector post-Brexit. The Committee would like to see the Government offer policies that would stimulate home grown food production

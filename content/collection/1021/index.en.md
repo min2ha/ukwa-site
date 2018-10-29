@@ -560,6 +560,4 @@
   "endDateText": "31-03-2019"
 }
 
-# Brexit : Impact on Northern Ireland
-
 Collection about the impact of the UK exit from the European Union (EU) on Northern Ireland following the Referendum in June 2016.

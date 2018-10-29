@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Gal-Dem: Grenfell Tower
-
 All articles on the Gal-Dem website tagged Grenfell Tower. 

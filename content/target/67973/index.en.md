@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# Coul Brewing Company on Facebook
-
 Facebook page of a brewer located in Glenrothes, Fife.

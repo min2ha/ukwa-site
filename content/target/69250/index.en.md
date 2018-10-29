@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Bernadette's Motherwell on Facebook
-
 Facebook page of a Roman Catholic church in Scotland for the parish of St. Bernardette, Motherwell, Lanarkshire.

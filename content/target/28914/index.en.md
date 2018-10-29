@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carmelites British Province
-
 Carmel is a worldwide Christian religious organisation that first came to Britain in 1242 and is active today with over forty communities of friars, religious sisters and lay Carmelites in England, Scotland and Wales.

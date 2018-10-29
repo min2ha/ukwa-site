@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Còisir Ghàidhlig Bharraigh on Facebook
-
 Barra Choir's Facebook page.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage: I hope future generations are proud of me when I am 'dead and gone'
-
 None

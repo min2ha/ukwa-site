@@ -10,5 +10,3 @@
   "start_date": "2016-01-04T09:00:00Z"
 }
 
-# Bardbox - Shakespear and online video 
-

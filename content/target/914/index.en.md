@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Business Services Authority
-
 None

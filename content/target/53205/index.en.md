@@ -11,8 +11,6 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal Academy of Engineering: Engineering an economy that works for all
-
 Five priorities for the next government from the engineering community:  Define and clearly articulate a bold, global vision for Britain; focus the education and skills system on fully unlocking UK talent and potential; support innovation; spread the benefits of engineering, in terms of economic growth and social advancement, across the UK; and prioritise supporting infrastructure
 
 

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Royal Central: Nelson Mandela and Queen Elizabeth: An extraordinary relationship
-
 <p>Describes events surrounding the Queen's meeting with Nelson Mandela at the 1991 Commonwealth Heads of Government Meeting in Harare, and a subsequent meeting in 1996.</p>

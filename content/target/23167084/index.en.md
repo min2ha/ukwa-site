@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Dood News, Debt on our Doorstep
-

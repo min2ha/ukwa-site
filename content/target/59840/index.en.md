@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Model Boat Mayhem Forum
-
 An online enthusiast community forum concerned with model boats. Discusses tips for beginners, various models by type and various other related topics.

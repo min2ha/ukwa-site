@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# TheyWorkForYou: Martin McGuinness, Former MLA, Foyle
-
 Martin McGuinness was a former IRA Member and leading member of the political party Sinn Fein. He served as he deputy First Minister of Northern Ireland from May 2007 to January 2017. He died on Tuesday 21/03/2017 and this is a summary of the way he voted as an elected official.

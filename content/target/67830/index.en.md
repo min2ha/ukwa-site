@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tabard RFC (@Tabard_RFC) on Twitter
-
 The official Twitter account of Tabard RugbyFootball Club.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Londoners forthe 8th (@LoveBothLondon) on Twitter
-
 Pro-Life Irish community in London.

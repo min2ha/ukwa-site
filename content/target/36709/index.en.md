@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Britain's biggest environmental charities using public cash to call for In vote
-

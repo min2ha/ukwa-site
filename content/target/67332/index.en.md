@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Edinburgh Gay Men's Chorus
-
 Site of an amateur choir based in Edinburgh.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# British Legion: Manifesto 2015: Building a better future for our Armed Forces Community
-
 The Royal British Legion were set up to help members of the Royal Navy, British Army, Royal Air Force, Reservists, veterans and their families all year round. They also campaign to improve their lives, organise the Poppy Appeal and remember the fallen.

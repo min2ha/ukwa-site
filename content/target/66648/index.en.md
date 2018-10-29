@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Brecon Beacons Park Society | Cymdeithas Parc Bannau Brycheiniog
-
 The Society is a voluntary organisation. Its main purpose is to advance the enhancement, protection and conservation of the countryside and other amenities of the Brecon Beacons National Park for the benefit of the public. 

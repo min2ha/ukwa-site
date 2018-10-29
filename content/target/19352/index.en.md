@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Salisbury Cathedral: Win the chance to see the four surviving original Magna Carta manuscripts together for the first time
-

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Gove and Davidson in fisheries control call
-
 The Scottish Conservative leader and UK environment secretary said it was "vital" that the country regained control over its own fisheries management when it left the EU. The UK government wanted to agree reciprocal access to fishing waters with the EU.
 
 

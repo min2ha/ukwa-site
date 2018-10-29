@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Stealth Recording Studio
-
 Website of a recording and mixing studio in Glasgow, Scotland.

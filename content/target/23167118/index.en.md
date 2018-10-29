@@ -10,5 +10,3 @@
   "start_date": "2008-12-15T00:00:00Z"
 }
 
-# John Strype's A Survey of the Cities of London and Westminster
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cambridge Music Festival
-
 Website for the Cambridge Music Festival, of classical music.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Christian Movement for Great Britain
-
 Christian Movement for Great Britain campaigns for Christian values in government and public office.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Hurt the BBC and TUC and risk losing voters to tub-thumping nationalists
-
 None

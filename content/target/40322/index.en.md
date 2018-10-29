@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Paisley for UK City of Culture 2021
-
 Site of a bid by the town of Paisley, Scotland, to be elected UK City of Culture in 2021.

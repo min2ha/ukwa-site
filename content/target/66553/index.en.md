@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Ordnance Survey (@ordnancesurvey) on Twitter
-
 We're Ordnance Survey, Britain's mapping agency, tweeting about geography, GI & mapping. 

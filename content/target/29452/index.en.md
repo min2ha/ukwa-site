@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Ledbury Poetry Festival
-
 Ledbury Poetry Festival

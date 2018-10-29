@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Nye and Jennie: A working class tale of life, labour and love
-
 'Nye and Jennie: A working class tale of life, labour and love' is a play about the marriage of Aneurin Bevan and Jennie Lee. The play is a co-production between Aneurin Leisure and Theatr na nÓg and the performance will be held on the 120th anniversary of Aneurin Bevan's birth.

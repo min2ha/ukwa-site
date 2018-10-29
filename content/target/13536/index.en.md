@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Unite Scotland
-
 Unite is the Unite Kingdom's largest union, with members in many different workplaces. Scotland branch news, campaigns and policy developments.

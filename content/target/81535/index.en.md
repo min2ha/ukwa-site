@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Gwaun Cae Gurwen Silver Band
-
 Gwaun Cae Gurwen Brass Band was established in 1883 and rehearse at Cwmgors.

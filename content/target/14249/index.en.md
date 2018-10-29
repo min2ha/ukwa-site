@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# A Thousand Flowers
-
 <p>"a Scottish blog launched on International Women’s Day 2013" - from <a href="http://athousandflowers.net/about/">http://athousandflowers.net/about/</a></p>

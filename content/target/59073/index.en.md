@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Science BL (@ScienceBL) on Twitter
-
 We are the British Library Science Team; we provide access to world leading scientific information resources, manage UK DataCite & run science events.

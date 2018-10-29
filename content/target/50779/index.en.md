@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Petulance, grievance, victimhood … and a cynical bid to smash the Union that could bankrupt Scotland
-
 Argues that Nicola Sturgeon cannot reasonably demand a second referendum on Scottish independence as early as Autumn 2018 befor Brexit negotiations are complete. Moreover, Scotland is heavily dependent on financial support from England, and could not survive as an independent contry.

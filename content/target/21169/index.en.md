@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Cecil Sharp House
-
 Information about a London landmark, historically important building, exhibition space and centre for British folk arts performance and study.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Beacon Festival
-
 Website for the Beacon Festival

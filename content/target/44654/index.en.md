@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Workers’ rights must not be bartered away in Brexit negotiations
-

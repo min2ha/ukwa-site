@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Patient Safety Agency
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Stacey Blythe
-
 Stacey Blythe is a composer, performer, and multi instrumentalist and a regular composer for the Welsh National Opera. She also lectures as a musical director at the Royal Welsh Conservetoire of Music and Drama.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: A voter's guide to the EU referendum
-

@@ -10,5 +10,3 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Cymuned Ysbyty Ystwyth & Pontrhydygroes | Ysbyty Ystwyth & Pontrhydygroes Community
-

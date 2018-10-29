@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# BBC Daily Politics and Sunday Politics (@daily_politics) on Twitter
-
 The official Twitter account of the BBC Daily Politics and Sunday Politics programme. 

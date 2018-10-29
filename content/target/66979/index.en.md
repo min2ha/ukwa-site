@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# o2 ABC Glasgow
-
 Website for o2 ABC Glasgow with venue information, listings and news. The venue is one of a group of music venues in Britain owned by Academy Music Group. 

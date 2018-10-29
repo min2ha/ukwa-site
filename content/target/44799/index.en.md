@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Gawain Barnard
-
 Gawain Barnard’s photographic work focuses around the environment and people of his youth of the once industrialised regions of South Wales.

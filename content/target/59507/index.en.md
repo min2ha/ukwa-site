@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Can Theresa May fix Brexit border problem?
-
 Comments on Theresa May's options for getting the Brexit negotiations back on track after the DUP refused to agree to the proposal for "regualtory alignment" between Northern Ireland and the Irish Republic. This plan was intended to prevent the creation of a "hard border" between the two countries.

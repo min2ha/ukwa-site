@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Ascot CAMRA Beer Festival
-
 Autumn beer festival organised by the Berkshire South East branch of CAMRA at Ascot Racecourse

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Petherton Rugby Football Club
-
 Situated in the west country, just off the M5, North Petherton is located along the A38 between Bridgwater and Taunton. The rugby club was established in 1893 and can be found at its Beggars Brook ground on the southern outskirts of the town on the A38. 

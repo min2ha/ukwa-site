@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:09.323577", 
+  "date": "2018-10-29T13:22:16.441761", 
   "open_access": false, 
   "target_url": "http://www.sheilagilmore.co.uk/the-independence-referendum-why-im-voting-no/", 
   "description": "<p>MP for Edinburgh East</p>\n", 
   "end_date": null, 
   "title": "Sheila Gilmore: The independence referendum: Why I am voting 'no'.", 
-  "record_id": "20181029T125509/lFEGc1oSqSrTUyNSUcApeA==", 
+  "record_id": "20181029T132216/lFEGc1oSqSrTUyNSUcApeA==", 
   "publisher": "sheilagilmore.co.uk", 
   "start_date": null, 
   "subject": "Scottish Independence Referendum"
 }
-
-# Sheila Gilmore: The independence referendum: Why I am voting 'no'.
 
 <p>MP for Edinburgh East</p>

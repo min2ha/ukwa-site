@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Pro-EU campaign dubbed ‘hysterical’ after Brexit ‘scaremongering’
-
 Article by David Maddox

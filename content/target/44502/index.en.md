@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: 'I've been under attack, it's been shattering': Andrea Leadsom apologises to Theresa May over motherhood comments and admits furore has left her hurt
-
 Report of an interview with Conservative leadership candidate Andrea Leadsom

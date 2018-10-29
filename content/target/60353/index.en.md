@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# Côr Merched Canna 
-
 The women's choir is based in Cardiff and was established in 2004.

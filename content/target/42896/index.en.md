@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Connecting Histories
-
 Connecting Histories was a project run from 2005 to 2007 by Birmingham City archives with Birmingham University to bring together resources on the histories of Birmingham's diverse communities.

@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Friendly Shelves: Glasgow University Library reaches out with a celebratory illustrated history
-
 Despite the rumour in the 1980s that the weight of all its books was making the University of Glasgow Library slip down the hill today it is still standing.

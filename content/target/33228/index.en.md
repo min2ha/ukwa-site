@@ -10,5 +10,3 @@
   "start_date": "2015-12-05T09:00:00Z"
 }
 
-# Cardiff Business School
-

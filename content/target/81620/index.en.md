@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dragons Women (@DragonsWomen) on Twitter
-
 Women's and Girls Regional Sides & Female Development in the Dragons Region

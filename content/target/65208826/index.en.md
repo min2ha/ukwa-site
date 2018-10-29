@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Mass Observation: The Diamond Jubilee
-

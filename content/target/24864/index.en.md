@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nick Grant on Facebook (Labour Candidate for Twickenham)
-

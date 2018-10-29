@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Chartered Institute for Professional Development (CIPD): Blogs
-

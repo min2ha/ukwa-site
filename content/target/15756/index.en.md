@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Nitrome Limited
-
 <p>Nitrome Limited is a games developer based in London.</p>

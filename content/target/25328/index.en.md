@@ -10,5 +10,3 @@
   "start_date": "2015-05-18T12:00:00Z"
 }
 
-# Elections Etc (@ElectionsEtc) on Twitter
-

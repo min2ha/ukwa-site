@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Conservatives' final roll of the dice: win back the Ukip vote
-
 None

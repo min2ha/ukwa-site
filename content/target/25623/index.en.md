@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Immigration: in Enoch Powell's former seat jobs and the economy matter more
-
 None

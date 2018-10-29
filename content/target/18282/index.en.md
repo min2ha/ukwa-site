@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# La defraichie
-
 Blog in French written by Alphonse Buitoni about beauty, shopping, life in London, travels, family..

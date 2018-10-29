@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Meatopia
-
 Festival of high quality, ethically sourced meat, all cooked over ethically sourced wood and charcoal

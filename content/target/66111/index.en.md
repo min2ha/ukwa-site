@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Rhuddel Polled Welsh Blacks
-
 The RHUDDEL herd of Polled Welsh Blacks was established in 1998 with selective purchases from the Idloes, Cathedine and Morlais herds forming the foundation.

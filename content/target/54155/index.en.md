@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sean Kelly-Walsh  (@seankellywalsh) on Twitter (Labour Party Politician)
-
 Sean Kelly-Walsh stood as Labour Party candidate for Charnwood in the 2017 General Election but was not elected.

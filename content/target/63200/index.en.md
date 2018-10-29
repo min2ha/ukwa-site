@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons European Scrutiny Committee: EU Withdrawal: Transitional provisions and dispute resolution
-
 The Committee is asking for greater clarity on what unilateral safeguards would be available to the UK during the implementation period if it had to apply new law which it considered to be detrimental. The report also examines the potential role of the ECJ in resolving disputes during the implementation period and after exit.

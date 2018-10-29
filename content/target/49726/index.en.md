@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# North Knapdale Church of Scotland
-
 Website for the North Knapdale Church of Scotland. This parish serves Glassary, Kilmartin, and Ford

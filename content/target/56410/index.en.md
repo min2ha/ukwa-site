@@ -10,6 +10,4 @@
   "start_date": "2017-08-04T09:00:00Z"
 }
 
-# Mindfulness Association
-
 At the Mindfulness Association we believe that Mindfulness is a way of life and not a brief intervention for relieving symptoms. 

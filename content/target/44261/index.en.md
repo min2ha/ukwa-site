@@ -10,5 +10,3 @@
   "start_date": "2016-07-13T10:00:00Z"
 }
 
-# UNISON Caerphilly Branch
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Staines Town F.C.
-
 Staines Town Football Club is an English football club based in Staines-upon-Thames. They contest in the Isthmian League Premier Division.

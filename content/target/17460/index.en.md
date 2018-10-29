@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mindfulness Foundation: 2015 Election
-
 The Mindfulness Foundation is a founder member of the NCB(1) Partnership for Wellbeing and Mental Health in Schools - A national network of 50 key organisations from the education, health and children's sectors. The Mindfulness Foundation does not provide medical advice, psychiatric diagnosis or treatment.

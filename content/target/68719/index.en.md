@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Dominic Raab replaces David Davis as Brexit Secretary
-
 Dominic Raab was appointed Brexit Secretary by Theresa May after David Davis resigned from the government. Mr Raab, who was previously housing minister, was a prominent Leave campaigner during the 2016 referendum.

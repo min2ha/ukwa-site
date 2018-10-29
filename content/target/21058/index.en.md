@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ross Brown on Facebook (Green Party candidate for Belfast East)
-

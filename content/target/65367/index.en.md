@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# George + Tomos, Penseiri | Architects
-
 George + Tomos are architects based in Machynlleth and was established in 2003.

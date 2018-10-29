@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Swimbridge
-
 Swimbridge (historical spelling : Swymbridge) is a village in the English county of Devon. 

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: The ten worst clichés from the campaign so far
-

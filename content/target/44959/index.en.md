@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Woodford Investment Management: the economic impact of Brexit
-
 
 
 

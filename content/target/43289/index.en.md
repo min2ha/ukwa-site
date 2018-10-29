@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BeLeave (@beleaveuk) on Twitter
-
 A Twitter account for BeLeave, a campaigning group focused on creating an "optimistic" case for Leave and representing young people.

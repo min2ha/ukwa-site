@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# British Bankers' Association
-
 None

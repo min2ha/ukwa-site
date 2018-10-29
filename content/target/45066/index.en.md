@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scotsman, The: 6 Scottish Olympic medal hopefuls talk Rio 2016
-
 Interviews with tennis player Jamie Murray, canoeist David Florence, cyclist Katie Archibald, badminton player Kirsty Gilmour, judoku Kimberly Renicks and swimmer Robbie Renwick.

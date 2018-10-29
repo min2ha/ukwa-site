@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# And Other Poems
-
 <p>And Other Poems is an online place to read poems by different writers. It was created in August 2012 by Josephine Corcoran.  The aim of this site is to give readership to, and increase readership of, poems, especially those which would not otherwise be available, for instance, poems no longer elsewhere online, out of print poems, poems published in print but not online, competition poems and new, unpublished poems.</p>

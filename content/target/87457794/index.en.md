@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Style Bubble
-
 None

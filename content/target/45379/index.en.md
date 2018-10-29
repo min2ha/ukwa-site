@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Don't hold up Brexit, No 10 tells the Lords: Downing Street dismisses baroness's threat that peers could hold up the process   
-

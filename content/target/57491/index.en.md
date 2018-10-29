@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Clackmannan District Brass Band
-
 Site of a brass band based in Alloa, Clackmannanshire.

@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Arts Care Gofal Celf (ACGC)
-
 Arts Care Gofal Celf (ACGC) is a professional arts organisation based in Carmarthen delivering high quality projects with people of all ages, backgrounds and lifestyles.

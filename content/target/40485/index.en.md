@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tincer, Y
-
 Community Newspaper for Genau'r-glyn, (Llandre, Dôl-y-bont); Trefeurig, (Penrhyn-coch, Pen-bont Rhydybeddau, Capel Madog, Capel Dewi); Tirymynach (Bow Street, Dolau,) a'r Borth in Ceredigion.

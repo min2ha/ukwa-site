@@ -10,6 +10,4 @@
   "start_date": "2016-03-14T09:00:00Z"
 }
 
-# Iona Community
-
 The site of the Christian organisation the Iona Community, a radical movement and organisation committed to living out the Christian faith in the areas of Hospitality, diversity and inclusive community Worship, faith and spirituality Social justice and human rights, Politics and campaigning Gender justice and human sexuality Environmental stewardship Peacemaking and non-violence Healing and reconciliation

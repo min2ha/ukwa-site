@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Steffan Lewis AM on Facebook
-
 Plaid Cymru Assembly Member for the South East Wales.

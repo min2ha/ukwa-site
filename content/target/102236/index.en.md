@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# INNATE - Irish Network for Nonviolent Action Training & Education
-

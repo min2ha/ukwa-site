@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# Sly Cooking
-
 Catrìona Black illustrated forty two words in her book "Sly Cooking", chosen from "Gaelic Words and Expressions from South Uist and Eriskay" published by John Lorne Campbell. This site outlines the book, related work and includes recordings of each word.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-03T09:00:00Z"
 }
 
-# Tomintoul & Glenlivet Development Trust
-
 Site of a trust aiming to develop business opportunities in the area of Tomintoul and Glenlivet (Highland) and Tomintoul (Moray), representing businesses in the area while providing information on activities and local amenities.

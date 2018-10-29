@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Penarth Book Festival
-
 Penarth Book Festival

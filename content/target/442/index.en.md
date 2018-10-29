@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wirral Health and Wellbeing Board
-
 None

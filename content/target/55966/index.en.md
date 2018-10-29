@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Grow Fruit and Veg Magazine Forum - The Grapevine
-
 An online enthusiast forum concerned with growing fruit and vegetables. Discusses tips and advice for gardening, greenhouses, poly-tunnels and cloches and various other topics. 

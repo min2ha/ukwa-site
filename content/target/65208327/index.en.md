@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Caredig I Natur (CIN) 
-
 Caredig I Natur (CIN) is Ceredigion's premier site for green issues. CIN stands for Caredig i Natur, which is Welsh for 'Kind to Nature'.

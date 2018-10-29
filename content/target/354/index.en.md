@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cheshire West and Chester Health and Wellbeing Board
-
 None

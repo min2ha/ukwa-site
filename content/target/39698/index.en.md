@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Thomas Haddow for Pollock 2016 on Facebook
-

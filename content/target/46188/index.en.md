@@ -10,6 +10,4 @@
   "start_date": "2016-10-13T10:00:00Z"
 }
 
-# Dundee : one city many discoveries
-
 Site of a marketing organisation promoting businesses and amenities in the city of Dundee.

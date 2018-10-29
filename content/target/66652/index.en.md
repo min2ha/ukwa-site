@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# TWMA Group Limited
-
 The website of TWMA Group Limited, an Aberdeen-based company that offers integrated drilling waste management services to the oil and gas industry. 

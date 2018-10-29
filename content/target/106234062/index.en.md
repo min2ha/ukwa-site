@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Port Talbot Magnet
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# Gritty Realism Productions
-
 Gritty Realism is an animation company based in Hengoed, Caerphilly. They specialise in producing thought provoking films that cross the conventional boundaries of animated film and commercial and community films including ones for S4C, Channel 4 and BBC. 

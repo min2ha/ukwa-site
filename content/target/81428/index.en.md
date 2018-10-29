@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Grangemouth Flag Football Club, The
-
 The Grangemouth Flag Football Club plays Flag Football (non-contact, 5 on 5 American Football)

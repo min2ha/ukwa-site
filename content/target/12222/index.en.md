@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Madeline Perry (MadelinePerry77) on Twitter
-
 <p>The twitter profile of sqaush player Madeline Perry, member of Team Northern Ireland for the Glasgow 2014 Commonwealth Games.</p>

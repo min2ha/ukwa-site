@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: The photo of a tree that proves the Tories have an image problem
-
 None

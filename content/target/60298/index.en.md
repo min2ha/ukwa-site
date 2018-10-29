@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Third Sector: Just £2.8m of £18.9m raised for Grenfell Tower victims has been distributed
-
 Third Sector piece on the distribution of Grenfell Tower charity funds.

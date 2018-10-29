@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Official Irish FA (@OfficialIrishFA) on Twitter
-
 The official Twitter account of Irish  Football Association. The Irish FA is the governing body for football in Northern Ireland.

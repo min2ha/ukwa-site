@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Lochranza and Pirnmill Church
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Yet again, Cameron has failed to listen to charities on youth unemployment
-
 None

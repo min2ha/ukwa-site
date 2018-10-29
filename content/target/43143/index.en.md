@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# bloody eu fight David Cameron could ‘punish’ Theresa May by demoting her for not playing a big part in Remain campaign 
-
 Sun, The

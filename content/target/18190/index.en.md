@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General election 2015: 'No repeat' of polling day queues
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Livingston United Junior Football Club
-
 Site for a Scottish junior football club based in Livingston, West Lothian, Scotland.

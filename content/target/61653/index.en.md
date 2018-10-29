@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: "Social media firms 'failing' to tackle cyber-bullying"
-
 BBC News article about social media and cyberbullying

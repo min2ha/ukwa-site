@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Exeunt Magazine
-
 Exeunt was founded in late 2010, by Natasha Tripney and Daniel B. Yates.

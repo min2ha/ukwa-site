@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Hertsmere Borough Council
-
 Website of Hertsmere Borough Council offering information about services for residents and the activities of the council 

@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# GAME
-
 GAME is a UK retailer selling games, consoles and accessories.

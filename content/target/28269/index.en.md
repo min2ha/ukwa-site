@@ -10,6 +10,4 @@
   "start_date": "2015-06-24T10:00:00Z"
 }
 
-# Jennifer Howes
-
 Website of art historian Jennifer Howes, who specialises in the art and architecture of British India.

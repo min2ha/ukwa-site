@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Labour MP Austin Mitchell: 'Even if we selected a raving alcoholic sex paedophile we wouldn't lose Grimsby'
-
 None

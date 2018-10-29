@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Gwenfaen’s Church
-
 St Gwenfaen’s Church is an Anglican Church in the village of Rhoscolyn, Isle of Anglesey.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-17T10:00:00Z"
 }
 
-#  Amateur Entomologists' Society (AES)
-
 The Amateur Entomologists' Society (AES) is a UK's  organisation for people interested in insects.The society produces four publications for members and a series of books. They run an annual exhibition, a Members' Day, and they organise field trips for both adult and junior members.

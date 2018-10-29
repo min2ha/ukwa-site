@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Africa Confidential
-
 Africa Confidential is one of the longest-established specialist publications on Africa, with a considerable reputation for being first with in-depth news and analysis on significant political, economic and security developments across the continent.

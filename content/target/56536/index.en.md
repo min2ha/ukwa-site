@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Webcomic Name
-
 Webcomic by Alex Norris, updated daily as of 2017. Features the daily life of a pink blob character as they struggle to make their way through life's challenges.

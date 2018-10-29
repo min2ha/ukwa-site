@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Budget 2015: George Osborne promises crackdown on tax evasion
-
 None

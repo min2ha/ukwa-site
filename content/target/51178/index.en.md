@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Article 50: Theresa May to trigger Brexit process next week
-
 Prime Minister Theresa May announced that she would officially notify the European Union next Wednesday that the UK was leaving.

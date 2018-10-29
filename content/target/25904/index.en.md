@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Boris Johnson: 'Vote Tory, get broadband. Vote Ukip, get Miliband'
-
 None

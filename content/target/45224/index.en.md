@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh International Television Festival
-
 Site of a festival of the television industry in the United Kingdom with contributions from abroad acting as a forum for debates about issues affecting the industry.

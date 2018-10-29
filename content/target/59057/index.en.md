@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# BL Sound Heritage (@BLSoundHeritage) on Twitter
-
 The British Library's sound preservation team. Keeping our recorded history safe and sound.

@@ -10,5 +10,3 @@
   "start_date": "2012-01-23T00:00:00Z"
 }
 
-# Wellcome Arabic Manuscripts Online
-

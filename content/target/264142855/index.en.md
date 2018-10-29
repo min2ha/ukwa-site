@@ -10,6 +10,4 @@
   "start_date": "2014-11-18T16:00:00Z"
 }
 
-# Dear Angel
-
 <p>Documentation of a letters based arts project.</p>

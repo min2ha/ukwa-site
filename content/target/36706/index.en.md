@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  German finance minister Wolfgang Schaeuble says 'we would cry' if UK votes to leave
-

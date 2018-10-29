@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Barrow & Furness Conservatives
-
 Website of Barrow & Furness Conservatives, providing information on representatives and candidates, events and local and national news updates.

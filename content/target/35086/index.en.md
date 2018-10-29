@@ -10,6 +10,4 @@
   "start_date": "2016-02-10T09:00:00Z"
 }
 
-# Llancaiach Fawr Manor
-
 Llancaiach Fawr Manor is a semi-fortified manor built in c1550 located in Caerphilly county.

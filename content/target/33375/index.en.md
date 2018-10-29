@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# Bro Emlyn for Peace and Justice (BEPJ)
-
 Bro Emlyn for Peace and Justice (BEPJ) was established before the Invasion of Iraq in 2003 and campaign on Peace and Justice issues in the Newcastle Emlyn area of Carmarthenshire.

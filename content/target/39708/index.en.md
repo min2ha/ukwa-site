@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Living Rent Campaign (@Living_Rent) on Twitter
-
 Twitter profile of Living Rent, Scotland's tenants' union.

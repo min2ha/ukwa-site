@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Gwenno
-
 Gwenno Mererid Saunders is a Welsh musician and dancer also known as a singer and keyboardist with The Pipettes. 

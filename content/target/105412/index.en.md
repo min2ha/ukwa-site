@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Lucas, Wrexham's Member of Parliament
-
 Ian Lucas is Wrexham's Labour Member of Parliament.

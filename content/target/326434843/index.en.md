@@ -10,6 +10,4 @@
   "start_date": "2015-04-14T09:00:00Z"
 }
 
-# North Wales Pilgrim Way | Taith Pererin Gogledd Cymru
-
 The Pilgrim's Route runs from Basingwerk to Bardsey Island – a walking route of over 130 miles.

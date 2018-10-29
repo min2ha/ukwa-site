@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Louise Welsh
-
 The website of the author Louise Welsh.

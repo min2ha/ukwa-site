@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ossett Through the Ages (OTTA) on Facebook
-
 A local community Facebook page for Ossett. Ossett is a market town within the metropolitan district of the City of Wakefield, in West Yorkshire, England. 

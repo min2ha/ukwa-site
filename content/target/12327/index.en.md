@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Conservative Future (@ConsFuture) on Twitter
-
 The twitter profile of Conservative Future, the youth movement of the Conservative Party.

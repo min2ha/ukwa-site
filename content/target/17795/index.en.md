@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Rise of SNP may cost Ed Miliband the election, poll suggests
-
 None

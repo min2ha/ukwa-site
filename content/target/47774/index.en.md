@@ -10,6 +10,4 @@
   "start_date": "2016-12-14T09:00:00Z"
 }
 
-# St Mary's and St Michael's Catholic Church Llanarth
-
 St Mary's and St Michael's Catholic Church Llanarth, Monmouthshire is the oldest post-Reformation Catholic church in Wales.

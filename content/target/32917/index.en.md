@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Rob Mimpriss
-
 Rob Mimpriss is a Welsh short-story writer.

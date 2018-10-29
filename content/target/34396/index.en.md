@@ -10,6 +10,4 @@
   "start_date": "2016-01-25T09:00:00Z"
 }
 
-# Business Zone
-
 Business Zone aims to provide free, practical and no-nonsense advice for small businesses and entrepreneurs.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Bekonscot Model Village and Railway
-
 The World's oldest model village in Beaconsfield, Buckinghamshire.

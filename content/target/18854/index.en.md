@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: History in the baking: mother makes copy of the Magna Carta... made entirely of cake
-

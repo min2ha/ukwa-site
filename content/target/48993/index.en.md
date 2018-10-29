@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Aberystwyth Against Trump's #MuslimBan on Facebook
-
 Protest held in Aberystwyth Against Trump's #MuslimBan on 30th January, 2017.

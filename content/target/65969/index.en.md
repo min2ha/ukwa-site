@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Untold Stories: Black families in the First World War
-
 This project researched the lives of Black families in Liverpool and the impact on them during WW1. 

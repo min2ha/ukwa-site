@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Brummagem Screwdriver; Jacqui Rowe's blog
-
 Blog of poet Jacqui Rowe from 2010-2014

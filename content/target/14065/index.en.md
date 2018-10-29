@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Another Scotland: A Letter to England
-
 None

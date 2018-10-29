@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Independent, The: Scottish independence
-
 News on the Scottish independence referendum from the website of The Independent newspapers.

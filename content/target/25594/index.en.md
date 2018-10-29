@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Factcheck: Tory manifesto claims on schools don’t add up
-
 None

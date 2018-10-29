@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Quaker Disability Equality Group (QDEG), The
-
 <p>The Quaker Disability Equality Group (QDEG) is a listed informal group of Britain Yearly Meeting, which works for the full inclusion of people with disabilities and carers in all aspects of Quaker life.</p>

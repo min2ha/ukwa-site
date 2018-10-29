@@ -10,6 +10,4 @@
   "start_date": "2017-06-10T09:00:00Z"
 }
 
-# British Wing Chun Kuen Association, The 
-
 Website of the British Wing Chun Kuen Association the only club in Worcester authorised to teach traditional Ip Man Wing Chun Kung Fu by the Hong Kong Ving Tsun Athletic Association.

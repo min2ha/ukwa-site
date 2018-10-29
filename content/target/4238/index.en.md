@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Future of Scotland: posts tagged Yes Scotland
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Sarah Hope
-
 Sarah Hope is a Welsh artist specialising in drawing and painting.

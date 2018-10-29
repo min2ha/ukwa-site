@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Carmarthenshire Welsh Pony and Cob Association (WPCA)
-

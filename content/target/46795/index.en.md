@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the European Union: Funding for Universities and Scientific Research
-
 This House of Lords Library briefing provides information on current university and research funding in the UK and identifies some of the key issues raised about this funding following the UK’s referendum vote to withdraw from the EU.

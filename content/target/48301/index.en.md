@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Political Studies Association & UK in a Changing Europe, The: Brexit: Six months on
-
 A joint report by the Political Studies Association and The UK in a Changing Europe. This report reflects on what has happened in the six months since the EU Referendum result in June and made predictions for the future.

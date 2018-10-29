@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kevin Brennan (@KevinBrennanMP) on Twitter
-
 Labour Member of Parliament for Cardiff West 

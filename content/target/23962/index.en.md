@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tories targeting fewer than 100,000 voters for victory
-
 None

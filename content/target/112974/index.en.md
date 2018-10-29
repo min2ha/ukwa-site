@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh International Film Festival
-
 The Edinburgh International Film Festival was established in 1947 and takes place every June.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Sea Ilfracombe
-
 Website for the Sea Ilfracombe maratime festival.

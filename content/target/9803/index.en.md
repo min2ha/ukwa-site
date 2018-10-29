@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: The rise of far right parties across Europe is a chilling echo of the 1930s
-
 None

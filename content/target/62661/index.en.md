@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lochee Parish Church
-
 Site of a Church of Scotland parish church at Lochee, Dundee.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Uist Archaeology
-
 WordPress site of local archaeologists based on and specialising in the archaeology of the Isle of South Uist.

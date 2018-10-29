@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# TheJuniors
-
 News and information website focusing on clubs playing in the various Scottish Junior football leagues throughout Scotland.

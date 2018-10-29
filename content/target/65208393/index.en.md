@@ -10,5 +10,3 @@
   "start_date": "2012-04-04T00:00:00Z"
 }
 
-# Welsh Language Commissioner | Comisiynydd y Gymraeg
-

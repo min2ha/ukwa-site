@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# What The Saints Did Next
-
 “What The Saints Did Next” is Darrin and Sharon Henry, sharing their passion and adventures in photography through their blog and Twitter account. This is their official blog.

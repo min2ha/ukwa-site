@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Xavier Mohammed (XavierMohammed) on Twitter
-
 <p>The twitter profile of swimmer Xavier Mohammed, competing in the men's 100 metre relay for Team Wales in the Glasgow 2014 Commonwealth Games.</p>

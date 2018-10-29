@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carloway Church of Scotland on Facebook
-
 Faceboook page  of  a Church of Scotland parish church at Carloway, Isle of Lewis.

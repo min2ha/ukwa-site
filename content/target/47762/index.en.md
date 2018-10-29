@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  A Brexit betrayal is coming – but who will get the blame?
-

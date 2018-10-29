@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Traeth Bychan Harbour
-
 Traeth Bychan Harbour is in Amlwch on Anglesey. It is now a dock. 

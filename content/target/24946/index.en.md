@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Simon Wright (@SimonWrightMP) on Twitter (Liberal Democrats candidate for Norwich South)
-
 Simon Wright stood as Liberal Democrats candidate for Norwich South at the 2015 General Election but was not elected. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Joint Public Issues Team | Live out the gospel of Christ in church and society
-
 The Joint Public Issues Team is a venture of the Baptist Union of Great Britain, the Methodist Church, the United Reformed Church and the Church of Scotland.

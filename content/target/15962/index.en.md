@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# British Agility Association (BAA), The
-
 <p>The British Agility Association (BAA) evolved from the East Midlands Dog Agility Club (EMDAC) which was founded in 2002 by June Bass and Steve Retter. It organises activities and competitions for dogs and their owners or handlers.</p>

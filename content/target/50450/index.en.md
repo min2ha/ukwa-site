@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Sturgeon declares she WILL call a fresh Scottish independence referendum for 2018 saying Brexit has left the union at a 'crossroads' as she blames PM for forcing her hand  
-

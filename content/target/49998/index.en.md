@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bethel Pentecostal Church Portsmouth
-
 BPC is a Non-Denominational Church meeting the spiritual needs of Pentecostal believers in the South England.

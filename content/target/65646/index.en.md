@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Stirlingretail
-
 Comment on retail: Leigh Sparks is Professor of Retail Studies at the University of Stirling.

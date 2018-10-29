@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Little Victory Ball, The
-
 <p>Project exploring the First World War through a mobile museum and interactive theatre event.</p>

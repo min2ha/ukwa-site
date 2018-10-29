@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brixton Buzz: Brixton Listings and News Site
-
 <p>News and commentary concerning Brixton, London</p>

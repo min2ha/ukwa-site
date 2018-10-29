@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election 2015: Chaos looms as party leaders seek coalition deals
-
 None

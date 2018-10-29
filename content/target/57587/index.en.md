@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Labour Relations Agency 
-
 The Labour Relations Agency was established in 1976 as a Non-Departmental Public Body with responsibility for promoting the improvement of employment relations in Northern Ireland. The Agency is independent of Government and is funded mainly in the form of a grant from the Department for the Economy (DfE). The Agency provides employment relations services to those engaged in industry, commerce and the public services. 

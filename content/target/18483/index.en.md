@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Danny Alexander interview: Tories will create 'grotesquely unfair' Britain 
-
 None

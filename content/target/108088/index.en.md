@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Green Party
-
 Official website of the Green Party, UK political party.

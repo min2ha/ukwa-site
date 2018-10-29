@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Scepticism about a Brexit apocalypse looks increasingly justified
-

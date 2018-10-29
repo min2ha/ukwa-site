@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent:  Budget has been overshadowed by Brexit – but don’t ignore its importance
-

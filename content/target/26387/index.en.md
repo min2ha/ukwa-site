@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband says NHS faces a £2bn deficit in 2015
-
 None

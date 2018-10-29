@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# SOW, Sound of Wales
-
 SOW (Sounds of Wales) is an Evangelical Welsh music collective.

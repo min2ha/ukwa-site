@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Legacy Now
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Breaking Convention Festival
-
 acts from around the world celebrating hip hop theatre

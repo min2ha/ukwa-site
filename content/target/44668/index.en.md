@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# IRC Welsh National Championships 
-
 Sailing event hosted by Pwllheli Sailing Club.

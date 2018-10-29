@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Gwyl NAWR Festival
-
 Gwyl NAWR Festival is a monthly sonic art and exploratory music festival held in Swansea.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# Welsh Traditional Buildings Forum
-
 This Welsh Traditional Buildings Forum promotes the development of traditional building skills and sustainability issues relating to all old buildings across Wales.  

@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Centre for Contemporary Arts
-
 Site of Glasgow's Centre for Contemporary Arts, gallery and artistic hub as well as space for creative activity in dance, writing, performance, film, music and visual arts. 

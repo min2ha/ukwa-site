@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Andy Hollingworth
-
 Website for Andy Hollingworth, photographer who photographs comedians.

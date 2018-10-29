@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: David Cameron warns Isil will be 'happy' with Brexit as Boris Johnson says PM's deal is 'biggest stitch up since the Bayeux Tapestry'
-

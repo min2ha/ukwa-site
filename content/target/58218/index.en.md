@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mail Online: Porn triggers erectile dysfunction in men but doesn't affect the sex lives of women, research reveals 
-
 News article referring to study on porn consumption and its effects

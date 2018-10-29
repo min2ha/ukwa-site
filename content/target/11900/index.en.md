@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Army Boxing Team (@armyboxingteam) on Twitter
-
 The twitter profile of the British Army Boxing team; members took part in the Glasgow 2014 Commonwealth Games.

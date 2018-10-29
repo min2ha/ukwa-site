@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson attacks 'cynical' Tory manifesto promise on immigration
-

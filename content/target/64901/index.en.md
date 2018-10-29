@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Uig Church of Scotland on Facebook
-
 Facebook page of a Church of Scotland parish church at Uig, the Isle of Lewis.

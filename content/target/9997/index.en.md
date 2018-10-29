@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# London Liberal Democrats on Facebook
-
 None

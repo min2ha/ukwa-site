@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Peter Hague (@petehague) on Twitter (Green Party candidate for Leicester West)
-

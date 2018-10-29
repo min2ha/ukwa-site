@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# russianevents.london (@russianevents.london) on Instagram
-
 The Instagram account of www.russianevents.london which promotes London events that have relation to Russian language or Russian culture.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron: Miliband would not be legitimate as PM if Labour comes second
-
 None

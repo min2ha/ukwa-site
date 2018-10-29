@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Broughty Athletic Football Club
-
 Site for a Scottish junior football club based in Broughty Ferry, Dundee, Scotland.

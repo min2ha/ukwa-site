@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: It’s a lie to suggest that Brexit would ruin us
-

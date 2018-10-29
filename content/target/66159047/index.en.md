@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Ebenezer Elliott: The Corn Law Rhymer & Poet of the Poor
-
 None

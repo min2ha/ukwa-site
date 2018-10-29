@@ -11,6 +11,4 @@
   "subject": "Independent Arts Organisations"
 }
 
-# Old Police Station, The - do-it-yourself-art-centre
-
 None

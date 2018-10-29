@@ -10,6 +10,4 @@
   "start_date": "2012-02-22T00:00:00Z"
 }
 
-# Pembrokeshire College | Coleg Sir Benfro
-
 College / Coleg

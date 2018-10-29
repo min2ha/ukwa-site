@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Yester, Bolton and Saltoun Church
-
 Site of a Church of Scotland parish church in East Lothian, serving the communities of Gifford, Bolton and East and West Saltoun and surrounding areas.

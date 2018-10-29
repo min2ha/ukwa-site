@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed 'Two Kitchens' Miliband: Politicians and the photos that inadvertently come to define them
-
 None

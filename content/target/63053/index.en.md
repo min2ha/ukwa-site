@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. David's Parish Church 
-
 Site of a Church of Scotland parish church in Glasgow.

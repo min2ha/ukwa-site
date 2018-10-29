@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ned Potter
-
 Website and blog by Ned Potter, a librarian based at the University of York.

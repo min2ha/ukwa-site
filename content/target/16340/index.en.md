@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Labour Party on Facebook
-
 None

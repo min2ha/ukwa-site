@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# London and NUUK
-
 None

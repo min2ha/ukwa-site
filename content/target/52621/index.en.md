@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Friends of the Earth: General Election 2017 is chance to commit to a healthy environment
-
 The 2017 General Election gives the Prime Minister and the other political party leaders an opportunity to recommit to existing environmental protections 
 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Sussex Health and Wellbeing Board
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Michel Barnier says he strongly opposes May's Brexit trade proposals
-

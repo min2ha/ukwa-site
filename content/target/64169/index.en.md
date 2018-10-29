@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Game of the People (@GameofthePeople) on Twitter
-
 Football analysis, culture, business, edited by Neil Jensen. Football Writers Association and Football Collective member. 

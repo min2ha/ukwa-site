@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Changing parenting roles for transforming gender
-
 A paper from London School of Economics (LSE) on changes to parental roles

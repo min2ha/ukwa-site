@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Express: European SUPERSTATE to be unveiled: EU nations 'to be morphed into one' post-Brexit
-
 An article discussing the idea of a closer EU structure.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Enough of all this Brexit gloom! The EU's in turmoil - and we've some aces up our sleeves 
-
 Argues that the EU is in no position to punish Britain for leaving. Anti-EU right wing policies are on the rise across Europe, which is also threatened by a resurgent Russia.

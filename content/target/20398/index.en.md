@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jim McGovern (Jim4DundeeWest) on Twitter
-
 The twitter profile of Jim McGovern, Labour Parliamentary Candidate for Dundee West in the 2015 General Election.

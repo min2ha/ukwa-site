@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# NHS Choices: Zika virus
-
 Official NHS public information on Zika virus

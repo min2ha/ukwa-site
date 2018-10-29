@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Parents must stop defending their children on social media as it makes bullying worse, headteachers say
-
 News article reporting on the findings of a survey conducted by The Association of School and College Leaders (ASCL), which represents heads from both the private and state sectors. Headteachers reported that cyber bullying became worse due the parents of children joining in on social media incidents

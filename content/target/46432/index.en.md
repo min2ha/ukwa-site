@@ -10,6 +10,4 @@
   "start_date": "2016-10-22T10:00:00Z"
 }
 
-# Early Tourists in Wales: 18th and 19th century tourists' comments about Wales
-
 This site contains classified extracts from over 1,200 published and manuscript accounts of tours of Wales, 1700-1900. It is being created by Michael Freeman, curator of Ceredigion Museum, Aberystwyth, 1991-2012

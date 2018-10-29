@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What difference does Labour’s 'budget responsibility lock' make?
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Flynn MP - Newport West
-
 Paul Flynn is MP for Newport West.

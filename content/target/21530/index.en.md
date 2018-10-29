@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: George Osborne and Ed Balls refuse to rule out deals with UKIP and SNP
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Burlington Welsh Male Chorus
-
 The Burlington Welsh Male Chorus (BWMC) was founded in 2001 and are based at Burlington, Ontaria.

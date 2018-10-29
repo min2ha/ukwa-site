@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Strete
-
 The official website of Strete in Devon, England, which is managed by Strete Parish Council. 

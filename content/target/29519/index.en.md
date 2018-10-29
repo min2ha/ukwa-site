@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# British Association for the Study of Community Dentistry (BASCD), The
-
 The British Association for the Study of Community Dentistry (BASCD) is an alliance of individuals with an interest in population oral health, working together to: provide a set of principles for the improvement of oral health and the development of oral health care and promote their dissemination; influence policy at international, regional and local level; support members widely with training, development, partnership working, networking and advocacy; hold, develop and communicate a sound body of knowledge and evidence to facilitate their work.

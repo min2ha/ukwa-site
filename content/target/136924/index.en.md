@@ -10,5 +10,3 @@
   "start_date": "2015-02-27T00:00:00Z"
 }
 
-# BEMIS - Empowering Scotland's Ethnic and Cultural Minority Communities
-

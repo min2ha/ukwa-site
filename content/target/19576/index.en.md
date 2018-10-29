@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# Gandhi Statue Memorial Trust
-
 The Gandhi Statue Memorial Trust was established by economist Meghnad Desai. The trust aims to commemorate the life and works of Mahatma Gandhi, his contribution to the advancement of human rights, citizenship, the promotion of racial harmony, equality and diversity, by establishing and maintaining a public statue of Mahatma Gandhi in Parliament Square.

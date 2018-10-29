@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Brexit bill is cataclysmic. Only a swerve will save us
-

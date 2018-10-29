@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Democratic Unionist Party (DUP) (@duponline) on Twitter
-
 The official Twitter account of the Democratic Unionist Party (DUP)

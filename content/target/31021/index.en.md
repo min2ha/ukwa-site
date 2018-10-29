@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Ceòlraidh Ghàidhlig Ghlaschu on Facebook
-
 This is the Facbook page of Ceòlraidh Ghàidhlig Ghlaschu, the Glasgow Gaelic Musical Association; founded in 1893, they are the oldest Gaelic Choir in Scotland.

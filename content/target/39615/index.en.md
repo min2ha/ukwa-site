@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Roseanna Cunningham on Facebook
-
 Roseanna Cunningham is the SNP candidate for Perthshire South and Kinross-shire in the Scottish Parliamentary elections, to be held on 5th May 2016. 

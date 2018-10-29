@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# TheCityUK: A practitioners guide to Brexit: exploring its consequences and alternatives to EU membership
-

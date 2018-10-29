@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Stop the Olympic Missiles
-

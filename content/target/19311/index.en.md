@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Parliament UK: Magna Carta Anniversary (Bank Holiday) Bill 2010-12
-

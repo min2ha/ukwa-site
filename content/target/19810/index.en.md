@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Ukip branch condemned for 'abhorrent' Nazi swastika posted on its Facebook page
-

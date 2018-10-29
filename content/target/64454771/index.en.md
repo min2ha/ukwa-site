@@ -11,5 +11,3 @@
   "subject": "Independent Arts Organisations"
 }
 
-# Carrotworkers' Collective
-

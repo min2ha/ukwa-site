@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Donald Tusk warns over 'slow pace' of talks
-
 The green light to begin talks about a post-Brexit trade deal would not come until December 2017 at the earliest, the European Council president Donal Tusk suggested in October

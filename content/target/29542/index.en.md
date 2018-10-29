@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oxford Literary Festival
-
 Festival organised by the FT Weekend

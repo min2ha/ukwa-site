@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Framework for the UK-EU partnership: Civil judicial cooperation
-
 This presentation is part of a series produced by the UK negotiating team for discussion with the EU, in order to inform the development of the future framework. It focuses on the UK’s proposals for continued civil judicial cooperation.

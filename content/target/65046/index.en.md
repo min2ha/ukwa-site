@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Tredegar Band
-
 The Tredegar Town Band history goes back to 1849 and are ultiple winners of major competitions; claiming the British Open title in 2010 and again in 2013

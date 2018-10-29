@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Think Before You Laugh (Ivor Dembina)
-
 Website for the comedian Ivor Dembina.

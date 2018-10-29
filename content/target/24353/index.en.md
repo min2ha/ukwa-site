@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC accused of left-wing ambush on David Cameron over hostile Radio 1 interview
-
 None

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Liz Wilks on Facebook (UKIP candidate for Cynon Valley)
-
 Liz Wilks is the UKIP candidate for Cynon Valley at the 2016 National Assembly Election. 

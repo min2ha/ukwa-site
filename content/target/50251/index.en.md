@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit is Theresa May’s Falklands war: a weapon of mass distraction  
-

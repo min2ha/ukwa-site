@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# 'Virtual' Ecclesmachan
-
 Community website for the village of Ecclesmachan, West Lothian, including the Community Council

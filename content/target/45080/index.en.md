@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# eGames 
-
 A competitive Gaming site based in the UK but organised an international eGaming event at the Olympics in Rio.

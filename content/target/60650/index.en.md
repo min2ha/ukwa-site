@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# The FSF (@The_FSF) on Twitter
-
 The Football Supporters’ Federation (FSF) is the democratic organisation representing the rights of fans and arguing the views of football supporters in England and Wales. This is their official Twitter account.

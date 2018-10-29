@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Police Authority (SPA)
-
 The Scottish Police Authority (SPA) was established under the Police and Fire Reform (Scotland) Act 2012 to maintain policing, promote policing principles and continuous improvement of policing, and to hold the Chief Constable to account. 

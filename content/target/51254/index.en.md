@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: Capability in the Civil Service
-
 Government has gaps in its capability and must do more to develop the skills needed to negotiate EU withdrawal. It is making plans, but the scale of the challenge means greater urgency is needed.
 

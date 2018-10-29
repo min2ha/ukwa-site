@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# Food From Fife
-
 Site of a non-profit organisation set up to promote food production and food-tourism in Fife, including the annual St. Andrews food festival.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Alex Salmond jokes about writing Labour's first budget – video
-
 None

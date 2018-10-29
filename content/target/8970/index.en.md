@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lloyd Wallace Aerial Skier
-
 None

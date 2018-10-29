@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# The Feminist Library (@feministlibrary) on Twitter
-
 The Feminist Library is a large archive of feminist literature - summer break 11th-31st Aug. The Library is trans-inclusive & welcomes visitors of all genders.

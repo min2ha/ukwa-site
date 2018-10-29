@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on the UK’s Brexit choices: pro-Europe to leave Europe
-

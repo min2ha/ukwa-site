@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# London Skolars  (@LondonSkolarsRL) on Twitter
-
 The official Twitter account of London Skolars Rugby League Club.

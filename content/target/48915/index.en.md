@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: What would a successful Brexit look like? Here are four tests to measure it
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Socialist Party (@Socialist_party) on Twitter
-
 The Socialist Party is a Trotskyist political party in England and Wales which adopted its current name in 1997. It was formerly known as Militant, an entryist group in the Labour Party from 1964 until it abandoned that tactic in 1991. It stands under the electoral banner of the Trade Unionist and Socialist Coalition (TUSC).

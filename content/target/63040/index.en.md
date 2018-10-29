@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Easter-Ross Church of Scotland
-
 Site of Church of Scotland parish churches at Fearn Abbey & Nigg, and Tarbat, Portmahomack, Highland (historically Easter Ross).

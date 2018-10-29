@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# Glasgow Music City Tours
-
 Site of a tour company offering tours of Glasgow's notable music venues.

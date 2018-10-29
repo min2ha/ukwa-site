@@ -10,6 +10,4 @@
   "start_date": "2018-05-29T09:00:00Z"
 }
 
-# St. James's Operative Lodge No. 97
-
 Site of a masonic lodge located in Edinburgh and affiliated with the Grand Lodge of Scotland.

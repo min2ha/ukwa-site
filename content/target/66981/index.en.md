@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: What’s Labour’s problem with a soft Brexit? One word: immigration
-

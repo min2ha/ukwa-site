@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# High Carntyne Parish Church
-
 Site of a Church of Scotland parish church at Carntyne, Glasgow.

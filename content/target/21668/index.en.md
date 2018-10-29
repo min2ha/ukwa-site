@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Finding out how voters really feel as the general election looms
-
 None

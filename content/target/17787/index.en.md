@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Get a receipt if your hedge is cut for a tenner, says Ed Balls
-
 None

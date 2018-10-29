@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Port Talbot Cymric Choir
-
 The Cymric was established in 1911. It is a choir based in the Port Talbot area.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Selaine Saxby on Facebook
-
 Selaine Saxby is the Conservative Prospective Parliamentary Candidate for Llanelli

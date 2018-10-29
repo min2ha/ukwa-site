@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Tech London Advocates
-
 Tech London Advocates is a collection of tech leaders, experts and investors uniting to form an independent, private sector group in London.

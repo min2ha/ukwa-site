@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: "'If our child could be warped by hate-filled neo-Nazi websites, so could yours': How a middle-class boy with a loving idyllic upbringing was driven to planning a massacre at a gay pride rally"
-
 Daily Mail article on hate crime, mental health, social media and the internet

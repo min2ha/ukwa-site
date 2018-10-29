@@ -10,6 +10,4 @@
   "start_date": "2015-05-06T08:00:00Z"
 }
 
-# Gathering, growing, going | Cyd-gyfarfod, cyd-dyfu, cyd-genhadu
-
 The vision for the Diocese of Swansea and Brecon.

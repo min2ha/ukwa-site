@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Association of the British Pharmaceutical Industry:  UK EU Life Sciences Transition Programme
-
 This Programme aims to determine how to create a world-leading life sciences environment in the UK outside of the EU. 

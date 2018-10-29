@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: It's all about the maths: how Tories’ election battle is ruled by numbers
-
 None

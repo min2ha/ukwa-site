@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# James Williams (@jamswilliams85) on Twitter 
-
 James Williams is BBC Cymru Wales' Brexit Correspondent.

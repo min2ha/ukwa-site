@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stafford_RUFC (@Stafford_RUFC) on Twitter
-
 The official Twitter account of Stafford Rugby Football Club.

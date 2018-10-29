@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ruth Maguire for Cunninghame South on Facebook
-
 Facebook page of Ruth Maguire, Scottish National Party (SNP) candidate Cunninghame South in the 2016 Scottish Parliamentary election.

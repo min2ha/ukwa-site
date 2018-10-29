@@ -10,6 +10,4 @@
   "start_date": "2015-07-30T10:00:00Z"
 }
 
-# Cyngor Gwirfoddol Gweithredu Cymru | Wales Council for Voluntary Action (WCVA)
-
 The body that represent the voluntary and third sector in Wales.

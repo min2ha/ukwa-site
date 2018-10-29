@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ferintosh Parish Church
-
 Site of a Church of Scotland parish church at Conon Bridge, Highland [historically Ross and Cromarty].

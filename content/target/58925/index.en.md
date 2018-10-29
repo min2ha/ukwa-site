@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Welsh Football Online
-
 Welsh Football Online is a statistical resource on the Wales International Football Team. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: PM's allies left picking up the pieces over leadership gaffe
-
 None

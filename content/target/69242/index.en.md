@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Mungo's Church
-
 Site of a Roman Catholic church in Scotland for the parish of St. Mungo's, Townhead, Glasgow.

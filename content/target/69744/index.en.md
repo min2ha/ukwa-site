@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Kevin's Parish Bargeddie
-
 Site of a Scottish Roman Catholic parish church in Bargeddie, Baillieston, Glasgow.

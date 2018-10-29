@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Transition Black Isle
-
 Site of a group set up in the Black Isle area the Highlands, formerly in Ross & Cromarty, to promote awareness of climate change and over reliance on fossil fuels, while also promoting use of local businesses and local resilience in the face of unstable global economy.

@@ -10,5 +10,3 @@
   "start_date": "2011-10-17T00:00:00Z"
 }
 
-# Nantgwynfaen Organic Farm
-

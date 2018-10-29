@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Maloneys Dream
-
 Maloney’s Dream is a theatre show set against the background of Easter week 1916. The website also contains online educational resources created for audiences aged years 8 and over.

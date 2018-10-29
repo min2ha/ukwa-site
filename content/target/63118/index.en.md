@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Natural Training
-
 Natural Training is the UK’s leading provider of sales training to the technology industry. We have trained 18,612 sales people from 89 technology companies in 35 countries.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Celtic Dragons Netball
-
 The Celtic Dragons are one of the 10 UK teams and the only Welsh team that take part in the Netball Super League.

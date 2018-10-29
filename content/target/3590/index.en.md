@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# News and Star (Cumberland)
-
 None

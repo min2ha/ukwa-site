@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Stitch and Bitch London
-
 None

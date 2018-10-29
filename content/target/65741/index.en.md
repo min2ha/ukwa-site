@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Denholm Industrial Services Limited
-
 Denholm Industrial Services Ltd. provides support services to companies undertaking construction and maintenance work. The Company's services Denholm Industrial Services Limited provides support services - including painting, containment, cleaning, design, surface preparation, and scaffolding - to companies undertaking construction and maintenance work. The company is a subsidiary of The Denholm Group.

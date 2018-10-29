@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Three Cliffs, The
-
 The Parish of Three Cliffs which is located on the Gower Penninsula and is home to the four churches that make up this Parish of the Diocese of Swansea and Brecon within the Anglican Church in Wales.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Burry Port & Kidwelly Catholic Parish 
-

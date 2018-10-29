@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Rupert Murdoch will decide Sun stance on Brexit, says its ex-political editor
-
 Guardian, The

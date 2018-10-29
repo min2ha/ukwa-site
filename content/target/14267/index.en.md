@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Green Party submission to Smith Commission on Devolution
-
 <p>Text of the submission by the Scottish Green Party, 10 October 2014.</p>

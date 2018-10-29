@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Itchy Coo
-
 Site of a publisher specialising in publishing books in Scots for children and young people.

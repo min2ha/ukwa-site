@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Hope Park and Martyrs Parish Church
-

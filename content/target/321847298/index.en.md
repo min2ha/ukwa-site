@@ -10,5 +10,3 @@
   "start_date": "2015-05-20T08:00:00Z"
 }
 
-# Bethel Welsh and Trinity Welsh Chapels Swansea | Teulu Bethel Trinity Abertawe
-

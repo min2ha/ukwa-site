@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Strathallan SNP (@SNPStrathallan) on Twitter 
-
 Twitter profile of the Strathallan branch of the Scottish National Party (SNP).

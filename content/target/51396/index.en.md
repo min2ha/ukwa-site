@@ -10,6 +10,4 @@
   "start_date": "2017-03-29T09:00:00Z"
 }
 
-# EPIC: Ex-Police in Industry and Commerce
-
 EPIC (Ex Police in Industry and Commerce) is the only business networking organisation exclusively for former police officers and police staff who, are leaving the service or having left the service, are intending to or have, either started their own business or entering the commercial sector.

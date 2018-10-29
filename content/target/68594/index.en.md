@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# Appreciation of Glasgow School of Art, An 
-
 Blog post about the second fire at Glasgow School of Art on 15 June 2018.

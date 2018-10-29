@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Plan B Collaborative Theatre Ltd
-
 Site of a Scottish dance company based near Evanton, Highlands, exploring new ways of creating and presenting dance and theatre, using arts to attempt to transform peoples’ lives and galvanise communities, rurally, nationally and internationally.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Towcestrians Rugby Club on Pitchero
-
 The official website of Towcestrians Rugby Football Club

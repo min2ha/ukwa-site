@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Living with WWI
-
 Funded by the Craigavon Borough Council and the Heritage Lottery Fund of Northern Ireland, the year-long ‘Living with World War 1’ programme aims to provide a comprehensive overview of how life in the local community was affected by the coming of war through a series of linked projects. At the core of the programme is a central exhibition, which using a combination of artefacts, documents, film and photographs, will show how life in Lurgan, Portadown and the surrounding country districts changed following the declaration of war in 1914.

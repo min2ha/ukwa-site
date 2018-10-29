@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# British Study Centres School of English
-
 British Study Centres is a school of English providing high-quality programmes for adults and children who wish to learn English in the UK.

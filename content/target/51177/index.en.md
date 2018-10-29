@@ -10,8 +10,6 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Comica: comics but not as you know it
-
 In October 2015 the Comica.London magazine website was created with the legend Comics But Not As You Know It:
 
 To promote comics and graphic novels not just during the Comica Festival season but throughout the year.

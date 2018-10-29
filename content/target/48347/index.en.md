@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Royal Mail Ship St Helena  
-
 The RMS St Helena is one of only two ocean-going vessels in the world still to carry the title of Royal Mail Ship.

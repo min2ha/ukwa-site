@@ -10,5 +10,3 @@
   "start_date": "2012-03-20T00:00:00Z"
 }
 
-# Partneriaeth Economaidd Gwynedd Economic Partnership
-

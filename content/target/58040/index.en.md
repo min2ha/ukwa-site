@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# TheatreBoard Forum
-
 An online enthusiast community concerned with UK theatre. Discusses musicals, plays, opera and dance, international theatre and various other related topics.

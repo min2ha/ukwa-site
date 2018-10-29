@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# William Sharman
-
 <p>The website of 110m hurdler William Sharman, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

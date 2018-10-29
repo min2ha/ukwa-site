@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Scottish Association of Car Clubs
-
 Site of an association of motor racing clubs based in Scotland.

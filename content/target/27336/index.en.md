@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Hereford
-
 Official website of the Diocese of Hereford.

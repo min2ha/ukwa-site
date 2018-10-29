@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: SOCIAL MEDIA RATIONING Kids’ social media time ‘could be cut to a few hours’ to improve mental health
-
 News article about suggested plans to limit the time children and teens can spend on social media to protect against the negative impacts on mental health that excessive social media use has been linked to 

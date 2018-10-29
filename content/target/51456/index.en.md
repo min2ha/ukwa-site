@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Worshipful Company of Chartered Architects
-
 The Worshipful Company of Chartered Architects is a modern Livery Company. The Company promotes quality architecture in the City of London and the architectural profession globally, it supports education through awards and prizes as well as a range of charities related to the City.

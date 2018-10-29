@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tony Blair: I will do what it takes to help Ed Miliband win general election
-

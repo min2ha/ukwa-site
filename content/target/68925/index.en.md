@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lancet, The: Automated psychological therapy using immersive virtual reality for treatment of fear of heights: a single-blind, parallel-group, randomised controlled trial
-
 A medical journal article discussing the use of virtual reality to treat mental health problems

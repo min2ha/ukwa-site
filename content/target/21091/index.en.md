@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Angus MacNeil on Facebook
-
 This is the Facebook page of Angus MacNeil, the Scottish National Party (SNP) candidate for Na h-Eileanan an Iar in the UK General Election on the 7th May 2015.

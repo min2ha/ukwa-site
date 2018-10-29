@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Graphic Design Festival Scotland
-
 Site of an organisation promoting creativity, innovation, collaboration and challenging ways of thinking through a programme of workshops, talks, discussions, exhibitions, competitions, music and public artwork.

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Shetland Wool Week
-
 Site of a festival dedicated to wool production, the Shetland textile industry and the rural farming community on Shetland.

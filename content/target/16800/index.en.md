@@ -10,6 +10,4 @@
   "start_date": "2014-02-07T06:00:00Z"
 }
 
-# business.scotland.gov.uk
-
 <p>Scottish Government information and support for businesses in Scotland.</p>

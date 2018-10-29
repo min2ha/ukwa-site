@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Conservatives enjoy biggest poll lead since 2010
-
 None

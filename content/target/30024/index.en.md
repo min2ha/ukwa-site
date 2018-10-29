@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Consensus Support
-
 Consensus Support was established in 2005. The organisation provides personalised support for more than 500 people with learning disabilities and complex needs across both residential and supported living services. 

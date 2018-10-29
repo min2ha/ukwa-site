@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Caledonian Maritime Assets Ltd (CMAL)
-

@@ -10,5 +10,3 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Churches of God South Wales
-

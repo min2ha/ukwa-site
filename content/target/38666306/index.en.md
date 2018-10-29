@@ -10,5 +10,3 @@
   "start_date": "2010-03-22T00:00:00Z"
 }
 
-# Kids And Nutrition
-

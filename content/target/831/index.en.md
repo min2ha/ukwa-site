@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Central Ambulance Service
-
 None

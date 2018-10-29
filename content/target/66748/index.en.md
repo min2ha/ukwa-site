@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Alliance of Chemical Associations, The (ACA)
-
 The Alliance of Chemical Associations (ACA) consists of trade associations representing companies operating in many sectors of the chemical industry supply chain, from the manufacture and the distribution of chemicals to their use for products such as plastics, paint and cosmetics.

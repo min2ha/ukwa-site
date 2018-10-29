@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Three Drops from a Cauldron poetry and fiction ~ myths, folklore, legends and fairytales
-
 Three drops from a cauldron is a webzine for poetry and flash fiction (or any hybrid of the two) involving myth, legend, folklore, fable and fairytale and is influenced by the editor’s obsession with folklore and mythology – particularly of the Welsh variety – and poetry. 

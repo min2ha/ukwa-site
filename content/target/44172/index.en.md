@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Sustainable Cupar
-
 Site of a local environmental organisation aiming to raise awareness of green issues and to promote and support changes to more sustainable lifestyles in the town of Cupar, Fife, Scotland.

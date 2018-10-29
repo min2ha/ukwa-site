@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# James Carver (UKIP MEP for the West Midlands)
-
 James Carver stood as UKIP candidate for the West Midlands  at the 2014 European Parliament Election and was elected to serve as MEP

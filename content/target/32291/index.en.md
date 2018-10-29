@@ -10,5 +10,3 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Blaenau Ffestiniog o'r Graig | Blaenau FfestiniogFrom The Rock
-

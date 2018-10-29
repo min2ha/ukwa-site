@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The : Fine speech - now call an election!
-
 Argues that Theresa May's Lancaster House speech in January 2017 set out a clear-sighted vision for Brexit. It was the best conceivable answer to critics and gives her the springboard to call a general election on this titanic issue
 
 Read more: http://www.dailymail.co.uk/news/article-4130390/PETER-OBORNE-says-Theresa-call-election.html#ixzz4WLEwKvcP 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Church Leaders' Forum
-
 The National Church Leaders Forum developed out of a meeting of key Church Leaders and Workers, Community Organisers and Business Leaders on Tuesday 10 May 2011.

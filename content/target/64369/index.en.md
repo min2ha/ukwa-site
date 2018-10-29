@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Stop Brexit March (@StopBrexitMarch) on Twitter
-
 Official account of the #StopBrexit Marches. 

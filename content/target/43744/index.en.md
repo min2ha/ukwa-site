@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LGBT for Europe on Facebook
-
 Facebook group by and for the LGBT community campaigning for the UK to remain in the EU

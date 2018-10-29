@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Bradford election race heats up with claims of anonymous threatening calls
-
 None

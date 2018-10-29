@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guaridan, The: How much will Brexit cost Britain?
-
 An opinion piece on what the author thinks people should know about the Brexit divorce: what will the UK pay, when is it due and what happens after leaving?

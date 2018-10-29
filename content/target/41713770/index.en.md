@@ -10,5 +10,3 @@
   "start_date": "2010-06-14T00:00:00Z"
 }
 
-# Whashton, Kirby Hill, Ravensworth, Gilling, Hartforth Census Data and Information
-

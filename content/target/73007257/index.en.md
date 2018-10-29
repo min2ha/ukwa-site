@@ -10,5 +10,3 @@
   "start_date": "2012-11-20T00:00:00Z"
 }
 
-# Journal Research Data (JoRD) Policy Bank
-

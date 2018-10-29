@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# CHROMA
-
 CHROMA are a rock band from Pontypridd who in 2016 won C2 BBC Radio Cymru's Brwydr y Bandiau 2016.

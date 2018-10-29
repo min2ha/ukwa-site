@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Who has a real vision for science in Britain’s general election?
-
 None

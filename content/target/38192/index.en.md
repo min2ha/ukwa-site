@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# SFB Leicester (@sfb_leicester) on Twitter
-
 Leicester branch of Students for Britain, campaigning for the UK to leave the EU

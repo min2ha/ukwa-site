@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Law Analysis: What happens to British expatriates if the UK leaves the EU? 
-
 While much of the debate about the UK’s membership focusses upon the 2.3 million citizens of other EU countries living in the UK, a nearly identical number of UK citizens live in other Member States. There has been surprisingly little discussion about what would happen to them if the UK left the EU. This post looks at the issue in detail

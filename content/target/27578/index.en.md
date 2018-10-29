@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Nigel Farage: First-past-the-post is now a bankrupt voting system
-
 None

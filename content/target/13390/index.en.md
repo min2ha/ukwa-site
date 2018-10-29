@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# James Dornan MSP (glasgowcathcart) on Twitter:
-
 The twitter profile of James Dornan, Scottish National Party Member of the Scottish Parliament for Glasgow Cathcart.

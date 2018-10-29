@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Buckie Thistle Football Club
-
 Site of a Scottish football club based in Buckie, Moray, Scotland.

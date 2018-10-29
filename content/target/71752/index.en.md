@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Limavady United Football Club
-
 The official website of Limavady United Football Club.

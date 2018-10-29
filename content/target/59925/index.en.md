@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Rhiannon Williams
-
 Rhiannon Williams is a contemporary process- lead artist working in figurative textiles. She is also member of the Royal Cambrian Academy.

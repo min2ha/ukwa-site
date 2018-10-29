@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Inter Relgious Encounter Information Consultancy (IRENIC)
-
 Site of an interfaith consultancy existing to help engagement between people of different faiths more effectively, to provide advice before or during encounters and to provide speakers for meetings and conferences, facilitate discussions and workshops, and lead training sessions on inter faith issues.

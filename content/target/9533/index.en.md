@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Liberal Democrats: Who we are: Europe 2014
-
 None

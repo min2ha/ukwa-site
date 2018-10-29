@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Osborne set to scupper Ed with tax-free minimum wage
-
 None

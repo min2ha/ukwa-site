@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Corbyn’s ‘yes, but’ on Europe was right – we all think that too 
-
 Guardian, The

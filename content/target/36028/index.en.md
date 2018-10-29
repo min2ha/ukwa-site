@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dan Lodge (@DanLodge) on Twitter 
-
 Dan Lodge is the Labour candidate for Preseli Pembrokeshire at the 2016 National Assembly for Wales election and Brecon and Radnor for 2017 General Election.

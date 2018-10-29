@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron, Clegg and Miliband sign joint climate pledge
-
 None

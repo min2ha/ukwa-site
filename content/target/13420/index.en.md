@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Kevin Stewart MSP (KevinStewartMSP) on Twitter
-
 <p>The twitter profile of Kevin Stewart, the Scottish National Party Member of the Scottish Parliament for Aberdeen Central.</p>

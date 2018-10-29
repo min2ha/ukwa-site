@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Gilded Balloon on Facebook
-
 Facebook account for the Gilded Balloon, a year-round comedy & theatre producer based in Edinburgh.

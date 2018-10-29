@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Andover Fire Log
-
 None

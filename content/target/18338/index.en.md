@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Dave's Leicester Comedy Festival
-
 The website for Dave's Leicester Comedy Festival (formerly known as the Leicester Comedy Festival).

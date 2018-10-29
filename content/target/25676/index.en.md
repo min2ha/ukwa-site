@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Politicians not tough enough on tax avoidance, say voters
-
 None

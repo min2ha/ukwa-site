@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# Welsh Biography (@WelshBiography) on Twitter
-
 The Dictionary of Welsh Biography contains over five thousand concise biographies of Welsh people who have made a significant contribution to national life, whether in Wales or more widely. This is their official English language twitter account.

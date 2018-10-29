@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# My Green Pod
-
 MyGreenPod.com shares green news and helps bring those products into your home – after you’ve had fun experimenting and learning about what’s available.

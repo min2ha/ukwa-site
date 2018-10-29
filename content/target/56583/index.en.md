@@ -10,6 +10,4 @@
   "start_date": "2017-08-15T09:00:00Z"
 }
 
-# Third Sector Support Wales | Cefnogi Trydydd Sector Cymru
-
 Third Sector Support Wales is a network of support organisations for the third sector in Wales consisting of consists of the 19 local and regional support bodies, the County Voluntary Councils (CVCs) and the national support body, Wales Council for Voluntary Action (WCVA).

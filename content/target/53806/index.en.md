@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Co-Operatives UK: General election 2017: co-operative view on the party manifestos
-
 This page was updated regularly with comment and analysis of key developments for co-operatives in the UK General Election of 2017.
 

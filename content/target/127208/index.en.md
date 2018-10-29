@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Quakers in Britain
-
 Christian Quaker is a movement founded by George Fox in the 1650s. 

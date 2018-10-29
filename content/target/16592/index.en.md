@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Harriet Harman and Ed Balls win fight to sit at Labour's election top table
-
 None

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Preservation for the Arts, Social Sciences, and Humanities (DPASSH) 2017
-
 DPASSH 2017 is the second ‘Digital Preservation for the Arts, Social Sciences, and Humanities’ conference and is a collaboration between the Sussex Humanities Lab and the Digital Repository of Ireland, and co-sponsored by The Digital Arts and Humanities PhD Program.

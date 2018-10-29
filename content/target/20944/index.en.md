@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kyle Thornton (@kyleakthornton) on Twitter
-
 The Twitter profile of Kyle Thornton, Scottish Conservative and Unionist candidate for Glasgow Cathcart in the 2016 Scottish Parliament election.

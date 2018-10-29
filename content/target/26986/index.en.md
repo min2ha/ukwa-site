@@ -10,5 +10,3 @@
   "start_date": "2015-05-27T09:00:00Z"
 }
 
-# University of Southampton: Marine Energy
-

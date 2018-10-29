@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wales Match Shirts
-
 Wales Match Shirts is a personal collection of Wales International football match worn shirts. 

@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Edinburgh Trams
-
 Site of the tram transport network located in Edinburgh, Scotland.

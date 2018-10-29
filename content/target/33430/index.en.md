@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Blairgowrie, Rattray and District Local History Trust
-

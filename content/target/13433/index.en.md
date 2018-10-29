@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Russell Brown (russellbrownmp) on Twitter
-
 <p>The twitter profile of Russell Brown, Labour Member of Parliament for Dumfries and Galloway.</p>

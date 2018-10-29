@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alexander Burnett (@AJABurnett) on Twitter
-
 The Twitter profile of Alexander Burnett, Scottish Conservative and Unionist MSP for Aberdeenshire West.

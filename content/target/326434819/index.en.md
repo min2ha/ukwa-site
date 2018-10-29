@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scarlets, The
-
 Welsh Rugby Union Regional side.

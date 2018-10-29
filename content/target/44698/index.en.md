@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Bradley Dredge Club
-
 Bradley Dredge is a Welsh professional golfer from Tredegar.

@@ -10,6 +10,4 @@
   "start_date": "2014-03-18T21:00:00Z"
 }
 
-# BBC News: Budget 2014
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Copeland Conservatives
-
 Website of Copeland Conservatives, providing information on the parliamentary candidate, association officers, councillors and events.

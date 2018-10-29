@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU crisis – opportunity to unite mass opposition to austerity
-
 Analysis of the EU Referendum result from Northern Ireland.

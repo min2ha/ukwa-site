@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Squatters Legal Network
-
 A legal support network for squatters 

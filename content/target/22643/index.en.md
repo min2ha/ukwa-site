@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband's zero tolerance: Labour leader's pledge to ban controversial casual labour contracts 
-
 None

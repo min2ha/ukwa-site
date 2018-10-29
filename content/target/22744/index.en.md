@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jamie McMahon on Facebook (Labour candidate for North West Leicestershire)
-

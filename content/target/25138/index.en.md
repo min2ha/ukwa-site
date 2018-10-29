@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nigel Farage reveals health struggles hit election campaign: 'I wasn't really firing on all cylinders' 
-
 None

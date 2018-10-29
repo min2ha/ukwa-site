@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Storify: Angus Macleod Lecture - The Place of Gaelic in Modern Scotland (with image, tweets) · LornaMCampbell
-
 John Swinney, Deputy First Minister and Cabinet Secretary for Education and Skills, delivered the Angus Macleod Lecture in Stornoway as part of the 2016 Royal National Mòd.

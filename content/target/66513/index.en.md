@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-#  Simon Fraser (@SimonFraser00) on Twitter
-
 Managing Partner at Flint Global. Vice Chair of Chatham House. Was Perm Sec at UK Foreign Office & Business Dept & Chief of Staff to EU Trade Commissioner.

@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Copper Coast International Film Festival
-
 Copper Coast International Film Festival (CCIFF) is a three-day short film festival set in Swansea.

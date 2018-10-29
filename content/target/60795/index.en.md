@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit minister Steve Baker in civil service row apology
-
 Brexit minister Steve Baker apologised in Parliament for comments he made questioning  the independence of the civil service. He said he had been told Treasury officials were deliberately trying to influence policy in favour of staying in the EU customs union.

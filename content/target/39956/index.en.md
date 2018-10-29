@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 'On Her Their Lives Depend': Greater Manchester Women and the Great War
-
 This project will focus on the First World War and it’s impact on women with vulnerable women from Greater Manchester.

@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# London Grip
-
 International online culture magazine, with prominent poetry section

@@ -10,6 +10,4 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# Energy Technologies Institute (@the_ETI) on Twitter
-
 The official Twitter account of the ETI. Their research Focused on affordable, secure and sustainable energy solutions for 2050.

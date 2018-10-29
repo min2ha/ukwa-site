@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Mygov.scot: Your business and the EU Referendum
-

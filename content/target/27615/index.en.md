@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Saving the Union will be next government's 'number one priority'
-
 None

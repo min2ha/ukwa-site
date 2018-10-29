@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Women's Eights Head of the River Race
-

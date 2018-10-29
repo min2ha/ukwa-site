@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Callum McCaig (@callum_mccaig) on Twitter
-
 Twitter profile of Callum McCaig, Scottish National Party candidate for Aberdeen South in the 2017 general election.

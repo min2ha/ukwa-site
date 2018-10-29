@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Belfast Telegraph: Northern Ireland Assembly election 2017: 228 candidates to contest Stormont poll
-
 228 candidates registered to run in the 2017 Assembly elections.

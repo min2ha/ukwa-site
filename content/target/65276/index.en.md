@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hamilton Bardrainney Kirk on Facebook
-
 Facebook page for a Church of Scotland parish church at Port Glasgow, Inverclyde.

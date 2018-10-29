@@ -10,5 +10,3 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Gresford and District War Memorial Community Centre Trust 
-

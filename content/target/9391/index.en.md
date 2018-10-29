@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Millie Knight (@knight_millie) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian The:  Stop the sneering – Ed Miliband’s best route to young voters is Russell Brand
-
 None

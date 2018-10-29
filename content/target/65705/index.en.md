@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Edinburgh Airport
-
 Edinburgh Airport is an airport located in the Ingliston area of Edinburgh, Scotland. The airport is owned by Global Infrastructure Partners and operated by Edinburgh Airport Limited.

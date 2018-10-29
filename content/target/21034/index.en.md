@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stuart Donaldson (@StuDonaldsonSNP) on Twitter
-
 The Twitter profile of Stuart Donaldson, the Scottish National Party (SNP) candidate for West Aberdeenshire and Kincardine in the UK General Election on the 7th May 2015.

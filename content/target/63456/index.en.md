@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Rules matter, and if Vote Leave cheated, that’s a scandal
-

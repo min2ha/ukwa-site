@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Get Out and Vote - EU Referendum
-
 A temporary campaign set up to encourage people to vote in the upcoming EU Referendum.

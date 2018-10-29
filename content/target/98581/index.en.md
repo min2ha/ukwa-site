@@ -10,6 +10,4 @@
   "start_date": "2005-03-22T00:00:00Z"
 }
 
-# Witch / [by Lorna Miller]
-
 None

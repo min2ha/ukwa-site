@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Pogles’ Wood
-
 Pogles' Wood was screened by the BBC from 1966 to 1968 as part of the BBC's Watch with Mother series.

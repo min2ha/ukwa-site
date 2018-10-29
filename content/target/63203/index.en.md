@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Health and Social Care Committee: Brexit: medicines, medical devices and substances of human origin
-
 The Health and Social Care Committee urges UK and EU negotiators to prioritise patient safety in next round of Brexit negotiations. Negotiators on both sides must heed the call of industry and patient groups in securing the closest possible regulatory alignment.

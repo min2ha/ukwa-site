@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Cabinet of Curiosities, A
-
 A Cabinet of Curiosities is the personal site of Peter Stevenson, a storyteller, children's writer, book illustrator, folklorist and organiser of the annual 3 day Aberystwyth Storytelling Festival.

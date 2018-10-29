@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. David's High Kirk Dundee
-
 Site of a Church of Scotland parish church in Dundee.

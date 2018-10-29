@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Just Yorkshire: promoting racial justice, human rights and equality
-
 JUST is a groundbreaking initiative set up by the Joseph Rowntree Charitable Trust in 2003 to promote racial justice in West Yorkshire. Since its establishment JUST has become a leading voice in the North promoting racial justice, civil liberties and human rights. The fall-out from the 2001 Northern Uprisings and the introduction of draconian legislation following the 7/7 London bombings has resulted in civil liberties and human rights increasingly becoming an integral part of our work in the region.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Ryanair boss calls for Britain to say 'Yes' to Europe
-

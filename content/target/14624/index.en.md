@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Pharmaceutical Journal, The: The Ebola Outbreak
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Farmers Weekly: 
-

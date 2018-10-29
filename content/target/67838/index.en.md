@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# MonGenes the friendly Monmouthshire
-
 Mon Genes is a family history site for Monmouthshire. The site provides details of Parish Registers, Memorial Inscriptions, Wills, Workhouse Records, Monmouthshire men in the armed forces, Crime & Punishment, Mining Disasters together with 17th-18th Century Manorial Records.

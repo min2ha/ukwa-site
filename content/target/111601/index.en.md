@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# london.gov.uk - Mayor of London, the London Assembly and the Greater London Authority
-
 None

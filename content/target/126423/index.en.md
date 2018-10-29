@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Sheepdrove Organic Farm
-
 None

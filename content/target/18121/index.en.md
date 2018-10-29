@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: SNP earthquake at general election, says Ashcroft poll
-
 None

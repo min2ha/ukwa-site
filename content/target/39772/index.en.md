@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Leith SNP (@LeithSNP) on Twitter
-
 Twitter profile of the Leith branch of the Scottish National Party (SNP).

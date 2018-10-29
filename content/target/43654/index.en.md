@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Authors' Licensing and Collecting Society, The: Brexit or Bremain?
-
 Ahead of next week's EU referendum, Vincent Moss, former political editor of the Sunday Mirror weighs up the arguments for those in the creative industries.

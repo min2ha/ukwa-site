@@ -10,6 +10,4 @@
   "start_date": "2016-11-25T09:00:00Z"
 }
 
-# Neil Spring
-
 Neil Spring is a horror writer from south Wales.

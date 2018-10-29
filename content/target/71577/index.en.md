@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Independent: Downing Street admits MPs could undo Theresa May's Chequers deal after Brexit
-
 Downing Street admitted that a future parliament could be free to unpick Theresa May’s Brexit deal after Britain has left the European Union. Her spokesman responded to comments from prominent Brexiteer Michael Gove, who said a future prime minister could alter Britain’s relationship with the EU after Brexit.
 
  

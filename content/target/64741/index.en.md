@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Ysgol Gyfun Tredegar | Comprehensive School
-
 The School is the oldest Comprehensive in Gwent.  It was formed in 1965 by the amalgamation of four schools found in the town. The schools concerned being two Secondary Moderns, a Technical and a Grammar.

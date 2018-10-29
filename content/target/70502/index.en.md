@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# British Council, The: Gender Equality and Empowerment of Women and Girls in the UK - Meeting sustainable development goals
-
 Report by the British Council presenting evidence about the progress of gender equality in the UK against UN sustainable development goals.

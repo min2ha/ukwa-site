@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Porth, Y
-
 Y Porth is the main platform for delivering and managing Welsh medium provision for student members of the Coleg Cymraeg Cenedlaethol studying in universities across Wales. 

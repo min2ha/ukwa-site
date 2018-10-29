@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Fork to Fork Food Festival
-
 supporting Ark Franklin's Open Air Classroom, a national reach project to build resilience in children through outdoor learning, healthy eating and creativity.

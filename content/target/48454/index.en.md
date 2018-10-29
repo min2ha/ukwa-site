@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Marie Stopes UK
-
 Marie Stopes UK is a leading independent provider of sexual and reproductive health services in the UK.

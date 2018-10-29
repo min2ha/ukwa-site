@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Winchester RFC (@winchesterRFC) on Twitter
-
 Fantastic rugby for all levels in the Hampshire area. Winchester operates 4 senior sides, 2 colts sides as well as boys & girls rugby for juniors and minis.

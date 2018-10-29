@@ -10,5 +10,3 @@
   "start_date": "2015-05-21T08:00:00Z"
 }
 
-# Angle Lifeboat Station
-

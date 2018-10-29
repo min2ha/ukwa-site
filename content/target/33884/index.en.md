@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Slugger O'Toole: Why Some Councils Need to Relax over 2016 Commemorations
-

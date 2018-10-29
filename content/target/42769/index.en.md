@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Under the Pavement Radio Show
-
 Community radio station in south Manchester reporting on direct action and grass roots resistance in the Manchester area.

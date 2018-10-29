@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the European Union: Euratom
-
 The Government has stated that leaving the EU also means leaving the European Atomic Energy Community (Euratom). This Lords Library briefing examines what Euratom does and the possible implications of leaving Euratom for the future of the nuclear industry and nuclear research in the UK.

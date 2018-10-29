@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Dixons Retail
-
 Dixons Retail plc, is an electronics retailer in Europe. In the UK, the company operates Currys, Currys Digital, PC World, Dixons Travel and its service brand Knowhow.

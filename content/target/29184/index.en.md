@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Former Cambridge nurse Anna Cross who beat Ebola receives medal from Downing Street
-
 Article on world's first patient to receive an experimental drug treatment for Ebola

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Last-ditch drive to get ‘missing million’ voters back on register
-
 None

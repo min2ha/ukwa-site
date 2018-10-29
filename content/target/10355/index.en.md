@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Judith Kirton-Darling, Labour on Twitter
-

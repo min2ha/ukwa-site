@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Harmony Choir
-
 Harmony originally started about 18 years ago as a small singing group of friends who used to perform a capella (unaccompanied). They now sing all styles of music and are based in Maesteg. 

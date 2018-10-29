@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Yourgenome.org
-
 www.yourgenome.org is a website intended to help people understand genetics and genomic science and the implications for us all. 

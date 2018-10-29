@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Brecon Grammar School Old Boys' Association
-
 The purpose of the Old Boys’ Association (OBA) is a point of contact for former pupils of the Boys’ Grammar School and are responsible for organising an annual reunion and other events. The site also provides access to the Brecon Grammar School Old Boys’ Association Newsletter

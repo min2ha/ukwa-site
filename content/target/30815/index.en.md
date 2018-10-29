@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Association for Computing Machinery Europe Council
-
 Website of the European branch of the Association of the Computing Machinery.

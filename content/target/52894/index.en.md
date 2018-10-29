@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Eleanor Price (@price_eleanor) on Twitter
-
 Twitter profile of Eleanor Price, Scottish Conservative and Unionist party candidate for Dundee East in the 2017 general election.

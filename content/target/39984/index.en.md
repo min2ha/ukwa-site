@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Craig Lawton on Facebook (Conservative candidate for Swansea West)
-
 Craig Lawton is the Conservative candidate for Swansea West at the 2016 National Assembly Election. 

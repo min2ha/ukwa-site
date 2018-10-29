@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Indycube Cymru
-
 Indycube Cymru is Wales' leading coworking company offering coworking facilities to micro-organisations, social enterprises, and entrepreneurs, with desk space, free coffee & tea, fast wi-fi & coworkers from only £10 per day. 

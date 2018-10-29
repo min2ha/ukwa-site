@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Manuel Vason
-
 Manuel Vason - Performance, Photography, Collaboration is an official website of the artist, who focuses on the relationship between photography and perfomance, between the artists and the work and the viewer.

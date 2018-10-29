@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Videogame addiction clinic opens
-
 News article about a clinic in the Netherlands that opened and offers treatment for gaming addiction and internet addiction  

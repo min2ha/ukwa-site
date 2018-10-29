@@ -10,5 +10,3 @@
   "start_date": "2015-12-07T09:00:00Z"
 }
 
-# Nature in Shetland
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: trade aspects
-
 The UK’s future trading relationship with the EU is a key issue, given that nearly half of the UK’s trade is with members of the bloc. So far, the Government has said that it wants to develop “our own British model” and “the best deal for Britain”.

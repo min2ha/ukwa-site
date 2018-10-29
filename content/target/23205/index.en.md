@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tom Rippeth (@TomRippeth) on Twitter (UKIP candidate for Delyn)
-
 Tom Rippeth is the Liberal Democrat candidate for Delyn at the 2015 General Election and the 2016 National Assembly Elections. 

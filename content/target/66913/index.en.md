@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Legal IT Insider
-
 Track breaking legal technology news, views, analysis, jobs, events.

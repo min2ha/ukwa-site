@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# InterContinental Hotels Group (IHG)
-

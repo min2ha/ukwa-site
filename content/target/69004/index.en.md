@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Brexit: Government scrapes through Customs Bill votes
-
 The government narrowly avoided a defeat on its Customs Bill after agreeing to Brexiteers' demands to change its wording.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Whoever wins Hove … on the election trail in the bellwether seat
-
 None

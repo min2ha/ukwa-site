@@ -10,6 +10,4 @@
   "start_date": "2017-06-07T09:00:00Z"
 }
 
-# National Holocaust Centre and Museum
-
 The National Holocaust Centre and Museum promotes an understanding of the roots of discrimination and prejudice, and the development of ethical values, leading to a greater understanding within society. 

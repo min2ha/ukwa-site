@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# County Echo and St Davids City Chronicle 
-
 None

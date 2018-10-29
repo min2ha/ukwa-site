@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit is just a distraction to the real problem: the UK’s clapped-out economy
-

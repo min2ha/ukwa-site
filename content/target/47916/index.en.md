@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# London Irish Abortion Rights Campaign
-
 The London Irish Abortion Rights Campaign calls for the repeal of the 8th Amendment from the Irish Constitution and campaigns for access to free safe legal abortion in Ireland and Northern Ireland.

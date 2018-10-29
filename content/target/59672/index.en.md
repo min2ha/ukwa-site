@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Northern Ireland Aviation Enthusiast's Forum
-
 An online enthusiast community concerned with aviation in Norther Ireland. Discusses military & civil aviation, aviation events and various other related topics.

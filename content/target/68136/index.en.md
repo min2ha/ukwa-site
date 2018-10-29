@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Who really backed down over Brexit vote?
-
 Comments that prime minister Theresa May's priority is to keep the Tory party together. She is therefore seeking to avoid coming down firmly on the side of a soft or a hard Brexit, and so alienating either the Remainers or the Brexiteers.

@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Z Productions / Paul Granjon
-
 Paul Granjon is a performance artist build robots and other machines for shows in performances, art galleries and festivals. He also create temporary factories and other events where people can join in making, thinking, and playing.

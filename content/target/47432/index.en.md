@@ -10,6 +10,4 @@
   "start_date": "2016-11-29T09:00:00Z"
 }
 
-# Wellbeing Services South Glasgow
-
 Site of part of the National Health Service for South Glasgow, dealing with psychological wellbeing and mental health.

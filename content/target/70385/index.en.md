@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: How to prepare if the UK leaves the EU with no deal
-
 Links to technical notices on how to prepare for a no deal Brexit

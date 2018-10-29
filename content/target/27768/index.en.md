@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# ITV: News: Churchill's plan to bribe US with copy of Magna Carta
-

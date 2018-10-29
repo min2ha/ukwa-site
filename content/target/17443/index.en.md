@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour defends use of pink minibus in women's campaign
-
 None

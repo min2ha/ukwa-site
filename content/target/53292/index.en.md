@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Islington Green party
-
 Website offers local campaign and general election 2017 campaign news, together with candidate biographies and information on meetings and events.

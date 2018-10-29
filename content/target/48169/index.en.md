@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Leprosy Mission Scotland
-
 Site of a Christian faith-based Scottish charity dedicated to curing, caring for and restoring leprosy-affected people, families and communities and work to prevent people getting leprosy.

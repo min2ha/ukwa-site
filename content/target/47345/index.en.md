@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:Yes there are risks, but I’m hopeful for the future of the British economy  
-

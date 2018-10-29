@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T10:15:00Z"
 }
 
-# #Gàidhlig hashtag on Twitter
-
 Hashtag for Gaelic Twitter day, 21st April 2016.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Academy of Live and Recorded Arts (ALRA)
-
 Official website of the Academy of Live and Recorded Arts, London and Wigan.

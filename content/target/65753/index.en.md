@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Craig Group Limited
-
 Craig Group Limited is a shipping and energy services company based in Aberdeen, Scotland. The company also operates a golf centre.

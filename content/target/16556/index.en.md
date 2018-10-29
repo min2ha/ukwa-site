@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green party's Natalie Bennett: David Cameron should agree to TV election debates - video 
-
 None

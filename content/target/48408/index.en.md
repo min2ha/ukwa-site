@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Sure South Atlantic Ltd.
-
 Telecommunications service provider for the South Atlantic. Across the Falkland Islands they provide national and international fixed line, mobile data and broadband services as well as data centre and enterprise solutions to consumer and corporate customers.

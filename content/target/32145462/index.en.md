@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Repositories Support Project (RSP)
-

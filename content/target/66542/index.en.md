@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Leamington Peace Festival
-
 Website for the Leamington Peace Festival. The Peace Festival aims to promote awareness of world and local issues, fair trade practices

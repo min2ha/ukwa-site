@@ -10,6 +10,4 @@
   "start_date": "2015-09-26T10:00:00Z"
 }
 
-# Education Quizzes
-
 Educational resources for the National Curriculum.

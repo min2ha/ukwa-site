@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Boris Johnson steps up pressure on May as he backs report warning her Chequers plan would make it IMPOSSIBLE to do trade deal with US
-

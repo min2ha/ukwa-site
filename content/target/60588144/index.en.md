@@ -11,6 +11,4 @@
   "subject": "Independent Arts Organisations"
 }
 
-# Crate
-
 None

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hartshill and Harpfields Occasions: Centenary Events 2014
-
 Alongside Hartshill International the other major new event was the launch of the project, Hartshill in the First World War. The primary activity of the first phase of this was a weekend of activities on 2-3 August, although the project will run through to 2018.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Labour's Carwyn Jones on 'hope and despair' choice
-
 None

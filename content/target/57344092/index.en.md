@@ -10,5 +10,3 @@
   "start_date": "2010-11-15T00:00:00Z"
 }
 
-# Support to Recovery
-

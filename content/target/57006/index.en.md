@@ -10,6 +10,4 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# Scottish Legal Action Group SCOLAG
-
 Site of an organisation aiming to increase understanding of the law and legal services, and work to improve the legal system for the benefit of those people in Scotland who are economically, socially or otherwise disadvantaged.

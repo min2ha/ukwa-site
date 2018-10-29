@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# To good to waste
-
 toogoodtowaste is the leading re-use/recycling charity and social enterprise operating in Rhondda Cynon Taf.

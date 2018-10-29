@@ -10,6 +10,4 @@
   "start_date": "2016-08-19T11:00:00Z"
 }
 
-# Institute of Revenues Rating and Valuation (IRRV)
-
 A professional body in the revenues rating and valuation sector. A key aim of the Institute is to support its members’ professional and personal development and the sharing of best practice. 

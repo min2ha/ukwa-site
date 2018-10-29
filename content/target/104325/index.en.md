@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Seniors Network
-
 None

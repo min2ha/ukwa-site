@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Gateway to London
-

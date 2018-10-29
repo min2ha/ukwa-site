@@ -10,6 +10,4 @@
   "start_date": "2016-09-30T10:00:00Z"
 }
 
-# UK Leather Federation
-
 The UK Leather Federation (UKLF) is the trade association for the UK leather industry. They are a membership-based organisation with the remit to represent, promote and protect the UK leather industry. 

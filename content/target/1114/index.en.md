@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Committee on Carcinogenicity of Chemicals in Food, Consumer Products and the Environment
-
 None

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Mackintosh Evangelical Church
-

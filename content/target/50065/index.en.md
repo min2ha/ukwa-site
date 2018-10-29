@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dundee North End Football Club
-
 Site for a Scottish junior football club based in Dundee.

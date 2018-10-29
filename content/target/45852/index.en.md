@@ -10,6 +10,4 @@
   "start_date": "2016-10-04T10:00:00Z"
 }
 
-# Bridgend Tourism Association
-
 Bridgend Tourism Association is a network of Tourism Businesses across the County Borough of Bridgend.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Warwick Brexit Soc (@Warwick4Brexit) on Twitter
-
 University of Warwick Brexit Society, campaigning for the UK to leave the EU

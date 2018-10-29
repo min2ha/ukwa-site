@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Wetherspoon's Carpets
-
 A tumblr blog concerned with taking photographs of the unique carpets inside the Wetherspoon's chain of pubs across the UK. 

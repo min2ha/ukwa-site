@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Communist Party of Great Britain: Boycott the EU referendum!
-
 The article is a statement by the Communist Party of Great Britain urging its supporters to boycott the EU referendum, as it perceives the EU to be an exploitative tool of a capitalist elite.

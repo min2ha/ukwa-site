@@ -10,6 +10,4 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# Scottish Association for Mental Health
-
 Site of a scottish charity providing help, information and support, and campaigning on behalf of people with mental health problems and to raising money for their work.

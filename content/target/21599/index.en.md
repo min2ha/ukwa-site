@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Federation of Small Businesses: I back small business
-

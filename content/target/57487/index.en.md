@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Isle of Harris Mountain Festival
-
 Site of a festival established to highlight the opportunities to enjoy outdoor pursuits on the Harris' land and seascapes, with a view to attracting more visitors to the island.

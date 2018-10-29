@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Temple Anniesland Parish Church of Scotland
-
 Site of a Church of Scotland parish church n Anniesland, Glasgow.

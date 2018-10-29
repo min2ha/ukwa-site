@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# BioClavis
-
 BioClavis carries out personalised transcriptomic and genomic diagnostic testing.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: DUP chief Arlene Foster accuses 'aggressive' Dublin of exploiting Brexit in a bid to force Irish unification as Gove dismisses fears that the UK could be broken up   
-

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# LGBT+ collections at the Museum of Liverpool
-
 Website for LGBT+ collections at the Museum of Liverpool

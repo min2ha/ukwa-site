@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conversation, The: Commonwealth Games Mandela tribute overlooks a mixed record on apartheid
-
 <p>Article by Matthew McDowell and Fiona Skillen on the tribute to Nelson Mandela at the opening ceremony of the XX Commonwealth Games and the impact of apartheid on this and other Commonwealth Games held in Scotland. From “The Conversation” an independent source of news and views, sourced from the academic and research community.</p>

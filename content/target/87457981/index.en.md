@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Association of Police Authorities (APA)
-
 None

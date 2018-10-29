@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Verdict: International Internet Day — what would happen if the internet shut down?
-
 Article discussing the effect that the internet has had on mental health and society

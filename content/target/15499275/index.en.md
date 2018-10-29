@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Colwich Novitiate - A glimpse into the life of a Benedictine novitiate
-
 None

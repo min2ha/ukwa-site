@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# London Evening Standard: Magna Carta edition discovered in Kent council's archives could be worth £10million
-

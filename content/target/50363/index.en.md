@@ -10,5 +10,3 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Canolfannau Cofnodion Amgylcheddol Lleol Cymu | Local Environmental Records Centre Wales 
-

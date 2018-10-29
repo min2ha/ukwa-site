@@ -10,5 +10,3 @@
   "start_date": "2017-04-20T09:00:00Z"
 }
 
-# Caldicot School, Monmouthshire | Ysgol Cil-y-Coed
-

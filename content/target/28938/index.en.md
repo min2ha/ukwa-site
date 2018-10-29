@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UKIP Central and South Birmingham
-
 Website of Central and South Birmingham Branch of UKIP, local branch for the Westminster constituencies of Edgbaston, Hall Green, Ladywood, Northfield and Selly Oak. Provides information on UKIP MEPs, events and posts on local news. Archive of blog posts going back to June 2014.

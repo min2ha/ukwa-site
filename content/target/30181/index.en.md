@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Association of Gaelic Choirs, The
-
 The Association of Gaelic Choirs exists to support Gaelic choirs, foster their existence and, where possible, to encourage new choirs to be founded.

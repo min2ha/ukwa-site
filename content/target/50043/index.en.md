@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Aberdeen Elim Church
-
 Elim was founded in 1915 by George Jeffreys, a young Christian from Maesteg in South Wales. Jeffreys and a group of friends, known as the Elim Evangelistic Band, preached, started churches and witnessed a move of God that was characterised by miraculous healings and an explosion in the number of people becoming Christians.

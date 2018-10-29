@@ -10,6 +10,4 @@
   "start_date": "2016-09-23T11:00:00Z"
 }
 
-# Jonathan Hateley Sculpture - Blogger
-
 Sculptor blog, specifically the daily entries for the "365" sculpture project from 2010-2011, and early 2012. This tracks a year of daily sculptures taken from UK nature, with detailed descriptions. The finished piece was made up of 365 segments and was produced in Bronze and Bronze Resin for sale.  It was displayed at RHS Wisley in 2012 and sold out the whole edition in Bronze Resin, and it has since sold in Bronze.

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Nick Ramsay (@NickRamsayAM) on Twitter (Conservative candidate for Monmouthshire) 
-
 Nick Ramsay is the Conservative candidate for Momnouthshire at the 2016 National Assembly for Wales Elections.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# CILIP Statement On The EU Referendum Result
-
 Chartered Institute of Library and Information Professionals (CILIP) published a short statement on their position after the EU Referendum.

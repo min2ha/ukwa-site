@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T08:00:00Z"
 }
 
-# Archive - a history of over 30 years of UK festivals, The: The Grangemouth Festival 1972
-
 Site with information and memories of the Grangemouth Festival in 1972. 

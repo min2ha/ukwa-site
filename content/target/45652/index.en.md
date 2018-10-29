@@ -10,6 +10,4 @@
   "start_date": "2016-09-27T10:00:00Z"
 }
 
-# Fran Healy
-
 Blog of Glaswegian musician Fran Healy of the band Travis, begun in December 2009.

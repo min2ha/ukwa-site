@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# King’s Church [Cambridge]
-
 King’s Church is a vibrant international Pentecostal church in the heart of Cambridge.

@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# Cochrane Cystic Fibrosis & Genetic Disorders
-
 The Cochrane Cystic Fibrosis & Genetic Disorders Review Group comprises an international network of health care professionals, researchers and consumers preparing, maintaining, and disseminating systematic reviews of randomised control trials in the treatment of cystic fibrosis and other genetic disorders.

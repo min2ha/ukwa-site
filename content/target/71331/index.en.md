@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Instant Classics
-
 Instant Classics was established by David Cottis in 1990 and produce classic plays in an interesting ‘instant’ way, as well as new plays that have the qualities to become classics. 

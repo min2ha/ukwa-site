@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Half of Ukip voters say they are prejudiced against people of other races
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Carolyn Harris Standing up for Swansea East
-
 Carolyn Harris is the Labour Parliamentary candidate for Swansea East.

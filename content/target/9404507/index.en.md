@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Liskeard Town Council
-
 None

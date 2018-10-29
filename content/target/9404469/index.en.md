@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Geological Society of London, The
-
 The Geological Society of London aims to improve knowledge and understanding of the Earth, to promote Earth science education and awareness, and to promote professional excellence and ethical standards in the work of Earth scientists, for the public good.

@@ -10,6 +10,4 @@
   "start_date": "2016-11-01T00:00:00Z"
 }
 
-# The Islands Book Trust Facebook
-
 The Islands Book Trust Facebook

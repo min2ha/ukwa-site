@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Outcasting: Fourth Wall (O:4W)
-
 <p>'Outcasting: Fourth Wall (O:4W) is the first artists’ moving image festival for Cardiff, Wales. The festival commissions new site specific work and has regular screenings around the city and beyond'.</p>

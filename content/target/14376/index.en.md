@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Blue and Gold 
-
 <p>This website is dedicated to the history of the former Ebbw Vale County Grammar School.</p>

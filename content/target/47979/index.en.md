@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Gateway to Employment
-
 There are 10 million people in the UK with a criminal record. Gateway to Employment was established to support people with criminal convictions into the workplace.

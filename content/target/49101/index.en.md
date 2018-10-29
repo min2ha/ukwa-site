@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ofgem: Northern Ireland Renewable Heat Incentive
-
 Ofgem are an agency that administered the Northern Ireland Non-Domestic RHI scheme on DfE’s behalf before it was suspended.

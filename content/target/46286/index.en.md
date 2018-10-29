@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Five big issues for health and social care
-
 King's Fund analysis sets out the post-Brexit priority concerns

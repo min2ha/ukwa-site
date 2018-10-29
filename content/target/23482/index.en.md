@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Giles Watling (@GilesWatling) on Twitter (Conservative Politician)
-
 Giles Watling stood as Conservative candidate for Clacton at the 2015 General Election but was not elected. He stood again in 2017 and was elected as MP.

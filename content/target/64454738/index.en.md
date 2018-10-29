@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Central Council of Church Bell Ringers (CCCBR)
-
 None

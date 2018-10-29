@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South West Yorkshire Partnership NHS Foundation Trust
-
 None

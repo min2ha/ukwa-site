@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Wales Centre for International Affairs (WCIA) Voices : Voicing that matters
-
 The Wales Centre for International Affairs (WCIA) promotes awareness of International Issues and is a key point of contact in Wales for International bodies and Institutions. 

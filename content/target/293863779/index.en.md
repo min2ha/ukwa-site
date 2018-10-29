@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Glo Man - Papur Bro Dyffryn Aman
-

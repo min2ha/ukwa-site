@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Express, The: EU WILL LOSE: Britain heading for ‘fantastic’ future as UK WON'T make Brexit concessions
-
 In an exclusive interview with the Express, Brexit secretary David Davis claimed that the UK was heading for a fantastic future outside of the EU

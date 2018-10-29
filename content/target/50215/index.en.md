@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: implications for policing and criminal justice cooperation
-
 This Commons Library research briefing looks at the implications of Brexit in the field of policing and criminal justice cooperation

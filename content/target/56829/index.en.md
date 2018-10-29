@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Dundee Mountain Film Festival
-
 Site of an annual film festival taking place in Dundee, focusing on film about mountains and mountaineering.

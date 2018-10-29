@@ -10,5 +10,3 @@
   "start_date": "2006-03-02T00:00:00Z"
 }
 
-# HILT : High Level Thesaurus Project
-

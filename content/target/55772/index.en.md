@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# European Union (Withdrawal) Bill
-
 A Bill to repeal the European Communities Act 1972 and make other provision in
 connection with the withdrawal of the United Kingdom from the EU. The first line of the bill says the European Communities Act 1972, which took Britain into the EU, will be "repealed on exit day". This will end the supremacy of EU law and stop the flow of new regulations from Brussels. But all existing laws derived from the EU will continue to be in force - they can be changed or scrapped by further legislation

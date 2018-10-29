@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Kevin Anderson (@KevinClimate) on Twitter
-
 Twitter feed of climate scientist Professor Kevin Anderson.

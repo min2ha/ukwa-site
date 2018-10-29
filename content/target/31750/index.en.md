@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# RGS-IBG Postgraduate Forum
-
 The RGS-IBG Postgraduate Forum represents postgraduates in the Royal Geographical Society (with the Institute of British Geographers). It fosters communications among postgraduates, provides information about events, activities and funding and offers support and opportunities for postgraduates to further develop their professional skills and credentials.

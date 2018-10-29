@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Dr A Imafidon MBE (@aimafidon) on Twitter
-
 Twitter account of Dr Anne-Marie Imafidon MBE, Co-founder and CEO of Stemettes

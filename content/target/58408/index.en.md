@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# CityMetric
-
 CityMetric is an arm of the New Statesman, a British magazine that was in print since 1913.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-16T11:00:00Z"
 }
 
-# Motherlode Theatre
-
 Motherlode Theatre is a theatre company based in Rhondda Cynon Taff and share the unheard stories of Wales by working with communities.

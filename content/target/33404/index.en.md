@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Barbican: Digital Revolution
-
 Page about the touring exhibition 'Digital Revolution', which was displayed in London in 2014.

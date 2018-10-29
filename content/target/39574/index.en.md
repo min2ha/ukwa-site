@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Aled Roberts on Facebook (Liberal Democrats Assembly Member for Clwyd South and North Wales)
-
 Aled Roberts is the Liberal Democrats candidate for Liberal Democrats Assembly Member for Clwyd South and North Wales at the 2016 National Assembly for Wales elections. 

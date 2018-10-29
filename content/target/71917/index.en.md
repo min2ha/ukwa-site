@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Rhondda Docs 
-
 Rhondda Docs is affiliated with Cwm Taf University Health Board and work to enhance general practice and primary care in Rhondda.

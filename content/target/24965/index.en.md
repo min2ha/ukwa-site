@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: How YOU can vote tactically to keep out Red Ed: Constituency by constituency guide to the 50 key seats that will help keep Labour out of Number 10
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blackpool FC Girls and Ladies 
-
 Established in 2004, and has teams ranging from Under 9 through to the Ladies First Team.

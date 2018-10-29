@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gov.UK: Be on the Ball: 2018 FIFA World Cup
-
 Guidance and tips for fans travelling to the 2018 FIFA World Cup in Russia.

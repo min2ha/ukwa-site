@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Moorhaven
-
 The Moorhaven web site (www.moorhaven.org.uk) is a resource for all residents of the village as well as for people associated with the village, including friends and neighbours, past residents, people considering living here and past workers and patients at the Moorhaven Hospital.

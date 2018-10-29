@@ -10,6 +10,4 @@
   "start_date": "2015-11-18T09:00:00Z"
 }
 
-# Bertha DocHouse
-
 Bertha DocHouse, based at Curzon Bloomsbury in London, is a cinema dedicated to documentary films and events. 

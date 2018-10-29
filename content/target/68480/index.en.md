@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# LabourWomensNetwork (@LabourWomensNet) on Twitter
-
 Labour Women's Network trains and supports Labour women for public office. This is their official Twitter account.

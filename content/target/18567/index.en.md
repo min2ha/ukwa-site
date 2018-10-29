@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Jenny Willott (@JennyWillott) on Twitter
-
 Jenny Willott is Liberal Democrat MP for Cardiff Central. 

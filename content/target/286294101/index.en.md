@@ -10,7 +10,5 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Booty Web Site, The: Meteorology and Martin's musings
-
 <p>The Booty Web Site covers issues of the weather and meteorology and includes the Booty<br />
 Meteorological Information Source.</p>

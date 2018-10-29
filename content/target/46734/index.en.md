@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Direct Line Insurance Group plc
-
 Direct Line Insurance Group plc is a United Kingdom insurance company. The company owns a number of insurance subsidiaries providing various insurance products, including Direct Line and Churchill, as well as the roadside assistance and vehicle recovery provider Green Flag.

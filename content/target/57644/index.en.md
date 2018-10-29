@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Ashcroft: Boris Johnson comments could help PM in Brexit talks
-
 Conservative donor Lord Ashcroft said he believed Boris Johnson's Brexit interventions might help Theresa May in her negotiations with the EU. The former deputy chairman said the PM could tell Brussels: "This is the type of difficulty I have in bringing people into line."

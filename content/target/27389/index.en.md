@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# Breaking Barriers Community Arts
-
 Breaking Barriers Community Arts is based in Abertillery was formed in late 2007 and is a community focused social enterprise, using the arts (in particular digital storytelling) to transform and regenerate communities particularly in the south Wales area. 

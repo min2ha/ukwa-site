@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# City of Bradford Metropolitan District Council: Tour de France
-
 Tour de France web page for City of Bradford District Council

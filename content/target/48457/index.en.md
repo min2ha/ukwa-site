@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# Sanday Community Website
-
 Community website for the island of Sanday, Orkney, providing information on amenities, and businesses and heritage for locals and visitors, attractions and incorporating the Community Council, Community Development Trust and Community Association.

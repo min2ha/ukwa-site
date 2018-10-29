@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hands Off Corbyn (@HandsOffCorbyn) on Twitter
-
 Campaign against the vicious media attacks on Jeremy Corbyn, the democratically elected leader of the Labour Party established in August 2015.

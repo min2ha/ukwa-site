@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T11:00:00Z"
 }
 
-# Friends of William Soutar Society
-
 Site of a group promoting the life and literary legacy of William Soutar, poet in the Scots language.

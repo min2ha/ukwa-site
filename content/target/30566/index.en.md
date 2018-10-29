@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Royal Veterinary College (RVC)
-
 Official website of the Royal Veterinary College.

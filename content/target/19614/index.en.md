@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Buckingham Liberal Democrats
-
 Website of Buckingham Liberal Democrats, providing information on representatives and candidates, local party officers, local and national news updates and how to get involved.

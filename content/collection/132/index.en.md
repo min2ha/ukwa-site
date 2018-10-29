@@ -124,6 +124,4 @@
   "endDateText": ""
 }
 
-# History of the Book
-
 A collection focused on the history of book printing and publishing.

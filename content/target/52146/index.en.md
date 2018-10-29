@@ -10,6 +10,4 @@
   "start_date": "2017-04-20T09:00:00Z"
 }
 
-# Waterspings [Caernarfon]
-
 Waterspings is a Christian community based in Caernarfon.

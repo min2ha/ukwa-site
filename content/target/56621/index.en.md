@@ -10,5 +10,3 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Royal Welsh College of Music and Drama (RWCMD) Students' Union
-

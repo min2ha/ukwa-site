@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hertfordshire is Ready for Winners SportsAid
-

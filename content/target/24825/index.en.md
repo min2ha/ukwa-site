@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Caroline Lucas  on Facebook Green Party Candidate for Brighton Pavilion
-
 None

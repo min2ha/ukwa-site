@@ -10,6 +10,4 @@
   "start_date": "2016-01-22T09:00:00Z"
 }
 
-# Arthouse Crouch End
-
 The Arthouse is a cultural venue in North London collaborating with actors, writers, directors, filmmakers and investors. They present films, fine art, live music, discussion groups, theatre, live streaming, workshops, dance, comedy and other forms of art.

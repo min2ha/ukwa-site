@@ -10,6 +10,4 @@
   "start_date": "2016-01-07T09:00:00Z"
 }
 
-# Political Economies of International Commerce (PEIC) 
-
 The Centre for the Political Economies of International Commerce (PEIC) analyses the political features of international trade from the early modern period to the present day.

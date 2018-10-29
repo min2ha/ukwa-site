@@ -10,5 +10,3 @@
   "start_date": "2017-07-13T09:00:00Z"
 }
 
-# Tiger and Thistle
-

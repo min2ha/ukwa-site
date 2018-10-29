@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Varsity: "Students quit social media for mental health campaign"
-
 Varsity magasine article about mental health and social media campaign

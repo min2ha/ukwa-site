@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Waddell (@JohnForMSP) on Twitter
-
 Twitter profile of John Waddell, the Scottish Liberal Democrat candidate for Aberdeen South and North Kincardine in the 2016 Scottish Parliamentary election.

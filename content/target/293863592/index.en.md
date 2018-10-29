@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# National Care Standards
-
 Scotland's National Care Standards.

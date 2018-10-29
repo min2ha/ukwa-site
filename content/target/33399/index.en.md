@@ -11,5 +11,3 @@
   "subject": "IT Collection"
 }
 
-# Department of Computer Science, The University of Sheffield: Ethical Codes for Computer Professionals
-

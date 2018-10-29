@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# NLW Archivist (@NLWArchives) on Twitter 
-
 This is the twitter feed for Archives and Manuscripts at the National Library of Wales.

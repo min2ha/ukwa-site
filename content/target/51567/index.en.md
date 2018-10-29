@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Trimbling | Poetry and Shouting
-
 This is the site for Rhys Trimble, a Bilingual poet / performer based in Bethesda, North Wales and originally from Pontneddfechan.

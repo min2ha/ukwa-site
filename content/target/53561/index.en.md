@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Newcastle Upon Tyne Green Party 
-
 Green Party candidates Alison Whalley and Peter Thomson mark launch of the Green Guarantee

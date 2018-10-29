@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Tees Hospitals
-
 None

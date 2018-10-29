@@ -10,6 +10,4 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# Liverpool Tree Care
-
 Liverpool Tree Care specialise in tree preservation order and conservation area work. 

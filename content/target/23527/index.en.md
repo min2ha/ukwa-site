@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cornelius Olivier (@CornyOlivier) on Twitter (Labour candidate for St Ives)  
-

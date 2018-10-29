@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# John Pilger 
-
 The official John Pilger website.

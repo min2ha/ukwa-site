@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Experience Wales in Venice 2015
-
 Helen Sear was the first female artist to be selected for a solo exhibition for Cymru yn Fenis/Wales in Venice. This is the website for the 2015 Wales in Venice Exhibtion, first established in 2003.

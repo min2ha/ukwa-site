@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# David Cameron says friendship with Boris Johnson damaged by Brexit
-
 Guardian, The

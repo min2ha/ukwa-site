@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Legal Cheek: Criminal Bar Association makes awkward U-turn over Global Legal Summit
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon calls on Labour to work with SNP to keep Tories from No 10
-
 None

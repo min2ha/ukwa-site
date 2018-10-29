@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Workers' Weekly: The Debate on the EU Referendum Must Not Be Framed in a Chauvinist Manner
-
 Commentary in the Revolutionary Communist Party of Britain's newspaper

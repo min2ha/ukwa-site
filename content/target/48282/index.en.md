@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# TalentScotland
-
 Information about living and working in Scotland provided by the economic development agency Scottish Enterprise.

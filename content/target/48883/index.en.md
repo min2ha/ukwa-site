@@ -10,6 +10,4 @@
   "start_date": "2017-01-31T09:00:00Z"
 }
 
-# Modern Apprenticeships
-
 Scheme intended to develop young workers through apprenticeships, run by Skills Development Scotland (SDS), Scotland’s national skills body

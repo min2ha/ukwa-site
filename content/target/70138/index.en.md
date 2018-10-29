@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Joseph's Broomhouse
-
 Site of a Scottish Roman Catholic parish church in Broomhouse, Edinburgh.

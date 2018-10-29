@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Bank of England:  Financial Stability Report, November 2017
-
 Informed by the stress test and its risk analysis, the Bank of England judges that the banking system can continue to support the real economy even in the unlikely event of a disorderly Brexit. At the same time, it has identified a series of actions that public authorities and private financial institutions need to take to mitigate some major cross cutting financial risks associated with leaving
 the EU. 

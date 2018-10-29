@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Socialist Appeal
-
 Socialist Appeal is a Marxist organisation which stands for the socialist transformation of society. We are fighting to transform the Labour Party and trade unions into real weapons against capitalism.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# New Local Government Network (NLGN)
-
 The NLGN is a think tank, founded in 1996, which promotes decentralisation and the empowerment of communities through active participation in local government and decision-making. Their website provides access to their publications and details of their research, networks and events.

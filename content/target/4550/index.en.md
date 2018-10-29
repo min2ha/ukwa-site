@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Chatham House: Mandela's legacy
-
 <p>Alex Vines, Head of Africa Programme at Chatham House, writes on Mandela's political achievements following his release from prison in 1990, and legacy for South Africa's position in world affairs.</p>

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Enchanted Forest
-
 Site of an annual sound and light event located in Faskally Wood in Perthshire.

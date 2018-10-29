@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# LdnFeministFilmFest (@LdnFemFilmFest) on Twitter
-
 Celebrating international feminist film both past and present.

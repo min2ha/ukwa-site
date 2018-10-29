@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Friends of Tamworth Castle and Museum
-
 The Friends of Tamworth Castle and Museum is an organisation with charitable status, set up in 1967 with the aim of helping to promote, support and assist the improvement of Tamworth Castle, in co-operation with with the Castle’s management and staff.

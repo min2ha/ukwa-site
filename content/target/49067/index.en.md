@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Masjid-e-Umar, Cardiff
-
 Masjid-e-Umar (Islamic Centre) is located in Cardiff and is the first Mosque in Wales to be established by people from the Asian sub-continent. It was formally known as Islami Darasgah and was established in 1976. 

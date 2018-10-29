@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Waterstone: International Women's Day, 100 books for 100 years
-
 For International Women's Day, Waterstones celebrate 100 years of women’s right to vote in Britain, by bringing together a selection of 100 books which represent the wealth and diversity of women’s writing throughout history. Historians, novelists, thinkers, activists, campaigners, scientists and politicians; pioneering women of the past, inspirational voices of the future.

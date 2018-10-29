@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Berwick Rangers Football Club
-
 Site of a senior English association football club based in Berwick-upon-Tweed in Northumberland, England, but connected with the Scottish Football leagues and association.

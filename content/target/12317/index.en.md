@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# WomenForIndependence (WomenForIndy) on Twitter
-
 <p>The twitter profile of Women for Independence.</p>

@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# VE Day 70th anniversary
-
 Friday 8 May 2015 is the anniversary of VE Day (Victory in Europe Day), marking 70 years since the end of the Second World War in Europe

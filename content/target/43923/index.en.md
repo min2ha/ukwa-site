@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: A vote to leave the European Union wasn’t a vote to repatriate immigrants 
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Keep The Ban
-
 Keep The Ban Campaign is anti hunting and is an anti blood sport advocacy organisation. It was founded to keep The Hunting Act 2004.

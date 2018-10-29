@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Daily Mail Online: Sir Chris Hoy tips Scottish pair Callum Skinner and Katie Archibald to become Olympic champions at Rio 2016
-

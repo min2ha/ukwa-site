@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Canolfan Dreftadaeth Clydach | Clydach Heritage Centre
-

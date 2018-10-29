@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Loraine Birchall (@lorainebirchall) on Twitter (Liberal Democrats  Politician)
-
 Loraine Birchall stood as Liberal Democrats candidate for Barrow in the 2017 General Election but was not elected.

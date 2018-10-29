@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jack Jardine (@Jackistani4doge) on Twitter
-
 Twitter profile of Jack Jardine, the United Kingdom Independence Party (UKIP) list candidate for Mid Scotland and Fife region in the 2016 Scottish Parliamentary election.

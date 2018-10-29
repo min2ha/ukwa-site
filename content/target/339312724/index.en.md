@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish War, The 
-
 This site contains articles, photos, and reminiscences of the Easter Rising 1916 as well as information on medals, militaria, and uniforms of the period.

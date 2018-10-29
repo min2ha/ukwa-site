@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Treftadaeth Dyffryn Conwy | Conwy Valley Civic Society
-

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# CRH plc
-
 CRH plc is the parent company for an international group of diversified building materials businesses, these businesses are engaged in the manufacture and supply of a wide range of building materials and in the operation of builders’ merchanting and DIY stores. The company is incorporated and domiciled in Ireland where it ranks as the largest Irish company.

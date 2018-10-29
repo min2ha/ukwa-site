@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Matthew Norman: David Cameron may have won the election, but it's for wrecking the Union that he'll be remembered
-
 None

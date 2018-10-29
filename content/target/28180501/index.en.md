@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# SPILL Festival
-
 An international festival of live art, activism and performance presenting the work of artists from around the globe.

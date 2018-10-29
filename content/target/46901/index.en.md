@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Yorkshire Party: EU Referendum Result: Time for Yorkshire to Take Control
-
 Yorkshire First's comment on the EU Referendum.

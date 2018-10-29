@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Women's Aid: “Home isn’t always a place of safety”: The Femicide Census Report 2016 is published
-
 Women's Aid Article on the publication of the Femicide Census Report 2016, with summaries of the report's findings. 

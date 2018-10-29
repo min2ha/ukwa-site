@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit could trigger worse crash than 2008, says Vince Cable
-

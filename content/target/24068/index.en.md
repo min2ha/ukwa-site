@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UK election 'earthquake' jolts global media
-
 None

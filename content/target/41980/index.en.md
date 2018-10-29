@@ -10,6 +10,4 @@
   "start_date": "2016-05-30T10:00:00Z"
 }
 
-# Kirkcaldy YMCA
-
 Site of a local branch of the YMCA located in Kirkcaldy Fife.

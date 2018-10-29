@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harrogate and District NHS Foundation Trust 
-
 None

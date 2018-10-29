@@ -10,5 +10,3 @@
   "start_date": "2013-10-14T09:00:00Z"
 }
 
-# ChessProblem.net
-

@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Harris Tweed Authority
-
 Site of the governing authority overseeing promotion, production and authentication of Harris Tweed wool products sourced, made and finished in the Outer Hebrides.

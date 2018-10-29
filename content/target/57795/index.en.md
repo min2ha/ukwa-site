@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Ponteland High’s involvement with Heritage Lottery Fund Project
-
 In order to explore issues relevant to the school’s Heritage Lottery Fund Project, ‘Poppies, Ponteland and Passchendaele: local memories and archives of families of those who served’, students from Ponteland High School became involved in the Wor Life Secondary Project , which was ran by Tyne & Wear Archives & Museums’ to commemorate the centenary of the First World War.

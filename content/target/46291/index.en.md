@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Junior Football Association 
-
 Site of the governing body of Scottish Junior football, affiliated to the Scottish Football Association.

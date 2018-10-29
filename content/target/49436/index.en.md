@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Centre of Expertise for Waters (CREW)
-
 CREW is a Scottish Government funded partnership between the James Hutton Institute and Scottish Universities, supported by MASTS.

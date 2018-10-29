@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Chopin Online
-
 Chopin Online comprises three major resources dedicated to the music of Fryderyk Chopin and developed over two decades by John Rink, Christophe Grabowski and other experts working in collaboration with leading libraries and private collectors from around the world.

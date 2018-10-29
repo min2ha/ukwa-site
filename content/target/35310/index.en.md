@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sion Simon (Labour MEP for the West Midlands)
-
  Siôn Simon stood as a Labour candidate for the West Midlands at the 2014 European Parliament election and was elected to serve as an MEP.  He was previously MP for Birmingham Erdington, 2001-10 

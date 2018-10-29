@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Scenic Wales by Train & Traws Cambria | Cymru Golygfaol ar Dren a TrawsCambria
-
 Scenic Wales is a Community Rail Partnerships of Wales initiative and encourages tourism across by Train & Traws Cambria.

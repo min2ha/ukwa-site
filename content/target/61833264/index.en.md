@@ -10,6 +10,4 @@
   "start_date": "2012-10-05T00:00:00Z"
 }
 
-# Prifysgol Aberystwyth - Aberystwyth University
-
 Prifysgol

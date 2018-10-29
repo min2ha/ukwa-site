@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ayr United Football Club
-
 Site of a senior Scottish football club based in Ayr, South Ayrshire.

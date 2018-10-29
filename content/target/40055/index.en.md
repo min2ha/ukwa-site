@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# QE2 : The Cunard Liner Queen Elizabeth 2
-
 An independent website about the history of the Cunard liner Queen Elizabeth 2, built in Clybebank, Scotland.

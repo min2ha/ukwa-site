@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Greens leader suffers 'mind blank' during manifesto launch interview
-
 None

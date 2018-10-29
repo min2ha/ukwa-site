@@ -10,6 +10,4 @@
   "start_date": "2016-04-18T10:00:00Z"
 }
 
-# Association of Scottish Genealogists and Researchers in Archives
-
 Site for genealogists and archive research professionals based in Scotland, and whose expertise is focused on Scotland.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Byrne Baby Byrne
-
 None

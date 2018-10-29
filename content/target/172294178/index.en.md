@@ -10,6 +10,4 @@
   "start_date": "2015-05-06T09:00:00Z"
 }
 
-# XCRI Knowledge Base
-
 Repository for in-depth information about the UK eProspectus Standard eXchanging Course Related Information, Course Advertising Profile.  Originally funded by the JISC.

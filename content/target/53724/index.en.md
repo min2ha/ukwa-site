@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Votes For 16+ (@VotesAt6Teen) on Twitter
-
 They campaign for 16 and 17 year old votes. 

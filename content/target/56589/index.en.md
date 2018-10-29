@@ -10,6 +10,4 @@
   "start_date": "2017-08-15T09:00:00Z"
 }
 
-# Mears Group
-
 Mears Group is a housing and social care provider. It repairs and maintain over 700,000 social homes across the UK. 

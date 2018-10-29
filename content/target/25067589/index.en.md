@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# New Black Magazine, The
-
 None

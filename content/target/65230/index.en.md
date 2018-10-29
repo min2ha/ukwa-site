@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Repair Acts
-
 Repair Acts is an international and multidisciplinary network of artists, scholars, designers, engineers, social, economic and political scientists, policy makers, educators, environmental organisations and enterprises who work on the topic of repair cultures.

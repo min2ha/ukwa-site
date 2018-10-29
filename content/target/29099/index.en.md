@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UKIP West Midlands region
-
 Website of UKIP West Midlands, providing information on branches, events, how to get involved and local, national and party news and opinion.

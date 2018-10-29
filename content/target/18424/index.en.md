@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband ignores the SNP in warning to anti-Tory Scots
-
 None

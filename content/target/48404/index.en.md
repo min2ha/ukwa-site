@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bermuda Tourism  
-
 Bermuda tourist information with news and events listings for residents.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mad Mike Young (@Mad_Mike_Young) on Twitter (Official Monster Raving Looney Party candidate for Sittingbourne and Sheppey)
-

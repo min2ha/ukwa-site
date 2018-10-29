@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's manifesto monolith 'is a Kinnock moment'
-
 None

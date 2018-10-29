@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Politics.co.uk: Archive: General Election 2017
-
 General Election 2017 articles.

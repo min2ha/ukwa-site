@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Shadow Gallery, The
-
 None

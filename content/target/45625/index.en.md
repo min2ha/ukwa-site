@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# YouGov: 'Canada Option' is most popular type of Brexit deal
-
 A limited free trade deal with the EU without any financial contribution or freedom of movement is people's preferred choice for Brexit.

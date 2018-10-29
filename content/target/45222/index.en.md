@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Restricting immigration will be at heart of Brexit deal, Theresa May says
-

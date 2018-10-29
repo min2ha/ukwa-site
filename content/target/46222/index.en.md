@@ -10,6 +10,4 @@
   "start_date": "2016-10-14T10:00:00Z"
 }
 
-# Cymru a'r Chwyldro Ffrengig | Wales and the French Revolution
-
 This was a research project, funded by the AHRC and the University of Wales and managed by the University of Wales Centre for Advanced Welsh and Celtic Studies. The project, Wales and the French Revolution, explores the effects of a period of extraordinary upheaval on Welsh life and letters.

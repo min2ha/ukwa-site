@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Pilton Community Health Project
-
 Site of a community health programme in the Pilton area of North Edinburgh, which challenges health issues as they are affected by everyday social experiences.

@@ -10,6 +10,4 @@
   "start_date": "2018-09-20T09:00:00Z"
 }
 
-# Acoustic Tuesday, Cardiff 
-
 Acoustic Tuesday was established in 2007 by a core of musicians and singers and is held at South Riverside Community Development Centre. Music ranges from Welsh Bardic through folk, jazz, chamber, cabaret and world music. 

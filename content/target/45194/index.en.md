@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit 'will put 75% of workers at risk of pension shortfall'
-

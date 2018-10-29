@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Robertson Trust, The
-
 Site of a charitable traust aiming to improve the quality of life and realise the potential of people and communities in Scotland.

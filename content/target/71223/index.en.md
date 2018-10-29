@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Urban Moves
-
 Website for Urban Moves Dance Festival. 

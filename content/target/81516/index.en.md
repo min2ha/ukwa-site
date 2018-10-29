@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Sports Media LGBT+
-
 Sports Media LGBT+ was launched in November 2017, so we’re still relatively new. We’re actively encouraging anyone who’s working in or involved with sports media and is LGBT+ to connect with us.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T12:00:00Z"
 }
 
-# Borth Community
-
 Local community site run by Borth Community Council in Ceredigion.

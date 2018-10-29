@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Brexiteers’ trade fantasies are crashing down around their ears
-

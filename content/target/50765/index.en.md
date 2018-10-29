@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Carnesky Productions 
-
 Founded by Creative Director, Marisa Carnesky in 2004, Carnesky Productions is a theatre company responsible for producing large and small scale interactive performance works.

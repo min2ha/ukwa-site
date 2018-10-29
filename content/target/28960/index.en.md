@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cambourne Redruth and Hayle Liberal Democrats
-
 Website of Liberal Democrats in Cambourne Redruth and Hayle, providing information on the parliamentary candidate, campaigns and local issues.

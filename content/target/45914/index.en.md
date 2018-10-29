@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Tapsalteerie
-
 Site of a Scottish poetry pamphlet publisher based in Aberdeenshire.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Bedwellty and New Tredegar
-
 The Parish of Bedwellty and New Tredegar is part of Church of Wales and covers the Anglican community in the Upper Rhymney and Sirhowy Valleys.

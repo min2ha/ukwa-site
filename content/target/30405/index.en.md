@@ -10,5 +10,3 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Canolfan Mileniwm Cymru | Wales Millennium Centre
-

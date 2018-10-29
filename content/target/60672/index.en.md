@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Susie Koren: Artist and Interior Designer
-
 Interior Designer and Contemporary Artist that exhibits internationally and selected for RA Summer Exhibition.  Member of the group Viewseven.

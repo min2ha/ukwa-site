@@ -10,5 +10,3 @@
   "start_date": "2015-09-29T00:00:00Z"
 }
 
-# Hilary Tann
-

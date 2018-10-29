@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Dalkeith History Society
-
 Site of a local history society based in Dalkeith, Midlothian, Scotland

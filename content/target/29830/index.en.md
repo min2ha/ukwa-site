@@ -10,5 +10,3 @@
   "start_date": "2015-08-18T10:00:00Z"
 }
 
-# Scottish Independence | New Scottish Independence Party SIP website vanishes
-

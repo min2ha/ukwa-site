@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Huffington Post: European Elections
-
 None

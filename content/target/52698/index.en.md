@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gordon Burtwistle (@GBirtwistle) on Twitter (Liberal Democrats Politician)
-
 Gordon Burtwistle stood as Liberal Democrat candidate for Burnley at the 2017 General Election but was not elected. He was first elected to serve as the MP for Burnley in 2010 and re-elected in 2015.

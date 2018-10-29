@@ -10,6 +10,4 @@
   "start_date": "2018-02-03T09:00:00Z"
 }
 
-# English Institure of Sport (EIS)
-
  At the EIS we think of ourselves as the team behind the team, delivering a range of performance-impacting solutions to Olympic and Paralympic sports along with a select number of non-Olympic sports through a nationwide network of expertise and facilities. The EIS strives to be the world’s leading institute of high performance sport.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour admits: We underestimated Ukip in the election, they stole our votes
-
 None

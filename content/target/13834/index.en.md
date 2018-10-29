@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# CeltsforUK (CeltsforUK) on Twitter
-

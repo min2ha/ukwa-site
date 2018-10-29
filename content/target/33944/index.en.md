@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# AstraZeneca plc
-
 AstraZeneca plc is an English–Swedish multinational pharmaceutical and biopharmaceutical company, with a portfolio of products for major disease areas including cancer, cardiovascular, gastrointestinal, infection, neuroscience, respiratory and inflammation.

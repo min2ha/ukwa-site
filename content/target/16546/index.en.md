@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green surge could hit Labour in 22 election battlegrounds, new study finds
-
 None

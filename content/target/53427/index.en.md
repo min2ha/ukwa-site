@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hillingdon Green Party (@HillingdonGreen) on Twitter
-
 Twitter account of local Hillingdon Green Party, covering its 2017 general election campaign

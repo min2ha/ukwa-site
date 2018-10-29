@@ -10,6 +10,4 @@
   "start_date": "2016-04-25T10:00:00Z"
 }
 
-# Shetland For Wirds
-
 Site of an organisation aiming to foster and promote the use of written and spoken Shetland dialect by encouraging the recording, publishing and broadcasting of the Shetland dialect, the development of Shetland dialect as a valid element of education at all levels, the acceptance of Shetland dialect among the whole Shetland community.

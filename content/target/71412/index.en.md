@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Oxton Parkonians RUFC
-
 The official website of Old Parkonians Association. Old Parkonians Rugby Club was formed by old boys of Birkenhead Park High School in 1928 and became an Association in 1931, moving to Holm Lane in 1948.

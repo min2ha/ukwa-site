@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# This is Hull and East Riding
-
 None

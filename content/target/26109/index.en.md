@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour’s Lord Noon criticises Miliband and Balls for embarrassing gaffes
-
 None

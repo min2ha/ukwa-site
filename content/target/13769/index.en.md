@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Marketing is Simple Stupid
-
 None

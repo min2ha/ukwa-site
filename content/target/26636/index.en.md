@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Mhairi Black: the 20-year-old who beat a Labour heavyweight
-
 None

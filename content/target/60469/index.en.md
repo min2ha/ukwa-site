@@ -10,6 +10,4 @@
   "start_date": "2018-01-20T09:00:00Z"
 }
 
-# Open Data Institute (ODI) Cardiff
-
 Open Data Institute (ODI) Cardiff is the community node serving Wales. Their aim is to help nurture and grow the open data community in Wales. They are managed by Satori Lab, Cardiff. 

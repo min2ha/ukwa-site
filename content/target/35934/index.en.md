@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# paulhalliday (@paulhalliday) on Twitter (Liberal Democrats candidate for Newport East)
-
 Paul Halliday is the Liberal Democrat candidate for Newport West at the 2016 National Assembly for Wales elections. 

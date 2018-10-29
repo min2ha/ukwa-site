@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Hastings Old Town Residents' Association
-
 HOTRA exists to uphold and promote the interests of residents, businesses and those who work and play in Hastings Old Town. 

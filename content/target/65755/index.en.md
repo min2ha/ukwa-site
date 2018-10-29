@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Shin-Etsu Handotai Europe Limited
-
 Shin-Etsu Handotai Europe Limited manufactures and sells electronic components and silicon wafer used in semiconductors and other electronic devices. The company operates as a subsidiary of Shin-Etsu Chemical Company Limited.

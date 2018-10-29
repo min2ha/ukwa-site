@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# OpenDemocracy: Mandela, icon
-
 <p>Blog posting by Elleke Boehmer, Professor of world literature in English, Oxford University. Professor Boehmer describes the use of the word "icon" in the context of Nelson Mandela, and its potential to obscure understanding.</p>

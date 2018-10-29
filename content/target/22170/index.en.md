@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mike Parker – Candidate for Ceredigion | Mike Parker – Ymgeisydd AS Plaid Cymru, dros Geredigion
-

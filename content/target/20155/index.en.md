@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# UKIPDwyforMeirionnydd on Facebook
-
 The facebook page of Christopher Gillibrand, UKIP PPC for Dwyfor Meirionnydd.

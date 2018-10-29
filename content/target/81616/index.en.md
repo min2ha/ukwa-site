@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Rights for Women | Senate House Library
-
 The Rights for Women season at Senate House Library

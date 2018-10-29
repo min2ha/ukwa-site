@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Royal Academy of Music
-
 Official website of the Royal Academy of Music.

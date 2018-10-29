@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Made Visual Studio (MV Studio)
-
 Made Visual Studio was founded in 2006 in East London. 

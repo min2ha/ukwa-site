@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Grahame Birchall on Facebook (Party for a United Thanet candidate for South Thanet)
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Allen (@plaidcymruchris) on Twitter 
-
 Chris Allen is the Parliamentary candidate for Clwyd South at the 2017 General Election.

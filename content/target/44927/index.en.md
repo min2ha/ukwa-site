@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Llais y Maes
-
 Llais y Maes is the National Eisteddfod's first ever digital newspaper. It is a partnership between Cardiff University’s Centre for Community Journalismand the National Eisteddfod of Wales and run by an editorial team of seven Cardiff University students.

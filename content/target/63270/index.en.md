@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Ysgol Gyfun Gwent Is Coed
-
 Ysgol Gyfun Gwent Is Coed, Newport Welsh School

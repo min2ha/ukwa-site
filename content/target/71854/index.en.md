@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Labour shouldn’t back a vote on Brexit – it would play into the hands of the far right
-
 The author argues against Labour backing a second referendum. Brexit will not bring the benefits promised by Leavers, and the Left will have a golden opportunity to take power and heal social divisions.

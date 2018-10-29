@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T10:54:00Z"
 }
 
-# Arts Development UK
-
 Arts Development UK is a professional association for those working in the creative industries sector in England and Wales. 

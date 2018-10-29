@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: A possible second election this year would expose Labour's funding gap with Tories
-
 None

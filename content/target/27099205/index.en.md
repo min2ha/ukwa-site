@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# Mount Everest the British Story
-
 None

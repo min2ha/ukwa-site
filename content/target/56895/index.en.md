@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aberdeenshire & District Football Association
-
 Site of a governing body for association football in Aberdeenshire, who organise and run league and cup competitions in the area.

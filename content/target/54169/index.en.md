@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jewel Miah (@jewelmiah) on Twitter (Labour  Politician)
-
 Jewel Miah stood as Labour Party candidate for Loughborough in the 2017 General Election but was not elected.

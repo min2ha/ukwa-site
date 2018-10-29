@@ -10,5 +10,3 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Denbigh High School | Ysgol Uwchradd Dinbych
-

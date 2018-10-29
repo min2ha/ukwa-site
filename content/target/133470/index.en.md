@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Skills for Health
-
 Skills for Health ia a provider of workforce solutions designed to improve healthcare, raise quality and improve productivity and financial performance in the UK health sector.

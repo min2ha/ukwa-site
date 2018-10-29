@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# I, Daniel Blake and The Power of Working-Class Story Telling.
-

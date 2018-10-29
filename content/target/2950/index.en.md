@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Scottish Association of Farmers Markets
-
 <p>Website detailing Scottish Farmer's Markets with information for producers and consumers.</p>

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Electoral Commission: EU referendum question assessment
-

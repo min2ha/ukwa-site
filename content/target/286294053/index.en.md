@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Dr Richard Bogle Consultant Cardiologist
-
 <p>Dr Richard Bogle is a Consultant Cardiologist based in London and Surrey. He specialises in the assessment and treatment of patients with all types of heart and vascular disease.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Boost for Tories' hopes as women pick party as most likely winner
-
 None

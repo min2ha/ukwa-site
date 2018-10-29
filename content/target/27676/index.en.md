@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Miliband lost because 3million 'lazy' Labour supporters didn't bother to vote, says pollster IpsosMORI
-
 None

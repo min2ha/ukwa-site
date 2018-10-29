@@ -10,5 +10,3 @@
   "start_date": "2015-06-29T10:00:00Z"
 }
 
-# Young Reporters for the Environment (YRES) on Twitter
-

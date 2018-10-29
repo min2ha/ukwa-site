@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# British Asian Woman
-
 British Asian Woman raises issues of identity, relationships, parenting, women’s issues, the news and current affairs from a British Asian perspective.

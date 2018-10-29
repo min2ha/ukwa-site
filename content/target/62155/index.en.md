@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tranmere Rovers Football Club
-
 Official website of Tranmere Rovers Football Club. They are an English football club that play at Prenton Park.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Central: Queen could head flotilla on Thames for 800th anniversary of Magna Carta
-

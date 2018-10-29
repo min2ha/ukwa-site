@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lorne and Lowland Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Campbeltown, Argyll & Bute.

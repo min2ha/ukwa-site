@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Intergenerational Foundation: Youth Manifesto 2015
-

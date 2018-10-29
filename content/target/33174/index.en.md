@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# Cardiff Migrant Solidarity (CMS Wales)
-
 Cardiff Migrant Solidarity (CMS Wales) aim is to support migrants, refugees and asylum seekers, and fight against racism and repression in south Wales.

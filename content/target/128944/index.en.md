@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Institute of Grocery Distribution (IGD)
-
 None

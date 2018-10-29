@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of Psychiatrists
-
 The Royal College of Psychiatrists is the professional medical body responsible for supporting psychiatrists throughout their careers, from training through to retirement, and in setting and raising standards of psychiatry in the United Kingdom.

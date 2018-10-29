@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC  News ; David Miliband criticises brother's election approach
-
 None

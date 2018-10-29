@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# TEDS (Treatment and Education Services)
-
 TEDS (Treatment and Education Services) is a voluntary agency offering free and confidential services to users of drugs or alcohol throughout the Rhondda Cynon Taff. 

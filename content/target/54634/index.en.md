@@ -10,5 +10,3 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Tim Achub Mynydd Aberglaslyn | Aberglaslyn Mountain Rescue Team
-

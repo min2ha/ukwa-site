@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kelvin Labour Party (@KelvinLabour) on Twitter
-
 Twitter profile of the Glasgow Kelvin branch of Scottish Labour.

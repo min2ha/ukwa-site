@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Underground Magazine
-
 <p>Satire, especially of news. London-based.</p>

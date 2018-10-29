@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Gloucestershire CCG
-
 None

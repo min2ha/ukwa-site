@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Spring Fling
-
 Site of an annual art and craft open studios event covering the length and breadth of Dumfries and Galloway in South West Scotland.

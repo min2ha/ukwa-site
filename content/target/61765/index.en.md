@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Derry City FC (@derrycityfc)
-
 The official twitter account of Derry City FC.

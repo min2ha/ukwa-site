@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Reading News Caversham RG4
-

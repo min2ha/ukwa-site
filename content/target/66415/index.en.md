@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# The Centre for Cross Border Studies
-
 The Centre for Cross Border Studies (CCBS) is a think tank based in Ireland.

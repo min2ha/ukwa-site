@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Time Out London: Comedy in London
-
 The Comedy section of Time Out London with guides, listings and interviews relating to comedy shows in London.

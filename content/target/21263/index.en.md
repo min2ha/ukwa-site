@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Carrie for Wrecsam on Facebook
-
 Plaid Cymru candidate for Wrexham.

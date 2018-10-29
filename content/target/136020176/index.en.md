@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Liverpool LINk
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Callander Kirk
-
 Site of a Church of Scotland parish church at Callander, Stirlingshire.

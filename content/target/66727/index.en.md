@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-#  Fawcett Society, The (@fawcettsociety) on twitter
-
 Twitter account of The Fawcett Society, a UK charity campaigning for gender equality and women's rights. 

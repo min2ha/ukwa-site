@@ -10,5 +10,3 @@
   "start_date": "2016-06-17T11:00:00Z"
 }
 
-# Rhostyllen : A history through Pictures
-

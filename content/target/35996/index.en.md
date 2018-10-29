@@ -10,6 +10,4 @@
   "start_date": "2016-02-25T09:00:00Z"
 }
 
-# Cochrane Library
-
 The Cochrane Library is a collection of six databases that contain different types of independent evidence to inform healthcare decision-making, and a seventh database that provides information about Cochrane groups.

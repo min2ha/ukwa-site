@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Postcard Pages
-
 Information on Postcard Collecting 

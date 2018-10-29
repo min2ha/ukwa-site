@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Caroline Welsh For Glasgow on Facebook
-
 Caroline Welsh is a MSP candidate on the SNP Glasgow Regional List in the 2016 Scottish Parliamentary election.

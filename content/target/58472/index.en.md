@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Lovat Shinty Club
-
 Site of a shinty club based at Kiltarlity Highland.

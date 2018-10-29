@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Elim Pentecostal Church Arbroath
-
 Site of an Elim Pentecostal church (Christian) located in Arbroath, Angus.

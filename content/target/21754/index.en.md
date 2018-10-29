@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Will the Tories get a post-budget poll boost? – video analysis
-
 None

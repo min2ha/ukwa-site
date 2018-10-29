@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Nons Retreat Centre, Pembrokeshire 
-
 The birthplace of Saint David, St Non's Chapel was built in 1934 on the site of the original house where Non had lived. The Chapel and its accompanying Holy Well were built in dedication to Saint Non, and have since become popular destinations for pilgrimages. 

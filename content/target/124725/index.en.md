@@ -10,6 +10,4 @@
   "start_date": "2006-08-21T00:00:00Z"
 }
 
-# New Approaches to Cancer
-
 New Approaches to Cancer is an organisation that was started by a group of four colleagues, two doctors and two healers back in 1969. 

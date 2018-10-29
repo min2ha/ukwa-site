@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lions on her Shirt (@Lionsonhershirt) on Twitter
-
 A Twitter account about women's football in England with a focus on the national team. 

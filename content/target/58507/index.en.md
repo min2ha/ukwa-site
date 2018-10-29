@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Bennett Arron, Jewelsh Comedian
-
 Bennett Arron is a Jewish and Welsh writer and stand-up comedian from Port Talbot.

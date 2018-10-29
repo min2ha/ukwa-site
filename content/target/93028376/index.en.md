@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Centre for Computing History
-
 The Centre for Computing History is an educational charity. More than just a museum, it hosts hands-on exhibitions, workshops and a wide range of events. 

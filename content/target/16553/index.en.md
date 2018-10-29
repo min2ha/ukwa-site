@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Photoshop nightmare: Tory poster takes aim at SNP and Labour
-
 None

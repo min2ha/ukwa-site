@@ -10,7 +10,5 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# NHS Wales Shared Services Partnership Workforce, Education and Development Services
-
 The Purpose of this Framework is to provide a governance mechanism to inform the skills and career development of the clinical Healthcare Support Worker (HCSW) workforce in NHS Wales.
  

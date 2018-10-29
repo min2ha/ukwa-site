@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sam Watts (UKIP Politician)
-
 Sam Watts stood asK Independence Party (UKIP) candidate for Corby 2017 General Election but was not elected. 

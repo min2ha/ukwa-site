@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hash tag Meltham (@hashtagmeltham) on Twitter
-
 A Twitter account dedicated to all #Meltham tweets.

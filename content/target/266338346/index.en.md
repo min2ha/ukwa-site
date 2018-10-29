@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# Vision 21 (Cyfle Cymru)
-
 Vision 21 (Cyfle Cymru) is a Cardiff based organisation and provides vocational training and employment routes for people with learning needs.

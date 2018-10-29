@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bureau for Investigative Journalism
-
 <p>The Bureau of Investigative Journalism is an independent not-for-profit organisation established in April 2010. They pursue research, investigations, reporting and analysis which is of public benefit by undertaking in depth research into the governance of public, private and third sector organisations and their influence.</p>

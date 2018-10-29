@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Glastonbury Festival: Michael Eavis: Why you should vote to remain in
-
 Article on the website of the Gastonbury Festival 2016 by the festival organiser presenting an argument for remaining in the EU.

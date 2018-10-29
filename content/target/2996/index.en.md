@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Comunn Gàidhealach, An - Royal National Mod
-
 An Comunn Gàidhealach was founded in Oban in 1891. It has supported the teaching, learning and use of the Gaelic language and the study and cultivation of Gaelic literature, history, music and art for over 100 years. 

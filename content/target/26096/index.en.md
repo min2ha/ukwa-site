@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Dundee West: where Labour voters seem to be very thin on the ground
-
 None

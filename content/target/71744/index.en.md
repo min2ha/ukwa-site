@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Anne's Scottish Episcopal and Methodist Church, Dunbar
-
 Site of an ecumenical Christian church and its congregation, belonging to both the Scottish Episcopal and Methodist denominations, and located in Dunbar, East Lothian.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron upsets Brexit camp with instructions not to 'undermine' renegotiation
-

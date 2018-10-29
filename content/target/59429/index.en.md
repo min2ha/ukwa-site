@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# LEAP Sports Scotland
-
 Site of an organisation working for greater inclusion for LGBTI people in sport and against homophobia, biphobia and transphobia in a sports context.

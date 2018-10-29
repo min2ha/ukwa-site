@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Institute for Jewish Policy Research
-
 The Institute for Jewish Policy Research (JPR), founded as the Institute of Jewish Affairs, is a London-based research institute and think tank. It specializes in contemporary Jewish affairs, with a particular focus on Jews in Britain and across Europe.

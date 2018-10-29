@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# All Bills Included
-
 A webcomic following the story of a group of twenty-somethings who, unable to afford to rent in London, end up renting a flat in Hell.

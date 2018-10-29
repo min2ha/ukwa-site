@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Labour rebels to receive formal written warning
-
 Labour frontbenchers who defied Jeremy Corbyn in the Commons Brexit ote on February 8th were to be sent a formal written warning but would not be sacked.

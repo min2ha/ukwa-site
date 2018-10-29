@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Human Rights Essay, The
-
 The Human Rights Essay was launched on 26 April 2015.  
 Somewhere between a blog and an online magazine, the purpose of The Human Rights Essay is to provide a space for those wishing to publish their opinions, ideas and research about human rights in the United Kingdom
 

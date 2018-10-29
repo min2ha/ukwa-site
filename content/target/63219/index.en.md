@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Uddingston Old Parish Church
-
 Site of a Church of Scotland parish church at Uddingston, Lanarkshire.

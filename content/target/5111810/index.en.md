@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pro-Active West London
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kathleen Dawson (Dawson_Kathleen) on Twitter
-
 <p>The twitter profile of athlete Kathleen Dawson, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

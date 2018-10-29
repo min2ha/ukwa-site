@@ -10,6 +10,4 @@
   "start_date": "2016-09-13T10:00:00Z"
 }
 
-# Claxton Co. Ltd.
-
 This is a historical web site displaying documents and photos from the family run business Claxton and Co. Ltd. which was in existence from 1922 to 1961. 

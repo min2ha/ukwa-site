@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Like Peel versus the Corn Laws, the Conservative Party must use Brexit to slash the cost of living
-
 Like Peel in the era of the Corn Laws, facing off monopolistic agricultural landowners to protect the middle classes from a potential revolutionary uprising, we have to choose between being in a protectionist EU on the one hand, backing monopolists and globalism in effect, or creating Free Trade deals – and even bringing in unilateral free trade the first few years after Brexit – in order to secure lower prices for citizens and small businesses.

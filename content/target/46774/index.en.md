@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# John Griffiths AM (@JGriffithsLab) on Twitter
-
 John Griffiths is the Labour AM for Newport East.

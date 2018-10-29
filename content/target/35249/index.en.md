@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Natalie Reid (@Ms_N_Reid) on Twitter
-
 Twitter profile of Natalie Reid, RISE Alliance candidate for Lothian in the 2016 Scottish parliament election.

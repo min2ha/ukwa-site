@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emily Brothers (Labour) (@EBrothersLabour) on Twitter
-
 Emily Brothers stood as Labour party candidate for Sutton and Cheam at the 2015 General Election but was not elected.

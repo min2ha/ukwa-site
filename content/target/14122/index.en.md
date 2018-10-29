@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Guardian, The: Aye art: alternative Scottish independence referendum posters – in pictures | Art and design
-
 None

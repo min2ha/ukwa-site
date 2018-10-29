@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Posters of Hope: an eye towards self-determination
-
 The author of this site created a daily poster during the Scottish Independence Referendum campaign in 2014, to promote support for a Yes vote.

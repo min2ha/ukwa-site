@@ -10,6 +10,4 @@
   "start_date": "2017-02-27T10:00:00Z"
 }
 
-# BBC News Magazine on Facebook
-
 Founded on 7 July 2003 this is the Facebook profile of the BBC News Magazine. The Magazine goes behind the headlines on the BBC News website, offering features, quizzes and more.

@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T00:00:00Z"
 }
 
-# Prowess - Women in Business
-
 Prowess was the National Association for the Promotion of Women’s Enterprise from 2002 to 2011, with member organizations, supporting over 100,000 women business owners. It is an independent non-profit organisation.

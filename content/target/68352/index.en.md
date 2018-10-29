@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# PeterleePumasRLFC (@PeterleePumasRL) on Twitter
-
 The official Twitter account of Peterlee Pumas Rugby League Club.

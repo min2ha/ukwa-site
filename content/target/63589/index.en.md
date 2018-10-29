@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# New Stevenston Wrangholm Kirk Church of Scotland
-
 Site of a Church of Scotland parish church at Stevenston, Motherwell, Lanarkshire.

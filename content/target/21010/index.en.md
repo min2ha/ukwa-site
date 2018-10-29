@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gavin Newlands (@GavNewlandsSNP) on Twitter
-
 The Twitter profile of Gavin Newlands, the Scottish National Party (SNP) candidate for Paisley and Renfrewshire North in the UK General Election on the 7th May 2015.

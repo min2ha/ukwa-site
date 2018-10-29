@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rio 2016: Why the world's eighth most populous country never has won an Olympic medal
-
 Bangladesh came to Rio not having won an Olympic medal and will leave without one.

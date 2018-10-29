@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Cymdeithas Ffynhonnau Cymru
-
 Cymdeithas Ffynhonnau Cymru promotes and protects the Ancient Wells of Wales.

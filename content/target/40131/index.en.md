@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Church of England issues EU referendum prayer
-
 Guardian, The

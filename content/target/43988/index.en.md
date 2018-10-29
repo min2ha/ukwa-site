@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Yes Europe Wales on Facebook
-
 Facebook page of Yes Europe Wales, a cross-party/ non party group in favour of Wales and the wider UK staying in the EU.

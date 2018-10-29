@@ -11,6 +11,4 @@
   "subject": "Italy UK"
 }
 
-# Manchester's Ancoats Little Italy
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# David Williams-Ellis Sculpture
-
 David Williams-Ellis is a leading figurative sculptors, whose unique life size, portrait, bird and animal sculptures are cast in bronze, silver and glass. His great uncle was Clough Williams-Ellis, the architect who created the Italianate village of Portmeiron in North Wales.

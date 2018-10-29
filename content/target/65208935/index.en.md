@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Memoryscape Audio Walks: Voices from the hidden history of the Thames
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Provincial Grand Lodge of Dunbartonshire
-
 Site of a masonic grand lodge located in Dunbartonshire, affiliated with the Grand Lodge of Scotland and overseeing daughter lodges in the area.

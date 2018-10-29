@@ -10,6 +10,4 @@
   "start_date": "2016-11-16T09:00:00Z"
 }
 
-# Templeman Exhibitions blog
-
 Blog for the Templeman Gallery in the Templeman Library, University of Kent

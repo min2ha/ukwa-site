@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Baptist Union of Great Britain
-
 <p>Christian	Baptist<br />
 Association of Baptist churches in England and Wales</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-04-09T09:00:00Z"
 }
 
-# Active Events
-
 Site of a music agent representing Scottish musicians, as well as staging music events throughout Scotland.

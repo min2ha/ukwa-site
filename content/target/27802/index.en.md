@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wiltshire Times: Trowbridge Museum adds new medieval items to Magna Carta Exhibition
-

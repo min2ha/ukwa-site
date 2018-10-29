@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Telegraph, The: The British companies with no gender pay gap - and how they did it
-
 An article about British companies that had a positive gender pay gap

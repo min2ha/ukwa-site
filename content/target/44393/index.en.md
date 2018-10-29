@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: how does the Article 50 process work?
-
 This Commons Library briefing paper looks at the process of withdrawing from the EU under Article 50 of the Treaty on European Union. There could be a complex and difficult negotiation lasting two years or more, or the UK could leave without settling its exit terms or its future relationship with the EU.

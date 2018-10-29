@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Spirit of Stirling Whisky Festival
-
 Site of an annual whisky festival and more regular tasting club, located in Stirling.

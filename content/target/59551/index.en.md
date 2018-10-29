@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# United Families and Friends Campaign
-
 The United Families and Friends Campaign (UFFC), is a coalition of those affected by deaths in police, prison and psychiatric custody, supports others in similar situations. Established in 1997 initially as a network of Black families, over recent years the group has expanded and now includes the families and friends of people from varied ethnicities who have also died in custody.

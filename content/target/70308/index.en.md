@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# Tewkesbury Medieval Festival
-
 Tewkesbury Medieval Festival has been the high spot of Tewkesbury’s summer since 1984. It is now widely regarded as the largest medieval gathering of its kind in Europe, and attracts re-enactors, traders and entertainers, and visitors from all over the world.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# AOL UK: Money: 'Schoolboy error' on new £2 coin
-

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Clasp, The
-
 A Competition League for Amateur Solo Pipers.

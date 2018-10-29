@@ -10,6 +10,4 @@
   "start_date": "2015-08-12T10:00:00Z"
 }
 
-# Qunfuz
-
 Website and blog of British-Syrian writer and journalist Robin Yassin-Kassab with commentary on political situation in Syria and the Middle East, and on Arabic literature

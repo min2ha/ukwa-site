@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: BBC's Nick Robinson to help school kids to run in election for headteacher
-
 None

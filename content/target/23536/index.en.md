@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dick Cole on Crowdfunder (Mebyon Kernow candidate for St Austell and Newquay)
-

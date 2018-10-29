@@ -10,6 +10,4 @@
   "start_date": "2017-03-03T09:00:00Z"
 }
 
-# Kingsbarns Distillery & Visitor Centre
-
 Site of a working whisky distillery and visitor attraction in Fife, Scotland.

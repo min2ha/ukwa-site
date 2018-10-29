@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Southampton RFC (@SouthamptonRFC) on Twitter
-
 The official Twitter account of Southampton Rugby Club.

@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Ullapool Community Trust
-
 Site of a development trust covering the area from Elphin to Gruinard in the North West Highlands of Scotland and based in Ullapool, Highland.

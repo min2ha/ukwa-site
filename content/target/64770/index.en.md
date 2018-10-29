@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Scotland Crosshill Parish Church Motherwell / St. Margaret's Parish Church, Motherwell
-
 Site of two linked Church of Scotland parish churches at Motherwell, Lanarkshire.

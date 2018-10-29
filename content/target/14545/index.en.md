@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Legal Aid Board (SLAB)
-

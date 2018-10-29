@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# WesternWeb Computer Services
-
 WesternWeb, established in January 2000 and located on the Cornwall/Devon border, provides a range of computer and IT services to home users, the arts and crafts and small to medium sized businesses and organisations. 

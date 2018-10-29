@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lionesses (@Lionesses) on Twitter
-
 The official Twitter account of the women's England team.

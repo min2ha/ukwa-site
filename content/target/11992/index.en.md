@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Thomas Piketty's proposals are not nearly radical enough
-
 None

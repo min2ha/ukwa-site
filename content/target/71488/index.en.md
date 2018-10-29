@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Changing Attitude Scotland
-
 Site of a network of members of the Scottish Episcopal Church and ecumenical friends, some of whom are lesbian, some gay, some straight, some bisexual, whose concern is to work for change in the church’s understanding of human sexuality.

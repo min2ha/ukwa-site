@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Whitehall 1212
-
 Personal blog of Torcuil Crichton, Westminster Editor of the Scottish Daily Record.

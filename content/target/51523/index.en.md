@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 29th March 2017: Article 50 
-
 Statement by Prime Minister Theresa May on triggering Article 50 to start the process of EU withdrawal.

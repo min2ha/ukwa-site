@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Christian Medical Fellowship Blogs: Global Health
-
 None

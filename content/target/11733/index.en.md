@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stephen Lavelle (Slavelle90) on Twitter
-
 The twitter profile of althete Stephen Lavelle, heavyweight boxer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: DUP health minister apologises for comments linking gay marriage to child abuse and neglect 
-
 None

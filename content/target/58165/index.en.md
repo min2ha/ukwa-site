@@ -10,6 +10,4 @@
   "start_date": "2017-10-31T09:00:00Z"
 }
 
-# Tweed Valley Tourist Consortium
-
 Site of a group of businesses in the Tweed Valley of the Scottish Borders, providing tourist information on businesses, amenities and activities in the area.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Generation Europe
-
 Generation Europe are making the case for students and young people to remain a part of a reformed European Union

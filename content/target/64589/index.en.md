@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Richards Bros, Coaches
-
 Richard Bros is a private coach hire based in Moylegrove, Cardigan.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Cwmni Anrhydeddus Lifrai Cymru | Worshipful Livery Company of Wales, The
-
 The Worshipful Livery Company of Wales is a charitable organization committed to supporting a broad range philanthropic, educational; and civic activities in Wales.

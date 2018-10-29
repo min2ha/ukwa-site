@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Sky Saga
-
 Sky Saga is a game developed by the Radiant Worlds located in Leamington Spa. 

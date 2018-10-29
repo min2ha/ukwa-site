@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Keswick Rugby Football Club on Pitchero
-
 The official website of Keswick Rugby Football Club.

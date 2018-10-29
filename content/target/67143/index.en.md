@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Defence Committee: The Government's proposals for a future security partnership with the European Union
-
 This report examines the EU's plans for Defence co-operation, the mechanisms being constructed to put this into practice and the circumstances under which the UK Government plans to engage with them after Brexit. It includes a timeline of the proposals and describes the intended shape of Permanent Structured Co-operation (PESCO), the European Defence Fund (EDF) and the Co-ordinated Annual Review on Defence (CARD).
 

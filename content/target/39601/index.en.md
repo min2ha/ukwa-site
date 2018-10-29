@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Into the Trenches
-
 Project to support 13-14 year olds in Sunderland, Chester-le-Street and Stockton to create coherent and compelling interpretations of life during that time through playwriting and drama workshops.

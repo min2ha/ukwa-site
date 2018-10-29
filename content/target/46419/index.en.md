@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Royal Academy of Engineering : Engineering a future outside the EU
-
 The 38 professional engineering organisations, representing all disciplines of UK engineering, have joined forces under the leadership of the Royal Academy of Engineering to provide evidence-based advice to government on the opportunities and risks associated with leaving the EU. This report represents the first phase of evidence gathering and emerging findings in what will be an ongoing dialogue with government.

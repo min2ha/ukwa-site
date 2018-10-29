@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church on the Corner, Elim Pentecostal, Sheffield
-
 The Elim Pentecostal Church was founded in 1915 by a Welshman in Monaghan Ireland.

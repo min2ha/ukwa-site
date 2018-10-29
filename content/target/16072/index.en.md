@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# State Hospital, The
-
 The State Hospital based near Carstairs in Lanarkshire is the special security psychiatric hospital covering Scotland and Northern Ireland.

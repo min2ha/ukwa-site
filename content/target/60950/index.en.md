@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North London Shamrocks GFC
-
 The North London Shamrocks are a Senior Gaelic Football Team who play in the London Senior Championship and Football League Division 1. After a successful campaign in 2014, in which we claimed the London Intermediate Championship, Shiels Cup, Murphy cup and finishing runners up in the All Britain Championship. The Shamrocks are looking to build upon this solid foundation in 2015.

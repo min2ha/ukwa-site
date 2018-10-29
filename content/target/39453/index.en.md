@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Social Europe: Brexit and the balance of power
-
 Argues  that faced with a rising China, a declining but risk-inclined Russia, and the prospect of prolonged turmoil in the Middle East, close transatlantic cooperation would be crucial to maintaining a liberal international order over the long term. Recognising that Brexit, by weakening both Europe and Britain, would make a disorderly international system more likely, should tip the balance in favour of maintaining the status quo.

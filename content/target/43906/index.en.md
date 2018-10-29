@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Run, Swim, Throw, Cheat
-
 This is a site where I will discuss the latest news about Drugs in Sport. All views are Professor Coopers personal ones and do not reflect those of Oxford University Press or the University of Essex.

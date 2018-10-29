@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# OpenDemocracy: Mandela: explaining the magnetism
-
 <p>Blog posting by Robin Wilson, lead editor of the openSecurity section of openDemocracy. Wilson argues that Mandela's economic and social record as president may be seen in terms of domestic failures, but his achievements in terms of ensuring reconcilliation within South Africa were a significant success.</p>

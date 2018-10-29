@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# ElectronicMusicWales
-
 Electronic Music Wales is a blog that features news, reviews and interviews from the music and events in Wales.

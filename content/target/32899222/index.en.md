@@ -10,5 +10,3 @@
   "start_date": "2009-12-09T00:00:00Z"
 }
 
-# Un Llais Cymru - One Voice Wales
-

@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Society of Women Writers and Journalists (SWWJ)
-
 None

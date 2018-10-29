@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# Seil Island Online
-
 Community website for Seil and Easldale Islands ('Slate Islands'), Argyll & Bute, providing information on amenities, local history and the activities of the Community Council.

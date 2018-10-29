@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Drumchapel St. Andrew's Church on Facebook
-
 Facebook page of a Church of Scotland parish church Drumchapel, Glasgow.

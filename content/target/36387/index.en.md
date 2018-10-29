@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Foreign Secretary has made a great case for leaving the EU, says STEPHEN POLLARD
-
 Comment by Stephen Pollard

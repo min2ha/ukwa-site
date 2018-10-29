@@ -10,6 +10,4 @@
   "start_date": "2018-03-09T09:00:00Z"
 }
 
-# Nanhoron Estate, The
-
 Nanhoron is a Regency mansion house located near Pwllheli and covers some 2,024 hectares (5,000 acres) on the Llŷn Peninsula.

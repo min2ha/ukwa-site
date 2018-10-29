@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Reuters: China says unlikely to grant licenses for world's hottest video game
-
 News article about China's content regulator commenting on licencing an online computer game 'PlayerUnknown’s Battlegrounds' saying it was unlikely that it would grant a license as the games ethos also goes against the psychological and physical health of juvenile consumers

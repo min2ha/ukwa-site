@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Stourbridge Line User Group (SLUG)
-
 A group that aims to protect the railway line up to and beyond Birmingham and Worcester, and to promote the re-opening of the former Stourbridge to Dudley railway with an extension to Walsall.

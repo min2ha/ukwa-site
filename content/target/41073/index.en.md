@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Floral Action Burntisland
-
 Site of a group based in Burntisland, Fife, Scotland, encouraging residents to value and improve the local environment and developing and enhancing public spaces.

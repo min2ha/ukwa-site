@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Papers divided over election coverage as Sun backs Tories (and SNP)
-
 None

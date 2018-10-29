@@ -10,6 +10,4 @@
   "start_date": "2018-03-28T09:00:00Z"
 }
 
-# Science Museum
-
 Official website of the Science Museum in London.

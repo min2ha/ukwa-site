@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bristol City Football Club
-
 Bristol City Football Club is a professional football club in Bristol, England. Their ground, Ashton Gate, is in the southwest of the city.

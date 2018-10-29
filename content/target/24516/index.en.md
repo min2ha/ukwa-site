@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nicola Sturgeon will force Ed Miliband to the left, Deutsche Bank warns
-
 None

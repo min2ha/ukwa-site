@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Gareth Gwynn
-
 Gareth Gwynn is a Welsh comedy writer, performer and radio presenter. 

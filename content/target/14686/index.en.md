@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# British Red Cross: Ebola Outbreak Appeal
-
 None

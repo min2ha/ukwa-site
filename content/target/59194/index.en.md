@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Portobello Rugby Football Club
-
 Site of a Scottish rugby union club based at Portobello in the east of Edinburgh, with close historical links to Portobello High School.

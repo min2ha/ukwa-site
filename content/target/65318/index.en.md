@@ -10,6 +10,4 @@
   "start_date": "2018-05-10T09:00:00Z"
 }
 
-# North Edinburgh News
-
 A community newspaper for the residents of North Edinburgh.

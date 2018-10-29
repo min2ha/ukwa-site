@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Historical Research: Events: Professor Stephen Church, "Magna Carta: The Context of Magna Carta"
-

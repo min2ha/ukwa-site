@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Côr Meibion Pen-y-Bont Fawr 
-
 Côr Meibion Penybontfawr is based in the small village of Penybontfawr situated in North Montgomeryshire.

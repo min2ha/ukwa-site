@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Contested Memories: The Battle of Mount Street Bridge
-
 Contested Memories: The Battle of Mount Street Bridge is a project create this battle during the Easter Rising in a virtual world.

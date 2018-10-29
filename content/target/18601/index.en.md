@@ -10,6 +10,4 @@
   "start_date": "2015-03-23T09:00:00Z"
 }
 
-# Glasgow Building Preservation Trust
-
 Glasgow Building Preservation Trust is a charity that works to rescue, repair, restore and rehabilitate historic buildings at risk across the city.

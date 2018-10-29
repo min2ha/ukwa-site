@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ampthill Literary Festival
-
 Festival organised by Ampthill Festival

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WHITLAND LADIES RFC (@WhitlandLadies) on Twitter
-
 Competitive rugby, great coaching & plenty of fun... Look no further than our team!

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Conval's Parish Church on Facebook
-
 Facebook page of a Scottish Roman Catholic church located in Glasgow.

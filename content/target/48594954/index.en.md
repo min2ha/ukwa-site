@@ -11,5 +11,3 @@
   "subject": "Climate Change Debates"
 }
 
-# Society of Biology
-

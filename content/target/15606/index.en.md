@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Luned Aaron
-
 <p>Luned Aaron is a Welsh artist.</p>

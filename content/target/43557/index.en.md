@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Business Reporter: unskilled EU migrants 'cost UK £6.6 billion a year'
-

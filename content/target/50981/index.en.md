@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# all3media
-
 A leading creator of content with an impeccable track record and unparalleled reputation around the world – we are committed to creating outstanding TV, film and digital content and to innovate in the ever-evolving broadcast landscape.

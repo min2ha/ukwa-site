@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Belfast Pride | Diverse – Equal – Proud
-
 Website for the Belfast Pride Festival

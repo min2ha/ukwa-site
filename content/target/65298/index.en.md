@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Linwood Parish Church of Scotland on Facebook
-
 Facebook page of a Church of Scotland parish church at Linwood, Renfrewshire.

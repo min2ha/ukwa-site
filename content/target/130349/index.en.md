@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Families and Friends of Lesbians and Gays (FFLAG)
-
 None

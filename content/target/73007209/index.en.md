@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge University Technology and Enterprise Club (CUTEC)
-

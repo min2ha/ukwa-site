@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bethlehem Evangelical Church, Port Talbot
-

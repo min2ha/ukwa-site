@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# Professional Golfers' Association (PGA)
-
 Professional Golfers' Association (PGA) is a members’ organisation educating and training PGA professionals in golf to degree level.

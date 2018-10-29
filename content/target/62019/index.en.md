@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Fields in Trust
-
 We protect vital open spaces all across the UK. From sports pitches to children's playgrounds, bicycle trails to country parks we make sure that all kinds of outdoor spaces are safeguarded forever.

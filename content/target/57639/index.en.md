@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UKUrbex
-
 An online enthusiast community concerned with urban exploration in the UK. Discusses competitions, photography, reports for various explored locations and various other related topics.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Black Wolf Brewery
-
 Site of brewer at Stirling.

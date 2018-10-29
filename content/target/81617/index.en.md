@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# WRU Women (@WRUWomenSupport) on Twitter
-
 Official Twitter account for the Welsh Women's rugby team 

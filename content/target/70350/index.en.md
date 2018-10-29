@@ -10,5 +10,3 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# Grieg Society of Scotland, The / Griegforeningen i Skottland
-

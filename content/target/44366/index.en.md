@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Greenpeace: 6 priorities for the environment after Brexit
-
 blog post on the effects of changing environmental law after Brexit

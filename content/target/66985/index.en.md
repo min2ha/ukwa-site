@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Gèidh.uk – Naidheachdan LGBT sa Ghàidhlig
-
 LGBT+ news in Scottish Gaelic.

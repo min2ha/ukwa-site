@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Not The News in Briefs
-
 A feminist news blog.

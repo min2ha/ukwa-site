@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Swansea Trade Unionist and Socialist Coalition (TUSC)
-
 TUSC are a group consisting mainly of trade unions who are opposing cuts of any sort from government.

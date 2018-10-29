@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Environment Protection Agency (SEPA)
-
 Scottish Environment Protection Agency (SEPA) protects the environment and human health by environmental regulation, mitigating and adapting to climate change, monitoring and reporting on the state of the environment, raising awareness of environmental issues, engaging with the public through citizen science projects, and resolving environmental harms.

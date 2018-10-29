@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# National Express
-
 National Express Group is a British multinational public transport company headquartered in Birmingham that operates bus, coach, train and tram services in the United Kingdom, United States, Canada, Spain, Portugal and Morocco and long-distance coach services across Europe. It is listed on the London Stock Exchange.

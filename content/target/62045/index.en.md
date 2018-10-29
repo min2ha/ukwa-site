@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# The Valley Stadium
-
 The Valley is a 27,111-capacity sports stadium located in Charlton, London, England and is the home of Charlton Athletic Football Club.

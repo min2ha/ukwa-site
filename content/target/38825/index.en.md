@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Tim Price (@timpy32001) on Twitter (UKIP candidate for Monmouth)
-
 Tim Price is the UKIP candidate for Monmouth at the 2016 National Assembly Elections. 

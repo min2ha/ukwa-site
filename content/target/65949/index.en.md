@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# ‘Munition’ Project
-
 "Munition" shares the story of the locally based Gorton Engineering Companies 1st World War effort to constantly help to supply the front line.

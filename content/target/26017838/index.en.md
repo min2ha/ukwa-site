@@ -10,5 +10,3 @@
   "start_date": "2008-12-05T00:00:00Z"
 }
 
-# Department for Business, Enterprise and Regulatory Reform (BERR)
-

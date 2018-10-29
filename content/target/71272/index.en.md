@@ -10,6 +10,4 @@
   "start_date": "2018-09-18T09:00:00Z"
 }
 
-# Free the Change Scotland
-
 Site of a group attempting to spread their vision for society : a healthier planet, fairer societies and the creative and political fulfilment of all - inclusive of age, gender, race, religion, sexuality and nationality.

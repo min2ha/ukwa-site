@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# National Library of Ireland: The 1916 Rising: Personalities and Perspectives
-
 This website is largely based upon the collections of books, newspapers, photographs, and manuscript material of the National Library of Ireland. It focuses upon those who set the stage for the events of Easter Week 1916, the seven signatories of the proclamation, the others executed in the aftermath of the Rising, the casualties and the survivors.  

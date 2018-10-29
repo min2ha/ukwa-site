@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Your Vote Matters
-
 Information on voting in the UK. Your vote matters, is run by The Electoral Commission, the UK’s independent elections body. 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints' Church, Hertford
-
 The Church of England church is situated in the heart of Hertford and part of the Hertford Team of Churches. 

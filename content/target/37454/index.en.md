@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# openDemocracy: Defence on the Brexit front line
-
 Brexit'S influence or lack thereof on Britan's military policy

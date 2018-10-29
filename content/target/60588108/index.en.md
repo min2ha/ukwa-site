@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Nottingham Women's History Group
-
 None

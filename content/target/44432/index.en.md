@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Could we really get a second EU referendum, and how would it work?
-
 An article speculating on the possibility and logistics of a second referendum  as a result of the British decision to leave the EU.

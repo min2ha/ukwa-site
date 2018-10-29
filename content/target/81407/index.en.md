@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BAFAWomen (@BAFAWomen) on Twitter
-
 The British American Football Association Women's Game. Get involved in one of the fastest growing sports in Britain. Home of Great Britain Women

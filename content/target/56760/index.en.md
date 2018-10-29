@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Galloway County Fair
-
 Site of an annual two-day event, featuring food and drink, country sports, entertainment, children’s activities and located in the gounds of Drumlanrig Castle, Dumfries & Galloway.

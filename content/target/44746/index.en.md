@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Theresa May: EU citizens' rights depend on fate of Britons abroad
-
 Guardian, The

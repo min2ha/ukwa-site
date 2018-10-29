@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: From a European point of view, Britain offers a unique perspective
-

@@ -10,6 +10,4 @@
   "start_date": "2015-12-16T09:00:00Z"
 }
 
-# Hub Cymru Africa
-
 Hub Cymru Africa is hosted by the Welsh Centre for International Affairs and support communication, coordination and capacity building for groups and individuals who want to work on Wales-Africa Projects.

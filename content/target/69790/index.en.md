@@ -10,8 +10,6 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Pittville History Works
-
 This is a free online community history site for the Pittville area of 
 Cheltenham, currently containing curated information on 12,000 residents
 and 400 households between 1824 and 1945.

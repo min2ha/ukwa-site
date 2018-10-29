@@ -10,5 +10,3 @@
   "start_date": "2006-04-03T00:00:00Z"
 }
 
-# Croeso i Wefan Eglwys Hywyn Sant Aberdaron - Welcome to the Website of St Hywyn's Church Aberdaron
-

@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Ramblers
-
 The Ramblers, formerly known as the Ramblers' Association, is the largest walkers' rights organisation in Great Britain which aims to look after the interests of walkers (or ramblers). It is a charity registered in England and Wales and in Scotland, with around 123,000 members.

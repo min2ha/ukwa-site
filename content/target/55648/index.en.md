@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM press conference with Australian PM Malcolm Turnbull: 10 July 2017
-
 Theresa May and Australian Prime Minister Malcolm Turnbull gave a press conference after visiting the London Bridge attack site and talks at Downing Street which covered counter-terrorism, international defence commitments and free trade.

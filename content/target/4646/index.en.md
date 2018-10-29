@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Scottish Refugee Council: There was never a man like Nelson Mandela, nor will there be
-
 None

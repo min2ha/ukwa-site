@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-#  Alan Breck's Prestonpans Volunteer Regiment
-
 Site of a group participating in historical reenactment events based on Jacobite history and the history of the 'Rough Wooing'. 

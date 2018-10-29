@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Deep Sea World
-
 Site of an aquarium and visitor attractraction located at North Queensferry, Fife.

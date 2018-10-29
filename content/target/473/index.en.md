@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cumbria LINk
-
 None

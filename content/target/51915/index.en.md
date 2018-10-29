@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# High Church Hilton
-
 High Church Hilton is a Church of Scotland congregation located in Aberdeen, Scotland. 

@@ -10,6 +10,4 @@
   "start_date": "2018-03-07T09:00:00Z"
 }
 
-# Lodge Crawfurdsburn Greenock 1121
-
 Site of a masonic lodge located in Greenock, Renfrewshire and affiliated with the Grand Lodge of Scotland.

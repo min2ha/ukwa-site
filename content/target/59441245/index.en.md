@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Coventry and Nuneaton Circuit
-
 None

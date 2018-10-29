@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Elderflower Fields
-
 Website for the Elderflower Fields Music, Sports, Nature and Arts Festival

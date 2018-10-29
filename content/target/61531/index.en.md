@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Airdrie High Parish Church
-
 Site of a Church of Scotland parish church at Airdire, Lanarkshire, incorporating parish churches for Caldercruix and Longriggend, also in Lanarkshire.

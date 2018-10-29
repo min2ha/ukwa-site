@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Edge Matters Knife Discussion Forum
-
 An online enthusiast community concerned with knifes. Discusses handmade & custom knives, production & mid-tech knives, antique & historical blades, reviews and various other related topics.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tory historian tells Cameron: Give England devolution
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Kealey on Facebook (Labour candidate for Bosworth)
-

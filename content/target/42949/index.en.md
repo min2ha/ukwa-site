@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: EU migrants 'will help push up UK population by 13million in just 20 years': Watchdog says country will 'change for ever' if Britain votes to remain in the EU   
-

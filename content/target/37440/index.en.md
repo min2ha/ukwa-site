@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Reuters: Poland's Kaczynski backs deal with Cameron to keep Britain in EU
-
 Polish-British relations and Brexit

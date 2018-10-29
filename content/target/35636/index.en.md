@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Angela Burns (@AngelaBurnsAM) on Twitter (Conservative candidate for Carmarthen West and South Pembrokeshire) 
-
 Angela Burns is the Conservative candidate for Carmarthen West and Dinefwr at the 2016 National Assembly Elections.

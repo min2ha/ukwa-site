@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Radiant Worlds
-
 Radiant Worlds is a professional independent game development studio based in Leamington Spa.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hwyl Llandeilo Lit Fest, The
-
 The festival is a four day programme of literary events held across Llandeilo.

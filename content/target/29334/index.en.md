@@ -10,6 +10,4 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# VE Day anniversary: Party leaders join in Cenotaph ceremony
-
 BBC report on marking 70 years since Winston Churchill announced the end of the war with Germany.

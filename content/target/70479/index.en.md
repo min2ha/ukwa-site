@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# International Society for Krishna Consciousness (ISKCON) Edinburgh
-
 Site of the Edinburgh branch of the International Society for Krishna Consciousness (ISKCON).

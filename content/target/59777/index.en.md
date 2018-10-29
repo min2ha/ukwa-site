@@ -10,6 +10,4 @@
   "start_date": "2017-12-16T09:00:00Z"
 }
 
-# Deasbad
-
 Site of a Gaelic Scottish national debating competition for Gaelic speakers in secondary schools. Written in English and Scottish Gaelic.

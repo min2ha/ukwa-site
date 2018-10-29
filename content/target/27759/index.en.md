@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Errors & Omissions: Magna Carta, sexing bishops and ministerial aides 
-

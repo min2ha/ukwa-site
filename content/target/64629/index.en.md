@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Lodge Riddrie Glasgow No.1340
-
 Site of a masonic lodge located in Riddrie, Glasgow and affiliated with the Grand Lodge of Scotland.

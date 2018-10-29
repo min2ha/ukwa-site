@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Farnham Maltings
-
 Farnham Maltings is a cultural organisation, based in south west Surrey, that exists to encourage the people of Farnham and further afield to participate in, shape and understand the world in which we live.  

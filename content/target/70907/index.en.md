@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# The Jackdaw 
-
 The Jackdaw was founded in 2000. Its purpose is to keep interested parties informed and entertained about aspects of art that are in the news. By and large it’s pretty nasty and critical of many things, and especially of the corrupt, self-serving art establishment which stinks like a rotting carcase.

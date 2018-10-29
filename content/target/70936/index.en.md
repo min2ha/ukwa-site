@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tandem Collective
-
 Website for the Tandem Collective music festival.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Public servants, don't hold your breath on that pay rise with Nick Clegg
-
 None

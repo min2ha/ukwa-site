@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Small Museum, The
-
 The Small Museum is a research project by Good, Form & Spectacle. The basic question of the research is 'What would a 21st Century cultural institution be like if it was designed today, from scratch?'. 

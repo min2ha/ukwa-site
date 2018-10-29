@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Meeting Industries Association (MIA)
-
 The Meetings Industry Association (mia) is the principal association supporting and growing the meetings and events industry in the UK, and the keeper of AIM, the UK’s only recognised quality standard for the meetings industry. 

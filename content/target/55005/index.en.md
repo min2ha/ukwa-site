@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# First-tier Tribunal for Scotland Tax Chamber
-

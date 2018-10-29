@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Scottish voters could back splitting from the United Kingdom after Brexit, poll finds
-

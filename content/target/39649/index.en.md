@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kenneth Gibson MSP on Facebook
-
 Facebook page of Kenneth Gibson, Scottish National Party (SNP) candidate for Cunninghame North in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# What's Left
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-11-22T09:00:00Z"
 }
 
-# St Francis & St Clares Parish,  Ely, Cardiff
-
 St Francis & St Clares Parish is a Roman Catholic Parish based in Ely, Cardiff.

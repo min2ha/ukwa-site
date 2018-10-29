@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Faith Family Church
-
 Site of an independent Christian church and congregation located in Dunfermline, Fife - formerly linked to Destiny Church.

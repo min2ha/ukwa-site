@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Are you doing anything in preparation for the EU referendum result? 
-
 Guardian, The

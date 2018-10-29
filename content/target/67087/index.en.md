@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Broad Plain RFC
-
 Broad Plain RFC - is Bedminster's only rugby football club. We are based at Bristol South End - which is just off of St Johns Lane - Bedminster.

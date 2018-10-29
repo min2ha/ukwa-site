@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-#  BBC News: EU 'worried' by UK's Irish border proposals
-
 Unveiling the EU's position, Michel Barnier said he was worried by the UK's post-Brexit proposals for the Northern Ireland border. Michel Barnier said the UK was asking for EU laws, its customs union and single market to be suspended at a "new external border".

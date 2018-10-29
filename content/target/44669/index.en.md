@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Llyfrgelloedd Cymru | Libraries Wales
-
 Libraries Wales has been created and designed as part of the library strategy for Wales and is a one stop portal for Welsh Libraries.

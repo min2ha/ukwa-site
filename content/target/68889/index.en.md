@@ -11,7 +11,5 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# House of Commons Welsh Affairs Committee: Brexit: Priorities for Welsh Agriculture
-
 The EU is the main market for the export of Welsh agricultural products, providing the market for over 80% of food and animal exports. The report emphasises that "barrier-free access to EU markets is therefore essential to the future of Welsh agriculture." The report calls upon the Government to "recognise that the overwhelming view of the representatives we heard from felt that they would be best served by retaining membership of the Single Market and Customs Union, in order to ensure current access to EU markets with no new barriers—be they in the form of tariffs, customs controls, or other checks."
 

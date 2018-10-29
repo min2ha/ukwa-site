@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Guardian, The: New doubt cast over Alex Salmond's claims of Scottish wealth
-
 None

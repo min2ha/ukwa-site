@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# British Ecological Society (BES)
-
 The vision of the British Ecological Society is for a world inspired, informed and influenced by ecology. Their mission is to generate, communicate and promote ecological knowledge and solutions.

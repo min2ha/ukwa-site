@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# Maritime Skills Academy
-
 Maritime Skills Academy delivers courses to the global maritime industry including cruise ships, superyachts, renewable support vessels and the oil & gas industry. Their curriculum includes MCA approved STCW compliant training programmes, shipboard safety, ship/port security and environmental courses.

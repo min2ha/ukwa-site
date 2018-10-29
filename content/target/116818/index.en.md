@@ -10,6 +10,4 @@
   "start_date": "2006-11-07T00:00:00Z"
 }
 
-# Andrews Carvings : Celtic Designs & Heraldry
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron insists he isn't ducking live TV general election debates
-
 None

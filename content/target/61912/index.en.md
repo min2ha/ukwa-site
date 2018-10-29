@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# West Bromwich Albion F.C.
-
 West Bromwich Albion Football Club, also known as West Brom, The Baggies, The Throstles, Albion or simply WBA, is an English professional football club based in West Bromwich in the West Midlands.

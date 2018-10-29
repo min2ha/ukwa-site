@@ -10,6 +10,4 @@
   "start_date": "2015-09-02T10:00:00Z"
 }
 
-# Chinwag - Connecting Digital People
-
 Chinwag connects digital businesses and people. It was established in mid 1990s. Chinwag runs Psych, a full day conference dedicated to psychology, influence & behavioural science.

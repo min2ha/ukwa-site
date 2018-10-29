@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Refugee Support Network (RSN)
-
 Organisation supporting young people affected by displacement and crisis, enabling them to access, remain and progress in education at all stages of their migration journey

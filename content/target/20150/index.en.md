@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cllr Nigel Williams (@NigelWilliams_ ) on Twitter
-
 UKIP candidate for Delyn in the 2015 General Election and 2017 National Assembly for Wales Election.

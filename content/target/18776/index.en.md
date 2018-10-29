@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Historical Association, The: What does Magna Carta mean to you?
-
 None

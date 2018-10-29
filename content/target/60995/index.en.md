@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Roger Casements GAA (@CasementsGAA) on Twitter
-
 Gaelic Football and Hurling club in Coventry. We hold two men's, ladies, hurling and youth teams.

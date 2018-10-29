@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Irish in Westminster (@SW1AIrish) on Twitter
-
 A networking group for Irish people working in politics and public affairs in Westminster and Whitehall. 

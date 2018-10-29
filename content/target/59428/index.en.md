@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Hot Scots Football Club
-
 Site of an amateur football club who welcome players from all sections of society, but were established particularly as an LGBT club, and based in Edinburgh.

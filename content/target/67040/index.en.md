@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Beats Cancer Music Festival
-
 Website for the Beats Cancer Music Festival

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Scotsman, The: Insight: Study of Scots role in Easter Rising controversy
-
 Article about a book by Willy Maley and Kirsty Lusk 'Scotland and the Easter Rising'.

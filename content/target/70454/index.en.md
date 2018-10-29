@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# StandUp4Brexit
-
 Conservative grassroots campaign to ensure Brexit as promised by Theresa May in her Lancaster House speech is delivered

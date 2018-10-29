@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# JISC: World War One
-
 <p>Resources on the First World War made possible by JISC, the Joint Information Systems Committee.</p>

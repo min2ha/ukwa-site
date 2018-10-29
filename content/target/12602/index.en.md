@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jamie McGrigor MSP (JamieMcGrigor) on Twitter
-
 <p>The twitter profile of Jamie McGrigor, Conservative and Unionist Party Member of the Scottish Parliament for Highlands and Islands.</p>

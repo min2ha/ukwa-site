@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St James' Church, Wick
-
 St James Church is in Wick, Vale of Glamorgan.

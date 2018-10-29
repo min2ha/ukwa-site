@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Re-elect Christine Grahame on Facebook
-
 Facebook page of Christine Grahame, Scottish National Party (SNP) candidate for Midlothian South, Tweeddale and Lauderdale in the 2016 Scottish Parliamentary election.

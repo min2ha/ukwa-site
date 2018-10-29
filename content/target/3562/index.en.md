@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Burnley and Pendle Citizen
-
 None

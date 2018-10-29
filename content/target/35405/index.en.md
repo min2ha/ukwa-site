@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Wired Score
-
 Wired Certification is a programme designed to collect information about the internet connectivity and infrastructure of commercial buildings. This information is made publicly available to businesses of all sizes looking for office space.

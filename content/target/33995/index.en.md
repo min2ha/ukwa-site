@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo Zulu War Historical Society, The
-
 The Anglo Zulu War Historical Society was formed by a small group of experts and historians to promote interest in the Anglo Zulu War of 1879.

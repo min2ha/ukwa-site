@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Genome Analysis Centre, The (TGAC)
-

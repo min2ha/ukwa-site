@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ex-ministers Jack Straw and Sir Malcolm Rifkind brag to business about their political contacts
-
 None

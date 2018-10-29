@@ -10,5 +10,3 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Corpus of Romanesque Sculpture in Britain and Ireland 
-

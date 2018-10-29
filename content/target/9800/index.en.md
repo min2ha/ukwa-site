@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Guardian, The: Nigel Farage disowns Ukip's entire 2010 election manifesto
-
 None

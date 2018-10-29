@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research: Brexit withdrawal negotiations: the six crisis moments
-
 This blog explains the six big challenges that could send the Brexit negotiations into a tailspin before they barely begin

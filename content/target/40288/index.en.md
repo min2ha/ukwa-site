@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Aberdour Festival
-
 Site of an annual festival taking place in the village of Aberdour, Fife, Scotland, featuring music, events and culture.

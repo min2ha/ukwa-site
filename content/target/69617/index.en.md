@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. James the Greater, Coatbridge
-
 Site of a Scottish Roman Catholic parish church located in Coatbridge, Lanarkshire.

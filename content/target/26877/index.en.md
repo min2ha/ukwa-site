@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Richard Gwyn
-
 Poet and author from south Wales.

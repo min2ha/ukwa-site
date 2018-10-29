@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Suspended Tory Afzal Amin likely 'to be removed within days'
-
 None

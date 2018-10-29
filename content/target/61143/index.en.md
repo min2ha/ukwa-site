@@ -10,6 +10,4 @@
   "start_date": "2018-02-09T09:00:00Z"
 }
 
-# Upton Castle Gardens and Medieval Chapel
-
 Upton Castle Gardens and Medieval Chapel is 35 acres of listed historic gardens that surround a 13th century castle located at Cosheston, Pembrokeshire.

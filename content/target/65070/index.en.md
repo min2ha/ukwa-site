@@ -10,6 +10,4 @@
   "start_date": "2018-05-02T09:00:00Z"
 }
 
-# Cardigan Welsh Corgi Association
-
 The Cardigan Welsh Corgi Association is the only Club in the UK which is devoted solely to the interests of the Cardigan Welsh Corgi.

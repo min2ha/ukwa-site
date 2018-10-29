@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Select Committee on Economic Affairs. One off evidence session with the Chancellor of the Exchequer,  8 September 2016
-
 Chancellor Philip Hammond answers questions on Brexit and other issues from the Lords Committee on Economic Affairs.

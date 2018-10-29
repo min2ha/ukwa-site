@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband 'won' BBC Election challengers debate according to Mirror/Survation poll
-
 None

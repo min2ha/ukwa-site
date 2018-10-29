@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Scottish Co-operative Party, the
-
 Scottish branch of the the Co-operative Party. The Co-operative Party is a centre-left political party in the United Kingdom supporting co-operative values and principles. Established in 1917, the Co-operative Party was founded by co-operative societies to politically campaign for the fairer treatment of co-operative enterprise and to elect co-operators to Parliament. The Party’s roots lie in the Parliamentary Committee of the Co-operative Union established in 1881.

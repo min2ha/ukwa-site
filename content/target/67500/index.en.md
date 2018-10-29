@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Cambridge Coutauld Russian Art Centre
-
 The Cambridge Courtauld Russian Art Centre (CCRAC) is a joint initiative between the Department of History of Art, University of Cambridge, and The Courtauld Institute of Art, London, to provide a forum for the investigation of Russian and Soviet art. 

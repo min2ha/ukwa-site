@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Turner Contemporary
-
 Turner Contemporary is an art gallery situated on Margate seafront, on the same site where Turner stayed when visiting the town. The gallery presents a rolling programme of temporary exhibitions, events and learning opportunities linking historic and contemporary art. The organisation was founded in 2001 to contextualise, celebrate, and build on the artist JMW Turner’s association with Margate, Kent. In 2011, Turner Contemporary gallery, designed by Sir David Chipperfield, opened.

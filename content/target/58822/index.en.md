@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# English Shinty Association
-
 Site of an organisation that represents clubs and players of shinty throughout England.

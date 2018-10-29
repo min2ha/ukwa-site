@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# BBC News: Trending.
-
 BBC Trending is a blog which reports on stories trending around the world.

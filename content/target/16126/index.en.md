@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Muslims in Britain
-
 <p>MuslimsInBritain.org is a site dedicated to providing resources for Muslims and non-Muslims in Britain to live and work effectively together. Mehmood Naqshbandi is the author of the website.</p>

@@ -10,5 +10,3 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# Christopher Tomson on Facebook Independent candidate for Witney
-

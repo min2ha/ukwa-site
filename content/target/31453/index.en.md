@@ -10,5 +10,3 @@
   "start_date": "2015-10-15T10:00:00Z"
 }
 
-# Scottish Saltire Branch of the Aircrew Association
-

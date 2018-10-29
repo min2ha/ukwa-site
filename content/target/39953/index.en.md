@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# men of Newhaven on Forth who paid the Ultimate Price (1914 - 1919), The 
-
 This project will collect information about  casualties from Newhaven on Forth and arrange to have this made available on-line with a link on the' Newhaven on Forth' web page and to produce a booklet for those not connected to the internet.

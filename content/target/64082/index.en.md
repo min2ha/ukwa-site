@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# The Justice Gap (@JusticeGap) on Twitter
-
 We are about the law and justice. And the difference between the two. The editor is Jon Robins. Support us, buy our magazine Proof

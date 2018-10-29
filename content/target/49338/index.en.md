@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# University College London: UCL Laws experts blog on Brexit
-

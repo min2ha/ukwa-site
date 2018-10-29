@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# Royal Gazette, The (Bermuda): Weather News
-

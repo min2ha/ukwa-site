@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Tom Rippeth on Facebook (Liberal Democrats candidate for Delyn)
-
 Tom Rippeth is the Liberal Democrats candidate for Delyn at the 2016 National Assembly Election. 

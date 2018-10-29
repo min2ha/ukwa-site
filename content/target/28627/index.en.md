@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Polish Armed Forces Memorial, The
-
 The website of the project aiming at building a new Polish Forces Memorial which would pay tribute to the fallen during World War 2 would provide a focus for remembrance of the Polish men women and children who sacrificed all.

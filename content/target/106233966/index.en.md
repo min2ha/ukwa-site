@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Hartley Jones Innovation Ltd
-

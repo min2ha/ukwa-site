@@ -10,6 +10,4 @@
   "start_date": "2011-07-11T00:00:00Z"
 }
 
-# Tinnitus Research Initiative
-
 A non-profit foundation dedicated to the development of effective treatments for all types of tinnitus so that relief can be obtained by everyone who suffers from it.

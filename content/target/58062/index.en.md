@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Only a Labour no-confidence motion in the Tories can avert a Brexit disaster
-

@@ -10,7 +10,5 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Cian Ciarán 
-
 Cian Ciarán is a Welsh musician and best known as the keyboard player in the band Super Furry Animals. He has also won a Best Contemporary Music BAFTA Cyrmu Award alongside his brother
 Dafydd Ieuan and released two solo albums. 

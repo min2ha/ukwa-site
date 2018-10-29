@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: More Brexiteer resignations to come?
-
 Speculates that Boris Johnson's resignation as Foreign Secretary could be part of a plot to force Theresa May to abandom her compromise Brexit strategy

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'Stop and think': Cameron urges Lib Dem and Ukip supporters to back him as the only way to stop Miliband moving into No.10
-
 None

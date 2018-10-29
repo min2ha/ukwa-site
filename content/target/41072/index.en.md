@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Edinburgh Old Town Development Trust
-
 Site of a trust set up by local residents to help the Old Town, in cenral Edinburgh, develop according to residents' needs.

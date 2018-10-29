@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Independent backs another coalition between Tories and Liberal Democrats
-
 None

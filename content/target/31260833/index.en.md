@@ -10,5 +10,3 @@
   "start_date": "2009-09-23T23:00:00Z"
 }
 
-# George Osborne - MP for Tatton
-

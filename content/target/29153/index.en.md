@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# CDP
-
 CDP holds the largest collection globally of self reported climate change, water and forest-risk data. Through our global system companies, investors and cities are better able to mitigate risk, capitalize on opportunities and make investment decisions that drive action towards a more sustainable world.

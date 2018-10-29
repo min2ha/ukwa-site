@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Climate Coalition
-
 The Climate Coalition, the UK’s largest group of people dedicated to action on climate change and limiting its impact on the world’s poorest communities.

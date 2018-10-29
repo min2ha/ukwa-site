@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Queen's fury over claim she backs Brexit: Michael Gove the prime suspect in leak of alleged private dinner conversation in 2011  
-

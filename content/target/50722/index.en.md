@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Union News
-
 UnionNews was established in 2011 to report news from the UK’s trade union movement, providing an outlet for workers and their campaigns which the site owners feel is missing from the mainstream media.

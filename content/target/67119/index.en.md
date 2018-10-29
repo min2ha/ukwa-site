@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Nepalese Nursing Association UK (NNAUK)
-
 Nepalese Nurse Association UK (NNAUK) is a London base a social campaign that collaborate staff nurse who are originally from Nepal and deal the issues that affect them. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Essex Partnership NHS Foundation Trust
-
 None

@@ -11,5 +11,3 @@
   "subject": "Darwin 200"
 }
 
-# Earthworm Research Group, University of Central Lancashire
-

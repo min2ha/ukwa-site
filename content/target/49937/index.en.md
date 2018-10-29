@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Drumoak-Durris Church
-
 Parish website of the Drumoak-Durris Church. The two congregations were formally united in 2002. 

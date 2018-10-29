@@ -10,5 +10,3 @@
   "start_date": "2006-03-16T00:00:00Z"
 }
 
-# Cued Speech Association UK
-

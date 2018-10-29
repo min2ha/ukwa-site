@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Arts Professional: Nothing to Fear from Leaving
-
 Arts Professional: Nothing to Fear from Leaving

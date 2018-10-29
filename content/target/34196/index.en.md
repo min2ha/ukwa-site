@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# 157 Group
-
 The 157 Group is a membership organisation which represents 26 UK colleges and college groups.

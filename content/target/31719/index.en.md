@@ -10,6 +10,4 @@
   "start_date": "2015-10-23T10:00:00Z"
 }
 
-# Cerdd Gymunedol Cymru | Community Music Wales
-
 Community Music Wales is a music charity that contribute to the empowerment of disadvantaged groups and individuals through enabling them to participate in creativity and learning through music making.

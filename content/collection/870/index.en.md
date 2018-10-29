@@ -174,6 +174,4 @@
   "endDateText": ""
 }
 
-# Housing and Social Housing
-
 This collection of websites focusses on a wide range of housing issues, including but not limited to, private renting, social housing, squatting, access to benefits, homelessness, and co-operative housing.

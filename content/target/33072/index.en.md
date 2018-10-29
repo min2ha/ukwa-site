@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War One Luton
-
 The project aims to preserve and share events of the First World War as experienced by Luton residents and their families, by collecting memories, artefacts and images.

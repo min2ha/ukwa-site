@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Butterfly Conservation
-
 <p>Butterfly Conservation was formed by a small group of naturalists in 1968 following the decline of many species of butterflies. The aim of the organisation is conservation of butterflies, moths and the environment.</p>

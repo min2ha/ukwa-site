@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Welsh Women's Rugby (@waleswomenrugby) on Twitter
-
 Helping to promote women's rugby in Wales. Grassroots to professional. Rugby is for life, not just W6N WRWC. No connection with the WRU!

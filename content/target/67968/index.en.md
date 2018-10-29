@@ -10,6 +10,4 @@
   "start_date": "2018-06-23T09:00:00Z"
 }
 
-# Undercurrent (@uk_undercurrent) on Twitter
-
 Undercurrent is a London-based theatre company. They specialise in research-based performance and use real life stories in their work. This is their official Twitter account.

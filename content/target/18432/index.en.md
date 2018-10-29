@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Free schools: David Cameron pledges 500 more by 2020
-
 None

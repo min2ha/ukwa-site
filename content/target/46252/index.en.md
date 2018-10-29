@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Marmite Brexit Shortage Is A Reminder That Unilever And Other Giants Own Most Of The Food We Buy
-
 Unilever, the world’s second largest grocery manufacturer, has reportedly halted deliveries its products including Marmite, Flora, Pot Noodle and PG Tips after Tesco reportedly refused to pay more for them after the pound fell in value.

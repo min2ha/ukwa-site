@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# St. Andrew's Orienteering Club (STAG) Glasgow
-
 Site of an orienterring club based in Glasgow.

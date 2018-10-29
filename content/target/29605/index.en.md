@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Herald Scotland: "Singer Eddi Reader, holder of an MBE, criticised for marking anniversary of Easter Rising"
-

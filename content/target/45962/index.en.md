@@ -11,5 +11,3 @@
   "subject": "Housing and Social Housing"
 }
 
-# Taf Fechan Housing Co-operative
-

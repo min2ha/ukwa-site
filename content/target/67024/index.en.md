@@ -10,7 +10,5 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# Provincial Grand Lodge of Sutherland
-
 Site of the provincial grand lodge of Scottish Freemasonry affiliated to the Grand Lodge of Scotland covering Sutherland, Highlands.
 

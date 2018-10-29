@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: UKIP election candidate Graham Whitehead caught up in 'racism' storm over alleged Facebook posts
-
 None

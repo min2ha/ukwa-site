@@ -10,5 +10,3 @@
   "start_date": "2013-09-02T23:15:00Z"
 }
 
-# Do something creative, do science
-

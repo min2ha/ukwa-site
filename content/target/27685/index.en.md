@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: How I rallied Ed Miliband over shock exit poll, why Cameron beat us and how Labour should rebuild
-
 None

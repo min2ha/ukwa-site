@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# BritMovie.co.uk Forums
-
 An online enthusiast community concerned with British films. Discusses British cinema and television through a variety of sub forums.

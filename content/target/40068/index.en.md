@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: The BBC is being 'excessively deferential' to the Brexit campaign to avoid claims of bias, ex-EU commissioner claims    
-

@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Anglo European College of Chiropractic (AECC)
-
 Official website of the Anglo European College of Chiropractic, Bournemouth.

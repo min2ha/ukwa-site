@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WAG Screen: Heritage Film-makers
-
 Knitting project to explore women’s contribution to the war effort, looking at the creation of ‘Soldiers’ Comforts’ and clothing for the disabled and examine the way war affected the clothes that women created for their families and wore themselves.

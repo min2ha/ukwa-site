@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Benny Hill
-
 The official website of Benny Hill, a British comedian.

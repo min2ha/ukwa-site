@@ -10,5 +10,3 @@
   "start_date": "2015-05-06T08:00:00Z"
 }
 
-# Wrexham Mosque
-

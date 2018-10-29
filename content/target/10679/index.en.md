@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Helen Bashford, Indepedence From Europe Party
-
 None

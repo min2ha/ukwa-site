@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Western Isles Scottish National Party (SNP)
-
 The Western Isles branch of the Scottish National party (SNP).

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Fuse ODG to headline youth empowerment concert
-
 None

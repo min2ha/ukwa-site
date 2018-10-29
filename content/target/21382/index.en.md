@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Colin Clark
-
 Colin Clark, Scottish Conservative and Unionist Party candidate for Gordon in the 2017 general election.

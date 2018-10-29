@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent:  BBC accused of Brexit bias by more than 70 MPs in open letter
-
 Dozens of predominately Conservative MPs signed a letter to the BBC's director general accusing the public broadcaster of bias in its Brexit coverage.

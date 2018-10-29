@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Fiona Burt on Facebook (Independent candidate for Cardiff North)
-
 Fiona Burt is the Independent candidate for Cardiff North at the 2016 National Assembly Election. 

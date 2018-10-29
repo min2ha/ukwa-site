@@ -10,6 +10,4 @@
   "start_date": "2015-05-19T09:00:00Z"
 }
 
-# D M Black
-
 Official website for the poet and essayist D.M. Black (David Macleod Black). It provides a biographical note, samples of different sorts of writing, and selected lists of different sorts of publication.

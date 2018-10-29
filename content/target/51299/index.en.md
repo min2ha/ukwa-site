@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Northern Ireland Assembly Research and Information Service: Research matters 
-
 A blog from the Northern Ireland Assembly Research and Information Service

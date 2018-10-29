@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-#  Gravesham Green Party (@GraveshanGP) on Twitter
-
 Twitter for Gravesham Greens Party.

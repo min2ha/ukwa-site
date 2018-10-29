@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Boiling Frog, The
-
 Blog: The Boiling Frog

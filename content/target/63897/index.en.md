@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Eaglesham Parish Church
-

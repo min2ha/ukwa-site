@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Birmingham Mail: Most valuable Harry Potter books: Some titles have been selling for a LOT of money - do you own one of them?
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: A complete failure: Voters offer damning verdict on PM's Europe deal with three-quarters claiming migration will not change as a result of his reforms - and could even increase    
-

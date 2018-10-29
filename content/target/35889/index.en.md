@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# London First: London and the EU
-
 Business membership organisation

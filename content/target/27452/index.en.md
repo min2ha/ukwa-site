@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Election 2015: Former Tory chairman Lord Baker calls for coallition with Labour 'to keep the UK together' if SNP holds the balance of power
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Action of Churches Together in Scotland (ACTS)
-
 None

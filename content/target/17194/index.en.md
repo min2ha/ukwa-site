@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: UKIP claim panicked Tories are offering them election deals if they 'call off the dogs'
-
 None

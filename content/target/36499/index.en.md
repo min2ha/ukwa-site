@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: David Cameron REFUSES to release figures that would 'prove the true level' of EU migration to the UK    
-

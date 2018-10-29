@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Linda Jack, Liberal Democrat on Twitter
-

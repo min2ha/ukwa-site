@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# SS John Cantius and Nicholas Catholic Church
-
 Site of a Roman Catholic parish church in Scotland, located at Broxburn, West Lothian.

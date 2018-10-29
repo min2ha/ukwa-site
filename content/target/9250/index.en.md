@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Jackson Bobsleigh on Twitter
-

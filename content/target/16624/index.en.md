@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband puts faith in doorstep campaign to provide keys to No 10
-
 None

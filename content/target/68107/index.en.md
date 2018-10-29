@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Suffolk Wildlife Trust
-
 Suffolk Wildlife Trust is Suffolk’s nature charity – the only organisation dedicated wholly to safeguarding Suffolk’s wildlife and countryside.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# maes-e.com
-
 Maes-e is a Welsh-language internet forum. It discusses issues relating to Wales ranging from Welsh language pop music to the latest Welsh language software. It is a forum that exchanges ideas, advice and information on many aspect relating to the Welsh language.

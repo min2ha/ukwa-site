@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Wish the Queen Happy Birthday! New online book celebrates the Queen's 90th birthday
-
 The book, created by the Online Book Company, develops digital books to support charity events and fundraising efforts all over the world. They created this book for people to wish the Queen happy birthday.

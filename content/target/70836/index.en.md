@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Albania 1 Scotland 2: 'Nothing compares to this,' says jubilant Kerr after Scots qualify for next summer's World Cup
-
 Online news article about the Scotland women's team qualification for the World Cup in France, 2019.

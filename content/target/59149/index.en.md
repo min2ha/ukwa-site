@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# Abertay Students' Association
-
 Site of a students' representative body at Abertay University Dundee, who also convene sports and social activities.

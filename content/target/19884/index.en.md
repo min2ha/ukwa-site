@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lambeth Labour on Facebook
-

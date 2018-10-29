@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# Old Goreans Lodge No. 7193 Masonic Province of South Wales
-
 The Old Goreans Lodge No. 7193 was established in 1952 and is closely linked to the former Swansea Grammar School.

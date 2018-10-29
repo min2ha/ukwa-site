@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Towards Excellence - NHS East Midlands
-
 None

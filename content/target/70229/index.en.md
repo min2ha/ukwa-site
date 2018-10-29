@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# World Thumb Wrestling Championships
-
 A website for the World Thumb Wrestling Championships

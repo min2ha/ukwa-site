@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David McNamee (DavidMcNameetri) on Twitter
-
 <p>The twitter profile of triathete David McNamee member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

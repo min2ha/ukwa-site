@@ -10,6 +10,4 @@
   "start_date": "2018-04-15T09:00:00Z"
 }
 
-# Lodge Newbattle St. Mary 1063
-
 Site of a masonic lodge located in Newbattle, Midlothian and affiliated with the Grand Lodge of Scotland.

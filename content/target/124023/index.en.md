@@ -10,6 +10,4 @@
   "start_date": "2005-12-13T00:00:00Z"
 }
 
-# Surgical Material Testing Laboratory
-
 The Surgical Materials Testing Laboratory (SMTL) was established in 1977 as a quality control laboratory for Mid Glamorgan Health Authority. Since then the mix of work undertaken by the laboratory has changed considerably.

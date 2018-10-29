@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# Small Business Saturday
-
 Small Business Saturday UK is a grassroots, non-commercial campaign, which highlights small business success and encourages consumers to ‘shop local’ and support small businesses in their communities.
 
 The day itself takes place on the first Saturday in December each year, but the campaign aims to have a lasting impact on small businesses. In 2016 Small Business Saturday took take place on Saturday, December 3rd.

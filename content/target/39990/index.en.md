@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Eleven - Eleven - Eleven
-
 Project to work with at least 11 different national community groups in Nottingham - both established and emerging - to gather and record family stories relating to the First World War (FWW).

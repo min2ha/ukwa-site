@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Just Say Naw
-
 <p>George Galloway's portal for his speaking tour ‘Just Saw Naw’ and the campaign for the ‘No’ vote in the Scottish Referendum.</p>

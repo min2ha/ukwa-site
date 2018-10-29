@@ -10,8 +10,6 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# e-Sgoil
-
 Site of an online school providing  wider and more equitable choice of subjects for pupils across all secondary schools in the Western Isles, 
 supporting the expansion of Gaelic medium education locally and nationally, 
 developing a network of staff who are able to deliver online learning in all subject areas throughout Scotland, engaging with Comhairle nan Eilean Siar’s workforce planning strategy in relation to adult learning and Modern Apprenticeships.

@@ -10,6 +10,4 @@
   "start_date": "2017-09-06T09:00:00Z"
 }
 
-# Bell Pottinger
-
 Bell Pottinger is a British multinational public relations and marketing company headquartered in London, United Kingdom. In September 2017 Bell Pottinger lost a number of it's high profile clients when the scandal over its secret campaign to stir up racial tensions in South Africa was uncovered.

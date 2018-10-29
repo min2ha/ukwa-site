@@ -10,6 +10,4 @@
   "start_date": "2011-01-08T00:00:00Z"
 }
 
-# Brain Bank for Autism & Related Developmental Research, The
-
 Name recorded is wrong. Should be Yorkshire Cancer Research. see Target 60588090 for Brain Bank for Autism ...

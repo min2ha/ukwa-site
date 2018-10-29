@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Energy Fair
-
 None

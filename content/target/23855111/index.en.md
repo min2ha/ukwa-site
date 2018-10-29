@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Committee of European Banking Supervisors (CEBS)
-

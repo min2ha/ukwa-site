@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Now the Tories are set to govern alone, how different will Britain look in 2020?
-
 None

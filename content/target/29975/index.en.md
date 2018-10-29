@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Caernarfon and District Civic Society
-

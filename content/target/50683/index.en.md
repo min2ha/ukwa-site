@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Dumfries House
-
 Site of a former historic house / stately home now operating as a multi-function venue and visitor attraction, and located in Cumnock, Ayrshire.

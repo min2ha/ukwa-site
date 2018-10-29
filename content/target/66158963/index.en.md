@@ -10,5 +10,3 @@
   "start_date": "2012-10-12T00:00:00Z"
 }
 
-# SPEED (Sharing Practice for Embedding E-design and Delivery)
-

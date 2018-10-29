@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glentoran FC (@Glentoran) on Twitter
-
 The Official Twitter of Glentoran Football Club, based in Belfast, Northern Ireland.

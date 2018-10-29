@@ -10,5 +10,3 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Machen RFC
-

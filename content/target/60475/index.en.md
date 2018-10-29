@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# "EU Law Analysis: The Beginning of the End? Citizens’ rights in the Brexit ‘Sufficient Progress’ deal "
-
 This blog post focuses on the citizens’ rights points in the agreement between the EU and the UK that opened the way to talks on their future relationship. It covers family reunion, residence rights, enforcement of rights, and the role of the European Court of Justice..

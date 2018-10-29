@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boris Johnson faces a battle in his own backyard.
-

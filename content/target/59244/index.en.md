@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Anglesey Druid Order
-
 The Anglesey Druid Order invokes and celebrates the importance of Anglesey as the chief seat of ancient British Druidry.

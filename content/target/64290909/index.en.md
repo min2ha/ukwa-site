@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Horsted Keynes Diamond Jubilee Organising Committee
-
 None

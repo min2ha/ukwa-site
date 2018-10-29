@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# UK Mat Surfers Forum
-
 This forum is a part of the UK Mat Surfers website and documents the culturally and historically  important surfmat riding in the UK and across the globe. 

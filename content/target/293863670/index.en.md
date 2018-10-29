@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Hanesyddol Glynnedd a Cwmgwrach | Glynneath & Cwmgwrach Historical Society
-

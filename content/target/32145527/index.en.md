@@ -10,5 +10,3 @@
   "start_date": "2014-06-25T00:00:00Z"
 }
 
-# Rhiannon
-

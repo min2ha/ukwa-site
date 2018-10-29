@@ -10,8 +10,6 @@
   "start_date": "2017-10-01T09:00:00Z"
 }
 
-# Sling the Mesh campaign
-
 Sling The Mesh campaign is calling for: 
 
 A full investigation and audit to be carried out into how many women have been adversely affected by vaginal mesh implants and tapes. We want the NHS to write to every woman who has had the operation.

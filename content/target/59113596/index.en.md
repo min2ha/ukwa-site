@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# www.jeremyfrench.co.uk
-
 None

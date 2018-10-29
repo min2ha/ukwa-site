@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# The Pig Idea
-
 Pigs were originally domesticated by people because they are so good at eating our leftovers - clearing up our waste, while converting it into valuable food (e.g. pork and bacon) and manure to keep our soil fertile.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St. Ives Literature Festival
-
 The festival is organised by poet and artist Bob Devereux in association with a number of Cornwall and West Country publ

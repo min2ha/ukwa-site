@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Guardian, The: Reproductive Rights
-
 The subsection of The Guardian newspaper related to reproductive rights.

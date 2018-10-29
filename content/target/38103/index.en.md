@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Traquair Fair
-
 Arts festival website, for event held in summer at Traquair House, Peeblesshire, Scotland

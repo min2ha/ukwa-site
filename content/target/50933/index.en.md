@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Johnstons of Elgin
-
 Site of a knit wear and Tweed retailer based in Elgin, Moray, Scotland, with visitor centres in Elgin, Hawick (Scottish Borders) and St. Andrews (Fife).

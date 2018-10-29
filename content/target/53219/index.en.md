@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Angus B MacNeil SNP | Na h-Eileanan an Iar
-
 Angus MacNeil, Scottish National Party candidate for Na h-Eileanan an Iar in the 2017 general election.

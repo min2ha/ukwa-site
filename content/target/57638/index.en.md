@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Carnivorous Plant Forum UK
-
 An online enthusiast community concerned with caring for carnivorous plants. Discuses competitions, indoor & outdoor cultivation and various other related topics.

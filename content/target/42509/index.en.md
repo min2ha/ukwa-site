@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Queen’s 90th birthday: When is it and how will we celebrate?
-
 A timeline of events to mark the Queens 90th birthday.

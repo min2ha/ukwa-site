@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Facebook to prompt all UK users to register to vote in general election
-
 None

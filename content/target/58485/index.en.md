@@ -10,8 +10,6 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Free your mind
-
 Free Your Mind is a Child Domestic Violence and Mental Heath support, awareness and support service.
 
 Domestic Violence and Mental Illness is a major problem of our time; one that impacts on all aspects of a person’s life.

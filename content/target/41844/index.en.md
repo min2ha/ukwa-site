@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Non League Scotland
-
 Site providing information and photographs for non-league Scottish football clubs.

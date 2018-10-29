@@ -10,5 +10,3 @@
   "start_date": "2011-06-06T00:00:00Z"
 }
 
-# Naomi Tydeman RI
-

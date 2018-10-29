@@ -90,6 +90,4 @@
   "endDateText": "01-08-2006"
 }
 
-# London Terrorist Attack 7th July 2005
-
 Collection of Internet sites with content about the terrorist attacks in London on July 7th 2005 begun immediately after the event. The collection comprises news and commentary, public information and support for victims and weblogs written by those who had first hand experience of the bombs. The collection was curated by staff at the British Library.

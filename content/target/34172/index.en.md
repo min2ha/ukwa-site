@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# New Sandfield Aberavon (NSA Afan)
-
 The purpose of the NSA Afan is to support regeneration to enable a better quality of life for people living in the most disadvantaged communities in the Swansea Bay Area. It is the Lead Delivery Body for the Sandfields Aberavon Communities First Cluster.

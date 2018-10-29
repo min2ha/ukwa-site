@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Wyn Jones (@WynEJones) on Twitter 
-
 Wyn Jones is a Plaid Cymru candidate for Aberconwy at the 2017 General Election. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Neil O'Brien (@NeilDotObrien  ) on Twitter (Conservative Politician)
-
 Neil O'Brien stood as Conservative candidate for Bosworth at the 2017 General Election and was elected MP.

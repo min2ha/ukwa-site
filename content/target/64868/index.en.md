@@ -10,6 +10,4 @@
   "start_date": "2018-04-27T09:00:00Z"
 }
 
-# The Linkup
-
 With its humble beginnings as a YouTube channel, Link Up TV has evolved with the UK scene. Establishing itself as a leading broadcaster of music and entertainment, the team of videographers, editors and writers have created and developed a brand; a brand which is now recognised as one of the best and biggest platforms for rising talent to develop. 

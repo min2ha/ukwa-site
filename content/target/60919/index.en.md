@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK-Preppers.co.uk
-
 An online enthusiast community concerned with doomsday preparation or 'prepping'. Discusses ways to prepare, equipment, books & educational materials, homes & retreats, medical & healthcare and various other related topics.

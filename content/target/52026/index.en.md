@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John the Baptist, Burscough
-
 St. John the Baptist, the parish church of Burscough (consecrated in 1832) was built with the aid of a grant from parliamentary funds specifically assigned, at the end of the Peninsular War, for the building of churches in populous areas.  Consequently, St. John’s, which is a Grade II* listed building, is known as a “Waterloo” church.

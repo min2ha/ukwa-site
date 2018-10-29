@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Isca Morris
-
 Isca Morris are Morris dancers based in the Newport and Gwent area and established in 1976. 

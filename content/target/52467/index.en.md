@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Agape Community Church, Newport
-

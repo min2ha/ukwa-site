@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Official Charlie Tango DX Group CB And Amateur Radio Forum, The
-
 Charlie Tango DX is a group dedicated to Hobby Radio Users in all forms, whether CB, Amateur, PMR446, Scanning and Short Wave Listening.

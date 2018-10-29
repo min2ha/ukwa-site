@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy Frost (therealmcfrost) on Twitter
-
 <p>The twitter profile of hammer thrower Andy Frost, British Champion 2013 and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

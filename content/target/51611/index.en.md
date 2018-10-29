@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Design Informatics
-
 Site of a research, teaching and outreach centre also hosting entrepreneurship events focusing on the designing using data - informatics.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-24T00:00:00Z"
 }
 
-# Josephine Corcoran
-
 <p>A blog by poet and writer Josephine Corcoran which shares articles about: the writing process; submitting work for publication; giving readings; writing in schools and community settings; community literature projects; other aspects of writing.</p>

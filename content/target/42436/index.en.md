@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Economic arguments about Brexit have succumbed to group-think
-

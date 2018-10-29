@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Richard Burden on Facebook (Labour candidate for Birmingham Northfield)
-

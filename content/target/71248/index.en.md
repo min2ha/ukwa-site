@@ -10,6 +10,4 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# PCS Left Unity
-
 Left Unity is a faction within the Public & Commercial Services Union (PCS) that is represented at every level of the union, from branches and workplaces to the National Executive Committee. 

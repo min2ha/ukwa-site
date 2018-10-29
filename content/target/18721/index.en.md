@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Forget the Queen's jubilee. Let's have a knees-up for the Magna Carta
-

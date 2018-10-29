@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - A Yes vote is not a magic wand, but it will give us...
-
 <p>Yes Scotland post made at 12pm on 14th September, 2014.</p>

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Nicola Sturgeon on Facebook
-
 Facebook page of Nicola Sturgeon, elect First Minister of Scotland, Leader of the Scottish National Party, and candidate for Glasgow Southside in the 2016 Scottish Parliamentary election.

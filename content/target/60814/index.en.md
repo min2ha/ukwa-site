@@ -10,8 +10,6 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Leicester-Shire & Rutland Sport (LRS)
-
 Leicester-Shire & Rutland Sport (LRS) is your local network and support team for physical activity and sport across Leicestershire, Leicester and Rutland.
 
 We want to be the most active place in England, building a healthy and vibrant future for our communities.

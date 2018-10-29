@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# White Ribbon UK (@WhiteRibbon_UK) on Twitter
-
 Twitter account for a campaign to end male violence against women

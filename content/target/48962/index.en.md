@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Evaluation Support Scotland
-
 Site of an organisation and registered charity working with third sector organisations and funders so that they can measure and report on their impact and use learning to improve practice and influence policy.

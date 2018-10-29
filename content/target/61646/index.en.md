@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Church of Stranraer
-
 Site of a Church of Scotland parish church at Stranraer, Dumfries and Galloway.

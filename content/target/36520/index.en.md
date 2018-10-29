@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: The Jungle: Thousands of Calais refugees will be allowed to cross Channel if UK votes for Brexit, French minister claims
-

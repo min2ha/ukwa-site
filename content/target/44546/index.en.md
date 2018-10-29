@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Birkbeck University of London: EU Referendum blogposts
-
 Blogposts relating to the EU Referendum

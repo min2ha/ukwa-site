@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# The 2018 Weston Air Festival
-
 Website advertising the 2018 Weston Air Festival

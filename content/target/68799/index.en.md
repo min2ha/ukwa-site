@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Calm Down Dear 2018
-
 Camden People's Theatre's celebration of all things feminist and theatrical

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East London Radical Assembly
-
  East London Radical Assembly is a campaign group based in East London.

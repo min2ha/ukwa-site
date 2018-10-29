@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Feminist Archive South
-
 The Southern Branch of the Feminist Archive, based in Bristol

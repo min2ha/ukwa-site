@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Aberdeen Festivals
-
  A cultural initiative, Aberdeen Festivals brings together ten festivals to work collaboratively to promote the festivals.

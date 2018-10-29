@@ -10,5 +10,3 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# 3 Churches in Cardiff: Official website for Christ the King, St Paul's and St Brigid's R.C. Churches
-

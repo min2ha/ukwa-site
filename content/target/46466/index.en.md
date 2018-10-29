@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: How the Remainers got it so wrong: the lessons of climate change campaigning
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

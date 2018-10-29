@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# Keswick Reminder, The
-

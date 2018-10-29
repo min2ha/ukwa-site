@@ -10,6 +10,4 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-# Friends of Edinburgh Speedway
-
 Site dedicated to the history and continuing support of the sport of speedway in Edinburgh, Scotland

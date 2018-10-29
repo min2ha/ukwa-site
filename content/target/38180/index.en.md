@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Green Leaves (@greenleaves2016) on Twitter
-
 Campaign group for greens and environmentalists, who are opposed to the UK remaining in the EU.

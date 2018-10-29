@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave Wales (@VoteLeaveCymru) on Twitter
-
 Vote Leave Wales - campaign for a 'leave' vote in EU referendum.

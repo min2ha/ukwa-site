@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Mirror: Harry Potter fans 'dicing with death' to get pictures of Hogwarts Express train
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Renewable Heat Incentive Northern Ireland (RHI)
-
 A splash page for articles relating to the Renewable Heat Incentive scandal which caused the collapse of the NI Power-Sharing Executive.

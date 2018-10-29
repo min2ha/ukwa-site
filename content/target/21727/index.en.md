@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Salmond says SNP will 'hold the power' in hung parliament
-
 None

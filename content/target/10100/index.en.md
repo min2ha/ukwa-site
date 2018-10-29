@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Lucy Anderson Labour on Facebook
-
 None

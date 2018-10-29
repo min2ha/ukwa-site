@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Zoella: Anxiety - the update
-
 A personal blog raising awareness about the effects of social media on mental health

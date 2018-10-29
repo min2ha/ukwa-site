@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Safeguarding Partnership Board (Jersey)
-
 Website of the Safeguarding Partnership Board in Jersey, who’s role is to co-ordinate work locally which will safeguard children and adults and to monitor and challenge the effectiveness of Jersey’s safeguarding arrangements.

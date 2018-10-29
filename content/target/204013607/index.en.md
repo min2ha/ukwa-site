@@ -11,5 +11,3 @@
   "subject": "London French Special Collection"
 }
 
-# Collège Français Bilingue de Londres
-

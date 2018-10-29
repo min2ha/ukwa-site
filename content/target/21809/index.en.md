@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bar of Northern Ireland, The
-
 The Bar of Northern Ireland is a profession of over 700 self employed barristers in independent practice.

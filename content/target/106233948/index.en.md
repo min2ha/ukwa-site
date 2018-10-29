@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge Crystallographic Data Centre (CCDC)
-

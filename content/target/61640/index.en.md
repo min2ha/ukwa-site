@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# West Kilbride Parish Church
-
 Site of a Church of Scotland parish church at West Kilbride, Ayrshire.

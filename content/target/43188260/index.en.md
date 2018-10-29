@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bristol South Liberal Democrats
-
 Website of Bristol South Liberal Democrats, providing information on news, campaign and events.

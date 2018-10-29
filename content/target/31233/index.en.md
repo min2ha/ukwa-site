@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# British Association of Skin Camouflage (BASC), The
-
 The main objective of the BASC is to alleviate the psychological, physical and social effects that an altered image can have on someone’s life by the simple application of specialised skin camouflage products.

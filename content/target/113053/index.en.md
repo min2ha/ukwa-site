@@ -10,6 +10,4 @@
   "start_date": "2005-08-19T00:00:00Z"
 }
 
-# World Wide Wounds
-
 The mission of World Wide Wounds is to be the premier online resource for peer-reviewed information on dressing materials providing practical guidance on all aspects of wound management to health professionals worldwide.

@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:10.645305", 
+  "date": "2018-10-29T13:22:17.547546", 
   "open_access": true, 
   "target_url": "http://www.oxfordmedicaleducation.com/", 
   "description": null, 
   "end_date": null, 
   "title": "Oxford Medical Education", 
-  "record_id": "20181029T125510/PVwwJMN4FZpdNUVhqCoSOA==", 
+  "record_id": "20181029T132217/PVwwJMN4FZpdNUVhqCoSOA==", 
   "publisher": "oxfordmedicaleducation.com", 
   "start_date": null
 }
-
-# Oxford Medical Education
 
 None

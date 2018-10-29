@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Family History Society of Buchan
-
 Site of a genealogical society based in the Buchan district of Aberdeenshire in the North East of Scotland.

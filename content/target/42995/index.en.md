@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Whitaker, The
-
 Website of The Whitaker - Museum and Art Gallery set in a park in Rossendale Valley, Lancashire, UK.

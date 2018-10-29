@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Libraries Taskforce: How will you mark 20 years since Harry Potter appeared?
-

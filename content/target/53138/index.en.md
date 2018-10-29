@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# SWAT (@SaveWithybush) on Twitter
-
 SWAT is a group campaigning against the downgrading of Withybush hospital in Pembrokeshire.

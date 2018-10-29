@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Trump Golf
-
 Site of a golf course and hotel located on the Menie Estate, Balmedie, Aberdeenshire.

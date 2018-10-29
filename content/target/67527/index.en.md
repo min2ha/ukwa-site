@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Paignton Rugby Club (@PaigntonRFC) on Twitter
-
 The official Twitter account of Paignton Rugby Football Club.

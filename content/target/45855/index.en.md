@@ -10,6 +10,4 @@
   "start_date": "2016-10-04T13:00:00Z"
 }
 
-# Sebastien Boyesen
-
 Sebastien Boyesen is a artist, sculptor and environmental designer. One of his works, The Guardian, is a 20 m tall statue overlooking the landscaped former Six Bells Colliery site in Abertillery, Blaenau Gwent and the site of a colliery disaster that killed 45 miners in 1960.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cayman Weekly Online
-
 Cayman Weekly Online is a subsidiary of Lewis (Cayman Islands) Ltd. This company (formerly Lewis Consulting Services) was established in January 2010 by Ralph Lewis, a qualified and experienced banker, to provide Personal Financial Counseling  services to clients in the Cayman Islands. Mr Lewis, a 30 year banking veteran, holds a degree in Banking from the Institute of Canadian Bankers and is also a Certified Financial Counselor. 

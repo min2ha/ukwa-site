@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Scotland - Tingwall Parish on Facebook
-
 Facebook page of a Church of Scotland parish church at Tingwall, Shetland.

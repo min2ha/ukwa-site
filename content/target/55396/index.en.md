@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Labour rebels vow to continue single market fight
-
 Labour MPs who back staying in the EU single market vowed to keep the pressure up on the government and their own leadership in the Brexit process.

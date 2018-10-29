@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# CharltonAthMuseum (@CHATHMuseum) on Twitter
-
 A volunteer initiative to preserve and display the heritage of Charlton Athlethic football club for the local community and supporters. This is their official Twitter account. 

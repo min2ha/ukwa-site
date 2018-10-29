@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Medieval Manuscripts (@BLMedieval) on Twitter
-
 Twitter account promoting medieval manuscripts from the British Library.

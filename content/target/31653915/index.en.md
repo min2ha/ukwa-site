@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge Association for Women in Science and Engineering (Cambridge AWiSE)
-
 None

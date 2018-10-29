@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Bubb's Blog
-
 None

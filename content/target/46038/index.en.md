@@ -10,6 +10,4 @@
   "start_date": "2017-01-07T09:00:00Z"
 }
 
-# Neontopia
-
 Neontopia is a bilingual theatre company based in Cardiff. Neontopia are Mared Swain and Alun Saunders.

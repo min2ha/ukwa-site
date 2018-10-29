@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aylesbury Spartans
-
 Flag American Football team based in Aylesbury playing in the SEC North

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blackburn Rovers LFC (@RoversLadies) on Twitter
-
 The official Twitter account of Blackburn Rovers Ladies Football Club.

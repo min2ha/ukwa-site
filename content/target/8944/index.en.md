@@ -10,6 +10,4 @@
   "start_date": "2014-01-10T18:00:00Z"
 }
 
-# Fictional World of Archives, Art Galleries & Museums, The
-
 None

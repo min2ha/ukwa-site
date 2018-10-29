@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Kitchen (Conservative)
-
 Simon Kitchen stood as Conservative candidate Newcastle upon Tyne Central at the 2015 General Election but was not elected.

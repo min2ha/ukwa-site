@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Monmouthshire Meadows
-
 promote the conservation, protection and improvement of hay meadows, Monmouthshire Meadows promote the conservation, protection and improvement of hay meadows, grass lands and unimproved pastures in the Wye Valley and elsewhere in Monmouthshire.

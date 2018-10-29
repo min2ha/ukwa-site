@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Stadiwm Liberty Stadium
-
 Liberty Stadium is the home of Swansea City Football Club and the Ospreys regional rugby team.

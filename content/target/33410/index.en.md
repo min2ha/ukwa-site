@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Digital Accessibility Centre (DAC)
-
 The Digital Accessibility Centre (DAC) works with clients to create digital media that is accessible to all members of a population, and meets best practice accessibility standards and legislation.

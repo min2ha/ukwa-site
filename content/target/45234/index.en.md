@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Government: Theresa May’s first Brexit Cabinet meeting
-
 Blog post speculates how the Cabinet will thrash out Britain's negotiating position for leaving the European Union.

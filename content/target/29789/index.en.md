@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Heroes of Fringe
-
 A collection of comedy and caberet acts promoted by Bob Slayer. Performing at the Edinburgh Fringe Festival.

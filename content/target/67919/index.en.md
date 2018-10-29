@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hammers Rugby (@HammersRugby) on Twitter
-
 The official Twitter account of Hammersmith and Fulham Rugby Football Club. 

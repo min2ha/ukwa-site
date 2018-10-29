@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# British Chinese Project, The
-
 <p>The British Chinese Project is a non-partisan, voluntary organisation seeking to raise the presence of the UK Chinese community in the British political arena.</p>

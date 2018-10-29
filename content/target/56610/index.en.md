@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Benedict: SEO Consultants
-
 Benedict is based in London and works with clients across the UK. 

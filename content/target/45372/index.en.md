@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T11:00:00Z"
 }
 
-# Sarah Broughton
-
 Sarah Broughton is writer and researcher from Cardiff and a Member of Academi and the Society of Authors.

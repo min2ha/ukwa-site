@@ -10,6 +10,4 @@
   "start_date": "2018-03-28T09:00:00Z"
 }
 
-# Big Issue Invest
-
 'Social Merchant Bank' - part of Big Issue charity

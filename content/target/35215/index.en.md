@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Laura Waters (@LauraEWaters) on Twitter
-
 The twitter profile of Laura Waters, RISE Alliance candidate for South Scotland.

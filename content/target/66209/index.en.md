@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Welsh Male Voice Choir of South Africa, The
-
 The Welsh Male Voice Choir of South Africa was formed in 1978 by a group of expatriates. The rehearse at the Marks Park Sport Club in Johannesburg.

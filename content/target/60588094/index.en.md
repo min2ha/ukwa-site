@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Gareth Hughes
-
 Gareth Hughes is a former journalist and political commentator for ITV Wales. The blog mainly focuses on Welsh politics. 

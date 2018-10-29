@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Amanjit Jhund (@amanjit) on Twitter
-
 The Twitter profile of Amanjit Jhund, the Labour Party candidate for East Dunbartonshire in the UK General Election on the 7th May 2015.

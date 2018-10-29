@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# thelynxiblog
-
 thelynxiblog is a personal website by the Head of Library & Information Science at City University London. It Discusses a wide range of topics particularly focused on the Library and Information field.

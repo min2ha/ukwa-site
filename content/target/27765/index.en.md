@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: PM suffers humour and history failure in Letterman ordeal
-

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Herefordshire Heroes
-
 Through this project we aim to research, assist with writing and producing, and perform in a production telling the stories of WW1 ‘heroes’, both those who fought and those who stayed behind, who originated from Herefordshire. 

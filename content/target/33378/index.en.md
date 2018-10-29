@@ -10,6 +10,4 @@
   "start_date": "2015-12-12T09:00:00Z"
 }
 
-# Pobl Atal Wylfa-B | People against Wylfa-B
-
 People against Wylfa-B are campaiging against a new nuclear power station at Wylfa, Anglesey.

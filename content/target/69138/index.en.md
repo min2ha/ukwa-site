@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Care2 Petitions UK: I had upskirt photos taken of me – sign to make this a sexual offence in England & Wales!
-
 A petition to make upskirting a sexual offence in England & Wales

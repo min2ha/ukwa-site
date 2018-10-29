@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T11:00:00Z"
 }
 
-# Flora
-
 Flora is a National Touring Exhibition curated by Oriel Davies and supported by Arts Council of Wales. The touring exhibition shows in different guises at each venue. The programme celebrates the power of flowers in contemporary art. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# #UKLibChat
-
 #uklibchat is a monthly discussion group that takes place on Twitter, usually from 6.30 to 8.30pm (UK time) on a Tuesday, using the Twitter account @uklibchat. The idea for #uklibchat stemmed from a Student Activism and Engagement talk that  Ka-Ming @agentk23 and Jo @dreamingentity gave at the CILIP Careers Development Group’s 2011 New Professional’s Conference.

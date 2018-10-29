@@ -10,7 +10,5 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Dare to Sing Choir
-
 Dare To Sing is an ensemble of more than 80 ladies,who sing together in Cwmdare.
 

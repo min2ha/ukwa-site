@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# The War and Peace Ball
-
 Founded in 1988 as a fundraising event in aid of the construction of the first Russian Orthodox Church in London. The War and Peace Ball is now an annual event.

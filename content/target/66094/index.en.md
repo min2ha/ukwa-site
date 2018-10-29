@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# UK Parliament (@ukparliament) on Facebook
-
 Facebook page run by the Digital Service in Parliament: it is not affiliated with any political party and is independent of the Government.

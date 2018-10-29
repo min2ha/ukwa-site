@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# Cardiff City of Sanctuary
-
 City of Sanctuary is a UK based movement committed to building a culture of welcome, in particular refugees seeking sanctuary from war and persecution. 

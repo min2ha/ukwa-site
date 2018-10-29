@@ -10,6 +10,4 @@
   "start_date": "2016-10-04T11:00:00Z"
 }
 
-# Scarlet Jones Travels
-
 A travel website set up 2012 by Jane Clements. 

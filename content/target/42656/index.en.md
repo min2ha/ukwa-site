@@ -11,5 +11,3 @@
   "subject": "Housing and Social Housing"
 }
 
-# Kilburn Unemployed Workers Group
-

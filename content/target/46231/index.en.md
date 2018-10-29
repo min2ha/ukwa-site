@@ -10,5 +10,3 @@
   "start_date": "2016-10-14T10:00:00Z"
 }
 
-# Diocese of St David's
-

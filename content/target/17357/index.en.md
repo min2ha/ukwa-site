@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mental Health Foundation:  Prioritising mental health research at the 2015 election
-
 Mental Health Foundation is an organisation supporting people with mental health problems, living with learning disabilities or reduced mental capacity. It is a registered charity in England and Scotland.

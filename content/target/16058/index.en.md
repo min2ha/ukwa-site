@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Making Constitutions Building Parliaments: Constructing representative institutions, 1000-2000
-

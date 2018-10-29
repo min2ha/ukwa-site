@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Scriptography Productions
-
 Scriptography Productions is an Aberystwyth Theatre Company established to seek training, development, mentoring, commissioning and production opportunities for writers who are writing for performance. 

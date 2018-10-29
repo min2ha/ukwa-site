@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dalkeith Thistle Community Football Club
-
 Site for a Scottish junior football club based in Dalkeith, Midlothian.

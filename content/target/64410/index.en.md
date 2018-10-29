@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# North Wales Blues and South Festival at Mold
-
 The festival takes place on Kendrick's Field in Mold.

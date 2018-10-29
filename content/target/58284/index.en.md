@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pamela Gupta (@PamelaGuptaBBC) on Twitter
-
 Twitter post by a BBC reporter about an interview with a designer of T shirts for Mental Health Day 2017

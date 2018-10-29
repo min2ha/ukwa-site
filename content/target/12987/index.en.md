@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Glasgow Concert Halls: Events
-
 <p>Website for Glasgow Royal Concert Hall, City Halls and Old Fruitmarket. They are the venues for many events during Glasgow 2014. Nicola Benedetti will perform at the Glasgow Royal Concert Hall and the Old Fruitmarket will be the Festival 2014 Club during the Games.</p>

@@ -10,6 +10,4 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# mia ridge
-
 Website about the cultural heritage technologies, user experience design and research, digital humanities run by a British academic Mia Ridge.

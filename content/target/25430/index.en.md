@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ireland gets nervous at prospect of 'Brexit' as election nears
-
 None

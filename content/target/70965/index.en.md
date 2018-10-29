@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ballymena Festival
-
 Website for the Ballymena Festival.

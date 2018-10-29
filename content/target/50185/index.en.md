@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# Cenacolo UK
-
 The Cenacolo Community was founded by Mother Elvira Petrozzi, an Italian nun, in 1983.

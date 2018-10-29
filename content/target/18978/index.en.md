@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Surrey Magna Carta visitor centre plan called off
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Choices: Stress, anxiety and depression 
-
 NHS Website that offers a number of different ways in which people with depression can get support and help

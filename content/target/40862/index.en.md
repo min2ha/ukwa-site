@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Yorkshire Federation Blog, The
-
 The West Yorkshire Federation of Womens Institutes was formed in April 1983.

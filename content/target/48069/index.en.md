@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Who Owns England?
-
 A political blog that was created in August 2016 outlining who and what owns England's resources etc.

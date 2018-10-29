@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Council of Christians and Jews: Election Manifesto
-
 The Council of Christians and Jews (CCJ) is a forum for Christian-Jewish engagement. There are three tranches to CCJ’s programmatic work: Education, Dialogue and Social Action. This engagement takes place in communities across UK through our branches as well as through our programmes.

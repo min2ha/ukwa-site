@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: From the Magna Carta to England winning the World Cup: A beginner's guide to British history
-

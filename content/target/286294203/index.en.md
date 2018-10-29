@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Taliesin Arts Centre
-
 <p>Taliesin Arts Centre is located within Swansea University's Singleton Campus.</p>

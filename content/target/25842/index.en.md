@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Party leaders enjoy group hug as Miliband looks on - video
-
 None

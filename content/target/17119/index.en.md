@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: UK general election - 100 days to go: Miliband and Cameron neck and neck in the fight for voters' trust on NHS
-

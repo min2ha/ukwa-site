@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems will have to accept Tory welfare cuts for deficit reduction deal – study
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nick The Flying Brick :  Nick 'The Flying Brick' Loony Party Candidate and gravitational theorist.
-

@@ -10,6 +10,4 @@
   "start_date": "2016-11-01T09:00:00Z"
 }
 
-# Cinematic Wales
-
 Cinematic Wales is managed by Ffilm Cymru Wales and produces films from Welsh directors. The first round of applications produced three distinctive films showcasing Welsh talent includung 'Library Suicides' and The Lighthouse'.

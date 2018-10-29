@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# Oates Field
-
 Site of a music group based in Edinburgh.

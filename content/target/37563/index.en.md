@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Greens for a Better Europe
-
 The Green Party wants Britain to remain a part of the EU because we believe that we flourish when we work together on the shared challenges we face.

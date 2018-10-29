@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Joint statement on Withdrawal Agreement - 19 June 2018
-
 This statement, presented jointly by the negotiators of the European Union (Union) and the United Kingdom of Great Britain and Northern Ireland (UK), records the progress made since the publication on 19 March 2018 of the draft Agreement on the withdrawal of the UK from the Union and the European Atomic Energy Community (the Withdrawal Agreement).

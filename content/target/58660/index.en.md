@@ -10,6 +10,4 @@
   "start_date": "2017-11-09T09:00:00Z"
 }
 
-# AMBruno 
-
 AMBruno is a coalition of artists, established in 2008 with MA Fine Art graduates from Central Saint Martins (part of University of the Arts, London); since then, participation has widened to include artists based throughout the UK and internationally.

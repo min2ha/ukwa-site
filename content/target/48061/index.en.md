@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Ysgol Newydd Margam Consultation
-
 This is a consultation on the new ‘all-through’ school on the existing Dyffryn Comprehensive and Groes Primary School site due to open in 2018.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Practical Fishkeeping Forum
-
 An online enthusiast forum concerned with fish keeping, is related to the Practical Fishkeeping Magazine. Discusses aquarium equipment, fish identification, fish breeding, water chemistry and various other topics.

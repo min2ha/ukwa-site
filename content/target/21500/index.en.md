@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: New £1,000 savings allowance? It just keeps a Tory promise
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# Lodge Solomon 1209 Edinburgh
-
 Site of a masonic lodge located in Edinburgh and affiliated with the Grand Lodge of Scotland.

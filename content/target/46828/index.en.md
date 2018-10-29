@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# I Ka Ching | Cwmni Recordiau Annibynol | Independent Record Label
-
 I Ka Ching is a Welsh language Independent Record Label.

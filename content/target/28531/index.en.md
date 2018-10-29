@@ -10,6 +10,4 @@
   "start_date": "2015-06-30T10:00:00Z"
 }
 
-# Bureau of Freelance Photographers (BFP)
-
 The Bureau of Freelance Photographers (BFP) was founded in 1965 to help freelance and aspiring freelance photographers to sell their pictures to editorial markets.

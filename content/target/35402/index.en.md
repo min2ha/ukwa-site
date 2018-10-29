@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Streets They Left Behind: Finsbury and Islington 1914-18, The
-
 The Streets They Left Behind' will focus upon the homes of over 9000 people from the London Borough of Islington who died as a result of the First World War.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Localis: The making of an industrial strategy: taking back control locally
-
 Government must broaden its focus from the major cities to small town England if it is to make an economic success of Brexit.

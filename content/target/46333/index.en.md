@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM meeting with President Grabar-Kitarović: 11 October 2016
-
 Prime Minister Theresa May met Croatian President Kolinda Grabar-Kitarović and discussed the close relationship between the UK and Croatia in the context of Brexit

@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Elgin Mosque
-
 Site of an Islamic place of worship located in Elgin.

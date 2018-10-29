@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# 38 Degrees (@38_degrees) on Twitter
-
 The twitter profile of 38 Degrees, a campaigning community.

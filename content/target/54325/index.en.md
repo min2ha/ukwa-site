@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# University of Liverpool Management School: What does your party's General Election 2017 manifesto say about football?
-
 The almost complete disregard of football in the 2017political party manifestos suggests that football (and sport in general) is closer to the public than the politicians who lead us.

@@ -10,6 +10,4 @@
   "start_date": "2015-09-14T10:00:00Z"
 }
 
-# Jeremy Corbyn’s shadow cabinet
-
 Coverage of putting together Jeremy Corbyn's shadow cabinet.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Royal Mint (@RoyalMintUK) on Twitter
-
 Official Twitter account of The Royal Mint. For Royal Mint Invest follow @RoyalMintInvest and for The Royal Mint Experience follow @RoyalMintExp.

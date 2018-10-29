@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# ffranc sais
-
 An Englishman of forty years residence in Wales pontificates about politics, sport, the environment and industrial history. Frank H. Little is Semi-retired computer programmer, former councillor for Cadoxton on Neath Port Talbot County Borough Council, and secretary of Aberavon & Neath Liberal Democrats.

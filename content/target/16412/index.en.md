@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Workplace Giving UK
-
 <p>Workplace Giving UK helps employees and employers support good causes in the most tax-efficient way – by giving directly from their pay.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dan Keatings (DanKeatings) on Twitter
-
 <p>The twitter profile of althete Dan Keatings, gymnast and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

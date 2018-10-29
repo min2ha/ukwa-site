@@ -4589,6 +4589,4 @@
   "endDateText": ""
 }
 
-# Sports: International Events
-
 A mix of some of the international sporting events that have been hosted by the UK or where their was a strong British presence at the event.

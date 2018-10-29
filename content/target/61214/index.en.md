@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Dee Valley, The 
-
 This site provides tourist information for the Dee Valley covering Bala, Chirk, Corwen, Llangollen and local areas including the World Heritage Site centred around Pontcysyllte Aqueduct. 

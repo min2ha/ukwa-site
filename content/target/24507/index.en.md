@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Balls: Any Labour deal with the SNP would be a 'betrayal' of English voters
-
 None

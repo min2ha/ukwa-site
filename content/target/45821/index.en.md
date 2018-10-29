@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Kohima Educational Trust
-
 The purpose of the trust is to provide educational assistance to the young people of Nagaland, India in order to repay the debt of honour owed for their unstinting help given to the 2nd Division and other British Army units during the battles of 1944.

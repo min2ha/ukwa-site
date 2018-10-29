@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: The right choice is to remain
-

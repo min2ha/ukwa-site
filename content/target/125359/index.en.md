@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Tim Worstall Tabloid Edition
-

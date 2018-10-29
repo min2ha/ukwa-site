@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Windrush Day
-
 A website dedicated to the commemoration of 70 years from the arrival of the HMT Empire Windrush, which has come to symbolise a generation of Caribbean migrants to the United Kingdom.

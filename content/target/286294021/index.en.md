@@ -10,6 +10,4 @@
   "start_date": "2014-11-11T13:00:00Z"
 }
 
-# Culture Colony Quarterly Magazine
-
 <p>Culture Colony Quarterly magazine (CCQ) offers an independent perspective on the arts in Wales across a wide range of disciplines, genres and practice.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Pirate Party Wales (@WalesPirate) on Twitter
-
 Wales branch of the Pirate Party.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Six ways Nick Clegg steered the Liberal Democrats to disaster
-
 None

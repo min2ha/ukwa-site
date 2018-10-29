@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Sylvia Pankhurst Memorial Committee
-
 None

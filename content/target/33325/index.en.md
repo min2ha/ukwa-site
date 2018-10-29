@@ -10,6 +10,4 @@
   "start_date": "2015-12-10T09:00:00Z"
 }
 
-# Zoom Cymru
-
 Zoom Cymru is a charity working in the South Wales Valleys whose objects are to promote, maintain, improve and advance education by the provision of a year-round film and media for young people.

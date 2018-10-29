@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Hardline Brexiteer Jacob Rees-Mogg says 'UK is heading for no deal Brexit... and there's nothing to be scared of'
-
 Jacob Rees-Mogg used his radio show to attack his party leader's Brexit plan. The west country MP said it was likely Britain would crash out of the EU in March 2018.He said there was 'nothing to be frightened of' by being subject to WTO rules
 
 

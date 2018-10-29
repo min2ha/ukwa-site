@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LGBT For Europe (LGBTforEurope) on Twitter
-
 LGBT group campaigning for the UK to stay in the EU

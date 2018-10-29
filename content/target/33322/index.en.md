@@ -10,7 +10,5 @@
   "start_date": "2015-12-10T09:00:00Z"
 }
 
-# David Jones: Dialogues with the Past
-
 'David Jones: Dialogues with the Past' is an International, Interdisciplinary Conference held at the University of York in July 2016.
 21-23 July, 2016

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Conservatives will not enter 'pacts or deals' with Ukip, claims Tory chairman Grant Shapps
-
 None

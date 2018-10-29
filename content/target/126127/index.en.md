@@ -10,5 +10,3 @@
   "start_date": "2011-06-15T00:00:00Z"
 }
 
-# Cinnamon Press: Books that are the spice of life
-

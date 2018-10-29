@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Leonard's Church
-
 Site of a Church of Scotland parish church at Forres, Moray, and its related church at St. Michael's Church, Dallas.

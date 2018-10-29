@@ -11,8 +11,6 @@
   "subject": "Zines and Fanzines"
 }
 
-# Scrawl...the 'black sheep' of literary 'zines
-
 The online literary magazine The Scrawl, is now its main manifestation. 
 The Scrawl began as a magazine on paper in the year 2000 and produced 
 two issues with support from Arts Council of Wales before transferring 

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Gazette, The
-
 Paisley and Renfrewshire Gazette 

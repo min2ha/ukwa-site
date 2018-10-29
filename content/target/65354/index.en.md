@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Lerwick, Bressay and Gulberwick Parish Church on Facebook
-
 Site of a Church of Scotland parish church at Lerwick, Shetland.

@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Liberty: Nelson Mandela 1918 - 2013
-
 None

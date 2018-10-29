@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Philip Pullman: If I were Prime Minister: Every privatised corner of the NHS would be taken back into public ownership
-

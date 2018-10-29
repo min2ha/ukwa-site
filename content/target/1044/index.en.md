@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Maternity Service Liaison Committees 
-
 None

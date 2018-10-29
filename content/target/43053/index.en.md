@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Leicester Animal Rights
-
 Leicester Animal Rights campaigns to end animal cruelty and promotes a vegan lifestyle.

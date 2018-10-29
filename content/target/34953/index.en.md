@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Chic Brodie MSP
-
 Chic Brodie was Scottish National Party member of the Scottish Parliament for South Scotland from 2011 to 2016.

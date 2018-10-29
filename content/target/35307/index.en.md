@@ -11,7 +11,5 @@
   "subject": "EU Referendum"
 }
 
-# Mike Hookem (UKIP Politician)
-
 Mike Hookem stood as UK Independence Party (UKIP) candidate for Great Grimsby at the 2017 General Election but was not elected.
 Mike Hookem is MEP for Yorkshire & the Humber. He has served as UKIP's Fisheries spokesman since 29 November 2016, and had previously served as defence spokesman from 2014-16.

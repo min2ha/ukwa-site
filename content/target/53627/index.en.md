@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cyrsiau Sabothol Cymru
-
 Cyrsiau Sabothol Cymru is based at Canolfan Peniarth, University Of Wales Trinity Saint David. The aim of the Sabbatical Scheme is to increase the supply of practitioners able to teach through the medium of Welsh or bilingually.

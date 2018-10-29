@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Ffin Records
-
 Ffin Records is a niche independent Welsh label founded by composer and producer John Hardy. Ffin Records is based at Chapter Arts Centre, Cardiff.

@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Stop Climate Chaos Scotland
-
 SIte of a coalition of organisations in Scotland campaigning against climate change.

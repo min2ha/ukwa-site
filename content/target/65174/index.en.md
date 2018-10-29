@@ -10,6 +10,4 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Dailly Parish Community Website
-
 Site of the communityy website for the village of Dailly, Ayrshire, providing information on amenities, the community council, history and sport and leisure in the area.

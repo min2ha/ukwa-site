@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Independent Photography Festival
-
 Annual, multi-city celebration of photography, its application and practice

@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Nantyfelin Pottery
-
 Nantyfelin Pottery is run by Jamie & Dodie Herschel. They offer pottery making days and lessons, and workshops for more advanced students.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: UK election: the next British government may be decided in Scotland
-
 None

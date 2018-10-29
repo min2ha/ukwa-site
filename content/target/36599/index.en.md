@@ -10,6 +10,4 @@
   "start_date": "2016-03-03T09:00:00Z"
 }
 
-# Sophie Mckeand
-
 Sophie Mckeand is a writer, poet, performer and educator and Young People’s Laureate for Wales in 2016.

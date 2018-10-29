@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: What happens next? MailOnline's guide to how the world will change after Britain votes for Brexit in historic EU referendum result  
-

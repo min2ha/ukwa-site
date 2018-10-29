@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Caroline Lucas: 'I?m not in politics to play about'
-
 None

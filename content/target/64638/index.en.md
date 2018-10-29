@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Leeds Postcards 
-
 Long established publisher of radical, feminist and political postcards 

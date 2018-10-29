@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Sir John the vengeful doormat has always been an intensely vain man: QUENTIN LETTS on the Grey Man's back-seat driving    
-

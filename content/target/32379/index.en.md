@@ -10,5 +10,3 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Pembroke Dock Chamber of Trade 
-

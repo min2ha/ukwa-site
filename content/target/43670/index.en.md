@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Humanist Life
-
 HumanistLife is a daily content website giving a voice to humanists on all the topics that interest, inspire or concern them. Humanists don’t have to respond to everything they see and do as humanists… but at HumanistLife, we share humanist perspectives on current affairs, society, art, science, nature and, well… life. Includes a series of posts on the EU referendum from prominent humanists on either side of the debate. 

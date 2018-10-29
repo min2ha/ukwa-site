@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Adventures of Rachel and John, The: Exploring the world on our tandem
-

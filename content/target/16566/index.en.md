@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green party likely to be included in new plan for general election leader debates
-
 None

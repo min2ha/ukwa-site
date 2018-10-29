@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Visit Russia: Russian Speaking Diaspora Award
-
 The Russian National Tourist Office received an award in 2010 from the Russian Community Council of Great Britain "For Achievements in Creating a Positive Image of the Russian-Speaking Diaspora in Social, Political and Economic Spheres in the UK".

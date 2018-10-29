@@ -10,5 +10,3 @@
   "start_date": "2006-02-02T00:00:00Z"
 }
 
-# Evangelical Movement of Wales: Serving Christians in Wales and beyond - Mudiad Efengylaidd Cymru: Cefnogi Cristnogion Cymru a'r byd
-

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Everything Ghost.co.uk Forum
-
 An online enthusiast community concerned with ghost hunting. Discusses ghost investigations, ghostly experiences, haunted locations & stories and various other related topics.

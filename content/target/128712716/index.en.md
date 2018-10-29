@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Health Protection Agency (HPA)
-
 None

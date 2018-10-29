@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Scottish Women's Hospitals
-
 The Scottish Women's Hospital WW1 Memorial project explores the work of Scottish Nurses and Doctors during World War I in Serbia. 

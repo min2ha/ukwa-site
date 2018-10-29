@@ -10,6 +10,4 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Three Villages
-
 Site of a local community development trust providing information for residents and visitors to Arrochar, Tarbet and Succoth, in Argyll & Bute, as well as the development activities of the Trust.

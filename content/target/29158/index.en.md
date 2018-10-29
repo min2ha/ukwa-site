@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# SSE
-
 Energy, mobile and broadband supplier

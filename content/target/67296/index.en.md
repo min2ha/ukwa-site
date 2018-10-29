@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Winslow Rugby Club (@WinslowRUFC) on Twitter
-
 Winslow RUFC are an amateur rugby club based in Bucks. A club for all levels we are always looking for new players! 

@@ -10,6 +10,4 @@
   "start_date": "2017-07-18T09:00:00Z"
 }
 
-# Clackmannanshire Biodiversity Partnership
-
 A partnership between Biodiversity Scotland and NGOs, community groups and individuals based in Clackmannanshire to record and improve local diversity.

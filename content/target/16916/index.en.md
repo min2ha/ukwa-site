@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Fleet News: Fleet Industry Manifesto 2015 
-
 Fleet News is a source of news and expertise for decision-makers of the £40 billion company car and van industry. It has been reporting on the fleet industry for more than 30 years giving it a unique perspective of the market. Targeted at fleet decision-makers within UK companies, Fleet News is read by those responsible for fleets of 10 or more cars or light commercial vehicles.

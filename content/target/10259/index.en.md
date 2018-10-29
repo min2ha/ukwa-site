@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Seb Dance, Labour on Facebook
-
 None

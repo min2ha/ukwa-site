@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wired: Google data reveals Brexit has a huge lead in online search
-
 Article about google trends in relation to EU referendum

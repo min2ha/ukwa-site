@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit is a Tory mess. Labour has shown it can clear it up
-

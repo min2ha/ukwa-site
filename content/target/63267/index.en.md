@@ -10,7 +10,5 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Justine Allison Ceramics : Blog
-
 
 Justine Allison is a Potter and Ceramicist based in West Wales working solely with hand built porcelain.

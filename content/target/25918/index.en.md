@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron launches election campaign with swipes at Ed Miliband
-
 None

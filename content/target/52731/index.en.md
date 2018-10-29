@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Best for Britain
-
 This campaign asks people to use their vote in the 2017 general  election to support anti-Brexit candidates.

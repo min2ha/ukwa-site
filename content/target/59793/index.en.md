@@ -10,6 +10,4 @@
   "start_date": "2017-12-16T09:00:00Z"
 }
 
-# Communicado Theatre
-
 Site of a theatre company based in Midlothian, Scotland.

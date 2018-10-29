@@ -1,14 +1,12 @@
 {
-  "date": "2018-10-29T12:54:13.197775", 
+  "date": "2018-10-29T13:21:12.501410", 
   "open_access": true, 
   "target_url": "http://escoe.wordpress.com/", 
   "description": "", 
   "end_date": null, 
   "title": "Improving the Usability and Learnability of the e-Science Central Service Development Kit", 
-  "record_id": "20181029T125413/iSNIDaFXcJoDTFK/4Bp9nw==", 
+  "record_id": "20181029T132112/iSNIDaFXcJoDTFK/4Bp9nw==", 
   "publisher": "wordpress.com", 
   "start_date": null
 }
-
-# Improving the Usability and Learnability of the e-Science Central Service Development Kit
 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Emtec Group Limited
-
 The website of Emtec Group Limited, a building services and engineering contractor based in Uddingston, Scotland.

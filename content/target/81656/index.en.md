@@ -10,6 +10,4 @@
   "start_date": "2018-10-19T09:00:00Z"
 }
 
-# Hoover
-
 Hoover design a range of cleaning, cooking, cooling and laundry appliances and is based in Merthyr Tydfil. It is listed in the Wales top 300 companies for 2017, a list compiled by Professor Dylan Jones-Evans of the University of South Wales.

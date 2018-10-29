@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Mirror, The: EU Referendum
-
 Section on www.mirror.co.uk about the EU Referendum

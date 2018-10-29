@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Coopey (@SimonCoopey) on Twitter (Plaid Cymru candidate for Newport West)
-
 Simon Coopey is the Plaid Cymru candidate for Newport West at the 2016 National Assembly for Wales elections and 2015 Westminster Elections.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Army Cricket Association, The 
-
 Website of the Army Cricket Association including information on rules, statistics and fixtures.

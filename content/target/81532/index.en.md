@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Craft Forum UK
-
 A site for UK-based craft forums

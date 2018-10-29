@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bristol Bikefest
-
 Website for the Bristol Bikefest

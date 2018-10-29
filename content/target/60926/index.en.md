@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Scottish Sports Hall of Fame
-
 Site of a list of prominent Scottish sports people afforded the honour by Sport Scotland of being included in the list for their outstanding achievements and contribution to Scottish sport.

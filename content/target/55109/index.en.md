@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Municipal Dreams Blog
-
 Blog about the history of social housing in the UK

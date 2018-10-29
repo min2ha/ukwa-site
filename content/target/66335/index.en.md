@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Cuantec
-
 "CuanTec are a Scottish based blue biotech company making compostable, antimicrobial bioplastic from waste of the fisheries industry, providing an environmentally responsible alternative to polluting packaging."

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mirror: Addicted 'gameaholics' admit to spending up to 10 HOURS a day playing their favourite video games
-
 News article about the increasing amount of online games and the amount of time people are spending on them, forming addictions to online gaming

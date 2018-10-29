@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Terfeliaid
-
 Trefeliaid - The Official Followers of Bryn Terfel

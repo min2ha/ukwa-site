@@ -11,8 +11,6 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# We Bird North Wales: Bird news from across North Wales and beyond
-
 
 
 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Stand Up to Racism (@AntiRacismDay  ) on Twitter
-
 Twitter feed of the Stand Up to Racism pressure group, which opposes racism, anti-Semitism and Islamophobia, and promotes diversity.

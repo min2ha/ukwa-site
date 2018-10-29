@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UK Independence Party Scarborough & Whitby
-
 A local branch of UKIP based in the North East.

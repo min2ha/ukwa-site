@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# SurvivorsUK
-
 SurvivorsUK helps men who have been sexually abused and raises awareness of their needs.

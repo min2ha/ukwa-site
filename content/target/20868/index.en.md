@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martyn Day on Facebook
-
 This is the Facebook page of Martyn Day, the Scottish National Party (SNP) candidate for Linlithgow and East Falkirk in the UK General Election on the 7th May 2015.

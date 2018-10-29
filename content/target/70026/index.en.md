@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Farmers Guardian
-
 FGInsight.com is the online home of Farmers Guardian and your main channel for agricultural related digital content. FGInsight.com brings together content from across our portfolio of titles Farmers Guardian, Dairy Farmer, Arable Farming, together with dedicated data, intelligence, tools and information guides.

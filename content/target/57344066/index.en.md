@@ -10,5 +10,3 @@
   "start_date": "2011-02-22T00:00:00Z"
 }
 
-# BBC Cymru - Eisteddfod Genedlaethol Cymru Caerdydd 2008
-

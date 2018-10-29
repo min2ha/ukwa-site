@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Festival of Museums
-
 Site of a festival dedicated to Scottish museums and galleries and their artefacts.

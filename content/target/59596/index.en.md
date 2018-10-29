@@ -10,6 +10,4 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# Sound Affairs
-
 Sound Affairs is based in Cardiff and produces recordings, tours, performances and concerts of new music, dance and digital art.  

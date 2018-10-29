@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Gwdihw Cafe Bar
-
 Gwdihŵ is a flourishing 100-180 capacity venue for alternative music established in 2008. The venue is loctaed in Cardiff. 

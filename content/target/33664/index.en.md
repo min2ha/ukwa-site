@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Phil Bradley's Weblog
-
 Blog by a UK librarian Phil Bradley.

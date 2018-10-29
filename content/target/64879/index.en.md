@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# a-n The Artists Information Company: Brexit
-

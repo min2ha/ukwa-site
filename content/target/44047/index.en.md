@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Great Perthshire Picnic
-
 Site of an annual food and drink festival held throughout Perthshire, Scotland. 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Churches of Kidwelly, Llandyfaelog, Mynyddygarreg
-

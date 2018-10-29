@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Third Floor Gallery
-
 Third Floor Gallery is a contemporary photographic gallery established in January 2010 by photographers Joni Karanka and Maciej Dakowicz and is located at Cardiff’s waterfront. 

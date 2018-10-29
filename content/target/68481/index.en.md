@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Soccer-Mad-Boffins
-
 This is a blog ran by two management academics at the University of York, UK. This blog exists as a platform to publicise football related research and general discussion.

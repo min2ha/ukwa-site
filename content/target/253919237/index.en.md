@@ -10,6 +10,4 @@
   "start_date": "2014-10-04T10:00:00Z"
 }
 
-# INTERIGHTS - International Centre for the Legal Protection of Human Rights
-
 None

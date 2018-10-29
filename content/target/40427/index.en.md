@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# A Land Fit for Heroes: exhibition and engagement programme at the People's History Museum
-
 Project to explore how individuals and their organisations, including the trade union and co-operative movements and Labour Party, contributed to the war abroad and at home and illustrating the legacy of the war in the decades that followed.

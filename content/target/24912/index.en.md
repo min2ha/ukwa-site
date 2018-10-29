@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Duncan Enright Labour's 2015 Parliamentary Candidate of West Oxfordshire   
-

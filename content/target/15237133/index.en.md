@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Royal British Legion, The
-
 The Royal British Legion were set up to help members of the Royal Navy, British Army, Royal Air Force, Reservists, veterans and their families all year round. They also campaign to improve their lives, organise the Poppy Appeal and remember the fallen.

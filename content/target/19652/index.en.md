@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UKIP Yorkshire and North Lincolnshire
-
 Website of UKIP Yorkshire and North Lincolnshire, providing information on policies, branches and local, national, regional and party news.

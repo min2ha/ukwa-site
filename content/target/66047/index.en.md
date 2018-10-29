@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Markinch Highland Games on Facebook
-
 Facebook page of a highland games in Markinch, Fife.

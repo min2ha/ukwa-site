@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mark’s, Gillingham
-
 St. Mark’s is a relaxed, family-centred, Anglican Church in the centre of Gillingham.

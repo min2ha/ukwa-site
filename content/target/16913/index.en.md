@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Student Assembly Against Austerity, The: Launching the Student Manifesto 2015
-
 None

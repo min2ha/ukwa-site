@@ -10,6 +10,4 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# NHC Music
-
 Site of a music promotion and distribution organisation based in Glasgow, Scotland. The organisation is volunteer-run and not-for-profit, and also programmes a regular selection of events across the city and has a music shop and hub in the Finnieston area.

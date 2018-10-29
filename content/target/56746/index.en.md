@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Whisky Live
-
 Site of an organisation staging festivals of whisky around the world.

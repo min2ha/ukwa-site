@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Facebook wants you to tell all your friends when you vote in the General Election
-
 None

@@ -11,6 +11,4 @@
   "subject": "Global UK"
 }
 
-# Irish in London Network (@IrishinLondon) on Twitter
-
 An Irish in London Network group

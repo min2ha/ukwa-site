@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Spectrum, London School of Economics 
-
 A website that supports and represent staff from lesbian, gay, bi, trans and other minority sexual orientation and gender identities at the London School of Economics 

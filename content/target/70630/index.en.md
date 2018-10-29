@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Travelling Heritage Bureau, The
-
 A project by Digital Women's Archive North (DWAN), supported by the Heritage Lottery Fund.

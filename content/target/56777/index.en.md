@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Yen Quach Art and Illustration
-
 Website of Yen Quach, including webcomics and illustration

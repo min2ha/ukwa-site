@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Solace Women's Aid
-
 olace Women’s Aid’s vision is of a world where women and children live their lives free from domestic and sexual abuse.

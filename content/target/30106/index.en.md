@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Balham Free Fringe
-
 Website for the Balham Free Fringe, a weekend of free Edinburgh Fringe comedy previews.

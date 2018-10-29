@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Social Media Alba on Facebook
-
 Social Media Alba are a bilingual social media enterprise based in Glasgow, running #Gàidhlig Twitter Day on 30th April 2015.

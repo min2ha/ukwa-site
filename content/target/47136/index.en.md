@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Imperial College Union
-
 Every student at Imperial College London is a member of Imperial College Union. They are a student-led organisation that has been enhancing the education and development of our 16,000+ members since 1907. They have over 300 Clubs, Societies & Projects, four bars, two nightclubs, a shop, a newsagent, a vast representation network and much, much more.

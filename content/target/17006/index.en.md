@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Academy of Medical Sciences, The
-

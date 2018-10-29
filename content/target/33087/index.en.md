@@ -10,5 +10,3 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# Edinburgh Stop the War: Troops out of Afghanistan; Scrap Trident: No 2 NATO
-

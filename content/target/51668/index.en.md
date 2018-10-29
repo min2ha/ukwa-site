@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Atlas Arts
-
 Site of a producer and commissioner of contemporary art that creating connections between artists and audiences and responding the unique qualities of Skye, its landscapes, its culture and its people.

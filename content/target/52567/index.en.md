@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Gina Miller raises £150,000 in 24 hours for general election tactical voting campaign
-
 Gina Miller has used crowd funding to raise money for a campaign to tour the country supporting 2017 general election candidates who oppose Brexit.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Bodleian Libraries: Sappho to Suffrage: women who dared
-
 Bodleian Libraries event commemorating the achievements of women.

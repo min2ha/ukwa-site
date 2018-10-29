@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Free Safe Legal
-
 Free Safe Legal is a website to help raise funds for a documentary about the abortion rights campaign in Northern Ireland. The online fundraising campaign ended on 7/05/2017. 

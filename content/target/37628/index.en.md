@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Forget Brexit, this is a union of nations the Queen would NEVER want to leave behind: Robert Hardman on why the Commonwealth is still close to the monarch's heart   
-

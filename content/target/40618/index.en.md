@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Dem Fest 2016 (A new festival of Democracy)
-
 Dem Fest 2016 (A new festival of Democracy) is taking place in May 2016 at W.E. Gladstone’s library at Hawarden. It is organised by The Raymond Williams Foundation, Gladstone's Library and The Democratic Society.

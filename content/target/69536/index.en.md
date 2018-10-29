@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Gerards and Sacred Heart, Belshill
-
 Site of a Scottish Roman Catholic parish church located in Belshill, Lanarkshire.

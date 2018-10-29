@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Generation Identity United Kingdom and Ireland
-
 Generation Identity (GI), a pan-European group, officially launched its UK branch in Autumn 2017. 

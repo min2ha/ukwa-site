@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# St Edward's Church, Roath
-

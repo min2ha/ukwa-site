@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Louise Bloor (louise_bloor) on Twitter
-
 Twitter profile of Louise Bloor, competitor in the 100m relay for England at the Glasgow 2014 Commonwealth Games.

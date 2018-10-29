@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Royal Northern College of Music (RNCM), The
-
 Official website of the Royal Northern College of Music, Manchester.

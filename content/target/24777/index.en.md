@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marina Ahmad (Labour)
-
 Marina Ahmad stood as Labour party candidate for Beckenham at the 2015 General Election but was not elected.

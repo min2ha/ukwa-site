@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Junior lawyers aim to inspire pupils to study law
-

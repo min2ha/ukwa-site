@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Blind Veterans UK blog
-
 None

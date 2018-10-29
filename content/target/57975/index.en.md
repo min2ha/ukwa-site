@@ -10,6 +10,4 @@
   "start_date": "2017-10-21T09:00:00Z"
 }
 
-# Shirley Ann Owen
-
 Shirley Anne Owen is an artist primarily concerned with landscape within the wider context of the effects of coastal erosion and climate change.

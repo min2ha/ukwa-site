@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News : New Conservative cabinet to meet for first time
-
 None

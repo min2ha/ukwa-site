@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Burum
-
 Burum is a Welsh folk/jazz fusion group  who often compose Jazz arrangements of Welsh folk tunes.

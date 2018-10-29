@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Twitter Moments: Scotland and N.Ireland calls for independence
-

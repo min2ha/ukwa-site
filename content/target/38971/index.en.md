@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: George Osborne warns Brexit could prompt £36bn cuts to public services
-

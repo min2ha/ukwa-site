@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# OurIslandsOurFuture (islands2014) on Twitter
-
 <p>The twitter profile of Our Islands Our Future, a group formed by Scotland's three Island Councils to plan a stronger future for their communities after the Independence Referendum 2014.</p>

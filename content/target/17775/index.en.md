@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tories ahead of Ukip in key seats, poll finds
-
 None

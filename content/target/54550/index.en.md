@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Friends Party
-
 We are a group of people who came together as concerned citizens of various backgrounds. We are from different cultural backgrounds including the common wealth, living in the United Kingdom. Our backgrounds are across the different professions, different ages and different economic backgrounds. All our experiences are based in the real world.

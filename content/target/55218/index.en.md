@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Borders Festival of the Horse 
-
 Site of a festival of events with horses as the central focus.

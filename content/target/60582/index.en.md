@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Chile 40 Years On (@chile40yearson) on Twitter
-
 Commemorating the 40th anniversary of the Chilean military coup & the Chile Solidarity Movement across the UK.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: General Election 2015 LIVE: THREE leaders quit as winner Cameron heads to the Palace
-
 None

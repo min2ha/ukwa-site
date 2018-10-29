@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Michael Gove appointed Justice Secretary in David Cameron's cabinet
-
 None

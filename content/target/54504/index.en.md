@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# 38 Degrees: Keep the ban on fox hunting
-
  A petition to keep the ban on fox hunting.

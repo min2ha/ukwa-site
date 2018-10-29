@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Facts4EU 
-
 Facts4eu.org focuses on information which shows that the UK is better off regaining its independence and growing globally. The entire weight of the Establishment is promoting the opposite case, so this site is just one small voice trying to redress the balance. 

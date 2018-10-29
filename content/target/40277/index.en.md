@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit fears weighing down UK manufacturing? Dream on 
-
 Guardian, The

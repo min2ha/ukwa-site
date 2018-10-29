@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Angela Eagle told by police not to meet constituents as Jeremy Corbyn warns all MPs could face reselection 
-
 Angela Eagle, the Labour MP who challenged Mr Corbyn for the leadership, has been told by police to stop holding open surgeries with her constituents over concerns for her safety.

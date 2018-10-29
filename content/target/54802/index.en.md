@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# British Army Polo Association
-
 Founded in 1998, the British Army Polo Association (APOLOA) was created to govern polo in the Army, both in the UK and abroad.

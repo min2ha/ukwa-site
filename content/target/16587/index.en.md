@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 2015 general election: enough of the fatalism. It's a great time to push for change in politics
-
 None

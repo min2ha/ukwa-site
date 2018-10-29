@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: what impact on those currently exercising free movement rights?
-
 This Commons Library briefing paper addresses the question of the status, post-Brexit, of EU citizens currently resident in the UK and those British citizens living elsewhere in the EU.

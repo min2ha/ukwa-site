@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Orange and Cyan Arts
-
 None

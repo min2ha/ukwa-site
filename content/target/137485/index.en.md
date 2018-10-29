@@ -10,5 +10,3 @@
   "start_date": "2012-07-20T00:00:00Z"
 }
 
-# WIRED: Empowering People
-

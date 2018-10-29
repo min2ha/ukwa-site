@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# London Festival of Architecture 
-
 Website for the London Festival of Architecture.

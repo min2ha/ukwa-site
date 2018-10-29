@@ -10,6 +10,4 @@
   "start_date": "2015-08-08T10:00:00Z"
 }
 
-# Shoreditch Trust
-
 Shoreditch Trust works to reduce social and economic disadvantage in Hackney, East London, by supporting people to gain knowledge, skills and opportunities.

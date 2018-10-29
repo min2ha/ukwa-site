@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Arakan Rohingya Organisation UK - AROUK
-
 Facebook presence of AROUK -  a UK-based international non-profit & non-governmental organisation works for needy. Esp: for those people who are the "most persecuted at the face of the earth" (Rohingya).

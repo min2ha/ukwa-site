@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Index on Censorship: John Crace on the Magna Carta: 1215 and all that
-

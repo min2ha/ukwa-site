@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ulster Ladies Gaelic Football
-
 The official website of the Ulster Ladies Gaelic Football.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: How wartime Britain planned to give the US a copy of Magna Carta
-

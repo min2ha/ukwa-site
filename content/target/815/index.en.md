@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Smokefree NW Date Tool
-
 None

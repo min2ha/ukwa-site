@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bedwen Lyfrau | Gwyl lyfrau Gymraeg i'r holl deulu
-
 Bedwen is an annual Welsh language literature festival.

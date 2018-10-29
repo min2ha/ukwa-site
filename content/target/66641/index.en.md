@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Clarence House (@ClarenceHouse) on Twitter
-
 Updates, pictures and videos from Clarence House, about The Prince of Wales and The Duchess of Cornwall.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Adrian Trett (Liberal Democrats candidate for Vauxhall)
-
 Adrian Trett stood as Liberal Democrat candidate for Vauxhall at the 2015 General Election but was not elected.

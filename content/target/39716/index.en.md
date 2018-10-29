@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE: Mid Scotland and Fife on Facebook
-
 Facebook page of the Mid Scotland and Fife branch of RISE: Scotland's Left Alliance.

@@ -10,6 +10,4 @@
   "start_date": "2015-08-05T10:00:00Z"
 }
 
-# Hiraeth
-
 The blog of a Welshman who heard the call of hiraeth; the longing for, and bond with Wales; its timeless past, its language, its call to the spirit and its deep connection with the land.

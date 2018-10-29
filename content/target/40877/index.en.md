@@ -10,6 +10,4 @@
   "start_date": "2016-05-12T10:00:00Z"
 }
 
-# Scottish Vintage Bus Museum
-
 Site of a museum located in Fife, Scotland, who restore and exhibit vintage buses.

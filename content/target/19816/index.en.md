@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cyngor Gweithredu Gwirfoddol Cymru (WCVA) Etholiad y Deyrnas Unedig 2015 / Wales Council for Voluntary Action (WCVA) General Election Manifesto 2015
-
 The body that represent the voluntary and third sector in Wales.

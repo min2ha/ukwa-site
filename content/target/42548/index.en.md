@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum and the UK environment: an expert review
-
 Because policy making in the EU is often highly technical, its net effect on the daily lives of UK citizens and their local environment tends to escape media attention. This project offers a detailed review of the academic evidence on how EU membership has influenced UK policies, systems of decision making and environmental quality. It both reviews current EU-UK relations on the environment and discusses future scenarios in a case of a vote to 'Leave' or 'Remain' on 23 June 2016.

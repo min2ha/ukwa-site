@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eastern Cancer Registration and Information Centre
-
 None

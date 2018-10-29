@@ -10,6 +10,4 @@
   "start_date": "2017-02-21T09:00:00Z"
 }
 
-# Academy of Medical Sciences : Health of the public in 2040
-
 Policy page on the Academy of Medical Sciences website exploring how the UK’s research environment needs to adapt to meet the health challenges the population will face by 2040.

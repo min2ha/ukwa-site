@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Business Zone: General Election 2015: The Small Business Vote
-
 Business Zone aims to provide free, practical and no-nonsense advice for small businesses and entrepreneurs.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jenny Corish (Jenny4hundred) on Twitter
-
 Twitter profile of rifle shooter Jenny Corish, member of Team Wales in the Glasgow 2014 Commonwealth Games.

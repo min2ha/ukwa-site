@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# SNOWPORT ENGLAND: Pyeongchang 2018
-
 Articles by Snowsport England regarding Pyeongchang 2018

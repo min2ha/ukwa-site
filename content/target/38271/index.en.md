@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LSE BrexitVote (@lsebrexitvote) on Twitter
-
 Impartial, interdisciplinary, evidence-based blog informing the debate on UK's EU referendum.

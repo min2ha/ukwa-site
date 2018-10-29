@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jen Martin: Using Digital Technology to Access Mental Health Care
-
 Transcript of talk given by Dr Jen Martin on using digital technology to access mental health care

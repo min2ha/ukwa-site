@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Joint technical note on the comparison of EU-UK positions on citizens' rights
-
 This table summarises the UK and EU positions on citizens' rights and compares them. Green indicates convergence, red indicates divergence and yellow indicates where further discussion is required to deepen understanding

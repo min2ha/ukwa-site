@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:14.170087", 
+  "date": "2018-10-29T13:22:21.466196", 
   "open_access": false, 
   "target_url": "http://www.leics.police.uk/", 
   "description": null, 
   "end_date": null, 
   "title": "Leicestershire Police", 
-  "record_id": "20181029T125514//IuVmwBQciXLaZuXMvJv6A==", 
+  "record_id": "20181029T132221//IuVmwBQciXLaZuXMvJv6A==", 
   "publisher": "leics.police.uk", 
   "start_date": null
 }
-
-# Leicestershire Police
 
 None

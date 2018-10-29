@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Clive Sneddon for Angus South on Facebook
-
 Facebook page of Clive Sneddon, Scottish Liberal Democrats candidate for Angus South in the 2016 Scottish Parliamentary election.

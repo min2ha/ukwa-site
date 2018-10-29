@@ -10,6 +10,4 @@
   "start_date": "2017-11-04T09:00:00Z"
 }
 
-# Pix in the Stix
-
 Site of a volunteer run community cinema bringing commercial films to the communities of East Linton and Tyninghame, East Lothian.

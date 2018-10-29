@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Mark Moxon's Travel Writing
-
 Travel blog by Mark Moxon.

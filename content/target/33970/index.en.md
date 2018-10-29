@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Bristol Anglo-German Society, The 
-
 The Bristol Anglo-German Society was formed in 1981 to further interest in the German-speaking world among the people of Bristol and surrounding districts.

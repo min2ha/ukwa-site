@@ -10,6 +10,4 @@
   "start_date": "2017-07-20T09:00:00Z"
 }
 
-# Iona Jones
-
 Iona Jones is a Welsh soprano and tutor of the National Youth Choir of Wales.

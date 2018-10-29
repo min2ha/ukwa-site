@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sinn Féin MP says party will always boycott Westminster, despite report
-
 None

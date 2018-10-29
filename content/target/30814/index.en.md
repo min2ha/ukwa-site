@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Computer Laboratory, University of Cambridge
-
 The Computer Laboratory is an academic department within the University of Cambridge that encompasses Computer Science, along with many aspects of Engineering, Technology and Mathematics. The Cl also hosts the Cambridge Computer Lab Ring, a graduate association of the University of Cambridge Computer Laboratory. The Ring provides information, contacts, help-line services and a social and business events programme to members. 

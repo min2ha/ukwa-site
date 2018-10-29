@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Gliding Centre
-
 Site of a membership based gliding centre and airfield for glider pilots and people learning to fly gliders, located at Portmoak, Perth & Kinross.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-18T10:00:00Z"
 }
 
-# Save Scottish Gaelic - Learn About Scottish Gaelic
-
 Website and blog on advocacy for the Scottish Gaelic language.

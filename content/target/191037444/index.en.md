@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Children's Panel, The
-
 None

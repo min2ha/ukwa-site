@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Henry Stanton (@henrystantongp)  on Twitter (Green Party Politician)
-
 Henry Stanton stood as Green Party candidate for Canterbury in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crystal Palace F.C. (@CPFC ) on Twitter
-
 Official Twitter account of Crystal Palace F.C. 

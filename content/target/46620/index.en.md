@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: Outgoing vice-chancellor tells universities: Brexit is 'the catalyst we all need' 
-
 Universities should stop complaining about Brexit because it is the ‘catalyst we all need’, the chair of the Russell Group has said. Sir David Greenaway, who represents some of Britain’s most elite universities, has argued a world where the UK is no longer part of the EU will give universities the freedom they need to exceed expectations.

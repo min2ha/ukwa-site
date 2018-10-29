@@ -10,6 +10,4 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# Country Living Fair
-
 Website with information about Christmas Fairs organised by the magazine 'Country Living'.

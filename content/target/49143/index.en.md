@@ -10,8 +10,6 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Self Sustaining Building
-
 Self-Sustaining Building (SSB) is the practice of building structures, communities and lifestyles that have the lowest environmental impacts. At the same time they offer the best affordability, performance and health benefits for people, communities and nature.
  
 Self-Sustaining Building (SSB) follows circular economy, building biology and best environmental certification criteria for materials and products. The best affordable, healthy and comfortable conceptual plans are provided to allow you to design your project or to  upgrade your property.

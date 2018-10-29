@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Canonbie and Liddesdale Churches
-
 Site of two Church of Scotland parish churches Newcastleton and Liddesdale, Scottish Borders (Roxburghshire).

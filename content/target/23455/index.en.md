@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rob Wilson (Conservative)
-
 Rob Wilson stood as Conservative candidate for Reading East at the 2015 General Election. He was first elected to serve as MP for Reading East in 2005 and re-elected in 2015.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Victor Turton (@VTurton) on Twitter (Independent Politician)
-
 Victor Turton stood as an Independent candidate for Halton at the 2017 General Election but was not elected.

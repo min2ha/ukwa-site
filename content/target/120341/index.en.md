@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Football Poets
-
 Football Poets is a club for all football poets, football and alternative poetry fans. 

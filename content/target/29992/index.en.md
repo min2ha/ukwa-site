@@ -10,5 +10,3 @@
   "start_date": "2015-08-25T11:00:00Z"
 }
 
-# South Wales Anarchists
-

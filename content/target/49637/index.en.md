@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Andrew Wilson-Dickson
-
 Andrew Wilson-Dickson is a composer and former member of staff at the Welsh College of Music and Drama. He established the Welsh Baroque Orchestra and has also directed a number of choirs, and currently directs the Welsh Camerata.

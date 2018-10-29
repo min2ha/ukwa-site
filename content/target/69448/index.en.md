@@ -10,6 +10,4 @@
   "start_date": "2018-07-31T09:00:00Z"
 }
 
-# Ingen
-
 "Ingen is an upstream oil and gas engineering consultancy".

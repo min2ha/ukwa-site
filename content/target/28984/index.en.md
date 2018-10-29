@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Huntingdon Labour Party
-
 Website of Huntingdon Constituency Labour Party, providing information on monthly meetings, how to get involved and news updates.

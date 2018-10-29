@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# British Library Shop (@BL_Shop) on Twitter
-
 Quirky books and gifts for the curious and literary-minded. Our #LoveLibraries range is now available online! 

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Craigie Symington Parish Church
-

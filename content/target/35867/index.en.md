@@ -10,5 +10,3 @@
   "start_date": "2016-02-24T09:00:00Z"
 }
 
-# Canolfan Technoleg Bwyd | Food Technology Centre
-

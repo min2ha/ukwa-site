@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# HM Revenue and Customs (@HMRCgovuk) on Twitter
-
 Official news and information from HM Revenue & Customs.

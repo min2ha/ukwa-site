@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# North Ayrshire & Arran Conservatives (@NAConservatives) on Twitter
-
 Twitter feed of the North Ayrshire & Arran Conservative and Unionist Association.

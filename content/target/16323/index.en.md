@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Enjoy Medieval Denbighshire
-
 <p>A tourist information covering the medieval history of Denbighshire.</p>

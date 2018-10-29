@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Roman Catholic Churches of Merthyr Tydfil, The
-

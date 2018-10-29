@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Northants Telegraph
-
 None

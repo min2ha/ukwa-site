@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Clan Oliphant
-
 Site of a clan association for the name Oliphant.

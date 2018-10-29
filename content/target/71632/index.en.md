@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# BBC: Women's suffrage: 10 reasons why men opposed votes for women
-
 An article highlighting some reasons why men opposed women gaining the vote

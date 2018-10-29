@@ -11,7 +11,5 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Maniffesto
-
 The Site will include access to every manifesto that’s been produced by the main political parties since the first National Assembly for Wales elections in 1999.
  

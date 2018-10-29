@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Kickstarter: The Bootiful Game (NCEL Magazine)
-
 The Kickstarter page to fund the start up of The Bootiful Game magazine.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Loftus Road Stadium
-
 Loftus Road Stadium is a football stadium in Shepherd's Bush, London, which is home to Queens Park Rangers.

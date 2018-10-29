@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Press and Journal, The (Aberdeen)
-
 None

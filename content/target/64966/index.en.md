@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Newham TUSC (@TUSCNewham) on Twitter
-
 The Newham, London branch of TUSC the Trade Union Socialist Coalition.

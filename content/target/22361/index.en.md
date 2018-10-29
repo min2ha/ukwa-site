@@ -10,6 +10,4 @@
   "start_date": "2015-04-24T09:00:00Z"
 }
 
-# HowTheLightGetsIn
-
 HowTheLightGetsIn is the worlds largest philosophy and music festival and is held at Hay-on-Wye, Powys.

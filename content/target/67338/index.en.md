@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Clare Haughey MSP – Rutherglen
-
 Clare Haughey is the Scottish National Party Member of the Scottish Parliament for Rutherglen.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# International Anthony Burgess Foundation, The
-
 <p>The International Anthony Burgess Foundation encourages and supports public and scholarly interest in all aspects of the life and work of Anthony Burgess. Based in Manchester, England, they have a library, archive and study centre containing Burgess’s books, music and papers.</p>

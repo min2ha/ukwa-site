@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# The Easter Rising 1916 Web Archive
-
 Web archiving project by the Bodleian Libraries, the Library of Trinity College Dublin and the British Library 

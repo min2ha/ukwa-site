@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: Soaring numbers of children seeing psychiatrists amid anxiety epidemic
-
 News article about the increasing number of children seeking help for mental health problems. The suggested cause of this increase stems from social media and the internet.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: The EU choice is clear: let in murderers and rapists or ruin your children's lives. Thank God we've resisted hyperbole
-

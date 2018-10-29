@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  What a Whitehall farce. But, after Brexit, a glimmer of hope remains
-

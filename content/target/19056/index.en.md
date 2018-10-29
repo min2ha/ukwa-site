@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: MAGNA CARTA COPY FOR £10M
-

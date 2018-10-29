@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ben Jennings on the Conservative election campaign — cartoon
-

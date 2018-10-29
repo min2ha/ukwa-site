@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Anuja Prashar (Liberal Democrat candidate for Beckenham) (@AnujaPrashar) on Twitter
-

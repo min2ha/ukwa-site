@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Union leader attacks ‘Blairite retreads’ who criticise Ed Miliband
-
 None

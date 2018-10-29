@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: TRUMP'S BREXIT BLAST Donald Trump told Theresa May how to do Brexit ‘but she wrecked it’ – and says the US trade deal is off
-
 In a world exclusive interview with The Sun, the US President said Theresa May had ignored his advice by opting for a soft Brexit strategy and could have killed off any chance of a vital UK-US trade deal.

@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-#  #BeyondTheBubble (@BeyondYBubble) on Twitter
-
 This is an initiative by Eluned Morgan, asking the people of Wales want they want the future of Wales to look like. Eluned Morgan is the Labour Assembly Member for Mid & West Wales and this campaign was launched in 2018.

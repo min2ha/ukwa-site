@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Ryanair's EU referendum ad investigated by police 
-
 Guardian, The

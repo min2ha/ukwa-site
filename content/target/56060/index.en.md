@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis' closing remarks at the end of the second round of EU exit negotiations in Brussels
-
 This statement confirms that there are still disagreements between the EU and the Uniked Kingdom over citizen's rights, the Brexit bill and Ireland after the second round of negotiation during the week commencing July 17th 2017

@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Royal Commission on the Ancient and Historical Monuments of Wales (RCAHMW) - Comisiwn Brenhinol Henebion Cymru (CBHC)
-
 The Royal Commission on the Ancient and Historical Monuments of Wales has a leading national role in developing and promoting understanding of the archaeological, built and maritime heritage of Wales.

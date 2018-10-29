@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# YouGov: Politics
-
 YouGov is an international internet-based market research firm, headquartered in the UK, with operations in Europe, North America, the Middle East and Asia-Pacific. YouGov was founded in the UK in May 2000 by Stephan Shakespeare and Nadhim Zahawi. 

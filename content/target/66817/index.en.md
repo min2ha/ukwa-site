@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Outburst Queer Arts Festival
-
 Site of Outburst Queer Arts Festival, an annual festival held in Belfast that features theatre, film, music, literature, visual art and discussion.

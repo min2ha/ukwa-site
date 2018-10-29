@@ -10,5 +10,3 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Outdoor Cardiff | Awyr Agored Caerdydd
-

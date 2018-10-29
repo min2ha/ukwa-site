@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# John Erskine (@johnerskine) on Twitter
-
 The Twitter profile of John Erskine, the Scottish Labour candidate for the Highlands and Islands list in the 2016 Scottish Parliament election.

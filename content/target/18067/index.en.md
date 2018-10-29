@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Isherwood, prospecive MP for Delyn.
-
 Mark Isherwood, Conservative candidate for Delyn.

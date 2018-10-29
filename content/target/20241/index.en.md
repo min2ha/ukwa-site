@@ -10,5 +10,3 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# National Federation of Shopmobility
-

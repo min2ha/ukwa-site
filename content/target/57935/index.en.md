@@ -10,6 +10,4 @@
   "start_date": "2017-10-19T09:00:00Z"
 }
 
-# Stand and Stare 
-
 Stand + Stare is the artistic collaboration of brother and sister, Barney and Lucy Heywood. We create interactive exhibitions and installations with a narrative focus for a range of settings. Our work often uses documentary and archival material, but, with roots in theatre, we are not afraid to stray into fiction.

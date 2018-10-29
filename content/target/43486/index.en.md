@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# University of East Anglia, The: EU Referendum
-
 The University of East Anglia's section on research and opinions on the EU Referendum

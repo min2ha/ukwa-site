@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Gaelic Athletic Association, The (GAA)
-
 The Gaelic Athletic Association (GAA)is Ireland’s largest sporting organisation. It is celebrated as one of the great amateur sporting associations in the world. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Tories in the north-east: the new 'workers party' goes into battle – video
-
 None

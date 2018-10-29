@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Cross-border civil litigation after Brexit: analysis of the UK government’s proposals
-

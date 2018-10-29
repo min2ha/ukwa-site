@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# British Army Boxing Association
-

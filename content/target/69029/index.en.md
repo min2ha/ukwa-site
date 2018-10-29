@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The ministers behind Vote Leave should be sacked
-

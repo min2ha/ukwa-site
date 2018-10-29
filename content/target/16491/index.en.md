@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron to take part in TV debates, Grant Shapps says
-
 None

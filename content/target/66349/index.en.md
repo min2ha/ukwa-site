@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Europe Street News
-
 A website to inform EU nationals in the UK and British in Europe of their changing status in the context of Brexit. It also informs about aspects of free movement and EU citizenship, and represents European views about EU-UK relations. 

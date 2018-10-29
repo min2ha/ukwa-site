@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Grand Orange Lodge of Scotland
-
 None

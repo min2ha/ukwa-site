@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Geiriadur yr Academi : The Welsh Academy English-Welsh Dictionary Online
-
 The Dictionary is run by Canolfan Bedwyr, Bangor University on behalf of the Welsh Language Commissioner.

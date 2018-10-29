@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lord Mandelson: Labour must plan properly for coalition with Lib Dems
-
 None

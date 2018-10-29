@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Abused Men in Scotland (AMIS)
-
 Site of a non-profit organisation providing direct support to men experiencing domestic abuse, as well as helping to improve mainstream service responses and campaigning for further inclusion of male victims in the wider narrative on domestic abuse.

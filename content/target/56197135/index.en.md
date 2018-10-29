@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Unite Against Hate
-
 None

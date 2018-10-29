@@ -10,6 +10,4 @@
   "start_date": "2018-01-10T09:00:00Z"
 }
 
-# Dalry Thistle Football Club on Facebook
-
 Facebook page of a Scottish junior football club based in Dalry, Ayrshire.

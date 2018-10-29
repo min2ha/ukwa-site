@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS Middlesbrough
-
 None

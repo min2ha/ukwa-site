@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Better Together - 13 top Economists have written in the Daily...
-
 Better Together post at 7.40am on the 15th September, 2014.

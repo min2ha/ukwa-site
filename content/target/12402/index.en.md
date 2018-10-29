@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# JJ Jegede (JumpingJegede) on Twitter
-
 Twitter profile of long jumper JJ Jegede, member of Team England during the 2014 Commonwealth Games.

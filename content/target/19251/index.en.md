@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Police pledge to counter surge in Lincoln legal high sales
-

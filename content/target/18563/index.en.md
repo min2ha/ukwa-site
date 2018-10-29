@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Plaid Brecon & Radnor (@Plaid_BandR) on Twitter
-

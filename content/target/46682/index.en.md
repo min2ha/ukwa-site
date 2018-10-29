@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Sgil Cymru
-
 Sgil Cymru is a Media Training and Production Company located at Pinewood Studions in Cardiff and funded by the European Social Fund. 

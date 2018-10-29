@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg's tuition fees 'debacle' undermined trust, says Norman Lamb
-
 None

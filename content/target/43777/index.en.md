@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Neil Slorance (@neilslorance) on Twitter
-

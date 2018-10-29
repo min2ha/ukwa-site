@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Computer Conservation Society
-
 The CCS is a co-operative venture between the British Computer Society, the Science Museum of London, and the Museum of Science and Industry in Manchester. The CCS was constituted in September 1989 as a Specialist Group of the BCS. 

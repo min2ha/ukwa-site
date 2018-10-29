@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Guardian, The: I run a domestic abuse charity. Some staff don't even last a week
-
 An article about a domestic abuse charity and its workers

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eastern Region Public Health Observatory: Fingertips: Health and Wellbeing indicators
-
 None

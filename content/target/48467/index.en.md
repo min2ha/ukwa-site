@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on the Republic of Ireland"
 }
 
-# Journal.ie, The: 8 things we learned from Theresa May’s Brexit speech
-
 An analysis of Theresa May's speech on Brexit (17/01/2017) and what it means for Ireland. 

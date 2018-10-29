@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# East Yorkshire Family History Society
-
 The society was formed following a public meeting held in Beverley Library in February 1977. It publishes a  quarterly journal called the 'Banyan Tree' and is distributed to all members.

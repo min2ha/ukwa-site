@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# mandylane sculpture
-
 Mandy Lane is a sculpture lecturer at Carmarthen School of Art, a member of Sculpture Cymru and most recently a fellow in 56 Group.

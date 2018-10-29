@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# BBC Sport: Rio Olympics 2016: Scottish Olympians savour best overseas Games
-

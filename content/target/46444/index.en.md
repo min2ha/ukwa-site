@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# BBC Radio Cymru: C2
-
 C2 is a BBC Radio Cymru radio station and plays Contemporary Welsh music showcasing artists from Wales and beyond. It was launched on September 19, 2016.

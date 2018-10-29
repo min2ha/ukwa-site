@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Mortlach Kirk on Facebook
-
 Facebook page of a Church of Scotland parish church (St. Moluag) at Mortlach, Aberdeenshire.

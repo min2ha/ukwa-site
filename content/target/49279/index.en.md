@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: February 8th 2017: European Union (Notification of Withdrawal) Bill
-
 Sitting as a Committee of the whole House, the Commons debates further amendments to the European Union (Notification of Withdrawal) Bill. The bill passes its third reading and transfers to the Lords.

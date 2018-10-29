@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Thurrock's gone to the dogs': voters feel let down, with migration a key issue
-
 None

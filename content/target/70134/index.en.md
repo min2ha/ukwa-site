@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St John the Evangelist  R.C. Church in Portobello, Edinburgh
-
 Site of a Scottish Roman Catholic parish church in Portobello, Edinburgh.

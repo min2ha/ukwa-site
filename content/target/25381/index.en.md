@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The coalition’s commitment to children’s rights has proved an empty promise
-
 None

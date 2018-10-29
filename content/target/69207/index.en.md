@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Norfolk and Norwich Festival
-
 the Festival transforms our public spaces, city streets, performance venues, parks, forests and beaches, bringing people together to experience the same brilliant and inspirational events

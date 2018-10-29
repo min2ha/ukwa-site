@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Grantully, Logierait & Strathtay Parish Church of Scotland
-
 Site of a Church of Scotland parish church covering the communities of Grantully, Logierait and Strathtay.

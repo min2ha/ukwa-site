@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# River Leven Ales
-
 Site of a brewer located at Kinlochleven, Highland.

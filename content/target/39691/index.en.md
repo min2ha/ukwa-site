@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Lancashire Heroes Project
-
 Project to radically upgrade our principal gallery, aptly named the Somme Room, as an appropriate tribute and in response to growing public interest.

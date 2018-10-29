@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T09:00:00Z"
 }
 
-# Infrastructure Transitions Research Consortium (ITRC)
-
 The UK Infrastructure Transitions Research Consortium (ITRC) is developing a new generation of infrastructure system simulation models and tools to inform the analysis, planning and design of National Infrastructure (NI). Working with partners in government and industry, research examines energy, transport, water, waste, and information and communication technologies (ICT) systems at a national scale.

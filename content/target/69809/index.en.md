@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Trac (Datblygu traddodiadau gwerin | Folk Development for Wales) 
-
 Trac (Datblygu traddodiadau gwerin, Folk Development for Wales) promotes and develops Wales’ traditional performing arts scene.

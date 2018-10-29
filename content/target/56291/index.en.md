@@ -10,6 +10,4 @@
   "start_date": "2017-08-02T09:00:00Z"
 }
 
-# Accredited Metallic Phosphide Standards in the United Kingdom (RAMPS UK)
-
 The Register of Accredited Metallic Phoshide Standards in the United Kingdom official website.

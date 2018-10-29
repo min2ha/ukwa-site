@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Huffington Post: Ken Loach Tells Jeremy Corbyn Supporters To Phone BBC With Complaints Of Bias
-
 Ken Loach has encouraged Jeremy Corbyn supporters to call the BBC to complain about what he said was the broadcaster’s bias against the Labour leader.

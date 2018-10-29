@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 19th April 2017: Early Parliamentary General Election
-
 Debate on calling a general election early on June 8th 2017

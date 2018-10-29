@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret of Scotland & Holy Spirit Roman Catholic Parishes
-
 Site of two Roman Catholic parish churches in Scotland, located at Stirling.

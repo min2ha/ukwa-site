@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Tim Berners-Lee (@timberners_lee) on Twitter
-
 Twitter account of the inventor of the web.

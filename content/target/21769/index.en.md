@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin J Docherty
-
 Martin Docherty, Scottish National Party candidate for West Dunbartonshire in the 2017 general election.

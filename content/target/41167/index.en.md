@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# runbritain
-
 runbritain’s mission statement is to make British road running the best in the world in terms of organisation, development and performance. This website has links to most of the road races taking place across Britain as well as links for people to register for these races.

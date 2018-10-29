@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Only one winner in the leaders’ Q&A – it’s Paxman by a landslide
-
 None

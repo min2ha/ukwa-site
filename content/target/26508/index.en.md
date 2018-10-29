@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Who should be the next prime minister? A guide to the election by chris (simpsons artist)
-
 None

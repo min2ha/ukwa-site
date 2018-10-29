@@ -10,5 +10,3 @@
   "start_date": "2012-08-17T00:00:00Z"
 }
 
-# World Alternative Games | Gemau Byd Arallddewisol
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Inverness Music Festival
-
 Site of a competitive music festival open to all ages and abilities where performers are adjudicated on their performance.

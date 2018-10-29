@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Struan Mackie - Scottish Conservatives
-
 Struan Mackie, Scottish Conservative and Unionist party candidate for Caithness, Sutherland and Easter Ross in the 2017 general election.

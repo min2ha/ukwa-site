@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Carmarthen West & South Pembrokeshire Labour (@CWaSP_Labour) on Twitter
-

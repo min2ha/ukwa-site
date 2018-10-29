@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# National Archives, The: Magna Carta, 1215 and beyond 
-

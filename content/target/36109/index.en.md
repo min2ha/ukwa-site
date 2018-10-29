@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Priti Patel (Conservative)
-
 Website of Priti Patel, Conservative MP for Witham and Minister for Employment, offering a biography and news of local and Parliamentary activities

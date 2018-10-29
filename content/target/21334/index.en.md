@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Green Party Fermanagh South Tyrone
-
 Website of Green Party Fermanagh South Tyrone, providing information on parliamentary candidate, meetings, how to get involved and local and national news.

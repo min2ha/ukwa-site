@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU Referendum: CBI survey suggests most members favour staying in
-
 BBC News: EU Referendum: CBI survey suggests most members favour staying in

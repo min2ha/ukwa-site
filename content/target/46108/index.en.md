@@ -10,6 +10,4 @@
   "start_date": "2016-10-12T10:00:00Z"
 }
 
-# Cymru i Bawb
-
 Cymru i Bawb was established in Aberystwyth in 2016. It is a response by those who were alarmed at the racist and discriminatory incidents and language that they heard around them. 

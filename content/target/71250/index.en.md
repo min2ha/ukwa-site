@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Leeds Festival of Science 2018
-
 Science festival with a full programme of events to enthuse and inspire with public events open to all.

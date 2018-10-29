@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Michael Matheson on Facebook
-
 Michael Matheson is the Scottish National party (SNP) candidate in Falkirk West in the 2016 Scottish Parliamentary election.

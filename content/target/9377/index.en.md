@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# NewStatesman
-
 The New Statesman is a political and cultural magazine in the United Kingdom. Founded as a weekly review of politics and literature on 12 April 1913. Today, it is a print-digital hybrid.

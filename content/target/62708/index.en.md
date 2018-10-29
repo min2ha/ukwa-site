@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Bryn Celli Ddu Archaeology: Neolithic Wales | Neolithig Cymru
-
 The Neolithic in Wales blog brings together information about Cadw’s Neolithic projects in Wales. The blog started in 2011 at Tinkinswood Burial Chamber in the Vale of Glamorgan and is now focusing on Bryn Celli Ddu and Barclodiad-y-Gawres passage tombs.

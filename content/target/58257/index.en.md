@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Huffington Post: Internet And Video Game Addicts Need NHS Help, Claims Senior MP
-
 News article about Labour MP Keith Vaz and his motion for the NHS to provide support to people addicted to the internet and internet gaming

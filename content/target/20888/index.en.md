@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Manchester Evening News: Manchester Manifesto: Our six pledges to politicians fighting the General Election
-
 The Manchester Evening News (MEN) is a regional daily newspaper covering the Manchester area of the United Kingdom. It is published every day except Sunday and is owned by Trinity Mirror plc following its sale by Guardian Media Group in early 2010.

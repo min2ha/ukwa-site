@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# MagnaCarta/FineRolls (@Henry3FineRolls) on Twitter
-
 Twitter account representing both The Magna Carta Project and Henry III Fine Rolls Project. 

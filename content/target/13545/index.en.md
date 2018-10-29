@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Time Out
-
 Time Out is a website with listings of concerts, entertainment, bars, restaurants and things to do in major UK cities.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Debate on the Address: Brexit and Foreign Affairs
-
 This pack was prepared ahead of the Debate on the Address to be held in the Commons Chamber on Monday 26th June 2017 on Brexit and Foreign Affairs.
 

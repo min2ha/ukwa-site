@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Out In Oxford
-
 An LGTBQ+ trail of the University of Oxford's collections

@@ -10,8 +10,6 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Jurassic London
-
 Jurassic London was founded by Anne C Perry and Jared Shurin in 2011, and their first anthology, Stories of the Apocalypse was published that year to coincide with an exhibition at Tate Britain. 
 
 Jurassic London closed in October 2016, following the publication of The Extinction Event. 

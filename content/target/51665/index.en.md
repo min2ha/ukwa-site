@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ardal Genhadol Aberconwy | Aberconwy Mission Area
-

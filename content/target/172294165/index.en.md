@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Monkton Rectorial Benefice
-
 Monkton Rectorial Benefice comprises the benefices of Pembroke group, Monkton and Hundleton, Angle and Castlemartin and Lamphey and is part of the Church in Wales in the Diocese of St Davids.

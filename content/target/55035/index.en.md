@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Blue Skies, Dundee
-
 Site of a festival in Dundee of kite flying, stargazing and rainbow chasing.

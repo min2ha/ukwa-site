@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hampshire County Council on Facebook
-
 The official Facebook profile of the Hampshire County Council.

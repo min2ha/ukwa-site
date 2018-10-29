@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Coventry City Football Club
-
 Coventry City Football Club is a professional football club based in Coventry, West Midlands, England. Coventry City formed as Singers F.C. in 1883 before adopting their current name in 1898. They joined the Football League in 1919.

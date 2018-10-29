@@ -10,6 +10,4 @@
   "start_date": "2017-08-16T09:00:00Z"
 }
 
-# Sioned Huws
-
 Sioned Huws is a Director, Choreographer and Dancer from Bangor, north Wales. She is also an associate artist with Dance4 Nottingham.

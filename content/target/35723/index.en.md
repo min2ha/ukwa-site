@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Now Cameron turns nasty with savage attack on Boris: Simmering feud bursts into the open as PM accuses his rival of backing the Out campaign just to further his dream of getting the top job    
-

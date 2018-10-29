@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Nat Library of Wales (@NLWales) on Twitter 
-
 This is the official twitter account for the National Library of Wales.

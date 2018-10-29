@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Royal Meteorological Society
-
 The Royal Meteorological Society is the professional and learned society for weather and climate.

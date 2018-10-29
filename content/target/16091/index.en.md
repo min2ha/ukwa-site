@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# YourNewsWire.com
-
 <p>YourNewsWire.com News. Truth. Unfiltered is an online newspaper presenting breaking news, entertainment, politics and more.</p>

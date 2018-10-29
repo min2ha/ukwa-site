@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Wedi 3 a 7
-
 Wedi 7 (After 7) is S4C's nightly magazine programme and Wedi 3 (After 3) is S4C's afternoon show.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: The UK can still lead on climate change - even after Brexit
-
 News and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

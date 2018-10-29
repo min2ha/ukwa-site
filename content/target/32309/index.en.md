@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Canewdon Parish Council: The Broomstick
-
 Online magazine published by the Canewdon Parish Council.

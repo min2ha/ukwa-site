@@ -10,5 +10,3 @@
   "start_date": "2012-06-27T00:00:00Z"
 }
 
-# Newport Gwent Dragons - "men of gwent"
-

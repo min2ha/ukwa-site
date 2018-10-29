@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Economist, The:  EU referendum polling Beware the “Brintroverts”
-
 Post on the Economist blog 'Bagehot's notebook - British Politics'.

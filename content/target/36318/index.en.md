@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: UKIP donor Paul Sykes: Why we must all come together to vote to leave EU
-
 Comment by Paul Sykes

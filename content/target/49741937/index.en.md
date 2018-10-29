@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Flow of Ideas
-
 None

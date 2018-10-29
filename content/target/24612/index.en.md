@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's non-dom crackdown may cost Britain money, Labour adviser admits
-
 None

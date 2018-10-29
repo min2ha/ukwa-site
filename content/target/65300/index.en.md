@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Columba Church, Kilmacolm on Facebook
-
 Facebook page of a Church of Scotland parish church at Kilmacolm, Renfrewshire.

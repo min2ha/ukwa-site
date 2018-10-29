@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rob Gibson MSP
-
 Rob Gibson is Scottish National Party member of the Scottish Parliament for Caithness Sutherland and Ross.

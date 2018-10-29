@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Transport Scotland / Comhdhail Alba
-
 Transport Scotland is the national transport agency for Scotland, delivering the Scottish Government's vision for transport.

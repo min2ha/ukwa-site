@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Arcadia by Iain Pears
-
 This website describes the app version of Iain Pear's book Arcadia. The app is developed by touchpress as part of the Faber Digital initiative. Readers can choose narrative paths based on selections of characters to follow and locations.

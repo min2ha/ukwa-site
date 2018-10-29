@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gregg McClymont on Facebook
-
 This is the Facebook page of Gregg McClymont, the Labour Party candidate for Cumbernauld, Kilsyth and Kirkintilloch East in the UK General Election on the 7th May 2015.

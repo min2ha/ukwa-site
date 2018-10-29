@@ -10,5 +10,3 @@
   "start_date": "2016-07-05T10:00:00Z"
 }
 
-# Loch Leven NNR
-

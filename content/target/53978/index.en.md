@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Laetisia Carter (@laetisiacarter) on Twitter (Labour Party  Politician)
-
 Laetisia Carter stood as Labour Party candidate for Witney in the 2017 General Election but was not elected.

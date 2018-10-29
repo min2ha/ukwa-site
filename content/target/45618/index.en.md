@@ -11,5 +11,3 @@
   "subject": "Political Action and Communication"
 }
 
-# Aberdeen against austerity: your local resistance
-

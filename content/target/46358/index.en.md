@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Calamity Ed is a numpty. So why should we listen to this walking disaster zone on ANYTHING, asks QUENTIN LETTS 
-
 Comment piece attacking former Labour leader Ed Miliband for putting up a barrage of legalistic complaints, parliamentary ruses, publicity stunts and bogus outrage in the hope of creating maximum confusion and preventing Brexit.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ted Woodley (@Ted4Erdington) on Twitter (TUSC candidate for Birmingham Erdington)
-

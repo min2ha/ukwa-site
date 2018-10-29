@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West London Mental Health
-
 None

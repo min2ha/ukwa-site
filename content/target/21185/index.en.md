@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Geoff Siddall (@GeoffUkip) on Twitter
-
 The twitter profile of George Siddall, UK Independence Party (UKIP) candidate for Dumfries and Galloway in the UK General Election oon 7th May 2015.

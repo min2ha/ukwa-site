@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tory MPs ordered to pose for photos with voters during 'selfie election'
-
 None

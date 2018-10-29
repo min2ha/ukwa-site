@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Historical Photographs of China
-
 A collaboration between scholars at the University of Bristol, University of Lincoln, the Institut d'Asie Orientale and TGE-Adonis, this project aims to locate, archive, and disseminate photographs from the substantial holdings of images of modern China held mostly in private hands overseas. 

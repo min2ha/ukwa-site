@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Tories pick up in the polls - but they still need to make progress
-
 None

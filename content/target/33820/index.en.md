@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Contemporary Christianity: 1916: A Hundred Years On
-
 Play commemorating the Easter Rising by Contemporary Christianity

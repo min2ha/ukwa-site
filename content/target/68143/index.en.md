@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: QUENTIN LETTS: Meet the faint-hearted, Europhile Business Secretary who spoke with Airbus before the company threatened to quit the UK 
-
 Biographical sketch of Business Secretary Greg Clark, who is accused of colluding with the likes of Airbus, whipping up opposition to our departure from the EU’s customs union

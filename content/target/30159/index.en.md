@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# VisitScotland (@VisitScotland) on Twitter
-
 Twitter profile for Visit Scotland, Scotland's national tourist board.

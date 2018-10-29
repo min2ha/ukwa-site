@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Cardigan, Guildhall
-
 <p>The newly restored Guildhall has been the hub of the Cardigan's civic and community life for over 150 years.</p>

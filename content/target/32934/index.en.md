@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Community Artis Cymuned
-
 Community Artis Cymuned create opportunities to participate in creative dance and visual arts programmes across the South Wales Valleys by working in partnership with local community organisations.

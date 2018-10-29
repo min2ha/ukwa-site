@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Ian Lucas MP on Facebook
-
 Ian Lucas is the MP for Wrexham.

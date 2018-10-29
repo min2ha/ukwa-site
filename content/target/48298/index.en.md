@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Roslin Heritage Society
-
 Site of a local history society focusing on the village of Roslin, Midlothian, Scotland.

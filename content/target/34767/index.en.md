@@ -10,6 +10,4 @@
   "start_date": "2016-01-29T09:00:00Z"
 }
 
-# Gwobrau Arwain Cymru | Leading Wales Awards
-
 Leading Wales Awards is a consortium of professional institutes, voluntary and public sector bodies as well as private companies, and seek to award outstanding leadership and management in Wales.

@@ -10,6 +10,4 @@
   "start_date": "2016-01-05T09:00:00Z"
 }
 
-# Christopher Bellew
-
 A blog run by Christopher Bellew about life and events, mainly in the British Isles over the past sixty years. It mixes social and personal history.

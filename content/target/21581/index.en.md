@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP candidate quits party over Scottish MEP's 'Abu Hamza' remark
-
 None

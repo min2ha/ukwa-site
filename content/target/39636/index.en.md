@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Chain Mail, The — Welcome to The Chain Mail – a visitor’s guide to the sights and sounds of Historic Scotland:
-
 A visitor’s guide to the sights and sounds of Historic Scotland.

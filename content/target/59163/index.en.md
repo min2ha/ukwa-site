@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The European Union (Withdrawal) Bill: Supremacy and the Court of Justice
-
 This Commons Library briefing paper was prepared for days 1 and 3 of the Committee Stage of the European Union (Withdrawal) Bill (EUW Bill) in the House of Commons. It addresses clauses 5 and 6 of the Bill which together provide instructions to the courts on the status and interpretation of retained EU law (the new category of law which clauses 2, 3 and 4 of the EUW Bill would create).

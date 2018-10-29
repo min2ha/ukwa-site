@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Influence Group, The
-
 Advocates a 'Smart Brexit', by which it means that Britain should remain in the European Economic Area after leaving the EU. This would assure access to the single market.

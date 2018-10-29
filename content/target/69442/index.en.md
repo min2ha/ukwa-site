@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 23rd July 2018: Brexit: Preparations and Negotiations
-
 Debate focusing on the Government's proposals set out in the July White Paper for the UK's future relationship with the EU.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Yes PCS
-
 <p>Public and Commercial Services Union site for members who want to vote yes in the Scottish Referendum</p>

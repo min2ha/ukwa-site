@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Fovant Badges Society
-
 Project that aims to widen the appeal of the Fovant Badges by re- imagining them as a “window” onto Britain’s history in the C20th

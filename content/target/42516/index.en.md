@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: The true cost of the EU's free movement rules: They prevent us from kicking out killers and drug dealers  
-

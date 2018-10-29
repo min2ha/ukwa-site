@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Labour Leave (@labourleave) on Twitter
-
 Twitter feed of labourleave.org

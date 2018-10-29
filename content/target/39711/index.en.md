@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE: Central Scotland
-
 Facebook page of the Central Scotland branch of RISE: Scotland's Left Alliance.

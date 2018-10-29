@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Journal.ie
-
 TheJournal.ie is an internet publication in Ireland. It was a mixture of original and aggregated content, before moving to entirely original content. The website was founded in early 2010 and is owned by Distilled Media.

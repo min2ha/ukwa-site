@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Welsh Art - Ffin y Parc Gallery
-
 <p>Oriel Ffin y Parc Gallery is located near Llanrwst.</p>

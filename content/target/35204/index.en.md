@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# YouGov : Europe
-
 YouGov conducts polls on the Internet about politics, public affairs, products, brands and other topics of general interest.

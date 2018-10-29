@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newmains United Community Football Club 
-
 Site for a Scottish junior football club based in Newmains, Lanarkshire.

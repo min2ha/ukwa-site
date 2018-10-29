@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Humber NHS Foundation Trust
-
 None

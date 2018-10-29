@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Rum Shack Glasgow, The
-
 Website of The Rum Shack Glasgow, a bar, canteen and venue based in Glasgow, Scotland. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Palmer (UKIP)
-
 Richard Palmer stood as UKIP candidate for Sittingbourne & Sheppey at the 2015 General Election but was not elected.

@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Nesta: Political Futures Tracker
-
 Nesta (formerly NESTA, National Endowment for Science, Technology and the Arts) is an independent charity that works to increase the innovation capacity of the UK.
 
 The organisation acts through a combination of practical programmes, investment, policy and research, and the formation of partnerships to promote innovation across a broad range of sectors.

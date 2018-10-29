@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Solihull Summer Fest
-
 Website for the Solihull Summer Festival of Music

@@ -10,6 +10,4 @@
   "start_date": "2017-02-09T09:00:00Z"
 }
 
-# Swansea Community Farm | Fferm Gymunedol Abertawe
-
 Swansea Community Farm is the only city farm in Wales and is located in Fforestfach.

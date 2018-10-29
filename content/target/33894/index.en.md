@@ -10,6 +10,4 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# Telly, The 
-
 They operate a UK-based, custom built, hosting facility which allows you to watch live UK TV, especially outside the UK.

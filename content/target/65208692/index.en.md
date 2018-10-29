@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Hatch
-
 Hatch is a space for collaboration with people you wouldn’t usually work with. Hatch is a community of live artists, writers, performers, directors and those who don’t know what to call themselves.

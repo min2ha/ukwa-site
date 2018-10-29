@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The future of sanctions
-
 The UK has a new legislative framework for imposing sanctions post-Brexit. What effect would the UK's departure from the EU have on sanctions policy here and in the EU? What is the broader international outlook?
 

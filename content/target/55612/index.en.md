@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Dive Forum
-
 An online enthusiast forum concerned with scuba diving. Discusses underwater photography, wreck diving, incidents and safety information, equipment advice, decompression diving, cave and cavern diving, diving opportunities, training and education and various other topics.

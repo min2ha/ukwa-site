@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# TEDxCardiff
-
 TEDx is a program of local, self-organized events that bring people together that started in California. This is the group for Cardiff.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  MEPs agree Brexit negotiation plan
-
 The European Parliament backed a motion setting out its position for the Brexit negotiations by 516 to 133. Although MEPs will not participate directly in the exit talks they will have to vote in favour of the final deal for it to go ahead.

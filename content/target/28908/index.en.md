@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Counting Women In
-
 The Counting Women In campaign is aiming for 50/50 gender representation at all levels of national, local and devolved government. 

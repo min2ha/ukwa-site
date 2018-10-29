@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Saving Labour
-
 Campaign calling on Jeremy Corbyn to stand down as leader of the Labour Party

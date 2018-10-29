@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Coalition sneaking out regulations to speed up NHS privatisation, Labour says
-
 None

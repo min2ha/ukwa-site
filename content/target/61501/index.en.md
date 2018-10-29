@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Damian Green dismisses Brexit 'conspiracy theories'
-
 Damian Green, Theresa May's former right-hand man criticised colleagues "who won't accept evidence" on the adverse economic impact of  Brexit, and suggested more of Whitehall's forecasts should be published.
 

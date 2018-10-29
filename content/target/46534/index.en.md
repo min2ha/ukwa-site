@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ipsos MORI: Public divided on prioritising access to the Single Market or controlling immigration 
-
 With up to five months to go before the start of formal negotiations on Brexit, Ipsos MORI’s new Political Monitor shows a public divided in their priorities for Britain’s future relationship with Europe after it leaves. Forty-five percent think Britain should prioritise access to the European Single Market while 39% say it should prioritise controlling immigration.

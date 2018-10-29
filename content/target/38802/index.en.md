@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Women's Equality Party
-
 The Women’s Equality Party is a new collaborative party in British politics uniting people of all genders, diverse ages, backgrounds, ethnicities, beliefs and experiences in the shared determination to see women enjoy the same rights and opportunities as men.

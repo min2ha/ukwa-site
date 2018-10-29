@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: SNP conference: Robertson says party will make history with seats win
-
 None

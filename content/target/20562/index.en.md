@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Miliband challenges Cameron to name a date for TV election debate - video 
-

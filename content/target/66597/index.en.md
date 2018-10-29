@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Bell Group UK Limited
-
 The website of Bell Group UK Limited, an Airdrie-based commercial and industrial painting firm.

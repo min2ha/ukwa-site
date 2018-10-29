@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Finsbury Park Mosque
-
 The Finsbury Park Mosque is a mosque located in Finsbury Park, London, London Borough of Islington, England.

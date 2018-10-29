@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# Tyne Tugs & Tug Builders
-
 The site covers the history of tug building and tug owning on Tyneside. 

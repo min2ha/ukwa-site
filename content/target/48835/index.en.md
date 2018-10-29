@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Brexit: the Prime Minister sets the wrong course
-
 Critiques the Prime Minister's speech on January 17th 2017, in which she set out her strategy for EU withdrawal. Argues that some of the Prime Minister’s speech is valuable – setting the right overall tone on relations with the EU, implicitly rejecting the more harmful 'WTO-only' option, and eschewing (hopefully genuinely) future derision of the 48% who took a different point of view in the referendum. But ultimately she has made the wrong decision on single market participation, putting politics ahead of the country’s economic interests

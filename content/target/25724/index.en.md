@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: We need to fix the machinery of government – whoever enters No 10
-
 None

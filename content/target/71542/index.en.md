@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: After Salzburg, the EU needs a reality check on its security plans. Urgently.
-
 You can’t expect the UK to be a net contributor in defence, security and intelligence whilst the EU is denying access to things like Galileo. That would be cherry-picking. And as Michel Barnier always points out, that will never do.
 

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: David Cameron 'could sack Michael Gove'
-

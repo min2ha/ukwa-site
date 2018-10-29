@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Stage, The: Nostalgia is funny
-
 Article in The Stage about The Museum of Comedy

@@ -10,6 +10,4 @@
   "start_date": "2016-07-19T10:00:00Z"
 }
 
-# Nitten Folk Club
-
 Ste of a traditional music club based on Newtongrange, Midlothian, Scotland

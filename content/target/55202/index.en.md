@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# Chichester Natural History Society 
-
 The Chichester Natural History Society, Chi Nats for short, is a friendly group of local people with a shared interest in all aspects of wildlife, who have been studying and recording all branches of natural history for over 50 years.

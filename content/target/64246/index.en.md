@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Commonwealth Secretariat: Strengthening the Commonwealth Advantage: Trade, Technology, Governance
-
 Study says that members of the Commonwealth tend to be less protectionist than other nations and that Brexit presents an opportunity to strengthen ties.

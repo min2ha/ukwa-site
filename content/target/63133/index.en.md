@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Stephen Hawking | National Geographic
-
 News and articles relating to Professor Stephen Hawking

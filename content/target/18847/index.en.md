@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# St Albans Cathedral: St Albans Cathedral celebrates £3,000 Heritage Lottery Fund grant
-
 None

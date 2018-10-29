@@ -10,6 +10,4 @@
   "start_date": "2015-05-22T09:00:00Z"
 }
 
-# Higher Education Funding Council for Wales - Cyngor Cyllido Addysg Uwch Cymru
-
 Higher Education Funding Council for Wales (HEFCW) is funded by the Welsh Government to distribute funding for higher education in Wales.

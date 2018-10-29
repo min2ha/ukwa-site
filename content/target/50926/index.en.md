@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Inverclyde Tourist Group
-
 Site of an organisation established to promote the ocean terminal at Greenock and the area of Inverclyde as a tourist destination (incorpporating the towns / villages of reenock, Gourock, Port Glasgow, Kilmacolm, Quarrier's Village, Inverkip and Wemyss Bay).

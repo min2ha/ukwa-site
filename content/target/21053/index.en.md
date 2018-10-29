@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Neil Wilson on Facebook (Conservative and Unionist Party candidate for Belfast East)
-

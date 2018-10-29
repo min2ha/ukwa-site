@@ -10,6 +10,4 @@
   "start_date": "2018-04-10T09:00:00Z"
 }
 
-# Business Librarians Association
-
 The Business Librarians Association acts as a forum for discussion and exchange of ideas. We facilitate networking opportunities, co-operation and participation in joint activities.

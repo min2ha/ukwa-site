@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Theresa May warns EU that Britain won't sign up to a £39billion 'blind Brexit' deal - as PM demands any future trading is clearly spelled out
-
 Theresa May warned she would not sign a £39billion Brexit divorce cheque unless the EU resolved ‘big issues’ on future trade links.
 

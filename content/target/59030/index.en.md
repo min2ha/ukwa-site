@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Herald, The: The Herald launches survey ahead of World Mental Health Day
-
 Online survey to find out people's experiences of mental health across the city of Plymouth. The survey was launched by The Herald newspaper just before World Mental Health Day.

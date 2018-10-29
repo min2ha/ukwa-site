@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Justice
-
 Aims to raise money through crowdfunding to fund private prosecutions against dishonest politicians in the wake of Brexit.

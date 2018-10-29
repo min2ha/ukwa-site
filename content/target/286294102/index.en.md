@@ -10,5 +10,3 @@
   "start_date": "2015-01-19T00:00:00Z"
 }
 
-# City Witness : Medieval Swansea
-

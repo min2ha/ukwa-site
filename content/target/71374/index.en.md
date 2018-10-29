@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Boris Bikes: An independent community forum for London's Cycle Hire scheme
-
 An independent community forum for London's Cycle Hire scheme

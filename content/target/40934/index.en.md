@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Politics Cymru
-
 Politics site for schools in Wales sponsored by the Welsh Government and built by Tinopolis Interactive. 

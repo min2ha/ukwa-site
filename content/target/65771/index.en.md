@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-#  Creates Gallery
-
 Creates Gallery, established in 2017, is an independent UK art gallery located in Monmouth. Specialising in original paintings, represents more than 20 artists and makers from well-established to new, up-and-coming talent.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# RSPCA: European Elections manifesto 2014
-
 None

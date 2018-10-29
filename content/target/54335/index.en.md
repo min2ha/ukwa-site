@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Public Technology.net: General election 2017: Manifesto round up
-
 Public Technology.net akes a look at the three main parties' plans for digital and technology ahead of the 2017 general election.

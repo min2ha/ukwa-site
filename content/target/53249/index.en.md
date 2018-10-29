@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Learning and Work Institute: Manifesto, General Election 2017
-
 Calls on the next government to: invest in skills for growth; get disabled people into work; tackle low pay; promote lifelong learning; and reform migration policy

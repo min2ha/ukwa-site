@@ -10,5 +10,3 @@
   "start_date": "2005-01-06T00:00:00Z"
 }
 
-# Clwb Pêl-Droed Bangor City Football Club
-

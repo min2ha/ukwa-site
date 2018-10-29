@@ -10,6 +10,4 @@
   "start_date": "2016-03-14T09:00:00Z"
 }
 
-# Public Art Scotland
-
 Site of the temporary identity for the collected arts in Scotland - superseded by SITED+

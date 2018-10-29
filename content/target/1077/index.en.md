@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Local Alcohol Profiles for England
-
 None

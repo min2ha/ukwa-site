@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Museums and Heritage: CASE STUDY: Conservation and Care of Salisbury’s 1215 Magna Carta
-

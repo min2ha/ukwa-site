@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: The 8 big questions emerging from the fallout of a shock general election result
-
 None

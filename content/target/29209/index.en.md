@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Queen's University Belfast: Remembering 1916: the Easter Rising, the Somme and the politics of memory
-
 Interdisciplinary conference on the twin legacies of the Easter Rising and the Somme.

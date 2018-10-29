@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Joint Public Issues Team: Faith in Politics: the 2017 General Election
-
 This issues briefing lays out the facts for four of the key issues around the general election and offers the opportunity to explore them in detail. 

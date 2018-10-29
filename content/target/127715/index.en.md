@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# National Trust
-
 Conservation organisation in the UK responsible for guarding historic properties and thousands of acres of countryside.

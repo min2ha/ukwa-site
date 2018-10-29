@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Philippa Whitford (@Philippa_SNP) on Twitter
-
 The Twitter profile of Philippa Whitford, the Scottish National Party (SNP) candidate for Central Ayrshire in the UK General Election on the 7th May 2015.

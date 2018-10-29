@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Westminster becomes the world's gayest Parliament with 32 openly gay, lesbian and bisexual MPs
-
 None

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee: The progress of the UK's negotiations on EU withdrawal (June to September 2018)
-
 Government's urgent priority must be to secure a Withdrawal Agreement. If EU opposition to Chequers customs and rule book proposals continues then Government’s plans cannot remain as they are. However, no Withdrawal Agreement possible without a workable backstop proposal for the Irish border. Canada type deal would not on its own ensure friction-free trade or an open Irish border
 
 

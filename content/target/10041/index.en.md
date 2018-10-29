@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# UK Race and Europe Network: European Parliament election watch on Race Equality
-
 None

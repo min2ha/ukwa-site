@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# BBC: Radio 4: Computing Britain
-
 Hannah Fry looks back at 75 years of computing history to reveal the UK's lead role in developing the technologies we rely on today.

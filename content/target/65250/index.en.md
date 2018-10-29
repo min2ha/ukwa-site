@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Delegated Powers and Regulatory Reform Committee: European Union (Withdrawal) Bill: Further Government Amendments
-
 Analyses some of the additional amendments to the European Union (Withdrawal) Bill tabled by the Government for consideration by the Lords at report stage
 

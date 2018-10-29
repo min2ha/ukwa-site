@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# King's Lynn Literature Festivals
-
 King's Lynn Fiction Festival and King's Lynn Poetry Festival

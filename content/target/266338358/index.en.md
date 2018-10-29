@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Siobhan McMahon MSP
-
 The website of Siobhan McMahon, Scottish Labour Member of the Scottish Parliament for Central Scotland and list candidate for Central Scotland in the 2016 Scottish Parliamentary election.

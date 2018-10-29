@@ -10,6 +10,4 @@
   "start_date": "2017-09-21T09:00:00Z"
 }
 
-# Archives West Midlands (AWM)
-
 Archive services across the West Midlands are formed a new organisation that will help to promote the valuable contribution that archives make to people’s lives and present opportunities to work in collaboration to achieve more than a single archive could do on its own.

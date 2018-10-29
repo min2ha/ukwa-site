@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Traditional Arts and Culture Scotland: Scotland's Democracy Trail
-

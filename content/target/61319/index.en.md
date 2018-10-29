@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Church of the Holy Spirit, Ewloe
-

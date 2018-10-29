@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parishes of Bedwas with Machen with Rudry, The 
-

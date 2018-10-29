@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jackson Carlaw MSP on Facebook
-
 The Facebook page of Jackson Carlaw, Conservative Member of the Scottish Parliament for West of Scotland.

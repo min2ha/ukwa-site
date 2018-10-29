@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Sandra White (SandraWhiteSNP) on Twitter
-
 The twitter profile of Sandra White, Scottish National Party Member of the Scottish Parliament for Glasgow Kelvin.

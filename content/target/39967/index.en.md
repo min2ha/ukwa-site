@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Point, The on Facebook
-
 Facebook page for The Point, an online Scottish magazine which promotes socialism, Scottish independence, left unity, the environment and peace.

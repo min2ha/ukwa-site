@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# EGX Festival
-
 Website for the EGX gaming festival

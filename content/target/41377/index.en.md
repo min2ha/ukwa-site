@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Tain & District Field Club
-
 Site of a natural history club based in Tain, Highland, focusing on the local area and within the wider scientific community.

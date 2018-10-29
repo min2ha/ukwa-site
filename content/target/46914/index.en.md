@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Reuters: EU Referendum
-
 A US based website that has a UK edition, covering the EU referndum. 

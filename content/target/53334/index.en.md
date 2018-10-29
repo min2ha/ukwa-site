@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Eileen Dinning (@eileen_dinning) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Musica Nova International Academy of Music
-
 Musica Nova Productions Ltd. was established in 2000 and gained recognition as a creative professional organisation supporting contemporary arts, performers and as a musical instrument retail business. Musica Nova Productions Ltd founded the Russian Music School in London in 2001 to support young people from the growing Russian-speaking community in London and the UK.

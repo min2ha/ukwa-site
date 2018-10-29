@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Falkland Island Fisheries Department  
-
 The Falkland Islands Fisheries Department is responsible for the sustainable development of the fisheries occurring within the waters of the Falklands Conservation Zones.

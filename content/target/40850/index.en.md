@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Somersham4u
-
 Somersham4u – a new Community website for Somersham. The aim of the site is to create an online space to communicate news stories and events that are directly related to Somersham to the residents of Somersham. Somersham4u also works as a vehicle for residents to express and discuss any burning community issues.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Private Eye: Companies that signed last week’s letter to the Times stressing the importance of a “remain” vote in the EU referendum based upon gains financially.
-
 "THE self-interested big companies that signed last week’s letter to the Times stressing the importance of a “remain” vote in the EU referendum certainly appreciate how much they gain from being in – especially when it comes to avoiding tax."

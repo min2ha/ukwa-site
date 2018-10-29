@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harts Books: Words in Walden Festival
-
 Literature Festival open in Saffron Walden.

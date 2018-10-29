@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Craft Scotland
-
 Craft Scotland TV is a channel dedicated to craft and makers across Scotland.

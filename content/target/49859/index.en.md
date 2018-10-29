@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Slant: 2017 Assembly Election: The facts
-
 A blog post outlining changes to the representation in the Assembly during the 2017 election.

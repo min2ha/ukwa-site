@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband must decide: is Labour austerity-lite or Syriza-lite?
-
 None

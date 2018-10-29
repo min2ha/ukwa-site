@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Rev'd Elizabeth Adekunle Chaplain, St John's College - Nelson Mandela: Statesman, political activist and peacemaker
-
 None

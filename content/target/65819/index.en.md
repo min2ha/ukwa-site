@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# GOV UK (@GOVUK) on Twitter
-
 Official twitter channel for GOV.UK.

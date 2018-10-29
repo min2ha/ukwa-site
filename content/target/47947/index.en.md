@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The Judges and the people
-
 A decision by the Supreme Court against the Government’s right to trigger Article 50 would raise profound questions about the power of an unelected judiciary to over-ride the will of the British people. In this context, it is vital that the judges are seen to be independent. Yet four of the 11 members of the Supreme Court have formal links to either the EU, its courts or European institutions; five have publicly expressed views which appear to be sympathetic to the EU; while six have personal links with individuals who have been critical of the Leave campaign.

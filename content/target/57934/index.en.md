@@ -10,6 +10,4 @@
   "start_date": "2017-10-19T09:00:00Z"
 }
 
-# Mayfly Sound  
-
 Mayfly connects the real world with the digital world through beautifully crafted products that allow you to record and listen to life. 

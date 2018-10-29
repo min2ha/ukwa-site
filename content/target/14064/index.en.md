@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# VICE United Kingdom: Yes or No, Project Britain Is Already Fucked
-
 None

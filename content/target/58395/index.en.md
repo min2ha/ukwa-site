@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Islay Sessions
-
 Site of an annual folk music festival on the island of Islay.

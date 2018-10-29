@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Friends of Luton Museums
-
 The diversity of Luton’s museums, perfectly matches the social and ethnic diversity of the town. Wardown Park Museum is housed in a handsome Victorian Villa, set in approximately fifty acres of parkland and just a fifteen minute walk from the town centre. Stockwood Discovery Centre with its mix of sculptural and sensory gardens and large exhibition areas, café and visitors shop is ideal for an extended family day out.

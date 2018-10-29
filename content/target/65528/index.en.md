@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Dulwich Society
-
 The Society’s aims and objectives are to foster and safeguard the amenities of Dulwich, both in the interests of its residents and the wider local community of which it is a part, and to increase awareness of the varied character that makes the area so special.

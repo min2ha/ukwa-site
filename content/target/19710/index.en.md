@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Beyond The Joke
-
 Beyond The Joke - The Lowdown on Stand-Up Comedy from Bruce Dessau.

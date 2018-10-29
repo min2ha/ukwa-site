@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scottish International Storytelling Festival
-
 Site of a storytelling festival staged in Edinburgh, and throughout Scotland.

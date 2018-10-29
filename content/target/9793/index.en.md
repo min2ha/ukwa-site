@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Steve Uncles on Facebook (English Democrats candidate for Dartford)
-

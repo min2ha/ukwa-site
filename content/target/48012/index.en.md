@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Faber & Faber: Brexit Blog
-
 Major publishing house founded in 1929

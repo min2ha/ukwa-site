@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# Fraser of Allander Institute: Long-term Economic Implications of Brexit: a report for the Scottish Parliament
-

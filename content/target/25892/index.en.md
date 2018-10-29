@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Winner takes all: 85 seats that will decide election
-
 None

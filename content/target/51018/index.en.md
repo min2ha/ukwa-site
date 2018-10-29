@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: As it happened: MLAs mark McGuinness death
-
 MLAs gather for special assembly meeting to mark death of Martin McGuinness. Martin McGuinness was a former IRA Member and leading member of the political party Sinn Fein. He served as he deputy First Minister of Northern Ireland from May 2007 to January 2017. He died on Tuesday 21/03/2017.

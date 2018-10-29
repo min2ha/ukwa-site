@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Richard Baker on Facebook
-
 The Facebook page of Richard baker, Scottish Labour Parliamentary candidate for Aberdeen North.

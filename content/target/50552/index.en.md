@@ -10,6 +10,4 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# Freshwater
-
 Freshwater is an independent communications consultancy that helps clients, across the UK, to meet their objectives in a strategic and integrated way. We think multi-channel and provide full-service support including events, training, digital and creative media production.

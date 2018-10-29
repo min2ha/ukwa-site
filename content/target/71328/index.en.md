@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Dungannon Rugby Club
-
 Personal webiste for Dungannon Rugby Club

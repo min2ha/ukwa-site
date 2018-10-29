@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# East Wall for All
-
 This is website contains material relating to the East Wall area of Dublin. It contain numerous articles on local involvement in the Easter Rising, 1916.

@@ -10,6 +10,4 @@
   "start_date": "2017-11-18T09:00:00Z"
 }
 
-# Transport for Wales | Trafnidiaeth Cymru
-
 Transport for Wales is a not for profit company, wholly owned by the Welsh Government. The aim is to drive forward the Welsh Government’s vision of a 'high quality, safe, integrated, affordable and accessible transport network' and deliver the Welsh Government’s key themes as set out in Prosperity for All: The National Strategy.

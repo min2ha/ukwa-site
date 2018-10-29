@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Central: Forgotten version of Magna Carta worth £10 million found in council archives
-

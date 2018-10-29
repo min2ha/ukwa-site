@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Light Straw
-
 Light Straw is a website with memories, obsolete technologies, dusty old papers, reminiscences of the not so distant past.

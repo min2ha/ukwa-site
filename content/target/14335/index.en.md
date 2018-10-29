@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# referendum poem: Love and Garbage – some commonplace musings
-
 None

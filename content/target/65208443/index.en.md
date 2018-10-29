@@ -10,6 +10,4 @@
   "start_date": "2012-04-23T00:00:00Z"
 }
 
-# The Family Business
-
 Family history / Genealogy service

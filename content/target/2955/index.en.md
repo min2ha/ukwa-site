@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# TheSite.org
-
 <p>Run by the UK charity YouthNet, TheSite.org is an online guide to life for 16 to 25 year-olds which aims to provide non-judgemental support and information on everything from sex and exam stress to debt and drugs. The website contains readers' stories and has a chat room facility.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General election campaign 2015 – day one, as it happened
-
 None

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Trendsmap: Scottish referendum
-
 <p>Showing instances of 'yes' and 'no' comments on Twitter on a map of the UK</p>

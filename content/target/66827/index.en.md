@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# City Voices Cardiff 
-
 City Voices Cardiff are a 180 voice community choir based in Cardiff.

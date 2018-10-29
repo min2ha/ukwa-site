@@ -11,5 +11,3 @@
   "subject": "Food Archive"
 }
 
-# Great Cornish Food
-

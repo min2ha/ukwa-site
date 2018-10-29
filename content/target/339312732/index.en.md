@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# BBC News: Easter Rising centenary: Water charges protesters disrupt launch
-

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# SKWAWKBOX BLOG, The
-
 Blog on current events in the UK.

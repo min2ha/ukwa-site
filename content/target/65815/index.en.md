@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eventbrite: Look: The Other Windrush Stories!
-
 An event which aims to give attendees an insights into various African British histories over the centuries.

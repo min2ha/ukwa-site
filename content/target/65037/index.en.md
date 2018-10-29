@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# HSO
-
 HSO is a leading provider of enterprise business solutions that improve the results of our clients.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wakefield Wildcats (@wakefield_rugby) on Twitter
-
 Unofficial Wakefield Wildcats news & updates.

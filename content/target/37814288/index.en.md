@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Voice - the union for education professionals
-
 Voice is the union for education professionals, their members are teachers, lecturers, nursery nurses and nannies, to head teachers and school support staff, including teaching assistants, technicians and administrators and students* (*free membership). 

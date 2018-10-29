@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 31st January 2018: Government's EU Exit Analysis
-
 Debate on whether the government should be required to release a gloomy analysis of the impact of leaving the EU to MPs. The analysis had been previously leaked to BuzzFeed.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tim Thomas on Facebook (Plaid Cymru candidate for Ogmore)
-

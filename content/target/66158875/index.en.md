@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# PlanLoCaL - Planning for low carbon living
-
 None

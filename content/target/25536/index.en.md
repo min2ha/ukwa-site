@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Britain’s political leaders have a clear moral duty to end coal-fired power
-
 None

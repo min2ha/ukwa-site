@@ -10,6 +10,4 @@
   "start_date": "2015-07-25T10:00:00Z"
 }
 
-# Smart421
-
 Smart421 are specialists in consultancy, solution delivery and service management. Smart421 is part of the KCOM Group.

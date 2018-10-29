@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Senedd Chamber (@SeneddChamber) on Twitter
-
 Senedd Chamber provides updates from Plenary meetings at the Welsh Assembly including latest on legislation, debates, questions and votes.

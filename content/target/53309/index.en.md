@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# Harry Potter ..forever
-
 Harry Potter ..forever is a Harry Potter fan site. Its objective is to connect the Potter fans, share views, get latest news, enjoy discussions, get to know some facts and links.

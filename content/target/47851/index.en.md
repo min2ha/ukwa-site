@@ -10,6 +10,4 @@
   "start_date": "2016-12-16T09:00:00Z"
 }
 
-# Welsh Government: Special Educational Needs Tribunal for Wales (SENTW) | Tribiwnlys Anghenion Addysgol Arbennig Cymru (TAAAC) 
-
 The Special Educational Needs Tribunal for Wales (SENTW) is an independent tribunal. We deal with appeals against certain decisions about a child or young person and their education. We also deal with discrimination claims of unfair treatment in school to do with a disability. 

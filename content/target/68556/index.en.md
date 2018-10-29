@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit customs plan will offer 'best of both worlds'
-
  A new proposal on post-Brexit customers arrangements was to be presented to ministers on Friday July 6th 2018 nd would offer "the best of both worlds" - an independent trade policy and friction-free trade.

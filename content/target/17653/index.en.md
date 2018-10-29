@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Ed Miliband and David Cameron step up election battle
-
 None

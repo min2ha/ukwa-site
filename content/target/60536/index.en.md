@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  Boris Johnson rebuked over NHS cash plea
-
 Before the cabinet meeting on January 23rd 2018 it was widely reported that the foreign secretary would pitch for a £100m a week "Brexit dividend" for the NHS. Theresa May called for discussions about future NHS funding to remain private.

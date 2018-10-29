@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Swansea Online
-
 Swansea Online provides the latest news, sports and what's on coverage from Swansea. It is a sub section of the Wales Online site.

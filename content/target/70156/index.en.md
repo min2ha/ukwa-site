@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Shankill Utd Ladies (@UtdShankill) on Twitter
-
 The official Twitter account of Shankill Utd Ladies Football Club.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: 'Fiasco' British scheme to pay £1.8bn in EU farm subsidies could 'cost taxpayers MILLIONS'
-

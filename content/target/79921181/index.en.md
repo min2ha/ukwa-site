@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# Medical Research Council Laboratory of Molecular Biology
-

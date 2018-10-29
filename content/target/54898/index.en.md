@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Asian Writer, The: Discover new and emerging voices in Asian Literrature
-
 The Asian Writer is the voice of British Asian writing and is for readers and writers interested in South Asian literature. It is both the online magazine and quarterly newsletter. It aims to provide a platform for new and emerging writers of South Asian origin as well as showcase their work.

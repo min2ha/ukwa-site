@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: 'No-one is too rich to be in Labour': Chuka Umunna sets out leadership stall
-
 None

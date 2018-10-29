@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chelsea and Westminster Hospital
-
 None

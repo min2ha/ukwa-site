@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Ateb Cymru/Wales
-
 Ateb Cymru/Wales provide advice for businesses and organisations wishing to meet Welsh language standards in an efficient and cost-effective way.

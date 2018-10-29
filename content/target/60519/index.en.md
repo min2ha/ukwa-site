@@ -10,6 +10,4 @@
   "start_date": "2018-01-26T09:00:00Z"
 }
 
-# Ravenspoint Centre / Rubha an Fhithich
-
 Site of a hostel at South Lochs, Lewis, Outer Hebrides / Western Isles / Na h-Eileanan Siar

@@ -10,5 +10,3 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# Bangor University: Institute for the Study of Welsh Estates, The (ISWE)
-

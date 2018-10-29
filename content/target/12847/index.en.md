@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Edinburgh Art Festival
-
 <p>Edinburgh Art Festival is the UK's largest annual celebration of visual art. Events this year include “Where do I end and you begin”, which invites 5 curators and over 20 artists from Commonwealth countries to contribute to a major project that is part of the Glasgow 2014 Cultural Programme.</p>

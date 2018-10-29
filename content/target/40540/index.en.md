@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hindolveston Village commemoration of those that served from the village in WW1
-
 Project to research 14 individuals from Hindolveston who are remembered on the village war memorial and create an exhibit on them.

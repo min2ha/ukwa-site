@@ -10,6 +10,4 @@
   "start_date": "2015-10-20T10:00:00Z"
 }
 
-# Mark Thomas: composer for film and television
-
 Mark Thomas is a Bafta winning and Emmy nominated composer for film and television.

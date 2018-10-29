@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Cherie Blair Foundation
-
 We connect women entrepreneurs in developing and emerging economies with men and women mentors around the world.

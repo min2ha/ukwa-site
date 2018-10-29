@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# Glasgow School Of Art devastated by second fire in four years, The
-
 Article / blog post about the second fire at Glasgow School of Art on 15 June 2018.

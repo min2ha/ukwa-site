@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# EEA Forums : VE-Day - 70 years ago today!
-
 A montage of famous VE Day photographs and responses posted by EEA (Experimental Aircraft Association) message board members. 

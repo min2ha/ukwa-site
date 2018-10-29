@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent: Tory MPs attack Theresa May after she reaches out to Labour for policy ideas
-
 Angry backbench Conservative MPs hit out at Theresa May over her extraordinary appeal to Labour and other parties to help her govern.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Wales Mens Lacrosse
-
 The Official website for the Senior Wales Mens Lacrosse Team.

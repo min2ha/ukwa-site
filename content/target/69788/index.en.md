@@ -10,6 +10,4 @@
   "start_date": "2018-09-03T13:32:00Z"
 }
 
-# Fundraising UK Ltd
-
 Fundraising UK Ltd is the UK’s leading Internet fundraising consultancy. Founded in 1996 by Howard Lake, it helps charities in the UK and internationally to use digital tools and channels to enhance and extend their existing fundraising activities. 

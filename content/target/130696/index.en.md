@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Virginia Woolf Society of Great Britain
-

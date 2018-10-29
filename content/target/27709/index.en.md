@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Best-preserved Magna Carta goes on show at Salisbury Cathedral
-

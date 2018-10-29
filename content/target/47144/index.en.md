@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Bad news for leavers – the EU has bigger priorities than Brexit
-

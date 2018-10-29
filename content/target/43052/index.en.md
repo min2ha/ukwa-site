@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Callum Hawkins (@callhawk) on Twitter
-
 The Twitter profile of marathon runner Callum Hawkins.

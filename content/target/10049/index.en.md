@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Welsh Conservatives on Twitter
-
 The Welsh Conservative Party (Welsh: Plaid Geidwadol Cymru) also known as the Welsh Conservatives (Ceidwadwyr Cymreig), are the part of the Conservative and Unionist Party that operates in Wales.

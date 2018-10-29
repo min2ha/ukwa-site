@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Team GB on Facebook
-
 None

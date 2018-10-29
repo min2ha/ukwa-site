@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Brext hastag on Twitter
-

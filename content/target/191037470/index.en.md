@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# 627 Squadron in retirement
-
 <p>Web site of 627 Squadron in Retirement, the association of 627 Squadron, Royal Air Force.</p>

@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T09:00:00Z"
 }
 
-#  British Carbon Group (BCG)
-
 The British Carbon Group (BCG) is a special-interest group of the Royal Society of Chemistry, Institute of Physics, and Society of Chemical Industry. They have around 300 members, representing the carbon research community.

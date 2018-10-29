@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Prince's School of Traditional Arts, The
-
 Official website of the Prince's School of Traditional Arts, London.

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# British Poultry Council: Twelve Priorities for EU Food Security: Our manifesto for the European Parliament Elections 2014
-
 None

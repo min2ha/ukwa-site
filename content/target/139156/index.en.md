@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cardiff and Vale Green Party
-
 Website of Cardiff and Vale Green Party, providing information on candidates, officers and committee members, policies and local and national news and opinion.

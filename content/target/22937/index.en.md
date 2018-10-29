@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tim Valentine (@SwaleGreen) on Twitter (Green Party candidate for Faversham and Mid Kent)
-

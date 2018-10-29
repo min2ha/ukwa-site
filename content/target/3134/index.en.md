@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Royal Welsh Agricultural Society (RWAS) - Cymdeithas Amaethyddol Frenhinol Cymru (CAFC)
-
 The Royal Welsh Agricultural Society plays a role in the development of agriculture and the rural economy in Wales. Its work includes providing support for business, social welfare and education in rural communities, and the organisation and staging of events: the Spring Festival, the Summer Show and the Winter Fair. It was formed in 1904.

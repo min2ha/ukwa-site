@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Black Gold Arts Festival
-
 Website for the Black Gold Arts Festival, celebrating Black culture. 

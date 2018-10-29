@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# British Association for Women in Policing (BAWP)
-
 None

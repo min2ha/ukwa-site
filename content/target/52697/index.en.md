@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Okonu Obasi (@aldanka) on Twitter (Liberal Democrats Politician)
-
 Okonu Obasi stood as Liberal Democrat candidate for walthamstow at the 2017 General Election but was not elected.

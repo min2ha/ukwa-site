@@ -10,6 +10,4 @@
   "start_date": "2015-09-29T10:00:00Z"
 }
 
-# Maria Donovan
-
 Welsh author and founder member of the Welsh Short Story Network.

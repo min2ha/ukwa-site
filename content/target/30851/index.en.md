@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Waterloo Foundation, The (TWF)
-
 The Waterloo Foundation (TWF) is a Cardiff based independent grant-making Foundation. The work is focused on global devlopment.

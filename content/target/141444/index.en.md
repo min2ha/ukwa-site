@@ -11,5 +11,3 @@
   "subject": "Latin America UK"
 }
 
-# Latin American House
-

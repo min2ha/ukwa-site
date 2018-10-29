@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tony Dyer on Facebook (Green Party candidate for South Bristol)
-

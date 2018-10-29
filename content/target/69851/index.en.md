@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Bookmarks
-
 The website of Bookmarks, a bookshop that specialises in socialist material.

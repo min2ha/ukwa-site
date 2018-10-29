@@ -10,6 +10,4 @@
   "start_date": "2018-05-09T09:00:00Z"
 }
 
-# Wikimedia UK
-
 Wikimedia UK is the national chapter for the global Wikimedia movement and enables people and organisations to contribute to a shared understanding of the world through the creation of open knowledge. 

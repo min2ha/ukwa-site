@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Balance Festival
-
 Health, fitness and wellbeing workshops, talks and cooking demos as well as brands.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Waking Ned (@NedWaking) on Twitter
-
 Waking Ned is a collective of individuals whose aim is to inform and raise awareness of the England Women Footballers of the 60's, 70's & 80's.

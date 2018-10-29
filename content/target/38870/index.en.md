@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Penny Haddrill (@pennyhaddrill) on Twitter
-
 Twitter profile of Penelope Haddrill, the Scottish Women's Equality list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

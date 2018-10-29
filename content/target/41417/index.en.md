@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South Molton Town Council
-
 Community news site for South Molton.

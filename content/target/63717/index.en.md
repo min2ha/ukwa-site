@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Fraserburgh South Church
-
 The website of Fraserburgh South Church. 

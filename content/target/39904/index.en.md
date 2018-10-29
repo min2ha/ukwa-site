@@ -10,6 +10,4 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# ScottishHandwriting.com
-
 Site providing online tuition of the paleography of Scottish documents, helping decipher hand written texts from old documents.

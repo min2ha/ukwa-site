@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The arrogant merchant of gloom Mrs May will be glad to see the back of
-
 Comments on the resignation of Sir Ivan Rogers as Britain's ambassador to the EU ahead of the Brexit negotiations.

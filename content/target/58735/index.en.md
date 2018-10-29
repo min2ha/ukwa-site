@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Potfest
-
 Site of annual festival of pottery and ceramics held at Cumbria and in Perth.

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum 2014"
 }
 
-# Lewis Macdonald MSP Labour member for North East Scotland
-

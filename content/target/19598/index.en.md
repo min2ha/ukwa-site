@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# British Expertise
-
 British Expertise is a private sector organisation for British companies offering professional services internationally. Their member companies range from large corporations and global consultancies to specialist firms. They are part of The D Group, UK’s private business network. 

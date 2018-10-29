@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Co-operative News: The Co-operative Party, A co-operative agenda for Wales 2016
-

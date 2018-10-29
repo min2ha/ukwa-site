@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Delyth Evans on Facebook
-
 Labour candidate for Carmarthen West & South Pembrokeshire. 

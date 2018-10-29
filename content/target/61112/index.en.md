@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dundee Presbytery
-
 Site of a body of Church elders and ministers and the administrative body representing local Church of Scotland congregations in the city of Dundee.

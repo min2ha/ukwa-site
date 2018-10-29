@@ -10,5 +10,3 @@
   "start_date": "2013-04-12T02:00:00Z"
 }
 
-# Caerphilly County Borough Council
-

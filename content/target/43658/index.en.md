@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sustainable Food Trust: European Referendum: Issues for Agriculture
-
 Article discussing the impacts of the EU referendum on agriculture with respect to the crisis in British agriculture and the Common Agricultural Policy.

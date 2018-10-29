@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# John Waddell (@JohnRWaddell) on Twitter
-
 Twitter profile of John Waddell, Scottish Liberal Democrat candidate for West Aberdeenshire and Kincardine in the 2017 general election.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Clare Adamson MSP (ClareAdamsonMSP) on Twitter
-
 <p>The twitter profile of Clare Adamson, Scottish National Party Member of the Scottish Parliament for Central Scotland.</p>

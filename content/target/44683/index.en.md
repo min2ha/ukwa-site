@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: European newspapers overwhelmingly critical of Brexit vote
-

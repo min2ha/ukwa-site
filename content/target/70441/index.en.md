@@ -10,6 +10,4 @@
   "start_date": "2018-08-26T09:00:00Z"
 }
 
-# British Council for Offices 
-
 Association for companies operating in the office property sector.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Keith Brown MSP (KeithBrownMSP) on Twitter
-
 The twitter profile of Keith Brown, Scottish National Party Member of the Scottish Parliament for Clackmannanshire and Dunblane.

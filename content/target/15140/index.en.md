@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Loundsley Green Community Trust
-

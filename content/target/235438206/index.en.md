@@ -10,6 +10,4 @@
   "start_date": "2014-04-30T11:00:00Z"
 }
 
-# Third Sector Futures Dialogue
-
 None

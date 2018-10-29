@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# David Lloyd Griffith RCA
-
 David Lloyd Griffiths is an elected member of the RCA (Royal Cambrian Academy) and has exhibited at many galleries across Wales. He is a full-time painter originally from Colwyn Bay.

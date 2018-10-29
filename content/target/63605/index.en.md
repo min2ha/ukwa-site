@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Yorkshire Post, The : Stephen Hawking
-
 Subsection on Stephen Hawking

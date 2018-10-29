@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mandy Telford (@Mandytelford) on Twitter
-
 Twitter profile of Mandy Telford, Scottish Labour candidate for Edinburgh West in the 2017 general election.

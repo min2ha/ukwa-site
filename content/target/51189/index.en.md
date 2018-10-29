@@ -10,6 +10,4 @@
   "start_date": "2017-03-25T09:00:00Z"
 }
 
-# Fèis Rois
-
 Dual language (Gàidhlig / English) site of a festival of Gaelic music and culture, and tuition in these aspects, and located in Ross-shire, Highlands.

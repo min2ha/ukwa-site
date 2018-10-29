@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Applegarth, Sibbaldbie and Johnstone Church on Facebook
-
 Facebook page of three Church of Scotland parish churches in Dumfries & Galloway.

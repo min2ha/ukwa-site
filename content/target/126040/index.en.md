@@ -10,5 +10,3 @@
   "start_date": "2006-06-14T00:00:00Z"
 }
 
-# Centre for Complex Fluids Processing
-

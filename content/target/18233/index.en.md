@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ashley Wakeling - Swansea West Green Party Candidate
-
 Ashley Wakeling is the Swansea West Green Party Candidate.

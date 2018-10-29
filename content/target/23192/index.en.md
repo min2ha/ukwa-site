@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Christian Institute: Election 2015 and 2017
-
 The Christian Institute (CI) is a British evangelical Christian pressure group run by Colin Hart. The CI promotes a conservative Christian viewpoint, founded on a belief in Biblical inerrancy. The CI is a registered charity.

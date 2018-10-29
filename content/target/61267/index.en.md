@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# SuffrageFlagRelay (@SuffrageFlag) on Twitter
-
 This is the official Twitter account of A team of volunteers sending a Suffrage Flag around the UK as part of Civil Service Celebrations for the Suffrage Centenary. 

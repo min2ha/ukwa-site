@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Richard A. Wills.
-
 Richard A. Wills is a member of the Watercolour Society Wales and uses the medium of water colour to explore a series of subjects, which includes portraiture, figures, landscapes, animal studies, especially horses and various other subject matter.

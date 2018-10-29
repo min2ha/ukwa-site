@@ -10,6 +10,4 @@
   "start_date": "2015-05-23T09:00:00Z"
 }
 
-# Londynek.net - UK Polish Community Online
-
 Founded in 2002, Londynek is the UK’s largest online community for Poles. Londynek is the Polish community’s most comprehensive source of information about a wide variety of news, classifieds and event listings. 

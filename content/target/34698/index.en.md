@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# RISE (@RISE_Scotland) on Twitter
-
 The twitter profile of RISE, Scotland's Left Alliance.

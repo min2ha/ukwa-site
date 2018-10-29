@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Spotlight
-
 Spotlight was founded in 1927 and is the UK's casting resource.

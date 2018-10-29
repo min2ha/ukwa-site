@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Holy Redeemer Stornoway
-
 Site of a Roman Catholic church in Scotland for the parish of Our Holy Redeemer, Stornoway, Isle of Lewis, Western Isles.

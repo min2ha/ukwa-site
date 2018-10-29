@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Helen Birtwhistle (@HelenB_whistle) on Twitter
-
 Helen Birtwhistle is the Director for the Wales For Europe Campaign. 

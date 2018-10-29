@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Rhoda Grant MSP
-
 Rhoda Grant is Scottish Labour Member of the Scottish Parliament for the Highlands and Islands.

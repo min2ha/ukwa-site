@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity Christchurch, Newport
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Reform: Clinical Commissioning and Integrated Care
-
 None

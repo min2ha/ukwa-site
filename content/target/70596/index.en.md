@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Donny Belles (@donnybelles) on Twitter
-
 Official account of National League Doncaster Rovers Belles • UK's most historic independent women's football club.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Would tougher voting rules have changed the Brexit result?
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Midstocket Parish Church
-
 The Midstocket Parish Church Website. Midstocket Parish Church is located in Aberdeen, Scotland. 

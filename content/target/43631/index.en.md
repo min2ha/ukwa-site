@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Elite Education Group: What does the Brexit mean for education?
-
 Elite Education Group on Brexit Decision

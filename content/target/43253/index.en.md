@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford Students for Britain (@SfBOxford) on Twitter
-
 A Twitter account of Oxford Students campaigning for Leave.

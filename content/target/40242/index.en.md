@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Bells Glasgow Pottery
-
 Site for a downloadable book about pottery manufacture in Glasgow.

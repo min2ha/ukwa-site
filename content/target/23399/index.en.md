@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dawn Parry (@DawnParry) on Twitter (Independent candidate for Bristol West)
-

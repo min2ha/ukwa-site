@@ -10,5 +10,3 @@
   "start_date": "2012-08-06T00:00:00Z"
 }
 
-# North Wales Branch of Butterfly Conservation
-

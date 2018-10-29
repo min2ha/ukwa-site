@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Rod Stewart Fan Club
-
 Rod Stewart Fan Club is a free fan club dedicated to celebrating the life and works of a British artist Rod Stewart.

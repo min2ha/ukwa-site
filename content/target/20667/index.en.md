@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Mums for Change on Facebook
-
 Mums for Change are a group campaigning for Scottish Independence holding events across the country in the run up to the referendum. This is their Facebook account.

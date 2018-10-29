@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy Newman (@AndyD_Newman) on Twitter (Conservative Politician)
-
 James Airey stood as Conservative candidate for Westmorland and Lonsdale at the 2017 General Election but was not elected.

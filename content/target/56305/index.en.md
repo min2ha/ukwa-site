@@ -10,6 +10,4 @@
   "start_date": "2017-08-02T09:00:00Z"
 }
 
-# Carole Burns
-
 Carole Burns is a fiction writer, journalist and head of creative writing at the University of Southampton. She is currently living in Cardiff and co-founder of the xx women’s writing festival.

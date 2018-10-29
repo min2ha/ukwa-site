@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Poets' Republic
-
 Site of poetry magazine based in Scotland featruring politically and event inspired writing.

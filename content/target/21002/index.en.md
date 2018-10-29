@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Scott-Hayward (@WeLikeMike) on Twitter
-
 The Twitter profile of Mike Scott-Hayward, standing as an independent candidate for North East Fife in the UK General Election on the 7th May 2015.

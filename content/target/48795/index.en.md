@@ -10,7 +10,5 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Inky Sprat
-
 Inky Sprat is the place to find beautiful children’s picture books for tablets, 
 introduced and read by the authors.

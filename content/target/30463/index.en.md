@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# States of Jersey Assembly
-
 This website details the members, history and procedures of the Assembly of the States of Jersey, provides a record of past sittings and gives information about propositions that have been debated and that are due to be debated at future sittings.

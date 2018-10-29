@@ -10,5 +10,3 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Dardishi
-

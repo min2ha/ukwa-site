@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nigel Askew on Facebook (We Are the Reality Party candidate for South Thanet)
-

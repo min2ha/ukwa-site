@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Grassroots Out (@Grassroots_Out) on Twitter
-
 Cross-party grassroots campaign for the UK to leave the EU

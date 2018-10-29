@@ -11,5 +11,3 @@
   "subject": "IT Collection"
 }
 
-# GOV.UK: UK Digital Strategy
-

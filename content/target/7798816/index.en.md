@@ -10,5 +10,3 @@
   "start_date": "2008-06-10T00:00:00Z"
 }
 
-# Steve Lodder
-

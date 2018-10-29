@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T11:00:00Z"
 }
 
-# Scuilwab
-
 Scots language website aimed at children and young people and their teachers, and for anyone interested in learning Scots.

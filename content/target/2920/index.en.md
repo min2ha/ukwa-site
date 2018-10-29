@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Stephen Hawking
-
 Official website of Prof. Stephen Hawking, a physicist working at the University of Cambridge.

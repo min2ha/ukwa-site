@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# Friends of the River Almond Walkway
-
 Site of a local conservation group aiming to maintain and improve the amenity and natural environment of this popular, historic and scenic route along the River Almond, which enters the River Forth, west of Edinburgh, at Cramond, for the benefit of local residents and visitors.

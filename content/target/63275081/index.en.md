@@ -10,5 +10,3 @@
   "start_date": "2012-09-13T00:00:00Z"
 }
 
-# Ceredigion County Council 2020 | Cyngor Sir Ceredigion 2020
-

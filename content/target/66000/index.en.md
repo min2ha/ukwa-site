@@ -10,6 +10,4 @@
   "start_date": "2018-05-23T09:00:00Z"
 }
 
-# Scottish Recovery Consortium
-
 Site of a recovery-orientated charity, building and promoting recovery from addictions in Scotland using means and messages that are consistent with the values and practices of recovery from addictions.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity, Long Melford
-

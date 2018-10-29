@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Institute of Environmental Management & Assessment (IEMA)
-
 The Institute of Environmental Management & Assessment (IEMA) is the professional home of over 15,000 environment and sustainability professionals from around the globe. IEMA’s role is to support individuals and organisations to set, recognise and achieve global sustainability standards and practice.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Labour Euro-Safeguards Campaign
-
 The Labour Euro-Safeguards Campaign (LESC) believes believes it has not been in Britain’s long-term interest to be a member of the European Union and, for that reason, supports an "in or out" referendum on Britain's membership.

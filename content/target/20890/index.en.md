@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# World Wildlife Fund UK: General Election 2015
-
 World Wide Fund for Nature (WWF) is an international non-governmental organization founded on April 29, 1961, and is working on issues regarding the conservation, research and restoration of the environment. 

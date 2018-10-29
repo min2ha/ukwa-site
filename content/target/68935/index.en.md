@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail The: Trump tells Theresa May her soft Brexit plan will 'kill' any US trade deal after Britain leaves the EU, adds Boris will make a great PM and blames Sadiq Khan for terrorism in explosive start to UK visit
-

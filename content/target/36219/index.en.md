@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum: press and politicians leave voters in a factual fog
-
 Guardian, The

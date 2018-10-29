@@ -10,7 +10,5 @@
   "start_date": "2017-12-09T09:00:00Z"
 }
 
-# Best Immigration Solicitor in London - Lupins UK Immigration Lawyers
-
 Established in 1998 as a niche human rights firm – we have a trusted record of excellent service. LUPINS are frequently recommended by a long list of happy clients.
 We are passionate about our work and dedicated to achieving life-changing results.

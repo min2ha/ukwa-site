@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Trevithick Trail, The
-
 The Trevithick Trail is in Merthyr Tydfil.

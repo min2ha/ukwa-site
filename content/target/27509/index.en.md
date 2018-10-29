@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Labour remains strong in polls despite personal Tory attacks
-
 None

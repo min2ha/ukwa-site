@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Northern Ireland Sports Forum
-
 <p>The website of the Northern Ireland Sports Forum, umbrella organisation for sport in the voluntary sector of Northern Ireland.</p>

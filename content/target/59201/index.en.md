@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Herbert Smith Freehills: Brexit: Sector and Legal Perspectives
-

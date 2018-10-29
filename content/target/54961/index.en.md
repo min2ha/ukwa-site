@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Bank of England: Speech: A fine balance
-
 Mr Carney's speech at the Mansion House in June 2017 called for an "innovative, co-operative and responsible" approach to Brexit. He said that monetary policy cannot prevent the weaker real income growth likely to accompany the transition to new trading arrangements with the EU. But it can influence how this hit to incomes is distributed between job losses and price rises. And it can support households and businesses as they adjust to such profound change. 

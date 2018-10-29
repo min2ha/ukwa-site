@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Siren Swansea, The
-
 The Siren is your alternative commentary blog about life at Swansea university. 

@@ -10,6 +10,4 @@
   "start_date": "2015-06-25T10:00:00Z"
 }
 
-# National Council for the Training of Journalists (NCTJ)
-
 National Council for the Training of Journalists (NCTJ) was founded in 1951 to run the newspaper industry’s training scheme, following the findings of a Royal Commission on the Press. Now a charity for all media, the organisation has a professional awarding body, an accreditation board, Student Council, focus groups and forums, and the annual Journalism Skills Conference.  

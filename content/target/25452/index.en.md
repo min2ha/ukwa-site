@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leaders' debate: Cameron, Miliband and Clegg may get more speaking time
-
 None

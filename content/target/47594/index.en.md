@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Claranet
-
 Founded in 1996, Claranet is a managed IT services providers. They offer businesses hosting, networks and communications services. They have many offices across Europe. This is their UK website.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU vote too important to be dominated by Tory politics, says minister
-
 Guardian, The

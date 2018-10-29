@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Duncansburgh MacIntosh Parish Church
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guradian, The: Tory youth welfare plans an attack on the north, Lib Dems say
-
 None

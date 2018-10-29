@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# The Recusant
-
 Online magazine of poems, prose pieces, fiction, articles, reviews. Focus on  political, social and polemical poetry.

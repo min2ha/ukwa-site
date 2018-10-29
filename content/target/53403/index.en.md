@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# League against Cruel Sports: Election Minifesto 2017
-
 The League Against Cruel Sports is Britain's leading charity that works to stop animals being persecuted, abused and killed for sport. It believes that Britain should be a place where animal welfare is taken seriously. We should be proud of how we treat animals in this country, and we should defend animals from persecution in the name of sport at home and aboard. 

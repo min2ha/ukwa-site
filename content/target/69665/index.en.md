@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# River Stage Festival 2018
-
 Outdoor festival with a different company taking over the stage each weekend with their acts and artists.

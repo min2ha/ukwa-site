@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Dams to Darnley Country Park
-
 Site of a country park in East Renfrewshire and western Glasgow.

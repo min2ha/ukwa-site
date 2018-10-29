@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alison Dowling (@AlisonJDowling) on Twitter
-
 Twitter profile of Alison Dowling, Scottish Labour candidate for Paisley and Renfrewshire South in the 2017 general election.

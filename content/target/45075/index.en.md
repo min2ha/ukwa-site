@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Digging up Helen Skelton's teenage topless pictures is a gross and disturbing invasion of privacy
-
 Photographs reportedly showing BBC Olympics presenter Helen Skelton sunbathing topless whilst on holiday aged 17 have been published in a Sunday newspaper and circulated online. It comes in the wake of widespread media focus on Skelton's clothes and appearance instead of her presenting skills during her stint in Rio.

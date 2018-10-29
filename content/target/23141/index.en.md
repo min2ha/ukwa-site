@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Andrew Whitaker (@andrewwhitaker3) on Twitter
-
 Twitter account of Andrew Whitaker, Scottish Political Correspondent at The Scotsman/Scotland on Sunday.

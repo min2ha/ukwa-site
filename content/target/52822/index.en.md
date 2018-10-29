@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Grrrl Con / For Books' Sake: championing writing by women
-
 Since launching in 2010, For Books' Sake has championed women writers of all backgrounds and career levels via its webzine, campaigning, creative writing workshops, national programme of live events and publishing projects.

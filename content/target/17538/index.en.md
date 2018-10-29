@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Brian Adcock on the party leaders' TV debates — cartoon
-
 None

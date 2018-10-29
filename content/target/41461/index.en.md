@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Belfast Gazette, The: How will Northern Ireland vote in the upcoming EU referendum?
-

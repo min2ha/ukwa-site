@@ -11,5 +11,3 @@
   "subject": "Northern Ireland"
 }
 
-# Men's Health Forum in Ireland
-

@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Lochbroom Camanachd on Facebook
-
 Site of a shinty club based at Ullapool, Highland

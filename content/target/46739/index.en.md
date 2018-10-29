@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Michelle Brown on Facebook
-
 UKIP Assembly member for North Wales.

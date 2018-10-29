@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Clan Davidson Association
-
 Site of a clan association based in the UK who share Davidson ancestry.

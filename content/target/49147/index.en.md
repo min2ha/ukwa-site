@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Football Partnership
-
 Site of a football trust awarding funds to Scottish football clubs from children's clubs to professional clubs in Scotland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# EURODEFENSE UK
-
 EURODEFENSE UK is run by a not-for-profit company Eurodefense UK Ltd. It promotes European security and defence identity, contributes to the development of a sense of European defence by concrete initiatives and help the establishment and reinforcement of links with fellow associations in each EU country.

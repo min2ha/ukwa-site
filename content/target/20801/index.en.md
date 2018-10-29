@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter McColl (@PeterMcColl) on Twitter
-
 The Twitter profile of Peter McColl, Scottish Green Party candidate for Lothian in the 2016 Scottish Parliament election.

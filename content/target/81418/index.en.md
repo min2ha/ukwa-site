@@ -10,6 +10,4 @@
   "start_date": "2018-10-13T09:00:00Z"
 }
 
-# Rachel Maclean
-
 This website was designed by Glasgow based artist, Rachel Maclean. "My work slips inside and outside of history and into imagined futures, creating hyper-glowing, artificially saturated visions that are both nauseatingly positive and cheerfully grotesque."

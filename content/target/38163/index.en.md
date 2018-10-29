@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Northern Ireland Assembly EU Matters (@NIEAUMatters) on Twitter
-
 Northern Ireland Assembly account tweeting news & updates on EU matters. 

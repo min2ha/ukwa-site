@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The SKWAWKBOX (@skwawkbox) on Twitter
-
 An online news site.

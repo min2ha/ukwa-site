@@ -10,6 +10,4 @@
   "start_date": "2018-04-06T09:00:00Z"
 }
 
-# Alpaca World Magazine
-
 Alpaca World Magazine was launched in 2002.

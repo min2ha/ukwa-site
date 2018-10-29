@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Lynne Cartlidge
-
 Lynn Cartlidge was has a studio in Cardiff and if sunded by the Wales Arts Council.

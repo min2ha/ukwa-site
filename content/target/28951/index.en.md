@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Labour Bristol
-
 Website of Labour Local Campaign Forum covering Bristol, providing information on Labour press releases on local issues, parliamentary candidates, and Bristol Labour Party Executive Committee members.

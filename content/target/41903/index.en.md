@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Revolve
-
 Site of the re-use quality standard for shops who sell second hand goods in Scotland.

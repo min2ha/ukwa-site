@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Total Rugby League
-
 We are the publishers of the market-leading weekly (tabloid size, full colour) newspaper Rugby Leaguer & League Express, its sister publication and market-leading monthly (A4 glossy, full colour) magazine Rugby League World plus this website, Total Rugby League (TotalRL.com).

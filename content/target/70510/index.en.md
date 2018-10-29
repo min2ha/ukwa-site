@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Greenock West United Reformed Church
-
 Site of a Scottish United Reformed church located in Greenock, Renfrewshire.

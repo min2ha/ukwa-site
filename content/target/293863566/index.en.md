@@ -10,5 +10,3 @@
   "start_date": "2015-02-23T00:00:00Z"
 }
 
-# Llandudno Writers' Club
-

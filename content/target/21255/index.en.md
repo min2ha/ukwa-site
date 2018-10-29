@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Thomas-Symonds (@nick4torfaen) on Twitter 
-
 Labour PPC for Torfaen.

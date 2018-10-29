@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Cafe OTO
-
 Music venue, café and record shop in Dalston, London, managed by OTO Projects, a not-for-profit organisation.

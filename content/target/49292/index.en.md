@@ -10,6 +10,4 @@
   "start_date": "2017-02-14T09:00:00Z"
 }
 
-# Bank of England (@bankofengland) on Twitter
-
 Bank of England official Twitter account.

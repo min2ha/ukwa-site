@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband to woo younger voters with pledge to cut tuition fees 
-
 None

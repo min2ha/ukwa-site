@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# New Horizons in British Islam
-
 New Horizons is a forward-looking organisation that will work for reform in Muslim thought and practise. It is inspired by Islamic values and speaks from within the Islamic tradition for the benefit of all.

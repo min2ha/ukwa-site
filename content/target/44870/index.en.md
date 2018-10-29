@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T11:00:00Z"
 }
 
-# Laurence Allan - Writer, Director
-
 Laurence Allan is an Award winning writer for stage, screen and radio. He was born and bred in Pontypridd.

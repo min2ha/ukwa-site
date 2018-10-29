@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron's TV debates bluff called as broadcasters vow to go ahead with an 'empty chair' 
-
 None

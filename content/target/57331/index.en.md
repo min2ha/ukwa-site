@@ -10,6 +10,4 @@
   "start_date": "2017-09-22T09:00:00Z"
 }
 
-# Public Servants Working For You
-
 Prospect union gives voice at work in many skilled professional and specialist roles in the public sector. This is their campaign website for the government to scrap their pay cap on public sector employees.

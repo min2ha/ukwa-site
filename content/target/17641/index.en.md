@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Health, immigration and the economy: where the election will be won and lost
-
 None

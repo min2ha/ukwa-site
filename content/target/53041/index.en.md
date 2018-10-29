@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Independent: General Election
-
 The General Election splash page of the Independent.

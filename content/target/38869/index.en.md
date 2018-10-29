@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Calum Shepherd (@CalumMShepherd) on Twitter
-
 Twitter profile of Calum Shepherd, the Scottish Women's Equality list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

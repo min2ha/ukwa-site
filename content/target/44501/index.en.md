@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Telegraph, The: The radical blueprint the NHS needs to survive life after Brexit
-
 The challenges facing the health service require radical reforms.

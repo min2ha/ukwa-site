@@ -10,5 +10,3 @@
   "start_date": "2006-02-13T00:00:00Z"
 }
 
-# NAASWCH: North American Association for the Study of Welsh Culture and History
-

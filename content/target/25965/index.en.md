@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jeremy Paxman: broadcasters ‘pathetic’ in stance on leaders’ TV debates
-
 None

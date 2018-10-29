@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Alexander Lebedev: my editors decide who papers back in general election
-
 None

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Once Upon a Grime
-
 Covers UK Grime artists, video and album releases

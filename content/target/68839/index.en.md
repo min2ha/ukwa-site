@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Daily Mail Online: World Cup 2018
-
 World Cup 2018 News and Groups plus Fixtures and Dates | Daily Mail Online

@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Traverse Theatre on Facebook
-
 Founded in 1963, the Traverse is Scotland's New Writing theatre. This is its official Facebook page.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Royal Town Planning Institute (RTPI): General election 2015
-
 The Royal Town Planning Institute is the UK's leading planning body for spatial, sustainable and inclusive planning and is the largest planning institute in Europe with over 23,000 members.

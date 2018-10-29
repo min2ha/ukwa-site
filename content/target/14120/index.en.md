@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Times Higher Education: Scottish government fees stance ‘incompatible with EU law’
-
 None

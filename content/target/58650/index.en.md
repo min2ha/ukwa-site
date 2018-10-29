@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cardiff Times 
-
 Cardiff Times is a monthly, lifestyle magazine covering the city of Cardiff.

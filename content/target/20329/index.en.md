@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Michelle Donelan on Facebook (Conservative candidate for Chippenham)
-

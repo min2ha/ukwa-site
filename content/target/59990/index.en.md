@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: It distresses me to use such a word about as distinguished a man as Lord Heseltine, but on Brexit he's a BIGOT
-
 Comments on Lord Heseltine's ongoing opposition to Brexit.

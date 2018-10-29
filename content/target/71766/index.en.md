@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit transition period too short unless deal on table soon, says Merkel
-
 In a speech to German industrialists, Angela Merkel warned warned the British government that the 21-month Brexit transition period would not be long enough if the terms of a future trade deal with the UK were not made clear and concrete in the following  eight weeks. The German chancellor gave her support to the French president, Emmanuel Macron, who wanted to avoid a vague political declaration on the terms of a future deal.

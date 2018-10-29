@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Ian Duncan (@IanDuncanMEP) on Twitter (Conservative MEP for Scotland and candidate for Perth and North Perthshire at the 2017 General Election)
-
 Ian Duncan stood as Conservative candidate for Scotland at the 2014 European Parliament Election and was elected to serve as MEP. He subsequently  stood as Conservative candidate for Perth and North Perthshire at the 2017 General Election but was not elected. The Prime Minister's Office announced in June 2017 that Duncan would be granted a life peerage and thus become a member of the House of Lords, in order to take up his appointment as Parliamentary Under-Secretary of State for Scotland

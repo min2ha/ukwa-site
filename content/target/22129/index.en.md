@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jonathan Bishop Dzon (@votejonathan) on Twitter (Plurarist Party candidate for Liverpool Walton)
-

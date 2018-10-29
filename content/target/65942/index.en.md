@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Borough Wide WW1 Centenary Project Exhibition
-
 The project involved the creation of an interactive website and exhibition which will share and collate stories, photographs and artefacts received by residents in Taunton Deane.

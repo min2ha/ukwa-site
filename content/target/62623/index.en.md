@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Tregroes Waffles
-
 Tregroes Waffles began in 1983 and is located in Llandysul.

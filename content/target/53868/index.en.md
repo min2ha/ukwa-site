@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Margaret Ferrier – SNP candidate for Rutherglen and Hamilton West in the General Election on 8th June
-
 Margaret Ferrier, Scottish National Party candidate for Rutherglen and Hamilton West in the 2017 general election.

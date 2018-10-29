@@ -10,6 +10,4 @@
   "start_date": "2016-04-25T10:00:00Z"
 }
 
-# James Cole on Facebook (Abolish the Welsh Assembly Party candidate for South Wales West)
-
 James Cole is the Abolish the Welsh Assembly Party candidate for South Wales East at the 2016 National Assembly for Wales elections.  

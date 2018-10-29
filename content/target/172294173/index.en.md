@@ -10,5 +10,3 @@
   "start_date": "2013-07-10T00:00:00Z"
 }
 
-# Ride North Wales | Beicio Gogledd Cymru
-

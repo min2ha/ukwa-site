@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Martina Anderson, Sinn Fein on Facebook
-
 None

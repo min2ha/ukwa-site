@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Pensions critics are patronising, says Osborne
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# Christ Church Southgate
-
 Is a liberal catholic Church of England parish where all are welcome.

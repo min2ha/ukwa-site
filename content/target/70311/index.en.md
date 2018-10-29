@@ -10,6 +10,4 @@
   "start_date": "2018-08-23T09:00:00Z"
 }
 
-# Sir Roger Moore
-
 Website dedicated to the British actor Roger Moore

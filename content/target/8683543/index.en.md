@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Baptist Times, The
-
 None

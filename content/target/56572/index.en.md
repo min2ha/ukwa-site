@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# HEROtheHedgehog (@HEROtheHedgehog) on Twitter
-
 Hero the Hedgehog is the official mascot for the IAAF World Championships held in London in August 2017.

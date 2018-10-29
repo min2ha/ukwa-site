@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# interactive investor
-
 An online enthusiast community concerned with the stock market. Discusses various stocks and markets, also includes sections focusing on investments.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City AM: Britain’s legal sector is leading the world: It’s time we celebrated it
-

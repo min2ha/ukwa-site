@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Edge Hill University: Blog: Election 2015
-

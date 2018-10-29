@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Episcopal Churches in Glasgow's East End
-
 Site of a group of Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Glassgow, namely, St. John's, Ballieston; St. Kentigern's, Dennistoun; St. Serf's, Shettleston.

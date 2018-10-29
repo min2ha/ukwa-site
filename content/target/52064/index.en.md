@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Dewch i Gerdded Cymru | Let’s Walk Cymru
-
 ‘Let’s Walk Cymru’ is a Wales-wide initiative developed in partnership with the Sports Council for Wales, the Welsh Assembly Government and Ramblers Cymru - tasked with increasing the number of people participating in walking as a regular activity.

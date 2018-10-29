@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Denholm Oilfield Services Limited
-
 Denholm Oilfield Services Limited provides specialist electrical and instrumentation, valve management, freight forwarding and recruitment operations to the oil and gas industry. Denholm Oilfield Services Limited operates as a subsidiary of the Denholm Group.

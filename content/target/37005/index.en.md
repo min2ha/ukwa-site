@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Scotland Loves Anime
-
 Site of a film festival based in Edinburgh and Glasgow and focusing on the genre of animated Japanese film known as Anime.

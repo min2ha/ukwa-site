@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Divide and rule tactics could leave UK without deal, say EU politicians
-

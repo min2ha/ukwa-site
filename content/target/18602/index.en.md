@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daniel Thompson - Green Party Candidate Ceredigion on Facebook
-
 Daniel Thompson is the official Green Party candidate for Ceredigion in the 2015 General Election.

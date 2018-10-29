@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Tripping the Colour! Internet erupts with funny memes after guardsman faints during Queen's 90th birthday celebrations
-
 After a guardsman fainted during the Trooping the Colour ceremony memes of the guard lying on the ground started appearing around the internet.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# #PayMeToo
-
 PayMeToo is a cross party group of MP's working to tackle the gender pay gap fighting for equality in Britain 

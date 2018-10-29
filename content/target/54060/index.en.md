@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Redvers Cunningham(@UKIPRedvers) on Twitter (UKIP Politician)
-
 Redvers Cunningham stood as UK Independence Party (UKIP) candidate for Spelthorne in the 2017 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Aberdeen and Orkney
-
 Site of the Aberdeen and Orkney diocese of the Scottish Episcopal Church

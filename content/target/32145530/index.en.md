@@ -10,5 +10,3 @@
   "start_date": "2009-11-12T00:00:00Z"
 }
 
-# Connected Earth - founded by BT
-

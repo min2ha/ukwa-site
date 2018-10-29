@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Midlands Public Health Observatory 
-
 None

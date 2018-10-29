@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: If you're an internationalist, you must vote to leave the EU. Here's why
-

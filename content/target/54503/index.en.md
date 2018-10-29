@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Change.org: Keep the ban on fox hunting
-
 Petitioning Prime Minister of the United Kingdom and Leader of the Conservative Party Theresa May MP.

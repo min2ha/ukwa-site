@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matt Cooke (@GreenGiraffe22) on Twitter 
-
 Green Party PPC for Torfaen.

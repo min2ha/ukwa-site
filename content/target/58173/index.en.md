@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: How open-minded are our universities? As an MP provokes a storm just for ASKING what students are being taught about Brexit, disturbing questions about propaganda in the lecture halls emerge  
-

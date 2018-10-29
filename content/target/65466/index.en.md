@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cotswold Festival of Motoring
-
 Official website of the Cotswold Festival of Motoring

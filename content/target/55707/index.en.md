@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Solidarity Sports
-
 Far too many children in London live on the margins of our society. They often have nowhere to play, and few opportunities to learn outside school. Since 2007 Solidarity Sports have worked with many children and families across central London. Solidarity Sports was set up to give disadvantaged children the chance to play sport together because it’s fun, and a great way to learn valuable life skills.

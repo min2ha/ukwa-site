@@ -10,6 +10,4 @@
   "start_date": "2015-08-22T10:00:00Z"
 }
 
-# We Shall Overcome Weekend
-
 We Shall Overcome weekend is held on the 2nd/3rd/4th October. Many gigs and events will be organised around the country with the purpose of uniting in the face of a government whose agenda of austerity we oppose. 

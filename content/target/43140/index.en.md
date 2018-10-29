@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# She's a Be-Leaver Pro Brexit minister taunts David Cameron with copy of The Sun as she enters Downing Street 
-
 Sun, The

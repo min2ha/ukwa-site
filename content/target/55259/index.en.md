@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Workways + Gweithffyrdd 
-
 Workways+ is a European Social Fund project offering training and paid work experience opportunities to long-term unemployed people to help get their lives back on track in Neath Port Talbot, Swansea, Carmarthenshire, Pembrokeshire and Ceredigion.

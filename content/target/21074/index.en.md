@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jason O'Neill (@JasonONeill1) on Twitter (Alliance Party candidate for Belfast North)
-

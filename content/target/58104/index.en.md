@@ -10,6 +10,4 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# Bathgate Regal
-
 Site of a community theatre and cineman at Bathgate, West Lothian.

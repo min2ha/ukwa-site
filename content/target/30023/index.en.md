@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# National Heart and Lung Institute Foundation
-
 National Heart and Lung Institute Foundation is an independent  charitable foundation supporting research, development, education and patient care in heart and lung medicine.

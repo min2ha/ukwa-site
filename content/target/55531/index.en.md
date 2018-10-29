@@ -10,6 +10,4 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# Gwynedd and Anglesey Well-Being Assessments | Llesiant ar gyfer ardaloedd Gwynedd a Môn
-
 Gwynedd and Anglesey Public Services Board (PSB) is a statutory body established to improve the economic, social, environmental and cultural well-being of Gwynedd and Anglesey County Boroughs in order to comply with the Well-being of future Generations (Wales) Act. The Gwynedd and Anglesey Well-Being Assessments we want website is managed by the PSB and is providing a well-being assessment of Gwynedd and Anglesey.

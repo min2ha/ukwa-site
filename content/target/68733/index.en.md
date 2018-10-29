@@ -10,6 +10,4 @@
   "start_date": "2018-07-11T09:00:00Z"
 }
 
-# Quay Watermen's Association
-
 Quay's Waterman Association is a voluntary organisation established by a group of local fishermen, boat enthusiasts and local residents who want to conserve the Connah’s Quay dock area and raise awareness about its maritime heritage. 

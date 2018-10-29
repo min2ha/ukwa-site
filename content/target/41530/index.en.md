@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Church of Pentecost Scotland
-
 Site of the Scottish branch of the Church of Pentecost International

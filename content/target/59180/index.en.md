@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Edinburgh Southern Orienteering Club
-
 Site of an orienteering club based in Edinburgh.

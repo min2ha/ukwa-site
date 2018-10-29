@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bradford Conservatives
-
 Website of Bradford Conservatives, providing information on events, representatives and candidates, association officers, and local and national news.

@@ -1,15 +1,13 @@
 {
-  "date": "2018-10-29T12:55:15.230514", 
+  "date": "2018-10-29T13:22:22.689535", 
   "open_access": false, 
   "target_url": "http://www.peoplesassemblies.org", 
   "description": "<p>Online platform which support democracy protests and democratic assemblies in the UK, Europe and throughout the world.</p>\n", 
   "end_date": null, 
   "title": "People's Assemblies Network", 
-  "record_id": "20181029T125515/dKmvXm43zyQEJaHowH7srQ==", 
+  "record_id": "20181029T132222/dKmvXm43zyQEJaHowH7srQ==", 
   "publisher": "peoplesassemblies.org", 
   "start_date": null
 }
-
-# People's Assemblies Network
 
 <p>Online platform which support democracy protests and democratic assemblies in the UK, Europe and throughout the world.</p>

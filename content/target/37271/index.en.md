@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# International Business Times, The: EU referendum: Brexit won't change global business with UK, claim 70% of CFOs
-
 International Business Times, The: EU referendum: Brexit won't change global business with UK, claim 70% of CFOs

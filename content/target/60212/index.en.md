@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bexley remembers the First World War
-
 The London Borough of Bexley is proud to be involved in projects and events to commemorate the centenary of the First World War.

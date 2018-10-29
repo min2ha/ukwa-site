@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Sir John Major attacks 'unreal' Brexit vision
-
 Britons are being offered an "unreal and over-optimistic" vision of what Brexit will look like, Sir John Major warned in a speech to Chatham House. The former Tory prime minister also called for "more charm and a lot less cheap rhetoric" from the UK government towards the rest of the EU.

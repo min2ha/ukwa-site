@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Bodleian Libraries: A lab of one's own: science and suffrage in the First World War
-
 Bodleian Libraries event commemorating both 2018 anniversaries: the end of World War 1 and British women winning the vote.

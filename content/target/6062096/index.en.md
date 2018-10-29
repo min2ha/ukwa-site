@@ -11,6 +11,4 @@
   "subject": "Free e-Journals"
 }
 
-# Centre for Creative Communities
-
 None

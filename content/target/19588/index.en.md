@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# Rage Arts 
-
 Rage Arts gives people of all ages the opportunity to take the next step in their life through film, theatre and music.

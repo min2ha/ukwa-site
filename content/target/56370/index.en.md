@@ -11,5 +11,3 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# sampad South Asian Arts: UK/India Year of Culture 2017
-

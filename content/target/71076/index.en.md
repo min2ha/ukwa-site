@@ -10,6 +10,4 @@
   "start_date": "2018-09-12T09:00:00Z"
 }
 
-# Wee Dram Magazine, A
-
 Site of a Scottish magazine about Scottish whisky and the whisky industry.

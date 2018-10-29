@@ -11,7 +11,5 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# FSB Wales: The FSB Wales Business Manifesto for the 2016-21 Welsh Government
-
 The manifesto is entitles: A Better Way for Wales:  Building our economy on the 
 SME foundation.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC news: EU deal: A hard-headed calculation to avoid Brexit
-

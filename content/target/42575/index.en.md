@@ -10,6 +10,4 @@
   "start_date": "2016-06-08T10:00:00Z"
 }
 
-# Clan MacLennan Worldwide
-
 Site dedicated to the history, family history and traditions of the MacLennan clan and its septs.

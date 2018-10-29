@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Muse DAAT Atlas (ERPHO)
-
 None

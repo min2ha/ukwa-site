@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: If Labour MPs can’t amend this Tory Brexit bill, they must vote against it
-

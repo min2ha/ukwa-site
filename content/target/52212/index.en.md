@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ruthrieston West Church 
-
 Ruthrieston West Church of Scotland is a small parish located in Aberdeen. 

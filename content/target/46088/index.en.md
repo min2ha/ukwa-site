@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Canolfan Ganser Felindre | Velindre Cancer Centre
-
 Velindre Cancer Centre is aspecialist cancer treatment centre located near Cardiff. 

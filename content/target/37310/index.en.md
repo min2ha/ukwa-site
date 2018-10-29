@@ -10,6 +10,4 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# Scalloway Community Website
-
 Community website for the village of Scalloway, Mainland, Shetland, Scotland

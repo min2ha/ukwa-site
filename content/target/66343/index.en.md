@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Forth Holdings Ltd
-
 Forth Holdings Ltd operates as holding company and, through its subsidiaries, offers design, building and installation services of electrical, heating and ventilation. The company is headquartered in Stirling, Scotland.

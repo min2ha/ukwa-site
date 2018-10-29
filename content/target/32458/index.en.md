@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Classical-Music.com
-
 Online version of the BBC Music magazine.

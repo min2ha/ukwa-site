@@ -10,6 +10,4 @@
   "start_date": "2015-06-24T10:00:00Z"
 }
 
-# British Sikh Consultative Forum (BSCF)
-
 The British Sikh Consultative Forum (BSCF) provides a forum for Sikh organisations to come together for mutual consultation as well as offer a central point for interface with Government, national bodies, organization and other communities. It was established 2002.

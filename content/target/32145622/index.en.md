@@ -11,6 +11,4 @@
   "subject": "Free e-Journals"
 }
 
-# Hackwriters.com 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady and Saint Helen's Roman Catholic Church
-
 Site of two Roman Catholic churches in Scotland located in Cumberbauld, Lanarkshire.

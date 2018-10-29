@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scotland Stronger in Europe
-
 Regional page for Scotland of the Stronger In Europe campaign

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The One Ring Forum
-
 An online enthusiast forum concerned with The Lord of the Rings Strategy Battle Game tabletop game.The forum discusses tips for beginners, painting and terrain modelling, battle reports, tactics and various other related topics.

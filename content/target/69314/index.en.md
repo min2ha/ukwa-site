@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ian Wright (IW)
-
 Ian Wright is a former professional footballer from England who is currently a football pundit with different UK TV stations.

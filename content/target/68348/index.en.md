@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Phoenix RFC (@Phoenix_RFC) on Twitter
-
 The official Twitter account of Phoenix Rugby Club. Phoenix RFC is a community rugby club running mens adult, vets senior, junior & mini teams. The club has been leading rugby in the Burnham & Taplow area for over 53 years. 

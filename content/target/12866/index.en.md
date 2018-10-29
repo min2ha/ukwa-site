@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Platform: Make 2014 Flags
-
 <p>“Make 2014 Flags” is a project to celebrate a remarkable year for Glasgow. Invites nurseries, schools, community groups, lunch groups and individuals to make 2,014 flags which will then form part of a major exhibition and celebration event in January. Project based at Platform art centre, Glasgow.</p>

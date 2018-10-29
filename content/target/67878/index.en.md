@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Blow for Philip Hammond as the PM plans to pour billions of cash freed up by Brexit to the NHS
-
 Reports that Mrs May was planning to use the "Brexit Dividend" to pour billions more into the NHS.

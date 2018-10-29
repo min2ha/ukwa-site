@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# CIFAS: Wales Fighting Fraud Manifesto
-
 Cifas’ Fighting Fraud in Wales manifesto proposals for the next Welsh Government

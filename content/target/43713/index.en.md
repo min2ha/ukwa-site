@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# RS Thomas Literary Festival
-
 The annual RS Thomas Literary Festival is held at Aberdaron and is a celebration of RS Thomas.

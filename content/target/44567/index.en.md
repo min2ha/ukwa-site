@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Golem XIV
-
 Documentary filmmaker David Malone's Blog  

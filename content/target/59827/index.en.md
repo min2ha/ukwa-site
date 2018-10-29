@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Standard: Mental Health hub
-
 Hub for all recent related articles and blog on mental health that have been promoted or created by the newspaper Evening Standard

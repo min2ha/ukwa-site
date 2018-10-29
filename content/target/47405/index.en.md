@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Pen-y-Dre Mission, Neath
-
 Pen-y-Dre Mission is a Congregational Federation in Wales Church located in Neath.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Carwyn Jones: Let's tackle David Cameron's message of 'pain, pain and more pain' by offering voters hope 
-

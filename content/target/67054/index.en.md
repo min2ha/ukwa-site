@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Hugh Bennett (@HughRBennett) on Twitter
-
 Twitter feed of Hugh Bennett, deputy editor of Brexit Central, commenting on progress of negotiations for withdrawal from the EU

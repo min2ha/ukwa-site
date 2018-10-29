@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prospect: Brexit - join the debate
-
 A subsection of the Prospect Union website that has articles related to Brexit.

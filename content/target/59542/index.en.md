@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Campaign Against Living Miserably (CALM) (@theCALMzone) on Twitter
-
 Twitter account for a mental health campaign to prevent male suicide - a number of campaigns have been launched from this account using hashtags such as #BestManProject

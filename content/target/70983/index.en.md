@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Trade Bill: Briefing for Lords Stages
-
 The Trade Bill is a government bill which has completed its legislative stages in the House of Commons and was introduced in the House of Lords on 18 July 2018. It was scheduled to have its second reading on 11 September 2018. It would make some of the legislative changes needed to enable the UK to implement an independent trade policy once it has left the EU, including: 
 

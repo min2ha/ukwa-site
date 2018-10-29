@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: How the west was lost – and why we need it back
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Baptist Union of Scotland
-
 Site of the central organistion of Baptist churches in Scotland.

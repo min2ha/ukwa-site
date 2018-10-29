@@ -10,6 +10,4 @@
   "start_date": "2014-05-23T20:00:00Z"
 }
 
-# Scottish Law Reporter
-
 None

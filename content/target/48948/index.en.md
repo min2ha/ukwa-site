@@ -10,6 +10,4 @@
   "start_date": "2017-02-01T09:00:00Z"
 }
 
-# Discovering Dylan Thomas
-
 This is the official website about Dylan Thomas on behalf of his family and estate.

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Campaign for Nuclear Disarmament
-
 CND campaigns non-violently to rid the world of nuclear weapons and other weapons of mass destruction and to create genuine security for future generations.

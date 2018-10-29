@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# US Embassy Special Relationship Magazine: Ebola
-
 None

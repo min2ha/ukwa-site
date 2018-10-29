@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Immigration Law Practitioners' Association: EU Referendum position papers
-
 A series of position papers on legal issues relevant to the EU referendum, commissioned by the Immigration Law Practitioners' Association.

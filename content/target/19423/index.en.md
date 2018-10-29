@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# St Albans Cathedral: See How the Parchment for Magna Carta Was Made
-

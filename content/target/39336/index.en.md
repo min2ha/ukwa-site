@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Johann Lamont for Glasgow Pollok on Facebook
-

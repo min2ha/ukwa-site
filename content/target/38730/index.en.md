@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Frank Gilfeather (@Gilfeather10) on Twitter
-
 Twitter profile of Frank Gilfeather, journalist for the Evening Express newspaper and former Scottish Labour list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Stage, The: We must take a serious approach to comedy archives 
-
 Article in The Stage by Julian Hall about the British Stand-Up Comedy Archive at the University of Kent.

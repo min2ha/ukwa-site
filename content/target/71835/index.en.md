@@ -11,5 +11,3 @@
   "subject": "Scottish Government"
 }
 
-# Culture & Business Fund Scotland, The
-

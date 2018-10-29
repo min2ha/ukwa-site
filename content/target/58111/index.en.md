@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prospect: Brexit
-
 Prospect is a UK trade union, this website is there official website going through the major issues involved in the Brexit negotiations and what their position is on these issues.

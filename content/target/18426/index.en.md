@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Jim Murphy and David Mundell in fight to hold seats
-
 None

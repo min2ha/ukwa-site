@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Golwg360: Mebyon Kernow: Arweinydd yn dweud ei ddweud am yr etholiad cyffredinol
-

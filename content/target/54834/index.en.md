@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Nahla Ink Online Journal
-
 Chronicles of an independent Arab woman living in London exploring the news, arts, events and other featured subjects for the British Arab and Arab curious with London thrown in the mix for good measure.

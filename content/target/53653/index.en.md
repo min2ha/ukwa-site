@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# Dunedin Dancers
-
 Site of an amateur Scottish Country Dance Group based in Edinburgh, Scotland

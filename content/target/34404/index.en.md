@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-#  Digital Catapult Centre
-
 Digital Catapult Centre helps UK businesses unlock new value from sharing proprietary data.

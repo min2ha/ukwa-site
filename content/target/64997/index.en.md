@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Westwood Parish Church
-
 Site of a Church of Scotland parish church at East Kilbride, Lanarkshire.

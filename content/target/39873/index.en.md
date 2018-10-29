@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Aberdeen Conservatives
-
 The Aberdeen branch of the Scottish Conservative and Unionist Party.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-23T09:00:00Z"
 }
 
-# Reigate, Redhill & District Rail Users Association
-
 The RRDRUA was first established in 1983, and represents commuters using stations between Merstham and Horley on the Brighton main line and the nearby stations of Reigate, Nutfield and Godstone.

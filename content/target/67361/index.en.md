@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Fuzzkill Records
-
 Website of an independent record label based in Glasgow, Scotland.

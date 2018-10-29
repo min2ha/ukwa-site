@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Creich, Flisk and Kilmany Church
-
 Site of a Church of Scotland parish church covering the communities of Creich, Flisk and Kilmany in Fife.

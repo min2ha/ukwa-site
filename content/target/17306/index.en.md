@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Fifteen of Tony Blair's business backers go cool on Ed Miliband
-
 None

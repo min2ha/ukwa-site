@@ -10,6 +10,4 @@
   "start_date": "2018-05-05T09:00:00Z"
 }
 
-# Trysorau Môn | Angelsey Treasures
-
 Angelsey Treasures is a series of Pop-Up Museum events on the Isle of Anglesey which were held on the island in 2017. The inititauve was organised by Menter Môn.

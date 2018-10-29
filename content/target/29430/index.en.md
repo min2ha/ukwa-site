@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Knutsford Literature Festival
-
 Knutsford Literature Festival

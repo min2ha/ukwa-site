@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: So what did Magna Carta do for us? It's 800 years since arguably the world's most important document was signed, but David Starkey says its legacy is being eroded
-

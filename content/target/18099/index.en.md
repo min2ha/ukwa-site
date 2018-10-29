@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: TV debates: Broadcasters say the clashes will go ahead without chicken David Cameron
-
 None

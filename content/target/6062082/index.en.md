@@ -10,5 +10,3 @@
   "start_date": "2012-11-12T00:00:00Z"
 }
 
-# Souled Out Cymru
-

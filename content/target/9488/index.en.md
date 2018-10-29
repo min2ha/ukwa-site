@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Daily Telegraph: Before you predict defeat for Ukip in the Euro elections, remember: it's a party with a history of late surges 
-
 None

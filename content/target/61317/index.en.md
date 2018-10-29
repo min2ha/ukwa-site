@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Amateur Football Alliance
-
 The Amateur FA is a County Football Association, affiliated to the Football Association.

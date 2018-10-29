@@ -10,5 +10,3 @@
   "start_date": "2012-05-17T00:00:00Z"
 }
 
-# CERIF in Action - Synthesise, standardise and productionise CERIF for UK Higher Educational Institutions
-

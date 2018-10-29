@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Institute of Commonwealth Studies: School of Advanced Studies, University of London
-
 The Institute of Commonwealth Studies is part of the School of Advanced Study, University of London.

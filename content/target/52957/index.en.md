@@ -10,6 +10,4 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# Mixed Reality Storytelling
-
 Mixed Reality Storytelling is a research project from the Mixed Reality Lab of the University of Nottingham. Its overall aim is to explore the ways by which contemporary technology has influenced our relationship with the material objects that surround us in our daily life.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Left - Wales needs a progressive left future.
-
 Blog written by Glyn Morris.

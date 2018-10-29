@@ -10,6 +10,4 @@
   "start_date": "2017-01-07T09:00:00Z"
 }
 
-# Bute Park & Arboretum, Cardiff
-
 Bute Park is an 56 hectare area of mature parkland within Cardiff’s city centre.

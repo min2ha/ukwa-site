@@ -10,5 +10,3 @@
   "start_date": "2011-03-28T00:00:00Z"
 }
 
-# Swansea Docks
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Sikh Manifesto 2015-2020
-
 A crowd sourcing financial appeal to raise money to support and raise the awareness of the Sikh Manifesto with politicians, Gurdwaras, communities, Sikhs & Non Sikhs within the UK. This will be achieved through marketing of the Sikh Manifesto via video clips, brochures and events within local communities.

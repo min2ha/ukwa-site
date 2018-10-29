@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leanne Wood (Plaid Cymru Assembly Member for South Wales Central)
-
 Leanne Wood is the leader of Plaid Cymru.

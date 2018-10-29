@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Landsker Pastorate
-
 The Landsker Pastorate is group of six churches of the United Reformed Church located in a number of communities on the outskirts of Haverfordwest in the County of Pembrokeshire. The Churches are located in Crundale, Spittal, Tiers Cross, Wolfsdale, Keyston and Nolton Haven. 

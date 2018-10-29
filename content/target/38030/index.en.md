@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WW100 Scotland
-
 Site created in partnership with the Scottish Government and cultural institutions in Scotland of a group tasked with establishing a programme of events marking the centenaries of the First World War / Great War / World War I

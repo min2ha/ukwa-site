@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Predictable Paradox
-
 This is the blog of Graeme Cowie, the Liberal Democrats candidate for East Renfrewshire in the UK General Election on the 7th May 2015.

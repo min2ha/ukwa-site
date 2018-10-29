@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# The Guardian
-
 News articles and contemporary events relating to Russian from the UK edition of the Guardian newspaper.

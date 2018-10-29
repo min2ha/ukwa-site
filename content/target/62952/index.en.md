@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 20th March 2018: Leaving the EU: Fisheries Management
-
 Statement by Michael Gove on the management of the UK's fisheries during the Brexit transition period to 2020, followed by a debate.

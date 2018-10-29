@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Peterborough STEM Festival
-
 Fun activities to celebrate and experience the wonders of science, technology, engineering and mathematics.

@@ -10,6 +10,4 @@
   "start_date": "2016-12-08T09:00:00Z"
 }
 
-# Hwb: Dysgu Digidol ar gyfer Cymru | Digital Learning for Wales
-
 Hwb is the all Wales virtual learning environment (VLE) and was launched in December 2012.

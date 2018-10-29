@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Lodge Minto 385
-
 Site of a masonic lodge located in Lochgelly, Fife and affiliated with the Grand Lodge of Scotland.

@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Jersey Customs and Excise
-
 Customs and Excise System for Administration of Revenue

@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# LT Journalism
-
 A student news website at Leeds Trinity University. The site is run by undergraduate news, sport and broadcast journalism students.

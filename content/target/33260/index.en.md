@@ -10,6 +10,4 @@
   "start_date": "2015-12-05T09:00:00Z"
 }
 
-# Cymdeithas Tai Cadwyn | Cadwyn Housing Association
-
 Cadwyn is a ‘not for profit’ organisation Cardiff based housing association.

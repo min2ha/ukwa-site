@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Peace Brigades International - UK Section.
-
 PBI has been working to support human rights and promote nonviolence for 35 years. We send teams of international observers to areas of conflict and repression to provide protective accompaniment to local human rights defenders whose lives and work are under threat.

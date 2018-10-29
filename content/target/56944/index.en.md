@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The Britain-hating Gallic popinjay with an ego the size of an EU butter mountain trying to derail Brexit
-
 Attack on EU chief negotiator Michel Barnier for his stance on Brexit.

@@ -10,6 +10,4 @@
   "start_date": "2015-08-18T10:00:00Z"
 }
 
-# Moriarty Bar (@MoriartyBar_UK_) on Twitter
-
 Twitter profile for Moriarty Bar, which hosts a venue for Edinburgh Fringe Festival.

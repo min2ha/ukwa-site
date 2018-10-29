@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Christian Party on Twitter
-
 Twitter profile of the Christian party, a UK registered political party standing candidates in the 2016 Scottish Parliamentary election.

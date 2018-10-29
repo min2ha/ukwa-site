@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# British Ports Association: 2017 election briefing
-
 The British Ports Association wants the next government to provide: 1)  an efficient and streamlined planning and consents regime for port activity and development;  priority given to public funding of road and rail connections to ports; a Brexit trade facilitation pledge for border controls;  reduced burdens on business through the ‘Great Repeal Bill’ ; and active support for the cross-section of port ownership models 
 

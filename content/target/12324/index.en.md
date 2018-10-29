@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Lib Dem Voters (LDvotersforIndy) on Twitter
-
 <p>The twitter profile of Liberal Democrat Voters for Independence.</p>

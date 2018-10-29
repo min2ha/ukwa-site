@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Chancellor Merkel warns of UK 'illusions' over talks with EU
-
 German Chancellor Angela Merkel says some British people have "illusions" about discussing the UK's future ties with the EU at the same time as nailing down the UK's Brexit terms.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Falkland Islands Memorial Chapel
-
 The Falkland Islands Memorial Chapel, located in the south of England, has been built in memory of the British soldiers who died during the Falklands war in 1982.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS North East Hampshire and Farnham CCG
-
 None

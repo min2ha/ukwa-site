@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Dinas Powys Voluntary Concern
-
 DPVC provides a service to individuals, groups and to many voluntary organisations operating in Dinas Powys. In particular it aims to support and improve the quality of life of the elderly and people with mobility problems.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-08T09:00:00Z"
 }
 
-# Disabilities Fife
-
 Site of an organitisation working to include people with disabilities in decision making and working towards inclusion of disabled people in all aspects of society in Fife (formerly known as Fife Independent Disability Network)

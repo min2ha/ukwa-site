@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Liam Kerr MSP | Member of the Scottish Parliament for North East Scotland
-
 Liam Kerr, Scottish Conservative Member of the Scottish Parliament for North East Scotland.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Exiting the European Union Committee:  EU Exit Analysis: Cross Whitehall briefing
-
 Controversial analysis of the adverse economic impact of Brexit originally leaked to Buzzfeed

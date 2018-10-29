@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: UKIP: BBC licence fee should be cut by two thirds
-
 None

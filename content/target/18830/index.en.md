@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Borough of Windsor and Maidenhead, The: The Queen's Row Barge Gloriana confirmed for Magna Carta 800th River Relay
-

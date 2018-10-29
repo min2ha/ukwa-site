@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Airdrie and Shotts Labour (@AirdrieShottsLP) on Twitter
-
 Twitter profile of the Constituency Labour Party in Airdrie and Shotts.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-14T10:00:00Z"
 }
 
-# Joshua Owen Mills
-
 Welsh tenor.

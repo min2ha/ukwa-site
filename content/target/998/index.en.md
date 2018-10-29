@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# RC of Psychiatrists (@rcpsych) on Twitter
-

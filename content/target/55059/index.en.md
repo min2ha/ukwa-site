@@ -10,8 +10,6 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Carnegie Trust
-
 The Carnegie Trust for the Universities of Scotland was created by Andrew Carnegie on 7 June 1901, and was incorporated by Royal Charter on 21 August 1902.
 
 The Trust was funded by a gift of US$10 million – a then unprecedented sum, yielding over £100,000 per year at a time when the total government assistance to all four Scottish universities was only about £50,000 a year.  

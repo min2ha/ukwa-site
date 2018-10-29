@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Tottenham Conservatives
-
 Website of Tottenham Conservatives, providing information on candidates and representatives, events and local and national news.

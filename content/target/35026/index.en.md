@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Website Design Carmarthen
-
 Website Design Carmarthen is a company based in Wales.

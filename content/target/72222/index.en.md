@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Rhythm Tree 2018
-
 Website for Rhythm Tree 2018, a music festival.

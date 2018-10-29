@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Cover photos (Working together we will continue)
-
 <p>Yes Scotland changes its cover photo at 10.33pm on the 19th of September.</p>

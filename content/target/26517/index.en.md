@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Alan Sugar resigns from Labour party over 'shift to left'
-
 None

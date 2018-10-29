@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Environment, Food & Rural Affairs: UK takes key step towards fair new fishing policy after Brexit
-
 The Government announces its intention to withdraw from the London Fisheries Convention.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Colchester United Football Club
-
 Colchester United Football Club is a professional association football club based in the town of Colchester, Essex, England. Founded in 1937, the club spent its early years playing in the Southern Football League until they were elected to the Football League in 1950. 

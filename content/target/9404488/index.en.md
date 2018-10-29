@@ -10,5 +10,3 @@
   "start_date": "2008-07-18T00:00:00Z"
 }
 
-# Group for Literary Archives and Manuscripts - GLAM
-

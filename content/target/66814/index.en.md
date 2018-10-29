@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Natural Heritage / Dualchas Nàdair na h-Alba
-
 "Scottish Natural Heritage is the lead public body responsible for advising Scottish Ministers on all matters relating to the natural heritage."

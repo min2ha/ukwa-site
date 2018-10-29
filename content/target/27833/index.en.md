@@ -10,6 +10,4 @@
   "start_date": "2015-06-11T09:00:00Z"
 }
 
-# Aromantic
-
 Aromantic provides organic and natural ingredients, recipes and courses for make-your-own skin, hair and beauty care products, as well as base products to customise. Users can create their own range of products or personalised products for themselves, their clients or for selling to the public using natural active ingredients that will get real results in hair, skin and body care for different skin types and conditions. They also stock high quality Essential Oils, Vegetable Oils, Fats & Waxes, Natural Perfume Concentrates, Starter Packs for beginners, Educational material and Recipe Brochures and run UK-wide Educational Courses for Continuing Professional & Personal Development (CPPD)

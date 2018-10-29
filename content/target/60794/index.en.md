@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May under pressure over Brexit position
-
 In January 2018, Theresa May was coming under increasing pressure to decide whether or not she wanted the country to stay in the EU single market and customs union after Brexit.

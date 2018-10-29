@@ -10,6 +10,4 @@
   "start_date": "2015-01-24T20:00:00Z"
 }
 
-# Courtauld Institute of Art, The
-
 <p>The Courtauld Institute of Art is an international centre for the study of the history of art and conservation and is also home to one of the finest small art museums in the world.</p>

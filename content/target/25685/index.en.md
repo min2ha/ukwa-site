@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Schools' hidden funding crisis: teachers take drastic action as cuts hit hard
-
 None

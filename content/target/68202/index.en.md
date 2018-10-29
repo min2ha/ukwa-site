@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Telegraph: Gaming addition can be treated on the NHS after it is declared a medical disorder
-
 A Telegraph news article about the classification of gaming addiction as a medical disorder

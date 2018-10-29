@@ -10,6 +10,4 @@
   "start_date": "2017-10-14T09:00:00Z"
 }
 
-# Artist Neale Howells
-
 Neale Howells is contemporary artist from Neath.

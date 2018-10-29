@@ -10,6 +10,4 @@
   "start_date": "2018-10-06T09:00:00Z"
 }
 
-# CrowdJustice (The Justice Platform Ltd.)
-
 Crowdfunding platform for legal cases

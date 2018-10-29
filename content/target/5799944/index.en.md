@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# Local Government Association
-
 None

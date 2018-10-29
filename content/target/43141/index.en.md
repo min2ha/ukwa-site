@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Sioe Awyr Genedlaethol Cymru Abertawe | Wales National Airshow Swansea
-

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Queensferry History Group
-
 Site of a local history group located and interested in South Queensferry, Edinburgh, and aiming to stimulate interest in local history and research and record the history of Queensferry and the surrounding area.

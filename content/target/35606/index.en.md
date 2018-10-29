@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson backs EU exit: London mayor confirms Brexit support
-

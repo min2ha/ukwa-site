@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Michael Barker (@mbarker_mike) on Twitter (TUSC candidate for Leicester East)
-

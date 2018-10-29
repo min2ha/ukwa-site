@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: William Hague: Labour must stop 'whingeing' about Tory attack adverts
-
 None

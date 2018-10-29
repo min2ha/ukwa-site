@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Knowledge Transfer Network (KTN)
-
 Knowledge Transfer Network (KTN) fosters collaboration between science, creativity and business.

@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# nessymon.com
-
 Online home of Nessy (Vanessa Monaghan), music, movies, arts and culture blog

@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# Rotary Club of Dundee Oktoberfest
-
 Site of a beer festival taking place in Dundee.

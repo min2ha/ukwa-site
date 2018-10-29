@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Boris Johnson and stats chief in row over £350m figure
-
 The UK's statistics watchdog stood by its criticism of Boris Johnson in a growing row over the possible financial windfall the NHS may get from Brexit.

@@ -11,5 +11,3 @@
   "subject": "Oral History in the UK"
 }
 
-# Lap of Honour: Celebrating Suffolk's Olympic and Paralympic Games Heritage
-

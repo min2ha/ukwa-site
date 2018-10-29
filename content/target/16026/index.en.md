@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Ghana Culture Politics: Ebola
-
 <p>Articles on the Ebola virus.</p>

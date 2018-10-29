@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Latin American Women's Rights Service (LAWRS)
-
 Latin American Women’s Rights Service (LAWRS), is a human rights organisation working with Latin American women to break free from poverty, violence and exercise their rights.

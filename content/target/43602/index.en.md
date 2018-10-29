@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conservative Group for Europe
-
 Conservative Remain Campaign

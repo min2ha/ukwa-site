@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# St. Andrews United Football Club
-
 Site for a Scottish junior football club based in St. Andrews, Fife.

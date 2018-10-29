@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Crieff Baptist Church on Facebook
-
 Facebook page of a Scottish Christian church of the Baptist denomination and its congregation located in in Crieff, Perth and Kinross.

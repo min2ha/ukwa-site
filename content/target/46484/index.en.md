@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Express: 'Huge democratic disservice' Gibraltar leader calls for second EU referendum
-
 Article relating to Gibraltar's chief minister's wish for a second EU referendum discussing the terms of Brexit.

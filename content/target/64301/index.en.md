@@ -10,6 +10,4 @@
   "start_date": "2018-04-15T09:00:00Z"
 }
 
-# Lodge Nisbet No. 1112
-
 Site of a masonic lodge located in Tranent, East Lothian and affiliated with the Grand Lodge of Scotland.

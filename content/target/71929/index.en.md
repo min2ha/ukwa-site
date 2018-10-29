@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T10:00:00Z"
 }
 
-# Channel Islands Great War Study Group
-
 The main aim of the group is to improve understanding and knowledge of the impact of the Great War on the Channel Islands and their people.

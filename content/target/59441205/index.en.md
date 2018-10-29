@@ -10,6 +10,4 @@
   "start_date": "2015-06-19T09:00:00Z"
 }
 
-# Sir Keith Park Memorial Campaign, The
-
 The Sir Keith Park Memorial Campaign was officially launched in March 2008 to raise public awareness of the role he had played in the Battle of Britain, and to secure a suitable site for a memorial statue to him in London.

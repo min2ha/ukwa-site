@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Huffington Post: Lest we forget, on Iraq, Afghanistan and Israel, Mandela Was a Radical
-
 <p>Article by Mehdi Hasan, Political Director of the Huffington Post UK, looking at Mandela's statements on international affairs in the 21st century, in particular opposition to US and UK policy in the Middle East.</p>

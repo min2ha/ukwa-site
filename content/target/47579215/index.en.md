@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Beanbags and Bullsh!t
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Norwich University of the Arts
-
 Official website of the Norwich University of the Arts.

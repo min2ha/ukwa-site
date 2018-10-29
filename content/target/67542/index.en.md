@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# North Dorset RFC (@NorthDorsetRFC) on Twitter
-
 The official Twitter account of North Dorset Rugby Football Club.

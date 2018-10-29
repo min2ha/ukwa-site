@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Rewired State
-
 Rewired State is a company offering consultation; review, refinement and preparing of data; building APIs; creating new products and services through rapid prototyping and modding service. 

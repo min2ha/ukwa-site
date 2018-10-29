@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T09:00:00Z"
 }
 
-# Mas Edimburgo 
-
 A Spanish-language blog devoted to promoting Scottish tourism by providing travel guides and related advice for Spanish-speakers travelling to Scotland. The primary focus of the blog is the city of Edinburgh, and the author's personal experiences in the city. 

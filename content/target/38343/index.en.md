@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Open House: Easter Rising: reactions in Scotland
-
 Article by Richard McCready in independent Scottish Catholic journal of comment, opinion and reflection.

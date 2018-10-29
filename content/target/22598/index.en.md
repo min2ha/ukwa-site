@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband comes out all guns blazing as David Cameron suffers TV mauling 
-
 None

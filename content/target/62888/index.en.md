@@ -10,6 +10,4 @@
   "start_date": "2018-03-21T09:00:00Z"
 }
 
-# Lodge Kil Bryd No. 1667
-
 Site of a masonic lodge located in East Kilbride, Lanarkshire and affiliated with the Grand Lodge of Scotland.

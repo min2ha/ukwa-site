@@ -10,6 +10,4 @@
   "start_date": "2018-07-13T09:00:00Z"
 }
 
-# Makers Directory (Heritage Crafts Association)
-
 Directory of traditional crafts makers provided by the Heritage Crafts Association

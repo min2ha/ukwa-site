@@ -10,6 +10,4 @@
   "start_date": "2018-05-22T09:00:00Z"
 }
 
-# Waterbriefing
-
 WaterBriefing is an information service, delivering daily news, company data and product information straight to the desks of purchasers, users and specifiers of equipment and services in the UK water and wastewater industry.

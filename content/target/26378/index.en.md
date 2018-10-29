@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron is being urged to hole up, like a Hollywood hero, no matter what the voters decide
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Almr (Association of Licensed Multiple Retailers, The): Brexit Strategy – ALMR Briefing Note
-
 Analysis by the leading body representing eating and drinking out businesses of the issues facing the sector during the Brexit process, the impact on future productivity and growth, and potential preferred outcomes.

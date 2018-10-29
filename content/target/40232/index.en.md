@@ -10,6 +10,4 @@
   "start_date": "2016-05-02T10:00:00Z"
 }
 
-# Local Origins Rural Network
-
 Site of a network promoting sustainable farming in the area of North Argyll, Argyll & Bute, Scotland, through use of renewable resources, by recycling, and reducing the exploitation of natural resources.

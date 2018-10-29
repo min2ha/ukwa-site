@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sutton Benger Rugby Football Club on Pitchero
-
 The official website of Sutton Benger Rugby Football Club.

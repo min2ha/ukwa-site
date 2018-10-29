@@ -10,6 +10,4 @@
   "start_date": "2018-08-16T09:00:00Z"
 }
 
-# Illumine Theatre 
-
 Illumine Theatre is a collaboration between Cardiff playwright Lisa Parry and award-winning director Zoë Waterman. The theatre is currently based in London.

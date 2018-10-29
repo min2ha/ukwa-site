@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Blow for Farage as Ukip former candidate returns to Tories
-
 None

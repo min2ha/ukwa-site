@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Schools Week: Snap General Election 2017: 5 key things schools need to know
-
 Predicts that the Conservative Party's pledge to reintroduce grammar schools will play a large part in their manifesto. Dwindling school funding and a raft of new education policies will also feature. However the election will disrupt schools usewd a polling stations.

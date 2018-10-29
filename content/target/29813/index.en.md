@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Stand, The (@StandComedyClub) on Twitter
-
 Twitter profile of The Stand Comedy Club, with venues in Glasgow, Edinburgh and Newcastle. 

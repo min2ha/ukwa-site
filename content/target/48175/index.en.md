@@ -10,6 +10,4 @@
   "start_date": "2017-01-12T09:00:00Z"
 }
 
-# Ardersier
-
 Website for the community of Ardersier, Highland, Scotland, and its visitors providing community and tourist information and information about amenities and businesses.

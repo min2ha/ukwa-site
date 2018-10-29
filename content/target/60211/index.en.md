@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Stevenage Students experience WWI at Knebworth House
-
  More than 1000 Year 9 students from secondary schools in Stevenage visited Knebworth House having received their call-up papers. for the WWI experience, which was organised by a partnership of Knebworth House Education & Preservation Trust, Stevenage Educational Trust and Stevenage Museum  has been supported by a grant from the Heritage Lottery Fund. 

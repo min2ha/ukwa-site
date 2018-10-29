@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Hopscotch Asian Women's Centre
-
 None

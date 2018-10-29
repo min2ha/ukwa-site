@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# British Association of Day Surgery (BADS)
-
 The British Association of Day Surgery aim to provide information about Day and Short Stay Surgery for Patients, Relatives, Carers, Healthcare Professionals and Members.

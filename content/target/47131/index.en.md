@@ -10,6 +10,4 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# One Spirit Alliance
-
 The One Spirit Alliance works to promote and provide a forum for spiritually-minded people, organisations and networks to foster connection and collaboration between them.

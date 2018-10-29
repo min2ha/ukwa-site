@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Home Start Blaenau Gwent
-
 Home-Start Blaenau Gwent supports parents who are dealing with issues such as isolation, sickness, disability, mental health and difficult relationships.

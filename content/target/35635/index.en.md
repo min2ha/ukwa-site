@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Adam Price (@_Adam_Price) on Twitter (Plaid Cymru candidate for Carmarthen East and Dinefwr)
-
 Adam Price is the Plaid Cymru candidate for Carmarthen East and Dinefwr at the 2016 National Assembly Elections.

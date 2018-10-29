@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'My response is Ireland first': Tusk visits Dublin to reject British calls for Brexit trade talks before an 'explicit' deal on the Irish border question   
-

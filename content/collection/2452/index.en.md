@@ -1014,6 +1014,4 @@
   "endDateText": "31-08-2010"
 }
 
-# UK General Election 2010
-
 Collection of websites curated by staff at the Legal Deposit Libraries, archived during and immediately after the UK General Election campaign of 2010. The collection comprises a sample of candidates campaign sites and weblogs, local and national party sites, opinion polls, news and commentary, regulatory materials and the campaign websites and manifestos of a range of interest groups. Many of the sites chosen encourage public engagement and interactivity.

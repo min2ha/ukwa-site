@@ -10,6 +10,4 @@
   "start_date": "2017-06-28T09:00:00Z"
 }
 
-# British American Football Referees' Association
-
 Bafra help to make sure that everyone is safe when they play American Football and they also help to make sure that every referee who does run the game is experienced and understanding of the various rules that are in place.

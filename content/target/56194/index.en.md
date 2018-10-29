@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Of all the scare stories pushed by Remoaners, the chlorine chicken saga is the daftest 
-
 he spectre of chlorinated fowl finding their way on to British supermarket shelves has created panic in the anti-Brexit media.

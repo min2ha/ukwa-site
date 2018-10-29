@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mary Macleod (Conservative Politician)
-
 Mary Macleod stood as Conservative candidate for Brentford and Isleworth in the 2017 General Election but was not elected.

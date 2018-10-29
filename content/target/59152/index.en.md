@@ -10,6 +10,4 @@
   "start_date": "2017-11-24T09:00:00Z"
 }
 
-# Open University Students Association
-
 Site of the representative body for students of the Open University, offering advice and support as well as organising social events among the student body.

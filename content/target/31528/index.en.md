@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Tech London
-
 Tech London is an online platform connecting and supporting London’s entrepreneurship ecosystem. It includes all the latest information and resources that people in London need to access opportunities in the tech sector, connect with each other, and grow their businesses. 

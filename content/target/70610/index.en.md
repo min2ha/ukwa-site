@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Glasgow Women’s Library (@womenslibrary) on Twitter
-
 The only Accredited Museum in the UK dedicated to women’s history, with a lending library, public events & learning opps. 

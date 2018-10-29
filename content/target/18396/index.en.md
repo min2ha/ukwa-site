@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip will not set 'arbitrary' immigration targets, says Nigel Farage
-
 None

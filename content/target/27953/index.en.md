@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Holyrood Chronicles
-
 A blog commenting largely on the Scottish Parliament and the Scottish Executive, as well as current events.

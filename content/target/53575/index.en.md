@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# Lairg Community Centre
-
 Blog and information site relating to the community centre at Lairg, in the historic county of Sutherland, Highland, Scotland.

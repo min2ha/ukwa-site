@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Quadrivium
-
 Quadrivium offers annual skills training to postgraduates and early career researchers in medieval and early modern textual studies. Their website has been designed to showcase cutting-edge research from their academic staff, to advertise our present and past events, and to share information on the PhD process, conferences in medieval studies, public engagement, and academic and alt-ac careers.

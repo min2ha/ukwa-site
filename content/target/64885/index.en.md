@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Tarves Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Tarves, Aberdeenshire.

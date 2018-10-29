@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Free Bridgend – Vote Independent. Website for Isabel Robson, Independent candidate for Bridgend
-
 Isabel Robson is the Independent candidate for Bridgend at the 2017 General Election.

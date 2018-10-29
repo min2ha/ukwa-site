@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scotland | The Co-operative Party
-
 Scottish branch of The Co-operative Party.

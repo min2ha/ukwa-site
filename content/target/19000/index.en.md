@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Canterbury Cathedral: Canterbury Cathedral’s Magna Carta rediscovered in time for 800th anniversary celebrations
-

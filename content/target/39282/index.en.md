@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Asian Express
-
 Website of Asian Express newspaper, described as 'UK’s largest free pick-up Asian publication'.  Based in Yorkshire.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Solihull Borough Conservatives
-
 Website of Solihull Borough Conservatives, provides information on the Conservative MPs and councillors, events in the borough and how to get involved.

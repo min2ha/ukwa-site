@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Archaeology Data Service (ADS)
-
 The Archaeology Data Service supports research, learning and teaching with freely available digital resources. It does this by preserving digital data in the long term, and by promoting and disseminating a broad range of data in archaeology.

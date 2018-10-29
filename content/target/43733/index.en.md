@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Exclusive Boris Johnson interview: A Brexit will be a 'turning point in the story of our country'
-

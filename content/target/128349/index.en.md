@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Gypsy & Traveller Law Reform Project
-
 None

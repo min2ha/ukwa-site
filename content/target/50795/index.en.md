@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Rock Chapel, Wrexham
-
 Rock Chapel is an Assemblies of God Church.

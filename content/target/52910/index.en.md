@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dispensing Doctors' Association (DDA): General election 2017: a manifesto for the health of England's rural communities
-
 Calls on general election candidates to support family doctors in rural areas.

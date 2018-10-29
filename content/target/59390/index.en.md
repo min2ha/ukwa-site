@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Fortrose and Rosemarkie Community Council
-
 Community Council website for the town of Fortrose and the village of Rosemarkie, Easter Ross, Highland, also providing details of amenities, businesses and events for residents and visitors.

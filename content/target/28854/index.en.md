@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# Defence Headquarters:  The Tumblr of the UK Ministry of Defence
-
 The Tumblr webpages  of the UK Ministry of Defence

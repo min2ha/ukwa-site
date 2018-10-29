@@ -10,6 +10,4 @@
   "start_date": "2015-04-02T09:00:00Z"
 }
 
-# National Fancy Rat Society
-
 The National Fancy Rat Society (NFRS) was formed in 1976 by a group of enthusiasts intent on promoting the rat both as a pet and an exhibition animal.

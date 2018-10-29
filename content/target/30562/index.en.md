@@ -10,6 +10,4 @@
   "start_date": "2017-12-20T09:00:00Z"
 }
 
-# London School of Economics and Political Science (LSE), The
-
 Official website of the London School of Economics and Political Science.

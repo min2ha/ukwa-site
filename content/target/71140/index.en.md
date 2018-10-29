@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Bradley Birkholz
-
 Bradley Birkholz is an Activist, Creator, & Drag Performer who is passionate about LGBT+ rights. He is based in Cardiff.

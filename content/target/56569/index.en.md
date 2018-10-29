@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# London Stadium
-
 London Stadium is located in Queen Elizabeth Olympic Park, they host West Ham United, athletics, concerts and events. These was one of the London 2012 Olympic stadiums and they also hosted the IAAF World Championships in August 2017.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Derbyshire Health and Wellbeing Board
-
 None

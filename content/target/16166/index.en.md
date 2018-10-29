@@ -10,6 +10,4 @@
   "start_date": "2015-01-27T00:00:00Z"
 }
 
-# Lia van Bekhoven 
-
 <p>Blog by Lia van Bekhoven, Dutch correspondent in UK.</p>

@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Dumfries and Galloway Online
-
 Site containing information about Dumfries, Dumfriesshire and Galloway and links to web sites throughout south west Scotland.

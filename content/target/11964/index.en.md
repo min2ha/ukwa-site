@@ -10,6 +10,4 @@
   "start_date": "2014-06-19T00:15:00Z"
 }
 
-# StatsLife - news and opinion from the Royal Statistical Society
-
 The Royal Statistical Society is a professional body for statisticians and data analysts. It promotes the importance of statistics and data. It was founded in 1834.

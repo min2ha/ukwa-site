@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC: Countryfile to screen EU Referendum specials with David Cameron and Boris Johnson
-

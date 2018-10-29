@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Priests for Scotland
-
 Site of the Catholic Church in Scotland promoting and providing vocational information for Scots considering the priesthood.

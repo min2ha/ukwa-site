@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  Livingston Central SNP (@LiviCentralSNP) on Twitter 
-
 Twitter profile of the Livingston Central branch of the Scottish National Party (SNP).

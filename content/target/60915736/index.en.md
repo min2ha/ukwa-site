@@ -10,6 +10,4 @@
   "start_date": "2015-10-27T09:00:00Z"
 }
 
-# Penvro, The
-
 A history and a website dedicated to the past pupils of Pembroke Grammar School.

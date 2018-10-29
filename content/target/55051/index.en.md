@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Rhydyfelin
-
 Rhydyfelin is a blog by Steven Hitchins, a poet from Wales.

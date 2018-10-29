@@ -10,5 +10,3 @@
   "start_date": "2012-12-18T00:00:00Z"
 }
 
-# Cardiff Music Festival
-

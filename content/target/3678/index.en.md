@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Paisley Daily Express
-
 None

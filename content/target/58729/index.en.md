@@ -10,6 +10,4 @@
   "start_date": "2017-11-11T09:00:00Z"
 }
 
-# Visit Lanarkshire
-
 Site of an organisation providing tourist information for vistors to Lanarkshire.

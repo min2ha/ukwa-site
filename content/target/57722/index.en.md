@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WWI Commemoratory Lecture Series
-
 Bedford District Royal British Legion  WWI Lecture series supported by the Heritage Lottery Fund.

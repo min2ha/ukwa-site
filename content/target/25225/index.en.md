@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Farage comes out fighting for Britain in debate with Left-wing party leaders 
-
 None

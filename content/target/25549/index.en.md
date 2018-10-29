@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clive Peedell: 'I want to challenge David Cameron over NHS'
-
 None

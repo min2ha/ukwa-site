@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Coilich a' Chinn a Tuath on Facebook
-
 Site of a male voice choir 

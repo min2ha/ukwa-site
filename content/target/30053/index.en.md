@@ -10,6 +10,4 @@
   "start_date": "2015-08-27T10:00:00Z"
 }
 
-# Pontio
-
 Pontio is Bangor University's Arts and Innovation Centre.

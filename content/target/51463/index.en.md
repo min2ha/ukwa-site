@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: Brexit needn’t be a disaster – but both sides must heed some home truths
-

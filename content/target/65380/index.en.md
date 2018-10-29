@@ -10,6 +10,4 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Flag Up Scotland Jamaica
-
 Flag Up Scotland Jamaica is a project exploring connections between Scotland and Jamaica.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Independent: Brexit: 150 motions submitted for Labour conference with dozens supporting fresh public vote
-
 A total of 151 Brexit-related motions were submitted by local Labour parties, with dozens asking the party’s 2018 annual conference to back either a general election or a fresh public vote on the final Brexit deal.
 

@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Harmondsworth Remembers
-
 A permanent exhibition will be set up in the Great Barn at Harmondsworth, a grade 1 listed building.

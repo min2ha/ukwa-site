@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Gardens in North Wales
-
 This is a tourist information guide to the many Gardens of North Wales abd published by North Wales Tourism.

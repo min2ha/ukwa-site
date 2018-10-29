@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: George Osborne woos the 'grey vote' in run-up to election with promise to let millions of retired people cash in on annuities worth more than £10 billion
-
 None

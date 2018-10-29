@@ -10,5 +10,3 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Stratified Medicine Scotland
-

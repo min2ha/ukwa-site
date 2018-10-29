@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Smokers Forum
-
 An online enthusiast community concerned with smoking pipers and cigars. Discusses pipes, tobacco, cigars and accessories.

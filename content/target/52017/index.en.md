@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael’s Church, Alnwick
-
 St Michael’s is the parish church for Framlingham, and has close links to All Saints Saxtead, an adjoining parish to the north west of our small historic market town.

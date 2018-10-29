@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kirkmaiden Churches Drummore
-
 Site of Church of Scotland parish churches for Kirkmaiden and Stoneykirk parishes, Drumore, Dumfries and Galloway [historically Wigtownshire] at St. Medans and Old Kirk churches.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# UK Active: Manifesto for an Active Britain
-
 The General Election on June 8th is arguably the most important for a generation and will have huge implications for the future of the UK. As well as the opportunity to decide our political future, ukactive believes this vote offers the chance to decide on the type of society that we and our children want to live in. If we want this to be a healthy, successful, productive and vibrant society, then physical activity must form a central pillar.

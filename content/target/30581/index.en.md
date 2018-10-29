@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Institute of Philosophy: School of Advanced Studies, University of London
-
 The Institute of Philosophy is part of the School of Advanced Study, University of London.

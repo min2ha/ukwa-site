@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Tory MP Stephen Phillips quits over 'irreconcilable differences'
-
 Conservative MP Stephen Phillips has quit over "irreconcilable policy differences" with the government. The MP, who has held the Lincolnshire seat of Sleaford and North Hykeham since 2010, backed leaving the EU but has accused ministers of ignoring Parliament since the Brexit vote.

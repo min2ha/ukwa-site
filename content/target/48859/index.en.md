@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Assembly Outreach (@SeneddOutreach) on Twitter
-
 The Outreach Team at the Welsh Assembly support Assembly business by engaging with the people of Wales. The aim is to connect the people of Wales with the work of the National Assembly for Wales.

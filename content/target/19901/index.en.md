@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: David Cameron's attacks on the Welsh NHS have not weakened Labour's support in Wales, the party's election supremo claims 
-

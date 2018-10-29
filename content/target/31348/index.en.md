@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Menagerie Theatre Company
-
 Menagerie Theatre Company is an independent new writing theatre company in the East of England. It is based in Cambridge.

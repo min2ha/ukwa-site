@@ -10,6 +10,4 @@
   "start_date": "2016-04-26T10:00:00Z"
 }
 
-# Blog at the Ballast : Understanding Technical Archives
-
 This blog is designed to provide updates about the cataloguing of collections from the Ballast Trust, based in Johnstone, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Defence Industry Security Association (DISA)
-
 The Defence Industry Security Association (DISA) is a dynamic and forward thinking group. DISA acts as a collective representative body interacting with HM government and agencies within the defence arena.

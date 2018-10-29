@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Helen May Williams
-
 Helen May Williams is a poet living in West Wales and an Associate Research Fellow in the Department of English at the University of Warwick.

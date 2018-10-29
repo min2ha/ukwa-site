@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Our Land
-
 Commercial site of a group of artists and artisans from Scotland.

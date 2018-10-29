@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Speak for England, Danny Dyer. You’ve blown the lid on Brexit
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gordon League RFC (@GLRFC) on Twitter
-
 The official Twitter account of Gloucester Gordon League RFC.

@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# FEN Bristol (@FENBristol) on Twitter
-
 Female Empowerment Network (FEN). WE INSPIRE EACH OTHER. WE EMPOWER LOCAL ACTION. WE SPEAK UP FOR EQUALITY.

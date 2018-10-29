@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Jones (@VoteDavidJones) on Twitter
-
 Conservative Parliamentary Candidate for Clwyd West

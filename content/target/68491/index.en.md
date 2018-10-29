@@ -10,6 +10,4 @@
   "start_date": "2018-07-03T09:00:00Z"
 }
 
-# DigLibFutures (@ELegalDeposit) on Twitter
-
 Digital Library Futures is a two year AHRC-funded research project exploring the impact of non-print legal deposit in the United Kingdom.

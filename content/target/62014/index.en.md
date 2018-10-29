@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  The Observer view on Theresa May’s Brexit speech
-

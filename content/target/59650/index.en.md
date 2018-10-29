@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Only a second referendum can pull us out of the Brexit fire
-

@@ -10,6 +10,4 @@
   "start_date": "2017-11-17T09:00:00Z"
 }
 
-# Tim Pugh - Environmental Artist
-
 Tim Pugh is an envioronmental artist who specialising in Sculpture, Photography and Design Drawing.

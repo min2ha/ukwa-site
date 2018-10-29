@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# London School of Business & Finance (LSBF)
-
 Official website of the London School of Business & Finance.

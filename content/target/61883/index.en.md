@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'No UK PM could ever agree to it': May condemns EU's power grab over Northern Ireland as Barnier says he is just being 'realistic' by demanding province obeys Brussels rules   
-

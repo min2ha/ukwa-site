@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Lib Dem Ibrahim Taguri quits party amid donation claims
-
 None

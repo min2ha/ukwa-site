@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC Two: Is social media bad for mental health?
-
 BBC Two page that gives a summary of an episode of 'Trust Me I'm a Doctor' online. The episode investigates the negative and positive impact that social media can have

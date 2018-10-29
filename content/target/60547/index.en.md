@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# James Moore
-
 James Moore is a Cardiff-based painter. His work is predominately traditional in its methods and his paintings are almost exclusively oil on canvas.

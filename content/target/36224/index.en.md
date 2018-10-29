@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Central Scotland Liberal Democrats - Paul McGarry
-
 Paul McGarry is the Scottish Liberal Democrats candidate for the Central Scotland list in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Ask About Games
-
 Askaboutgames.com answers questions parents and players have about video game age ratings and provide advice on how to play games responsibly.

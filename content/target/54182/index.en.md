@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Bachchu Kaini (@BKKaini) on Twitter (Labour Party Politician)
-
 Bachchu Kaini stood as Labour candidate for Dartford at the 2017 General Election but was not elected.

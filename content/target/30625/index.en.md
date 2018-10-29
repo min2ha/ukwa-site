@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Sheffield Hallam University
-
 Official website of the Sheffield Hallam University.

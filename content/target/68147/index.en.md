@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: March planned as Fox says PM not bluffing on no deal
-
 Senior Cabinet ministers insisted the UK was prepared to walk away from Brexit talks without a deal, on the second anniversary of the referendum.

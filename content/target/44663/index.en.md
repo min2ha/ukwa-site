@@ -10,6 +10,4 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# GlasgowReviewofBooks (@GlasgowRevBooks) on Twitter
-
 Twitter profile of Glasgow Review of Books.

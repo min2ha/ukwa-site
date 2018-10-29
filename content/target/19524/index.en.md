@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Wear Valley Advertiser: Magna Carta contest launches Bishop Auckland arts festival
-

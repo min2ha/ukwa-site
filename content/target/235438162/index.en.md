@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Synth DIY wiki
-
 A UK based wiki for hobbyist electronic music instrument builders.

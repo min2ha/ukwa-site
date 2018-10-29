@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# London 24
-
 <p>News site for London, England.</p>

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: Boris Johnson’s new role is as Theresa May’s most dangerous opponent
-
 Comments on Boris Johnson's letter of resignation as Foreign Secretary, which shows a complete breakdown of trust between him and the Prime Minister. Predicts that Johnson will try and unseat Mrs May as Conservative Party leader and Prime Minister.

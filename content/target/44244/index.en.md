@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Friends of Czech Heritage
-
 The Friends of Czech Heritage are able to give small grants to a variety of projects and welcome applications from owners of historic buildings, gardens and parks in the Czech Republic. 

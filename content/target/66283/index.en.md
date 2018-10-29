@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Oxford SU WomCam
-
 An Oxford Student Union campaign page to support the repeal of the 8th amendment to the constitution of the Republic of Ireland on 25/05/2018. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-#  Oxford Business Law Blog
-

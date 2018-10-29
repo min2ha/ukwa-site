@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Polly Toynbee on David Cameron: Don't underestimate him, he's a ruthless man - video
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: London loses EU agencies to Paris and Amsterdam in Brexit relocation
-

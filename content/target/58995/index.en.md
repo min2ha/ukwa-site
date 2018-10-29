@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Anne Gibbs
-
 Anne Gibbs is a sculpture artist from Neath who lives and works in cardiff. In 2012 Anne received the gold medal for craft and design at the National Eisteddfod of Wales 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The EU debate is a cynical battle of big beasts, not beliefs 
-
 Guardian, The

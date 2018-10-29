@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# ScotlandCollaborates (collabScot) on Twitter
-

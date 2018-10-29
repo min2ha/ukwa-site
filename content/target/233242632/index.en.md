@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Honey Pi Project, The
-
 The Honeywell 200 was a mainframe computer in use in the 1960s. Apparently none survive today, so the objective of this project is to create a replica as far as possible using original Honeywell components. 

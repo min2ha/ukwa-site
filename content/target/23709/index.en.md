@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Cambrian Airways
-
 Cambrian Airways ran operations from Cardiff Airport between 1935 and 1974. It was incorporated into British Airways in April 1974.

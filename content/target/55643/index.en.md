@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Wild things!
-
 An environmental education charity working in Moray, Aberdeenshire and the Highlands.

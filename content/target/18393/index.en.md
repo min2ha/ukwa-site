@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: New mothers in City should expect to earn less than men, Nigel Farage suggests
-
 None

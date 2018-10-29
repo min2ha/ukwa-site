@@ -10,6 +10,4 @@
   "start_date": "2015-06-23T10:00:00Z"
 }
 
-# Recycle Clothing
-
 Family run company specialising in the recycling of used clothing and have extensive and well established business links throughout the UK, Europe, East and West Africa and Asia. They provide services for local authority collections through their textile and clothing banks, community projects and charities.

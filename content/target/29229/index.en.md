@@ -10,5 +10,3 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Achredu Landlordiaid Cymru | Landlord Accreditation Wales
-

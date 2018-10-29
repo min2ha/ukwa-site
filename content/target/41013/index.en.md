@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Music Scotland
-
 Site of a recorded music retailer located in Oban, Argyll & Bute, specialising in Scottish, Celtic, international traditional music.

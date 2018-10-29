@@ -10,5 +10,3 @@
   "start_date": "2013-01-28T00:00:00Z"
 }
 
-# Tom Bullough
-

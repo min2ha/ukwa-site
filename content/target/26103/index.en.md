@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Lib Dems would raise £8bn in taxes on mansions, banks and wealthy foreigners
-
 None

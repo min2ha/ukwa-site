@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Compass Group plc
-
 Compass Group plc is a British multinational contract foodservice, cleaning, property management and support services company. It is the largest contract foodservice company in the world and has operations in over 50 countries. It serves around 4 billion meals a year in locations including offices and factories, schools, universities, hospitals, major sports and cultural venues, mining camps and offshore oil platforms.

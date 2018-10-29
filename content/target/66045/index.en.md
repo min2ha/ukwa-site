@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for Transport: New plans to keep Kent moving during Channel disruption 
-
 Ministers unveiled the first concrete “no deal” disaster plan – turning 13 miles of motorway into a lorry park – in a bold bid to pile pressure on Brussels. Transport chiefs have outlined how the M20 in Kent could be used to stack 2,000 HGVs if they were held up at ports after any collapse of Brexit negotiations

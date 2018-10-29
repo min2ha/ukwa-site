@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Sowerby Bridge
-
 Sowerby Bridge has been a crossing point on the Calder and Ryburn rivers since the Middle Ages and probably long before that. Domestic weaving in the hilltop villages of Sowerby and Norland gave way to the building of large water powered mills by the River Calder. Transportation was provided by the building of roads, canals and later, the railway. 

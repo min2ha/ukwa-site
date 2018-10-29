@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Central Manchester University Hospitals
-
 None

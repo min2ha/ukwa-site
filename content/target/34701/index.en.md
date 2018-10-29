@@ -10,6 +10,4 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# BAHFest! - Festival of Bad ad Hoc Hypotheses
-
 BAHFest is a celebration of well-argued and thoroughly researched but completely incorrect scientific theory.

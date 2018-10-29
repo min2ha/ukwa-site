@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# WW1 Food for Life
-
 The project will explore the issues around food and farming during WW1 with schools in County Durham.

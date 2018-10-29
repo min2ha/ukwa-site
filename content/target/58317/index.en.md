@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# BDA (Association of UK Dieticians) National Assembly for  Wales Election 2016
-

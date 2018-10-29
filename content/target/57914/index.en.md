@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Outdoor Capital of the UK on Facebook
-
 Facebook page of "The Outdoor Capital of the UK" a business based in Lochaber; made daily posts about the Royal National Mòd 2017.

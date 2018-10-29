@@ -10,5 +10,3 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# North Wales Potters
-

@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Irish News: The power of inclusive commemorations
-

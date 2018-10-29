@@ -10,6 +10,4 @@
   "start_date": "2017-08-23T09:00:00Z"
 }
 
-# Colleges Scotland
-
 Site of an organisation that is the collective voice of the college sector in Scotland; striving to create cohesive and sustainable partnerships, demonstrate positive impact, acting as representatives, and campaigning for the sector.

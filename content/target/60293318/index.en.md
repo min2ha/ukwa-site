@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Cancer Intelligence Network, The (NCIN)
-
 None

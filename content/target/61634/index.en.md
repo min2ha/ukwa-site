@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Church of Scotland in the Galilee
-
 Site of a Church of Scotland church in Gallilee, Israel.

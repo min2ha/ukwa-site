@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Perthshire Classic Car Festival
-
 Website for the Perthshire Classic Car Festival

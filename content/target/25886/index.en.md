@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What happens if there's a hung parliament? Don't panic – there's a plan
-
 None

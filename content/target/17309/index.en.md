@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Every taxpayer faces paying another £267 in taxes over the next two years under Nick Clegg plans
-
 None

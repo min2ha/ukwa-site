@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dr Eilidh Whiteford SNP on Facebook
-
 The Facebook page of Dr Eilidh Whiteford, the Scottish National Party candidate for Member of Parliament for Banff & Buchan in the 2015 UK General Election.

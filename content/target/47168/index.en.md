@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A plan for Brexit? Hilary Benn's gameshow draws a blankety blank
-

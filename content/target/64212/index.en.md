@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Lodge Meridian 1779
-
 Site of a masonic lodge located in Uddingston, Lanarkshire and affiliated with the Grand Lodge of Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-18T09:00:00Z"
 }
 
-# Amber Mottram
-
 Amber Mottram is an artist from Cardiff. 

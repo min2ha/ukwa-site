@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour could ditch GCSEs within 10 years, says Tristram Hunt
-
 None

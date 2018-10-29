@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Oliver Twins, The
-
 Official website of Philip and Andrew Oliver, pioneers of the UK games industry.

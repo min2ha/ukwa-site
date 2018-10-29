@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Michael Collie (@collie_michael) on Twitter
-
 The Twitter profile of Michael Collie, Scottish Green Party candidate for Mid Scotland and Fife in the 2016 Scottish Parliament election.

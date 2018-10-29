@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Cheltenham Poetry Festival
-
 Festival

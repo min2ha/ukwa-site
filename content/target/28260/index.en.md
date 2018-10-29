@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Legatum Institute
-
 The Legatum Institute is an international think tank and educational charity focused on promoting prosperity. They do this by researching core themes of revitalising capitalism and democracy. 

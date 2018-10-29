@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Deaf Association, The
-
 The Catholic Deaf Association is an association of Deaf and Hearing people who support each other and promote services for Deaf people within the community.

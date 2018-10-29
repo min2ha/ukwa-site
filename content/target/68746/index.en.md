@@ -10,6 +10,4 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Rhondda Valleys Information and History
-
 Photographs and stories of the Rhondda Valleys, both old and contemporary.

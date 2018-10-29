@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kirklees Council
-
 Website of Kirklees Council provides information about its activities and services, including budgets and spending. You can also consult committee papers and find out about planning policy. 

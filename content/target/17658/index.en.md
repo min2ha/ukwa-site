@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General elections 2015: Leaders step up campaign
-
 None

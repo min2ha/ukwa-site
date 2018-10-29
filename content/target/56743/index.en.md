@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Hockey Wales (@HockeyWales) on Twitter
-
 Hockey Wales is the national Governing Body for Hockey in Wales, this is their official Twitter account.

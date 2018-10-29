@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Open Democracy: Farewell Magna Carta: the Counter-Terrorism and Security Bill 
-

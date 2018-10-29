@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincoln Cathedral: Magna Carta and the Museum of Fine Arts, Boston
-

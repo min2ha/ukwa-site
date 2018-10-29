@@ -10,6 +10,4 @@
   "start_date": "2007-09-11T00:00:00Z"
 }
 
-# Whiteley Clinic, The
-
 The Whiteley Clinic is a private Medical Facility specialising in surgical and non surgical treatment of varicose veins, lymphoedema and hyperhidrosis (sweating). 

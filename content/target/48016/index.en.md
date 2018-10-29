@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Robert Lloyd - a Sir Gar Blog of random news . . . and some Clecs! 
-
 Robert Lloyd runs a media consultancy in West Wales and is a former newspaper editor of the Llanelli Star and Carmarthen Journal. This is his blog focusing on current issues relating to Carmarthenshire.

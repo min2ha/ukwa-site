@@ -10,6 +10,4 @@
   "start_date": "2017-06-03T09:00:00Z"
 }
 
-# Save our Rivers
-
 Save our Rivers is a pressure group opposing small scale hydroelectric power generation on the River Conwy.

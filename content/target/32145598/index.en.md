@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hockey Wales
-
 Hockey Wales is the National Governing Body for field hockey in Wales. Find out about the history of hockey in Wales, information about staff and our current vacancies.

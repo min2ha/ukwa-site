@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Alexander Lock (@bl_magnacarta) on Twitter
-
 Twitter account of Alexander Lock, Researcher on the Magna Carta Project at the British Library, who co-organised the exhibition 'Magna Carta: Law, Liberty, Legacy'.

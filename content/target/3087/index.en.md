@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# Monitor
-
 Monitor is the sector regulator for health services in England. Its job is to make the health sector work better for patients. Monitor is an executive non-departmental public body, sponsored by the Department of Health. 

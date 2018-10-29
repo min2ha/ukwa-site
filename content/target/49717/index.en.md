@@ -10,6 +10,4 @@
   "start_date": "2017-02-24T09:00:00Z"
 }
 
-# Playfield Institute
-
 Site of an institute working within the National Health Service in Fife and addressing mental health issue in children, young people and their families.

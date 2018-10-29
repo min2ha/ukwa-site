@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Business News Wales: Brexit News
-

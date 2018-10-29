@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Nebosvod
-
 An online Russian-language community forum.

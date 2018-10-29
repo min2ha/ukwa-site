@@ -10,6 +10,4 @@
   "start_date": "2015-09-11T10:00:00Z"
 }
 
-# Dismaland
-
 Dismaland is a temporary art project organised by street artist Banksy, constructed in the seaside resort town of Weston-super-Mare in Somerset, England.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on the NHS cash plan: the Brexit dividend claim is a lie
-

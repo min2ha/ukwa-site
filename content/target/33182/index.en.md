@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# United Nations Association - Cardiff and District Branch 
-
 UNA Cardiff and District Branch is part of UNA-Wales and is affiliated to UNA-UK. UNA supports the work of the United Nations but is independent of it. 

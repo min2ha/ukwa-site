@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Dunrobin Castle
-
 Site of a castle, museum and gardens in Golspie, Highland, Scotland, open to visitors.

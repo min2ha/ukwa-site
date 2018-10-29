@@ -10,6 +10,4 @@
   "start_date": "2018-04-21T09:00:00Z"
 }
 
-# Aerospares 2000 Ltd. 
-
 Suppliers of parts and spares for aircraft. Based in Watford.

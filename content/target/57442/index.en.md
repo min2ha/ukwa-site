@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Devonlive: Devon and Cornwall policeman takes on new mental health role - the first of its kind
-
 Article detailing a new job role that PC Del Allerton-Baldwin has taken. A first in the UK. Co-funded by Cornwall Partnership NHS Foundation Trust and Devon and Cornwall Police.

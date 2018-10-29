@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sunderland Health and Wellbeing Board
-
 None

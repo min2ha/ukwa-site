@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# John Whitby (@NCORNWALLCLP ) on Twitter (Labour Candidate for North Cornwall) 
-

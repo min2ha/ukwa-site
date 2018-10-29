@@ -10,6 +10,4 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Stirling Centre for Scottish Studies, The
-
 The Centre for Scottish Studies was founded at Stirling University in 1998 ‘to promote research, publication and education in Scottish Studies, especially across the boundaries of literature, critical theory, history, media and politics’. 

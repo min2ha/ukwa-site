@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Orkney Islands Council: Your Islands Your Future - Have Your Say
-
 None

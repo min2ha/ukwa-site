@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Fiona Radic (@FionaRadic) on Twitter (Green Party Politician)
-
 Fiona Radic stood as Green Party candidate for Peterborough at the 2017 General Election but was not elected. 

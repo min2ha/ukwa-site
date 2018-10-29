@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# East Lochaber and Laggan Community Trust
-
 Site of a trust aiming to ensure that the long term benefits - economic, social and environmental - are maximised for the benefit of local people and the nation, through land management, community development, environmental protection or improvement including preservation, sustainable development and conservation - in the area of Lochaber and Laggan, Highland

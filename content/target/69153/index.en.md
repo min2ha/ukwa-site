@@ -10,6 +10,4 @@
   "start_date": "2018-07-20T09:00:00Z"
 }
 
-# The South West Heritage Trust
-
 The South West Heritage Trust is an independent charity that protects and celebrates Somerset and Devon’s rich heritage.

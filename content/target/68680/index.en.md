@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# HS Fest 2018
-
 Website for the HS (Holland Sports) Festival

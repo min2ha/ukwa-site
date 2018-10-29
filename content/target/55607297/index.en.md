@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Agrofuel UK
-
 None

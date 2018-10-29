@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# NIWFA (@NIWFA_) on Twitter
-
 The official Twitter account of the Northern Ireland Women's Football Association (NIWFA). The NIWFA was formed in 1976.

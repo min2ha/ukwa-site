@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Vaughan Gethin (Labour AM for Cardiff South and Penarth)
-

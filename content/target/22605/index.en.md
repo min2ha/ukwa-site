@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Alex Salmond dreams of pulling the post-election strings
-
 None

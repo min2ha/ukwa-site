@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Colin See-Paynton
-
 Welsh artist and wood engraver.

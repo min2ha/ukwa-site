@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Jason and Becky
-
 <p>Jason and Becky are tweo artist based at Elysium Gallery, Swansea.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dom Harrington Snowboarder
-
 None

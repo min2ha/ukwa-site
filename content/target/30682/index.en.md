@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# EThames Graduate School
-
 Official website of the EThames Graduate School, London.

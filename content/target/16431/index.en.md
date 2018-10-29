@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC director-general implicated in leaking details of leadership debates
-
 None

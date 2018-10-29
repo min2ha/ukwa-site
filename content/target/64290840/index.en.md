@@ -10,6 +10,4 @@
   "start_date": "2012-01-24T00:00:00Z"
 }
 
-# Eich dyfodol. Eich dewis. Yn eich dwylo chi | Your future. Your choice. Your action
-
 changing careers in Wales

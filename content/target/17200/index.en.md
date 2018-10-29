@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Voice: Blair 'backs Chuka Umunna as next Labour leader'
-
 None

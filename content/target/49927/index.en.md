@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Netherlorn Churches
-
 Parish website for five Argyll churches; Craignish, Kilbrandon, Kilchattan, Kilmelford, and Kilninver. 

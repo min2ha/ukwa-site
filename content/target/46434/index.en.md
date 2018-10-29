@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit politicians are putting us on a fast track to financial jeopardy
-
 The chief executive of the British Bankers’ Association warns that major financial institutions are already planning to relocate from Britain in the light of Brexit

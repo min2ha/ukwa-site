@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 12th October 2017: Business of the House
-
 Leader of the House Andrea Leadsom announced that consideration of the EU Withdrawal Bill by a Committee of the Whole House had been posponed while ministers looked into the 300 amendments and 54 new clauses tabled.

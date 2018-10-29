@@ -10,6 +10,4 @@
   "start_date": "2017-03-08T09:00:00Z"
 }
 
-# UKAS: United Kingdom Accreditation Service
-
 The United Kingdom Accreditation Service (UKAS) is the national accreditation body for the United Kingdom, appointed by government, to assess organisations that provide certification, testing, inspection and calibration services.

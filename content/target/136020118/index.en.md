@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stoke-on-Trent LINk
-
 None

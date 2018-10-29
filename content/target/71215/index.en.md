@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Red Dragons London
-
 The aim of the club is to provide an environment for all fans in the Greater London area to support our club.

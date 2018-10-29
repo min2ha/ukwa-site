@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Power without purpose: the tragic rule of David Cameron
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian,The: On Brexit island it’s all getting a bit Lordships of the Flies
-

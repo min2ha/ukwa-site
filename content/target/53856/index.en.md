@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chris Williamson (@ChriswMP) on Twitter (Labour Politician)
-
 Chris Williamson stood as Labour MP for Derby North in the 2017 General Election but was not elected. He was first elected for Derby North in 2010 and was re-elected in 2015.

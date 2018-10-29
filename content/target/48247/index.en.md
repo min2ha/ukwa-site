@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Fordyce Community Website
-
 Site of a community association incorporating some local history for the village of Fordyce, Aberdeenshire.

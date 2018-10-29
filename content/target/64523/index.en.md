@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Eric Jones Cafe, Tremadog
-
 Eric Jones (born 1935) is a Welsh solo climber, most well known for the first British solo ascent of the north face of the Eiger in 1981. He also owns and runs a small cafe, "Eric Jones' Cafe" at Tremadog, near Porthmadog, which is popular with climbers and bikers alike.

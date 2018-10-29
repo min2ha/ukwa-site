@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Kent Hospitals
-
 None

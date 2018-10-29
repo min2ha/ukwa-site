@@ -10,6 +10,4 @@
   "start_date": "2015-09-23T10:00:00Z"
 }
 
-# Poetic Politics Conference
-
 Poetic Politics: Culture and the 2014 Scottish Independence Referendum, One Year On’ is an inter-institutional, publicly engaged symposium focused on cultural responses to the referendum, held at the National Library of Scotland in Edinburgh on 23rd of September 2015 .

@@ -10,6 +10,4 @@
   "start_date": "2015-07-22T10:00:00Z"
 }
 
-# Books from Scotland
-
 Books from Scotland showcases the best books of Scottish interest around, including the latest children’s, fiction and selected non-fiction titles, as well as titles from publishers based in Scotland. 

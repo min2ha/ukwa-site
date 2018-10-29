@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whiterock Reds CSC (@WhiterockReds) on Twitter
-
 The official Twitter account of West Belfast Cliftonville Supporters .

@@ -54,6 +54,4 @@
   "endDateText": "28-04-2005"
 }
 
-# Indian Ocean Tsunami December 2004
-
 A collection documenting the effects, aftermath and human responses to the 26 December 2004 tsunami disaster in Asia. The sites were collected by staff at the British Library between January-March 2005 and include those of aid organisations, charities, sites set up to raise relief donations, those established to record personal experiences, and the response of religious communites to this event.

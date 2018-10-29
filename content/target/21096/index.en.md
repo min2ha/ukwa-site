@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alistair Carmichael on Facebook
-
 This is the Facebook page of Alistair Carmichael, the Liberal Democrats candidate for Orkney and Shetland in the UK General Election on the 7th May 2015.

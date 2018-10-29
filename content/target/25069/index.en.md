@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Safe-seat Tory MP puts in long hours during election campaign - in his DENTIST surgery
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Most people in the world can’t vote, we are lucky' – 13 reasons to vote
-
 None

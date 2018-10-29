@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Chilterns Area of Outstanding Natural Beauty
-
 None

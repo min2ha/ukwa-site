@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Morning Star (@M_Star_Online) on Twitter
-
 The official Twitter account of a UK socialist daily newspaper. The print version is published six days a week.

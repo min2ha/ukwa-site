@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Kennet and North Wiltshire Green Party
-
 Website of Kennet and North Wiltshire Green Party, providing information on local campaigns, events and local, national and party news.

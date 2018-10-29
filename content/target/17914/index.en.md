@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# British Stand-Up Comedy Archive blog
-
 News about the British Stand-Up Comedy Archive and the Stand-Up Comedy Archive Beacon project, which celebrates, preserves, and provide access to archives and records relating to stand-up comedy in the UK.

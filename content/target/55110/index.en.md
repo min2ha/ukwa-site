@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# i-D: 2015, the year models took to social media to put an end to body-shaming
-
 i-D: new article on social media and body-shaming

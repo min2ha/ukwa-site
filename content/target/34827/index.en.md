@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Graham Williams
-
 Graham Williams is artistic director of Music Past & Present and teaches composition at the Royal Academy of Music.

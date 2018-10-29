@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Leaders' debate: ICM/Guardian poll puts Miliband ahead – just
-
 None

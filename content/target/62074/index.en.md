@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Bangor University: Wales Centre for Behaviour Change (WCBC)
-
 This is a 2.5 year project funded in large part by the Wales European Funding Office will build on Bangor University’s internationally recognised academic reputation and award-winning applied research in the field of behavioural psychology and behaviour change. 

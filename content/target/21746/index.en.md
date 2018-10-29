@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The untold love story of David Cameron and Ed Miliband
-
 None

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Burry Port with Pwll, The
-

@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Genes Reunited
-
 Website with a genealogy database.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Give Osborne pat on back for remarkable recovery say experts
-
 None

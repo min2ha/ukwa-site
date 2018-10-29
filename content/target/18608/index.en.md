@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mike Parker (@mikeparkerwales) on Twitter
-
 Plaid Cymru candidate for Ceredigion at 2015 election.

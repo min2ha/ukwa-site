@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parish Of Prestatyn, The 
-

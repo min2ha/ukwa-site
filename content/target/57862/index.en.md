@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Indy100 From Independent: Pornhub proved itself to be a better source for mental health advice than Twitter
-
 News article about users of a pornographic site responding to a users post on their own mental health crisis 

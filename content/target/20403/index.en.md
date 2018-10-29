@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Moore on Twitter
-
 The twitter profile of Michael Moore, Scottish Liberal Democrat candidate for Berwickshire, Roxburgh and Selkirk.

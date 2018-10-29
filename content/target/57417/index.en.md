@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Jein Devlin 
-
 Jein Devlin is a multidisciplinary creative studio and gallery space located in Bangor Rd, Conwy, owned by artist and graphic designer Ronan Devlin with academic writer and lecturer Dr Gillian Jein, lecturer in French at Bangor University.

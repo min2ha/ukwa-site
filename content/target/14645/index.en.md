@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institution of Mechanical Engineers (IMechE)
-
 The Institution of Mechanical Engineers (IMechE) is an independent engineering society, headquartered in central London, that represents mechanical engineers.

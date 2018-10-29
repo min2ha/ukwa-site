@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Northop, Northop Hall and Sychdyn, The
-

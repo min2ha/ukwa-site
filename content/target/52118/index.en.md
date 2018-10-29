@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Friends of St Mary's Church, Beddgelert | Cyfeillion Eglwys y Santes Fair, Beddgelert
-

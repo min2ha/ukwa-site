@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brighouse Town LFC (@brighousetlfc) on Twitter
-
 The Official Brighouse Town LFC Account.

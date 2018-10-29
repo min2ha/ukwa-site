@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Paddy Ashdown: opinion polls killed Liberal Democrats' election chances
-
 None

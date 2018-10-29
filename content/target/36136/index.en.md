@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: A battle of wills: the Prime Minister and Iain Duncan Smith tell the Telegraph why they are so opposed
-

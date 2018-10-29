@@ -11,6 +11,4 @@
   "subject": "Cambridge Network"
 }
 
-# Anglia Ruskin University
-
 Official website of the Anglia Ruskin University.

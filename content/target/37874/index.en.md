@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Chris Were (Green Party candidate for Monmouth)
-
 Chris Were is the Green Party candidate for Monmouth at the 2016 National Assembly Elections. 

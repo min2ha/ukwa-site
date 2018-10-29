@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave on Facebook
-
 The official Brexit campaign on Facebook.

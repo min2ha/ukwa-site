@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Federation of Small Business (FSB): Election manifesto 2017: Small business, big ambition
-
 The Federation of Small Businesses (FSB) is warning political parties against standing in the way of the UK’s millions of self-employed strivers with post-election tax hikes, including National Insurance.

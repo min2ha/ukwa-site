@@ -10,6 +10,4 @@
   "start_date": "2017-09-22T09:00:00Z"
 }
 
-# Toby Hay
-
 Toby Hay is a contemporary Welsh Folk musician from Rhayader, Mid Wales.

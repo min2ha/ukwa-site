@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Visit Fife Golf
-
 Site of a tourist resource for visitors to Fife interested in golf and golf courses.

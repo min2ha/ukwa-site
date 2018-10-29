@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# BoardGameGeek
-
 BoardGameGeek is an online board gaming resource and community

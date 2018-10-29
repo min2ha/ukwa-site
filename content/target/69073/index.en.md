@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# British Geotechnical Association (BGA)
-
 Welcome to the British Geotechnical Association (BGA). We are the principal association for geotechnical engineers in the United Kingdom. 

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# LSE: EUROPP: 2014 European Parliament elections
-
 None

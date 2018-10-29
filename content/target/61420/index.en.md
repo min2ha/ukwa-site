@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# i-D: "​how social media is making us all body positive"
-
 i-D magazine article on social media and body positivity 

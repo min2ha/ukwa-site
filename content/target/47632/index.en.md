@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Tories must publish Brexit plan or there’s zero chance of getting a good deal
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# South East Knowledge and Intelligence - Cancer
-
 None

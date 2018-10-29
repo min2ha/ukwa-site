@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Lords. EU Committee: Referendum on UK membership of the EU: reform process inquiry
-
 The UK Government  announced its intention to hold a referendum on UK membership of the EU by the end of 2017. The Lords EU Committee subsequently published this report, analysing the reform process, taking account of evidence heard on 30 June 2015 from the Minister for Europe, Rt Hon David Lidington MP.

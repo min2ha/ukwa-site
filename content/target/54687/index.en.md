@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: Mental Health Awareness Week: One Woman Shares
-
 News Article: Facebook and mental health - One woman with depression shares poignant post

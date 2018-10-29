@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# South East Cornwall Conservatives
-
 Website of South East Cornwall Conservatives, providing information on Cornwall councillors, local and national news updates and events.

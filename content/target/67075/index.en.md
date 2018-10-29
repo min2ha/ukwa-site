@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# TRNSMT Festival
-
 Site of TRNSMT Festival, a music festival held in Glasgow, Scotland.

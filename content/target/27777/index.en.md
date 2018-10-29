@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Magna Carta 800th: Lincolnshire communities invited to design celebratory flags
-

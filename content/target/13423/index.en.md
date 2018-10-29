@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Paul Wheelhouse MSP (PaulWheelhouse) on Twitter
-
 Twitter profile of Paul Wheelhouse, Scottish National Party member of the Scottish Parliament for South Scotland and Scottish Government Minister for Environment and Climate Change.

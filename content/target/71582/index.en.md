@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May says it's Chequers or no deal
-
 In the run up to the September 2018 EU summit, Theresa May told the BBC that MPs would have a choice between her proposed deal with the EU - or no deal at all.
 

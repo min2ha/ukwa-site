@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# British Army Rumour Service (ARRSE)
-
 <p>Unofficial online bulletin board for members of the British Armed forces.</p>

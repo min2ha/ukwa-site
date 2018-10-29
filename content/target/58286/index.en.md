@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Naomi Lea (@IsThatNaomix) on Twitter
-
 Twitter profile for Naomi Lea used for promoting mental health and mental health charities 

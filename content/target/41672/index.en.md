@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Somerset Urban Archaeological Surveys
-
 English Heritage provided funding through its Extensive Urban Survey (EUS) programme to compile reports on the current and former urban areas of the county: a total of 45 areas.

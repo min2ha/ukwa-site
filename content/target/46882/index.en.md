@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# E Alan Mackintosh Commemorative Project
-
 Site commemorating the life and work of Scottish soldier and poet E A Mackintosh, also aiming to provide online resources about the man.

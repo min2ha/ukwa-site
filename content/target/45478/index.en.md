@@ -10,6 +10,4 @@
   "start_date": "2016-09-21T10:00:00Z"
 }
 
-# Museum of the Scottish Shale Oil Indistry
-
 Site of a museum located in Livingston, West Lothian, recording the history of Scotland's shale oil industry.

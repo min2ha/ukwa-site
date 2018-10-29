@@ -11,5 +11,3 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# V&A: Queen Elizabeth II by Cecil Beaton: A Diamond Jubilee Celebration
-

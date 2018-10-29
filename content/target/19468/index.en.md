@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Special anthem to commemorate the anniversary of the Magna Carta to be delivered to St Albans
-

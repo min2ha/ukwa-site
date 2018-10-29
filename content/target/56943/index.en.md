@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Keep single market for transition period - Labour
-
 Labour would keep the UK in the EU single market and customs union for a transitional period after leaving the EU, Keir Starmer said in an article in the Observer.

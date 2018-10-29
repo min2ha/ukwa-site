@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Friends of Dunfermline
-
 Site of a community-based organisation, focused on regenerating the town centre, empowering the community and amplifying local democracy.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Labour risks 'alienating black voters' with NHS immigration leaflet
-

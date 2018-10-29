@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Country Land and Business Association (CLA) Brexit campaign
-
 CLA publications looking at how Government tackle specific land use and economic challenges post-Brexit. 

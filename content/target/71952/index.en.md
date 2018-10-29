@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Tax Free Childcare Info Hub: Gender equality in parenting: why Brits are the worst at sharing the load
-
 An article about gender equality in parenting

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Nigel Farage on Facebook
-
 Nigel Farage's Facebook account (UKIP)

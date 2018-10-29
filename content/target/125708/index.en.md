@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Women Returner's Network (WRN)
-
 None

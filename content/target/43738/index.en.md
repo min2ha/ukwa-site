@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Referendum results guide: when to nap and the places to watch
-
 Guardina, The

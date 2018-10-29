@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Glasgow Chamber of Commerce: Mayfesto - marking the 100th anniversary of the Easter Rising
-
 Event page for Mayfesto festival, focussing on the Easter Rising as well as on contemporary theatre and issues in Ireland today

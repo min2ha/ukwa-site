@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Why the Tory Brexiteers' letter to May matters
-
 Theresa May relies on the support of eurosceptic MPs to survive as prime minister. In this letter they signal that they are not prepared to accept more concessions to the EU.

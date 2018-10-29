@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Bishop's Stortford Chamber of Commerce
-

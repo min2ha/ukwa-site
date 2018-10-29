@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ozen Turham, Liberal Democrats candidate for Tottenham on Twitter
-
 Ozen Turham stood as Liberal Demcrats candidate for Tottenham at the 2015 General Election but was not elected. 

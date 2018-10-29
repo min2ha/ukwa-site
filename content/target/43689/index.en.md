@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: If you believe in Britain, vote Leave. Lies, greedy elites and a divided, dying Europe - why we could have a great future outside a broken EU   
-

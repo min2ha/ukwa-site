@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Bone (@simonbone) on Twitter
-
 The Twitter profile of Simon Bone, the Conservative Party candidate for Glasgow Central in the UK General Election on the 7th May 2015.

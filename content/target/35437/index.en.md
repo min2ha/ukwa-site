@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Paul Masterton (@Paul4Paisley) on Twitter
-
 The Twitter profile of Paul Masterton, Scottish Conservative and Unionist candidate for Paisley in the 2016 Scottish Parliament election.

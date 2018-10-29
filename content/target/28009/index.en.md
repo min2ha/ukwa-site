@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Bath Comedy Festival
-
 Website for the Bath Comedy Festival, held annually since 2008.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kirsten Oswald SNP for East Renfrewshire in the General Election on May 7th
-
 This is the website of Kirsten Oswald, the Scottish National Party (SNP) candidate for East Renfrewshire in the UK General Election on the 7th May 2015.

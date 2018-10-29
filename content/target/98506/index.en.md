@@ -10,5 +10,3 @@
   "start_date": "2005-02-28T00:00:00Z"
 }
 
-# Nepali Samaj UK
-

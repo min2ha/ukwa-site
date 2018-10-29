@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: We’ll get a Brexit that suits Europe, not one that suits us
-

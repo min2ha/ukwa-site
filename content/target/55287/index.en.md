@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Bodfach Trust, The 
-
 The Bodfach Trust is a trust based in Montgomeryshire, Mid-Wales and provides grants to charities in Mid-Wales and the Welsh borders and is also often actively involved in their work.

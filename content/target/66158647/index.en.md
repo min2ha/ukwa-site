@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Simon Kirby (Conservative Politician)
-
 Simon Kirby stood as Conservative candidate for Brighton Kemptown & Peacehaven in the 2017 General Election but was not elected. He was first elected as MP for Brighton, Kemptown in the 2010.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Trent Cancer Network (NTCN)
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# OpinioN8 sharing news and views from Crouch End and Hornsey
-

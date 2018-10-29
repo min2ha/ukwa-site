@@ -10,6 +10,4 @@
   "start_date": "2018-02-08T09:00:00Z"
 }
 
-# Gilly Thomas
-
 Gilly Thomas is an expressionist painter based in North Wales and elected member of the Royal Cambrian Academy of Art (RCA). Her works are 'allusive, driven by obsession, dilemma and irony, exploring personal and archetypal narratives and situations'.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Westminster doesn't matter - all the SNP cares about is separation
-
 None

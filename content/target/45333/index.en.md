@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Young European Movement
-
 The UK branch of the Young European Federalists.

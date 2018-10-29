@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sport Wales (@sport_wales) on Twitter 
-
 Twitter account for Sport Wales, the national organisation responsible for increasing participation and improving performance in sport in Wales.

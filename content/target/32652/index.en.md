@@ -10,6 +10,4 @@
   "start_date": "2015-11-17T09:00:00Z"
 }
 
-# Marks in Time
-
 Archive of Marks and Spencer Company containing documents, reports, letters, speeches, employee magazines, annual reports and advertising leaflets; photographs, films and oral history recordings; clothing, food packaging and merchandise.

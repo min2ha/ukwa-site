@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Finance Scotland
-
 Financial support and information for businesses in Scotland.

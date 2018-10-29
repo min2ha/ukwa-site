@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 23rd March 2018: Passports
-
 Members of the House of Lords called on the government to reconsider awarding a contract to print new blue UK passports to a Franco-Dutch firm, Gemalto. However,  Lord Courtown, speaking on behalf of the Government, said that as a member of the European Union, the UK had to abide by procurement rules.

@@ -10,5 +10,3 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# Fair Isle Marine Environment & Tourism Initiative
-

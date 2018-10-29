@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sydenham Town
-

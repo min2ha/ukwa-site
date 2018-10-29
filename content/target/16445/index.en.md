@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband: I will give voters their own PMQs every Wednesday
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2004-10-18T00:00:00Z"
 }
 
-# Wellcome Trust, The
-
 The Wellcome Trust is an independent charity funding research to improve human and animal health. Established in 1936 and with an endowment of around £15 billion, it is the UK's largest non-governmental source of funds for biomedical research. 

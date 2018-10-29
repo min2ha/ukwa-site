@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wired: How big data is helping us understand mental illness
-
 Wired article about mental health and big data

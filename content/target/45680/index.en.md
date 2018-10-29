@@ -10,5 +10,3 @@
   "start_date": "2016-09-29T11:00:00Z"
 }
 
-# Llandudno Jazz Festival
-

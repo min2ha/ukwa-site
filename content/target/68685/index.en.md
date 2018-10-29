@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Wildscreen Festival
-
 festival celebrating wildlife and conservation photography, film, TV and online content

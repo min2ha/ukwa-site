@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Attitude
-
 An online UK news site

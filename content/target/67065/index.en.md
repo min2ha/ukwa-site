@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Bill Cash: The EU Withdrawal Bill. No Conservative colleague should defy the will of the people next week.
-
 Voting to support these Lords amendments to the EU Withdrawal Bill would undermine the Government’s negotiations and Brexit itself. We are escaping the EU just as so many other member states are despairing at the EU’s lack of democracy and accountability, and its failures on immigration and the rule of law. Their electors are repeatedly voting with their feet. The referendum was an instruction by the British people to leave the EU. This Bill should be passed without these disreputable Lords amendments – and the Government and the United Kingdom must not be undermined at this critical junction in our history.
 

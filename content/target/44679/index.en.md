@@ -10,6 +10,4 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# DIY Curator
-
 Tumblr site of Hamja Ahsan, London-based artist, curator & activist

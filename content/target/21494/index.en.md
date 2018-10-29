@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: EXCLUSIVE: Voters’ trust Osborne nearly TWICE as much as Ed Balls
-
 None

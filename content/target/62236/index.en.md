@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Luton Town F.C.
-
 Luton Town Football Club is a professional association football club based at Kenilworth Road, Luton, Bedfordshire since 1905. Founded in 1885, it is nicknamed "the Hatters" and affiliated to the Bedfordshire County Football Association. 

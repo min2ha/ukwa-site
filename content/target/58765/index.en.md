@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Diverse Cymru Direct Payments
-
 Diverse Cymru Direct Payments are funds which are given to an individual from their local authority so that they purchase and manage their own support services rather than having these services delivered directly. This could mean someone employing a Personal Assistant (PA), engaging a care agency or purchasing respite care that enables them to live in the community with support.

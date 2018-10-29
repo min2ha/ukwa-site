@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Llais Cwm Tawe
-
 This is a Welsh language community newspaper for the following villages: Abercraf, Ystradgynlais, Ystalyfera, Pantteg, Cwmllynfell, Cwmtwrch, Yr Alltwen, Rhos-Cilybebyll, Pontardawe, Rhydyfro, Clydach, Felindre, Craigcefnparc and Trebannws.

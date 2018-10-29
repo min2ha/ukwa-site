@@ -10,6 +10,4 @@
   "start_date": "2016-01-08T09:00:00Z"
 }
 
-# People Around Here
-
 People Around Here deliver community arts initiatives mainly within disadvantaged communities in Cardiff. 

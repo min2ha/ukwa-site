@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Charter 2010
-
 None

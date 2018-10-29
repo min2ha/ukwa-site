@@ -10,6 +10,4 @@
   "start_date": "2015-11-16T09:00:00Z"
 }
 
-# The History of Parliament
-
 The History of Parliament is a research project creating a comprehensive account of parliamentary politics in England, then Britain, from their origins in the thirteenth century.

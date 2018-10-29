@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tony Mulhearn (@tony1939) on Twitter (TUSC candidate for Liverpool Riverside)
-

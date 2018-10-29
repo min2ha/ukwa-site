@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Bond traders, Trots and Mumsnetters must unite against Farage’s mob
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Paul's and St. George's Church, Edinburgh
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Edinburgh - the church is also known locally as 'P's and G's'

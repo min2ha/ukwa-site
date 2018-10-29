@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Oswald's, Maybole
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Maybole, Ayrshire.

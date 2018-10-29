@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Fochabers Pétanque Club on Facebook
-
 Facebook page for a pétanque club located in Fochabers, playing a form of bowls.

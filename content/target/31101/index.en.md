@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Maria Leijerstam 
-
 Maria Leijerstam is a Welsh polar adventurer and credited as the first person to reach the South Pole by human-powered cycle

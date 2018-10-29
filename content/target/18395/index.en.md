@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Tony Blair backs Labour with £106,000 donation
-
 None

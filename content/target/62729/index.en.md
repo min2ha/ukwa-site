@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Glasgow Society of Women Artists
-
 Site of a society of fine art based in Glasgow (open to all comers) for women artists.

@@ -10,5 +10,3 @@
   "start_date": "2016-04-12T10:00:00Z"
 }
 
-# Bagillt Community Council
-

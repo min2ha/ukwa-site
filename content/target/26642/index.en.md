@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Natalie Bennett vows to continue building on the ‘Green surge’
-
 None

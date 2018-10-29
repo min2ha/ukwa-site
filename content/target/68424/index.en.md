@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swindon St George RL (@SwindonStGeorge) on Twitter
-
 The official Twitter account of Swindon St George ARL.

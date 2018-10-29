@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent News: The Charter of the Forest: Influential partner of historic Magna Carta
-

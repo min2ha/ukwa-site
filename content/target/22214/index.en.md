@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Gordon & Sarah Brown (@OfficeGSBrown) on Twitter
-
 The official twitter feed for the office of Gordon and Sarah Brown.

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Stornoway Historical Society
-
 Website of a local history society based in Stornoway, Isle of Lewis in the Western Isles of Scotland.

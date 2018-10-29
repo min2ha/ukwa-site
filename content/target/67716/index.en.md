@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Cardiff Arms Park Male Choir
-
 Cardiff Arms Park Male choir was formed in 1966. Its original name was Cardiff Athletic Club Male Voice Choir.

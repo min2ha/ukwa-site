@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# King's Fund Facebook
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-02-03T09:00:00Z"
 }
 
-# Dispensing Doctors’ Association (DDA) 
-
 The Dispensing Doctors’ Association (DDA) represents over 6,600 doctors currently working in 1,290 dispensing practices across the UK. It is the only organisation that specifically represents the interests of dispensing doctors and their 8.8 million patients.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Davies on Facebook
-
 Chris Davies is the Conservative candidate for Brecon and Radnorshire.

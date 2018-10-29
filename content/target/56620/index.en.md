@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Patrobas
-
 Patrobas is a Welsh language folk band signed to the Sain record company.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: Theresa May is a survivor but I fear she is increasingly trapped and badly bruised
-
 Comments that Theresa May had been forced to watch as Parliament seized control of the Brexit process during the Summer of 2018. Even if she made an agreement with the EU in the Autumn, she might not be able to force it through Parliament. The country would then face a general election and even a second referendum on EU membership.

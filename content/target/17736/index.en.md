@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Meet the Ukippers: These people were left dumbfounded by a BBC documentary about Ukip
-
 None

@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# BSHG - British Society for Human Genetics
-

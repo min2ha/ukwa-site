@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: London mayor urges MPs to back peers' changes to Brexit bill
-
 The London Mayor called on MPs from all parties to set aside their political careers and consider supporting soft Brexit Lords amendments as they returned to the Commons in votes that he said were as significant as those that took Britain into the Iraq war. Sadiq Khan in effect added his voice to those calling on Jeremy Corbyn to oppose Britain’s departure from the single market as he said MPs should “be brave” and support EU withdrawal bill amendments
 

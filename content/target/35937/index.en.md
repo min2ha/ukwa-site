@@ -10,6 +10,4 @@
   "start_date": "2016-02-25T09:00:00Z"
 }
 
-# Landmark Practice, The
-
 The Landmark Practice is an independent, multidisciplinary consultancy, offering specialist services in planning, environmental planning, landscape design and ecology.  Nick Roberts first created the company in 1985 to undertake landscape design based on sound ecological principles, initially as a commercial trading arm of Avon Wildlife Trust.

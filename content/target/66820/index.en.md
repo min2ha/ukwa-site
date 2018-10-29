@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# ArcTanGent Festival
-
 Site of ArcTanGent, a music festival located in Bristol, England. 

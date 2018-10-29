@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# ZombiU
-
 ZombiU webcomic written by Antony Johnston and Gabrielle Shrager, illustrated by Kev Crossley. Based on the ubisoft game Zombi (rated 18). Content may not be suitable for all ages.

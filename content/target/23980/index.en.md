@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Vote with your heart, UKIP's Nigel Farage tells voters
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Côr Meibion Morlais | Morlais Male Choir
-
 Côr Meibion Morlais was formed in 1928. Côr Morlais is based in Ferndale, Rhondda Valley.

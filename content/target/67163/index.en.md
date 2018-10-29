@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Gigs in Scotland
-
 Website consisting of listings of live music gigs and festivals across Scotland.

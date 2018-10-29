@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Swans100 (@SwanseaCity100) on Twitter
-
 Funded by the Heritage Lottery Fund, the Swansea City FC Centenary History Project celebrated and recorded the history of the Swans, 1912-2012. This is their official Twitter account.

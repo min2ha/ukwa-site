@@ -10,6 +10,4 @@
   "start_date": "2015-03-25T09:00:00Z"
 }
 
-# International Association of Language Centres (IALC)
-
 International Association of Language Centres (IALC) is a global network of independent language schools that teach the official language of their country. It was founded in 1983.

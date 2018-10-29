@@ -11,5 +11,3 @@
   "subject": "Mental Health"
 }
 
-# Centre for Suicide Research, University of Oxford
-

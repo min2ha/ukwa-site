@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bury Health and Wellbeing Board
-
 None

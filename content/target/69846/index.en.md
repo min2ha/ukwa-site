@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Lambentations: #BanSheepRacing
-
 Organises petitions against sheep racing and lamb racing events in the UK, and reports on the outcome of petitions relating to individual events.  Campaigns for a ban on sheep racing in the UK on the grounds that sheep racing is cruel and exploitative.

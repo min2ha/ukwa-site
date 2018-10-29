@@ -10,6 +10,4 @@
   "start_date": "2017-12-02T09:00:00Z"
 }
 
-# Glasgow Jewish Representative Council
-
 Site of an organisation which represents the Jewish community in Glasgow, and helps to ensure cordial relations between the community and other civic and religious groups and sends delegates to a variety of faith and other forums and committees.

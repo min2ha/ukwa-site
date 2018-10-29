@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# Biscuit Factory
-
 Site of an arts and fashion hub with gallery and studio space located in Leith, Edinburgh.

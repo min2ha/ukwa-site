@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 13th March 2017: European Union (Notification of Withdrawal) Bill
-
 The Commons rejects the Lords amendments and passes the European Union (Notification of Withdrawal) Bill unamended,

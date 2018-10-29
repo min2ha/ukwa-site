@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Huffington Post: The Liberal Democrats' Euro Election 2014 Manifesto
-
 None

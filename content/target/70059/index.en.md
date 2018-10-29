@@ -10,6 +10,4 @@
   "start_date": "2018-08-17T09:00:00Z"
 }
 
-# Unions 21 (@Unions21) on Twitter
-
 Unions21 exists to support #Unions increase their influence, impact and effectiveness within the world of work.

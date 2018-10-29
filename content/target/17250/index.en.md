@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour extends lead over Conservatives despite attacks from business
-

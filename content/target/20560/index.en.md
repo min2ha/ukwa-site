@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Meet me 'any time, any place, anywhere' Ed Miliband challenges David Cameron
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Ed Miliband to pledge £5BILLION to build homes for first-time buyers 
-
 None

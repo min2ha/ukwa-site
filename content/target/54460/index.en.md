@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Cardiff Lib Dems (@cardifflibdems) on Twitter 
-

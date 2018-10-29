@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Christian Action Research & Education (CARE): EU Referendum
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# METRO: "Stop telling me to go on a digital detox; social media is actually helping my mental health"
-
 METRO article about social media and mental health 

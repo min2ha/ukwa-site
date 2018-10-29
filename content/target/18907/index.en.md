@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Epping MP Eleanor Laing calls for Magna Carta holiday
-

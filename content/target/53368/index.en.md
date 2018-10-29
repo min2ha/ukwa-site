@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Politwoops
-
 Politwoops is a database that republishes tweets deleted by British politicians. 

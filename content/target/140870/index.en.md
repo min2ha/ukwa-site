@@ -10,6 +10,4 @@
   "start_date": "2007-03-14T00:00:00Z"
 }
 
-# PACT - Parents and Abucted Children Together
-
 PACT is an international, non-profit organisation, registered in the USA and the UK. It was founded in 2000 by Lady Meyer, wife of the former British Ambassador to the United States. Its patrons are Cherie Blair, wife of the former British Prime Minister, and Laura Bush, the First Lady of the United States.

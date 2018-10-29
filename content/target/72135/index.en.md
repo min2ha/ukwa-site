@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: I do believe in Brexit, May says – but won’t rule out compromises
-
 Theresa May refused to rule out further compromises in order to broker a final deal with the EU, but hit back at Boris Johnson after the former foreign secretary questioned her belief in Brexit.
 

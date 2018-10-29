@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: Why Blair and Obama should stop meddling and let the British people decide on the EU
-

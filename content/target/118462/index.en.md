@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Digital Preservation Coalition (DPC) 
-
 The Digital Preservation Coalition (DPC) is an advocate and catalyst for digital preservation, enabling our members to deliver resilient long-term access to content and services, and helping them derive enduring value from digital collections.

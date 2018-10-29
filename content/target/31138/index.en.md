@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Sell My Retro
-
 SellMyRetro.com is a trading place to bring enthusiasts and traders of retro computers, gaming machines and other electronics equipment together in one place.

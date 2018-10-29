@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Creative Futures Institute, the @UWScreative
-
 None

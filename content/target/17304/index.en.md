@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour attack Stefano Pessina after he says Ed Miliband would be a 'catastrophe' for Britain
-
 None

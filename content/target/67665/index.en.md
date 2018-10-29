@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# United Kingdon Association of Street Light Enthusiasts 
-
 A website and forum for all things related to street lighting

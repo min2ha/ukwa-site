@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Plaid Cymru Neath (@Plaid_Castell_N) on Twitter 
-

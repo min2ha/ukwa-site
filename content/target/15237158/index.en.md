@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Bluecoat, The
-
 A centre for the contemporary arts based in Liverpool. Bluecoat showcases talent across visual art, music, dance, live art and literature.

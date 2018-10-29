@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Miliband vulnerable to SNP 'blackmail', warns John Major
-
 None

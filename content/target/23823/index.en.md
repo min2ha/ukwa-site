@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Neath East Communities First
-
 The Communities First  programme is a long-term strategy for improving the living conditions and prospects for people in the most disadvantaged communities  in Wales. This is the programme for Neath East.

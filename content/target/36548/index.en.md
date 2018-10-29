@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: There would be no disruption to trade from leaving the EU, Cabinet member Chris Grayling says
-

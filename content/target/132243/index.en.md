@@ -10,5 +10,3 @@
   "start_date": "2012-09-14T00:00:00Z"
 }
 
-# Owen Martell
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Kelso Folk Festival
-
 Site of a traditional Scottish (folk) music festival staged at Kelso, Scottish Borders.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Campaign for Science and Engineering: Europe
-
 Campaign for Science and Engineering reports, briefings and comment on Brexit and European matters

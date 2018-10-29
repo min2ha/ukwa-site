@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Equation
-
 Equation is a charity that aims for everyone to have equal, healthy relationships, in a society free from domestic abuse, sexual violence and gender inequality. This charity works primarily in Nottingham and Nottinghamshire.

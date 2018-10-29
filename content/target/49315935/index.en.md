@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Photographers Resource
-
 A resource for photographers which includes maps and indexes of locations of photographic interest around the United Kingdom.

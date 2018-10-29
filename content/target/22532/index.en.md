@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip MEP: Nigel Farage's successors are 'waiting' to replace him if he steps down
-
 None

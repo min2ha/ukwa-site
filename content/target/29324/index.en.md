@@ -10,6 +10,4 @@
   "start_date": "2015-07-24T10:00:00Z"
 }
 
-# Somerset Intelligence
-
 The website contains statistical information about Somerset (e.g. community profiles, health information, housing, the local economy).  

@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Count House, The - Ding Dong Mine, Boskednan, Penzance and Richard Trevithick
-
 None

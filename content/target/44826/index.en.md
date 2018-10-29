@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Kilmainham Graffiti
-
 This project aims to record, photograph, decipher, analyse and understand historical graffiti from Kilmainham Gaol, Dublin. 

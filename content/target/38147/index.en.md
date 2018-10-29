@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alycia Hayes (@alyciahayes) on Twitter
-
 Twitter profile of Alycia Hayes, the Scottish National Party list candidate for Mid Scotland & Fife region in the 2016 Scottish Parliamentary election.

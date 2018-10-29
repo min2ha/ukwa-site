@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# England (@England) on Twitter
-
 The official feed of the #England football teams, with breaking news updates, videos and images.

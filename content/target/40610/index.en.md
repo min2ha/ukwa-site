@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# LGBT Health & Wellbeing
-
 Site of an organisation set up to promote the health, wellbeing and equality of lesbian, gay, bisexual and transgender people in Scotland through providing support, services and information to improve health and wellbeing, reduce social isolation and stimulate community development and volunteering; based in Edinburgh and Glasgow.

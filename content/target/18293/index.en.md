@@ -10,6 +10,4 @@
   "start_date": "2015-03-19T09:00:00Z"
 }
 
-# Society of British and International Design (SBID) 
-
 The Society of British and International Design (SBID) represents the interests of manufacturers, practitioners and education. Their objective is to promote the profession at the highest level of competence to provide consumer protection and, in doing so create a clear separation between professionals and hobbyists. 

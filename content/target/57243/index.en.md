@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The road to Brexit was paved with Boris Johnson’s Euromyths
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Keeping the party going: Nick Clegg faces tough post-election options
-
 None

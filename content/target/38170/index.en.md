@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Steel GO (@Steel4GO) on Twitter
-
 Campaign for the UK to leave the EU from a steel industry perspective

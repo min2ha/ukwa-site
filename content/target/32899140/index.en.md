@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Crynwyr Gogledd Cymru | North Wales Quakers
-

@@ -10,6 +10,4 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# Crop Circle Exhibition & Centre
-
 Crop Circle Exhibition & Centre aims to provide information on the crop circle phenomenon, primarily in the UK and the Netherlands. It does so through an evolving and mobile exhibition first held in Wiltshire Museum and St. Peter’s Church in England. The exhibition informs via text, footage, videos and interactive map-displays about the history, research, theories and farmers’ views. The Centre also reports on crop circles primarily in the UK and on how to gain access.

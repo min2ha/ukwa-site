@@ -10,5 +10,3 @@
   "start_date": "2006-01-03T00:00:00Z"
 }
 
-# Sefydliad : The Community Foundation in Wales - Y Sefydliad Cymunedol yng Nghymru
-

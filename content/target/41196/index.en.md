@@ -10,6 +10,4 @@
   "start_date": "2016-05-18T10:00:00Z"
 }
 
-# Springthyme Records / Springthyme Music
-
 Site of a music production and sales company specialising in traditional Scottish music.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Northamptonshire County Council
-

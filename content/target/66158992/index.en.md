@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Wiltshire Police Authority (WPA)
-
 None

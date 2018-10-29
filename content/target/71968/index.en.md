@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Be Ur Own Light
-
 A personal mental health recovery blog

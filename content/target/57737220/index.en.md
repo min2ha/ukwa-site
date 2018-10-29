@@ -10,6 +10,4 @@
   "start_date": "2010-11-19T00:00:00Z"
 }
 
-# Thyroid Eye Disease Charitable Trust
-
 Thyroid eye disease is an auto-immune condition. Auto-immune means that your own white blood cells or antibodies are causing damage to parts of your body in addition to their normal role of protecting you against infections

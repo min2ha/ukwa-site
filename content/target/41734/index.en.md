@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Net Of the Woods | Hackney
-
 Discussions found within 10 km of Hackney, London Borough of Hackney, London, UK.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Alan Hale, photography from West Wales.
-
 Alan Hale is a photographer from west Wales.

@@ -10,5 +10,3 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Scotsman, The: Scottish marathon runner Tsegai Tewelde escapes tragic past
-

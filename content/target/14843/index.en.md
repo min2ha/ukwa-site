@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - • SNP: https://my.snp.org/join • Greens:...
-
 <p>Yes Scotland posts links to membership application pages for the Scottish National Party, Scottish Green Party and Scottish Socialist Party along with the STV News article: "Thousands join pro-independence parties following referendum" at 3.38pm on the 22nd of September.</p>

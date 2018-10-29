@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Ysgol Gynradd Trewen Primary School
-
 Ysgol Treloy is situated in the rural village of Cwm Cou two miles from Newcastle Emlyn.

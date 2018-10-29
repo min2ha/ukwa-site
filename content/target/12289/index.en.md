@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scott-Thwaites.com
-
 The website of cyclist Scott Thwaites, member of Team England for the Glasgow 2014 Commonwealth Games.

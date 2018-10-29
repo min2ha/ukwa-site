@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour will have to work with us, claims SNP leader Nicola Sturgeon
-
 None

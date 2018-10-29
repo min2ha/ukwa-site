@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ashley J Ŵakeling on Facebook
-
 Green Party Parliamentary Candidate for Swansea West.

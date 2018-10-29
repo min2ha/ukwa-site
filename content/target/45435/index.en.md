@@ -10,6 +10,4 @@
   "start_date": "2016-09-16T10:00:00Z"
 }
 
-# British Powerlifting Federation
-
 The website for the World Powerlifting Union & British Powerlifting Federation.

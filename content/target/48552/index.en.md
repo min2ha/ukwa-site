@@ -11,6 +11,4 @@
   "subject": "British Overseas Territories"
 }
 
-# Montserrat Volcano Observatory  
-
 Montserrat Volcano Observatory website.

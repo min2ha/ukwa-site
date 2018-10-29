@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Eyeball Brewing Ltd
-
 Site of a brewer located in Dunbar, East Lothian.

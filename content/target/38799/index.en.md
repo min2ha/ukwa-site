@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# iNews
-
 Latest UK and international news, politics, business, sport, comment, lifestyle and culture from i, Britain's first and only concise quality newspaper.

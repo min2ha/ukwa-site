@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Quitting the EU 'would help our security', former MI6 chief suggests
-

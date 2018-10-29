@@ -10,7 +10,5 @@
   "start_date": "2015-04-22T08:00:00Z"
 }
 
-# Deanery of Mathrafal | Deoniaeth Mathrafal
-
 Mathrafal Deanery - Deoniaeth combines the former Deaneries of Llanfyllin
 and part of Caereinion, both in Montgomeryshire

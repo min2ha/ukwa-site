@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# HospitalDr: NHS news for junior doctors, trainees and consultants
-
 None

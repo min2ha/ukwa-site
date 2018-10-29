@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Teddington Society
-
 The aim of the Teddington Society is to preserve and enhance the quality of life for everyone living and working in Teddington.

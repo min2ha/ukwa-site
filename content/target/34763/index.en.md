@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Game on Wales
-
 Game on Wales is a social inclusion & community development initiative using football to help change lives and the more disadvantaged in society. Game On Wales is part of The Coalfields Regeneration Trust. 

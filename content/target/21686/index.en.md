@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jeremy Paxman begins his post-BBC career in the Battle for Number 10
-
 None

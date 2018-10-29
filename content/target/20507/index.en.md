@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Debate-gate? This could be a fatal miscalculation for David Cameron
-

@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit means drifting apart but we don't want to build a wall - Tusk
-
 Summarises and comments on the EU draft negotiating guidelines for the Brexit trade talks unveiled by Donald Tusk. Mr Tusk said the EU wanted an "ambitious and advanced" free trade deal - and continued access to UK waters for EU fishing vessels. The draft European Council guidelines called for zero-tariff trade in goods - where the EU had a surplus. The document also said access for services would be limited by the fact that the UK would be outside the EU and will no longer share a common regulatory and judiciary framework.
 
 

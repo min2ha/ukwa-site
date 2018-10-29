@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Broadcasters' exit poll provokes huge row with Labour claiming it is 'wrong'
-
 None

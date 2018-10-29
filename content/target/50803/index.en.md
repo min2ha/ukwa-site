@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Ieuan Jones
-
 Ieuan Jones is an internation haprist and a fellow of the Royal College of Music.

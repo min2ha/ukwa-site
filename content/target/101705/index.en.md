@@ -10,6 +10,4 @@
   "start_date": "2016-04-22T10:00:00Z"
 }
 
-# Glasgow Story
-
 Site providing contextual local history information telling the story of the City of Glasgow in subject based articles supported by photographs.

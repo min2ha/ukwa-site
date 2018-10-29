@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Sefydliad Tirwedd Cymru | Landscape Institute Wales
-
 The Landscape Institute is the professional body and regulator for landscape architecture, charged with protecting, conserving and enhancing the natural and built environment for the benefit of the public.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rochdale Herald: Rio 2016 Olympics
-
 A satirical look at the 2016 Olympic Games 

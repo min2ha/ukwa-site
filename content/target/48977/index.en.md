@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# Dylan Thomas News
-
 The Dylan Thomas News is run from Mid Wales by Dylan Thomas enthusiast Andrew Dally. It Celebrates the life, work & legacy of Welsh poet Dylan Thomas and provides news and details of events, anniversaries, theatrical productions etc. 

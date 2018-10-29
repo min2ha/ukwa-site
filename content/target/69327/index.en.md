@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Newtown, Cardiff
-
 Newtown, Cardiff was sandwiched between Cardiff Docks, Splott and the main Swansea to London railway line and home to large number of Irish families to Cardiff. The houses were demolished in 1970 and a memorial garden constructed in the area formerly known as "Newtown: Little Ireland". The website is history of this unique community in words and in pictures. 

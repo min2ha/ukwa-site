@@ -10,5 +10,3 @@
   "start_date": "2011-05-10T00:00:00Z"
 }
 
-# UK Genetic Testing Network (UKGTN)
-

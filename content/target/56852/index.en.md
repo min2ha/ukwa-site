@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: the talks begin
-
 The Brexit negotiations: what, when and how? This paper looks at the agenda and timetable for the first phase of talks, who is involved on the EU and UK sides, what they will be discussing and what positions - if any - they have taken so far.
 

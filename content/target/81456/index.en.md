@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  Davis warns Tory MPs: backing Chequers will cost party at election
-
 David Davis wrote to Conservative MPs warning that the party faced “dire” electoral consequences if Theresa May continued to pursue a Chequers-style deal with the EU27.
 

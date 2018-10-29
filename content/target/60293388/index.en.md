@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Owen Meredith (Conservative  Politician)
-
 Owen Meredith stood as Conservative candidate for Newcastle-under-Lyme in the 2017 General Election but was not elected. 

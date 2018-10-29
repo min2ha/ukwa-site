@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Parliamentary Office of Science and Technology: Environmentally Sustainable Agriculture
-
 Agricultural practices can reduce water quality, degrade soils and cause biodiversity loss. This in turn can disrupt natural processes that support food production. Environmentally sustainable agriculture seeks to reduce environmental damage and restore such processes. This POSTnote summarises associated land management options, agricultural policies and the constraints imposed by a new trading environment.
 

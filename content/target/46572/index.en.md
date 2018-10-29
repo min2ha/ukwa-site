@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute for Public Policy Research: Brexit and the UK labour market
-
 Using exclusive and up-to-the-minute data, IPPR analysis shows that other than an uncharacteristic downturn in job postings in the finance sector – particularly in London – employer recruitment patterns in the two months before and after the Brexit vote were in line with previous trends across all parts of the economy.

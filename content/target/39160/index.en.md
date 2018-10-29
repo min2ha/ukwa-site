@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Debby Blakebrough (@DebbyforUwithU) on Twitter (Independent candidate for Monmouth)
-
 Debby Blakebrough is an Independent candidate standing for  Monmouth at the 2016 National Assembly Elections. 

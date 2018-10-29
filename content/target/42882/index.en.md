@@ -10,5 +10,3 @@
   "start_date": "2016-06-13T10:00:00Z"
 }
 
-# Troedyraur Community Council
-

@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Fife Constabulary
-
 None

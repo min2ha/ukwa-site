@@ -11,6 +11,4 @@
   "subject": "Race, Ethnicity & Sport"
 }
 
-# Sporting Equals
-
 None

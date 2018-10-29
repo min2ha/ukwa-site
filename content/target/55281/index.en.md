@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Jazz Nairn
-
 Site of an annual festival of jazz music located in Nairn, Highland, Scotland.

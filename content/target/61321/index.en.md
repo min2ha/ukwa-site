@@ -10,5 +10,3 @@
   "start_date": "2018-02-15T09:00:00Z"
 }
 
-# Friends of the Clwydian Range and Dee Valley | Cyfeillion Bryniau Clwyd a Dyffryn Dyfrdwy
-

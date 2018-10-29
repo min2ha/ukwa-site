@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St.Austell & Newquay UKIP Branch
-
 Website of St.Austell & Newquay UKIP Branch, providing information on David Mathews, UKIP policy and how to get involved.

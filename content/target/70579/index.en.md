@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Reading FC Women
-
 Reading Women's Football Club

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron heckled by pensioners as he tries to defend his NHS record 
-
 None

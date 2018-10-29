@@ -10,5 +10,3 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Gymdeithas Foch o Gwehelyth Gymreig, Y | Pedigree Welsh Pig Society, The
-

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: The Battle of Britain begins: Supreme Court president issues stark warning against 'online abuse' of anti-Brexit campaigners as legal showdown kicks off over UK's departure from the EU  
-

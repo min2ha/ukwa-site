@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Teen Voice UK (@TeenVoiceUK) on Twitter
-
 The official Twitter for Teen Voice UK.They campaign for 16 and 17 year olds to have the right to vote in the UK.

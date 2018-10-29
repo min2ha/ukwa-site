@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rugby Relics
-
 Rugby Relics is a leading supplier of Rugby Memorabilia.

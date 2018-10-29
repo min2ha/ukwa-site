@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK-EU customs partnership 'still on table'
-
 A new "customs partnership" with the EU - which was fiercely opposed by some Tory Brexiteers - was still on the table, the business secretary said. Greg Clark warned about the effect of border checks on manufacturing jobs, saying whatever replaces the customs union was of "huge importance".
 
 .

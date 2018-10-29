@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cyprus Mail: UK expats in EU referendum quandary
-
 UK expats in Cyprus are being urged to register as overseas voters as soon as possible ahead of a referendum on in/out EU membership on 23 June 2016

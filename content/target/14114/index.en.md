@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# London Evening Standard: Scottish independence: Square Mile sees some upside in ‘Yes’ vote - Chris Blackhurst - Analysis & Features - Business
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-08-11T10:00:00Z"
 }
 
-# British Association for Adoption & Fostering (BAAF)
-
 British Association for Adoption & Fostering (BAAF) is an adoption and fostering membership association, which promotes the highest standards of practice in adoption, fostering and childcare services in social work, health, legal and other professional bodies on behalf of children separated from their birth families.

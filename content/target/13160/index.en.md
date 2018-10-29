@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# 5 Million Questions (Fivemillionqs) on Twitter
-
 <p>The twitter profile of the University of Dundee project Five Million Questions, which aims to understand Scotland's referendum through knowledge exchange between public and academia.</p>

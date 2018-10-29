@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ruby Kirkwood (@ruby_kirkwood) on Twitter
-
 The Twitter profile of Ruby Kirkwood, the Liberal Democrats candidate for North Ayrshire and Arran in the UK General Election on the 7th May 2015 and Cunninghame South in the 2016 Scottish Parliamentary election.

@@ -10,6 +10,4 @@
   "start_date": "2015-10-22T20:00:00Z"
 }
 
-# FCA Handbook
-
 The website of the Financial Conduct Authority’s Handbook of rules and guidance. The FCA Handbook contains the complete record of FCA Legal Instruments and presents changes made in a single, consolidated view. This new site provides a cleaner, easy-to-use interface for finding and reading the rules

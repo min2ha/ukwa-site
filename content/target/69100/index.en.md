@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# International Women in Engineering Day (@INWED1919) on Twitter
-
 Twitter account for International Women in Engineering Day

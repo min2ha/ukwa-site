@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Expats Blog: Brexit court judgment excludes 700000 expat voters
-
 The concerns of 700,000 long-stay British expats were  dismissed by the High Court in a controversial ruling. Judges at the High Court dismissed the case for allowing British citizens who’ve lived overseas for over 15 years to vote in the upcoming Brexit referendum.

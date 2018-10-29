@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Sian Gwenllian AM (@siangwenfelin) on Twitter 
-
 Sian Gwenllian is the Plaid Cymru candidate for Arfon in the 2016 National Assembly for Wales elections.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Alan Sillitoe Website, The
-
 Official website of Alan Sillitoe (1928-2010), an English writer.

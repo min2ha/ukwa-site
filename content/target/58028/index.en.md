@@ -10,6 +10,4 @@
   "start_date": "2017-10-24T09:00:00Z"
 }
 
-# Edinburgh Film Guild
-
 Site of a film society based in Edinburgh and specialising in screening overseas and vintage films to its membership.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# One Nation
-
 One Nation is a UK-based relief and development agency which has continued to support local and international relief projects to help improve lives.

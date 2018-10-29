@@ -10,6 +10,4 @@
   "start_date": "2015-11-27T09:00:00Z"
 }
 
-# Citrus Arts
-
 Citrus Arts are a South Wales based theatre and dance company funded by Arts Council Wales, Welsh Assembly Government, Arts Council England and National Lottery.

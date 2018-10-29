@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 23rd October 2017: European Council
-
 Theresa May has said "important progress" on Brexit was made at the October 2017 EU summit - but Jeremy Corbyn said it sounded like "Groundhog Day".

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Aberdeen Football Club
-
 Site of a senior professional football club based in Aberdeen, Scotland.

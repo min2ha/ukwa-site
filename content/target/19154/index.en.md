@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# IFLScience: Original Magna Carta Edition Found In Victorian Scrapbook 
-

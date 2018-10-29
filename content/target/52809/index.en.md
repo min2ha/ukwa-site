@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Independent, The: Brexit talks could become 'impossible' after Theresa May attack on Brussels, EU Council president Donald Tusk warns 
-
 The President of the EU’s ruling Council has intervened to calm Brexit tensions 24 hours after Theresa May launched an attack on “Brussels bureaucrats” on the steps of No 10, accusing them of meddling in the General Election. Donald Tusk warned that talks would become “impossible” if emotions got out of hand between the UK and EU and called for “mutual respect” between the negotiating parties.

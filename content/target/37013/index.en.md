@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Rural Services Network (RSN)
-
 The Rural Services Network is an organisation devoted to safeguarding and improving services in rural communities across England.

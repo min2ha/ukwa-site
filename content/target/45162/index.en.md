@@ -10,5 +10,3 @@
   "start_date": "2016-08-23T10:00:00Z"
 }
 
-# Felicity Bristow | Visual Artist
-

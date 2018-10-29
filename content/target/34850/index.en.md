@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# German History Society
-
 German History Society's activities include holding conferences and workshops, providing support for postgraduate students, and generally promoting communication and collaboration among German historians both in the UK and abroad.

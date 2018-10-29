@@ -10,6 +10,4 @@
   "start_date": "2015-09-25T10:00:00Z"
 }
 
-# Brecon - Aberhonddu, Historical Cathedral Town
-
 Visitors guide to Brecon.

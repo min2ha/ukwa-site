@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Is David Cameron right: was the UK's deficit worse than Greece's?
-
 None

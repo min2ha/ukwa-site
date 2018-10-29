@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Islington Health and Wellbeing Board
-
 None

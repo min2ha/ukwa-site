@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Inside Politics: Some clear blue water as Tories edge into lead
-
 None

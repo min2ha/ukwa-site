@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour's £3k university tuition fee cut pledge gains massive backing from students and unis
-
 None

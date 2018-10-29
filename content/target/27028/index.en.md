@@ -11,5 +11,3 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Free Edinburgh Fringe Festival, The
-

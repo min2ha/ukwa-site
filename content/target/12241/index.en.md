@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Joseph Rowntree Foundation: Publications relating to Scotland
-
 None

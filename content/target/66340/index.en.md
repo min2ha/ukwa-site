@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-#  Professional Garden Photographers’ Association
-
 The PGPA ( Professional Garden Photographers’ Association) is part of Garden Media Guild, an established national organisation of professional communicators, associated with the garden industry. 

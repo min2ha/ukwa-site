@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Telegraph email backing Conservatives faces investigation by watchdog
-
 None

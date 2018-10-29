@@ -10,6 +10,4 @@
   "start_date": "2018-08-02T09:00:00Z"
 }
 
-# Institute for Medical Science and Technology (IMSaT)
-
 The Institute for Medical Science and Technology undertakes collaborative biomedical and physical sciences research.

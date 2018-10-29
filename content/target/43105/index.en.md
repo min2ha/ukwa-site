@@ -10,6 +10,4 @@
   "start_date": "2016-06-16T10:00:00Z"
 }
 
-# Transform Scotland
-
 Site of a Scottish campaigning organisation promoting public transport, walking and cycling, and shift of freight from road to rail.

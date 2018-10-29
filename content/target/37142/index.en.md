@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Open Europe: Top 100 EU rules cost Britan £33.2bn
-
 A look at the burden of EU regulation on the UK economy, and whether swapping full EU membership for EEA membership, i.e. the 'Norway Option', would be a better way to cut regulatory costs.

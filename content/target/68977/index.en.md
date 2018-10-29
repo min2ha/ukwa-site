@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Schizophrenia Bulletin: Studying and Treating Schizophrenia Using Virtual Reality: A New Paradigm
-
 A paper on using virtual reality to treat schizophrenia

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: ITV reveals positions of participants in seven-way party leaders’ debate
-
 None

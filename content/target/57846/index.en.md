@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# Girl Circle 
-
 Girls Circle are based in Cardiff. According to the site, 'Girls Circle supports girls and young women to reach their full potential, providing dynamic programmes and initiatives to empower, educate and elevate girls across England and Wales'.

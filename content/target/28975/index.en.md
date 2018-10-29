@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North West Cambridgeshire Conservatives
-
 Website of North West Cambridgeshire Conservatives, provides information on local and national news, campaigns, events and elected representatives and candidates.

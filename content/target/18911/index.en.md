@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC: News: Funding for Magna Carta tourist trail in Kent
-

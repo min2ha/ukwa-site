@@ -10,6 +10,4 @@
   "start_date": "2015-01-20T00:00:00Z"
 }
 
-# Campaign Against Illegal Poisoning (caip), The
-
 <p>The Campaign Against Illegal Poisoning (caip) was set up in 1991, to protect some of Britain’s rarest birds of prey and wildlife from pesticide poisoning. The Chemicals Regulation Directorate (CRD) of the Health and Safety Executive (HSE) leads the Campaign. caip is the publicity arm of the Wildlife Incident Investigation Scheme (WIIS), which monitors the impact of agricultural pesticides on wildlife.</p>

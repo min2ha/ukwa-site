@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The Europe debate matters most to millennials – and we want to stay in 
-
 Guardian, The

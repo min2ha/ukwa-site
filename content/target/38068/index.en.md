@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Claims Brexit could save NHS are 'dangerous lie', ex-health secretaries say 
-
 Guardian, The

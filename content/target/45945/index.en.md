@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: 'People voted for change and change is going to come!' May makes her bold pitch to middle Britain, promising a post-Brexit country run for 'ordinary working families' instead of 'international elites'  
-

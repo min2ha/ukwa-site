@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Voodoo Roller Derby on Facebook
-
 Facebook page for a skating roller derby team based in central Scotland.

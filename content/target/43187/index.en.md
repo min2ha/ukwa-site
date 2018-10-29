@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Podcast Pêl-droed
-
 Podcast Pêl-droed is a podcast dedicated to the Welsh national football team. 

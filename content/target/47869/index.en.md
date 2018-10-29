@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: The Options for Trade
-
 The UK’s decision to leave the EU will fundamentally change its terms of
 trade with the 27 other Member States, and with the rest of the world. The
 Government has stated that it will trigger Article 50 by the end of March 2017.

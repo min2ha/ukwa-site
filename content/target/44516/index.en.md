@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# University of Bath: IPR Blog: EU Referendum
-
 Blog post discussing the social consequences of the referendum, nationally and internationally. 

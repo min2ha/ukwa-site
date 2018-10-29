@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Jim Murphy's pledge to invest £1bn in 'young working-class'
-
 None

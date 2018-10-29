@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sophia Gardens: Home of Welsh Cricket
-
 Sophia Gardens is the home of Glamorgan and Welsh Cricket and is located in Cardiff.

@@ -10,6 +10,4 @@
   "start_date": "2014-11-24T06:00:00Z"
 }
 
-# Save the Children
-
 None

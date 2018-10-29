@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# CAH Support Group
-
 sub-group of CLIMB - see also Target 121208 National Information Centre for Metabolic Diseases.

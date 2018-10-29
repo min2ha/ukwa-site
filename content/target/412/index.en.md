@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rotherham Health and Wellbeing Board
-

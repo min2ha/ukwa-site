@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brothers Pearse GAA | Gaelic Football Club
-
 Brothers Pearse GAA are a Gaelic Football Club based in Huddersfield, West Yorkshire. Our Headquarters are at the Huddersfield Irish Centre, who are our main club sponsors. Brothers Pearse GAA was established in 1954 and fields teams in all age groups from youth to senior level.

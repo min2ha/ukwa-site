@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# UK Council for International Student Affairs (UKCISA)
-
 The UK Council for International Student Affairs (UKCISA) is the UK’s national advisory body serving the interests of international students and those who work with them. 

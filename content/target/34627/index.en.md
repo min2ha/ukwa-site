@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Three Rivers District Council
-
 The website of Three Rivers District Council offers information on local services, news, consultations, committee meetings and agendas, and budgets and spending

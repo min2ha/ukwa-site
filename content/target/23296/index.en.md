@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Abergele Field Club and Historical Society
-

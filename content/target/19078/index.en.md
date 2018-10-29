@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Durham University: Magna Carta at 800: Should We Still Care?
-

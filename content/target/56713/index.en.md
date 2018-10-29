@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Bunny
-
 Bunny is a webcomic by Huw 'Lem' Davies which launched in 2004. It has no continuous plot but features a number of recurring characters and most prominently features the character of The Pink Bunny.

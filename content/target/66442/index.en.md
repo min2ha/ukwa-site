@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Mactaggart & Mickel Group
-
 Mactaggart & Mickel Group is a housebuilder and contracter based in Glasgow, Scotland. 

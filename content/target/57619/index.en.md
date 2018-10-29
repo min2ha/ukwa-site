@@ -10,6 +10,4 @@
   "start_date": "2017-10-03T09:00:00Z"
 }
 
-# Stephen Kingston
-
 Stephen Kingston is a Welsh artist who works in a variety of visual forms, more recently, on larger scale paintings, and often in public spaces.

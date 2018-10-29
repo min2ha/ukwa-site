@@ -10,6 +10,4 @@
   "start_date": "2018-01-06T09:00:00Z"
 }
 
-# Discover Stronsay
-
 Site of a community on the island of Stronsay, Orkney with information for visitors to the island.

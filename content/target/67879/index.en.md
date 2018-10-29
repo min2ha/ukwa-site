@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Theresa May wins 'meaningful vote' battle
-
 The government saw off a rebellion by Conservative MPs over Parliament's role in the Brexit process, winning the crunch vote by 319 to 303 on June 20th 2018. The would-be rebels wanted to ensure MPs had the power to stop the UK leaving the EU without a deal.

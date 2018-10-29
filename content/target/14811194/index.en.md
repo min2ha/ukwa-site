@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# WH Marks Sattin Job Doctor 
-
 None

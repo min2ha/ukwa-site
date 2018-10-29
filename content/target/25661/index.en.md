@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nicola Sturgeon is 'superb' on Twitter, says platform's European chief
-
 None

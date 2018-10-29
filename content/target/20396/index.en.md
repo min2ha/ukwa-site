@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stewart Hosie (StewartHosieSNP) on Twitter
-
 Twitter profile of Stewart Hosie, Scottish National Party candidate for Dundee East in the 2017 general election.

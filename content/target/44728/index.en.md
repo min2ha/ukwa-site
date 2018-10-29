@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Home Affairs Committee: The work of the immigration directorates (Q1 2016)
-
 The Home Affairs Committee says the immigration directorates especially UKVI must be prepared and resourced to deal with the heavy extra demands that will be placed on them by the fallout from Brexit. Post-Brexit attempts to limit non-EU migration, and the uncertainly over migration within Europe during the exit negotiations, could both lead to a surge in immigration.

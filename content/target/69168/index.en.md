@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TUC Blog:  7 reasons why a UK-only trade policy wouldn’t be as good as a customs union
-
 Argues that the UK would lose more than it would gain if it left the customs union with the EU.

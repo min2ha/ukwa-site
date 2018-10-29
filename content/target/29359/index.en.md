@@ -10,6 +10,4 @@
   "start_date": "2015-07-25T10:00:00Z"
 }
 
-# National Network of Assessment Centres (NNAC)
-
 The National Network of Assessment Centres represents the majority of DSA Assessment Centres in England and all centres in Wales. 

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guardian, The: Davos: unions call for businesses to share fruits of growth with employees
-

@@ -10,5 +10,3 @@
   "start_date": "2015-09-23T10:00:00Z"
 }
 
-# Historical Thesaurus of Scots
-

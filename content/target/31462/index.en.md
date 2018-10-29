@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# 8-Bit Software
-
 8BS is a Public Domain Library. 8BS is for 8 Bit Acorn Computer and emulator users who want to browse and reminisce the old 8 Bit Acorn computers. 

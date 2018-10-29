@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Glasgow Reformed Presbyterian Church
-

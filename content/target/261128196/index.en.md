@@ -10,6 +10,4 @@
   "start_date": "2015-08-22T10:00:00Z"
 }
 
-# Llais y Dderwentydd
-
 Welsh language newsletter from the Derby Welsh Society published 4 times a year.

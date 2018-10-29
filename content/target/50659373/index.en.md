@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Objective One Partnership for Cornwall and the Isles of Scilly 2000-2006
-
 None

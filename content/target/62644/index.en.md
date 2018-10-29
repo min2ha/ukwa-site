@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Merilang -Daffni Percival
-
 Merilang is a book publisher based in Merionnydd.

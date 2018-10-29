@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Revealed: the secret documents which show the SNP's plan to hold Labour to ransom
-
 None

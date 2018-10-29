@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Rural Theology Association
-
 The Rural Theology Association believes that theology matters and encourages theological thinking on the future of rural churches and on matters of importance to life in rural communities.

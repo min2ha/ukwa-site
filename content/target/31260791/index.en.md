@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Federation for Ulster Local Studies Ltd
-
 None

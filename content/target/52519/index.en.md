@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Craig Martin (@cmartinLD) on Twitter (Liberal Democrats Politician)
-
 Craig Martin stood as Liberal Democrats candidate for North Durham at the 2015 General Election but was not elected. He then stood for Falkirk in 2017 but was not elected.

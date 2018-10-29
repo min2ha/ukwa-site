@@ -10,5 +10,3 @@
   "start_date": "2007-08-08T00:00:00Z"
 }
 
-# CWM: Coalfield Web Materials
-

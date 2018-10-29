@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Donald Trump criticized for ‘told you so’ tweet as horror of Orlando massacre emerged: Candidate began with ‘appreciate the congrats’ for predicting terror attack
-
 Donald Trump caused outrage with his Twitter postings, after thanking his followers for congratulating him about 'being right on radical Islamic terrorism'.

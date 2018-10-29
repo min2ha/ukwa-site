@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Scottish Heritage Fruit Trees
-
 Site of a grower, promoter and seller of fruit produce of Scottish fruit trees, apples, pears and plums.

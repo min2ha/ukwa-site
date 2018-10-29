@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Beth Crumpton- Cross Country Mountain Biker
-
 <p>The blog of cyclist Beth Crumpton, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# United For Grenfell
-
 A mailing list for the campaign for justice organised by Grenfell United. 

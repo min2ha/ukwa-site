@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Christina Rees, Labour, on Twitter
-
 None

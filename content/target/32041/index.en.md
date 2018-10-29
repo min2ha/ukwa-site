@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# National Cycle Museum
-
 National Cycle Museum is in Llandrindod, Powys.

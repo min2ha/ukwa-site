@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Cycling World Magazine
-
 Cycling World Magazine, is a UKcycling magazine for leisure and touring. The Website includes an online shop and events page.

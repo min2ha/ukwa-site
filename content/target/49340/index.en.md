@@ -10,5 +10,3 @@
   "start_date": "2017-02-15T09:00:00Z"
 }
 
-# Severn Bridge Half Marathon
-

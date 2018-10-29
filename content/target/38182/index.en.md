@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Pets for Britain (@petsforbritain) on Twitter
-
 Animals who believe Britain would thrive outside the EU.

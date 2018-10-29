@@ -10,6 +10,4 @@
   "start_date": "2017-04-22T09:00:00Z"
 }
 
-# Handlebards, The
-
 They are a four-strong troupe of cycling actors who carry their set, props & costumes on bicycles to perform.

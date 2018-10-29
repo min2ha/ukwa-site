@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Confederation of British Industry (CBI): Backing Britain's Prosperity: CBI Business Manifesto 2017
-
 With the UK at a crossroads, facing Brexit negotiations and the adoption of new technologies that will define prosperity for generations, the CBI is calling on the next Government to prioritise stability and a long-term vision for the economy.

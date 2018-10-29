@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hertfordshire GAA
-
 The Hertfordshire County Board of the Gaelic Athletic Association (GAA) or Hertfordshire GAA is one of the county boards outside Ireland, and is responsible for Gaelic games in Hertfordshire. The county board is also responsible for the Hertfordshire inter-county teams.

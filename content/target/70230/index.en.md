@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Business in the Community (BITC) Gender Equality (@BITCGender) on Twitter
-
 Twitter account of Business in the Community (BITC) Gender Equality, a campaign working with employers to accelerate change for women at work.

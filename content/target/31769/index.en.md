@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Wildlife Trusts Wales 
-
 Wildlife Trusts Wales works in partnership with the six local Wildlife Trusts in Wales: North Wales, Montgomeryshire, Radnorshire, Brecknock, Gwent, and South and West Wales is the largest voluntary organisation in Wales dedicated to protecting wildlife and wild places. 

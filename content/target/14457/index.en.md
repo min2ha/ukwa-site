@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Nannerch Community website
-
 <p>This is a community website for the village of Nannerch in Flintshire.</p>

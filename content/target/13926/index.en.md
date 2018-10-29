@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# South Lanarkshire Council: Scottish Independence Referendum - Thursday 18 September 2014
-
 None

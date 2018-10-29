@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stratford-upon-Avon Poetry Festival
-
 Festival organised by the Shakespeare Birthplace Trust

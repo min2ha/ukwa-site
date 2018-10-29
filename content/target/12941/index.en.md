@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pier Arts Centre: Orcadia & Other Stories – Zoë Walker & Neil Bromwich, GENERATION
-
 <p>Orcadia &amp; Other Stories is a major exhibition of work by Zoë Walker &amp; Neil Bromwich at the Pier Arts Centre, Stromness, providing a survey of the artist’s work to date alongside new work created especially for the exhibition in Orkney. It is part of GENERATION a celebration of Scottish contemporary art of the last 25 years to mark the Commonwealth Games in Glasgow.</p>

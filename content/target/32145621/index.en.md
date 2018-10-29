@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Litro Online
-
 None

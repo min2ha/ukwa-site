@@ -10,5 +10,3 @@
   "start_date": "2013-06-21T00:00:00Z"
 }
 
-# Valleys Regional Park | Parc Rhanbarthol y Cymoedd
-

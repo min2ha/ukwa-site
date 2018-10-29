@@ -11,5 +11,3 @@
   "subject": "Black and Asian Britain"
 }
 
-# India Dance South West
-

@@ -10,5 +10,3 @@
   "start_date": "2009-02-03T00:00:00Z"
 }
 
-# Biotechnology and Biological Sciences Research Council
-

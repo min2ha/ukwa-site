@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: No-deal Brexit 'no problem', Nigel Farage says at Leave Means Leave rally
-
 Report on the first of a series of pro-Brexit rallies organised by the Leave Means Leave group, designed to put pressure on Theresa May

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mick Brennan Skier Facebook
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Green Man Festival
-
 The Green Man Festival is an annual music festival held in the Brecon Beacons.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: General Election 2015: David Cameron's main hope is the return of the 'shy Tories'
-
 None

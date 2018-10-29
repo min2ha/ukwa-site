@@ -10,6 +10,4 @@
   "start_date": "2017-02-03T09:00:00Z"
 }
 
-# City of Glasgow College
-
 Site of a further and vocational education college located in Glasgow, Scotland.

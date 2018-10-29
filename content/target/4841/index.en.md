@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# New Left Project: Should the Left celebrate Mandela?
-
 <p>Blog posting by David Renton, on 8 December 2013, in response to criticisms that Mandela's ANC in the 1990s was politically to the right of its electorate and did not challenge neoliberalism.</p>

@@ -10,5 +10,3 @@
   "start_date": "2016-02-05T09:00:00Z"
 }
 
-# Make Poverty History Wales
-

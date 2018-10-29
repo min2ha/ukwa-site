@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Mature Times (@MatureTimes) on Twitter
-
 The UK's campaigning free newspaper for the #over50s.

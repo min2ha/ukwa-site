@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Prepare for a backlash if the Tories make the wrong Brexit deal
-

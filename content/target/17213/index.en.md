@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Labour's 500k help from 'tax avoidance' firm
-
 None

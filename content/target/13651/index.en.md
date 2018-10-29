@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Journal Online, The: Ian Smart on the ABS referendum result
-
 None

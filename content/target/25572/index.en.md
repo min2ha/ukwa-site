@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Do the parties’ sums add up? How the IFS became the ultimate arbiter
-
 None

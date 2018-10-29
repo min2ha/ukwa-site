@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Côr Merched Côrisma Welsh Girls Choir
-
 Côrisma is a choir founded in Cwmann, Lampeter by Carys Lewis and Sian Roberts Jones in 2006.  

@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Garnethill Synagogue
-
 Site of a Jewish congregation and synagogue located in Garnethill, Glasgow.

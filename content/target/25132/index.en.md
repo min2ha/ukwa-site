@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Election 2015 updates: Outing the Twitter 'Cameronettes' and another Grant Shapps identity
-
 None

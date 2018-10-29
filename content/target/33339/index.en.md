@@ -10,6 +10,4 @@
   "start_date": "2015-12-09T09:00:00Z"
 }
 
-# Heather Writes
-
 Heather McDaid posts book reviews and writes about bookselling and publishing in Scotland.

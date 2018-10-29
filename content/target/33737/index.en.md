@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Sun, The: Tory MP newbies plan on pressing for Brexit in a major blow to David Cameron
-

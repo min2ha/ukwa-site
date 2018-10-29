@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Magical Lantern Festival
-
 Christmas themed lantern festival

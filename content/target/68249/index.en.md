@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cranleigh RFC
-
 Cranleigh Rugby Club are a competitive, friendly, family club playing in Surrey 2 with a thriving Mini and Junior section.

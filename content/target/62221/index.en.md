@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Field Mill Stadium
-
 Field Mill, currently known as One Call Stadium for sponsorship reasons, is a football ground in Mansfield, Nottinghamshire, England, and the home of Mansfield Town Football Club. 

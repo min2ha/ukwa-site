@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Great Families of The Great War Personal Memories And Reflections From Old Rotherham, The 
-
 The project focus is on the 'living memories' of children born during and in the immediate aftermath of 'The Great War', those children’s stories and those of their families are forgotten. 

@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# BT.com
-
 None

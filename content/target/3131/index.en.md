@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Royal Geographical Society
-
 The Royal Geographical Society (with the Institute of British Geographers) is the UK's learned society and professional body for geography, founded in 1830. 

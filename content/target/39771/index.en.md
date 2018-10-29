@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU referendum: Britain should leave European Convention on Human Rights but not EU, says Theresa May
-

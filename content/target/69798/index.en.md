@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Vaughan Gething | Togethor for the Future
-
 This is the official website of Vaughan Gething's campaign to be leader of Welsh Labour in 2018.

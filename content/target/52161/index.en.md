@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Public Reading Room: Writing - Jeff Goulding
-
 Jeff Goulding is a story teller from Liverpool. He writes fiction, political articles and about Liverpool Football Club. He has a regular section in PRR. He has written extensively about supporting Jeremy Corbyn and the Labour Party.

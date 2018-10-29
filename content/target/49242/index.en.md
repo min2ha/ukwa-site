@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: We can’t stop Brexit now, but we can plan for a better Britain
-

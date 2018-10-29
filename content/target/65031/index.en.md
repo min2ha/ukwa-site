@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Badenoch & Clark
-
 Badenoch & Clark provides specialist recruitment solutions to meet your needs

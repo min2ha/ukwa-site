@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sean David Dobson (@seanddundeewest) on Twitter
-
 Twitter profile of Sean Dobson, Independent candidate for Dundee West in the 2017 general election.

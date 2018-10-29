@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Daily Press: Amazing Magna Carta cake made by Christine Jensen goes on display at Salisbury Cathedral
-

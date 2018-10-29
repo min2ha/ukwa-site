@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Glenfinnan Station Museum
-
 Site of a museum located in the working railway station at Glenfinnan focusing on the history of working on the West Highland Line.

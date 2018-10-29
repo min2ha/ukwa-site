@@ -10,6 +10,4 @@
   "start_date": "2017-10-12T09:00:00Z"
 }
 
-# Islay Gaelic Choir | Isle of Islay
-
 This is the English language website of the Islay Gaelic Choir.

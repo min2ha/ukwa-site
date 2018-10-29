@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Abbfest
-
 Website for Abbfest; a food, beer, and music festival

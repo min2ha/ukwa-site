@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Matt Gordon (@socialistmatt) on Twitter (Candidate for the Trade Unionist and Socialist Coalition Party) )
-

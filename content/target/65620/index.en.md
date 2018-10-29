@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# CALA Homes
-
 CALA Homes is a housebuilding company headquartered in Edinburgh, Scotland.

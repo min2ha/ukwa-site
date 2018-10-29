@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Marlborough News Online
-

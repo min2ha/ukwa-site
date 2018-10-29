@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Pandy Lane Pentecostal Church
-

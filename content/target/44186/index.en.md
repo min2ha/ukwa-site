@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# David Campbell Bannerman (Conservative) on Twitter
-

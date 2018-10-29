@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: The Guardian view on Theresa May and Brexit: time to get off her fantasy island
-

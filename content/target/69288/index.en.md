@@ -10,6 +10,4 @@
   "start_date": "2018-07-25T09:00:00Z"
 }
 
-# UKTraining
-
 UKTraining has been delivering training in various financial and legislative subjects for over 30 years. Tens of thousands of people from thousands of the UK's leading organisations have benefited from our training. More than 90 of the top 100 UK companies have nominated people to attend our training courses and seminars.

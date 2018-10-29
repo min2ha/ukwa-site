@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hemel Today: Magna Carta copies brought together
-

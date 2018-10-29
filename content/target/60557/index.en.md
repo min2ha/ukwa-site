@@ -10,6 +10,4 @@
   "start_date": "2018-01-27T09:00:00Z"
 }
 
-# Sarah Atherton (@AthertonNWales) on Twitter 
-
 Sarah Atherton is the Conservative candidate for Alyn and Deeside at the 2018 Assembly by-election.

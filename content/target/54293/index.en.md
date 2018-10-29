@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Raised By Feminists (@RBF_MCR) on Twitter
-

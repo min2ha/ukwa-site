@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Spectator, The: Liam Fox: May is better than Cameron
-
 Report of an interview with International Trade Secretary Liam Fox, in which he discusses his views on the EU and Brexit.

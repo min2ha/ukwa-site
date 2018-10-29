@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Brexit could undermine the rights of disabled people
-
 A discussion of the dangers of Brexit for disabled people's rights

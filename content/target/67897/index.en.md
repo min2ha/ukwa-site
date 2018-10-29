@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Boston Rugby Club
-
 Teamwork, Respect, Enjoyment, Discipline and Sportsmanship

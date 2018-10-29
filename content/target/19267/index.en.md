@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# London Evening Standard: David Cameron faces jibes at home after failing history test on David Letterman’s Late Show 
-

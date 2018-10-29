@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of Paediatrics and Child Health: Mental Health
-
 A sub section of the RCPCH site on the importance of considering mental health in  children

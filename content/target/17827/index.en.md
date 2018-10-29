@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Mandelson cautions Labour on pre-poll tuition fee move
-
 None

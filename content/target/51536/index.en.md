@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Big Burns Supper
-
 Site of an annual festival of music, dance and literature located in Dumfries and surrounding the annual celebration of Robert Burns' birth.

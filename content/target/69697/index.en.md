@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Charles Borromeo
-
 Site of a Roman Catholic church in Scotland for the parish of St. Charles Borromeo, North Kelvinside, Glasgow.

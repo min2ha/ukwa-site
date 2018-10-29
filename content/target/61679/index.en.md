@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent, The: "Can you have a healthy relationship with your phone?"
-
 The Independent article about internet, mental health and phone use 

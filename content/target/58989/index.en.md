@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Iqra Learning Centre
-
 Site of an Islamic cultural, community and education centre located in Glasgow.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Over Stowey Parish
-
 overstowey.com is no longer the Over Stowey Parish Council website. The Parish Council now have their website at overstoweyparishcouncil.co.uk

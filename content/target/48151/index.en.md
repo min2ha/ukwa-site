@@ -10,6 +10,4 @@
   "start_date": "2017-01-11T09:00:00Z"
 }
 
-# National Library of Wales: David Lloyd George, 1886 Diary
-
 This diary is from a collection of the papers of William George, David Lloyd George's brother, which was purchased by the National Library of Wales in 1989. The diary from 1886 contains an account of his personal life and his political career. 

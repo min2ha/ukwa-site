@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: PM's pathetic EU non-deal has disgusted UK – we're up against a new Reich, says PETER HILL
-
 Column by Peter Hill

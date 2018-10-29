@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Caithness Presbytery
-
 Site of the Church of Scotland Presbytery covering the historic county of Caithness, Highland.

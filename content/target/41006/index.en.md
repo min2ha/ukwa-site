@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Catrine Community Trust
-
 Site of a community trust based in the village of Catrine in East Ayrshire, Scotland, provinding information to residents of the village as well as working for the interests of the community as a whole.

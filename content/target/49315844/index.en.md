@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Jonathan Mitchell QC
-

@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Bwcabus
-
 Bwcabus is a collaboration between Pembrokehire, Ceredigion and Carmarthenshire County Councils, in partnership with TrawsCymru, the long distance bus service for Wales, offers a bus service that is tailored to the needs of passengers by allowing them to book a bus when it is required.

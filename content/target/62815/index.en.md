@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Ending the limbo: the case for ring-fencing EU27 and UK citizens’ rights after Brexit – with a proposed text
-
 The European Commission proposal for a text of the Brexit withdrawal agreement may well run in to difficulties and not be approved, due to disagreements over the status of the Irish border or possibly other reasons. In that case, what happens to the provisions on EU27 citizens living in the UK, and UK citizens living in the EU27, before Brexit day? In order to ensure for them the maximum certainty about their immigration status, there is a strong case to remove these provisions from the main text of the withdrawal agreement and approve them in a separate agreement, so that they are in force no matter what happens to the negotiations on the rest of the withdrawal agreement.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Buckinghamshire Military Museum
-
 The Buckinghamshire Military Museum Trust preserves the heritage of the local military units raised in the historic county of Buckinghamshire in England from the 1500s onwards, including the Militia, Yeomanry, Volunteers, Territorials, and Home Guard.

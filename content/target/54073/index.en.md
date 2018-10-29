@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Helen Hims (@helenhims) on Twitter (UKIP  Politician)
-
 Helen Him stood as UK Independence Party (UKIP) candidate in the constituency of Weston-Super-Mare in the 2017 General Election but was not elected.

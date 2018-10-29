@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# East of Scotland Football Association & League
-
 Site representing the football association and league of the amateur association football competitions run in throughout Fife, Edinburgh and the South East of Scotland

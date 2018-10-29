@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Protect Maternity Services
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tax and benefits changes will help 14m households – George Osborne
-
 None

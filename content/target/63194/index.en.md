@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK opposes Brexit threat to role in EU's Galileo scheme
-
 British companies could be frozen out of the European space industry after Brexit,according to the the European Commission which cited security concerns.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nottingham University Hospitals
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-01-31T09:00:00Z"
 }
 
-# Celtic Lodge No. 291
-
 Site of a masonic lodge located in central Edinburgh and affiliated with the Grand Lodge of Scotland.

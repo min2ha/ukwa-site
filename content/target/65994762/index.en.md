@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# UK DonorLink (UKDL)
-
 None

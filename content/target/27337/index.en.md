@@ -10,6 +10,4 @@
   "start_date": "2015-06-06T08:00:00Z"
 }
 
-# Mothers' Union Kilmore, Elphin and Ardagh 
-
 Mothers' Union is an international Christian charity that seeks to support families of all faiths and none through practical outreach, prayer and advocating family friendly policies within both government and public life. 

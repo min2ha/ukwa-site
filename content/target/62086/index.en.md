@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# engadget: New tech 'addictions' are mostly just old moral panic
-
 News article about gaming addiction and the possiblity that it is just moral panic due to new values being asserted by the new generation

@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Time 4 Trees
-
 The Time 4 Trees project concept was established in 2006 by nurseryman Richard Thorpe of national nursery stock company R & N Plant Specialists.

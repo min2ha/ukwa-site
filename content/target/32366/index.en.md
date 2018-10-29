@@ -10,5 +10,3 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Gŵyl Gerdded Cymoedd Cymru 2015 | Wales Valleys Walking Festival 2015
-

@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Wetnose Animal Aid 
-
 Wetnose day is a fundraising event organisaed by Wetnose Animal Aid to help struggling Animal Rescue Centres. The money is used to help pay off vets bills, buying equipment or animal feed to help them in their day to day work.

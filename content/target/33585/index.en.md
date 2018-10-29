@@ -10,6 +10,4 @@
   "start_date": "2015-12-18T09:00:00Z"
 }
 
-# Jupiter Artland
-
 Jupiter Artland is a sculpture park based in the grounds of Bonnington House, near Edinburgh.

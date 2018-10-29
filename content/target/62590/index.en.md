@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 12th March 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a Committee of the whole House, continues to debate amendments to the European Union (Withdrawal) Bill, focusing on alignment with new EU regulations on clinical trials and data protection, and powers to impose taxes and create criminal offences by regulation

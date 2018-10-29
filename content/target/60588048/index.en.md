@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# 125 yeqars of Roedean
-
 None

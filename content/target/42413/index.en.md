@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Pound slides to fresh lows after polls show growing Brexit support
-

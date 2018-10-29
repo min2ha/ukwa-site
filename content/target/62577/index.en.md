@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Biggar Parish Church
-
 Site of a Church of Scotland parish church at Biggar, Lanarkshire, incorporating Black Mount Parish Church Black Mount Parish Church.

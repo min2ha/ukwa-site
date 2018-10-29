@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# London School of Jewish Studies
-
 Official website of London School of Jewish Studies.

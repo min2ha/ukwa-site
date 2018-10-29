@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Orkney Assemblies
-
 Site of a group of evangelical Christian churches in Orkney.

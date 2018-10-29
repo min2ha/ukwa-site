@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# Hillingdon Conservatives (@Hillingdon_Tory ) on Twitter
-

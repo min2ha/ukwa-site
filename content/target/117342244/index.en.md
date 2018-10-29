@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Shutdown Sizewell Campaign
-
 None

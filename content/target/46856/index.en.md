@@ -10,6 +10,4 @@
   "start_date": "2016-11-09T09:00:00Z"
 }
 
-# Craig y Don 
-
 The website is a community resource for anyone living in or visiting Craig y Don, Llandudno, Conwy Borough.

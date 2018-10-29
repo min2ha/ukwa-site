@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Medway Valley Countryside Partnership
-
 Medway Valley Countryside Partnership is based at Sandling just outside of Maidstone.

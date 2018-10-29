@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# ABTA: Zika virus
-
 UK travel industry body discussion of Zika issues.

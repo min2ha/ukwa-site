@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Voice: Nearly half of Voice readers know who they are voting for
-
 None

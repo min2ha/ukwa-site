@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Voices: Mark Steel: Crestfallen, dumbfounded, disbelieving. How could we have been so fooled?
-
 None

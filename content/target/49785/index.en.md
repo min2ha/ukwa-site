@@ -10,6 +10,4 @@
   "start_date": "2017-02-28T09:00:00Z"
 }
 
-# Lochgelly Band
-
 Site of an amateur brass ban based in Lochgelly, Fife.

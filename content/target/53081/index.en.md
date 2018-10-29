@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tynedale Greens (@tynedalegreens) on Twitter
-
  The official Twitter account for Tynedale Green Party in the Hexham constituency.

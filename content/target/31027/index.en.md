@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Inverness Gaelic Choir
-
 The website of Inverness Gaelic Choir; the choir sing traditional and modern Gaelic songs.

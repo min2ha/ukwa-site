@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Margaret Curran - Scottish Labour Candidate for Glasgow East
-

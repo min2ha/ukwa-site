@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# DeafPLUS: Manifesto 2017
-
 British charity deafPLUS calls upon the UK Political parties to support measures which, taken together, would transform the lives of D/deaf people and people living with hearing loss. The manifesto measures are designed to end isolation, better integrate deaf people into local communities and improve quality of life.

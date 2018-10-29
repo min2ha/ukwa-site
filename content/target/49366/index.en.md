@@ -10,6 +10,4 @@
   "start_date": "2017-02-15T09:00:00Z"
 }
 
-# Epping Forest Centenary Trust (EFCT)
-
 Epping Forest Centenary Trust (EFCT) is a small independent charity dedicated to offering opportunities to groups and individuals from London and the local area to access Epping Forest and take part in conservation and Forest awareness activities.

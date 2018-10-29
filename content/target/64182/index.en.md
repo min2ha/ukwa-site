@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Royal Burgh of Peebles Callants Club
-
 Site of an all-male club built around the annual Beltane Festival in the town of Peebles, Scottish Borders.

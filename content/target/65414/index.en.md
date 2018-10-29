@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Cateran’s Common Wealth
-
 Site of a project staging a multi-year programme of diverse arts, cultural and heritage activities and events aimed at inspiring people to think about and celebrate our ‘common wealth’.

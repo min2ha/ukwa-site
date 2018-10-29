@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cardiff Central Labour on Facebook
-
 Facebook page of Cardiff Central Labour

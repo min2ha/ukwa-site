@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# officialj4g (@officialj4g) on Instagram
-
 Instagram account for "officialj4g", representing the Justice4Grenfell group.

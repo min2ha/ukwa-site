@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mandy Telford for Central Scotland
-
 Mandy Telford is the Scottish Labour Party candidate for Falkirk West constituency in the 2016 Scottish Parliamentary election.

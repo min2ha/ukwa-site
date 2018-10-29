@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# London Assembly. Economy Committee:  EU Exit and financial services
-
 The London Assembly Economy Committee took evidence from representatives from the financial services sector and industry experts to understand the risks associated with EU exit for the sector. This short report sets out these risks, explores what the future might hold for the City, and considers how the Mayor can respond to protect its success.

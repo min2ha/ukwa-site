@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Vince Cable (Liberal Democrats Politician)
-
 Vince Cable stood as Liberal Democrat candidate for Twickenham at the 2015 General Election but was not elected. He was re-elected at the 2017 General Election and subsequently campaigned to be party leader which he won.

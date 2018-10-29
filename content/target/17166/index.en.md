@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Red Len bails out Red Ed with £1.5m
-
 None

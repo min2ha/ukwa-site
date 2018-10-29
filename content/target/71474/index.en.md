@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# Sun, The: RAAB JABS LABOUR The Brexit Secretary has accused Labour of taking the UK ‘back to square one’ by delaying the Brexit process
-
 Dominic Raab formally wrote to Shadow Brexit Secretary Keir Starmer demanding the Labour party clarified it's position of a second referendum. He said that a string of remarks from senior figures gave the impression that Labour wanted to suspend negotiations with the EU altogether.
 
 

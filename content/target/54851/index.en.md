@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Am I Pretty Now?: TOP 3 CAMPAIGNS TRYING TO MAKE YOU FEEL BEAUTIFUL
-
 Am I Pretty Now? Blog Post

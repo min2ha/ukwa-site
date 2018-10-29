@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Sex lessons for pupils aged five under Labour
-
 None

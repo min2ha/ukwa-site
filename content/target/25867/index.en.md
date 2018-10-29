@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Three-minute election: Will the SNP drag Labour to the left? – video
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2017-06-07T09:00:00Z"
 }
 
-# Tirgwynt Wind Farm, Powys 
-

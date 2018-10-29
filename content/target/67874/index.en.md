@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News:  New Brexit defeat for government in Lords
-
 On June 18th 2018, peers decided MPs should have to approve whatever the government decided to do next if there was no final agreement with the EU.  Their amendment to the EU (Withdrawal) Bill was backed by 354 votes to 235.
 

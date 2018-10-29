@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# NWMAS Ltd (North Wales Military Aviation Services Ltd)
-
 NWMAS Ltd (North Wales Military Aviation Services Ltd) is based at Hawarden Airport and was formed to meet a requirement for maintenance of military aircraft and flying training in ex-military aircraft.

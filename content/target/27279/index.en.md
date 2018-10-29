@@ -10,5 +10,3 @@
   "start_date": "2015-06-05T09:00:00Z"
 }
 
-# Schools for the Future : a community vision for 21st Century education in mid and northwest Pembrokeshire
-

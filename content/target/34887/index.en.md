@@ -10,6 +10,4 @@
   "start_date": "2016-02-02T09:00:00Z"
 }
 
-# Engineers Without Borders UK
-
 Engineers Without Borders UK works with partner organisations on development projects around the world.

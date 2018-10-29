@@ -10,6 +10,4 @@
   "start_date": "2017-12-19T09:00:00Z"
 }
 
-# Cambuslang Rugby Club
-
 Site of a rugby union football club located at Cambusland, south east Glasgow.

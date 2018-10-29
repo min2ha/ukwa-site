@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 12th March 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a Committee of the whole House, continues to debate amendments to the European Union (Withdrawal) Bill, focusing on its impact on the devolved administrations in Scotland, Wales and Northern Ireland.

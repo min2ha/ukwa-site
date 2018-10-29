@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Integrated Resources Ltd
-

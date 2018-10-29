@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Chichester District Council
-
 The website of Chichester District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending. 

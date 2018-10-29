@@ -10,5 +10,3 @@
   "start_date": "2007-04-11T00:00:00Z"
 }
 
-# Neurosupport
-

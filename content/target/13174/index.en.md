@@ -11,5 +11,3 @@
   "subject": "News Sites"
 }
 
-# DnG24: In association with Annandale Observer, Dumfries Courier, Annandale Herald and Moffat News
-

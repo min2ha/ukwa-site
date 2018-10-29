@@ -10,6 +10,4 @@
   "start_date": "2018-04-28T09:00:00Z"
 }
 
-# Initial Care Services
-
 Care Home Workers. We are committed to providing healthcare professionals to nursing and residential homes in the UK

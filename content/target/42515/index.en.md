@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: The true cost of our open borders revealed: EU migrants are MORE likely to have a job in the UK than British citizens   
-

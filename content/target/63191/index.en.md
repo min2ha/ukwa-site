@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Vote Leave chief Dominic Cummings denies Cambridge Analytica links
-
 The director of Vote Leave denies allegations of links between his campaign and Cambridge Analytica. Mr Cummings claimed stories alleging links between Cambridge Analytica and Vote Leave in the Observer were being promoted because a "powerful set of people will do anything to try to shift public opinion in order that they can overturn the referendum".

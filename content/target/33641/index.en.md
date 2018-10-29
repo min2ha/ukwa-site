@@ -10,6 +10,4 @@
   "start_date": "2016-01-05T09:00:00Z"
 }
 
-# The 1916 Easter Rising: Ireland's history wars
-
 Event page for 'Battle of Ideas' discussion organised by the Institute of Ideas. Speakers: Paul Bew, Ruth Dudley Edwards and James Heartfield, 18 October 2015.

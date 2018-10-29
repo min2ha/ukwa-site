@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T08:00:00Z"
 }
 
-# 150 Patagonia 1865 - 2015
-
 Celebrating 150 since Welsh emigrants reached Patagonia.

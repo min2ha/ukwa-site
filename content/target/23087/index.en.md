@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Manston Airport Independent Party 
-

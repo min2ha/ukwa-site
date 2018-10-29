@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# Sweyn's Ey Morris & Sword Dancers
-
 Sweyn's Ey Morris & Sword Dancers was founded in Llanmadoc in 1966 and was originally known as the “Mighty Men of Madoc”. 

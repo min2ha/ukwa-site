@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Arthurlie Football Club
-
 Site for a Scottish Junior football club based in Barrhead, East Renfrewshire, Scotland.

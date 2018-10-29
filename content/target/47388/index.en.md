@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Young Ambassadors Wales
-
 The young ambassador movement is a Sport Wales and aims to empower and inspire young people to become role models and leaders through sport.

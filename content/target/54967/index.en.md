@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TheCityUK: The impact of Brexit on the UK-based legal services sector
-
 The UK legal services sector, which forms an integral part of the ecosystem that makes up the world’s leading global financial centre, is the most international legal sector in the world. It is a vital asset for the UK. This paper discusses and identifies the key Brexit related issues which have the potential to impact on the competitiveness of the UK’s legal sector, as well as identifying possible opportunities.

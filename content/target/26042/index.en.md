@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What's in a constituency name? Not much, if you live in Croydon
-
 None

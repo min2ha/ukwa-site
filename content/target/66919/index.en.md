@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Filibuster
-
 Filibuster UK is a platform for young people to get their opinions published. Filibuster is a non-partisan organisation – we don’t take sides. Instead, we guarantee all our writers the independence and freedom take sides on the political causes and issues as they so wish.

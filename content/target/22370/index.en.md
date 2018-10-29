@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Llafur Ynys Mon Labour
-
 Website of Llafur Ynys Mon Labour, providing information on representatives and candidates, councillors and party officers and local, national and party news.

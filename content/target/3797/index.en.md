@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Bristol Post, The
-
 None

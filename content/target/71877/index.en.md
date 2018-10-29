@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK 'would forever regret' losing carmakers - minister
-
 The UK "would regret it forever" if it lost its status as a world leader in car manufacturing after Brexit, according to Business Secretary Greg Clark. He added it was "concerning" that Toyota UK had told the BBC that if Britain left the EU without a deal it would temporarily halt production at its factory in Burnaston, near Derby.
 
 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Why are 'patriotic' Brexiteers risking the break-up of the UK? Hard-line Eurosceptics have forgotten their roots in the row over the Irish border
-

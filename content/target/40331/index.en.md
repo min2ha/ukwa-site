@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Refurbishment of war memorial and three Heritage Projects
-
 Project to refurbish Leicester Village War Memorial and 3 other heritage projects.

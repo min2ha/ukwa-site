@@ -10,6 +10,4 @@
   "start_date": "2018-03-30T09:00:00Z"
 }
 
-# Open Learning - OpenLearn - Open University
-
 Free online learning from The Open University. OpenLearn gives you free access to course materials and expert opinion on topical issues.

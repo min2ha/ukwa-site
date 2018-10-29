@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Come on Theresa, ‘my deal or no deal’ is dead in the water - it’s time for the Reverse Ferret!
-
 Calls on Theresa May to abandon the Chequers plan and choose another course for negotiating EU exit

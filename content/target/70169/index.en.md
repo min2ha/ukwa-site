@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Chimney Corner Ladies
-
 Chimney Corner Ladies are a Northern Irish football club currently playing in North Division 2 of the Northern Ireland Women's Football Association.

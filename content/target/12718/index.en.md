@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nile Wilson
-
 <p>The website of gymnast Nile Wilson, member of Team England for the Commonwealth Games.</p>

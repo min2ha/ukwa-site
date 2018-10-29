@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Bringing up Charlie
-
 None

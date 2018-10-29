@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# The Worshipful Company of Arbitrators
-
 The City of London has long been an international centre for Arbitration and dispute resolution. The Masters of the early Guilds, the forerunners of today's Livery Companies, often acted as arbitrators in disputes between guild members and between those members and their customers.

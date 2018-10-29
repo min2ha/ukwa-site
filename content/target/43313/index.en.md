@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Margot Parker (UKIP MEP for the East Midlands)
-
 Margot Parker stood as UKIP candidate for the East Midlands at the 2014 European Parliament election and was elected to serve as MEP.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Youth votes in May's General Election can end grey future for this country
-
 None

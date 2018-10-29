@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit white paper: Climbdown or goodwill gesture
-
 Comments on Prime Minister Theresa May's announcement that she would bow to pressure and publish a white paper on her Brexit strategy.

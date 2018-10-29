@@ -10,8 +10,6 @@
   "start_date": "2015-06-16T10:00:00Z"
 }
 
-# Science Fact & Science Fiction Concatenation - Jonathan Cowie
-
 The Science Fact & Science Fiction Concatenation is the
 seasonal review of science fact and science fiction. Formerly the (1987-1997)
 annual (paper) magazine distributed at the British national SF convention and European SF

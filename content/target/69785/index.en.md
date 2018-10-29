@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NICE: Digital psychological therapy briefing, Deprexis for adults with depression
-
 A NICE summary highlighting the benefits of digital psychological therapy, 'Deprexis' for adults with depression. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Evening Telegraph, The: Exhausted Matthew smashes fundraising target after 24-hour gaming marathon
-
 Article regarding Matthew Thomson who raised money for Dundee Association for Mental Health (DAMH) by playing online games for 24 hours and streaming the session live

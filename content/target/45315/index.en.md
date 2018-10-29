@@ -10,6 +10,4 @@
   "start_date": "2016-09-09T10:00:00Z"
 }
 
-# Fundraising Regulator (FR)
-
 The Fundraising Regulator is the independent regulator of charitable fundraising. They were established following the Etherington review of fundraising self-regulation (2015) to strengthen the system of charity regulation and restore public trust in fundraising. Previous to this the Fundraising Standards Board (FRSB) ran the UK’s self-regulatory scheme for fundraising.

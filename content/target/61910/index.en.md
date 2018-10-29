@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Parish Church of Scotland / Brydekirk Parish Church
-
 Site of two Church of Scotland parish churches at Annan and Brydekirk, Dumfries and Galloway.

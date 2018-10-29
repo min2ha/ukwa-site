@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Laura Kuenssberg (@bbclaurak) on Twitter
-
 Laura Kuenssberg is the Political Editor at the BBC.

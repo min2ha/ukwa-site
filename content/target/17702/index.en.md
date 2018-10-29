@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Catholic bishops cite poverty as key issue for UK parties at election
-
 None

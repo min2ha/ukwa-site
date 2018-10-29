@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Modbury
-
 Modbury, is a small town (pop. approx 1500) dating from the 8th century located in a region known as the South Hams in Devon, England, surrounded with rolling hills, wooded glades and winding country lanes.

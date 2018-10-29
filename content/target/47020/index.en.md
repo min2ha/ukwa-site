@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# MagicWeek
-
 MagicWeek is designed and produced by Duncan Trillo and is updated every Saturday. Its function is to act as a UK magic news and reference source, for magicians worldwide. 

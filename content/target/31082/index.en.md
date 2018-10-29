@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# Think Grass Snake
-
 Website to raise awareness of grass snakes in Jersey.

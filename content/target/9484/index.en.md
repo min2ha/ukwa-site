@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Daily Telegraph: Ukip will 'shake up' British politics in 2014, says Nigel Farage
-
 None

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Twf: Cymraeg o'r Crud
-
 The site is a governmental website providing advice to parents on raising children in welsh and english languages from day 1.

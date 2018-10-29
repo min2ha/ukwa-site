@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Durham Liber Vitae Project (DLV)
-
 The web site of the Durham Liber Vitae Project. This site was updated with work-in-progress during the course of the project and seminar reports, and aims to provide research resources. The Durham Liber Vitae is a confraternity book produced in north-eastern England in the Middle Ages. 

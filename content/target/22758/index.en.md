@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Matthew O'Callaghan (Labour candidate for Loughborough)
-

@@ -10,6 +10,4 @@
   "start_date": "2017-03-17T09:00:00Z"
 }
 
-# Witterpedia
-
 This site is dedicated to the in-jokes and recurrent themes present in the Kermode and Mayo's Film Review show, which broadcasts on Fridays on BBC Radio 5 Live. 

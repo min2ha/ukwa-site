@@ -11,6 +11,4 @@
   "subject": "E-publishing Trends/Emerging Formats"
 }
 
-# Diffusion eBooks
-
 None

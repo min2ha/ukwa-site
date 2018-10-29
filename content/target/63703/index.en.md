@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Maybole and Crosshill Parish Church
-

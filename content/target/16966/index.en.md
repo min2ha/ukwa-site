@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Members of Parliament @TelePolitics/Members of Parliament on Twitter
-
 A public Twitter list curated by Telegraph Politics

@@ -10,6 +10,4 @@
   "start_date": "2018-06-14T09:00:00Z"
 }
 
-# Midsummer Beer Happening
-
 Site of an annual beer festival staged in Stonehaven, Aberdeenshire.

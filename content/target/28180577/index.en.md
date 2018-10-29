@@ -10,5 +10,3 @@
   "start_date": "2009-04-26T00:00:00Z"
 }
 
-# HM Revenue & Customs
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Callum Laidlaw (@CLaidlaw) on Twitter
-
 Twitter profile of Callum Laidlaw, Scottish Conservative and Unionist party candidate for Falkirk in the 2017 general election.

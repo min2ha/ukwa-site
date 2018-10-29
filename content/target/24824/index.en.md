@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Caroline Lucas (@CarolineLucas ) on Twitter (Green Party  Politician)
-
 Caroline Lucas stood as Green Party candidate for Brighton Pavilion at the 2010 General Election. She was first elected to serve as the MP for Brighton Pavilion in 2010 and re-elected in 2015. She stood for re-election again in 2017 and was successful.

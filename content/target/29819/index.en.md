@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# ZOO Venues (@ZOOvenues) on Twitter
-
 Twitter profile of ZOO Venues, a venue management company responsible for two theatres taking part in the Edinburgh Fringe Festival.

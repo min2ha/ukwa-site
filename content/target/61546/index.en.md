@@ -10,6 +10,4 @@
   "start_date": "2018-02-23T09:00:00Z"
 }
 
-# Aberlemno
-
 Site of community website for the village of Aberlemno, Angus, providing information on activities and society in the village, history and the Community Council.

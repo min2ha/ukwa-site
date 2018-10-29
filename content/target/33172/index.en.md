@@ -10,6 +10,4 @@
   "start_date": "2015-12-04T09:00:00Z"
 }
 
-# Space4U
-
 Space4U is based at Trinity Methodist Church, Cardiff. It is a comfortable and welcoming space, especially for people who are seeking asylum or are refugees. 

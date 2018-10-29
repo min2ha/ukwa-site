@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Jenner Institute Vaccine Trials on Facebook
-
 None

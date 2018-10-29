@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Justice Gap, The: So just how great is Theresa may's 'Great Repeal Bill'?
-
 Though the Great Repeal Act will repeal the European Communities Act, it will not, and is not designed, to rid the UK of EU law. This is because the Government has finally cottoned on to the fact, and accepted what everyone was telling them before the June vote, that to try and get rid of four decades of EU law would be a monumental, if not impossible, task. So what the Great Repeal Bill will do is preserve EU law in ‘aspic’, before converting the despised laws of the EU into wonderful British laws overnight on Brexit day, when the Bill will presumably become an Act of Parliament.

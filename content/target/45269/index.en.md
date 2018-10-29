@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Expat Focus
-

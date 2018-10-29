@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# South African High Commission
-
 None

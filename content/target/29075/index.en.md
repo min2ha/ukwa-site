@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Ashfield and Eastwood Liberal Democrats
-
 Website of Ashfield and Eastwood Liberal Democrats, providing local and national party news and information on district and county councillors and local authorities.

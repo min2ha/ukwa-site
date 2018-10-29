@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# House Folk Music Festival
-
 Site of a Scottish traditional / folk music festival located in the village of Kinlochard, Stirlingshire.

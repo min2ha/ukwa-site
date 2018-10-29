@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# sportscotland (@sportscotland) on Twitter
-
 National Agency for Sport in Scotland. 

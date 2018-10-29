@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Margaret McDougall MSP
-
 Margaret MacDougall was Scottish Labour Member of the Scottish Parliament for West Scotland from 2011 to 2016.

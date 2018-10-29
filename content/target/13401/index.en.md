@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Richard Lochhead (RichardLochhead) on Twitter
-
 Twitter profile of Richard Lochhead, the Scottish National Party member of the Scottish Parliament for Moray and Cabinet Secretary for Rural Affairs and the Environment.

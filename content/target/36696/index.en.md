@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Boris Johnson calls the EU 'a jail with the door left open' and says it would be 'wonderful' to leave
-

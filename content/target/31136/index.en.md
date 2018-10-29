@@ -11,6 +11,4 @@
   "subject": "Video Games"
 }
 
-# Retro Gaming Collector
-
 Retro Gaming Collector is a website dedicated to historical games, computers and consoles.

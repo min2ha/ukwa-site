@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The EU referendum: a guide to the UK's biggest political decision of the century
-
 Guardian, The

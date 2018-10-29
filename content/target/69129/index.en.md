@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elle: The Internet Is Divided Over These Mental Illness Necklaces And We Are Too
-
 A magazine article on a debate around "mental health necklaces"

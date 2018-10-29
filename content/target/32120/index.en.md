@@ -11,7 +11,5 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 17th (Service) Battalion, The Welsh Regiment
-
 This is site for the 17th (Service) Battalion, The Welsh Regiment, also known as the First Glamorgan Bantams. 
 

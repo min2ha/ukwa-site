@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Morphrog
-
 Sister publication to Frogmore Press, focusing on "poetry in the extreme"

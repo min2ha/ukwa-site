@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: The Guardian view on the EU referendum: the vote is in, now we must face the consequences
-
 Guardian, The

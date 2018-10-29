@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: No regrets for Harman or her pink bus as she meets Plymouth voters
-
 None

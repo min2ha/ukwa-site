@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Lawyers for Britain on Facebook
-
 A Facebook page of Lawyers for Britain.

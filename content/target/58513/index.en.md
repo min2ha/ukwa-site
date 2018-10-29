@@ -10,6 +10,4 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# The Corporate Alliance Against Domestic Violence
-
 Founded in 2005, we are the only charitable organisation working on a business-to-business platform to advise companies in addressing and mitigating the risk domestic violence poses to their company and employees.

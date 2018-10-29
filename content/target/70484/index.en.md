@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Resolution Foundation: Women are leading the charge of Britain’s impressive employment record
-
 A blog post by Resolution Foundation, discussing and analysing employment rates statistics of working age women by family type, age and region. 

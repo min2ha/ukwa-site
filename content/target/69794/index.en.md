@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Mark Drakeford ein harweinwyr | Mark Drakeford for Leader 
-
 This is the website for Mark Drakeford's campaign to be leader of Welsh Labour in 2018.

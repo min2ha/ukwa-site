@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: " Counselling for cyberbullying has doubled in five years – children's charity"
-
 The Guardian article about cyberbullying 

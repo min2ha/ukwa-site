@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# BBC: Oxford academics warning of Brexit 'disaster'
-

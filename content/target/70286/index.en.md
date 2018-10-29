@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Newcastle United WFC (@NUWFCOfficial) on Twitter
-
 The official Twitter account for Newcastle United Women's FC playing football in the FA Women's Premier League.

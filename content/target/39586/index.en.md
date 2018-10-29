@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Kiveton Park and Wales WW1 commemoration
-
 The project aims to raise awareness of and commemorate people who lived or worked in the villages of Wales and Kiveton Park and who served in WW1.

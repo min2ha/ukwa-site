@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: David Cameron says UK farmers would suffer outside EU
-
 BBC News: David Cameron says UK farmers would suffer outside EU

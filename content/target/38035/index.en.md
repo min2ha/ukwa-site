@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Whithorn Trust
-
 Site of a trust established to explore the history and archaeology of the town of Whithorn, Dumfries & Galloway [formerly Wigtownshire], Scotland - including its place in the evolution of Christianity in Scotland.

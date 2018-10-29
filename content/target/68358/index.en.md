@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Devon Sharks RLFC
-
 Devon Sharks RLFC - South Devon based Rugby League club, multiple South West Champions

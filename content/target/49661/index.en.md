@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# Techology Scotland
-
 Technology Scotland was formed by the Scottish Optoelectronics Association (SOA) and the NMI, as an independent representative body for Key Enabling Technology (KET) organisations in Scotland; various interests in the technology sector.

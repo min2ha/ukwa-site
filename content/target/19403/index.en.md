@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Sky News: Magna Carta Manuscript Auctioned At Southeby's
-

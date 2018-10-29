@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Simplon Postcards
-
 Simplon Postcards is a reference archive of over 60,000 images showing postcards and photographs of ocean liners, cruise ships, ferries and excursion vessels.

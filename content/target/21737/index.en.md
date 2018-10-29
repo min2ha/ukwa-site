@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Thinktank tells Ukip departing from EU would cost UK economy £56bn
-
 None

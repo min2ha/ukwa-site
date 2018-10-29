@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: US-UK Trade Working Group lays groundwork for potential future free trade agreement
-
 The International Trade Secretary, The Rt Hon Dr Liam Fox MP, and the US Trade Representative, Robert Lighthizer, jointly chaired the plenary session of the first meeting of UK-US Trade and Investment Working Group on Monday 24 July 2017.

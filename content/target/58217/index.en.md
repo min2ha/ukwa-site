@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS:  Does web addiction cause depression?
-
 NHS article about web addiction and depression 

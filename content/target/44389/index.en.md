@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit impact is going to be horrible, says leading City fund manager
-

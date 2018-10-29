@@ -10,6 +10,4 @@
   "start_date": "2016-01-26T09:00:00Z"
 }
 
-# Gower Power Community Co-operative
-
 Gower Power Community Co-operative facilitate local ownership of natural resources through the development of renewable energy co-ops, sustainable agriculture and community currencies.

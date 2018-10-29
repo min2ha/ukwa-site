@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# kiddothemicrobiologist blog: Experiences in Sierra Leone
-
 <p>A blog of a trainee Clinical Scientist in Microbiology at the Ebola Treatment Centre in Makeni, Sierra Leone.</p>

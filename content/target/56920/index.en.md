@@ -10,6 +10,4 @@
   "start_date": "2017-08-30T09:00:00Z"
 }
 
-# We Are 2023
-
 Belfast, Derry and Strabane are to work on a joint bid to become European Capital of Culture in 2023.

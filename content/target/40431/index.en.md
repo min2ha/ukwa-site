@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hospital and Troop Ships 1914-1918 (working title)
-
 The project has at its centre an exhibition on board HQS Wellington highlighting the role played by the Merchant Navy, the doctors and orderlies of the Royal Army Medical Corps and by Military Nursing Sisters in caring for soldiers both outward and homeward bound.

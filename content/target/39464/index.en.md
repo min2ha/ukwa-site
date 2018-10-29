@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T18:12:00Z"
 }
 
-# Grace's Guide Blog | Engineering History
-
 Grace’s Guide is a free-content not-for-profit project dedicated to publishing the history of industry in the UK and around the world, providing a brief history of the companies, products and people who were instrumental in the British Empire and its industry, from the 1800’s right up to the present day.

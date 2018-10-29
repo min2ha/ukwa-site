@@ -10,6 +10,4 @@
   "start_date": "2016-01-20T09:00:00Z"
 }
 
-# Leader Magazine
-
 The Association of School and College Leaders (ASCL) is a leading professional body representing more than 18,000 school, college and system leaders across the UK. Readers of Leader magazine are headteachers, executive heads, CEOs, deputy and assistant heads, senior teachers and their equivalents (principals, vice principals) in sixth form and further education colleges, mostly aged 30-60. Members are located throughout England, Wales, Scotland and Northern Ireland. All members of the Principals’ Professional Council (PPC), Girls’ School Association (GSA) and Headmasters’ and Headmistresses’ Conference (HMC) are members of ASCL.

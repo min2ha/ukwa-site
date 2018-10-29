@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lauren Jones (@LaurenLibDems) on Twitter
-
 Twitter profile of Lauren Jones, the Scottish Liberal Democrat candidate for Kirkcaldy in the 2016 Scottish Parliamentary election.

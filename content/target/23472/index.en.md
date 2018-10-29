@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Summers (Labour Candidate for Uxbridge & South Ruislip)
-

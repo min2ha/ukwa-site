@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent: Facebook is 'destroying' society and making users feel 'vacant and empty', former exec says
-
 News article about comments made by Chamath Palihapitiya, who was the company’s vice president of user growth from 2007 to 2011, who believes facebook has had a negative impact on society 

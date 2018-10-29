@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# David Officer, Green for North-East 2016 on Facebook
-

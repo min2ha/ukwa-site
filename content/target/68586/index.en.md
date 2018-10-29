@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Deloitte: Brexit blog
-
 “Deloitte” is the brand under which independent firms throughout the world collaborate to provide audit, consulting, financial advisory, risk management, tax, and related services to select clients. These firms are members of Deloitte Touche Tohmatsu Limited, a UK private company limited by guarantee (“DTTL”). Each DTTL member firm provides services in particular geographic areas and is subject to the laws and professional regulations of the particular country or countries in which it operates.

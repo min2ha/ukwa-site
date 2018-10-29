@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Wartime Hospital at Beckett's Park, The 
-
 Project to compile material for an illustrated publication on the No 2 Northern General Hospital, which operated during the First World War.

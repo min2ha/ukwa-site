@@ -10,6 +10,4 @@
   "start_date": "2016-11-30T09:00:00Z"
 }
 
-# Edinburgh.org
-
 Marketing site for the city of Edinburgh.

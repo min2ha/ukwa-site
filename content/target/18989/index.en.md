@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: Four original copies of Magna Carta to be brought together for the first time in history
-

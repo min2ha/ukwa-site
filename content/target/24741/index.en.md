@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Robina Rose (Green candidiate for Kensington) (@GreenJennyJones) on Twitter
-

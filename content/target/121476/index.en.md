@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# The Institute for the Study of Civil Society (CIVITAS)
-
 Civitas: The Institute for the Study of Civil Society was founded by David George Green and Robert Whelan early in 2000 as an independent think tank. It is a British registered charity, financed by private donations.

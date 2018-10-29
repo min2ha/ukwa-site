@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Caldicot Male Voice Choir
-
 Caldicot Male Voice Choir was founded in 1963 and can trace its history to the new RTB works (BSC Llanwern) that was completed in 1962.

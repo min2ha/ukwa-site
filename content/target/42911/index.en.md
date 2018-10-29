@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# KDC Theatre
-
 KDC Theatre is a Central London based amateur theatre group dedicated to providing all those who live or work in London with an opportunity to act in, or be involved backstage on, a play.

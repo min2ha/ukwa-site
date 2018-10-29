@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Women's Strike (@Women_Strike) on Twitter
-
 The Women’s Strike is a feminist campaign group that organised demonstrations on International Women's Day 2018.This is the official twitter account.

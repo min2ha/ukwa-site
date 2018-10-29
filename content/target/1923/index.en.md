@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheffield City Council
-
 The website of Sheffield City Councils provides information about its activities and services, finances, planning policy and news. You can also access the consultation portal and read committee papers and minutes.

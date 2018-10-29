@@ -10,6 +10,4 @@
   "start_date": "2015-08-21T10:00:00Z"
 }
 
-# tom cat in the red room
-
 The blog provides literary criticism coverring SFF/Horror/Weird Fic and occasionally comics and theatre. The suthor of the blog id from Cardiff.

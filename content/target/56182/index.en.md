@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Canvey Community Archive
-
 The Canvey Community Archive group was formed in 2006 in partnership with Essex County Council Libraries, The Essex Record Office, East of England Museums, and the Libraries and Archives Council. It is run by the people of Canvey.

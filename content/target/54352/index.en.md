@@ -10,6 +10,4 @@
   "start_date": "2017-06-07T09:00:00Z"
 }
 
-# Mortgage Centre Ltd. (Home Counties)
-
 We are based in Hatfield, Hertfordshire and take pride in giving a professional, friendly and trustworthy service. Home visits can be arranged within a reasonable distance and advice over the telephone is available for those living further away.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wakefield Council
-
 Website of Wakefield Council offers access to information about its activities and services, local news, and events. You can also access documents on planning policy and council budget and spending, consultation papers, and committee minutes and agendas.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Red Eye Music
-
 Red Eye Music is a Cardiff based Independent record label.

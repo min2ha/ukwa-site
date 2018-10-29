@@ -10,6 +10,4 @@
   "start_date": "2017-11-28T09:00:00Z"
 }
 
-# Lodge Houstoun St. Johnstone No. 242
-
 Site of a masonic lodge located in Johnstone, Renfrewshire and affiliated with the Grand Lodge of Scotland and the Provincial Grand Lodge Renfrewshire East.

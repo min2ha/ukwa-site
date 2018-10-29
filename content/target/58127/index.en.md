@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# TalkTime Edinburgh
-
 Site of a Scottish Charitable Incorporated Organisation established to help physically disabled young people to reach their potential and to improve their mental well-being and that of their families.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Human Rights Priorities in the Light of Brexit
-
 This Lords Library briefing examines some of the overarching human rights issues relating to Brexit and the European Union (Withdrawal) Bill.  It does not provide details on specific issues such as citizens’ rights or workers’ rights.
 

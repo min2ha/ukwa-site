@@ -10,6 +10,4 @@
   "start_date": "2013-12-07T22:00:00Z"
 }
 
-# Alexandra Palace
-
 None

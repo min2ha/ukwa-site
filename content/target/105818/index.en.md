@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Frances McGlinchy SNP
-
 None

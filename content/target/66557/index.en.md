@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: Technical note on security, law enforcement and criminal justice
-
 The note provides analysis of the existing precedents for cooperation between the EU and third countries in the area of security, law enforcement and criminal justice before setting out the UK’s proposals for a new internal security treaty with the EU for future cooperation across these areas.
 

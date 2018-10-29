@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Street, The
-
 The Street is bar and nightclub on Edinburgh's Broughton Street and was a venue for the 2015 Free Fringe.

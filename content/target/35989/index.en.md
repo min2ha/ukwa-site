@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Mark Macmillan (@markmacmillan12) on Twitter
-
 The Twitter profile of Mark McMillan, the Scottish Labour candidate for the West Scotland list in the 2016 Scottish Parliament election.

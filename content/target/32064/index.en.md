@@ -10,6 +10,4 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# Canfyddwch y Cymoedd | Discover the Valleys
-
 Valleys Regional Park with support of the Arts Council of Wales, commissioned ten artists to create works of art for posters showcasing the south Wales artists and their landscapes.

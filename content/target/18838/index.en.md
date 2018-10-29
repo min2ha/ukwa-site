@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Royal Holloway, University of London: Plans to celebrate Magna Carta's 800th anniversary to be unveiled at Royal Holloway
-

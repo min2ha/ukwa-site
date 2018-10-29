@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gwerin Gyntaf | People First
-
 People First was formed in 2011 as a group of councillors within Carmarthenshire County Council and will be standing in Llanelli for the 2015 General Election and National Assembly for Wales Election 2016.

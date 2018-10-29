@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Council of Voluntary Organisations (NCVO): The 2015 election: NCVO’s Voluntary Sector Manifesto
-
 NCVO champions the voluntary sector and volunteering because they’re essential for a better society. They do this by connecting, representing and supporting voluntary organisations.

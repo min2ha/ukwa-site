@@ -10,6 +10,4 @@
   "start_date": "2016-01-14T09:00:00Z"
 }
 
-# Lin Anderson (@Lin_Anderson) on Twitter
-
 The twitter profile of Lin Anderson, crime writer and co-founder of the Bloody Scotland crime fiction festival.

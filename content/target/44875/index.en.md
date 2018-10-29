@@ -10,6 +10,4 @@
   "start_date": "2016-08-05T10:00:00Z"
 }
 
-# Martin Amis Web
-
 Writer, born in Swansea, listed in the Literature Wales' Writers of Wales database and former Professor of Creative Writing at The Manchester Centre for New Writing in the University of Manchester.

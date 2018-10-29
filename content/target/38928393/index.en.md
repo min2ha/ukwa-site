@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Mapperz - The Mapping News Blog
-
 None

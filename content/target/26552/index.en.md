@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election 2015: David Cameron to say he is ready to govern in national interest
-
 None

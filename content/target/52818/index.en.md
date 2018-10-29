@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Healthtalk
-
 Healthtalk.org provides free, reliable information about health issues, by sharing people's real-life experiences. You can watch people sharing their stories about cancer, autism, motor-neurone disease, pregnancy, drugs, depression and much more.

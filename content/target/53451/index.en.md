@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# The Dartford and Gravesham Green Party Candidates
-
 The Dartford and Gravesham Green Party are standing two candidates in this election. Marna Gilligan will stand in Gravesham and Andy Blatchford will stand in Dartford.

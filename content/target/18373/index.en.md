@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Hampshire's Big Theme 1914
-
 This website contains images and information not published elsewhere about Hampshire's role in the First World War.

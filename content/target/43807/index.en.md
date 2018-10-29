@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Fellowship of Reconciliation 
-
 Fellowship of Reconciliation is an international movement of people who commit themselves to active nonviolence as a way of life and as a means of personal, social, economic and political transformation. Based in the Christian tradition, we were founded in 1914, and have permanent representation at the UN.

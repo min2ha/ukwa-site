@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Carpet Foundation
-
 Carpet Foundation Retail Members provide advice to carpet retailers. They promote current best practice in carpet retailing.

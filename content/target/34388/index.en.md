@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Keith Brown MSP
-
 Keith Brown is Scottish National Party member of the Scottish Parliament for Clackmannanshire and Dunblane.

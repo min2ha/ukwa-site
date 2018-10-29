@@ -10,6 +10,4 @@
   "start_date": "2017-09-20T09:00:00Z"
 }
 
-# Anne Denholm Harpist
-
 Anne Denholm is official harpist to the Prince of Wales.

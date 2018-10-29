@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# The Bristolian: "Smiter of the High and Mighty"
-
 The Bristolian is a scandal sheet covering all sorts of shenanigans in the fine British city of Bristol. Originally launched in 2001, it quickly gained a reputation for well-sourced stories cocking a snook at our supposed ‘betters’ – councillors, cops, businessmen, managers and rich do-gooders – and soon racked up a circulation of more than 10,000 through pubs, cafés and on the streets.

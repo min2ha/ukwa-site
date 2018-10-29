@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gavin Barnwell (Conservative  Politician)
-
 Gavin Barnwell stood as Conservative candidate for Croydon Central at the 2017 General Election but was not elected.

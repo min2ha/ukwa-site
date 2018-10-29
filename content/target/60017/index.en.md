@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Friends of Nablus and Surrounding Areas / FONSA
-
 Site of a Scottish charitable trust based in Tayport, Fife, established to raise money to alleviate poverty and provide further education in Nablus, West Bank / Palestine and its surrounding areas.

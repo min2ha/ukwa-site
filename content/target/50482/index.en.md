@@ -10,6 +10,4 @@
   "start_date": "2017-03-15T09:00:00Z"
 }
 
-# Tees Valley Housing
-
 Covering an area spanning North Tyneside to York and with around 4,000 properties, we invest in neighbourhoods through new and innovative services and initiatives.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Cruise Lines International Association (CLIA)
-
 CLIA is engaged in travel agent training, research and marketing communications to promote the value and desirability of cruise holidays with thousands of travel agency and travel agent members.

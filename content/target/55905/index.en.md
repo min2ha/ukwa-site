@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Saundersfoot Footlights
-
 Saundersfoot Footlights is an amateur musical theatre society based in Pembrokeshire. 

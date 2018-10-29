@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Great British Wheelchair Rugby (GBWR)
-

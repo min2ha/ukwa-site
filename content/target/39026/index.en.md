@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# SS Mendi Commemoration
-
 Project enabling SS Mendi musical visits to 10 culturally diverse UK Primary Schools.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Shabbir Aslam (@Shabbir4Labour) on Twitter (Labour Party Politician)
-
 Shabbir Aslam stood as Labour Party candidate for South Leicestershire in the 2017 General Election but was not elected.

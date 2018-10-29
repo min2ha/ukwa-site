@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alzheimer's Society: Our general election 2015 manifesto — the dementia promise
-
 Alzheimer's Society believe passionately that life doesn't end when dementia begins. They offer support for anyone affected by dementia, and do everything they can to keep people with dementia connected to their lives and the people who matter most.

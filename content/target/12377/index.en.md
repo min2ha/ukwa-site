@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Louise Damen (louise_damen) on Twitter
-
 Twitter profile of marathoner Louise Damen, member of Team England at the Glasgow 2014 Commonwealth Games.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leigh Halfpenny
-
 Leigh Halfpenny is a professional rugby player for Toulon and Wales.

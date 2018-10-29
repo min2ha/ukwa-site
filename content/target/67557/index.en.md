@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# British Occupational Hygiene Society (BOHS)
-
 The British Occupational Hygiene Society (BOHS) is a science-based, charitable body that provides information, expertise and guidance in the recognition, control and management of workplace health risks.

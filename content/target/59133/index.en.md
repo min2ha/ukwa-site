@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: The European Investment Bank
-
 Based in Luxembourg, the European Investment Bank is the European Union’s bank, lending to projects that contribute to growth and employment within Europe. This briefing gives a short overview of the Bank's membership and operation, and discusses some of the issues surrounding the UK's future relationship with the Bank following Brexit.

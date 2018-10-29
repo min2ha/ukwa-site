@@ -11,8 +11,6 @@
   "subject": "UK General Election 2015"
 }
 
-# Association of Teachers and Lecturers (ATL): Shape Education
-
 ATL is the union for education professionals. Since its establishment in 1884, ATL has evolved into a modern union currently representing 160,000 members across England, Northern Ireland, Scotland and Wales.
 
 Our members are teachers, supply teachers, heads, lecturers, managers and support staff in maintained and independent sector schools and colleges.

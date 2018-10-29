@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Alys Mererid Roberts Soprano
-
 Alys Mererid Roberts is a Welsh soprano.

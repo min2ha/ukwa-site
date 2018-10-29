@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Clan Cameron Association Scotland
-
 Site of a family history organisation concerned with reviving, conserving, and promoting of the interests, sentiments, and associations of the members of the the Clan Cameron. 

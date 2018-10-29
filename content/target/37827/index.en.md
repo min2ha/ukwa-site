@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# London School of Economics and Political Science, Centre for Economic Performance: Should We Stay or Should We Go? The economic consequences of leaving the EU
-

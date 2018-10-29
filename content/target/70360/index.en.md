@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Ninian's Catholic Church, Dundee
-
 Site of a Scottish Roman Catholic parish church located in Dundee.

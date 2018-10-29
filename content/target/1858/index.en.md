@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Milton Keynes Council
-
 The website of Milton Keynes Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

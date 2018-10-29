@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Frit-Happens!
-
 An online community for glass blowing and glass crafting. 

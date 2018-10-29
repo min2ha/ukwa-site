@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# League of Young Voters UK on Twitter
-
 None

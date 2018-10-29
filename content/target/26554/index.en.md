@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election morning briefing: Tories to win most seats amid Lib Dem bloodbath
-
 None

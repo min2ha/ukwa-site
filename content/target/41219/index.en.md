@@ -10,6 +10,4 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Water of Leith Conservation Trust
-
 Site of an organisation set up under trust that aims to promote use and conservation of the river and land around the Water of Leith, which runs from through Edinburgh.

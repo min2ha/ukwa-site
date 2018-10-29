@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Valleys For Europe | Cymoedd Dros Ewrop (@Valleys4EU) on Twitter 
-
 Valleys For Europe is a grassroots, cross-party and no-party organisation campaigning for the best deal and a PeoplesVote across the Valleys.

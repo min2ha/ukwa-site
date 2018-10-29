@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hutchison Vale Community Sports Football Club
-
 Site of a Scottish amateur and community football club based in Edinburgh.

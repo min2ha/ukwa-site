@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Natalie Bennett talks about brain fades, climate change and Australia
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-11-11T09:00:00Z"
 }
 
-# Norwich HEART - Heritage Economic & Regeneration Trust 
-
 Website of a private, charitable company that strategically plans, regenerates, manages and promotes Norwich and Norfolk's heritage.

@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# Dà Mhìle Distillery
-
 Dà Mhìle Distillery is in Llandysul and is the first, organic, farmhouse distillery in the UK.

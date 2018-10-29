@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Eye, The: Investigations into stories in the public life
-
 The Eye is an investigative journalism website focusing on Welsh Political issues. It is run by Phil Parry, a former BBC journalist.

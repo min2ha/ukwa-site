@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# UK Parliament: Women and the vote
-
 The UK parliament website about an overview of the suffrage movement and information related to women and the vote

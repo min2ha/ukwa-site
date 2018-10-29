@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Deborah (@fridaybaldwin) on Twitter
-
 The twitter profile of Deborah Waters, RISE Alliance candidate for Glasgow.

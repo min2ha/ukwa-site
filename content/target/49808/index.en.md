@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Spring Terrace Church, Swansea
-

@@ -10,6 +10,4 @@
   "start_date": "2016-12-10T09:00:00Z"
 }
 
-# Explore Mull
-
 Tourism site marketing the attractions, accommodation and services on the Isle of Mull, Argyll & Bute, Scotland.

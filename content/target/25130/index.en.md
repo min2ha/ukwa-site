@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General Election 2015: Ed Miliband suffers blow as Labour approval rating slumps to previous election levels 
-
 None

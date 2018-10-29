@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Yorkshire First: The Party for Yorkshire
-
 <p>Yorkshire First campaigns for an elected Yorkshire Parliament, with devolved powers (not indpendence) from the UK.</p>

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Moira Ramage (@Moira4labour) on Twitter
-
 Twitter profile of Moira Ramage, the Scottish Labour list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

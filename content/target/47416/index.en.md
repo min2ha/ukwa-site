@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Junior Football Association East Region
-
 Site of a the governing and league body of the Scottish Junior Football Association in the East of Scotland.

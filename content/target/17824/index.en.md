@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Miliband in 'apprenticeship guarantee' for school leavers
-
 None

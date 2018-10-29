@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Diaries of an Irish Rebel and a British Soldier (Mercier Press Blog), The
-
 This blog post contains extracts from a book of previously unpublished diaries of two participants in the Easter Rising, 1916; one a Volunteer named Seosamh de Brún the other a British soldier named Samuel Lomas. It is contained within a blog by Mercier Press which has numerous articles on the revolutionary period. 

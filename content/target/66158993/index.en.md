@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Suffolk Police Authority
-
 None

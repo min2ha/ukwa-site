@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Penistone Literature Festival
-
 Penistone Literature Festival

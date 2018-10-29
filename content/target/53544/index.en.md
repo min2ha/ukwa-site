@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Liverpool Green Party General Election 2017 candidates
-
 Green Party website for the Liverpool Green Party, with a particular focus on the Genreal Election 2017 candidates for Liverpool.

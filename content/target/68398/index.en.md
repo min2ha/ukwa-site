@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lancaster Lynx (@LancsUniRLFC) on Twitter
-
 Official Twitter account for Lancaster University's Rugby League Team. 

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Food Sovereignty Movement UK
-
 Food Sovereignty Movement UK is inspired by the efforts of farmers and social movements around the world as well as action in the UK, working to build a movement for a democratic, sustainable and fair food system – food sovereignty.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leeds Live: "Leeds student's severe anorexia saw her fed through a tube - now she's an Instagram inspiration"
-
 Leeds Live article about student recovery from anorexia and Instagram 

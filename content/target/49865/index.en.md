@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ministers are being urged to sack Michael Heseltine as a government advisor after he put himself at the head of a rebel Tory campaign against the Brexit Bill in the House of Lords.
-
 Ministers are being urged to sack Michael Heseltine as a government advisor after he put himself at the head of a rebel Tory campaign against the Brexit Bill in the House of Lords.

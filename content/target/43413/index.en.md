@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Harlequin, The 
-
 An online literary magazine of poetry, prose and non-fiction

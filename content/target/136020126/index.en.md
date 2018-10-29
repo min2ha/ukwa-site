@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barnet LINk
-
 None

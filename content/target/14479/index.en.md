@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Statesman: llibertat per a Catalunya
-
 None

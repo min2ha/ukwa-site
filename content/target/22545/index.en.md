@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Ed Miliband wanted to be 'happy warrior' in TV debate
-
 None

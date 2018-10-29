@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clegg: I am more anti-establishment now than when I entered government
-
 None

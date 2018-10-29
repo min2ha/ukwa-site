@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Nick Thulbourn (@n_thulbourn) on Twitter (Labour candidate for North West Cambridgeshire)
-
 None

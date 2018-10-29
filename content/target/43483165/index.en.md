@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Aine Cassidy - illustration blog 
-
 None

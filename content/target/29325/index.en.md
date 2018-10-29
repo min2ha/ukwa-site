@@ -10,6 +10,4 @@
   "start_date": "2015-07-24T10:00:00Z"
 }
 
-# Weaver Words - Frodsham Literature Festival
-
 Frodsham Literature Festival

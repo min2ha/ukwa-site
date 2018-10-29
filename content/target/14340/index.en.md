@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Dwr Cymru | Welsh Water
-
 <p>Dŵr Cymru Welsh Water (DCWW) is a company which supplies drinking water and wastewater services to most of Wales and parts of western England.</p>

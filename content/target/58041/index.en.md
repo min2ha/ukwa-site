@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Natashadevon: Campaigning and awards - The Mental Health Media Charter
-
 Personal website for Natasha Devon an advocate of mental health awareness and founder of the Mental Health Media Charter

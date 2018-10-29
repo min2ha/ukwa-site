@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Ash Tutors
-
 Ash Tutors is a private tuition provider operating in and around the towns of Wigan, Warrington and St. Helens. With over 20 years' experience in education, They provide private '1 to 1' tuition service for all school ages up to, and including adults. 

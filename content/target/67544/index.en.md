@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Oakmeadians RFC (@oakmeadiansrfc) on Twitter
-
 The official Twitter account of Oakmeadians Rugby Football Club.
 Oakmeadians RFC is a traditional rugby club that pride ourselves on being a community rugby club set in the heart of Bournemouth.

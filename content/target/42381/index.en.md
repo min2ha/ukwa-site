@@ -10,6 +10,4 @@
   "start_date": "2016-06-06T10:00:00Z"
 }
 
-# Kelvin Hall Project
-
 WordPress blog site relating to the refurbishment of Kelvin Hall, Glasgow.

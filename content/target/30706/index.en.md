@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# British Institute of Human Rights, The  :  
-
 The British Institute of Human Rights provide access to information about human rights.

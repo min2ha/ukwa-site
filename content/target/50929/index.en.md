@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Highland Safaris
-
 Site of a business providing various tourist activities and tours in the Highlands of Scotland.

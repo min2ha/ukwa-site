@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Rimmer | The Official Website
-
 The website of middle distance runner Michale Rimmer, member of Team England for the Glasgow 2014 Commonwealth Games.

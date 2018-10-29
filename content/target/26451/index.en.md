@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Never mind 'Red Ed’ – Miliband's critics have now labelled him a ‘commie’
-
 None

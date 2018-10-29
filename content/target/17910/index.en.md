@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Visit Worcestershire: Magna Carta 800th Anniversary
-

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Carl Sargeant (@carlsargeant1) on Twitter (Labour candidate for Alyn and Deeside) 
-
 Carl Sargeant is the Labour candidate for Alyn and Deeside in the 2016 National Assembly for Wales elections.

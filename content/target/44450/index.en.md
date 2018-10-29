@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Should we listen to the experts on the EU referendum? 
-
 An article about which 'experts' are a reliable source of information in regards to the EU Referendum

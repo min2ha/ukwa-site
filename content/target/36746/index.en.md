@@ -10,6 +10,4 @@
   "start_date": "2016-03-07T09:00:00Z"
 }
 
-# Professional Publishers Association (PPA)
-
 The Professional Publishers Association (PPA) represents around 220 companies, ranging from consumer magazine publishers to business-to-business data and information providers, customer magazine publishers and smaller independent companies.

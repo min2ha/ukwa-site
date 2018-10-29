@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Chatham House: Disunited Kingdom? Foreign Policy Implications of the Scottish Referendum
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-07-27T09:00:00Z"
 }
 
-# Clodock Mill
-
 Clodock Mill is a traditional corn mill on the banks of the River Monnow in Herefordshire, close to the Welsh border. It has bee returned to working order and is open for visits for groups or interested individuals by appointment.

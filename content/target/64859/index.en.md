@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British African-Caribbean People
-
 Huffington Post articles concerning British African-Caribbean people. 

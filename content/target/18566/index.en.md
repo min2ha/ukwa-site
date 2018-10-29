@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jenny Willott MP on Facebook
-
 Jenny Willott is Liberal Democrat MP for Cardiff Central. 

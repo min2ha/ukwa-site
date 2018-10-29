@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Birmingham & Solihull Women's Aid
-

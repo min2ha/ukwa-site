@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed Balls 'plans £45billion tax raid in first budget' warn City experts who say Shadow Chancellor would raise pensions and inheritance taxes
-
 None

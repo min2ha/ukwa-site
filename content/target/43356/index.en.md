@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Student Voices: EU Referendum
-
 The website holds a variety of EU Referendum related articles consturcted by students. It is neither pro, nor anti-Brexit but is a forum by which these views are explored, expressed and debated.

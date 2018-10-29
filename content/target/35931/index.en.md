@@ -10,6 +10,4 @@
   "start_date": "2016-02-25T09:00:00Z"
 }
 
-# Heraldry Society of Scotland
-
 Website of a society promoting the study and correct use of heraldry in Scotland and abroad.

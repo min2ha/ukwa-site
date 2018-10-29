@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Royal Statistical Society: Articles tagged 'Scottish Referendum 2014'
-
 None

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Hidden Heroes of the Easter Week
-
 Book about volunteers from England who joined the Easter Rising

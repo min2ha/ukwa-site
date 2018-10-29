@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Simon James, Liberal Democrats on Twitter
-
 None

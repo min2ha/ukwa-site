@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Boris Johnson tells voters there is 'no reason to be afraid' of leaving the EU as he considers joining the Out campaign  
-

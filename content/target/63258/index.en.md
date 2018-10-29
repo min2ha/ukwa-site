@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Intercession of the Holy Virgin Russian Orthodox Church in Manchester
-
 Website of the Russian parish of the "Pokrov" (Intercession of the Holy Virgin), founded by Russian refugees in displaced persons' camps in Austria and present in Manchester since early 1950s.

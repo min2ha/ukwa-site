@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cymru dros Heddwch | Wales for Peace
-
 Wales for Peace explores Wales contribution to the search for peace since the First World War. The project is led by the Welsh Centre for International Affairs (WCIA) and funded by the Heritage Lottery Fund.

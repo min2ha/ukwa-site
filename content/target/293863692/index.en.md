@@ -10,5 +10,3 @@
   "start_date": "2015-04-08T00:00:00Z"
 }
 
-# Swansea Open House
-

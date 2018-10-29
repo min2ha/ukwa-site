@@ -10,5 +10,3 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# LGBT Scotland Community Network Directory
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Heseltine warns of Tory 'civil war'
-

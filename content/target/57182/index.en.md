@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Digging In
-
 Digging In is a project to recreate sections of Allied and opposing German trenches in Glasgow's Pollok Park, to support learning and research.

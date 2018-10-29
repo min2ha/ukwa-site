@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Ebola Response Anthropology Platform
-
 <p>Anthropologists from around the world providing advice on how to engage with crucial socio-cultural and political dimensions of the Ebola outbreak and build locally-appropriate interventions.</p>

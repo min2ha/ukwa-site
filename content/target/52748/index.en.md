@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May accuses EU of trying to affect UK election
-
 Theresa May accused European politicians of making "threats" against Britain to try to influence the general election result.

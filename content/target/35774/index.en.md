@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cameron’s deal is the wrong one: but Britain must stay in Europe
-
 Guardian, The

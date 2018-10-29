@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Muriel Delahaye
-
 Muriel Delahaye is a figurative painter working in oils on canvas or board. Her paintings are of the beach and the sea of Cardigan Bay and the village of Borth.

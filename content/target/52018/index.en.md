@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael’s, Southfields
-
 St. Michael’s is a vibrant Anglican Church based in Southfields, SW London.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Duncan Smith attacks Remain 'smears'
-
 BBC News: EU referendum: Duncan Smith attacks Remain 'smears'

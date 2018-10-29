@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# Pictish Trail
-
 Site of Johnny Lynch, a folk / electronic / indie-folk artist from Edinburgh, Scotland and based in Eigg.

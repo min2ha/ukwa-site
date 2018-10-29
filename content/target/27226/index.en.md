@@ -10,6 +10,4 @@
   "start_date": "2015-06-04T09:00:00Z"
 }
 
-# Radio Beca
-
 Community Radio station for west Wales.

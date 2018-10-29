@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tracey Crouch (@tracey_crouch ) on Twitter  (Conservative Politician)
-
 Tracey Crouch stood as Conservative candidate for Chatham and Aylesford at the 2017 General Election and was elected. She was first elected to serve as MP for Chatham and Aylesford in 2010 and re-elected in 2015.

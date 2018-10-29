@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election 2015: support for Ukip among Gen Y voters doubles in a year
-

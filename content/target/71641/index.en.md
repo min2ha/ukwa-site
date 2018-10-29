@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Fawcett: Centenary of women’s suffrage: how the vote was won
-
 Event by the Fawcett society focusing on how women won the right to vote

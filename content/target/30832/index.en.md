@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Westgate Evangelical Church, Pembroke
-

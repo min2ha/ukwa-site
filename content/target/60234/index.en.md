@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Africans and West Indians at War
-
 Although most people’s impression of the First World War is of the mud and trenches of the Western Front, in fact the geographical spread of the war extended far wider than this. As well as France, Belgium and Germany, the war was also fought in Russia (the Eastern Front), Italy, Turkey, Arabia, Iraq and in many parts of Africa.

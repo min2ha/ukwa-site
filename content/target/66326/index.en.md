@@ -11,5 +11,3 @@
   "subject": "Gender Equality"
 }
 
-# City of London, The: Women: Work and Power season
-

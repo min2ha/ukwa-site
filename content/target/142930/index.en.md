@@ -11,5 +11,3 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Encephalitis Society, The
-

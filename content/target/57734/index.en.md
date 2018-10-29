@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The UK Politics Forum
-
 An online enthusiast community concerned with the discussion of UK politics. Discusses politics regionally throughout the UK, political parties and other related topics. 

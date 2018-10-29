@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Michael Baker (@Michaelabaker11) on Twitter (Independent candidate for South Wales Police and Crime Commissioner) 
-
 Michael Baker is the Independent candidate for South Wales Police Commissioner in the 2016 Police and Crime Commissioner Elections. 

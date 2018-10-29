@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Proclaimers
-
 Proclaimers is part of the Hillsong Family of churches.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hampstead & Kilburn Conservatives on Facebook
-

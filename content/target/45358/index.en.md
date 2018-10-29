@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Justice Peace and Integrity of Creation project  of the Columban Fathers [JPIC]
-
 The Society of St. Columban is a Catholic organization working in fifteen countries with a special commitment to Asia and Latin America. Columbans are missionaries who go in the name of the Church to announce, by deed and word, the good news of Jesus Christ.

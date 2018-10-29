@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Northern Ireland Office: Northern Ireland and Ireland - a position paper
-
 This outlines the UK's position on addressing the unique circumstances of Northern Ireland and Ireland in light of the UK's EU withdrawal 

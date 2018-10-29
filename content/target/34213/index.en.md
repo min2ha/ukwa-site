@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# RISE: Scotland's Left Alliance
-
 RISE: Scotland's Left Alliance have formed to co-ordiate socialist candidates for the 2016 Scottish Parliamentary Elections.

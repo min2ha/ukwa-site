@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  Ed Miliband urged to revive Tony Blair optimism of 1997 in general election campaign
-
 None

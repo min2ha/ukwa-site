@@ -10,6 +10,4 @@
   "start_date": "2016-03-02T09:00:00Z"
 }
 
-# Daily Express, The: Thought police are killing free speech, says ANN WIDDECOMBE
-
 Column by Ann Widdecombe

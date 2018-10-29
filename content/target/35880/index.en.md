@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# House of Commons Library: The UK and the EU: reform, renegotiation, withdrawal? A reading list
-
 Research briefing

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Jake Welsh, Green Party on Twitter
-
 None

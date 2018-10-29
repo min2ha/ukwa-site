@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Management Process Systems (MPS)
-

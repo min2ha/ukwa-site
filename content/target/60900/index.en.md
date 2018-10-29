@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Yet Another Cycling Forum
-
 An online enthusiast community forum concerned with cycling. Discusses health and fitness, commuting, campaigning, rides & touring and various other related topics. Includes a section for users to post pictures from their rides.

@@ -10,6 +10,4 @@
   "start_date": "2017-03-23T09:00:00Z"
 }
 
-# Jacobite Cruises
-
 Site of a business offering cruises from Inverness and other locations around Loch Ness, Highland, Scotland.

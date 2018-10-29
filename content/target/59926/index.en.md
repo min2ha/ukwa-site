@@ -10,6 +10,4 @@
   "start_date": "2017-12-22T09:00:00Z"
 }
 
-# Alison Graham Ceramics
-
 Alison Graham Ceramics studio is located in Roath, Cardiff. She is a 'colour specialist who uses ceramic stains, glaze and porcelain to explore the ways in which semi-abstract colour arrangements  can create transcendental spatial effects similar to those found in nature'.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-21T09:00:00Z"
 }
 
-# Talawa Theatre Company
-
 Talawa was founded in 1986 by Yvonne Brewster, Carmen Munroe, Mona Hammond and Inigo Espejel, in response to the lack of creative opportunities for Black actors and the marginalisation of Black peoples from cultural processes.

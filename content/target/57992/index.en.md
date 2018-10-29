@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Has Theresa May promised EU more money?
-
 At the end of the October 2017 European Council meeting it was clear that the UK would have to offer a larger financial settlement before trade talks could start.

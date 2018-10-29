@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Labour plans £3,000 tax bombshell on families to fund spending
-
 None

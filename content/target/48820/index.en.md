@@ -10,6 +10,4 @@
   "start_date": "2017-01-27T09:00:00Z"
 }
 
-# Webster - Torfaen's Online Community
-
 Webster.uk.net provides a community portal with news and information for the Borough of Torfaen.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# W Gwyn Williams (@wgwynwilliams) on Twitter
-
 W Gwyn Williams is the Liberal Democrat candidate for Vale of Clwyd at the 2017 General Election.

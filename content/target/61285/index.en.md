@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Phase 2 of the Brexit talks: annotation of the EU27 negotiation position
-
 On Monday 29th January 2018, the EU Council was due to adopt its negotiating directives relating to the second phase of Brexit talks, mainly concerning a transition period after Brexit Day when substantive EU law would still apply to the UK.  The apparently final version of those negotiating directives was leaked, and this post comments on the draft in detail.

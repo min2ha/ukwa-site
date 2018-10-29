@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrews Church, Port Glasgow
-
 Site of a Church of Scotland parish church at Port Glasgow, Renfrewshire.

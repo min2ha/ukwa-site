@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: General election 2015: Recap the final day of campaigning as party leaders toured Britain for votes  
-
 None

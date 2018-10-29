@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Association of Teachers and Lecturers (ATL) : Vote for Education
-
 ATL's education manifesto calls for an investment in education now to ensure the skills we need for our future.

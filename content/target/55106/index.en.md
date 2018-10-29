@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Crail Museum and Heritage Centre
-
 Site of a museum of local history and heritage in the village of Crail, Fife, Scotland.

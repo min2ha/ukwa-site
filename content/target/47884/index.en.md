@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Charters of William II and Henry I, The 
-
 Project website developed and managed by David X Carpenter, Faculty of History, Oxford University. The overall aim of the project is to collect, edit, and interpret the royal acts issued in the names of two English kings, William II (reigned 1087 to 1100), and his brother Henry I (reigned 1100 to 1135). Royal acts, mainly charters but also writs and other letters, are the prime documentary source for the period.

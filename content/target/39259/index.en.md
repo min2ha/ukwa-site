@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Jean-Claude Juncker says European Union is 'too meddlesome'
-

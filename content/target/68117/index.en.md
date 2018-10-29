@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bath Old Edwardians RFC
-
 Newly promoted to Somerset 1.

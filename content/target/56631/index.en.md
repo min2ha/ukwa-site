@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Hertfordshire Record Society
-
 The Society was founded in 1985. Its purpose is to publish texts relating to Hertfordshire that would not otherwise be easily accessible.

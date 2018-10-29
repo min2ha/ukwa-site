@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Fabulous Fan Fayre
-
 Catering, hospitality and event management company across the UK. They have provided the catering services for top flight English football clubs.

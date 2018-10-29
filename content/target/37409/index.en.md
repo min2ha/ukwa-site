@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# New Statesman: No vote, no voice. EU migrants and the general election
-
 EU immigrant voices on their voting rights in the UK

@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jenny Eclair
-
 Official website of Jenny Eclair, a British comedian.

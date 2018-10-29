@@ -10,6 +10,4 @@
   "start_date": "2016-04-20T10:00:00Z"
 }
 
-# Social Media Alba
-
 Social Media Alba develops products and events which promote the use of Scottish Gaelic in social media.

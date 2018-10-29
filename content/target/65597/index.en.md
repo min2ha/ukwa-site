@@ -10,6 +10,4 @@
   "start_date": "2018-05-15T09:00:00Z"
 }
 
-# News On The Block
-
 Help and Advice for Flat Owners, information on property management, enfranchisement, lease extensions, service charges, right to manage, buildings insurance.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Old Deer Community Association
-
 Site providing community information for the village of Old Deer, Buchan, Aberdeenshire, Scotland.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: Who Will Watch for BBC Bias in the EU Referendum
-
 A blog post/article about the objectivity of BBC in reporting on the EU referendum

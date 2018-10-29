@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Marcus Fysh (Conservative  Politician)
-
 Marcus Fysh stood as Conservative candidate for Yeovil at the 2017 General Election but was not elected.

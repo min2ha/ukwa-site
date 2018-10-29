@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Friends of TS Queen Mary
-
 Friends of TS Queen Mary is a Scottish registered charity which aims to preserve the turbine expansion steamer TS Queen Mary and return her to a permanent berth on the River Clyde, Glasgow.

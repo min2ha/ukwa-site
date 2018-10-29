@@ -10,5 +10,3 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# Political Cartoon Society, The
-

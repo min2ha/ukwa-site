@@ -10,5 +10,3 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Cyngor Cymuned Llan Llyr | Llanyre Community Council
-

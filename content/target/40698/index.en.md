@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The:  Brexit will aid the West's enemies and leave Britain 'dangerously weakened', warn defence chiefs at Nato and in the US   
-

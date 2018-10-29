@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Dan Mitchell Comedy
-
 Dan Mitchell is an established comedian, presenter and event host from Brechfa, Carmarthenshire.

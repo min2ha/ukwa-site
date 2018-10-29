@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kings College London: Researching mental health disorders in the era of social media: Systematic review
-
 Research paper that uses social media to create data sets to study mental health as users of social media sites frequently express their emotions, feelings, and thoughts

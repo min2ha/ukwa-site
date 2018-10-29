@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# Mary Slessor Foundation, The
-
 <p>The Mary Slessor Foundation concentrates primarily on improving the lives of local women and training the youth in Akpap Okoyong, 55km north of Calabar, Cross River State, Nigeria. Mary Slessor was a Scottish missionary there.</p>

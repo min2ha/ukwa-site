@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# London First: A Manifesto for the 2020s
-
 Ahead of this year’s political manifestos, influential business group London First sets out a manifesto for how the next government can keep London working, growing the economy and getting the UK into the best possible position ahead of Brexit in 2019.
 

@@ -10,6 +10,4 @@
   "start_date": "2018-09-08T09:00:00Z"
 }
 
-# PA-X Peace Agreements Database
-
 Site of database and repository of peace agreements from 1990 providing a comprehensive dataset of peace agreements from 1990 to 2015, capable of underpinning both quantitative and qualitative research.

@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Culture Diary, The: UK-India Year of Culture 2017
-
 An event listing related to the UK-India Year of Culture 2017.

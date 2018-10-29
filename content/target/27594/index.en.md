@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, the: Nick Clegg should do 'donkey work' for five years to 'repay' party for failure, says former Lib Dem MP
-
 None

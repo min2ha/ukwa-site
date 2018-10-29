@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Louise Ellman (Labour Party  Politician)
-
 Louise Ellman stood as Labour Party candidate for Liverpool Riverside in the 2017 General Election and was successful. She was first selected to serve as MP for Liverpool Riverside in 1997 and re-elected in 2015.

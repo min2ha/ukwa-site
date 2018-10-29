@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Here's Carol Craig's brave and insightful article...
-
 Ewan Morrison's Facebook post of 11th September 2014.

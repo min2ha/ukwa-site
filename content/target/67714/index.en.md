@@ -10,6 +10,4 @@
   "start_date": "2018-06-20T09:00:00Z"
 }
 
-# Castell Coch Choral Society
-
 Castell Coch Choral Society is a mixed choir of around 70 singers from Tongwynlais, North Cardiff established in 1977. 

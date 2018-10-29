@@ -10,6 +10,4 @@
   "start_date": "2015-04-28T09:00:00Z"
 }
 
-# Universities Wales | Prifysgolion Cymru
-
 Universities Wales represents the interests of all universities in Wales. 

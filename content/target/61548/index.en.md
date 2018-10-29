@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Ardgour, Morvern and Strontian Parish Church
-
 Site of a Church of Scotland parish church at Ardgour, covering the churches at Kingairloch, Morvern and Strontian, Highlands.

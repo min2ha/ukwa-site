@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May has won a truce on Brexit – but it won’t last long
-

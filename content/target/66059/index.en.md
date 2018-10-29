@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 16th May 2018: Leaving the EU: Customs
-
 Opposition Day debate on the state of the Brexit negotiations

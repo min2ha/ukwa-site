@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# National Autism Society, The: General Election campaign 2015
-
 None

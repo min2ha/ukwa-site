@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Team South West
-

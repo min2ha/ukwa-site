@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Zolag
-
 The website offers access to rare Theravada Buddhist books and articles.

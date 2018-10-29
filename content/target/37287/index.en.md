@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Independent, The: Think-Tanks conducting "independent" research to support Brexit have close ties to Vote Leave
-
 An analysis that underlines the problematic relationship between pro-Brexit think-tanks and Vote Leave

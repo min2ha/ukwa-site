@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Sun has torn into Ed Miliband even more viciously than it hit Neil Kinnock
-
 None

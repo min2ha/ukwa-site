@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: For the Tories, policy by nostalgia aint what it used to be 
-

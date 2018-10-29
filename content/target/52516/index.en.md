@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# James Baker (@jamesdbaker1) on Twitter (Liberal Democrats Politician)
-
 James Baker stood as Liberal Democrat candidate for Halifax at the 2017 General Election but was not elected.

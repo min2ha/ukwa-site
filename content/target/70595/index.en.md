@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Tottenham Hotspur Ladies (@ThlfcOfficial) on Twitter
-
 Tottenham Hotspur Ladies (@ThlfcOfficial) on Twitter

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Carolyn Harris (@carolynharris24) on Twitter 
-
 Labour parliamentary candidate for Swansea East.

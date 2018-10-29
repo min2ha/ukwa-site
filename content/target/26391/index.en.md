@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The Edstone: what the election’s worst work of art tells us about British politics
-
 None

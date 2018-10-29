@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Scots MPs vote to pay Sturgeon more than PM
-
 None

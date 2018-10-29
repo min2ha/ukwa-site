@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Looking forward to the election? Just don’t expect a straight answer
-
 None

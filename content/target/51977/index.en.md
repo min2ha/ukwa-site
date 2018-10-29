@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael and All Angels Church, Beckenham
-
 From 1866 until 1877 St Michael’s church was a little tin hall in Harding’s Lane, in the Alexandra district of Beckenham. When Holy Trinity, Lennard Road, was built in 1877, St Michael’s moved to the Birkbeck Estate where a few houses stood among the cabbage fields and market gardens. The first services were held on Easter Day, 1877.

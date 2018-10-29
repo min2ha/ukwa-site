@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# The Sparrows Nest, Nottigham
-
 The Sparrows Nest in Nottingham is a centre for anarchist culture and education. The site includes the Black Flag newspaper archive.

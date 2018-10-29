@@ -10,6 +10,4 @@
   "start_date": "2018-07-21T09:00:00Z"
 }
 
-# Inhibit
-
 Weekly webcomic made by Eve Greenwood.

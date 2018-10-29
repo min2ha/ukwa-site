@@ -10,6 +10,4 @@
   "start_date": "2016-05-31T10:00:00Z"
 }
 
-# Parish of North West Locahaber, Church of Scotland
-
 Site of a local Parish Church of Scotland located in Mallaig but covering the wider Lochaber area and islands of Canna, Rum, Eigg and Muck

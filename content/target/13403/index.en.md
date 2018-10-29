@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Kenny MacAskill SNP (KennyMacAskill) on Twitter
-
 <p>The twitter profile of Kenny MacAskill, the Scottish National Party Member of the Scottish Parliament for Edinburgh Eastern.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Berwick-upon-Tweed Conservatives
-
 Website of Berwick-upon-Tweed Conservatives, providing information on the constituency, representatives and candidates and association officers and staff, and local and national news updates.

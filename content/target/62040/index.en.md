@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Craven Cottage
-
 Craven Cottage is a football stadium located in Fulham, London. It has been the home ground of Fulham F.C. since 1896.

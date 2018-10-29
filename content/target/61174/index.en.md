@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# The Severnside Institute for Psychotherapy
-
 The Severnside Institute for Psychotherapy (SIP) was founded in May 1985 by a group of psychoanalytic psychotherapists. Our aims are to promote and develop psychoanalytic and psychodynamic psychotherapy in Bristol, Bath, and the surrounding areas of the south and south-west.

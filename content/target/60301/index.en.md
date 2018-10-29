@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Cigar Forums
-
 An online enthusiast community concerned with cigars. Discusses cigar reviews, pipes, cigar travel and various other related topics.

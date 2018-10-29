@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# International Society for Ecology and Culture
-
 International Society for Ecology’s mission is to protect and renew ecological and social well being by promoting a systemic shift away from economic globalization towards localization.

@@ -10,6 +10,4 @@
   "start_date": "2017-07-05T09:00:00Z"
 }
 
-# Hull Architecture Art
-
 Paintings of abandoned buildings and architecture in Kingston upon hull, the city of culture for 2017.

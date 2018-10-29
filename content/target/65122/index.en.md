@@ -10,6 +10,4 @@
   "start_date": "2018-05-03T09:00:00Z"
 }
 
-# The Independent Custody Visiting Association
-
 The Independent Custody Visiting Association. Independently advocating on custody conditions since 1993. 

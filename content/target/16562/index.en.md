@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg to allow Lib Dem MPs to accept Oakeshott donations
-
 None

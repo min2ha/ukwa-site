@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Rapid Business Improvement - tools for consultants (consulting)
-

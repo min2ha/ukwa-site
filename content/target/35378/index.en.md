@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Tom Peck's Sketch: Imagine what Boris Johnson told David Cameron about his voting intentions...
-

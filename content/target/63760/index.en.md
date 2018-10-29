@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# SisterSupporter (@SisterSupporter) on Twitter
-
 A pro-choice direct action group campaigning for reproductive rights. Based in Ealing, London, but fighting for harassment-free abortion access nationally.

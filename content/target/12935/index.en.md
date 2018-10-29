@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# Proud To Serve
-
 Proud2Serve.net is the LGBT E-Network for the British Armed Forces. Their aim is to provide support, information and networking for Gay, Lesbian, Bisexual and Transgender serving, ex-serving personnel and their families.

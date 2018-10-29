@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Wards Corner Community Plan
-
 Development plan submitted to Haringey council by the West Green Road and Seven Sisters Development Trust, aiming to promote the West Green Road and Seven Sisters area as the ´Gateway´ to a multi-cultural rich diverse Tottenham. Promotes, supports and facilitates the local community to take part in and deliver this vision.

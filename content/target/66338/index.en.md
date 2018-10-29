@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Global Sourcing Association UK (GSAUK)
-
 Established as a not-for-profit organisation, the Global Sourcing Assocation aims to be the centre of excellence in sourcing.

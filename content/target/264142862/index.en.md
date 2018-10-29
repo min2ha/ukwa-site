@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# For the Fallen 
-
 <p>Project working with young people in Medway, exploring 'why commemorate the First World War?' and making films.</p>

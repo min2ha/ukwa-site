@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General election: Campaign push with five days to go before polling
-
 None

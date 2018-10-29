@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kevin Newton (@kevinnewtonukip) on Twitter
-
 Twitter profile of Kevin Newton, UK Independence Party (UKIP) candidate for Dumfriesshire, Clydesdale and Tweeddale in the 2015 UK General Election.

@@ -10,5 +10,3 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# North Wales Cave Rescue Organisation
-

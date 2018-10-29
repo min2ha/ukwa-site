@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lewis Oliva (@Lewis_Oliva) on Twitter
-
 The twitter profile of cyclist Lewis Oliva, member of Team Wales for the Glasgow 2014 Commonwealth Games.

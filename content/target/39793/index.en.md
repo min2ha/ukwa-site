@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Scottish National Party (SNP) West Fife and Coastal Villages
-
 The West Fife branch of the Scottish National Party (SNP).

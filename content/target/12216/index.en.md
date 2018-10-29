@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mercy Brown (LittleMaxxie) on Twitter
-
 Twitter profile of weightlifter Mercy Brown, member of Team England for the Glasgow 2014 Commonwealth Games.

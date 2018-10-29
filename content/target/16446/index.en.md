@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband backs plan to 'decapitate' Nick Clegg in his own constituency
-
 None

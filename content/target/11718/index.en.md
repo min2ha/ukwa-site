@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Imogen Bankier (imogenbankier) on Twitter
-
 <p>The twitter profile of althete Imogen Bankier, badminton player and member of Team Scotland for the Glasgow 2014 Commonwealth Games.</p>

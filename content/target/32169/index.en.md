@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Richard Parks' 737 Challenge
-
 Richard Parks is former Welsh International turned extreme environment athlete. Parks embarked on a challenge to climb the highest mountain on each of the world's 7 continents and stand on all 3 poles (The North Pole, The South Pole and the summit of Everest) within 7 months.

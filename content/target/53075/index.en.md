@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cambridge Liberal Democrats (@cambridgelds) on Twitter
-
 Twitter account of Cambridge Liberal Democrats, providing information on campaigns, events, representatives and candidates and local and national news updates.

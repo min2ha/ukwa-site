@@ -10,6 +10,4 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# NSA (National Sheep Association) Welsh Sheep
-
 NSA Welsh Sheep is the National Sheep Association's welsh region biennial one day event. 

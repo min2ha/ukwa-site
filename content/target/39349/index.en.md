@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Chatteris Remembers: The stories of people of Chatteris who served in the First World War
-
 Project aims to involve children and their families in researching, recording and remembering the lives of Chatteris people who fought and served in the First World War.

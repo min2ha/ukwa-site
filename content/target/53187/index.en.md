@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Uxbridge and South Ruislip Labour
-
 Website of Uxbridge and South Ruislip Labour is the blog with local and party news. Introduces Vincent Lo as candidate at the 2017 General Election.

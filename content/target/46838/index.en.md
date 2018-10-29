@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# World Wildlife Fund (WWF): UK blog
-

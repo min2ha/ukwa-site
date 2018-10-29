@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Any politician seeking a second election this year is a dangerous idiot
-
 None

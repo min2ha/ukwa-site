@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Pre-Certification Video Forum
-
 An online enthusiast community forum concerned with collecting videotape (or laserdisc/CED) issued in the UK before the introduction of the 1984 Video Recordings Act. Includes sections for valuations, selling and buying pre-cert videos, hardware and various other related topics.

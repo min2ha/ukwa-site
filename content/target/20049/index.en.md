@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Full Fact
-
 Full Fact are a UK independent, non-partisan, fact checking charity.

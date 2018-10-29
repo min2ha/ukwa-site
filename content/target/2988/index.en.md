@@ -10,6 +10,4 @@
   "start_date": "2013-07-26T00:15:00Z"
 }
 
-# BBC News: Lindisfarne Gospels should London or Durham have them?
-
 None

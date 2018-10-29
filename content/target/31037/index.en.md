@@ -10,5 +10,3 @@
   "start_date": "2015-09-30T11:00:00Z"
 }
 
-# Còisir Ghàidhlig an Eilein Mhuilich - Isle of Mull Gaelic Choir on Facebook
-

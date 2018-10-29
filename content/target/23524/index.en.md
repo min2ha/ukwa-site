@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Tim Andrewes (@AndrewesTim) on Twitter (Green Party candidate for St Ives)
-

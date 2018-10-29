@@ -10,5 +10,3 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Cathedral School, Llandaff
-

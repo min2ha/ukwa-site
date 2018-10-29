@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: Guide to the Brexit Negotiations
-
 The Brexit process formally got underway in March 2017, as the United Kingdom sent the ‘Article 50’ withdrawal letter to the EU on the 29 March 2017, and the EU in turn drew up a draft of its Brexit negotiating guidelines.  The author argues that the most significant issue is actually that the EU and UK in principle have many negotiating objectives in common. Most notably, the EU has accepted the UK’s objective of aiming towards a comprehensive EU/UK free trade agreement (FTA) without provisions on the free movement of persons or contributions to the EU budget

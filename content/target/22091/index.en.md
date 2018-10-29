@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Martin Dobson (Green Party candidate for Liverpool Riverside)
-
  Martin Dobson for Liverpool Riverside Green Party Parliamentary Candidate for Liverpool Riverside at the 2015 General Election but was not elected. 

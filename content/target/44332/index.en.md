@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Owen Smith to offer referendum on Brexit deal if elected Labour leader
-
 Guardian, The

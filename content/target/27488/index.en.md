@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Some votes count 30 times as much as others because of Britain's archaic election rules
-
 None

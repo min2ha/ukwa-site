@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: 'I'll be writing Labour's budget!' Boastful Salmond caught on camera laughing that he will call the shots after the election
-
 None

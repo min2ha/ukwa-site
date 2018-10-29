@@ -66,8 +66,6 @@
   "endDateText": ""
 }
 
-# Web Comic Archive
-
 This collection contains webcomics published in the United Kingdom. The comics cover a wide variety of subjects and are produced by a diverse range of creators, including many voices not frequently represented in traditional publishing. The collection includes examples of renowned (and sometimes award-winning) webcomics, as well as independently produced comics which may not be as well-known.
 Due to current technological restrictions in capturing online material (as of 2017), some elements of these items (such as embedded video) may not appear within the archived item as they did when published online.
 

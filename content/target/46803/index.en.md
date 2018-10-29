@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit court ruling: Your questions answered
-
 Answers to frequently asked questions about the implications of the High Court ruling that the government cannot begin the process of leaving the EU without a vote in Parliament.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Teval Stephens (@Tev3man) on Twitter (Respect candidate for Birmingham Yardley)
-

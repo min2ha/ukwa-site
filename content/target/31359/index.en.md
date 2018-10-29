@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# LEO Computers Society
-
 LEO Computers Society promotes the World's first business computer - Lyons Electronic Office.

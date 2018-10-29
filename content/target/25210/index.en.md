@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Meet the election candidate with NO POLICIES 
-
 None

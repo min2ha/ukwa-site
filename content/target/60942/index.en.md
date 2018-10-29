@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Art of Maggie Humphry, The
-
 Maggie Humphry is an elected member of the RCA (Royal Cambrian Academy) and a former artist in residence at Llangollen Eisteddfod. Her paintings are deeply influenced by the rich countrysides of Wales and Shropshire.

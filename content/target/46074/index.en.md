@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Senedd TV
-
 Senedd TV is the online broadcast channel for the National Assembly for Wales. This website holds live and archived coverage of all Assembly proceedings taking place in public, including Plenary debates and committee meetings.

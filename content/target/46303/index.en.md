@@ -10,5 +10,3 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# Coleg Gwyn, Y | North Wales Baptist College
-

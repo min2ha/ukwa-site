@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Staging China
-
 Staging China, an international practice-led research network with its hub in Leeds is a development from the project Performing China on the Global Stage. It brings together academics, research students and theatre practitioners to reinvigorate Chinese theatre as a practice-led/cross-disciplinary subject. It aims to influence academic institutions and individual researchers; and to impact on performing industries and the general public.

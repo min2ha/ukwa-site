@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Matt’s Gallery
-
 Matt's Gallery is a contemporary art space in London.

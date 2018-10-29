@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Thomas Darwood (Independent candidate for Leicester East)
-
 Thomas Darwood stood as an independent candidate for Leicester East at the 2015 General Election but was not elected.

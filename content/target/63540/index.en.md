@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Andrew's Church.
-
 The website of St. Andrew's Church, Golspie.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Holy Trinity Church, Hereford
-
 Holy Trinity Church serves a large parish to the west of the city, and is part of the West Hereford Team Ministry. The building has been the centre of worship for the community for over a hundred years.

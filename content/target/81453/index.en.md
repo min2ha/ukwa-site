@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Sun, The: AIR THREAT REAL Brussels ‘could demand billions to keep planes in the sky in the event of a No Deal Brexit’
-
 The EU could hold Britain to ransom by demanding billions to keep planes in the sky in the event of a bitter No Deal, according to the Head of the National Audit Office. He told the Exiting the EU Select Committee that if the UK got “tough” by withholding the entire £39 billion divorce bill, Brussels could seek revenge by refusing to sign “mutual” agreements to keep airlines in the sky.
 

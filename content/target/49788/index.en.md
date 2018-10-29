@@ -10,6 +10,4 @@
   "start_date": "2017-03-01T09:00:00Z"
 }
 
-# Kirkcaldy Choral Union
-
 Site of an amateur choir based in Kirkcaldy, Fife.

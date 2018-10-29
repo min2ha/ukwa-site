@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wakefield District Community Online
-
  This website provides details of services and what's on in Wakefield. 

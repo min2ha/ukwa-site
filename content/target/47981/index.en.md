@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Wiltshire Community Foundation
-
 Wiltshire Community Foundation has made a significant contribution to local communities by making grants of £10 million since 1991, giving money and support where people in Wiltshire and Swindon need it most.

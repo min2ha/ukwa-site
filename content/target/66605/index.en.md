@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# NINE MUSES POETRY
-
 Nine Muses Poetry aims to represent the best in contemporary poetry, inviting unsolicited submissions in English.

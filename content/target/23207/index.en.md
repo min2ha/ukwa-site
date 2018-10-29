@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Steve Churchman on Facebook (Liberal Democrat candidate for Dwyfor Meirionnydd)
-

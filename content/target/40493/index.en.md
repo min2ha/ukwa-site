@@ -10,6 +10,4 @@
   "start_date": "2016-05-06T10:00:00Z"
 }
 
-# Fife Writes
-
 Site of a writing group in Fife, Scotland, aiming to hold free events that include storytelling, short stories, novels, poetry, performance, music and workshops.

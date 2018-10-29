@@ -10,6 +10,4 @@
   "start_date": "2016-03-07T09:00:00Z"
 }
 
-# Press Association (PA)
-
 The Press Association (PA) is the national news agency for the UK and Ireland and a leading multimedia content provider across web, mobile, broadcast and print. The PA provides feeds of text, data, photos and video for digital and print media.

@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# National Union Students of Wales Manifesto: Better education. Better society
-

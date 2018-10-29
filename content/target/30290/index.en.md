@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# World Heritage UK: ﻿The Forth Bridge becomes Scotland’s sixth World Heritage Site
-

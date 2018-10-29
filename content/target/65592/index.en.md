@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# League Managers Association (LMA)
-
 The League Managers Association is the trade union for Premier League, EFL and national team managers in English association football. 

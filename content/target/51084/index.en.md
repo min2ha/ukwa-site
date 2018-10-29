@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Caerleon, Newport Quaker Meeting
-

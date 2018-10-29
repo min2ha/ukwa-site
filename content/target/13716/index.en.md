@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Telegraph, The: Christians 'cannot vote for Scottish independence in good conscience'
-
 None

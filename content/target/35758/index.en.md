@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# independent: Why some of the biggest companies in the UK didn't sign the pro-EU letter
-

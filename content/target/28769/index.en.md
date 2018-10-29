@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Climate London
-
 The London Climate Change Partnership, LCCP is the centre for expertise on climate change adaptation and resilience to extreme weather in London.

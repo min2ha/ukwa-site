@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Worcester Cathedral: Education downloads
-

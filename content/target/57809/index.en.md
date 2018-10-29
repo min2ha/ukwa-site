@@ -10,6 +10,4 @@
   "start_date": "2017-10-14T09:00:00Z"
 }
 
-# Levellers Day
-
 Burford, Oxfordshire. Radical history inspires today. Learning the lessons of history from the pioneers of 1649 to the challenges of today.

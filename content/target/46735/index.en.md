@@ -11,5 +11,3 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Nathan Gill AM MEP on Facebook
-

@@ -10,7 +10,5 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Palace Cinema Haverfordwest
-
 The Palace Cinema Two Screen Cinema, offering all the latest movies in
 Comfortable surroundings on Big, Bright Screens.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Emancipation & Liberation
-
 A blog maintained by the Republican Communist Network, (Scotland).

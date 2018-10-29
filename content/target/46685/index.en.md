@@ -10,6 +10,4 @@
   "start_date": "2016-11-02T09:00:00Z"
 }
 
-# Film Junction
-
 Film Junction was designed by The Film Agency for Wales and Programme Leader An gus Finney as a training scheme for Feature Film Producers in Wales.

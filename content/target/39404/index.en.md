@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fiona Dugdale- Labour for Midlothian South Tweeddale and Lauderdale on Facebook
-

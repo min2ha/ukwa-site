@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Heritage Recording Services Wales
-
 Heritage Recording Services Wales (HRS Wales) is a professional heritage and archaeological consultancy and contractor based in based in Llwyn-y-groes, Ceredigion. 

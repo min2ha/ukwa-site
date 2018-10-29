@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Luton Irish Forum (@IrishinLuton) on Twitter
-
 Charity working for the Irish and local community of Luton to Improve Welfare, Advance Education, Promote Social Inclusion, Celebrate Culture & Promote Health!

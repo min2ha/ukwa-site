@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Richard Howitt (@richardhowitt) on Twitter (Labour MEP for the East of England)
-
 Richard Howitt served as Labour MEP for the East of England from 1994-2016, when he stood down to become CEO of the International Integrated Reporting Council.

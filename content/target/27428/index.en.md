@@ -10,6 +10,4 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# Bron Afon
-
 Bron Afon is a community housing and social enterprise based in Cwmbran.

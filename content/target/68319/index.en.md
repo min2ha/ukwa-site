@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Knottingley RUFC
-
 Born in the early 1960's Knottingley RUFC, through hard work by many people, has gone from strength to strength. Based in West Yorkshire.

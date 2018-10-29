@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Annbank United Junior Football Club
-
 WordPress site for a Scottish junior football club based in Annbank, Ayrshire.

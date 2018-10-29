@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Richmond and Twickenham Times
-
 None

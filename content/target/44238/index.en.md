@@ -10,6 +10,4 @@
   "start_date": "2016-07-12T10:00:00Z"
 }
 
-# Frogs & Friends
-
 A family run swim school set up in Berkshire over 50 years ago.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Labour backing a second referendum shows democracy is working beautifully
-
 Lauds the Labour Party's decision at its 2018 Conference to back a second referendum on Brexit as an example of democracy at work.

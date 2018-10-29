@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Common Weal Project  
-
 None

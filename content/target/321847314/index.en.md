@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Heneiddio'n dda yng Nghymru | Ageing well in Wales
-
 The Programme is hosted and chaired by the Older People’s Commissioner for Wales. The first programme of its kind in the UK, the Ageing Well in Wales Programme contributes to and complements the Welsh Government’s Strategy for Older People (Phase 3) 2013-2023. 

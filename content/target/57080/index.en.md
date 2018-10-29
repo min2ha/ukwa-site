@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: European Union (Withdrawal) Bill
-
 The Bill cuts off the source of European Union law in the UK by repealing the European Communities Act 1972 and removing the competence of European Union institutions to legislate for the UK. As such, the EUW Bill has been referred to as “the Great Repeal Bill”. The Bill provides for a complex mixture of constitutional change and legal continuity.

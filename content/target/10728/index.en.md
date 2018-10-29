@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Mike Hookem, UKIP on Facebook
-
 None

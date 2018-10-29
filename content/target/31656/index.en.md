@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Menter Patagonia
-
 Welsh language initiative promoting the use of the Welsh language in Patagonia. Manter Patagonia is an initative funded by Welsh Goverment and involves the following Welsh organisations: Urdd Gobaith Cymru, Mentrau Iaith, British Council and Cymdeithas Cymru- Ariannin.

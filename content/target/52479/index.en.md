@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# City Church Swansea
-

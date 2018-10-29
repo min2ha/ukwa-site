@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Eglwys Annibynnol Mynydd Seion
-

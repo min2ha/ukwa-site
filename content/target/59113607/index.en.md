@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# National Farmers Union Cymru (NFU Cymru)
-
 The National Farmers' Union Cymru (NFU Cymru) is a member organisation/industry association for farmers in Wales. It is the largest farmers' organisation in Wales.

@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Rhayader & Elan Valley 
-
 This is a tourist information guide to Rhayader & Elan Valley.

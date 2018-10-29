@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Swift Bobskeleton Slider
-
 None

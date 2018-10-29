@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Digital, Culture, Media and Sport Committee: The potential impact of Brexit on the creative industries, tourism and the digital single market
-
 Maintaining access to talent, UK production tax credits, and getting clarity around regulatory equivalence with the EU, are vital to resolving concerns about Brexit.

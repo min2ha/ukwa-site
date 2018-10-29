@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# ScottishWomenInSport (@ScotWomenSport) on Twitter
-
 An independent charity formed in 2013 focused on raising the profile of Scottish Women In Sport

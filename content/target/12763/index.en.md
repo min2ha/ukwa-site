@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Conflux: Perch Carnival
-
 <p>Conflux runs projects to develop street arts, physical theatre and circus in Scotland and is a collaborator in the Perch Carnival, a part of the Glasgow 2014 Cultural programme.</p>

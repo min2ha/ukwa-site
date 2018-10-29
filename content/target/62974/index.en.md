@@ -10,6 +10,4 @@
   "start_date": "2018-03-23T09:00:00Z"
 }
 
-# Porter's Cardiff
-
 Porter's is a performance and event venue based in Cardiff.

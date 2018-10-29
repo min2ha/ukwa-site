@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# http://www.communities2point0.org.uk/
-
 <p>Communities 2.0 is run by the Welsh Co-operative Centre and helps communities and small enterprises make the most of the internet.</p>

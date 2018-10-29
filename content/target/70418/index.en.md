@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Guru Nanak Gurdwara Edinburgh on Facebook
-
 Facebook page of a Sikh place of worship located in Edinburgh.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Nick Yeomans - Independent Parliamentary Candidate for Brighton Pavilion
-

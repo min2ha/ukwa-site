@@ -10,6 +10,4 @@
   "start_date": "2017-09-29T09:00:00Z"
 }
 
-# Woodend Barn
-
 Site of a multi-arts centre in Aberdeenshire.

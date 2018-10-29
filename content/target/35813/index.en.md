@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vice: This Is What Could Happen to British Expats if the UK Leaves the EU 
-
 There are serious and growing concerns over what might happen to British EU residents in the event of Britain leaving the EU. The situation is made worse by the total lack of information currently available to help people prepare

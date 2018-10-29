@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Woodlands Church, Swansea
-

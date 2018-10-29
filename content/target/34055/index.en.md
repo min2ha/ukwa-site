@@ -10,6 +10,4 @@
   "start_date": "2016-01-15T09:00:00Z"
 }
 
-# Bwyta Cig Oen Cymru & Chig Eidion Cymru | Eat Welsh Lanb & Welsh Beef
-
 Meat Promotion Wales (HCC) website promoting the consumtion of Welsh Lamb & Beef.

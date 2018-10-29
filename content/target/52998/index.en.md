@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Obesity Health Alliance: Manifesto for 2017 General Election
-
 The Obesity Health Alliance is a coalition of over 40 leading charities, medical royal colleges and campaign groups working together to share their expertise and support the Government in tackling the complex issue of overweight and obesity in the UK.

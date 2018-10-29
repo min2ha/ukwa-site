@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# Historic Environment Local Management (HELM)
-
 <p>Historic Environment Local Management (HELM) provides information, training and guidance to decision makers in local authorities, regional agencies and national organisations whose actions affect the historic environment.</p>

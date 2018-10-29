@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# No More Panic: Health Anxiety - Breast Cancer and Ebola
-
 <p>An online forum and opinions' exchange by the public.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Labour says it will disband IPCC police watchdog 
-
 None

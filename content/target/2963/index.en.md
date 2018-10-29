@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Air BnB
-
 <p>Founded in August 2008, Airbnb is a community marketplace for people to list, discover, and book unique accommodation around the world.</p>

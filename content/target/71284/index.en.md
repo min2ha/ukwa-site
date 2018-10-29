@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Plymouth Argaum RFC on Pitchero
-
 The official website of Plymouth Argaum Rugby Football Club.

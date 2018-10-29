@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Forth Valley University of the Third Age
-
 Site of an organisation located in the Forth Valley, central Scotland, which encourages older people to keep active minds by discovering the pleasure of learning.

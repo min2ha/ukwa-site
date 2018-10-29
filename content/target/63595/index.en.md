@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Evening Express: Stephen Hawking
-
 This is the sub section of the Evening Express related to Stephen Hawking. 

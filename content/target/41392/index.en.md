@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Stockland
-
 Stockland is in the Blackdown Hills of South West England.

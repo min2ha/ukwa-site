@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# City AM: EU referendum: Berenberg economists predict Brexit could cause recession, a run on sterling, David Cameron's resignation and another Scottish IndyRef
-
 City AM: EU referendum: Berenberg economists predict Brexit could cause recession, a run on sterling, David Cameron's resignation and another Scottish IndyRef

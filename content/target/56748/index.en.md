@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Loch Ness Film Festival
-
 Site of a film festival located around Loch Ness and Drumnadrochit.

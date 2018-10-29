@@ -10,6 +10,4 @@
   "start_date": "2017-06-02T09:00:00Z"
 }
 
-# Copeland Labour Party
-
 Website of Copeland Labour Party during the 2017 General Election campaign

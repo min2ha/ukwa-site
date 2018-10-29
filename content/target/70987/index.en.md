@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Mail on Sunday: 'It is a humiliation. We look like a seven-stone weakling being comically bent out of shape by a 500 lb gorilla' BORIS JOHNSON'S blistering denunciation of our Brexit strategy... and his successor JEREMY HUNT'S trenchant defence
-
 Boris Johnson and Jeremy Hunt argue for and against the Chequers plan for leaving the EU.

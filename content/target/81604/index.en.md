@@ -10,7 +10,5 @@
   "start_date": "2018-10-18T09:00:00Z"
 }
 
-# Supporting Economic Transformation
-
 SET is supporting economic transformation in developing countries through analysis, policy advice and convening stakeholders.
 SET is a DFID funded programme which aims to provide practical policy support to country governments and their partners, including donors and the private sector.

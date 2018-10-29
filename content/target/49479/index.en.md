@@ -11,6 +11,4 @@
   "subject": "Russian Revolution Centenary"
 }
 
-# Arcola Theatre: Revolution
-
 Arcola’s new season investigates a world on the brink of profound change. It explores the causes and the colossal impact of the Russian Revolution 100 years on, and considers the people and ideas which could shape the next century.

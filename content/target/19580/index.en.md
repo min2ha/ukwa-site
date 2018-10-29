@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# British Safety Council 
-
 British Safety Council is a government-regulated awarding organisation and provides a full suite of health and safety qualifications in the national framework​.

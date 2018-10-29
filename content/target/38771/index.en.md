@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: IMF says Britain leaving the EU is a significant risk 
-
 Guardian, The

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Bexley London Borough Council
-
  London Borough of Bexley council website with public information on services and local government.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail: Don't panic! We can still get a strong deal with the most pro-Brexit House of Commons ever 
-

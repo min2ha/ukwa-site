@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: Magna Carta: Four surviving copies to be united for first time in history to mark 800th anniversary
-

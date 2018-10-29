@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour has changed on immigration, says Ed Miliband
-
 None

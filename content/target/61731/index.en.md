@@ -10,6 +10,4 @@
   "start_date": "2018-02-28T09:00:00Z"
 }
 
-# Lodge Caledonian St. John Royal Arch No. 195
-
 Site of a Royal Arch masonic lodge located at Milton of Campsie, East Dunbartonshire.

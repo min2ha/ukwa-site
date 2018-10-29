@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The Commonwealth World War I
-
 The contribution of the Commonwealth to the British World War I effort: Legacy and Impact The contribution of the Commonwealth to the British World War I effort: Legacy and Impact.

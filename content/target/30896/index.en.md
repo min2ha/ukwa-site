@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Chambers Management
-
 Chambers Management is a comedy and entertainment agency.

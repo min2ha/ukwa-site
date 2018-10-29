@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Clive Peaple (@retireenjoy) on Twitter (Liberal Democrats candidate for Barrow and Furness)
-
 Clive Peaple stood as Liberal Democrats candidate for Barrow and Furness at the 2015 General Election but was not elected. 

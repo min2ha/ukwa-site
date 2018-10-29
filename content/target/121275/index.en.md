@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Drowned in Sound (DiS)
-
 Drowned in Sound, sometimes abbreviated to DiS, is a UK-based music webzine financed by artist management company Silentway. Founded by editor Sean Adams, the site features reviews, news, interviews, and discussion forums.

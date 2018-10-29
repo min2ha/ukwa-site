@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: sanctions policy
-
 This report concludes that the effectiveness of UK sanctions will be undermined unless the UK can quickly agree arrangements for future sanctions policy co-operation with the EU. Without this, the UK could be left with the choice of imposing less effective unilateral sanctions or aligning with EU sanctions it has no influence over.
 

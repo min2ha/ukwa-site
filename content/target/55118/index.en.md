@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Bouldering UK (@BoulderingUK) on Twitter
-
 A Twitter community for indoor and outdoor bouldering, based in London

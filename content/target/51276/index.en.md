@@ -10,6 +10,4 @@
   "start_date": "2017-03-28T09:00:00Z"
 }
 
-# Highland House of Fraser
-
 Site of a kilt and tartan retailer, and their associated visitor centre, located in Inverness, Highlands.

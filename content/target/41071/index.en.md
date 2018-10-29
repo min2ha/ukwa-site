@@ -10,6 +10,4 @@
   "start_date": "2016-05-17T10:00:00Z"
 }
 
-# Development Trusts Association Scotland
-
 Site of a Scottish association supporting its members in establishing and running a successful community development trust in their communities and encouraging the growth of new development trusts.

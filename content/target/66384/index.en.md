@@ -10,6 +10,4 @@
   "start_date": "2018-05-31T09:00:00Z"
 }
 
-# RCA Design Interactions
-
 RCA Design Interactions: about Students Staff & Guests Research Graduating Projects 

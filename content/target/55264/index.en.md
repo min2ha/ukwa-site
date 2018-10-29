@@ -10,6 +10,4 @@
   "start_date": "2017-06-29T09:00:00Z"
 }
 
-# Roald Dahl's Revolting Rhymes
-
 Roald Dahl's Revolting Rhymes is a competition for primary school children to enter their most revolting rhymes for a chance to win prizes. Partners for the competition include Wales Literature Trust, National Literacy Trust and Penguin Book publishers.

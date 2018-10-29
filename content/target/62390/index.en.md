@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: A conversation to be had over the shape of Brexit
-
 Comments on the EU's draft guidelines for the Brexit trade talks. Argues that there is a hint that if Britain is prepared to compromise on some of its "red lines", the EU might show flexibility. 

@@ -11,5 +11,3 @@
   "subject": "Zines and Fanzines"
 }
 
-# Burnt Roti Mag (@BurntRotiMag) on Twitter
-

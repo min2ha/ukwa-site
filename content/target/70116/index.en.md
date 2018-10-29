@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Be:FIT London
-
 Taster of a range of classes from cooking demonstrations to confidence workshops

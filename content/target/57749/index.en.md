@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Huge inland lorry parks and NO import taxes: Bullish May draws plan for ‘no deal’ and prepares to spend billions on new border controls to keep British trade flowing if Brussels talks fail   
-

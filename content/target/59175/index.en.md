@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Aberdeen University Orienteering Club on Facebook
-
 Site of an orienteering club based in Aberdeen.

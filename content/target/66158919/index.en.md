@@ -10,5 +10,3 @@
   "start_date": "2012-10-05T00:00:00Z"
 }
 
-# National Year of Reading | Blwyddyn Darllen Genedlathol Cymru
-

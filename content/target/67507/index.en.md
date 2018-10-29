@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# London Bike Show
-
 Website for the London Bike Show

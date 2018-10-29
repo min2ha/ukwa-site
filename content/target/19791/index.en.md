@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ealing Labour on Facebook
-

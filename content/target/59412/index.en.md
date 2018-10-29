@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit offer 'must be acceptable to Ireland'
-
 The UK's offer on Brexit must be acceptable to the Republic of Ireland before the negotiations can move on, the president of the European Council, Donald Tusk, said following talks in Dublin on November 24th

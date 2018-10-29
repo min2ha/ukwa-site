@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Donna Edmunds, Ukip on Twitter
-
 None

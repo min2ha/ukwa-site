@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Vicki Adams Curling on Twitter
-

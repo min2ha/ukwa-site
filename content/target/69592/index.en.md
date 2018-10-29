@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Trench
-
 A music, style, and culture platform based in London aiming to uncover and uplift the voices of now.

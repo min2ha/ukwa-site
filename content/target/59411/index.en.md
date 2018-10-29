@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Breitbart - London: Brexitophobia: leave voters suffer widespread abuse as media focuses on 'Brexit Racism'
-
 Breitbart London  reveals exclusive reports from Leave voters and campaigners that show they are subject to ageist, racist, and politically motivated abuse. 

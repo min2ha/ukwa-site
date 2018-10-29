@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Stephen Hawking and 150 Royal Society fellows warn Brexit would be 'disaster for UK science'
-

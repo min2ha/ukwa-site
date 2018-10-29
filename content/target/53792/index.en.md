@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Employers for Childcare: Politicians are back on the campaign trail – what are the key issues parents can raise on the doorstep?
-
 Employers For Childcare’s Manifesto 2017 sets out the key issues that they believe should be prioritised. It is a tool for them to lobby politicians AND a tool for parents to raise issues on the doorstep.
 

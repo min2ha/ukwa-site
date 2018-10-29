@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Archdiocese of St Andrews and Edinburgh
-
 Site of the Roman Catholic Archdiocese of St Andrews and Edinburgh.

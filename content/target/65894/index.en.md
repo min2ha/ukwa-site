@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# Creative Review (@CreativeReview) on Twitter
-
 Creative Review is a monthly magazine targeted on the commercial arts and design scene.

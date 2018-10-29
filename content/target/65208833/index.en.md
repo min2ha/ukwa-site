@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Women's Royal British Legion: Sophie Williams Blog
-

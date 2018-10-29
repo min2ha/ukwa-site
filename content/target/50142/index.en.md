@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cairneyhill Parish Church
-
 The website of the Cairneyhill Parish Church. 

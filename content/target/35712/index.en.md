@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# European Futures | The University of Edinburgh
-

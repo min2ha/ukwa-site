@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Derek Bateman: Broadcaster
-
 Twitter of Derek Bateman, BBC Radio broadcaster specialising in politics, international affairs and Europe.

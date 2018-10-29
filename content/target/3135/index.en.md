@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# S4C
-
 S4C is the only Welsh language television channel in the world. As a public service broadcaster, it commissions independent producers from across Wales to make the majority of its programmes.

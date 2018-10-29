@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Openair Project
-
 The openair project is a Natural Environment Research Council (NERC) knowledge exchange project that aims to provide a collection of open-source tools for the analysis of air pollution data.

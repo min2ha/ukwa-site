@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Unless it acts now, Labour could end up like the Tories: haunted by Europe
-
 None

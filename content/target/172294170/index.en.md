@@ -10,5 +10,3 @@
   "start_date": "2013-07-09T00:00:00Z"
 }
 
-# JISC Advance
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Angus Robertson (MorayMP) on Twitter
-
 The twitter profile of Angus Robertson, Westminster Scottish National Party Member of Parliament for Moray from 2011 to 2017.

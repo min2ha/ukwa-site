@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# It's on Cardiff
-
 An information resource and comprehensive guide to Entertainment in the city of Cardiff.

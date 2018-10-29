@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: 'Quick fix' Labour plans a cause for concern, experts warn
-
 None

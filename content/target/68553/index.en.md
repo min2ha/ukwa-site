@@ -10,6 +10,4 @@
   "start_date": "2018-07-04T09:00:00Z"
 }
 
-# Clwb Y Bont (@ClwbYBont) on Twitter
-
 Clwb y Bont is a club that promotes the Welsh language and Culture and is located in Pontypridd. 

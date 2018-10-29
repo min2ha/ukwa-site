@@ -10,6 +10,4 @@
   "start_date": "2014-03-28T01:00:00Z"
 }
 
-# 13 Base - RAF
-
 None

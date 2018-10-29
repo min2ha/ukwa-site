@@ -10,6 +10,4 @@
   "start_date": "2015-02-06T06:00:00Z"
 }
 
-# Queen's and Lord Treasurer's Remembrancer
-
 <p>The site of the Crown’s representative in Scotland who deals with ownerless property.</p>

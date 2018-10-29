@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Douglas Carswell signals victory in cash battle with Nigel Farage
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-10-05T11:00:00Z"
 }
 
-# Lallans Scots Leid Associe / Scots Language Society
-
 Site of a society dedicated to promotion of and research into Scots language and literature.

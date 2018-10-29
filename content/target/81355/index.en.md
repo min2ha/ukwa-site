@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 10th October 2018: Agriculture Bill
-
 Record of the second reading debate on the Agriculture Bill and the future of farming after Brexit.

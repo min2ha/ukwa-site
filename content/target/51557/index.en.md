@@ -10,6 +10,4 @@
   "start_date": "2017-03-31T09:00:00Z"
 }
 
-# Scottish Grocers Federation
-
 Site of the national trade association for the convenience store industry in Scotland. It is the authoritative voice for the industry to both policy makers and the media.

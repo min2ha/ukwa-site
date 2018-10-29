@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Let Toys Be Toys – For Girls and Boys
-
 Let Toys Be Toys is asking the toy and publishing industries to stop limiting children’s interests by promoting some toys and books as only suitable for girls, and others only for boys.

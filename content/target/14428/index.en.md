@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - I will Vote YES if I can be convinced that YES...
-
 Ewan Morrison's post of 26th of June, 2014.

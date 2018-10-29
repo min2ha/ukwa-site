@@ -10,5 +10,3 @@
   "start_date": "2017-05-05T09:00:00Z"
 }
 
-# Karen Chilvers (@LDKatz71) on Twitter (Liberal Democrats candidate for Brentwood & Ongar)
-

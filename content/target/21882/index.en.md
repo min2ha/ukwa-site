@@ -10,6 +10,4 @@
   "start_date": "2015-09-09T10:00:00Z"
 }
 
-# Cartmel Village
-
 Cartmel Village - Medieval Village and Priory is an official website of the village in the South Lakeland District.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Diocese of Argyll and The Isles
-
 Site of the Argyll and the Isles diocese of the Scottish Episcopal Church

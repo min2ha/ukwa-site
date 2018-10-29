@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Balls renews Labour’s commitment to NHS by promising extra £2.5bn
-
 None

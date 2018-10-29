@@ -10,6 +10,4 @@
   "start_date": "2018-02-07T09:00:00Z"
 }
 
-# Julie Jones
-
 Julia Jones is an elected member of the RCA (Royal Cambrian Academy) and lives in Mid Wales. She makes paintings about our connections with nature.

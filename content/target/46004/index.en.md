@@ -10,6 +10,4 @@
   "start_date": "2016-10-08T10:00:00Z"
 }
 
-# Energy Institute (EI)
-
 The Energy Institute (EI) is a professional body for the energy industry, developing and sharing knowledge, skills and good practice towards a safe, secure and sustainable energy system.

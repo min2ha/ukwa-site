@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Top Secret Comedy Club
-
 Website for the Top Secret Comedy Club in London.

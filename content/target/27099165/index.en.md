@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# Joshua Sofaer
-

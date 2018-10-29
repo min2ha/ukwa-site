@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dr Altaf Hussain AM (@AltafHussainAM) on Twitter (Conservative candidate for South Wales West)
-
 Dr Altaf Hussain is the Conservative candidate for South Wales West at the 2016 National Assembly Elections.

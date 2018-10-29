@@ -11,6 +11,4 @@
   "subject": "Financial Regulation"
 }
 
-# UK Municipal Bonds Agency
-
 The UK Municipal Bonds Agency Plc helps local councils’ to finance their investment in projects, including infrastructure and housing, efficiently and cost effectively.

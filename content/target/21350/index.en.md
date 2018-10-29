@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul McGarry -  East Kilbride, Strathaven and Lesmahagow Liberal Democrats
-
 Website of Paul McGarry, Liberal Democrat candidate for East Kilbride, Strathaven and Lesmahagow in the 7th May 2015 General Election.

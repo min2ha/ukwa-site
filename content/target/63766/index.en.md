@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# London Irish Feminist Network
-
 They are self-defining feminists in London who also identify as having some connection with Ireland. Among their members are people who are former residents of Ireland, people with Irish heritage and ancestry and Irish citizens.

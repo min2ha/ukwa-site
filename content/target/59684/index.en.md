@@ -10,6 +10,4 @@
   "start_date": "2017-12-12T09:00:00Z"
 }
 
-# Steed Seascape Art
-
 Howi Steed is a Welsh artist who specialises in seascape and coastal landscape. She is based at the Newport Collective Gallery in Pembrokeshire.

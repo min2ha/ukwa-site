@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Society of Authors, The: More than Just Words
-
 Calls on the next Government to support Britain’s cultural heart: with funding and legislation, with transparency and ambition - always with more than just words.

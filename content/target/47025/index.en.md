@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# Prospect at BL (@ProspectBL) on Twitter
-
 Prospect is the trade union for professionals at the British Library. This is their official Twitter account.

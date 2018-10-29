@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Dominic Raab (@DominicRaab ) on Twitter (Conservative politician)
-
 Twitter feed of Dominic Raab, MP for Esher and Walton, who was appointed Brexit Secretary in July 2018 after David Davis resigned. He supported Leaving the EU during the 2016 referendum campaign

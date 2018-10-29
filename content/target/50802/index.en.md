@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Eglwys Minny Street, Caerdydd | Minny Street Welsh Congregational Church
-

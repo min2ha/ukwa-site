@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Neil Findlay (Neil_FindlayMSP) on Twitter
-
 <p>Twitter profile for Neil Findlay, Labour MSP for Lothian.</p>

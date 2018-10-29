@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Green Soul
-
 Stephen Dickson is the Scottish Green Party candidate for the South Scotland list in the 2016 Scottish Parliament election.

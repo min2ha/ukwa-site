@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Sweet Baboo 
-
 Sweet Baboo is the alias of Welsh singer/songwriter Stephen Black. He composes his own brand of psychedelic-laced country-folk music. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Lazarowicz (marklazarowicz) on Twitter
-
 The twitter profile of Mark Lazarowicz, Labour (Co-op) candidate for Edinburgh North and Leith in the General Election on the 7th May 2015.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Caledonian MacBrayne
-
 Site of the ferry company serving the Clyde estuary and Hebridean Islands / Western Isles of Scotland.

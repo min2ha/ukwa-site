@@ -10,6 +10,4 @@
   "start_date": "2017-04-20T09:00:00Z"
 }
 
-# Rhiw
-
 Rhiw is in Penllyn, Gwynedd. The website covers local history of the village.

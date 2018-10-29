@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Steve Bell on Jeremy Corbyn’s EU stance – cartoon
-
 Guardian, The

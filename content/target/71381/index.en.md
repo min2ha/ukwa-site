@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British sign language (BSL) discussion forum
-
 A British sing language discussion forum 

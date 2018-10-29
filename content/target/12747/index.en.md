@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Greg Rutherford - Olympic Long Jump Champion
-
 <p>The website of long jumper Greg Rutherford, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

@@ -10,5 +10,3 @@
   "start_date": "2015-07-02T11:00:00Z"
 }
 
-# Aberarth
-

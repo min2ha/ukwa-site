@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ariane Burgess (@ariane_burgess) on Twitter
-
 The Twitter profile of Ariane Burgess, Scottish Green Party candidate for Highlands and Islands in the 2016 Scottish Parliament election.

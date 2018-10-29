@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: I want to stay on as an MP if I lose the General Election
-
 None

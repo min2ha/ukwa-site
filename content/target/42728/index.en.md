@@ -10,6 +10,4 @@
   "start_date": "2016-06-10T10:00:00Z"
 }
 
-# Parent Action for Safe Play
-
 Site of a community based organisation aiming to improve the quality of life in Coatbridge by delivering an integrated, inclusive and accessible range of play, sports, leisure, and community based services. 

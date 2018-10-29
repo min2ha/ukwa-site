@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Hendry Review: Independent Review of Tidal Lagoons
-
 The Hendry Review is the website for the independent review of tidal lagoons, led by Charles Hendry. On 12 January 2017 Charles Hendry published his final report and recommendations of the Independent Review of tidal lagoons.

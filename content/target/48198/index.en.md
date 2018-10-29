@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Ye Amphibious Ancients Bathing Association
-
 Site of an open-water swimming association located in Tayside, Scotland.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour MP calls for police to investigate anti-mansion tax leaflets
-
 None

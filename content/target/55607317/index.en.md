@@ -11,6 +11,4 @@
   "subject": "Energy"
 }
 
-# Energy Research Partnership
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Greenock Telegraph: General Election 2017: Candidates quizzed at Clydebank hustings
-
 Liveblog of a debate between candidates for West Dunbartonshire constituency in the 2017 general election.

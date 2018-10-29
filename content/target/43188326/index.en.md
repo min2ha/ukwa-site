@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Duncan Hames (Liberal Democrat Candidate for Chippenham)
-

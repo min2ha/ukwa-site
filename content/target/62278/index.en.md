@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# talkSPORT (@talkSPORT) on Twitter
-
 A sports news radio station.

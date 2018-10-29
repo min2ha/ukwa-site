@@ -10,6 +10,4 @@
   "start_date": "2016-05-09T10:00:00Z"
 }
 
-# Lost Gallery
-
 Site of an art gallery located in Aberdeenshire and featuring modern visual art and sculpture.

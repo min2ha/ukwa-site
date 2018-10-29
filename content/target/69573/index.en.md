@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# ComisiynyddyGymraeg (@ComyGymraeg) on Twitter 
-
 The Comisiynydd y Gymraeg/ Welsh Language Commissioner was established in 2012. Its aims are to promote and facilitate the use of the Welsh language and raise awareness of the official status of the Welsh language in Wales by imposing standards on organisations.

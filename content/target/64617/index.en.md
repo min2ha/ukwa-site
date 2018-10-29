@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Physical Education and School Sport (PESS) Project | Prosiect Addysg Gorfforol a Chwaraeon Ysgolion
-
 The Physical Education and School Sport (PESS) Project was established in 2000 to improve standards of teaching and learning in Physical Education across schools in north Wales. 

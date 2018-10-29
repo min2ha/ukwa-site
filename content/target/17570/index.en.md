@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# Volkswagen Owners Club of Great Britain (VWOCGB)
-
 The Volkswagen Owners Club of Great Britain (VWOCGB) is a club open to owners and enthusiasts of all types of Volkswagen vehicles. It is a non-profit organisation, run voluntary by its members for its members.

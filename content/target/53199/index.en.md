@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Institution of Mechanical Engineers (IMechE): General Election 2017: The Institution of Mechanical Engineers Manifesto
-
 The manifesto provides priority policy solutions that would see tangible impacts on our citizens’ daily lives and that a government, of any hue, could take forward after 8 June 2017. It outlines proposals in the fields of health, education, energy and transport that any government could take forward.
 

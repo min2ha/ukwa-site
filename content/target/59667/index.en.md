@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sun, The: Teenagers addicted to their smartphones suffer from high levels of anxiety, depression, insomnia and impulsiveness
-
 News article about a recent study that concluded teenage smartphone addicts suffer from imbalances in brain chemistry that can cause anxiety according to researchers.

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Comunn Eachdraidh Bheàrnaraigh
-
 The Berneray Historical Society blog.

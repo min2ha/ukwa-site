@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mark Tully (@MTully92) on Twitter
-
 The twitter profile of althete Mark Tully, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

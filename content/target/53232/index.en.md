@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Morning Star Online: General Election
-
 Articles related to the 2017 UK General Election.

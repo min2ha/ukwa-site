@@ -11,6 +11,4 @@
   "subject": "Fashion"
 }
 
-# Pretty Small Shoes
-
 None

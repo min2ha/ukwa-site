@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# FC Queen's Park
-
 FC Queen's Park are a football team based in Wrexham.

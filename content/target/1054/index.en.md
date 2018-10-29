@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Centre for Transational Research in Public Health, The
-
 None

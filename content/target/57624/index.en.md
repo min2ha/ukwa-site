@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The Royal Society for the Protection of Birds Forums
-
 An online enthusiast community concerned with the preservation of bird species in the UK. Discusses expert advice on birds, feeding tips, identification of bird species, latest research and conservation news. 

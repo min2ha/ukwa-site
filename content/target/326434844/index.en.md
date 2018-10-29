@@ -10,6 +10,4 @@
   "start_date": "2015-07-01T10:00:00Z"
 }
 
-# Cynaliadwydd | Sustainability 
-
 The Sustainability Lab is based at Bangor University and a network of field-based experts across Wales. They develop and use HealthChecks, training and consultancy services to help organisations understand where they’re at in terms of sustainability, and how they can best move forward.

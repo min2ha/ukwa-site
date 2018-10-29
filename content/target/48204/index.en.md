@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Explore Harris
-
 Site providing visitor / tourist information for Harris, Outer Hebrides, Scotland.

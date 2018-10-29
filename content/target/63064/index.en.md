@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Stonelaw Parish Church
-
 Site of a Church of Scotland parish church in Rutherglen, Lanarkshire.

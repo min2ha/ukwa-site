@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Calum Martin
-
 A blog by Calum Martin following the activities of RISE Scotland's Left Alliance and the SSP.

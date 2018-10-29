@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bristol Harlequins
-
 Quins have started life in Somerset 1 with a great record of winning 4 of opening 5 games only losing narrowly to the league leaders Bristol Barbarians. They are the leagues top points scorers and have also conceded the least amount of points.

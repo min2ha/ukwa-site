@@ -10,5 +10,3 @@
   "start_date": "2015-11-10T09:00:00Z"
 }
 
-# Gŵyl Delynau Cymru | Wales Harp Festival
-

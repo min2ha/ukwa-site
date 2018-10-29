@@ -10,6 +10,4 @@
   "start_date": "2015-12-11T09:00:00Z"
 }
 
-# Dental Defence Union Journal
-
 Periodical published by the DDU. Since 2014 only available online.

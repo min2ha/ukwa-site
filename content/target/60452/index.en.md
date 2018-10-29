@@ -10,6 +10,4 @@
   "start_date": "2018-01-20T09:00:00Z"
 }
 
-# Museum of Homelessness
-
 The Museum of Homelessness is a new cultural space and community dedicated to exploring the challenges surrounding homelessness and it's depictions in culture and society, and to promoting tolerance and awareness.

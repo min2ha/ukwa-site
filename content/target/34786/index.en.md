@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# 1916 Easter Rising Coach Tour
-
 Provider of coach tours in Dublin

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Stephen Robinson, Liberal Democrat on Twitter
-
 None

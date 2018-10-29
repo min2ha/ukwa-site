@@ -10,6 +10,4 @@
   "start_date": "2017-02-16T09:00:00Z"
 }
 
-# Milo Yiannopoulos on Facebook
-
 This is the official Facebook page of Milo Yiannopoulos. It is maintained by a team of researchers and writers.

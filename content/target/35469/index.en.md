@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# UK Teratology Information Service: Zika virus in pregnancy
-
 This organisation provides reliable information to pregnant women on various drugs, chemicals, and other risk factors that may lead to damage to foetuses.

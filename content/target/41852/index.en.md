@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Mansfield District Council
-
 Website of Mansfield District Councilprovides information on council services and policies, local plans, budget and accounts, and committee papers and minutes.

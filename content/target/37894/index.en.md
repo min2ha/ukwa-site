@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Energy bills will rise if Britain leaves the EU, Energy Secretary Amber Rudd says
-

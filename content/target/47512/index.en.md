@@ -10,6 +10,4 @@
   "start_date": "2016-12-01T09:00:00Z"
 }
 
-# Clan Macpherson Museum
-
 Site of a museum located in Newtonmore, Highland, dedicated to the history of the Clan Macpherson and the local area.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: We voted out. Of course the EU wants Brexit to hurt
-

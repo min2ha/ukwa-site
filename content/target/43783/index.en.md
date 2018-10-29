@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Corporate Critic
-
 Corporate Critic is a product of the Ethical Consumer Research Association.

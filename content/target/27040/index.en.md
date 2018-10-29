@@ -10,6 +10,4 @@
   "start_date": "2015-05-29T08:00:00Z"
 }
 
-# SCC
-
 SCC is an IT company.

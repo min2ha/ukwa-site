@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gordon Banks MP (GordonBanksMP) on Twitter
-
 <p>The twitter profile of Gordon Banks, Shadow Scottish Office Minister and Labour Member of Parliament for Ochil and South Perthshire.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Labour 4 a Republic (@Labour4Republic) on Twitter
-
 Labour for a Republic is a voluntary group of Labour supporters who want a democratically elected head of state. This is their official Twitter account.

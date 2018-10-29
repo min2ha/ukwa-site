@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# Thrive Programme
-
 Helping individual to take control of their live and learn thrive.

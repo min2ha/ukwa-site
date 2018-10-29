@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Sportsdragon, The
-
 The Sportsdragon is the sporting news website of Mike Pearce a registered freelance Journalist reporting on Rugby for written and broadcast media outlets and regular writer for Spanish Rugby Magazine “Revista H”. The website provides a number of articles on Welsh rugby.

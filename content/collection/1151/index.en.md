@@ -231,6 +231,4 @@
   "endDateText": ""
 }
 
-# LGBTQ+
-
 2017 marks the 50th anniversary of the Sexual Offences Act, which partially decriminalised homosexuality. Over this time LGBTQ+ (Lesbian, Gay, Bisexual, Trans, Queer/Questioning) issues have moved from something scarcely mentioned – in fact barely legal - into the mainstream.  The Library’s collections of LGBTQ+ printed materials go back almost 500 years and, augmented by more recent material in the Sound Archive, provide a unique resource for research into the subject. This collection of websites augments these collections to reflect comptemporary aspects of LGBTQ+ life in modern Britain. 

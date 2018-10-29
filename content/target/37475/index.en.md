@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Life and Work, The Magazine of the Church of Scotland: Church backs EU membership
-
 Article about the views of the Church of Scotland concerning the EU referendum

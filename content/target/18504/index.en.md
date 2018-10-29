@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Nicola Sturgeon says England has nothing to fear from Scottish National Party
-
 None

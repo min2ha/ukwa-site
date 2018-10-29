@@ -11,5 +11,3 @@
   "subject": "Food Archive"
 }
 
-# Children's Food Trust
-

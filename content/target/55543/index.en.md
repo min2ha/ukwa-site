@@ -10,5 +10,3 @@
   "start_date": "2017-07-07T09:00:00Z"
 }
 
-# Pembrokeshire Guild of Weavers, Spinners and Dyers
-

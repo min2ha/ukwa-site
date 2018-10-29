@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UKCLA (@ukcla) on Twitter
-
 The twitter profile of the UK Constitutional Law Association.

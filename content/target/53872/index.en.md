@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Cambridge CA (@Cambridge_CA  ) on Twitter
-
 Twiiter account of Cambridge Conservatives, campaigning for the election of Dr John Hayward at the 2017 general election

@@ -10,6 +10,4 @@
   "start_date": "2017-01-28T09:00:00Z"
 }
 
-# Insight Wales
-
 Insight Wales was established in 2011 by Jonathan Morgan, ex Conservative AM,  and works with organisations to influence the Welsh Government's legislative agenda and the work of the National Assembly.

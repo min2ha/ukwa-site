@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# The Exeter
-
 We're an insurer, only focused on healthcare and protection insurance.

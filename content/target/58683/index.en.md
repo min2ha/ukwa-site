@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# Information & Records Management Society (IRMS) Conference
-
 Information & Records Management Society (IRMS) dedicated website for their annual conference.

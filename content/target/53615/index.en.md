@@ -10,6 +10,4 @@
   "start_date": "2017-05-25T09:00:00Z"
 }
 
-# MRC Cognition and Brain Sciences Unit
-
 Funded by the Medical Research Council, the Cognition and Brain Sciences Unit (CBU) studies human cognition and the brain. The Unit has about 90 researchers and postgraduate students investigating topics such as attention, emotion, language and memory.  The Unit will be officially becoming part of the University of Cambridge on 1st July 2017.

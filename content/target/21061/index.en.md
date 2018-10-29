@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kyle Thornton on Facebook
-
 This is the Facebook page of Kyle Thornton, the Conservative Party candidate for Glasgow South in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Aspenia Online
-
 Aspenia online is a forum where the major themes of current international affairs can be developed in a flexible fashion and in an agile editorial format – with articles averaging about 1,200 words. Our authors include top experts and leaders in foreign affairs, economists and policy makers, along with young emerging voices in these fields. 

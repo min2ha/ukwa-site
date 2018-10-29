@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: Leaden Hall launches Magna Carta poetry competition
-

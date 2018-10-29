@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Yes Bo'ness - Yes Bo'ness shared Yes Scotland's photo
-
 Yes Bo'ness post of 8th March 2013.

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Equality Network: LGBT Pathways to Parenthood
-
 Equality Network sub-page about the book 'LGBT Pathways to Parenthood: Lesbian, Gay, Bisexual and Transgender People Share Their Personal Journeys'. With links to a pdf copy of the book.

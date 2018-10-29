@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Seeds for Change
-
 Whether you are a local community group or a national campaign network, a co-operative or a charity - we can support you to become more strategic, inclusive and sustainable in what you do. We work with groups and organisations fighting to defend their communities, stopping environmental devastation and creating socially just and sustainable alternatives.

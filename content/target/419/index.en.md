@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Somerset Health and Wellbeing Board
-
 None

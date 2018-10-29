@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mail, The: Why I fear for liberty and justice in 2015 Britain, by DOMINIC SANDBROOK as the Magna Carta celebrates its 800th birthday
-

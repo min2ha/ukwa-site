@@ -10,5 +10,3 @@
   "start_date": "2014-05-14T00:00:00Z"
 }
 
-# Swyddfa Archwilio Cymru - Wales Audit Office
-

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# After the Conflict - Cumbrian War Memorials
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: 'Hard facts' for both sides in Brexit talks - Theresa May
-
 Summarises and analyses Theresa May's Mansion House speech on the UK's future economic relationship with the EU, delivered on March 2nd 2018.

@@ -11,5 +11,3 @@
   "subject": "Food Archive"
 }
 
-# Wakefield Beer Festival
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: UK and the EU: better off out or in?
-
 An exposition of the main arguments for and against Brexit

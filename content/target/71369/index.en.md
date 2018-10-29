@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Campaign: Agencies rush to meet gender pay gap deadline
-
 An article about reporting of the gender pay gap

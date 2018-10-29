@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Foreign and Commonwealth Office: Uniting for a Great Brexit: Foreign Secretary's Speech
-
 Foreign Secretary Boris Johnson sets out the path for an outward-facing, liberal and global Britain following its exit from the EU in a speech at the Policy Exchange on 14th February 2018. 

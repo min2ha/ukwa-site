@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Centre for Russian, European and Eurasian Studies (CREES)
-
 The Centre for Russian, European and Eurasian Studies (CREES) is a research institute based at the University of Birmingham.

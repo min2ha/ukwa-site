@@ -10,6 +10,4 @@
   "start_date": "2018-05-27T09:00:00Z"
 }
 
-# Chabad of Edinburgh
-
 Ste of the Orthodox Jewish, Hasidic movement Lubavitch / Chabad in Edinburgh. 

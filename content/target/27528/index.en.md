@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Ed Milliband is 'ready' to be Prime Minister - but the IFS says Labour still lacks clarity over the deficit
-
 None

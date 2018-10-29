@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Law and your environment
-
 UK Environmental Law Association plain guide to environmental law.

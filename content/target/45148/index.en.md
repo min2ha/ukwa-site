@@ -10,6 +10,4 @@
   "start_date": "2016-08-20T10:00:00Z"
 }
 
-# Ulster-Scots Community Network
-
 Site of an organisation established to promote awareness and understanding of the Ulster-Scots tradition in history, language and culture.

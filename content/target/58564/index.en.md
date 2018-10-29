@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Write Highland Hoolie
-
 Site of a book festival in Mallaig, Highland, Scotland.

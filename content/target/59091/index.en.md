@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# the wee REVIEW | Scotland's arts and culture magazine
-
 We provide reviews and opinion on the performing arts across Scotland, as well as commentary on wider cultural issues, politics and society. We are one of the most prolific Edinburgh Fringe review websites and have been reviewing at the Fringe since 2010.  Back then, our team of 3 writers covered 7 shows. By 2015, our team of 30 reviewed over 350. We also review extensively at the Edinburgh International Festival.

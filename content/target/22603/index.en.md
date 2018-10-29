@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: 'Illness doesn’t respect working hours': David Cameron to vow 'truly seven-day NHS'
-
 None

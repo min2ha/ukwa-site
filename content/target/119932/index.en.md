@@ -10,6 +10,4 @@
   "start_date": "2006-05-17T00:00:00Z"
 }
 
-# Effectivity
-
 None

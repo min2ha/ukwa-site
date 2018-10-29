@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Catholic Church Beauly
-
 Site of a Scottish Roman Catholic parish church located in Beauly, Highland, and its associated churches, Our Lady & St. Bean’s, Marydale, Cannich; St. Martin of Tours’, Ullapool; St. Mary’s, Eskadale; St. Maelrubha's, Poolewe.

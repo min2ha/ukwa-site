@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ronnie Job (@RonnieJob) on Twitter 
-
 Swansea West PPC for TUSCoalition.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General Election 2015: Poll suggests political figures could lose seats to SNP
-
 None

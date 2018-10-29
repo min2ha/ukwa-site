@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Causeway Coast & Glens
-
 None

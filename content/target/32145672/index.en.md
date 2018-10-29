@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hexham Quaker Meeting
-

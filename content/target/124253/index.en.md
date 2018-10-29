@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Inland Waterways Association (IWA)
-
 None

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Gaer Baptist Church, Newport
-

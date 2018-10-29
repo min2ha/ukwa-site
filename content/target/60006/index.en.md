@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Sands: Stillbirth & Neonatal Death Charity
-
 Sands is a UK charity that works across the country to support anyone affected by the death of a baby; improve the care bereaved parents receive from health care and other professionals; and reduce the number of babies who do die by funding research.

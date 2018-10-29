@@ -10,6 +10,4 @@
   "start_date": "2018-03-22T09:00:00Z"
 }
 
-# Wales Kidney Research Unit | Uned Ymchwil Arennol Cymru
-
 WKRU (Wales Kidney Research Unit/Uned Ymchwil Arennol Cymru) is funded by Health and Care Research Wales and aims to deliver an All-Wales strategy for the study of diagnosis, prevention, treatment and social context of kidney disease.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Northern Ireland Affairs Committee: The land border between Northern Ireland and Ireland
-
 In its report, the Northern Ireland Affairs Committee expresses concern over progress in finding a solution to the UK-Ireland land border post Brexit and points out the absence of a technical solution to render the border invisible.
 

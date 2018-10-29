@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Harrogate Methodist Chircuit
-
 None

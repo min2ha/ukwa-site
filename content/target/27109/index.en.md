@@ -10,6 +10,4 @@
   "start_date": "2015-05-30T09:00:00Z"
 }
 
-# National Space Academy
-
 The National Space Academy programme of student masterclasses, teacher professional development and careers events is delivered by a network of teachers and project scientists that use the context of space to teach physics, chemistry, biology, mathematics, geography and applied science to GCSE, A-level and BTEC students and their teachers. It is run by the National Space Centre.

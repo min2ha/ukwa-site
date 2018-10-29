@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# East Lothian Council: The Scottish Independence Referendum - An introduction to the Referendum
-
 None

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Legal Week
-
 News and opinions about business law firms.

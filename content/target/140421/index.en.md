@@ -10,6 +10,4 @@
   "start_date": "2007-08-30T00:00:00Z"
 }
 
-# UK Web Archiving Consortium (UKWAC) ¿ Wikipedia
-
 None

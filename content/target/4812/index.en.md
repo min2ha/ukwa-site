@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Rugby Round-Up: Mandela tributes pour in
-
 <p>Tributes to Nelson Mandela from rugby and other sporting celebrities and organisations.</p>

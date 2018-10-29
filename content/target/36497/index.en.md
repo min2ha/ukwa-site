@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: France says it WOULD move the 'Jungle' camp from Calais to Kent after a Brexit vote but Out campaigners dismiss the claim as 'propaganda'   
-

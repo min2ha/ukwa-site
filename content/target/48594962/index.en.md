@@ -10,5 +10,3 @@
   "start_date": "2017-06-21T09:00:00Z"
 }
 
-# Black Welsh Mountain Sheep Breeders' Association
-

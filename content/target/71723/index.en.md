@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Liverpool St. Helens Football Club
-
 The official website of Liverpool St. Helens Football Club. 
 Liverpool St. Helens is the oldest rugby football club in the world. 
 Founded in 1857.

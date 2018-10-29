@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Stand Up and Spit
-
 Website for Stand Up and Spit, a series of gigs, exhibitions and talks in 2015, but with lots of research into Ranting poetry and Ranting poets.

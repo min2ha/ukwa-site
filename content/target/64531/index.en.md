@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Jayne Huskisson, Textile Artist
-
 Jayne Huskisson is an award-winning textile artist living near Rhosneigr on the Isle of Anglesey. Much of her work captures the beautiful surrounding landscape of Anglesey and of north Wales with a vibrant and contemporary twist. 

@@ -10,6 +10,4 @@
   "start_date": "2015-05-13T09:00:00Z"
 }
 
-# Lovespoon workshop, The
-
 The lovespoon workshop is based at Kilgetty, near Tenby.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Stafford RUFC on Pitchero
-
 The official website of Stafford Rugby Football Club.

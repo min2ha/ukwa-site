@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Full Fact (@FullFact) on Twitter
-
 Full Fact are a UK independent, non-partisan, fact checking charity.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Revealed: Nigel Farage planned Aids comment as part of 'shock and awful' TV debate strategy
-
 None

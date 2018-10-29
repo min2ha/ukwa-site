@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Margam Abbey, Port Talbot
-

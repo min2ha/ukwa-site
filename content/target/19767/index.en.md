@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Camden Liberal Democrats on Facebook
-

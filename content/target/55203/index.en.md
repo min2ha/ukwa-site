@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Stop School Cuts (@StopSchoolCuts) on Twitter
-
 Twitter account of Stop the School Cuts, a grass roots campaign to stop school funding cuts in Cheshire West. Schools are losing money due to a new funding formula introduced by the Conservative government in advance of the 2017 general election.

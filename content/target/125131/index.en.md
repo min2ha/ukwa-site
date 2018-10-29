@@ -10,6 +10,4 @@
   "start_date": "2012-11-28T00:00:00Z"
 }
 
-# @teb: Answers in Technology for Expanding Business
-
 None

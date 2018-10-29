@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# New Civil Engineer (NCE)
-

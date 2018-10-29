@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Norwich Green Party
-
 Website of Green Party in Norwich, provides information on local issues and news, Green councillors and how to get involved.

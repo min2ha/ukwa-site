@@ -10,7 +10,5 @@
   "start_date": "2018-05-11T09:00:00Z"
 }
 
-# Peculiar Productions
-
 "Peculiar Productions is a Cardiff-based multimedia production company specialising in the humorous and peculiar. They produce
  two large shows or projects a year, one an adaptation of work by Sir Terry Pratchett."

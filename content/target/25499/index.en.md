@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tories accused of being 'desperate' in seeking NHS doctors' support
-
 None

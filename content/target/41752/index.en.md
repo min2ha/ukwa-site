@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Having lost the argument on the economy, Vote Leave has unleashed its inner Farage
-

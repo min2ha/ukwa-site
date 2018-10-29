@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# Pembrokeshire Rarities
-
 The Pembrokeshire Rarities site provide details of sightings of rare birds in Pembrokeshire and also the photographs which often accompany these sightings.

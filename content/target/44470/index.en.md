@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Islington: Results of the EU Referendum
-
 Islington Council website publishing ballot results of EU Referendum in Islington

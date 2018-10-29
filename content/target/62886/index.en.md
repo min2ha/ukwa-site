@@ -10,6 +10,4 @@
   "start_date": "2018-03-21T09:00:00Z"
 }
 
-# Lodge Kelvin Partick No. 1207
-
 Site of a masonic lodge located in Partick, Glasgow and affiliated with the Grand Lodge of Scotland.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Will the article 50 ruling stop Brexit? Our panel responds
-

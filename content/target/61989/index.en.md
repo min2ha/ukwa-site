@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Riverside Stadium | Middlesbrough FC
-
 The Riverside Stadium is a football stadium in Middlesbrough, England, which has been the home of Middlesbrough F.C. since it opened in 1995.

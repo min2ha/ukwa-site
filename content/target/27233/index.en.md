@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# MEND - Muslim Engagement  and Development 
-
 MEND is a not-for-profit company that was founded to help empower and encourage British Muslims within local communities to be more actively involved in British media and politics.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Huffington Post: How I Will Be Voting in the EU Referendum
-
 Argues that if the British people do vote to stay in, then thanks to David Cameron, the UK will do so on better terms, something no British Prime Minister has been able to negotiate before.

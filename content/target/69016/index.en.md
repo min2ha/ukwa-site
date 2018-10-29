@@ -10,6 +10,4 @@
   "start_date": "2018-07-19T09:00:00Z"
 }
 
-# Mountain Ash RFC Singers, The
-
 Mountain Ash RFC Singers are a versatile choir, based in South Wales. First formed in 1975. 

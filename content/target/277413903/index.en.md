@@ -10,5 +10,3 @@
   "start_date": "2014-11-24T00:00:00Z"
 }
 
-# Open Med Science: Journal of Diagnostic Imaging in Therapy
-

@@ -10,6 +10,4 @@
   "start_date": "2015-04-22T09:00:00Z"
 }
 
-# Rumney History
-
 The site is run by Rumney & District Local History Society for the welsh parishes of Rumney, St. Mellons, Llanrumney, Peterstone-Wentloog, Marshfield, Castleton, Coedkernew, Michaelston-Y-Fedw and Newton.

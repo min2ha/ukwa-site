@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Africa at LSE Blog: Nelson Mandela
-
 None

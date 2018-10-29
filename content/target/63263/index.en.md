@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Madoc Books
-
 Madoc Books is located in Llandudno, North Wales and are Antiquarian Booksellers specialising in British Topography and Travel, with an emphasis on Wales.

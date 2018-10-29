@@ -11,8 +11,6 @@
   "subject": "UK General Election 2017"
 }
 
-# British Future: Immigration: the Manifesto Challenge
-
  British Future poses ten key questions about future policy choices which voters will want parties and candidates to be able to answer at hustings, on the doorstep and in the media. It then offers its own proposals in answer to those questions: ten practical measures that could help to rebuild trust and confidence in how we manage immigration and integration in Britain. These ‘common ground’ proposals would, we believe, secure the support of most voters across the political and referendum divides – so we hope that politicians of all parties will consider them, as they discuss immigration during the 2017 General Election campaign:
 
  

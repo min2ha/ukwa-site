@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sally Gathern (@sanng7) on Twitter (Labour Party Politician)
-
 Sally Gathern stood as Labour Party candidate for Ashford in the 2017 General Election but was not elected.

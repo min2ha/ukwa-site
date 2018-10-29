@@ -10,6 +10,4 @@
   "start_date": "2018-09-19T09:00:00Z"
 }
 
-# Victoria and Albert (V&A) Museum of Design, Dundee
-
  Article about the project to build the V&A Dundee. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour’s biggest donor ready to fund candidate who abandons 'left wing' policy platform
-
 None

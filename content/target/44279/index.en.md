@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Angela for Labour Leader
-
 Campaign website of Angela Eagle, MP for Wallasey, in her bid for leadership of the Labour Party in July 2016.

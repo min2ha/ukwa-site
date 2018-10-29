@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Chippenham Constituency Labour Party on Facebook
-
 Facebook page of Chippenham Constituency Labour Party

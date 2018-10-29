@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Royal Free London, The: News
-
 <p>News pages from the Royal Free Hospital, London.</p>

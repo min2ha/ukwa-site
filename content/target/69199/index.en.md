@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Cathedral Quarter Arts Festival
-
 10-day festival of stars, fringe acts, emerging artists and household names in music, comedy, literature, theatre and visual art taking place in Belfast's historic Cathedral quarter.

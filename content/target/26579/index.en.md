@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Greens’ leftist rhetoric let them down badly
-
 None

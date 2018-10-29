@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Mumsnet: General Election: 5 ways to get kids engaged in politics
-

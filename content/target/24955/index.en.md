@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: I'll grab power even if I lose, boasts Ed: Labour leader admits he may not win but STILL sets out condition for coalition
-
 None

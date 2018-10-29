@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jim Eadie MSP | Working for Edinburgh Southern, Jim Eadie MSP, SNP MSP
-
 Jim Eadie is the Scottish National Party candidate for the Edinburgh Southern constituency in the 2016 Scottish Parliament election.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave in FoD (@VoteLeaveFOD) on Twitter
-
 Forest of Dean group campaigning for the UK to leave the EU

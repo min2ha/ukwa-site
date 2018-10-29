@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Goytre United Football Club 
-
 Goytre United play at Glenhafod Park Stadium, Neath Port Talbot.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The SNP’s tartan tail wagging the red Labour dog: don’t rule it out
-
 None

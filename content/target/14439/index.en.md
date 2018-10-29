@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - Comments from some people who are ignorant of the...
-
 Ewan Morrison's post of 24th May, 2014 on the Glasgow School of Art's Charles Rennie Macintosh building, badly damaged by fire the day before.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cambuslang Rugby Club
-
 Site of a Scottish rugby union football club based in Cambuslang, south west Glasgow.

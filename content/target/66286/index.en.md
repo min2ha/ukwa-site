@@ -10,5 +10,3 @@
   "start_date": "2018-05-29T09:00:00Z"
 }
 
-# Sister Outrider | A Black Radical Feminism
-

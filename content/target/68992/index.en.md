@@ -10,6 +10,4 @@
   "start_date": "2018-07-18T09:00:00Z"
 }
 
-# Gabalfa Community Choir
-
 Gabalfa Community Choir was founded in 2010 and have over 60 members in the mixed-voice choir.

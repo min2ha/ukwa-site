@@ -10,6 +10,4 @@
   "start_date": "2017-07-22T09:00:00Z"
 }
 
-# Keep off the Grass
-
 Keep off the Grass is a site created by Welsh dancer, Beth Powlesland.

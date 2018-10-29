@@ -10,6 +10,4 @@
   "start_date": "2015-07-04T10:00:00Z"
 }
 
-# International Agatha Christie Festival, The
-
 Agatha Christie Festival takes place in Torquay, Devon.

@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# SmallBizPod - inspiration for entrepreneurs
-
 None

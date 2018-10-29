@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Guardian, The: We’ve set up #PayMeToo to ensure women earn what they deserve
-
 An article about the formation of the #PayMeToo campaign 

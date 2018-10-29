@@ -10,6 +10,4 @@
   "start_date": "2018-09-26T09:00:00Z"
 }
 
-# Bloomsbury Book Fair (Etc Fairs)
-
 Monthly fair for antiquarian and collectable books in Bloomsbury, London

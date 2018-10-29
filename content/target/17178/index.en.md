@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  101 days to General Election: here are 101 promises broken by ConDem Coalition government
-
 None

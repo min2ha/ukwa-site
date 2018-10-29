@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Dinas Powys Football Club
-

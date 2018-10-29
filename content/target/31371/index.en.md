@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Amir Khan
-
 Official website of Amir Khan, a British Pakistani boxer.

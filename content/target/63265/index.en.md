@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Talgarth and District Historical Society
-
 Talgarth and District Historical Society was first formed in the 1950’s and ran for a few years until it disbanded, only to be reformed in the 1980’s and then disbanded once more. The catalyst leading to the Society once again being reformed was the very first Talgarth Festival in 1996.

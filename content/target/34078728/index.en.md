@@ -10,5 +10,3 @@
   "start_date": "2010-04-28T00:00:00Z"
 }
 
-# Highland Cattle Club of Wales
-

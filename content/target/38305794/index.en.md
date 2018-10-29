@@ -10,6 +10,4 @@
   "start_date": "2015-07-10T10:00:00Z"
 }
 
-# Architecture.com 
-
 Official website of the Royal Institute of British Architects (RIBA), an organisation championing better buildings, communities and the environment through architecture.

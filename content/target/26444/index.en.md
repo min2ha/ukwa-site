@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: London tube staff use cheeky messages to encourage commuters to vote
-
 None

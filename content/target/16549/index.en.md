@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Gravitas for hire: Paddy Ashdown now available for voiceovers
-
 None

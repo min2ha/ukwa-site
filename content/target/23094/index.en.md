@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Steve Williams on Twitter (TUSC candidate for Cardiff Central)
-

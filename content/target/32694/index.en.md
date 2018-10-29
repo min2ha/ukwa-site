@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The WW1 letters of Charles Roy Bailey
-

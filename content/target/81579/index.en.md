@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Hook History Society
-
 Hook is a Pembrokeshire village. Its local history society was established in 2012.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Rob Walsh (@RobWalshWrexham) on Twitter
-
 Welsh Liberal Democrat parliamentary candidate for Wrexham.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Welsh Football Trust
-

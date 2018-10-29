@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Carl Walker (@carl1545) on Twitter (National Health Action Party Politician)
-
 Carl Walker stood as the National Health Action Party candidate for East Worthing and Shoreham in the 2017 General Election but was not elected.

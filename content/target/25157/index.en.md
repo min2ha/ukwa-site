@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Nick Clegg: 'I am committed to equality'
-
 None

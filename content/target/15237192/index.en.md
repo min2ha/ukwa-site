@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Teapots Teapots Teapots
-
 None

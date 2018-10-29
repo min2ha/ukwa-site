@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Howard Porter (@HowardwkGreens) on Twitter (Green Party candidate for Tonbridge and Malling)
-

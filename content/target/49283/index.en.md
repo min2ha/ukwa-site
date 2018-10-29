@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit vote: Clive Lewis quits shadow cabinet as MPs back bill
-
 MPs overwhelmingly agreed to let the government begin the UK's departure from the EU as they voted for the Brexit bill, The draft legislation was approved by 494 votes to 122, before moving to the House of Lords. Shadow business secretary Clive Lewis was one of 52 Labour MPs to defy party orders to back the bill and he resigned from the front bench.
 
 

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Greenpeace: Why I believe the UK should stay in the EU
-
 Author gives his top three reasons why Britain should stay in the EU from an environmentalist viewpoint

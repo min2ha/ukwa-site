@@ -10,6 +10,4 @@
   "start_date": "2016-07-30T10:00:00Z"
 }
 
-# Stand up to UKIP on Twitter
-
 Stand up to UKIP Twitter feed

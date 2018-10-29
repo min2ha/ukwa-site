@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Hockey Museum, The
-
 The Hockey Museum (THM) is a relatively new organisation whose aim is to preserve, share and celebrate the heritage and history of the sport of hockey, not only in Britain where the modern game started, but also from all round the world.

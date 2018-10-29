@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Jeane Freeman (@JeaneF1) on Twitter
-

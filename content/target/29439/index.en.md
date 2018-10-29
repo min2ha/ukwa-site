@@ -10,6 +10,4 @@
   "start_date": "2015-07-29T10:00:00Z"
 }
 
-# Lincolnshire Naturalists' Union, The 
-
 The Lincolnshire Naturalists' Union was founded in 1893. Members study, record, hold meetings, supply information, publish books, exhibit, discuss and learn about Lincolnshire's wildlife and geology.

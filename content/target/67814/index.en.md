@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Study of the Earth's Deep Interior (SEDI)
-
 SEDI is an international scientific organisation dedicated to the Study of the Earth's Deep Interior. The ultimate goal of  SEDI is an enhanced understanding of the past evolution and current thermal, dynamical and chemical state of the Earth's deep interior and of the effect that the interior has on the structures and processes observed at the surface of the Earth.

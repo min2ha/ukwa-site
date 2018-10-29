@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Adam Smith Institute
-
 Independent, non-profit and non-partisan, the Adam Smith Institute works to promote free market, classical liberal ideas through research, publishing, media outreach, and education. The Institute is today at the forefront of making the case for free markets and a free society in the United Kingdom.

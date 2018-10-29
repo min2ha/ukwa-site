@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Jeremy Hunt pledges extra £8bn for NHS if Conservatives win election
-
 None

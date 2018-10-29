@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Un Ynni Cymru | One Wales Energy
-
 One Wales Energy is a new approach to energy supply in Wales with the aim of establishing an independent energy supply company for Wales. At present, Wales has no dual fuel domestic energy supplier actively trading and based in Wales. 

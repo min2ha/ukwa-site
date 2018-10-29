@@ -10,6 +10,4 @@
   "start_date": "2018-07-11T09:00:00Z"
 }
 
-# BST Hyde Park (@BSTHydePark) on Twitter
-
 Summer music and entertainment events at Hyde Park, London. This is their official Twitter account.

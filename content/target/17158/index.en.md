@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Chuka Umunna asks business leaders to stop smearing Ed Miliband
-

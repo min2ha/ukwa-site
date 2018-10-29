@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Boris Johnson launches personal attack on David Cameron
-

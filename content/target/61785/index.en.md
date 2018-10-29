@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Future UK fisheries policy
-
 This pack was prepared ahead of the debate theld in Westminster Hall on Tuesday 27 February from 2.30-4pm on UK future fisheries policy. The debate was opened by Scott Mann MP.
 

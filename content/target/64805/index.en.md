@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Griffin Books
-
 Griffin Books is an independent book shop based in Penarth.

@@ -10,7 +10,5 @@
   "start_date": "2015-06-09T09:00:00Z"
 }
 
-# Robert Owen Community Banking
-
 Robert Owen Community Banking is a not-for-profit company and provider of finance to homes, businesses and communities across Wales. 
  

@@ -10,5 +10,3 @@
   "start_date": "2015-11-04T00:00:00Z"
 }
 
-# Arolwg diogelwch cymunedol  | Community Safety Survey
-

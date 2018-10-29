@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ethan R Wilkinson (@ethanrwilkinson) on Twitter
-
 UKIP Parliamentary Candidate for Cardiff North.

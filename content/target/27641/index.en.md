@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# George Osborne: Conservative summer budget speaks for working people
-
 None

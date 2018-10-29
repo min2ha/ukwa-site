@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# APS (@prolifestudents) on Twitter
-
 The Alliance of Pro-Life Students is run by students and recent graduates for students. This is their official Twitter account.

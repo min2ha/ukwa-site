@@ -10,6 +10,4 @@
   "start_date": "2017-05-06T09:00:00Z"
 }
 
-# Air Loom, The
-
 The Air Loom is the first recorded account of a human Influencing Machine. Borne of the same paranoia and psychosis that characterises contemporary reports of mind control, the air loom emerges from the mind of James Tilly Matthews, a bedlam inmate who had previously been embroiled in political intrigue during the french revolution. Up until now The Air Loom existed only as drawings and writings, manifestations of Matthews psychosis.

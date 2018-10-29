@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# BBC News: Brexit: Gove doubts whether No 10 customs plan is 'deliverable'
-
 In an interview with the BBC. environment secretary Michael Gove expressed doubts about the viability of the proposed customs partnrship with the EU, saying it had flaws.

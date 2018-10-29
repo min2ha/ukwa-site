@@ -10,6 +10,4 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# The Urban Transport Group
-
 The Urban Transport Group brings together and promotes the interests of Britain's largest urban areas on transport.

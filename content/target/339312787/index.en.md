@@ -10,6 +10,4 @@
   "start_date": "2016-03-10T09:00:00Z"
 }
 
-# Save Our Cardiff Reservoirs Walk
-
 This is a campaigning organisation formed in 2001 to prevent development and to maintain public access to both Llanishen and Lisvane reservoirs.

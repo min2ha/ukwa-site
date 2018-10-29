@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Raymond Mennie (@raymondmennie) on Twitter
-
 Twitter profile of Raymond Mennie, the Communist Party of Great Britain list candidate for North East Scotland region in the 2016 Scottish Parliamentary election.

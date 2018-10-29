@@ -10,6 +10,4 @@
   "start_date": "2016-01-26T09:00:00Z"
 }
 
-# Career Development Institute (CDI)
-
 The CDI is a UK-wide professional organisation for everyone working in the fields of career education; career information, advice and guidance; career coaching and career management. They were established on 2 April 2013.

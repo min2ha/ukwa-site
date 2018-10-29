@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# All About Trans
-
 An On Road Media project aiming to positively change how the media understands and portrays trans people.

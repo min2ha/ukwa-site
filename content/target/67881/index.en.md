@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Supercharged Free Ports, the visionary way to boost the north of England’s economy
-
 Whether you voted for Brexit or not, it is going to happen. We need some creative thinking to bring the Remainers and Brexiteers closer together. One such idea is the introduction of free ports in the North of England to revitalise the local economy

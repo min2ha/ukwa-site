@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Intergenerational Foundation: Manifesto for the 2017 General Election
-
 Action to address the current plight of younger generations should be high up on the agendas of political parties with the 8 June General Election just around the corner.
 

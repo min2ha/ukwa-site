@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Geographical: The EU Referendum and the UK environment
-
 Article concerning the launch of the report on environmental scenarios following the EU referendum. Includes statements from the heads of the main environmental NGOs

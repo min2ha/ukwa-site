@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Claude Moraes (Labour MEP for London)
-
 Claude Moraes is Labour Member of the European Parliament for London and Deputy Leader of the European Parliamentary Labour Party (EPLP) and Chair of the European Parliament's Civil Liberties, Justice and Home Affairs Committee (LIBE). First elected to the European Parliament in 1999, Claude was the first  Asian origin MEP. He was reelected in 2009 where he led the London list. He was the Socialists and Democrats Group Spokesperson in the European Parliament for Civil Liberties, Justice and Home Affairs from 2009 -2014.

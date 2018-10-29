@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Crosshouse Parish Church
-

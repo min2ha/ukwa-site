@@ -10,6 +10,4 @@
   "start_date": "2018-06-17T09:00:00Z"
 }
 
-# Scotland United Against Trump on Facebook
-
 Facebook page of a group protesting against the United States president, Donald Trump

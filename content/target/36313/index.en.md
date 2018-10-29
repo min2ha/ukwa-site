@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: How YOU can stand up to get Britain OUT of the EU and claw back our democracy
-
 Commentary by Matthew Elliott, Chief executive of the Vote Leave campaign 

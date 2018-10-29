@@ -10,6 +10,4 @@
   "start_date": "2018-08-07T09:00:00Z"
 }
 
-# Diffusion 2013: Cardiff International Festival of Photography
-
 Diffusion is a biennial month-long international festival of photography taking place in Cardiff. The festival is initiated and delivered by Ffotogallery. This is the website for the 2013 festival.

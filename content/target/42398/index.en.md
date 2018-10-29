@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Buckhurst Hill Parish Council
-

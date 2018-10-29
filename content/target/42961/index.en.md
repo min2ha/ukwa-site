@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# National Farmers Union Scotland / NFU Scotland
-
 Site of a representative organisation promoting and protecting the interests of membership..

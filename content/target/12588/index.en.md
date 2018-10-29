@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Everyday Lives in War. Experience and Memory of the First World War
-
 <p>One of the five Engagement Centres funded by the Arts and Humanities Research Council in relation to the First World War Centenary, at the University of Hertfordshire.</p>

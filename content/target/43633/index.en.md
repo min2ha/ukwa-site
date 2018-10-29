@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# My Green Pod: Brexit and the Environment
-
 Blog discussing the findings of the report on the environmental implications of the UK referendum

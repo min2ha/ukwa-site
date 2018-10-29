@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Institute of International and Comparative Law (BIICL)
-
 The British Institute of International and Comparative Law (BIICL) provides informed, independent and practical legal ideas for a global community. It was founded in 1958.

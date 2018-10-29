@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Shetland Accordion and Fiddle Club
-
 Site of a music club established to promote traditional Shetland music, and stage an annual festival of fiddle and accordion music in Shetland.

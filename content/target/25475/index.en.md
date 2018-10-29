@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Nick Clegg interview: ‘I’ve taken hit after hit after hit. I’m a lot tougher’
-
 None

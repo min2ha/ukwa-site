@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Medicare francais
-
 French medical center in London

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Roisin Robertson (Green party candidate for Bromley and Chislehurst)
-

@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Action Aid: Ebola Crisis Appeal
-
 None

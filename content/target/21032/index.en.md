@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Barry Black (@BarryBlackNE) on Twitter
-
 Twitter profile of Barry Black, Scottish Labour candidate for West Aberdeenshire and Kincardine in the 2017 general election.

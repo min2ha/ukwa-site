@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford Students for Europe (@osfeurope) on Twitter
-
 The official campaign for students at the University of Oxford and Oxford Brookes University to remain in the European Union.

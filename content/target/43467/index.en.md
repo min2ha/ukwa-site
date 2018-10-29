@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# The Wildlife Trusts Blog: Why the UK's membership of the EU matters for wildlife
-

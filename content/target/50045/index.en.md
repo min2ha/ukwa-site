@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bethesda Baptist Church, Rogerstone
-

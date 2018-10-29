@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# John Lamont MSP on Facebook
-
 John Lamont is a Scottish Conservative MSP for the Borders and candidate for Berwickshire, Roxburgh & Selkirk in the May 2015 UK General Election and Ettrick, Roxburgh and Berwickshire in the 2016 Scottish Parliamentary election.

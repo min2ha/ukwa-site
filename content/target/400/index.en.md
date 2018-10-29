@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Newham Health and Wellbeing Board
-
 None

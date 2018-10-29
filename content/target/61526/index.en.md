@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Canonbie United Parish Church
-
 Site of a Church of Scotland parish church at Canonbie, Dumfries and Galloway, which is also affiliated to the United Free Church of Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2017-04-12T09:00:00Z"
 }
 
-# Institute of Classical Studies: School of Advanced Studies, University of London
-
 This (archived) website represents the work and research of an international network of academics collaborating and researching in the field of Classical Studies at the School of Advanced Study, the UK's national hub for the humanities. The ICS is one of nine member Institutes of the University of London’s School of Advanced Study, which is devoted to the promotion, facilitation and practice of research and scholarship in many aspects of the Humanities.

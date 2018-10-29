@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Rams Rugby Club on Pitchero
-
 The official website of Redingensians Rams Rugby Club.

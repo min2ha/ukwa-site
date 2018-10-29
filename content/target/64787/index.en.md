@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Tredegar Orpheus Male Voice Choir
-
 Tredegar Orpheus Male Voice Choir was founded in 1909. The site provides a comprehensive history to the choir.

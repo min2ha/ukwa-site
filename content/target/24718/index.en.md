@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Magnus Nielsen (UKIP) 
-
 Magnus Nielsen stood as UKIP candidate for Hampstead & Kilburn at the 2015 General Election but was not elected

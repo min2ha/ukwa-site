@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# CFC – Christian Fellowship Church | Live Full, Live Free
-

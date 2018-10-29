@@ -10,6 +10,4 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Welsh Gypsy Horses
-
 The farm, known as Swynymore Stables, is based in the Vale of Glamorgan.  

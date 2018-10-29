@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alicia Blagg (AliciaBlagg) on Twitter
-
 The twitter profile of diver Alicia Blagg, member of Team England for the Glasgow 2014 Commonwealth Games.

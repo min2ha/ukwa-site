@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Bright Club - The Thinking Person's Variety Night
-
 The website for the original 'Bright Club'. These are comedy-club-style events which began at UCL (but which are now based at universities around the UK) and promote public engagement by scientists and other academics.

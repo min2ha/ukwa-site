@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Clwyd West Conservatives
-
 Website of Clwyd West Conservatives, providing information on assembly members, association officers, county and town councillors and MPs, events, and European, local and national news and opinion.

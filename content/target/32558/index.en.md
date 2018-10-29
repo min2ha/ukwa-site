@@ -10,6 +10,4 @@
   "start_date": "2015-11-13T09:00:00Z"
 }
 
-# In Control: Creating a fairer, more just society
-
 Part of The Guardian online, providing access to opinion, research and case studies on co-production in welfare provision. 

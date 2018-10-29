@@ -10,5 +10,3 @@
   "start_date": "2016-10-27T10:00:00Z"
 }
 
-# Parish of Coychurch, The
-

@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T10:00:00Z"
 }
 
-# Interact Imaginations
-
 Interact Imaginations is multi-skilled performing artists, entertainers and educational theatre practitioners based in Mold.

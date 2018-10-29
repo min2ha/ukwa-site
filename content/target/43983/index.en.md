@@ -10,5 +10,3 @@
   "start_date": "2016-06-29T11:00:00Z"
 }
 
-# Cyngor Tref Caerwys | Caerwys Town Council
-

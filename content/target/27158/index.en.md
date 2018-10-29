@@ -10,6 +10,4 @@
   "start_date": "2015-06-01T09:00:00Z"
 }
 
-# Haratio Clare
-
 Welsh author.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Brexit vote
-
 BrexitVote is a multi-disciplinary, evidence-based blog run by the London School of Economics and Political Science. Its aim is to inform the debate surrounding the referendum on Britain’s membership of the European Union with accessible commentary and research.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Derek Mackay (@DerekMackaySNP) on Twitter
-
 Twitter profile of Derek Mackay, the Scottish National Party candidate for Renfrewshire North & West constituency in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: The young Eds at work: Tories deploy 1997 Treasury film in eve-of-budget attack ad
-
 None

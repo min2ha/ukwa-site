@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Tom Arthur (@ThomasCArthur) on Twitter
-
 Twitter profile of Thomas Arthur, the Scottish National Party candidate for Renfrewshire South constituency in the 2016 Scottish Parliamentary elections. 

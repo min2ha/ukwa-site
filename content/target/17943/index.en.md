@@ -10,6 +10,4 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# Made In Creative UK
-
 Made In Creative UK invites the UK creative industries to display the Made in Creative UK logo in their products and on their websites to play their part in recognising the economic and cultural contribution of these industries to the global market.

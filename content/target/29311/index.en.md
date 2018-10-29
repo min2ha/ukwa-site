@@ -10,5 +10,3 @@
   "start_date": "2015-07-23T10:00:00Z"
 }
 
-# West Wales Action for Mental Health
-

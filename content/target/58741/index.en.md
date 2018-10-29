@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit bill: Barnier gives UK two weeks to clarify key issues
-
 
 After meeting the Brexit secretary for talks on citizens' rights, the Irish border, and the UK's "divorce bill", Michel Barnier stated that the UK has two weeks to clarify key issues or make concessions if progress is to be made in Brexit talks.

@@ -11,5 +11,3 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bromley First World War: Caring for the casualties of the First World War in Bromley
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# ChildrensSociety, The: Anti-bullying week 2017: social media and cyberbullying
-
 Blog about Anti cyber-bullying week 

@@ -10,6 +10,4 @@
   "start_date": "2016-07-08T10:00:00Z"
 }
 
-# Rural and Urban Training Scheme / RUTS
-
 Site of an organisation providing young people with skills and confidence training through cycling and motorcycling based activities and based in Midlothian, Scotland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Edward Yi He (@Edward4Aberavon) on Twitter (Conservative candidate for South Wales West)
-
 Conservative Parliamentary (2015) and Assembly (2016) Candidate for Aberavon and South Wales West.

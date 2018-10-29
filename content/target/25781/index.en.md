@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Election hopeful whose Wikipedia page was edited calls for Shapps inquiry
-
 None

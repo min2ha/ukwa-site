@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Rupert Read on Facebook (Green Party candidate for Cambridge)
-
 None

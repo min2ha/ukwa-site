@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Jimmy Carr
-
 Official website of a British comedian Jimmy Carr.

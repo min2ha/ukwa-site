@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Brian Morris for Cardiff West
-
 UKIP candidate for Cardiff West

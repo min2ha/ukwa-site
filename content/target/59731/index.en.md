@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Michael Gove: I'll make Brexit work for animals too 
-
 In December 2017 the government published a new law saying it must treat animals as "sentient beings" when it passed legislation. Environment Secretary Michael Gove promised to "make Brexit work not just for citizens but for the animals we love and cherish too".

@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Ras yr Iaith | Race for the Language
-
 Ras yr Iaith – the race for the language – was a relay fun run for the Welsh language and ran through the town centres of Machynlleth, Aberystwyth, Tregaron, Lampeter,  Aberaeron, New Quay, Llandysul, Newcastle Emlyn and Cardigan. 

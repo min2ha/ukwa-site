@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: British Chambers of Commerce director asks politicians to campaign responsibly
-
 None

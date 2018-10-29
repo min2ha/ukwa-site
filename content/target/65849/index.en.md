@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# London Tech Week
-

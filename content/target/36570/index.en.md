@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU Facts: What would leaving the EU mean for expats?
-

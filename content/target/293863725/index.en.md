@@ -10,6 +10,4 @@
   "start_date": "2015-05-14T08:00:00Z"
 }
 
-# PlanET Health Cymru (Cynllunio ar gyfer yr Amgylchedd, Cludiant ac Iechyd yng Nghymru) | PlanET Health Cymru (Planning for the Environment, Transport and Health in Wales) 
-
 PlanET Health Cymru (Planning for the Environment, Transport and Health in Wales) is an information portal for professionals working in a range of sectors on cross-cutting issues associated with the environment and health.

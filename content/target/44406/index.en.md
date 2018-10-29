@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Government awaits first legal opposition to Brexit in high court
-

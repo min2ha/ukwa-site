@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Our NHS Scotland
-
 None

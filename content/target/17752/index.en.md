@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Labour's Harriet Yeo leaves party to support Ukip in general election
-
 None

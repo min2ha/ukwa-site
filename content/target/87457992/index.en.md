@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# West Yorkshire Police & Crime Commissioner
-
 None

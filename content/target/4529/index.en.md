@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Action for South Africa
-
 None

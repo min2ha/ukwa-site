@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Institute of Physics: Blog
-
 Items that have been tagged 'Brexit'

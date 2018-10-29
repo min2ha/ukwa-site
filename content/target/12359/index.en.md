@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy Vernon (AndyVernonGB) on Twitter
-
 The twitter profile of distance runner Andy Vernon, competitor in the 5000 metre race for Team England in the Glasgow 2014 Commonwealth Games.

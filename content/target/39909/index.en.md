@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# RISE Youth
-
 The Youth wing of RISE: Scotland's Left Alliance

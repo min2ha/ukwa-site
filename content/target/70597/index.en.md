@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The:  Upbeat May seizes on Macron's call for Brussels to cut a deal to insist her Chequers plan works for BOTH sides and paves the way for a 'good relationship' after Brexit
-

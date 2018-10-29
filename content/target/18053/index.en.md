@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Carmarthenshire and Pembrokeshire Liberal Democrats
-
 Website of Carmarthenshire and Pembrokeshire Liberal Democrats, providing information on the local team, events and local and national news and opinion.

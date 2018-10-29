@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bethesda Evangelical Church, Hay on Wye
-

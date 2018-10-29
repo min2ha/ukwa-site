@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# BB7
-
 BB7 is a specialist firm of consulting engineers, operating in the risk and resilience niches of fire, security and continuity. 

@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Guardian, The: Equal pay
-
 All articles tagged with Equal pay on theguardian.com website. 

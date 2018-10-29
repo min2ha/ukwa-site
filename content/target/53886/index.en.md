@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ernie Warrender (@ErnieWarrender) on Twitter (UKIP  Politician)
-
 Ernie Warrender stood as UK Independence Party (UKIP) candidate for Forest of Dean in the 2017 General Election but was not elected.

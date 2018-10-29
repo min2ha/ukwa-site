@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# About My Vote: Scottish Independence Referendum
-
 None

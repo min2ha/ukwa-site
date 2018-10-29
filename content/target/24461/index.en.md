@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Is Yorkshire still the promised land for UKIP?
-
 None

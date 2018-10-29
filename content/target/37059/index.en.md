@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Business and Brexit - not as simple as it seems
-
 BBC News: Business and Brexit - not as simple as it seems

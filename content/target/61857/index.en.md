@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 28th February 2018: Northern Ireland Border
-
 Short debate on the Prime Minister's rejection of the EU's proposal that Northern Ireland should remain in the customs union in order to avoid a hard border with the Irish Republic after Brexit.

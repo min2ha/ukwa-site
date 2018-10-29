@@ -10,5 +10,3 @@
   "start_date": "2011-04-13T00:00:00Z"
 }
 
-# Posterior Cortical Atrophy Support Group (PCA Support Group)
-

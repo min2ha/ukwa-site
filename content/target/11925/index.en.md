@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Jackie Baillie (jackiebmsp) on Twitter
-
 The twitter profile of Jackie Baillie, MSP for Dumbarton.

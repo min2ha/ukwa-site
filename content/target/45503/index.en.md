@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: PM call with Chancellor Merkel: 13 September 2016
-
 Theresa May spoke with German Chancellor Angela Merkel about the meeting of EU member states in Bratislava and the EU-Turkey migration deal.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A cruel society is being built. Voting Labour begins the fightback
-
 None

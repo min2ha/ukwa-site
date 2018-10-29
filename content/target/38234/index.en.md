@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Business for Britain (@forbritain) on Twitter
-
 Business for Britain is the cross-party business campaign for Britain to #VoteLeave on 23 June.

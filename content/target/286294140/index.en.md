@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Parks & Gardens UK: Gardening in Wartime 
-
 <p>Project exploring the history of gardening during the First World War.</p>

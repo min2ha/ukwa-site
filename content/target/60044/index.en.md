@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Wellbeing Festival
-
 Site of a festival of personal health and fitness emphasising nutrition and exercise, located in Edinburgh.

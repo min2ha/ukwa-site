@@ -11,8 +11,6 @@
   "subject": "LGBTQ+"
 }
 
-# Queer Beyond London
-
 
 
 Queer beyond London is an AHRC-funded collaboration between Birkbeck College, University of London and Leeds Beckett University to research histories of sexual identities and communities in Leeds, Plymouth, Brighton and Manchester since c.1965.

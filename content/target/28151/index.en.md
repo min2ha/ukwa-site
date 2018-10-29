@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Richard Tol (@RichardTol) on Twitter
-
 Twitter feed for Richard Tol, author of the first textbook on climate economics.

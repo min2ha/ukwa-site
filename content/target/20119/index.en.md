@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Fracking powers would be devolved by Labour
-

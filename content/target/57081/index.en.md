@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library:  Leaving the European Union: Reporting to Parliament on the Progress of Negotiations
-
 This House of Lords Library briefing provides background information on the Government’s plans for reporting to Parliament on the progress of Brexit negotiations in advance of a question for short debate on this subject on 7 September 2017.

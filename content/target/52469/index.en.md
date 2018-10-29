@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Standard Chartered plc
-
 Standard Chartered plc is a British multinational banking and financial services company, with operations in consumer, corporate and institutional banking and treasury services.

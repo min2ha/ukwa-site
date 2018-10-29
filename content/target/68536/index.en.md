@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Livingston & East Calder Catholic Parishes
-
 Site of a Roman Catholic parish church in Scotland, comprising St. Andrew's in Craigshill, St. Peter's in Deans, St. Philip's in Dedridge and St. Theresa's in East Calder.

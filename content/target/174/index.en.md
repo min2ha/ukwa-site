@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal Devon and Exeter
-
 None

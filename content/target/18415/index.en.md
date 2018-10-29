@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nigel Farage attacks 'bankrupt' voting system after predictions Ukip will come second in 100 seats
-
 None

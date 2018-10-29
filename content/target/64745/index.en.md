@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Bernera Church of Scotland on Facebook
-
 Facebook page of a Church of Scotland parish church at Bernera, Isle of Lewis, Na h-Eileanan Siar (Western Isles / Outer Hebrides)

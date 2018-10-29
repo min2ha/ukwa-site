@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Telegraph, The: Theresa May reveals she is a Harry Potter fan - and that she has read all the books
-

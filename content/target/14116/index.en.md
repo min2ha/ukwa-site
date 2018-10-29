@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Conversation, The: Reading the public mood – why #indyref mass canvassing is no match for opinion polls
-

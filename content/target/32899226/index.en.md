@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# St Mungo's
-
 None

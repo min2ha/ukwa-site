@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Business for New Europe: During this referendum campaign we need a proper debate, not propaganda
-
 A discussion of facts that support anti-Brexit positions

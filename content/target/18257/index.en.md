@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# UK Task Force on issues relating to Arab citizens of Israel
-
 The UK Task Force on issues relating to Arab citizens of Israel is a broad-based coalition of organisations committed to the welfare of Israel and its secure and peaceful existence. Members of the Task Force support Israel’s Declaration of Independence, including the article promising social and political equality for all its inhabitants — Jews and Arabs alike.

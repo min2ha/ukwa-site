@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North Yorkshire Health and Wellbeing Board
-
 None

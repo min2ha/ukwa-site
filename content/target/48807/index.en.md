@@ -10,6 +10,4 @@
   "start_date": "2017-01-26T09:00:00Z"
 }
 
-# Oxfordshire Learning Disabilities Community
-
 We want to ensure that people with learning disabilities, people with autism, children with special educational needs and people with related disabilities in Oxfordshire get the best support and opportunities available. Parents, friends, relatives, people working in the field, and people with learning disabilities themselves are invited to join the forum, ask questions, share information, and talk about what is happening in their lives!

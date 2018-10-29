@@ -10,5 +10,3 @@
   "start_date": "2015-06-06T08:00:00Z"
 }
 
-# Diocese of Ely: Mothers' Union Ely
-

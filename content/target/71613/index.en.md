@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# RTE
-
 RTÉ.ie is the website of Raidió Teilifís Éireann, Ireland's National Public Service Broadcaster.

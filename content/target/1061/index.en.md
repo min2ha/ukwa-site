@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Interactive Health Atlas for Lungs Conditions in England
-
 None

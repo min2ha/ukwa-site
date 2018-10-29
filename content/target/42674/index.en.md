@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Our West Hendon
-
 Our West Hendon is campaign group made up of residents across tenures from the West Hendon estate who are being forced out of their homes and community.

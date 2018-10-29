@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Natalya Romaniw. Soprano
-
 Natalya Romaniw is a Welsh Soprano of Ukrainian descent.

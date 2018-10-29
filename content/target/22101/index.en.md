@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Al Murray - The Pub Landlord
-
 Official website of a British comedian Al Murray. He was a candidate of the Free United Kingdom Party in the General Election 2015 running for South Thanet. The party used the same website for the election campaign.

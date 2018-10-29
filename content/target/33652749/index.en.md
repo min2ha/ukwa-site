@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Centre for Women & Democracy (CFWD)
-
 None

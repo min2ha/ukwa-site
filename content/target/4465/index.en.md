@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Parliament: Parliament and constitution, including the referendum.
-
 None

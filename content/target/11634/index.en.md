@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Voluntary News: Scottish Referendum
-
 None

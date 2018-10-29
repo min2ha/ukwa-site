@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# The Fintech Times
-
 Get the latest fintech news, including interviews, reviews and analysis. Bitcoin News section provides latest updates on this fascinating cryptocurrency. 

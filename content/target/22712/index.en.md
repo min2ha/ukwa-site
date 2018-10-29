@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mandy Rossi (@GreenMandyRossi) on Twitter (Green Party candidate for Ashford)
-

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# World War One Remembered
-
 Using material held at Living Archive, local organisations and personal collections this project will showcase the stories and memories from people in our area and their connections with the Great War.

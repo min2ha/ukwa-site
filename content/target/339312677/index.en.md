@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Papur Pawb
-
 Papur bro is a community newspaper for the Ceulanamaesmawr area of Ceredigion which includes the villages of Tal-y-bont, Bontgoch, Taliesin, Tre'r Ddol, Ffwrnais, Eglwysfach a Glandyfi.

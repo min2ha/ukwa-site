@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kevin McNamara (Liberal Democrat  Politician)
-
 Kevin McNamara stood as Liberal Democrat candidate for Thurrock in the 2017 General Election but was not elected. 

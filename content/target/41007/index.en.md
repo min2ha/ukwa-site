@@ -10,6 +10,4 @@
   "start_date": "2016-05-16T10:00:00Z"
 }
 
-# Colinton Amenity Association
-
 Site of a hyperlocal community association based in Colinton, South West Edinburgh, interested in planning, environmental and roads activities in the area.

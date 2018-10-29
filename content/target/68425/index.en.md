@@ -10,6 +10,4 @@
   "start_date": "2018-06-30T09:00:00Z"
 }
 
-# Shed 35 Brewery
-
 Site of a brewer based at Carnoustie, Angus.

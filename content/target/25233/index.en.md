@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Ed will raise taxes AGAIN, says Osborne
-
 None

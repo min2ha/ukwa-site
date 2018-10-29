@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Penarth Aviation Society
-
 Penarth Aviation Society (PAS) was founded in September 2005 for those interested in all aspects of aviation. 

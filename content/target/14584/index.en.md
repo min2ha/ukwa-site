@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Llandeilo Town Council
-
 <p>This is the official town council website for Llandeilo.</p>

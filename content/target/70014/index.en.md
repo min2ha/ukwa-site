@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Football League Paper, The
-
 A specialist national newspaper dedicated to all 72 English Football League clubs.

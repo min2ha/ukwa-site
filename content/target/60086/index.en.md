@@ -10,5 +10,3 @@
   "start_date": "2018-01-05T09:00:00Z"
 }
 
-# Council for Licensed Conveyancers (CLC)
-

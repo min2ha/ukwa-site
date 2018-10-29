@@ -11,6 +11,4 @@
   "subject": "Britishness"
 }
 
-# England In Particular
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Welsh Government services and information | Gwasanaethau a gwybodaeth Llywodraeth Cymru
-

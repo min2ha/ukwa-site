@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Tiernan Douieb
-
 Website for comedian Tiernan Douieb

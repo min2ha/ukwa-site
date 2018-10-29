@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Laura Whittle (laura_whittle6) on Twitter
-
 The twitter profile of runner Laura Whittle.

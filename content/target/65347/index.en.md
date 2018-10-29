@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Douglas Valley Church
-
 Site of a Church of Scotland parish church at Douglas, Lanarkshire.

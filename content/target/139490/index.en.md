@@ -11,6 +11,4 @@
   "subject": "Scottish Parliamentary Election - 2007"
 }
 
-# Cathy Jamieson : working hard for Carrick, Cumnock & Doon Valley
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# History and Policy 
-
 History and Policy publishes historical research freely accessible online and creates opportunities for historians, policy makers and journalists to connect.

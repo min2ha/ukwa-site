@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General election 2015 explained: What happens if there is a hung parliament?
-
 None

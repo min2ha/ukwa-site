@@ -10,6 +10,4 @@
   "start_date": "2016-06-15T10:00:00Z"
 }
 
-# Creative Ullapool
-
 Site of a group of organisations based in Ullapool, With support from Highlands & Islands Enterprise, creating new projects and raising the profile of the arts and cultural activity in Ullapool in the North West Highlands.

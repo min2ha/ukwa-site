@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Did the Mail and Sun help swing the UK towards Brexit? 
-
 Guardian, The

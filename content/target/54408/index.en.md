@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# CU WelshBrexitBlog (@WelshBrexitCU) on Twitter
-
 Cardiff University Welsh Brexit Blog informs and encourage constructive debate and analysis on issues relating to Wales and the UK's exit of the European Union.

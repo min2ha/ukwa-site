@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Adam Price i Arwain | Adam Price for Leader 
-
 This is the campaign website for Adam Price, running in the leadership contest for Plaid Cymru in 2018.

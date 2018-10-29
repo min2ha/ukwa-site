@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ruskin Park RFC on Pitchero
-
 The official website of Ruskin Park Rugby Club.

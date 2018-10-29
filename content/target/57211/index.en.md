@@ -10,6 +10,4 @@
   "start_date": "2017-09-16T09:00:00Z"
 }
 
-# Ystrad Story Trails 
-
 Artist Trails is a community storytelling project that seeks to connect landscape art with communities of those locations. Ystrad Stories Trails is located in Ystrad Rhondda by using the artwork of Ernest Zobole to 'prompt memories and experiences of the location and within the landscape and to explore storytelling as a response'.

@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Inspiring Ireland 1916
-
 Inspiring Ireland is a growing project to make Ireland's digital cultural heritage available to everyone. It includes multi-media exhibits on the people and events of 1916 and its legacy. 

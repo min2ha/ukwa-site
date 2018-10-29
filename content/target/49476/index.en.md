@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Tourism Concern
-
 Tourism Concern campaigns for tourism which is ethical, fair and a positive experience for both travellers and the people and places they visit.

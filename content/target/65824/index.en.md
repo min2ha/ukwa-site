@@ -10,6 +10,4 @@
   "start_date": "2018-05-18T09:00:00Z"
 }
 
-# Jo Cox Awards Cymru
-
 The Jo Cox Community Champions awards was established to show appreciation for the outstanding contributions of many individuals and groups across Welsh society. You are able to nominate through the website and awards will be presented to an individual, local team or group of volunteers who make a difference to their community. The awards was established by Eluned Morgan Assembly Member.

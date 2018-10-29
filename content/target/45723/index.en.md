@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Cynghrair Mersi a’r Ddyfrdwy | Mersey Dee Alliance (MDA)
-
 The Mersey Dee Alliance (MDA) was established in 2007 due to the shared economic, social and environmental interests across the West Cheshire, Wirral and North East Wales area. It now comprises the local authorities of Cheshire West and Chester, Chester University, Denbighshire, Flintshire, Glyndwr University, Wirral, Wrexham, and the Welsh Assembly Government and Merseytravel.

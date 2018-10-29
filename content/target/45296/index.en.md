@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# St Catherine’s Island and Fort, Tenby
-
 This was a project to restore and regenerate St Catherine’s Island and Fort, Tenby but came to and in August 2016. 

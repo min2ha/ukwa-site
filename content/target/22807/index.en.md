@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Teledwyr Annibynol Cymru (TAC) Manifesto
-
 Manifesto from the body representing TV producers in Wales.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: TV debates likely to be called off because of 'cack-handed' broadcasters
-
 None

@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Innovate Guildford Science and Arts Festival
-

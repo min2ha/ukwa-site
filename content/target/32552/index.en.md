@@ -10,5 +10,3 @@
   "start_date": "2015-11-14T09:00:00Z"
 }
 
-# Conswliaid yng Nghymru | Consuls in Wales
-

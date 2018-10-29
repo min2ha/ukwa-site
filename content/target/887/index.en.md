@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Central and North West London NHS Foundation Trust
-
 None

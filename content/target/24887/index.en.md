@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Joe Jenkins (UKIP) 
-
 Joe Jenkins stood as UKIP candidate for Sheffield Hallam at the 2015 General Election but was not elected.

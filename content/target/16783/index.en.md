@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Bowel Cancer UK
-
 Bowel Cancer UK is determined to save lives and improve the quality of life for all those affected by bowel cancer. It is a charity with a registered charity number in England &amp; Wales and Scotland.

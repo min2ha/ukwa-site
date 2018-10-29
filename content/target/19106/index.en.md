@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Guildford Cathedral: Events at Guildford Cathedral
-

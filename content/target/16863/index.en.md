@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T06:00:00Z"
 }
 
-# Saltire intranet: Subscribe to our Alerts and Newsletters - Step 1
-
 None

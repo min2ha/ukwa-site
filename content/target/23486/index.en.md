@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Nelson (@chris_nelson) on Twitter (Liberal Democrats Politician)
-
 Chris Nelson stood as Liberal Democrats candidate at the 2015 General Election but was not elected. He then stood again at the 2017 election but was not elected.

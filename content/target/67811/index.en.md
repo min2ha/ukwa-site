@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Luctonians (@Luctonians) on Twitter
-
 The official Twitter account of Luctonians Rugby Football Club. 
 Founded in 1948, Luctonians is one of the leading rugby clubs in the English West Midlands. The club is based in the beautiful border country between England and Wales, known as the Marches.

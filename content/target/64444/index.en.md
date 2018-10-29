@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Shappi.co.uk
-
 Personal website for Shappi Khorsandi, a British comedian.

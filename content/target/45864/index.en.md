@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Don't trust Brexit 'three blind mice', says Tory former minister
-

@@ -10,6 +10,4 @@
   "start_date": "2016-09-16T10:00:00Z"
 }
 
-# Merryn Williams
-
 Merryn Williams is the author of a number of critical prose works and formerly a lecturer at the Open University. She was shortlisted for the Wales Book of the Year 2007 Long List.

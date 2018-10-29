@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Independent Commission on Local Government Finance
-
 Website of Independent Commission on Local Government Finance  which makes recommendations for the reform of local government finance and better ways to fund local services and promote economic growth in England.

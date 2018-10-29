@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Socialism First (socialismfirst) on Twitter
-

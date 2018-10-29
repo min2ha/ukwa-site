@@ -10,6 +10,4 @@
   "start_date": "2016-12-10T09:00:00Z"
 }
 
-# Firefly Arts
-
 Site of an organisation offering theatre skills, film and drama activity for children and young people aged 5 to 25 years across West Lothian, Scotland.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gŵyl Lenyddiaeth Dinefwr 2014 Literature Festival
-
 The Dinefwr Literature Festival is organised by Literature Wales in partnership with National Trust, Cadw, and University of Wales Trinity Saint David and is supported by Arts Council of Wales. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Theresa May is accused of a 'complete capitulation' after she ditches the red line on migrants 
-

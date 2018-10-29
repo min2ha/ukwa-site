@@ -10,6 +10,4 @@
   "start_date": "2014-08-06T07:00:00Z"
 }
 
-# Banffshire Advertiser
-
 None

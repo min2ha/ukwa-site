@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: EU is central to tackling climate change, says Ed Miliband 
-
 Guardian, The

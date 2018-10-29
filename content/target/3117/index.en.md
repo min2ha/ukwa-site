@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Ordnance Survey
-
 Ordnance Survey is Britain's mapping agency. They make the most up-to-date and accurate maps of the country.

@@ -11,5 +11,3 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Ebola vaccine trial begins in Senegal
-

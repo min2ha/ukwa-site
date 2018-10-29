@@ -10,5 +10,3 @@
   "start_date": "2016-01-12T09:00:00Z"
 }
 
-# Cyfeillion Amgueddfa Cymru | Friends of National Museum Wales
-

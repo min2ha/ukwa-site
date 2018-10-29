@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Affric Kintail Way
-
 Tourist marketing site promoting the Affric Kintail Way in Glen Affric, Scotland.

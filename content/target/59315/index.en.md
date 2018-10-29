@@ -10,6 +10,4 @@
   "start_date": "2017-11-30T09:00:00Z"
 }
 
-# Swansea University: Global Drug Policy Observatory (GDPO)
-
 Global Drug Policy Observatory (GDPO) is a research school within Swansea University and promotes evidence based drug policy through reporting, monitoring and analysis of global policy developments.

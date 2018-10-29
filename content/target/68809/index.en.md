@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# South Wales Argus: Football
-
 Latest Football news from the South Wales Argus

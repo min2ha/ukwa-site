@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Huntingdon Conservatives
-
 Website of the Huntingdon Constituency Conservative Association, providing information on the MP, District and County Councillors and Association News and Events.

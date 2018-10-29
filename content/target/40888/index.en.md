@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Northern Streams Festival
-
 Site of an annual music festival in Edinburgh, featuring traditional music and musicians from Scotland, Sweden, Norway and Denmark.

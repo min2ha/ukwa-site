@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Overcome by the occasion? The moment a young RAF officer faints while standing guard outside St Paul's for Queen's 90th birthday service
-
 An RAF serviceman had to be led away by paramedics after fainting while standing guard outside St Paul's Cathedral on June 10th 2016. This article highlights when similar incidents have happened in the past.

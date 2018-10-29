@@ -10,6 +10,4 @@
   "start_date": "2016-06-02T10:00:00Z"
 }
 
-# P21 Gallery
-
 The P21 Gallery is an independent London-based charitable trust established to promote contemporary Middle Eastern and Arab art and culture. 

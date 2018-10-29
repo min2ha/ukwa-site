@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Friends of Lancaster City Museum
-
 Membership organisation in Lancaster, UK, supporting and promoting the work of the City and King's Own Museums.

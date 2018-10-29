@@ -10,6 +10,4 @@
   "start_date": "2015-11-06T09:00:00Z"
 }
 
-# Pharmaceutical Information and Pharmacovigilance Association (PIPA)
-
 The Pharmaceutical Information and Pharmacovigilance Association (PIPA) exists to support and assist its members in the development of their professional skills and responsibilities.

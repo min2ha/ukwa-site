@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Association of Wales (@FAWales) on Twitter
-
 Official Twitter feed for the FA of Wales, the Wales National Football Squads and Welsh Domestic Football.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Dafydd Wigley (@Dafydd_Wigley) on Twitter
-
 Dafydd Wigley is the Honorary President of Plaid Cymru and campaining to stay in the EU.

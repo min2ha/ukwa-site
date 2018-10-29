@@ -10,6 +10,4 @@
   "start_date": "2016-06-24T10:00:00Z"
 }
 
-# Visit Kintyre
-
 Site of an organisation based in Campbeltown promoting the town and its surrounding area, Kintyre.

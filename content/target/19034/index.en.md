@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# City AM: Magna Carta: Backed by the City - Bottom Line
-

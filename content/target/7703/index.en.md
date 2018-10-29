@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# JewishNews Online: 50 facts about Nelson Mandela and the Jewish community
-
 <p>Article examining Nelson Mandela's relationship with Jewish people and Jewish communities.</p>

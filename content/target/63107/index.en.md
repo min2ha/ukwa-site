@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# EP Advisory
-
 We are a career consulting company helping Russian speaking professionals to build their careers in the UK and Ireland. We work with experienced professionals across various industries who are already based in England or Ireland and looking for a new professional challenge, we help Russian speaking specialists to relocate to the UK as a next career step and consult students and graduates worldwide wishing to kick-start their careers in London.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Frinton Literary Festival
-
 The Frinton Literary Festival connecting authors and readers, by the sea.

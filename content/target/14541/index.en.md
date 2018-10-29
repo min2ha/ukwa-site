@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Risk Management Authority (RMA)
-
 The RMA is a Non-Departmental Public Body (NDPB), established in 2005 by the Criminal Justice (Scotland) Act 2003 to ensure that risk assessment and risk management practices are in place to reduce the risk of serious harm posed by violent and sexual offenders.

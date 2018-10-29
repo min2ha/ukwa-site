@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 4th September 2018: Brexit: Negotiations and No-deal Contingency Planning
-
 Lord Callanan repeats Dominic Raab's statement on progress of the Brexit negotiations to the Lords

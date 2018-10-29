@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Pulling the Flag (@PullingtheFlag) on Twitter
-
 Pulling the Flag is a news website for flag football. This is their official Twitter account.

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facts on the Fucking Referendum
-
 <p>A satirical website based on the Scottish Independence debate.</p>

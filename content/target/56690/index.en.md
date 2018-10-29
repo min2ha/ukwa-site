@@ -10,7 +10,5 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# Heroes of Hull: We Do Remember Them
-
 The Heroes of Hull web site is just one of many projects researching and recording the stories of the people of Hull, during times of war. Individuals can add their ancestors, military or civilian, by completing a Heroes of Hull form.
 

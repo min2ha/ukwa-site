@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Mirror: Charles and Camilla: Duchess of Cornwall battles strong winds as royal couple land in US for four-day trip
-

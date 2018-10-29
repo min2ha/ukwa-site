@@ -10,5 +10,3 @@
   "start_date": "2016-09-27T10:00:00Z"
 }
 
-# Neath Port Talbot Methodist Circuit
-

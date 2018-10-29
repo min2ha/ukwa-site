@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# High Tea Cast, The
-
 None

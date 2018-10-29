@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# UK Nature - an enthusiast's guide to the flora and fauna of the UK
-
 None

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Brodick Church, Isle of Arran, Scotland
-

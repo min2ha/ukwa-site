@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Lib Dems promise £1bn to 'build a better Wales'
-
 None

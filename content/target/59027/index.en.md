@@ -10,7 +10,5 @@
   "start_date": "2017-11-22T09:00:00Z"
 }
 
-# Mark Johnstone | Photography and Design
-
 Bespoke website designed for your business
 A small company based in Clydebank near Glasgow. We offer a bespoke website design and photography service to suit your needs within today’s digital world.

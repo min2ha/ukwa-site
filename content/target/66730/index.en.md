@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge Tarbet Lochfyne No. 1306
-
 Site of a masonic lodge located in Tarbert, Argyll & Bute and affiliated with the Grand Lodge of Scotland.

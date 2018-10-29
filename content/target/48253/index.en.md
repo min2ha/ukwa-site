@@ -10,6 +10,4 @@
   "start_date": "2017-01-14T09:00:00Z"
 }
 
-# Just Joans on Facebook
-
 Facebook page for a Scottish music group from Motherwell, and based in Glasgow, Scotland.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: THERESA MAY My Brexit plan WILL let us end freedom of movement, strike our own trade deals and be free of the European Court
-
 Theresa May argues that her plan agreed at Chequers would deliver the Brexit the people voted for in 2016.

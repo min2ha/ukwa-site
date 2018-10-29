@@ -10,6 +10,4 @@
   "start_date": "2016-07-26T11:00:00Z"
 }
 
-# You & Your Hormones
-
 You & Your Hormones is the official public information website of the Society for Endocrinology.

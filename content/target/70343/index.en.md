@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# NI Sporting News (@NISportingNews) on Twitter
-
 The official Twitter account of Northern Ireland Sporting News.

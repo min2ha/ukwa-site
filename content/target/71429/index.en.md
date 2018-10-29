@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity Elgin & St Margaret's Lossiemouth
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in Moray, namely Holy Trinity Elgin & St Margaret's Lossiemouth

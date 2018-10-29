@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Lincoln Castle gates to close to prepare for spectacular return of the Magna Carta
-

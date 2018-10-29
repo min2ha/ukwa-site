@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Chartered Institute of Building (CIOB): CIOB Guide to the Built Environment
-
 The Chartered Institute of Building are an influential professional body for construction management and leadership.  They have a Royal Charter to promote the science and practice of building and construction for the benefit of society, they were established in 1834. Their members work worldwide in the development, conservation and improvement of the built environment.  They accredit university degrees, educational courses and training. 

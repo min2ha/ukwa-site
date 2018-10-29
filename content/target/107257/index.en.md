@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Vote 2005 / Capability Scotland
-
 None

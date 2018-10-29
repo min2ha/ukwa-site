@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: 'Vapers in Power' political party to field two general election candidates in protest against EU e-cigarette laws 
-
 None

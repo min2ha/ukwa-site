@@ -6414,6 +6414,4 @@
   "endDateText": "30-09-2017"
 }
 
-# UK General Election 2017
-
 Collection of websites, curated by staff at the Legal Deposit Libraries, focussing on the United Kingdom general election of 2017 which took place on Thursday 8 June. Under the Fixed-term Parliaments Act 2011 an election had not been due until 7 May 2020, but a call by Prime Minister Theresa May for a snap election was ratified by the necessary supermajority in a 522-13 vote in the House of Commons on 19 April 2017.

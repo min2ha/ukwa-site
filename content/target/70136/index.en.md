@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John the Baptist's Roman Catholic Church, Corstorphine, Edinburgh
-
 Site of a Scottish Roman Catholic parish church in Corstorphine, Edinburgh.

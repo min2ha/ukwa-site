@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Henderson Global Investors Limited
-
 Henderson Global Investors is an international investment company that was established in 1934. 

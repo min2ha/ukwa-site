@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Tyne & Esk Writers
-
 Site of an organisation that promotes and encourages creative writing in Midlothian and East Lothian.

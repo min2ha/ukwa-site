@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Chris Evans (@evans4islwyn) on Twitter (Labour candidate for Islwyn)
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Ecologist, The: Dark days ahead for British agriculture? Or green shoots of a brighter future?
-
 news and investigations on the environment, climate change, farming, energy, food, health, green living, eco friendly products.

@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Public Health England: Zika virus
-
 Main UK government webpage on Zika virus

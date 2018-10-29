@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ards Rugby Football Club
-
 Ards Rugby Football Club has been in continual operation since its foundation in 1928. There is no question but that it has been sustained through its close connection with Newtownards' rugby playing grammar school Regent House.

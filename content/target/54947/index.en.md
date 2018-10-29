@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Restoring Integrity to Our Democracy
-
 “Restoring Integrity” is a small group of UK citizens who are seeking to restore integrity to the UK democratic process following the 2016 EU Referendum. The case addresses allegations that the conduct of the Vote Leave referendum campaign was unlawful, and has led to an ongoing deepening of public division

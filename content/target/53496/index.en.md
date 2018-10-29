@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Jane Pratt (@Jane4MCC) on Twitter 
-
 Jane Pratt is the Parliamentary Candidate for Caerphilly at the 2017 General Election.

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# School of Advanced Study Open Access Journals: School of Advanced Studies, University of London
-

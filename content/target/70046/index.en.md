@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# PlanetF1
-
 Live Race Coverage, Results & Standings for Formula 1

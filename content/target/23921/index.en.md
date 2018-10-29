@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: UK GDP growth falls to slowest pace in three years with just nine days until election
-
 None

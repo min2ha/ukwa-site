@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Europe will be the acid test of this querulous parliament
-
 None

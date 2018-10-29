@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# National Diabetes Information Service (NDIS)
-
 None

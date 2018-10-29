@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Campaign Live: EU referendum campaigns' most memorable ads
-
 Article discussing the most memorable ads from the EU referendum campaigns.

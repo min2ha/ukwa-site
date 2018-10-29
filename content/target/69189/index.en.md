@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Sport England (@Sport_England) on witter
-
 We invest funds from the Government and The National Lottery UK so that people from all backgrounds and abilities can do sport and physical activity.

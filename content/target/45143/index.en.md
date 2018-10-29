@@ -11,5 +11,3 @@
   "subject": "Sports Collection"
 }
 
-# Highland News: Published: Inverness rower Alan Sinclair narrowly edged out in bid for medal in Rio Olympic final
-

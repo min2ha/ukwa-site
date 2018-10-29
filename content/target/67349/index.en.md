@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Dukinfield Rugby Club
-

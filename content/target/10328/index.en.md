@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Kamaljeet Jandu, Labour on Facebook
-
 None

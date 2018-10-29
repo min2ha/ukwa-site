@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Express: Gina Miller's hard Brexit BLOCK: Remainer launches General Election tactical voting schem
-
 Leading pro-remain campaigner Gina Miller has launched a crowd-funded initiative to block Brexit by encouraging tactical voting against Brexiteers at the 2017 General Election.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Economist, The: On the Magna Carta, book of the year, pantomime, Tony Blair, Charles Yerkes, time: Letters
-

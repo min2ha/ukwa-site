@@ -10,5 +10,3 @@
   "start_date": "2015-05-15T18:00:00Z"
 }
 
-# Shane O'Donnell on Facebook ( Candidate for Holborn-St.Pancras for Cannabis Is Safer Than Alcohol (CISTA))
-

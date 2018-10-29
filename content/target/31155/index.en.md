@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# TURING a staged case history
-
 Thought, life and work of Alan Turing, presented through his original documents, interviews, historical and critical in-depth analysis collected for the creation of the show TURING a staged case history, performed in Italy at Piccolo Teatro of Milan during 2012. TURING a staged case history was been presented in a talk at the Goldsmith University of London at the Symposium “The future of Art and Computing: A Post Turing Centennial Perspective” during the AISB-50 the Annuary Convention of the “Society for Study of Artificial Intelligence and Simulation of Behaviour”. April 3, 2014 Goldsmith University of London, New Academic Building (NAB).

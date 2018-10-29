@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Andy Morrison (@AndyEMorrison) on Twitter
-
 The Twitter profile of Andy Morrison, Scottish Conservative and Unionist candidate for Uddingston and Bellshill in the 2016 Scottish Parliament election.

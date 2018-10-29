@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Stamford and WW1
-
 Local community project led by Stamford Town Council with the Royal British Legion (Stamford) to mark the centenary by identifying, exploring, recording Stamford's WW1 heritage.

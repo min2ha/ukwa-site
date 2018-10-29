@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# LILAC Conference (@LILAC_conf) on Twitter
-
 The Information Literacy Conference official Twitter account.

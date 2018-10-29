@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Trobwynt: Rhannu'r ffydd Cristnogol gyda'n hieuenctid
-
 Trobwynt are a Christian trust representative of churches from the Llŷn and Eifionydd areas and shares the Christian faith with youth by serving young people, schools and families through partnership with the local churches.

@@ -10,6 +10,4 @@
   "start_date": "2018-05-10T09:00:00Z"
 }
 
-# University of Aberdeen, The
-
 Official website of the University of Aberdeen.

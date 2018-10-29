@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# London Sound Survey
-
 The London Sound Survey is a collection of Creative Commons-licensed sound recordings of people, places and events in the capital. Historical references too are gathered to find out how London's sounds have changed. 

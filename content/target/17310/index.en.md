@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband's anti-business rhetoric is risking British jobs, warns ex-Labour trade minister
-
 None

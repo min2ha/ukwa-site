@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Scapa Flow : Historic Wreck Site
-
 An online community for those interested in the shipwrecks surrounding Scapa Flow including maps, history, and diving information of the ships wrecked at the site.

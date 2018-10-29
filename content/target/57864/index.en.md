@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gizmodo UK: Internet Addiction Needs to Be Recognised as a Disorder Before it Can Be Treated
-
 Article referring to the opinion of mental health professionals stating that internet addiction needs to be recognised as a disorder to enable treatment

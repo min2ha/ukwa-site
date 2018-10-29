@@ -10,6 +10,4 @@
   "start_date": "2017-04-26T09:00:00Z"
 }
 
-# Hertfordshire Association for the Care and Resettlement of Offenders (HARCO)
-
 HACRO volunteers with business backgrounds work as mentors at HMP The Mount on the Education Department's Business Enterprise programme. 

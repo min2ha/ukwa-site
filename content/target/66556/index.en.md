@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Public Health England (@PHE_uk) on Twitter
-
 Official feed of Public Health England (PHE) providing regular news updates on the work of the organisation.

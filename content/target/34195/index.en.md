@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Scottish Affairs Com (@CommonsScotAffs) on Twitter
-
 The twitter profile of the Scottish Affairs Commission

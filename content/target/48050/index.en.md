@@ -10,6 +10,4 @@
   "start_date": "2017-01-05T09:00:00Z"
 }
 
-# Aberaid on Facebook
-
 An Aberystwyth based group to raise awareness of the ever growing refugee crisis and to organise collection of donations and funds.

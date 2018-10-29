@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Cuillin Brewery
-
 Site of a brewer on the Isle of Skye, Western Isles.

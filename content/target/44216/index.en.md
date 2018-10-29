@@ -10,6 +10,4 @@
   "start_date": "2016-07-09T10:00:00Z"
 }
 
-# Renfrewshire Leisure
-
 Site of an organisation providing or facilitating access to recreation and sport, cultural, social or other leisure occupations for the residents of Renfrewshire.

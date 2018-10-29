@@ -10,8 +10,6 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# London Waterbus Company
-
 Travel along the historic Regents Canal as it slips quietly along the green and leafy fringes of Regents Park 
 between Camden and Little Venice, Paddington.  Departing  from Brownings Pool at Little Venice, 
 surrounded by the elegant graciousness of 19th century architecture, or from the lively bustle of Camden 

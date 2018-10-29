@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour-SNP coalition would be calamitous, says David Cameron
-
 None

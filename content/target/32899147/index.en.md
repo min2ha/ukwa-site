@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North London Area Quaker Meeting
-
 Cancelled

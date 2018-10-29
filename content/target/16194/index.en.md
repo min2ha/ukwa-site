@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# #100daystogo on Twitter
-
 <p>Twitter posts with the #100daystogo giving information and comments 100 days before the UK General Elections 2015.</p>

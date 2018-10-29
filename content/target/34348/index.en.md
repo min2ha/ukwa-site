@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Silver City Vault
-
 Site providing searchable digital resources pertaining to the City of Aberdeen, Scotland.

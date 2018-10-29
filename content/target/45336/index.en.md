@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# J D Bernal Peace Library (Marx Memorial Library) 
-
 Since 1933 the Marx Memorial Library been at the heart of the British labour movement advancing education, knowledge and learning in all aspects of the science of Marxism, the history of socialism and the working class.

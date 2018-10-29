@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# LocalGov: Whitehall should use Brexit to ‘drive’ devolution, combined authority mayors insist
-
 The North’s three metro-mayors asked Brexit secretary David Davis for greater certainty over funding currently provided by Brussels and for it to be maintained at the current level for the next 10 years. Mayors Andy Burnham of Greater Manchester, Steve Rotheram of Liverpool City Region and Ben Houchen of Tees Valley asked for the new 'prosperity fund' to be put in local hands when they met Mr Davis in York.

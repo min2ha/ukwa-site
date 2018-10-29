@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Battleground Britain: getting inside the minds of the UK’s undecided voters
-
 None

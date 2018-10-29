@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Crusaders FC (@CrusadersFC) on Twitter
-
 Crusaders Football Club, semi-professional football club who play in the Danske Bank Premier League.

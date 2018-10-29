@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ross Thomson (@RossThomsonTory) on Twitter
-
 The Twitter profile of Ross Thomson, Scottish Conservative and Unionist candidate for Aberdeen South and North Kincardine in the 2016 Scottish Parliament election.

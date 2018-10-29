@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# MoPAct: AGE EP Manifesto calls for the creation of an age friendly European Union
-
 None

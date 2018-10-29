@@ -10,6 +10,4 @@
   "start_date": "2015-02-06T06:00:00Z"
 }
 
-# Penrose Inquiry, The
-
 <p>The Scottish Public Inquiry into Hepatitis C/HIV acquired infection from NHS treatment in Scotland with blood and blood products.</p>

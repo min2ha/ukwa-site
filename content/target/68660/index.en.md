@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: Brexiteer frog at boiling point
-
 Comments on the choices facing Premier Theresa May and Brexiteer cabinet ministers at the crucial meeting on the UK's future relationship with the EU on July 6th 2018

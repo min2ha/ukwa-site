@@ -10,6 +10,4 @@
   "start_date": "2016-05-11T10:00:00Z"
 }
 
-# CinemAattic
-
 Site of a group showcasing cinema in Spanish and Portuguese, emanating from Latin America and the Iberian penninsula, and based in Edinburgh Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-16T09:00:00Z"
 }
 
-# Jospeh Davies Composer - Conductor - Arranger
-
 Joseph Davies is a British composer, conductor and arranger whose works have been performed and broadcast throughout Europe and the USA. He lectures in composition at the Royal Welsh College of Music and Drama.

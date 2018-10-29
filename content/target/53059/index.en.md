@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Kate Heneghan (@kathen16) on Twitter
-
 2017 General Election Candidate for Plaid Cymru in Brecon and Radnorshire.

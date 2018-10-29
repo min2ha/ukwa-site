@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Scotland"
 }
 
-# panGloss: How to Solve a Problem Like Brexit (no cats)
-
 A UK-based cyberlaw blog by Lilian Edwards, Professor of E-Governance at Strathclyde University.

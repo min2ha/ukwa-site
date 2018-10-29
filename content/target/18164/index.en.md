@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour leader 'Ed Moribund' is an absentee MP, Philip Davies claims
-
 None

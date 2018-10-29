@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Edge Festival Solva, The
-

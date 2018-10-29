@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 4th September 2018: Brexit Negotiations and No Deal Contingency Planning
-
 Brexit Secretary Dominic Raab said the Chequers plan had proved "challenging" for some in Brussels - but that European counterparts were "engaging seriously". After updating MPs on his latest meeting with the EU's Michel Barnier, Mr Raab was urged by a number of his own Brexiteer colleagues to "chuck Chequers".
 
 

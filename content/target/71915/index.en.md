@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Steps on the Way: Scottish Episcopal Church History
-
 Site dedicated to the history of the Scottish Episcopal Church.

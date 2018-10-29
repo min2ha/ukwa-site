@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kirsty Blackman (@AbdnNorthKirsty) on Twitter
-
 Kirsty Blackman is the Scottish National Party candidate for Aberdeen North in the UK General Election on 7th May 2015.

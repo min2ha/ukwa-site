@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kody Davies (kodydavies7) on Twitter
-
 <p>The twitter profile of althete Kody Davies, heavyweight boxer and member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

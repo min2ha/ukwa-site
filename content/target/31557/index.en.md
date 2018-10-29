@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Gwilym Simcock
-
 Gwilym Simcock is a Welsh pianist and composer in jazz and classical music.

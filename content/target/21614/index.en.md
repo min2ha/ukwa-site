@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Orkney SNP
-
 Orkney branch of the Scottish National Party (SNP).

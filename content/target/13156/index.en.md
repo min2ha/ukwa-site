@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# spiked
-
 Launched in 2001, as Britain’s first online-only current-affairs mag, spiked presents itself as a " metaphorical missile against misanthropy", It puts the case for human endeavour, intellectual risk-taking, exploration, excellence in learning and art, and freedom of speech with no ifs and buts, against the myriad miserabilists who would seek to wrap humans in red tape, dampen down our daring, restrain our thoughts, and police our speech. 

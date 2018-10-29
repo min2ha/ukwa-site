@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary’s Church, Wendover
-
 St. Mary’s Church, Wendover is an inclusive Church.

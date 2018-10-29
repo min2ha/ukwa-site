@@ -10,6 +10,4 @@
   "start_date": "2014-07-15T02:00:00Z"
 }
 
-# Landscape and Environment
-
 None

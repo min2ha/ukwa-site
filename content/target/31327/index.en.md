@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Kinnettles and District Heritage Group
-

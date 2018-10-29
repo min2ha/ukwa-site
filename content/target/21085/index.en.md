@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hannah Bardell on Facebook
-
 This is the Facebook page of Hannah Bardell, the Scottish National Party (SNP) candidate for Livingston in the UK General Election on the 7th May 2015.

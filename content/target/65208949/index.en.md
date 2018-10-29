@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# Minor Victorian Poets and Authors
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-10-02T09:00:00Z"
 }
 
-# Phil Okwedy Storyteller
-
 Phil Okwedy is an author and performance storyteller who provides workshops, training and philosophy for schools, adults and elders. Phil grew up in Pembrokeshire.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Pillar Community Church, Swansea
-

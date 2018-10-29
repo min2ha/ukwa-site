@@ -10,5 +10,3 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Wye Valley Writers
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dalton, Hightae & St Mungo Parish Churches on Facebook
-
 Facebook page of a Church of Scotland parish church at Lockerbie, Dumfries and Galloway.

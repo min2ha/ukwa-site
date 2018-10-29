@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Pentathlon - Pentathlon GB
-
 None

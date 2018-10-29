@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Jazz & Blues Festival
-
 Site of an annual jazz and blues music festival located in Edinburgh, Scotland.

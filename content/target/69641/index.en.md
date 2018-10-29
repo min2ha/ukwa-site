@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady & St. John the Baptist RC Church Ellon
-
 Site of a Scottish Roman Catholic parish church located in Ellon, Aberdeenshire.

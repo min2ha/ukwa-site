@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: A Labour party so driven by rivalries that even the battle for leadership is in chaos
-
 None

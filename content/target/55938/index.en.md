@@ -10,6 +10,4 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Familia de la Lonche Theatre Company
-
 Familia de la Noche is a breakout theatre company based in Wales.

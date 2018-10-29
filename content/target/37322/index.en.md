@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Nouse: Cameron pledges in-out EU referendum
-
 Nouse: Cameron pledges in-out EU referendum

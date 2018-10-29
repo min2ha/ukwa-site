@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# International Rescue Committee: Ebola outbreak: Crisis response in West Africa
-
 <p>Donation page and news from the International Rescue Committee, with Twitter comments.</p>

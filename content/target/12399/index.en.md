@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Trade Unionists for Yes
-
 None

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Martin Dobson on Facebook (Green Party candidate for Liverpool Riverside)
-

@@ -10,6 +10,4 @@
   "start_date": "2016-02-26T09:00:00Z"
 }
 
-# Milestones Trust
-
 Milestones Trust is a charity that supports people with learning disabilities, mental health needs and dementia.

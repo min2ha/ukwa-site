@@ -10,5 +10,3 @@
   "start_date": "2017-05-10T09:00:00Z"
 }
 
-# John McNally MP (@JohnMcNallyMP) on Twitter
-

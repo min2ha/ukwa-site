@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Y Bont, Platfform e-ddysgu cenedlaethol ar gyfer Cymraeg i Oedolion | A national Welsh for Adults e-learning platform
-

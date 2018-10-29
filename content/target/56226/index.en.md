@@ -10,6 +10,4 @@
   "start_date": "2017-07-29T09:00:00Z"
 }
 
-# John Owen Jones
-
 John Owen Jones is a Broadway and West End actor and singer.

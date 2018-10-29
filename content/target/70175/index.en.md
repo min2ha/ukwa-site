@@ -10,6 +10,4 @@
   "start_date": "2018-08-21T09:00:00Z"
 }
 
-# Free Association Books (FAB)
-
 FAB is a long established and independent publisher of books that are often unconventional and always original. Our topics include psychotherapy, social work, health studies, history, public policy and more.

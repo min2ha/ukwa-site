@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jonathan Eley Short Track Speed Skater - Twitter
-

@@ -11,6 +11,4 @@
   "subject": "19th Century English Literature"
 }
 
-# William Morris Gallery
-
 Art gallery and museum operated by the London Borough of Waltham Forest at the home of William Morris.

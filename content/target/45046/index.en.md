@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Pushpin Zines
-
 Reviews and news of zines, magazines, comics and independent publications.

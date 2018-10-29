@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Political Betting: The European Parliament elections: the nonsense voting system that the coalition should have scrapped
-
 None

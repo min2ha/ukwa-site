@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Street Art London
-
 <p>Website profiling London's street artists and giving information into how to commission a work.</p>

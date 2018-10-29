@@ -10,6 +10,4 @@
   "start_date": "2016-07-05T10:00:00Z"
 }
 
-# Isle of May NNR
-
 Blog updatyed by Scottish Natural Heritage reserve staff  based on the Isle of May.

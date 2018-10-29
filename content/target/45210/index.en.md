@@ -10,6 +10,4 @@
   "start_date": "2016-09-01T10:00:00Z"
 }
 
-#  Friends of John Muir's Birthplace
-
 Site of a museum and society dedicated to preserving the birthplace of Scottish naturalist John Muir, and located in Dunbar, East Lothian, Scotland

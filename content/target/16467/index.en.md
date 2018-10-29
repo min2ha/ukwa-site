@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Most Conservatives want more immigration, centre-right think tank tells David Cameron
-
 None

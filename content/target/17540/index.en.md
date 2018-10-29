@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP election campaign uses referendum lessons to boost fighting funds
-
 None

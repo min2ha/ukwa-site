@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Our forests, our future
-
 Site providing global citizenship resources for young people on the topic of forests.

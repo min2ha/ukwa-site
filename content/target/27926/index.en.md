@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Walker Institute, The
-
 The University of Reading's Walker Institute for Climate System Research aims to enhance understanding and improve prediction of the risks and opportunities from our changing climate.

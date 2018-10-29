@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Scotland's Independence Referendum Party
-
 The Scotland's Independence Referendum Party aims include: "the restoration of Scottish national sovereignty by restoration of full powers to the Scottish Parliament."

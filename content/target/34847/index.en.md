@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Northridge Music
-
 Northridge Music is the brand name under which sheet music and CDs of the music composed by the modern composer and musicologist Michael Robinson is sold. 

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Cavalier Chat Forums
-
 An online enthusiast community forum concerned with Cavalier King Charles Spaniels. Discusses the history of the breed, breeding, breed health, shows & training, rescue & welfare and various other related topics.

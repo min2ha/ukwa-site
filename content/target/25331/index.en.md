@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Spectator: Coffee House (@Spectator_CH) on Twitter
-

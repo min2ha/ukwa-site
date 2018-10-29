@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron may be PM – but it’s Osborne who really runs this government
-
 None

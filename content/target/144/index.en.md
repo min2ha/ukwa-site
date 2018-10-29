@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Medway NHS Foundation Trust
-
 None

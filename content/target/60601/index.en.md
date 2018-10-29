@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Twing_ENG (@Twing_ENG) on Twitter
-
 Twing_ENG is a Twitter account ran by the Women's Sports Network (WSNet). 

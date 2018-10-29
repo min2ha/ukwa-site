@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Aberafan Plaid Cymru (@aberavonplaid) on Twitter
-
 Twitter account for Aberafan Plaid Cymru

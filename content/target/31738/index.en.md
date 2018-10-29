@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Welsh Remembrancer
-
 Nationlist Blog by Gethin Iestyn Gruffydd focusing on current issues and looking back at the nationalist cause during the 1960's.

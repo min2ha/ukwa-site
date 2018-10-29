@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Perceptions of Pregnancy
-
 Perceptions of Pregnancy is a multi-disciplinary network for researchers working on fertility, pregnancy and childbirth from the earliest times to the present day.

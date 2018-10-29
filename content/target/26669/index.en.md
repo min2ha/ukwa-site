@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: SNP wants Liberal Democrats' third party parliamentary perks
-
 None

@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# 2012 Watchdog
-

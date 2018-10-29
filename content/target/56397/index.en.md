@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Paul Duffield
-
 Website of comics creator Paul Duffield. As of August 2017 it includes comics 'The Firelight Isle' and a number of short webcomics.

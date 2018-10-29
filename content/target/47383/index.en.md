@@ -10,6 +10,4 @@
   "start_date": "2016-11-26T09:00:00Z"
 }
 
-# Taymara
-
 Site of a charity offering maritime training in the Tay (for Fife and Dundee) and restoring the Norr Carr Lightship.

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Leaving the EU: Food Safety
-
 This Briefing provides an overview of food safety law in the UK, and the bodies involved in overseeing and regulating food safety. It then examines the possible implications of the UK’s departure from the EU for food safety, including regarding the functions currently performed by the European Food Safety Authority and the impact of possible new trade deals.
 

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter & St. Paul, Seal
-
 St Peter and St Paul is the Church of England parish church for Seal, near Sevenoaks.

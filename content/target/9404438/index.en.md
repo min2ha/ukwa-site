@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# Information for Mental Health
-
 None

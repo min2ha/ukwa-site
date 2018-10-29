@@ -11,6 +11,4 @@
   "subject": "Zika Virus Outbreak, South America 2015-16"
 }
 
-# Travel Health Pro: Zika virus - update and advice for travellers including pregnant women
-
 Travel Health Pro main travel advice document on Zika virus.

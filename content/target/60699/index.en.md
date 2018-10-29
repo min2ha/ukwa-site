@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: EU agrees Brexit 'transition' negotiation guidelines
-
 Basically, the EU wants the UK to continue to follow its rules but not be involved in making decisions.during the transition period. Free movement into the UK should continue.

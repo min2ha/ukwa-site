@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Black Women in the Arts (BWA)
-
 None

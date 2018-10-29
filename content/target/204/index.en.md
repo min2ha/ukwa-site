@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dudley Group, The
-
 None

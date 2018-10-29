@@ -11,7 +11,5 @@
   "subject": "News Sites"
 }
 
-# Cayman Compass
-
 About
 Serving Cayman since 1965, the Cayman Compass is the islands’ news source. 

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Aircon
-
 Website for the Aircon Analog Gaming Festival. 

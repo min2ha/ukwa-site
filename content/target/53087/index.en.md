@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Nicola Knight (@Nicola_Knight1) on Twitter 
-
 Liberal Democrats candidate for the Cynon Valley at the 2017 General Election 2017.

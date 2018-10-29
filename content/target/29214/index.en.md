@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Colonsay Book Festival
-
 Colonsay Book Festival

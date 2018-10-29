@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Blue Labour (@blue_labour) on Twitter
-
 An @uklabour pressure group.

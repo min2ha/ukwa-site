@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: British company bosses back EU 'In' campaign and warn Brexit would hit jobs
-

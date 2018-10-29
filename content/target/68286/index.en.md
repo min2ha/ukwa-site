@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ryton RFC (@RytonRUFC) on Twitter
-
 The Official Twitter account for Ryton Rugby Club.

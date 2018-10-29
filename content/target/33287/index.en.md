@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Macworld
-
 Macworld is a website with information about Apple products.

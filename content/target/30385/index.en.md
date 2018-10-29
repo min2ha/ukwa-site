@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Scott Quinnell
-
 Scott Quinnell is a former Rugby Union and Rugby League player who now works in the media.

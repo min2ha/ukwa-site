@@ -10,6 +10,4 @@
   "start_date": "2016-06-17T10:00:00Z"
 }
 
-# Tayport Community Trust
-
 Site of a community group based in Tayport, Fife, Scotland, aiming to develop sustainable activities for the benefit of the people of Tayport.

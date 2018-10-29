@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Tory darling Jacob Rees-Mogg hints May should SACK her Chancellor to end Remain resistance but the PM is warned she could be ousted if she doesn't set a departure date   
-

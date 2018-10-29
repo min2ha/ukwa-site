@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Library: Brexit: Overseas Development Assistance
-
 This House of Lords Library Briefing examines current UK expenditure on aid and the mechanisms by which it is spent, including through the European Union institutions, and how these might be impacted post-Brexit. The paper examines the Government’s proposals for the UK-EU relationship post-Brexit and reviews what other commentators have suggested about the implications of Brexit for both UK and EU development assistance.
 

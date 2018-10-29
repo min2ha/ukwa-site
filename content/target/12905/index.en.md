@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Christian Concern
-
 Christian Concern exists to speak of Jesus Christ in public life. The members do this in the courts, in Government and in the media.

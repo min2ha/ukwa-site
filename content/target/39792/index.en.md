@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Ex-Cabinet minster compares David Cameron to the beheaded Charles I and insists the Brexit wars will never end if the Remain campaign wins on June 23  
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Whitlit - Whitstable Literary Festival
-
 Festival

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: 2015 is a year of historic anniversaries but children won't know them, claims Schools Minister
-

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Skills Competition Wales | Cystadleuaeth Sgiliau Cymru
-
 Skills Competition Wales promotes the importance of skills in Wales. Skills Competition Wales forms part of the Welsh Government’s Growth and Sustainable Jobs programme, and aims to raise the profile of skills in Wales.

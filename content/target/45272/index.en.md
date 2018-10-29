@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Fife Tourism Partnership
-
 Site of an organisation aiming to work to increase the number of visitors Fife and encourage good delivery of visitor experiences.

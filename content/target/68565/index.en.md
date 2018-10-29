@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of Loretto and St. Michael Catholic Church
-
 Site of a Roman Catholic parish church in Scotland, located at Musselburgh, East Lothian.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron launches Conservatives' campaign poster amid controversy - video
-
 None

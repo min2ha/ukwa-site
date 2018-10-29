@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Living on words alone
-
 Dan Falchikov blogs on politics and life from a Liberal Democrat perspective.

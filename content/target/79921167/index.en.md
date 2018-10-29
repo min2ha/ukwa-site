@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Forestry Commision, The
-
 The UK forestry commission

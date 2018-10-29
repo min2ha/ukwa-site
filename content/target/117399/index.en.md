@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Welsh Books Council - Cyngor Llyfrau Cymru
-
 The Welsh Books Council is a national body, funded by the Welsh Government, which provides a focus for the publishing industry in Wales. It provides a number of specialist services (in the fields of editing, design, marketing and distribution) with a view to improving standards of book production and publication in both Welsh and English. 

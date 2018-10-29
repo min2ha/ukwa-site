@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wessex RFC now Exeter Athletic (@WessexRFC) on Twitter
-
 You will find the new twitter feed @exeterrfc

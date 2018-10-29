@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Durham Cathedral: Anthem’s Mag-nificent Journey to Durham
-

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# TheCityUK: Continuity of cross-border financial contracts post-Brexit
-
 When the UK leaves the Single Market, UK-based providers will no longer be able to rely on ‘passports’ and the right of establishment to service existing cross-border financial contracts throughout the European Economic Area (EEA). There will also be an identical impact on EEA providers who will be unable to service existing financial contracts with UK-based parties. This issue is often referred to as the contract continuity problem. The paper argues that the full range of affected cross-border contracts must be grandfathered, either for a time-limited period, or potentially until maturity. This would protect UK and EEA policyholders and institutions and avert potential widespread financial losses.

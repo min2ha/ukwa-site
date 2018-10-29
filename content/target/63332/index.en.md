@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Lodge Kyle 1117
-
 Site of a masonic lodge located at Kyle of Lochalsh, Highland and affiliated with the Grand Lodge of Scotland.

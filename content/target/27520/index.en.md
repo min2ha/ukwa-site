@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: David Cameron supporters told to form a 'praetorian guard' to shield him from the axe if Conservatives lose
-
 None

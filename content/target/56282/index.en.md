@@ -10,5 +10,3 @@
   "start_date": "2017-08-01T09:00:00Z"
 }
 
-# Wrexham and Bidston Rail Users' Association
-

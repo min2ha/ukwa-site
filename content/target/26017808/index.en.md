@@ -11,6 +11,4 @@
   "subject": "Credit Crunch"
 }
 
-# The Institution of Commercial & Business Agents (ICBA)
-
 The Institution of Commercial & Business Agents (ICBA) is a UK professional body for commercial and business transfer agents. The key aim of ICBA is to promote and ensure professionalism and best practice within commercial and business transfer agencies to ensure that a first class service is provided to both the general public and its members. 

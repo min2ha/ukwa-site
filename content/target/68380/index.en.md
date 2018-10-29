@@ -10,6 +10,4 @@
   "start_date": "2018-06-29T09:00:00Z"
 }
 
-# Lyon and Turnbull
-
 Lyon & Turnbull are a fine art and antiques auction house.

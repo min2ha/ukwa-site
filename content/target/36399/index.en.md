@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: A word from the editor: Emma Thompson dubs UK 'cake-filled, misery laden, grey old island'
-
 Column by Martin Townsend

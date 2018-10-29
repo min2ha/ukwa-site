@@ -10,6 +10,4 @@
   "start_date": "2016-02-15T19:00:00Z"
 }
 
-# Health and Social Care Information Centre (HSCIC)
-
 HSCIC is the trusted national provider of high-quality information, data and IT systems for health and social care

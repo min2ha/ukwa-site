@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour launches green manifesto nine years after Cameron hugged husky
-
 None

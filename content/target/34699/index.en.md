@@ -10,6 +10,4 @@
   "start_date": "2016-01-28T09:00:00Z"
 }
 
-# Nuclear Decommissioning Authority
-
 Official website of the Nuclear Decommissioning Authority, a UK Government agency.

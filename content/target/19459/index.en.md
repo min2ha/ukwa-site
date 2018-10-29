@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Streatham Guardian: Magna Carta festival in St Albans for 800th anniversary
-

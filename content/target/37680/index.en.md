@@ -10,6 +10,4 @@
   "start_date": "2016-03-18T09:00:00Z"
 }
 
-# Chartered Trading Standards Institute Blog
-
 The Chartered Trading Standards Institute (CTSI) is a membership organisation for trading standards officers, which means we are here to advocate for and supply educational opportunities for trading standards officers.

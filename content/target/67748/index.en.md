@@ -10,5 +10,3 @@
   "start_date": "2018-06-27T09:00:00Z"
 }
 
-# Drowned In Sound: In Memoriam: Scott Hutchison 1981 – 2018
-

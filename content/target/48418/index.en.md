@@ -10,6 +10,4 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Recordiau Neb
-
 Recordiau Neb is a Welsh music record player.

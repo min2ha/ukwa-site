@@ -10,6 +10,4 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# SSE Swalec
-
 SWALEC is a major gas and electricity supplier to business and domestic customers throughout Wales.

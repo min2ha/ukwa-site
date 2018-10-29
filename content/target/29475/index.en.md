@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Red Card Comedy Club
-
 Website for the Red Card Comedy Club in Norwich, Norfolk.

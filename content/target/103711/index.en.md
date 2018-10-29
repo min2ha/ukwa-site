@@ -10,5 +10,3 @@
   "start_date": "2004-11-22T00:00:00Z"
 }
 
-# Muslim Health Network
-

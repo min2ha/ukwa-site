@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Police probe Labour parliamentary hopeful who 'went on Snapchat and asked public schoolgirl, 17: Ready for bed yet?'
-
 None

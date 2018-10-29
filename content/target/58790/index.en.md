@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# British Astronomy Association Forums
-
 An online enthusiast community concerned with amateur astronomy. Discusses Spectroscopy, telescopes, variable stars, meteors, asteroids and various other related topics.

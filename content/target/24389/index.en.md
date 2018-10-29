@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: HS2: David Cameron in SNP and Labour row over Crewe
-
 None

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Potters Pottery Forum
-
 An online enthusiast forum concerned with pottery. Discusses where to acquire supplies, advice on using clay, information on glazes and various other pottery related topics.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Halliday for Newport East on Facebook
-
 Paul Halliday is the Liberal Democrat candidate for Newport East.

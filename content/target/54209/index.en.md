@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Andrea Watts (Labour Party Politician)
-
 Andrea Watts stood as the Labour candidate for Wellingborough at the 2017 General Election but was not elected.

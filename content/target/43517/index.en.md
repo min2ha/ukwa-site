@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Nottingham Women's Centre: EU referendum: what you need to know
-
 The article provides details and links to both Brexit and remain websites.

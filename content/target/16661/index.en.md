@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# BMJ Best Practice: Ebola virus infection
-
 <p>A directory for Ebola virus infection.</p>

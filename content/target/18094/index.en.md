@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Knifing David was worse than I expected, says Ed Miliband
-
 None

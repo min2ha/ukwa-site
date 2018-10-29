@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Telegraph, the: JK Rowling tells fans not to buy £25,000 Harry Potter prequel stolen in burglary
-

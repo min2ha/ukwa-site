@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Frank Field MP
-
 None

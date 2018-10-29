@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Tumbit Spain: What would a UK EU Exit mean for Expats in Spain ?
-
 Discusses the implications of a vote to leave the EU for British citizens resident in Spain.

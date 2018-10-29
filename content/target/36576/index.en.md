@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# National Association of Stable Staff
-

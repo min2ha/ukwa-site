@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Vaccine Nation
-
 <p>Vaccine Nation - Strategy and innovation in vaccines gives information about prophylactics, strategy and policy, R&amp;D, viral diseases, etc.</p>

@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Mearns History Group
-
 Site of a hyper local history society for the parish of Mearns south of Glasgow, Scotland.

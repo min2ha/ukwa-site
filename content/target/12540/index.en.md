@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Louis Smith MBE (louissmith1989) on Twitter
-
 <p>The twitter profile of gymnast Louis Smith MBE, member of Team England for the Glasgow 2014 Commonwealth Games.</p>

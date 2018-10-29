@@ -10,5 +10,3 @@
   "start_date": "2011-06-01T00:00:00Z"
 }
 
-# Pancreatic Cancer Action
-

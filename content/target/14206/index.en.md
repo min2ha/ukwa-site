@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Alec Finlay: 09/29/14
-
 None

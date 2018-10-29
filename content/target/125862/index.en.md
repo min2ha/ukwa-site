@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Antiquarian Booksellers Association (ABA)
-
 the Antiquarian Booksellers’ Association is the senior trade body for dealers in antiquarian and rare books, manuscripts and allied materials in the British Isles. The ABA was founded in 1906.

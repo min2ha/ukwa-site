@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Muslim Women in Sport
-
 Website for Muslim Women in Sport Federation

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# This is South Wales
-
 None

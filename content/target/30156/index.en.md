@@ -10,6 +10,4 @@
   "start_date": "2015-10-06T11:00:00Z"
 }
 
-# Argyll and Bute Council on Facebook
-
 Facebook relaying information about Argyll and Bute from the local council.

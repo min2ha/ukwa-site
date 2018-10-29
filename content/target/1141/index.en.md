@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kent and Medway Cancer Network
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# The Education Policy Institute (EPI)
-
 The Education Policy Institute (EPI) is an education policy research institute based in Westminster, London.

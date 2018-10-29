@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# James Yorkston
-
 Site of a singer, musician and songwriter from and based in Fife, Scotland.

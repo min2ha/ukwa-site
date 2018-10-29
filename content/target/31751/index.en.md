@@ -10,6 +10,4 @@
   "start_date": "2015-10-26T09:00:00Z"
 }
 
-# Lombard Street Research
-
 Lombard Street Research provides global investors with independent, provocative economic analysis and investment advice that challenges the consensus. It was established in 1989.

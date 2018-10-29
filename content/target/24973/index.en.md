@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Will Cameron ditch Clegg's Lib Dems to form a 'right wing alliance' with Northern Ireland's DUP?
-
 None

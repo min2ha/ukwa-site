@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# New Scientist Live
-

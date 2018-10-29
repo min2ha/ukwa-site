@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Ilm News UK (The Knowledge)
-
 Sheffield-based online Urdu language newspaper

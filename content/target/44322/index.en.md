@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Eastlit
-
 A journal and website focused on creative writing, English literature and art specifically from or connected to East and South East Asia.

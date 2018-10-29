@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Simon Hart MP on Facebook
-
 Simon Hart is the MP for Carmarthen West and South Pembrokeshire.

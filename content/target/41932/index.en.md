@@ -10,5 +10,3 @@
   "start_date": "2016-05-27T12:00:00Z"
 }
 
-# Cyngor Cymuned Llanwenog | Llanwenog County Council
-

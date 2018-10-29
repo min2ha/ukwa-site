@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St Albans Cathedral
-
 The official website of the Cathedral and Abbey Church of St Alban, St. Albans.

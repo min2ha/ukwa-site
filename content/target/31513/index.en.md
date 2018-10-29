@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Technology Trust
-
 Technology Trust’s mission is to help good causes use technology to achieve more for less money. They help charities, social enterprises or non-profit access to the donated software, email marketing and other digital services.

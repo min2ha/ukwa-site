@@ -11,5 +11,3 @@
   "subject": "Stephen Hawking"
 }
 
-# Huffington Post, The : Stephen Hawking
-

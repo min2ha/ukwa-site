@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Michael’s Church [Bristol]
-
 St Michael’s, Stoke Gifford is a lively, growing Anglican church on the northern edge of Bristol. 

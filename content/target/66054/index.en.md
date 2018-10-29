@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Shop and Display Equipment Association (SDEA)
-
 Through the Shop and Display Equipment Association you can access thousands of shopfittings and display systems, props, accessories, point of sale, signage, visual merchandising and other equipment and services for retail interiors.

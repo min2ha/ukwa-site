@@ -10,6 +10,4 @@
   "start_date": "2008-07-23T00:00:00Z"
 }
 
-# RDInfo
-
 RDInfo was established in 1997 to help support researchers, initially in their quest for funds and training.

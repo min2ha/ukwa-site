@@ -10,5 +10,3 @@
   "start_date": "2016-11-17T09:00:00Z"
 }
 
-# Bwrdd Iechyd Prifysgol Betsi Cadwaladr | Betsi Cadwaladr University Health Board
-

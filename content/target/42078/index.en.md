@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Caldecote Local History Group
-

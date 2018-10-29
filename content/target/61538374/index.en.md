@@ -11,6 +11,4 @@
   "subject": "French in London"
 }
 
-# Kensington Palace Gardens Bastille Day Ball
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# Royal Photographic Society, The
-
 <p>The Royal Photographic Society is a membership organisation that promotes all aspects of photography across art and science.</p>

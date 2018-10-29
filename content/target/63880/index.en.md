@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Broomhill Hyndland Parish Church
-
 The website of Broomhill Hyndland Parish Church, founded in 2017 out of the union of Broomhill Parish Church and Hyndland Parish Church. 

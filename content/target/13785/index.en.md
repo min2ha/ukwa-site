@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Margo Mobile
-
 <p>The website of the Margo mobile, a Yes campaign vehicle touring housing estates across Scotland.</p>

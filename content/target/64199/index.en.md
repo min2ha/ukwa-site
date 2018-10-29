@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# GMB: Public Refuse to Back Government Handing of Brexit
-
 Survation poll for GMB marking Article 50 anniversary reveals less than a third of the public think ministers have put jobs first in negotiations
 

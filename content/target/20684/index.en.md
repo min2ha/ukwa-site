@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Campaigner for Angus, Stonehaven & Mearns - Sanjay Samani
-
 Sanjay is the Liberal Democrat Parliamentary Candidate for the Angus constituency in the 2015 General Election.

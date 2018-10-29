@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Last Laugh Comedy Clubs
-
 The website for the Last Laugh Comedy Club, one of the longest running comedy clubs in Yorkshire.

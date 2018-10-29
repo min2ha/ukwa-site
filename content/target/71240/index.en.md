@@ -11,7 +11,5 @@
   "subject": "Festivals"
 }
 
-# Beckenham Festival
-
 Website for the Beckenham Festival.
 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Isobel Grant (Conservative)
-
 Isobel Grant stood as Conservative candidate for Bristol South at the 2015 General Election but was not elected.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Tyrinne Rutherford for Aberdeen North on Facebook
-
 Tyrinne Rutherford is the Trade Unionist Socialist Coalition candidate for Aberdeen North.

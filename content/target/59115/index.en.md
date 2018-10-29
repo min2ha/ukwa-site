@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Glasgow Central Mosque
-
 Site of an Islamic place of worship and education centre in the Gorbals, Glasgow.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Team Gregory - Supporting South West Athletes
-

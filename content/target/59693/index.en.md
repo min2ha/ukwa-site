@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK MLB Supporters Forum
-
 An online enthusiast community for UK fans of US-based Major League Baseball. The forum discusses game day chat, favourite teams, community road trips, minor leagues and baseball in the UK.

@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# Aberdeen Bestiary, The 
-
 A twelfth century encyclopedia of the natural world with digitized images of the books pages and translations from the original Latin; from the University of Aberdeen.

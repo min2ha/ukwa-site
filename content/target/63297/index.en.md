@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Abbey Church of Scotland
-
 Site of a Church of Scotland parish church at North Berwick, East Lothian.

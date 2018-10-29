@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: JCB tycoon quits anti-Brexit CBI: Digger manufacturer pulls out over apocalyptic warnings     
-

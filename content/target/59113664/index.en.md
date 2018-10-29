@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Fat of the Land, The
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Papur Bro Clonc
-
 Community newspaper for the villages of Cellan, Llanbedr Pont Steffan, Llanbedr Wledig, Llanfair Clydogau, Llangybi, Llanllwni, Llanwenog, Llanwnnen, Llanybydder, Llanycrwys and Uwch Gaeo a Phencarreg. 

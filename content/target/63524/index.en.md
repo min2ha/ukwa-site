@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Selar, Y
-
 ‘Y Selar' is a Welsh magazine established in 2004, and covers the Welsh language music scene. The website provides the latest music news and reviews and has a section on the Selar awards.

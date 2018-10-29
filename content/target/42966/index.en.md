@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Scottish Countryside Alliance
-
 Site of a Scottish campaining organisation supporting the countryside and promoting and protecting rural communities and the rural way of life.

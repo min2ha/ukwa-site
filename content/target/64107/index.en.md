@@ -10,6 +10,4 @@
   "start_date": "2018-04-13T09:00:00Z"
 }
 
-# NewLabourResistance (@NewLabourLives) on Twitter
-
 A campaign within the Labour Party to maintain the agenda developed by Tony Blair and against Jeremy Corbyn's policies. 

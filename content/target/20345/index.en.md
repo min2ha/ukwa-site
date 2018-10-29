@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Julia Reid (UKIP candidate for Chippenham in 2015 and  MEP for the South West and Gibraltar)
-
 Julia Reid stood as UKIP candidate for Chippenham at the 2015 General Election but was not elected. She stood as UKIP candidate for the South West and Gibraltar at the 2014 European Parliament election and was elected to serve as MEP.

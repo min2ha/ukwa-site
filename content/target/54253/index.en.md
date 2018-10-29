@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Truro and Falmouth Labour Party 
-
 Truro and Falmouth Labour Party website during the 2017 General Election campaign

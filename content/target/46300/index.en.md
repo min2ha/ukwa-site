@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# ﻿Beauceron Club UK 
-
 In 2013 Beauceron Club UK applied to the Kennel Club for the Beauceron breed to be fully recognised in the UK and to be transferred from the Working Group to the Pastoral Group. 

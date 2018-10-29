@@ -10,6 +10,4 @@
   "start_date": "2015-02-03T00:00:00Z"
 }
 
-# Institute of Development Studies (IDS)
-
 <p>The Institute of Development Studies (IDS) is a global institution for development research, teaching and learning, and impact and communications, based at the University of Sussex in Brighton, UK.</p>

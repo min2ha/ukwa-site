@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Wales Swim, The
-
 The Wales Swim is one of Wales' biggest open water swimming events and is held in Tenby.

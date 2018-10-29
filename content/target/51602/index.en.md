@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Guardian, The: Revealed: Britain’s first black female footballer after case of mistaken identity
-
 Emma Clarke, who was playing in the 1890s, has been established as Britain’s first black female footballer and her life story is being produced as a play.

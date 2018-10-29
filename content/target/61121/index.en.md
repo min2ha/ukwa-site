@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# British Library: Sisterhood
-
 A subsection of the British Library website that highlights resources available for researchers, teachers and students on the feminist who were at the forefront of the Women’s Liberation Movement in the 1970s and 80s.

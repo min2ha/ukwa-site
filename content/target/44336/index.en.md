@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Selby District Council
-
 The website of Selby District Council provides information about its activities and services, its finances, news and a residents' newsletter. You can also access policies and strategies, committee minutes and papers, and consultations.

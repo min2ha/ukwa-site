@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Malika Booker
-
 Malika Booker is an international writer whose work is steeped in anthropological research methodology and rooted in storytelling. Her writing spans poetry, theatre, monologue, installation, and education. Clients and organisations she has worked with include Arts Council England, BBC, British Council, Wellcome Trust, National Theatre, Royal Shakespeare Company, Arvon, and Hampton Court Palace.  Site include's details of Malika's Kitchen Poetry Collective.

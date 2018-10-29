@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Institution of Civil Engineers: Manifesto for Intrastructure
-
 ICE is engaging with all major political parties, with the manifesto writers, with the media and with opinion formers to get over this simple message: effective, efficient and innovative infrastructure is at the heart of a thriving, successful and modern economy.

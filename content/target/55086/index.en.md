@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# UNIQUE Transgender Network serving North Wales & West Cheshire
-

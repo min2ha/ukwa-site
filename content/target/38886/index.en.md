@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: Obama to offer his friendly opposition to Brexit during visit to UK
-
 Guardian, The

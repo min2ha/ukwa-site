@@ -10,6 +10,4 @@
   "start_date": "2008-08-20T00:00:00Z"
 }
 
-# Diamond
-
 Diamond Light Source is a new scientific facility in South Oxfordshire on the Harwell Science and Innovation Campus.

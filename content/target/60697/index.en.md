@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 30th January 2018: European Union (Withdrawal) Bill
-
 Record of the first day's debate on the European Union (Withdrawal) Bill at its second reading in the House of Lords 

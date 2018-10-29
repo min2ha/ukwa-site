@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lochee Harp Junior Football Club
-
 Site for a Scottish junior football club based in Dundee.

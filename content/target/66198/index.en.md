@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Living Islam Festival
-
 Muslim family event and retreat

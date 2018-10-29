@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Robert Smith on Facebook
-
 This is the Facebook page of Robert Smith, the Liberal Democrats candidate for West Aberdeenshire and Kincardine in the UK General Election on the 7th May 2015.

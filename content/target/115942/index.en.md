@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Naomi Symes Books - Women's History and Social History Books
-
 None

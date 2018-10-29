@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# PRONI: July 2017: Women in Sport
-
  short blog post about the Women in Sport exhibition that was touring around Northern Ireland.

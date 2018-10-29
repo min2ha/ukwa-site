@@ -10,6 +10,4 @@
   "start_date": "2017-11-23T09:00:00Z"
 }
 
-# Woodfarm Educational Trust
-
 Site of a registered Scottish charitable company based in East Renfrewshire, which manages the Woodfarm Education Centre and aims to advance education, culture, heritage and religion for the public benefit among the residents of East Renfrewshire, particularly the Muslim community and to promote religious and racial harmony for the public benefit among the residents of East Renfrewshire.

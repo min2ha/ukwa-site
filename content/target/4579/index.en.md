@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# United Reformed Church: a prayer for Mandela - and us
-
 <p>A statement by the Revd Michael Jagessar, moderator of the General Assembly of the United Reformed Church and the denomination’s secretary for racial justice and multicultural ministry.</p>

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: http://www.express.co.uk/comment/columnists/nick-ferrari/629610/David-Cameron-cabinet-Brexit-EU
-
 Column by Nick Ferrari

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# #socialunion hashtag on Twitter
-
 <p>Twitter posts containing the hashtag #socialunion.</p>

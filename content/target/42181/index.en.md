@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# NN4 Now
-

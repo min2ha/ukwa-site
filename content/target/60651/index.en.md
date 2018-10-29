@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Anfield Wrap, The (@TheAnfieldWrap) on Twitter
-
 The Anfield Wrap is a podcast and website all about Liverpool FC. This is their official Twitter account.

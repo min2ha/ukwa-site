@@ -10,5 +10,3 @@
   "start_date": "2015-04-29T09:00:00Z"
 }
 
-# Llanrhos Old School | Hen Ysgol Llanrhos
-

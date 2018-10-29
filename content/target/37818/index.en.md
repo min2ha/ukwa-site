@@ -10,6 +10,4 @@
   "start_date": "2016-03-22T09:00:00Z"
 }
 
-# West London Business (WLB)
-
 West London Business is a professional body that acts on behalf of business in North-West London, covering seven local authority areas. They are a company limited by guarantee, owned and led by the private sector.  

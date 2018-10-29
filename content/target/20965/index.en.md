@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Dave Dempsey (@cllrdavedempsey) on Twitter
-
 Twitter profile of Dave Dempsey, Scottish Conservative and Unionist Party candidate for Kirkcaldy and Cowdenbeath in the 2017 general election.

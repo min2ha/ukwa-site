@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cardiff University: Corpws Cenedlaethol Cymraeg Cyfoes – The National Corpus of Contemporary Welsh
-
 CorCenCC (Corpws Cenedlaethol Cymraeg Cyfoes – The National Corpus of Contemporary Welsh) is based at Cardiff University. It is a community driven approach to linguistic corpus construction is an interdisciplinary, collaborative project led by the School of English, Communication and Philosophy at Cardiff University. The project is funded by the Economic and Social Research Council (ESRC) and the Arts and Humanities Research Council (AHRC).

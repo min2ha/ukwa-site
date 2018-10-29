@@ -10,6 +10,4 @@
   "start_date": "2017-08-24T09:00:00Z"
 }
 
-# Gŵyl Celfyddydau Ieuenctid Gwyl Grai | Raw Ffest Youth Arts Festival
-
 Raw Ffest is a youth arts festival for Wales.

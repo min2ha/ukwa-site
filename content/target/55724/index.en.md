@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 12th July 2017: [Prime Minister's Questions]
-
 Damian Green answers questions on behalf of Prime Minister Theresa May, including an exploration of the Government's Brexit negotiating stance.

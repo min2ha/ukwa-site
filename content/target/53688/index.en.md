@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Alan Piper (@AlanPiper8) on Twitter (UKIP Politician)
-
 Alan Piper stood as the UK Independence Party (UKIP) candidate for Barrow and Furness at the 2017 General Election but was not elected.

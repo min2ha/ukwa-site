@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish of Hubberston, The 
-
 The parish covers the communities of Hubberston, Hakin and Liddeston and the Western part of Milford Haven in Pembrokeshire.

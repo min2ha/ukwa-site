@@ -11,6 +11,4 @@
   "subject": "The Queen's Official Birthday 2016"
 }
 
-# Queen's Birthday: How much does Elizabeth II cost compared to other European monarchs?
-
 A poll of Britons last year revealed that the UK monarchy has a 68 per cent approval rating but not everyone in the UK will be celebrating the Queens birthday.

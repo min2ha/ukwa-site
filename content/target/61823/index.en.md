@@ -10,6 +10,4 @@
   "start_date": "2018-03-01T09:00:00Z"
 }
 
-# Vocelle
-
 Vocelle is a women's choir formed in 2012 under the direction of Meryn Williams.

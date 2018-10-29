@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# PCSK9 Forum: Education and Research
-
 The PCSK9 Education and Research Forum is increasing awareness and understanding of new developments among healthcare professionals by providing free, unrestricted access to independent news, analysis and commentary from network of internationally recognised researchers and clinicians.

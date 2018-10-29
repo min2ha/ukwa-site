@@ -10,6 +10,4 @@
   "start_date": "2018-03-15T09:00:00Z"
 }
 
-# Ddraig Valley Farm Park
-
 Ddraig Valley Farm Park is based based on Pencoed Campus and is an educational faciliity.

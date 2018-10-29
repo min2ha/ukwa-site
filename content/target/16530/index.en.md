@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The future of the NHS at stake in 2015 election, says Ed Miliband
-
 None

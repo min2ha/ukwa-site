@@ -10,6 +10,4 @@
   "start_date": "2015-12-07T09:00:00Z"
 }
 
-# Postgraduate Search
-
 Postgraduate Search allows prospective students to search for, and find information on, any postgraduate course in the UK. 

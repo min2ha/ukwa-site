@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Allen and Overy: Implications of EEA membership outside the EU - different name, same game?
-
 There has been much discussion about the UK adopting, post-Brexit, the so-called ‘Norwegian model’, which is generally understood to be shorthand for a scenario whereby the UK leaves the European Union (EU) but remains part of the European Economic Area (EEA).

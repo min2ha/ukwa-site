@@ -10,5 +10,3 @@
   "start_date": "2013-09-03T01:15:00Z"
 }
 
-# Blaze aware : fire prevention for kids
-

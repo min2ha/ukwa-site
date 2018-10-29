@@ -10,6 +10,4 @@
   "start_date": "2015-10-30T09:00:00Z"
 }
 
-# TBI Communications
-
 TBI Communications is a marketing agency for the scholarly and publishing sectors based in Oxford.

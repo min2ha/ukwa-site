@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Georgia Davies (Ge0rgiaDavies90) on Twitter
-
 <p>The twitter profile of althete Georgia Davies, swimmer and member of Team Wales for the Glasgow 2014 Commonwealth Games.</p>

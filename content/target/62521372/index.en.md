@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# East Lincolnshire Methodist Circuit
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NiddFest Literary Festival - Celebrating Nature In Writing
-
 NiddFest Literary Festival - Celebrating Nature In Writing

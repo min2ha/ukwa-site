@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EUReferendum 
-
 A pro-leave blog about the EU Referendum and subsequent developments.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-04T09:00:00Z"
 }
 
-# Newport: Smart and connected city
-
 The site provides a listing of regeneration projects in the city of Newport.

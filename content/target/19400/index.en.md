@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Sky News: Boris: PM Faked Ignorance On Letterman
-

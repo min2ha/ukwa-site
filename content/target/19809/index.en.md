@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Wales Online: Plaid Cymru declares zero donations in final quarter of 2014, but says its finances are in good order for the general election
-

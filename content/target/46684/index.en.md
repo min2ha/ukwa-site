@@ -10,6 +10,4 @@
   "start_date": "2016-11-02T09:00:00Z"
 }
 
-# Cornerstone Cardiff
-
 Cornerstone is a new conference and arts centre opened in September 2016 on the former Ebenezer Chapel on Charles Street, Cardiff. 

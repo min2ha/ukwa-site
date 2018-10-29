@@ -11,6 +11,4 @@
   "subject": "UK/India Year of Culture 2017"
 }
 
-# Coreo Cymru: Wales | India - Liminality
-
 Liminality explores the 'influences of both cultures with themes engaging the juxtaposition between spirituality and industry' across India and Wales and was filmed in South Wales, Delhi and Goa. Liminality is funded through the Arts Council of Wales/Wales Arts International and British Council through a programme to support new collaborative arts projects between India and Wales.

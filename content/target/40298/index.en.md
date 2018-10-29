@@ -10,6 +10,4 @@
   "start_date": "2016-05-03T10:00:00Z"
 }
 
-# Oriel Colwyn
-
 Oriel Colwyn is a North Wales Photography Gallery based in Conwy.

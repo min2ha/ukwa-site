@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Champagne corks pop in the City but rally may be brief
-
 None

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU Facts: Did the OBR really warn against Brexit?
-

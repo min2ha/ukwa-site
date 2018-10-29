@@ -10,6 +10,4 @@
   "start_date": "2015-08-18T10:00:00Z"
 }
 
-# Momentum Venues (@MomentumVenues) on Twitter
-
 Twitter profile for Momentum Venues' Venue 166, hosted in St. Stephen's Centre at the Edinburgh Fringe Venue.

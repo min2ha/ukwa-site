@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Computing
-
 News and analysis for UK IT managers. It contains a blog.

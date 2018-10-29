@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# AberIn (@AberINCampaign) on Twitter
-
 Twitter page for those in Aberystwyth wishing to remain part of the EU.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Student who tripped up David Cameron stumps Boris Johnson on LBC
-
 None

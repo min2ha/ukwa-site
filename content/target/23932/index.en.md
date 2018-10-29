@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour's housing plans wipe nearly £200m off value of UK home builders
-
 None

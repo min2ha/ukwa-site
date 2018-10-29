@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: EU referendum: Britain is deeply Eurosceptic but will still decide to stay, says poll
-

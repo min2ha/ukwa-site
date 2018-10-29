@@ -10,6 +10,4 @@
   "start_date": "2017-12-05T09:00:00Z"
 }
 
-# Provincial Grand Lodge of Banffshire
-
 Site of a masonic organisation covering the historic county of Banffshire, with information on its dauaghter lodges.

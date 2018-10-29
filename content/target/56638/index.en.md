@@ -10,6 +10,4 @@
   "start_date": "2017-08-17T09:00:00Z"
 }
 
-# Côr Dre
-
 Côr Dre is a mised young people's choir based in Caernarfon.

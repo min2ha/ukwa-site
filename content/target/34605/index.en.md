@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Trench Brothers
-
 Trench Brothers is a research project engaging primary schools and the community, which fosters an understanding and recognition of the achievements and contribution to our heritage made by ethnic minority soldiers.

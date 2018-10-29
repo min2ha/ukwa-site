@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-#  West Yorkshire Birding  
-
 A blog about bird watching by Brian Sumner and is based in Queensbury, West Yorkshire.

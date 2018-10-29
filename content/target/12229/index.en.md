@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jodies Judo Journey
-
 <p>The website of Jodie Myers, competitor in judo and member of Team England for the Glasgow 2014 Commonwealth Games.</p>

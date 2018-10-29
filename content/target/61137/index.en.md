@@ -10,6 +10,4 @@
   "start_date": "2018-02-09T09:00:00Z"
 }
 
-# Pembrokeshire Schools Film Festival | Gŵyl Ffilm ac Animeiddio Ysgolion Sir Benfro
-
 The Pembrokeshire Schools Film and Animation is an annual showcase for films made by Pembrokeshire students,

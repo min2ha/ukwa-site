@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Shire plc
-
 Shire Plc is a Irish-headquartered global specialty biopharmaceutical company. its brands and products include Vyvanse, Lialda, and Adderall XR. 

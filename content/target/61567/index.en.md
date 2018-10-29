@@ -10,6 +10,4 @@
   "start_date": "2018-02-24T09:00:00Z"
 }
 
-# Lodge Barns o' Clyde No. 1018
-
 Site of a masonic lodge located in Clydebank, West Dunbartonshire and affiliated with the Grand Lodge of Scotland.

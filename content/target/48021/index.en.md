@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# International Greek New Testament Project, The (IGNTP)
-
 The International Greek New Testament Project (IGNTP) exists to produce a comprehensive critical apparatus of the Greek New Testament.

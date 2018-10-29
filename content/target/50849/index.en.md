@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Youth With A Mission Wales - YWAM Wales
-

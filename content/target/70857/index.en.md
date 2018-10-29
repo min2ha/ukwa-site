@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# PRONI: Small Worlds of Football in Europe: the Cases of Ireland, Britain and Germany
-
 A one-day event organised by Small Worlds, a research network established by a group of German, British and Irish scholars in 2015 to facilitate research into football as experienced at the grassroots across Europe. This will be held at the Public Record Office of Northern Ireland (PRONI) in Belfast, Friday 7 September 2018.

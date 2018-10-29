@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Strength Weekly - my place by David Gale
-
 David Gale writes plays, performances and events; articles and essays; scripts for television and film. 

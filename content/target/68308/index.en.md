@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Barns Green RFC
-
 Barns Green RFC is a friendly rugby club just outside horsham. 

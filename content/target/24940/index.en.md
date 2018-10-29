@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Lesley Grahame (@LesleyJGrahame) on Twitter (Green candidate for Norwich South)
-

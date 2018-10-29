@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# geecee.co.uk
-
 None

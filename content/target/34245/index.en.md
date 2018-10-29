@@ -11,7 +11,5 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Bob Doris for Maryhill and Springburn
-
 Bob Doris is Scottish National Party Member of the Scottish Parliament
 for Maryhill and Springburn constituency

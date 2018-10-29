@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: "Young people 'buying anxiety drug online'"
-
 News article about young people buying anxiety drugs online

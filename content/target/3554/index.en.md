@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# News Guardian (Whitley Bay)
-
 None

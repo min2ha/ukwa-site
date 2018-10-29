@@ -10,6 +10,4 @@
   "start_date": "2016-06-09T10:00:00Z"
 }
 
-# Wild About Lochaber
-
 Site providing information for visitors on the wild life of the area of Lochaber in the Western Highlands of Scotland, with supporting information on amenities.

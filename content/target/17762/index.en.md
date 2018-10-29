@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Sam Wallace. If I were Prime Minister: Greedy directors wouldn&#039;t control football clubs
-
 None

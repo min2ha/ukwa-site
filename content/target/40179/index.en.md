@@ -10,6 +10,4 @@
   "start_date": "2016-04-29T10:00:00Z"
 }
 
-# Lewis Macdonald (@LewisMacd2016) on Twitter
-
 The Twitter profile of Lewis Macdonald, Scottish Labour candidate for Aberdeen Central and North East Scotland in the 2016 Scottish Parliamentary elections. 

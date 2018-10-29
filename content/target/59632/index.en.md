@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit deal: Theresa May's agreement with Brussels
-
 The UK and European Commission reached an agreement on December 8th 2017 that would allow them to move Brexit talks on to the next stage. However However, the deal was a compromise that could unravel.

@@ -10,6 +10,4 @@
   "start_date": "2018-07-31T09:00:00Z"
 }
 
-# Fòcas
-
 Fòcas Scotland is a non-profit organisation which supports emerging photographers.

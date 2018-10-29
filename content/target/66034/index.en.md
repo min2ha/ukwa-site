@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Carmunnock Highland Games
-
 Site of a highland games at 

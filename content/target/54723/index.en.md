@@ -10,6 +10,4 @@
   "start_date": "2017-06-15T09:00:00Z"
 }
 
-# Project Waterfall
-
 Project Waterfall is a charity initiative established by The Allegra Foundation, bringing clean water and sanitation to coffee growing communities.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# James Calder (@jCalderLibDem) on Twitter
-
 Twitter profile of James Calder, Scottish Liberal Democrat candidate for Dunfermline and West Fife in the 2017 general election.

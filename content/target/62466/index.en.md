@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Fenwick Parish Church
-
 Site of a Church of Scotland parish church at Fenwick, Ayrshire.

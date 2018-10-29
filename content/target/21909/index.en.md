@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michael Marra on Facebook
-
 The Facebook page of Michael Marra, Scottish Labour candidate for Dundee West in the UK General Election, 7th May 2015.

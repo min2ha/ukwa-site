@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Brexit: Gerry Adams says EU referendum matters on both sides of the border
-

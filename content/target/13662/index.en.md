@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Aberdeen City Council: Scottish Independence Referendum 2014
-
 None

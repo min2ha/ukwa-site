@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# Airedale International Air Conditioning
-
 Airedale International is an Air Conditioning Manufacturer. Airedale AC design & manufacture innovative, high efficiency HVAC solutions.

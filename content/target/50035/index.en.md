@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Hope Church [Newtown, Powys]
-
 Newtown Pentecostal Church first started from a crusade meeting in a tent organised by Pastor Howell Harris in 1948. In the early 1950s the church became affiliated to the Assemblies of God and meetings were held in various venues in the town until in 1977 a new church was built on the Dolfor Road site. This was extended in 1989, with further extensions and upgrading of the foyer area in 2003.

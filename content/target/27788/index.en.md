@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Telegraph, The: Magna Carta: Law, Liberty, Legacy, British Library, review: 'rich and authoritative'
-

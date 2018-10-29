@@ -11,5 +11,3 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# British Obesity Surgery Patient Asociation (BOSPA)
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Folkestone and Hythe Conservatives
-
 Website of Folkestone and Hythe Conservatives, providing information on MP, events and local, national and Westminster news updates, opinions and speeches. 

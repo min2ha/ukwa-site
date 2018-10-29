@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: St George would have been let into England under Ukip's rule
-
 None

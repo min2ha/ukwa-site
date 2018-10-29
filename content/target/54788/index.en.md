@@ -10,6 +10,4 @@
   "start_date": "2017-06-17T09:00:00Z"
 }
 
-# Thomas Fraser Webpages
-
 Site dedicated to a Shetland country musician Thomas Fraser and a festival of his music.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Church Times: Black Majority Churches slam ‘British rule’
-
 The Church Times, founded in 1863, it is an international Anglican weekly newspaper. It has always been independent of the Church of England hierarchy.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lucy Hope (@LucyHope_) on Twitter
-
 The twitter profile of athlete Lucy Hope, swimmer and member of Team Scotland for the Glasgow 2014 Commonwealth games.

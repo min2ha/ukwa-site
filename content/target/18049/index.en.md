@@ -11,7 +11,5 @@
   "subject": null
 }
 
-# Stephen Doughty, MP for Cardiff North and Penarth
-
 Stephen Doughty is the Labour prospective parliamentary candidate for Cardiff South and Penarth.
 He is also the current MP.

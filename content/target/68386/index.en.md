@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Sun, The: CHEQUEXIT Theresa May’s Remainer-majority Cabinet to settle EU customs deal at showdown Chequers summit
-
 The PM sparked fears among Brexiteers that she was trying to push through a softer Brexit deal after axing a meeting with her Strategy and Negotiations Cabinet Committee - which contained five Leavers and five Remainers

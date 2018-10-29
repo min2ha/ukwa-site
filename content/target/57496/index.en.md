@@ -10,6 +10,4 @@
   "start_date": "2017-09-27T09:00:00Z"
 }
 
-# Wilmington plc
-
 Wilmington plc is a publishing firm established in London in 1995 specialising in legal and healthcare publications.

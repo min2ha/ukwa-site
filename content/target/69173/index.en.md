@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Holy Trinity & All Saints Parish, Coatbridge
-
 Site of a Scottish Roman Catholic parish church located in Coatbridge, Lanarkshire.

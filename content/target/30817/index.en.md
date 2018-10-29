@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# GOV.UK: Government Digital Service
-
 Government Digital Service helps government make digital services and information simpler, clearer and faster. GDS is part of the Cabinet Office and the Efficiency and Reform Group.

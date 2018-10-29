@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# DC Thomson & Company Limited
-
 DC Thomson & Company Limited is a publishing and television production company headquartered in Dundee, Scotland. Well-known titles produced by the company include comincs 'Oor Wullie', 'The Broons', 'The Beano', 'The Dandy', and newspapers The Evening Telegraph, The Dundee Courier and The Sunday Post. The company also owns the Aberdeen Journals Group and Parragon Books Limited, geneaology service FindMyPast and the now-defunct FriendsReunited social networking service.

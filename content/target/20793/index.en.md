@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ian Murray on Facebook
-
 This is the Facebook page of Ian Murray, the Labour Party candidate for Edinburgh South in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: No more austerity: SNP leader Nicola Sturgeon names her price for putting Labour in power
-
 None

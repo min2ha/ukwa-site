@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# Your UK Parliament (@YourUKParl) on Twitter
-
 Connecting you with the UK Parliament, and showing you how to get involved with the work of House of Commons and UK House of Lords

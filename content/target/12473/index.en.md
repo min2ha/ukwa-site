@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Civitas: Blog posts related to Scotland
-
 <p>Blog posts related to the Scottish independence referendum, from the website of the right-wing educational think-tank Civitas: the Institute for the Study of Civil Society.</p>

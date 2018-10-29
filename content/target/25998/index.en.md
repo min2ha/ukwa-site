@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Newspapers vote Paxman as the winner of the Cameron-Miliband show
-
 None

@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Sheffield Beer and Cider Festival
-
 Local beer and cider festival hosted by Sheffield & District CAMRA in the Kelham Island Museum

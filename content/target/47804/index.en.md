@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# ITV plc
-
 ITV plc is a British integrated producer broadcaster, operating the largest commercial family of channels in the UK. In addition to traditional broadcasting on our channels, they deliver our content on demand through numerous platforms, both directly and via the ITV Hub. Through ITV Studios we produce content for both our own channels and third parties in the UK and increasingly overseas.

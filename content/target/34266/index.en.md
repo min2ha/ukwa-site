@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Shetland Bus
-
 Site dedicated to World War 2 naval traffic between Shetland and Nazi-occupied Norway.

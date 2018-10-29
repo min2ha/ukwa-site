@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Ewan Morrison - A brilliant article from the Communist Party of...
-

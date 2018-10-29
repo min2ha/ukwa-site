@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Why isn't Labour debating Brexit at its conference?
-

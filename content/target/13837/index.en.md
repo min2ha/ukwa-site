@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Blair McDougall (blairmcdougall) on Twitter
-
 Twitter profile of Blair McDougall, Scottish Labour candidate for East Renfrewshire in the 2017 general election.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-24T09:00:00Z"
 }
 
-# Loud Poets
-
 Weebly site of a Scottish collective of poets, writers, musicians and artists who create monthly nights, Edinburgh International Festival Fringe shows, commissions, workshop and videos.

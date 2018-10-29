@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# David McDaid (BNPSCOTLAND) on Twitter
-
 <p>The twitter profile of BNP Scotland.</p>

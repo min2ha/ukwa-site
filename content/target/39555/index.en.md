@@ -10,5 +10,3 @@
   "start_date": "2016-07-05T14:37:00Z"
 }
 
-# Scotland's Nature | Scottish Natural Heritage
-

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# First World War and its effect on the Village of North Tolsta, The 
-
 Project to collect and collate details of all the people from North Tolsta who were involved in WW1, record each individual's details, check records of service from existing war records and copy and photograph war medals, photographs and paperwork available.

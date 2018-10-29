@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Spot The Signs
-
 UK based initiative to raise awareness of mental health issues. A project aiming to ensure that everyone can spot the signs of mental illness in young people

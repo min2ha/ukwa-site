@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Saron Congregational Church, Tredegar
-

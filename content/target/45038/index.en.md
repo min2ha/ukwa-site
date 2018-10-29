@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Daily Mail Online: Scotland centre Mark Bennett chooses to chase Olympic dream with Team GB sevens squad in Rio
-

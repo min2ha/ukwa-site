@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 21st March 2018: European Union (Withdrawal) Bill
-
 The House of Lords, sitting as a Committee of the whole House, continues to debate amendments to the European Union (Withdrawal) Bill, focusing on the impact on the Scottish and Welsh devolution settlements.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Marldon
-
 This website contains information about Marldon.

@@ -10,6 +10,4 @@
   "start_date": "2016-03-23T09:00:00Z"
 }
 
-# Scottish Statistics
-
 Open access to Scottish Official Statistics.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Hard Brexiters have just discovered Britain is weaker than Ireland
-

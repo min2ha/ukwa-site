@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Department for International Trade: Brexit and beyond: Britain’s place in the world in the 2020s
-
 Dr Liam Fox’s speech as part of ‘The Brexit Lectures’ series, at the invitation of the Speaker of the House of Commons and the BBC.
 

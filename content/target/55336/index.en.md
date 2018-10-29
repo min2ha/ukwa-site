@@ -10,5 +10,3 @@
   "start_date": "2017-06-30T09:00:00Z"
 }
 
-# Cor Meibion Bro Aled | Bro Aled Male Voice Choir
-

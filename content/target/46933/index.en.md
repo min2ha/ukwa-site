@@ -11,8 +11,6 @@
   "subject": "Political Action and Communication"
 }
 
-# Repeal the 8th London
-
 #Repealthe8th campaign in London. Fighting for a women's right to body autonomy, equality and the right to choose - in Ireland & globally.
 
 Shortly after the launch of the website the campaign was renamed London Irish Abortion Rights Campaign and a new website was launched with the same content as the previous site. https://londonirisharc.com/

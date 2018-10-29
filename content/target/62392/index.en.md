@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Fishing for Leave
-
 Fishing for Leave was formed to highlight the potential of UK fisheries and ensure a brighter future for the industry.
 

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Henllan Herald
-
 <p>This is a community resource for the village of Henllan in Denbighshire.</p>

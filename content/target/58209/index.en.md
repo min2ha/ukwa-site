@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Telegraph, The: The emergence of the 'pornosexual': internet users who shun sex with real people
-
 Phenomenon dubbed "pornosexuality" has emerged where people prefer online porn to sex with real people. The availability of free, amateur porn online and the anonymity it offers is identified by Medical Daily as a factor behind the rise in the phenomenon. In 1991, there were fewer than 90 porn magazines in the US, according to Medical Daily, compared to millions of websites today

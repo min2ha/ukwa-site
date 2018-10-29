@@ -11,6 +11,4 @@
   "subject": "Free e-Journals"
 }
 
-# Italiani a Londra
-
 None

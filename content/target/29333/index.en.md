@@ -11,6 +11,4 @@
   "subject": "VE /VJ Day 70th Anniversary 1945-2015"
 }
 
-# BBC Radio 4  : Today Remembering VE Day
-
 Three veterans - David Teacher, 91, Michael McGrory, 90, and Eileen Younghusband, 93 - recall Victory in Europe Day.

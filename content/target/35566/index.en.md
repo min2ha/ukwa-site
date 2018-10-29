@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Counterfire: Home Rule and the roots of the Easter Rising
-
 Counterfire is a revolutionary socialist organisation dedicated to the overthrow of capitalism by the working class.

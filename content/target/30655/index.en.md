@@ -10,6 +10,4 @@
   "start_date": "2015-09-19T10:00:00Z"
 }
 
-# Ticketmaster
-
 Website with cultural and sports events listings with a possibility of buying tickets online.

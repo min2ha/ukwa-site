@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Hotcourses
-
 Hotcourses gives information about academic and non-academic courses.

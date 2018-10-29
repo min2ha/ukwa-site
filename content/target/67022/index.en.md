@@ -10,6 +10,4 @@
   "start_date": "2018-06-09T09:00:00Z"
 }
 
-# Provincial Grand Lodge of Stirlingshire 
-
 Site of the provincial grand lodge of Scottish Freemasonry affiliated to the Grand Lodge of Scotland covering Stirlingshire.

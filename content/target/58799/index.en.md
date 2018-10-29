@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Cinema for All Scotland
-
 Site of the Scottish arm of Cinema For All (UK) offering a wide range of services and resources dedicated to the needs of community cinemas and film societies in Scotland.

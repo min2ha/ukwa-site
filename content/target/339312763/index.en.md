@@ -10,6 +10,4 @@
   "start_date": "2016-02-04T09:00:00Z"
 }
 
-# Catrin Jones - Architectural and stained glass
-
 Catrin Jones is an Architectural and stained glass artist from Wales.

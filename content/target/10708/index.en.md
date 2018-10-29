@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Stephen Gethins, Scottish National Party on Facebook
-
 None

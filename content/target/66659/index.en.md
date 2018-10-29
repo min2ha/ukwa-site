@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# Blaen Bran Community Woodland
-
 Blaen Bran Community Woodland is a privately owned area of 100 acres of woodland above Upper Cwmbran which is run and maintained by the Blaen Bran Community Woodland trust. 

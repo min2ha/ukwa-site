@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Murray Buchan Freestyle Skier
-
 None

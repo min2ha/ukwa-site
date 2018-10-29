@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# queensbury-village
-
 A community website serving the village of Queensbury.

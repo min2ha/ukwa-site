@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Still Human Still Here.
-
 Still Human Still Here is a coalition of over 60 organisations that are campaigning to end the destitution of thousands of refused asylum seekers in the UK. 

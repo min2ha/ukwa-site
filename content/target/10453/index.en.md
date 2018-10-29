@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Christine Tinker, Liberal Democrat, on Facebook
-
 None

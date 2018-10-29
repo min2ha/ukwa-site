@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Gingers for EU (@gingersforeu) on Twitter
-
 Grassroots cross party campaign to mobilise gingers and their friends in the lead up to the EU referendum.

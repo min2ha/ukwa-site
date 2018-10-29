@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Classist innuendo about educated Remain voters and the ‘white van men’ of Leave has revealed something very distasteful about Britain
-

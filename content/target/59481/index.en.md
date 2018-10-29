@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: December 4th 2017: European Union (Withdrawal) Bill
-
 4th day of debate on the European Union (Withdrawal) Bill by a Committee of the whole House, focusing on implications for devolution.

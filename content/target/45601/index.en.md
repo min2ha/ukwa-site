@@ -10,6 +10,4 @@
   "start_date": "2016-09-24T10:00:00Z"
 }
 
-# Brecon Presbyterian Church
-
 Brecon Presbyterian Church is part of the Presbyterian Church of Wales/ Eglwys Bresbyteraidd Cymru denomination.

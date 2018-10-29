@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Welsh Arts in Health Network | Celfyddydau mewn Iechyd, Y
-
 The Welsh Arts in Health Network is an open network, representing 80+ arts and health professionals across Wales supported through the Arts Council of Wales Sharing Together fund.

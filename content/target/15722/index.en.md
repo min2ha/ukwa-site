@@ -10,6 +10,4 @@
   "start_date": "2015-01-09T00:00:00Z"
 }
 
-# UK Hand Knitting Association (UKHKA), The
-
 <p>The UK Hand Knitting Association, (UKHKA), formerly The British Hand Knitting Confederation, was formed in 1991 when the Hand Knitting Association (HKA) merged with the British Hand Knitting Association (BHKA). The UKHKA's main aim is to raise the profile of hand knitting.</p>

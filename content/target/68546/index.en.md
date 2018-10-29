@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint Sylvester's Pastoral Area
-
 Site of a group of Roman Catholic parish churches in Scotland, covering part of the Diocese of Aberdeen, incorporating Sacred Heart, Aberlour; Our Lady of Perpetual Succour, Chapeltown; Our Lady of the Assumption, Dufftown; St. Margaret’s, Forres; St. Columba’s, Lossiemouth; Our Lady & St. Michael’s, Tomintoul.

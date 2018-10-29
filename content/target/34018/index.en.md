@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Summer vote would not give enough time for 'big issues' to be debated, says Nicola Sturgeon
-

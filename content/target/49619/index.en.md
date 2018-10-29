@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Claire Victoria Roberts
-
 Claire Victoria Roberts is a composer originally from South West Wales and was recently awarded a Parry Williams prize.

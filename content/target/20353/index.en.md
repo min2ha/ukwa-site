@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Carshalton & Wallington Labour Party
-

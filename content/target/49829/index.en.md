@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Mount Carmel Baptist Church Caerphilly
-

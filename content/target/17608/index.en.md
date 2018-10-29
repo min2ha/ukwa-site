@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  Church bishops tell Britain's Christians to think about your values before voting
-
 None

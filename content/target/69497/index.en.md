@@ -10,6 +10,4 @@
   "start_date": "2018-08-01T09:00:00Z"
 }
 
-# 30F Army Reserve Centre
-
 30F (City of Llandaff) Squadron Royal Air Force Air Cadets are located on the Army Reserve Centre, Llandaff.

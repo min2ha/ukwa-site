@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Harrogate Borough Council
-
 Website of Harrogate Borough council provides information about its activities and services, committee meetings and papers, local plans and planning, and budgets and spending.

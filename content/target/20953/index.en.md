@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Taylor Muir on Facebook
-
 This is the Facebook page of Taylor Muir, the Conservative Party candidate for Rutherglen and Hamilton West in the UK General Election on the 7th May 2015 and Glasgow Rutherglen in the 2016 Scottish Parliamentary election.

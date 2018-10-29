@@ -10,6 +10,4 @@
   "start_date": "2018-06-12T09:00:00Z"
 }
 
-# International Ophthalmic Nurses Association (IONA)
-
 The International Ophthalmic Nurses Association provides an opportunity for Ophthalmic Nurses worldwide to share knowledge and experience with all our members across all borders working together to provide quality ophthalmic care for our patients.

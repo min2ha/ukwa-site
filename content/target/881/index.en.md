@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Surrey and Borders Partnership NHS Foundation Trust
-
 None

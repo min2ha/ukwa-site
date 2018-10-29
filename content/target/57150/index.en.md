@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# Government of the Turks and Caicos Islands
-

@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Labour List: Stephen Hawking
-
 Labour List articles relating to Stephen hawking.

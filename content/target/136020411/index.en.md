@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# NHS Choices
-
 NHS Choices - Your health, your choices gives information for patients in the UK in a variety of formats.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Football Association of Wales (FAW)
-
 The Football Association of Wales is the third oldest association in the world, having come into existence in 1876. The association has governed football in Wales continually since that date.

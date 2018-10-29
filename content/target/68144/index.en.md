@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: HAMISH MCRAE: Airbus wouldn't get off the ground without Britain's help despite what bosses say about Brexit
-
 Argues that Airbus' threats to quit the UK in the event of a hard/no deal Brexit are hollow.

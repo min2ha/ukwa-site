@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Defiant words from PM may not be enough
-
 Theresa May's asserted in a highly unusual public statement following her embarrassment at the Salzburg EU Council meeting that she would offer no further compromises. However, forces within the EU and in her own party would force her to do so.

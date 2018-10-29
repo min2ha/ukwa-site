@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# University of Manchester: Humanitarian and Conflict Response Institute
-
 None

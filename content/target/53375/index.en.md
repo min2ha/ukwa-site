@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Eventbrite: The Guilty Feminist for the Women's Equality Party
-
 A special emergency election recording of The Guilty Feminist organised by the Women's Equality Party.

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Cumbrian Heavy Horses
-
 Cumbrian Heavy Horses is a equine facility for the English Lake District and Cumbria - formerly operating on the Isle of Skye we moved to the Lakes a year ago and are pleased to to be able to cater for the many visitors to the Lake District who share our love and passion for horses and the beautiful area we live in.

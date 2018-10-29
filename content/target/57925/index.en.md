@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit talks must speed up, Theresa May and Jean-Claude Juncker say
-
 Theresa May and EU Commission President Jean-Claude Juncker agreed to "accelerate" Brexit negotiations - but there was no sign of a breakthrough after their working dinner on October 16th

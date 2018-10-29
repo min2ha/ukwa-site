@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford Mail: Poll shows opposition to referendum on outcome of Brexit negotiations
-
 News article exploring poll statistics and opinions on a second referendum.

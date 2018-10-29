@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# 21st Century Church, Llanelli
-

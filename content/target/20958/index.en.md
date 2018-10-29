@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Donald Boyd (@DonaldBoyd7) on Twitter
-
 Twitter profile of Donald MacLeod Boyd, Scottish Christian Party "Proclaiming Christ's Lordship" candidate for Inverness, Nairn, Badenoch and Strathspey in the 2017 general election.

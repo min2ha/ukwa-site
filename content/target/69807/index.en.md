@@ -10,6 +10,4 @@
   "start_date": "2018-08-08T09:00:00Z"
 }
 
-# Mair Tomos Ifans
-
 Mair Tomos Ifans is an actress, singer, scriptwriter, lecturer and tutor and part of establishing the theatre company Cwmni’r Fran Wen. 

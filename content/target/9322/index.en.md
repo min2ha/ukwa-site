@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# UK government: Scottish referendum
-
 <p>UK government Scotland Office web page, which brings together reports, opinion and factsheets to campaign for Scotland remaining in the UK.</p>

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chamali Fernando (Conservative)
-
 Chamali Fernando stood as Condervative candidate for Cambridge at the 2015 General Election but was not elected.

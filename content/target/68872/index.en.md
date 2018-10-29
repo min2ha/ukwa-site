@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home: The Government’s White Paper plan would not free us from the European Court of Justice
-
 Points out that the European Court of Justice would still have jurisdiction over disputes about the common rule book on trade in goods under Theresa May's proposed future relationship between the UK and the EU

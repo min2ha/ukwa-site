@@ -11,5 +11,3 @@
   "subject": "Genetics"
 }
 
-# Myrovlytis Trust, The
-

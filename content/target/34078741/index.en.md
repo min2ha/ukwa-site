@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Stacy Makishi
-
 Hawaii-born Stacy Makishi works in a variety of media including site-specific installations, video, new writing, physical theatre and live art. 

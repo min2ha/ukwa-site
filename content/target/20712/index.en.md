@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kenryck Lloyd-Jones for South of Scotland on Facebook
-
 The Facebook page of Kenryck Lloyd-Jones, Scottish Labour candidate for Berwickshire, Roxburgh and Selkirk in the 2015 UK General Election and list candidate for South Scotland region in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# North West Cambridgeshire Liberal Democrats
-
 Website of North West Cambridgeshire Liberal Democrats, providing information on 2012 local elections and 2013 county elections, campaigns and events.

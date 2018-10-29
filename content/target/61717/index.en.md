@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Frenni Churches | Cylch y Frenni
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Ardrossan Music Experience
-
 Site of an annual music festival taking place in and around Ardrossan, Ayrshire. 

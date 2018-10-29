@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# CILIP LIHG AGM, followed by Library Tour
-
 The AGM of the CILIP Library and Information History Group will take place on Monday 21 November 2016 at Bromley House Library, Angel Row, Nottingham, NG1 6HL, commencing at 2.00pm. This will be followed by a tour of the library (for around 2 hours) at 2.30pm. 

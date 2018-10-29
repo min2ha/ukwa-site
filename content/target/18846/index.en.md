@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Spire FM: No celebration's complete without a cake, so Magna Carta gets its own!
-

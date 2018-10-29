@@ -10,6 +10,4 @@
   "start_date": "2018-06-13T09:00:00Z"
 }
 
-# All Wales Artificial Limb and Appliance Service
-
 The Artificial Limb and Appliance Service offers services to people in Wales who have a permanent or long-term impairment and is a collaboration between three Health Boards and is commissioned via Welsh Health Specialised Services Committee (WHSSC). There are three ALAC's in Wales - Cardiff, Swansea and Wrexham.

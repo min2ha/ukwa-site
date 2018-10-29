@@ -10,6 +10,4 @@
   "start_date": "2018-04-12T09:00:00Z"
 }
 
-# South Wales Trials
-
 This is the website to the avid sheepdog community in south Wales. 

@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T11:00:00Z"
 }
 
-# Mentrau Iaith Cymru
-
 Mentrau Iaith Cymru supports the work of the local Menter Iaith to promote the Welsh language in the communities of Wales.

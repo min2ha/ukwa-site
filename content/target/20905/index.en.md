@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# West London Business: WLB Election Manifesto 2015
-
 West London Business is a professional body that acts on behalf of business in North-West London, covering seven local authority areas. They are a company limited by guarantee, owned and led by the private sector. 

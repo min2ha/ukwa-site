@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ben Manton (Conservative and Unionist Party)
-
 Ben Manton stood as Conservative and Unionist Party candidate for Belfast South at the 2015 General Election but was not elected

@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Museum of Witchcraft, The
-
 None

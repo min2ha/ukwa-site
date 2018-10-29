@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Connah’s Quay Catholic Church, Flintshire
-

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Trinity Methodist and United Reformed Church, Porthcawl
-

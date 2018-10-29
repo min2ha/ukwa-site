@@ -10,6 +10,4 @@
   "start_date": "2016-02-09T09:00:00Z"
 }
 
-# Building Societies Association (BSA)
-
 The Building Societies Association is the voice of the UK's building societies. They provide their members with information to help them run their businesses, and represent their interests to a wide range of audiences including regulators, the government, parliament (EU and UK), the media, other opinion formers and the general public.

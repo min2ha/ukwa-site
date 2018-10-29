@@ -10,5 +10,3 @@
   "start_date": "2006-02-03T00:00:00Z"
 }
 
-# Antur Teifi: Yn Hybu Ffyniant - Promoting Prosperity
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Banned Books Week UK (@BannedWeekUK) on Twitter
-
 The official Twitter account of Banned Books Week UK which, runs from the 23 - 29 September each year.

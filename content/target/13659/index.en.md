@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# BaffieBox
-
 <p>Baffiebox is a software developer's blog, commenting on current affairs, Scottish politics and the Scottish Independence Referendum.</p>

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Afzal Kahn (Labour) on Twitter
-

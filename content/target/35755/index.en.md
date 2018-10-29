@@ -10,5 +10,3 @@
   "start_date": "2016-02-23T09:00:00Z"
 }
 
-# Action on Sectarianism Scotland
-

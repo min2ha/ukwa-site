@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Council for Development and Industry (SCDI)
-
 The Scottish Council for Development & Industry (SCDI) is an independent and inclusive economic development network which seeks to influence and inspire Government and key stakeholders with an ambitious vision to create sustainable economic growth for Scotland.

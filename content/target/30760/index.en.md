@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Shetland College
-
 Official website of the Shetland College, a part of the University of the Highlands and Islands. 

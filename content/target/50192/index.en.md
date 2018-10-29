@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Cumbernauld Old Parish Church
-
 The website of the Cumbernauld Old Parish Church. 

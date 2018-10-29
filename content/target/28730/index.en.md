@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Citizen's Climate UK (@CitznsClimateUK) on Twitter
-
 Twitter feed of the Citizen's Climate Lobby

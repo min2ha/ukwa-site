@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# 1/4th Battalion Alexandra, Princess of Wales's Own Yorkshire Regiment
-
 The basic idea of this website is to show the story of sacrifice and bravery that is the 4th Yorks' Battalion War Diary and to insert at the appropriate dates the names of all the men who gave their lives.

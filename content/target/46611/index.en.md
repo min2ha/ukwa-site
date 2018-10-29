@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# Storlann on Twitter
-
 Twitter profile of Stòrlann: "established by the Scottish Executive in 1999 to co-ordinate the production and distribution of curriculum resources for Gaelic education".

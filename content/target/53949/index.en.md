@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# James Smith (@Floppy) on Twitter (Something New  Politician)
-
 James Smith stood as the Something New candidate for Horsham in the 2017 General Election but was not elected.

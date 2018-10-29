@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: A Labour failure in Scotland will lead to a battle for Britain itself
-

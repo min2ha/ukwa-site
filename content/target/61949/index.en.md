@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brighton & Hove Albion (@OfficialBHAFC ) on twitter
-
 Brighton & Hove Albion Football Club is a professional football club based in the city of Brighton and Hove, East Sussex, England.

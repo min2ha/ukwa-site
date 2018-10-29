@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jade Jones (JadeJones11) on Twitter
-
 Twitter profile of Team England athlete Jade Jones, competitor in the T54 1500m track events at the Glasgow 2014 Commonwealth Games.

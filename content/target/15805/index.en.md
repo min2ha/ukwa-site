@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Newham Cycling Club
-
 <p>Newham Cycling Club gives information about rides, routes and tips relating to cycling.</p>

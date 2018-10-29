@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Currie Rugby Football Club
-
 SIte of a Scottish rugby union football club based at Currie south-west Edinburgh.

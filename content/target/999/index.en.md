@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Royal College of Psychiatrists Facebook
-
 None

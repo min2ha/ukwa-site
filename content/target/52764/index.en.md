@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Chiltern Liberal Democrats
-
 Chiltern is one of four local government districts of Buckinghamshire in south central England. The Chiltern District is drawn from four local areas: Chesham, Amersham, The Chalfonts and Great Missenden/Prestwood. 

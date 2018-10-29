@@ -10,6 +10,4 @@
   "start_date": "2016-08-09T10:00:00Z"
 }
 
-# DEN: Digital Engagement Network
-
 The DEN website showcases some of the projects which are running as part of the East Midlands region’s Digital Engagement Network, to connect museums, galleries and archives with audiences.

@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# The Queen's Royal Lancers and Nottinghamshire Yeomanry Museum
-
 The museum displays the historic collections of The Queen's Royal Lancers, the Sherwood Rangers Yeomanry and the South Nottinghamshire Hussars. These collections are of national importance and are displayed together for the first time. 

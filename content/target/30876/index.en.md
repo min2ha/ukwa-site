@@ -10,6 +10,4 @@
   "start_date": "2015-09-26T10:00:00Z"
 }
 
-# Discovery Education UK
-
 Educational materials provided by the TV channel Discovery.

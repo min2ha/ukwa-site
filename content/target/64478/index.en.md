@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The Irish World
-
 The voice of the Irish community since 1987. The family newspaper for Irish people in the UK. Including News, Sports, Community and Entertainment.

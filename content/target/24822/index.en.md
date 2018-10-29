@@ -11,6 +11,4 @@
   "subject": null
 }
 
-#  Nigel Carter (UKIP) 
-
 Nigel Carter stood as UKIP candidate for Brighton Pavilion at the 2015 General Election but was not elected.

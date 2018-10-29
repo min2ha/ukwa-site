@@ -11,6 +11,4 @@
   "subject": "Africa UK"
 }
 
-# Image of Black, The - Discovering the Hidden History
-
 None

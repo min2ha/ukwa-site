@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Weymouth and Portland National Sailing Academy
-

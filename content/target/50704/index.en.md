@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# UK Association of Wedding Planners
-
 The UK Alliance of Wedding Planners was founded to promote professionalism in wedding planning, evolving to include industry-wide educational and networking opportunities for related businesses.

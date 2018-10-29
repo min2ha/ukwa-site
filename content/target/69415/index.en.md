@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Pulse Festival Ipswich
-
 festival showcasing the work of PULSE's artist development programme

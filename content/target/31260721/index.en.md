@@ -10,5 +10,3 @@
   "start_date": "2009-07-08T00:00:00Z"
 }
 
-# Medical School Museum - University of Manchester
-

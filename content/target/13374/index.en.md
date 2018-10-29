@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Alasdairallan (alasdairallan) on Twitter
-
 The twitter profile of Alasdair Allan, Scottish National Party member of the Scottish parliament for na h-Eileanan an Iar.

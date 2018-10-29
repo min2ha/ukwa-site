@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# BBC News: Obama 'humbled' to visit Mandela's Robben Island jail
-
 None

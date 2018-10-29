@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Gap Connah's Quay Nomads FC
-

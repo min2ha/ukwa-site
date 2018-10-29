@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Glasgow Festival of Arabic Dance
-
 Site of a festival of dance.

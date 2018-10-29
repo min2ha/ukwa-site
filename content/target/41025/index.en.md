@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Monkton Parish Council
-
 West Monkton Parish Council website serving West Monkton including Bathpool, Monkton Heathfield and West Monkton.

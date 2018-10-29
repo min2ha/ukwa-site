@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Kent Cricket League
-
 The Kent Cricket League was founded in 1970 and now comprises 120 teams from 64 cricket clubs from across Kent in 12 Divisions. 

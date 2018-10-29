@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cornwall is key battleground for Tories, Cameron tells party workers
-
 None

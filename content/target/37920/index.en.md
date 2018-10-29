@@ -10,6 +10,4 @@
   "start_date": "2016-03-24T09:00:00Z"
 }
 
-# Equality Network
-
 Site of an organisation promoting equality and human rights for lesbian, gay, bisexual, transgender and intersex people in Scotland, engaging in making Scotland a country free of hatred, prejudice and discrimination regardless of sexual orientation while being inclusive and challenging discrimination.

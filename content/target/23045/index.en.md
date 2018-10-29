@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gordon Henderson (Conservative)
-
 Gordon Henderson stood as Conservative candidate for Sittingbourne and Sheppey at the 2015 General Election. He was first elected to serve as MP for Sittingbourne and Sheppey in 2010 and re-elected in 2015.

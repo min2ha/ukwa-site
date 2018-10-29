@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Brackla Tabernacle
-
 The Church is part of the Apostolic Church UK and was founded in the 1930's. 

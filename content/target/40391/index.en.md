@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Museums Galleries Scotland
-
 Site of the national development body for the museum sector in Scotland, working collaboratively with Scottish museums and galleries to invest in and develop a sustainable sector for Scotland.

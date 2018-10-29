@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# North West Cervical Screening Quality Assurance Reference Centre 
-
 None

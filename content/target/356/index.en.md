@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Coventry Health and Wellbeing Board
-
 None

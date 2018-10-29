@@ -10,5 +10,3 @@
   "start_date": "2015-10-01T00:00:00Z"
 }
 
-# Edinburgh International Harp Festival
-

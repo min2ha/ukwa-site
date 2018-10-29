@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Brexit could destroy the UK's food and farming industry – or be the making of it
-

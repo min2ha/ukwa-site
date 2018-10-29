@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Vladimir Putin wants Britain to vote for Brexit, but that doesn't mean we shouldn't
-

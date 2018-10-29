@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# Lights Go Out
-
 Lights Go Out is a UK punk fanzine that was founded in 2008 in Newbury. 

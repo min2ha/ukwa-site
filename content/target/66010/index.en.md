@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Red Box (@timesredbox) on Twitter
-
 Red Box is a The Times official Twitter account.

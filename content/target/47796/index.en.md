@@ -10,5 +10,3 @@
   "start_date": "2016-12-15T09:00:00Z"
 }
 
-# St Winefride’s Catholic Church, Welshpool
-

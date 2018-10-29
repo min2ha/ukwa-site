@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Mary Honeyball (@maryhoneyball) on Twitter (Labour MEP for London)
-
 Mary Honeyball entered the European Parliament in 2000, following three decades of involvement in Labour politics. Since becoming an MEP she has taken a special interest in women’s issues, and acts as the Labour spokesperson for women’s rights and gender equality

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Birmingham Cathedral
-
 Official website of the Birmingham Cathedral. 

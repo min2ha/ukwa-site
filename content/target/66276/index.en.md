@@ -10,6 +10,4 @@
   "start_date": "2018-05-29T09:00:00Z"
 }
 
-# Lodge St. John No. 540 Crossgates
-
 Site of a masonic lodge located at Crossgates, Cowdenbeath, Fife and affiliated with the Grand Lodge of Scotland.	

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Traquair House
-
 Site for a country house in Peeblesshire, Scotland, used as a museum, wedding venue, hotel, tourist location, site for events and brewery.

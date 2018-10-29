@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Winchester Action on Climate Change: Climate change in the 2017 general election
-
 This paper sets out WinACC views on the commitments which each party should include in its manifesto to keep to, and strengthen, legally binding targets and objectives on global warming, carbon emissions and renewable energy, with a convincing plan to achieve them.

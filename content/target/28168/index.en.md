@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Paul Matthews (@etzptm) on Twitter
-
 Twitter feed fo Paul Matthews, commenting mainly on climate change.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexpats
-
 Brings together together the 1.2 million expats in continental Europe and the continental European citizens living in the UK to address their concerns during and post Brexit around issues such as: healthcare, pensions, property, education, telecommunications, travel, legal matters, dual nationality relationships and other areas where they will be affected on Britain exiting the European Union

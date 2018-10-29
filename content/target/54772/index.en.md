@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# British Origami Society
-
 The British Origami Society is devoted to promoting the art of paper folding through publications and regional and local events.

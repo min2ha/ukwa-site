@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Berkswell & Balsall RFC
-
 Small club in Balsall Common with a first and second seniors but a large junior section from 8 to colts.

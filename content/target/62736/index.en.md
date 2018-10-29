@@ -11,6 +11,4 @@
   "subject": "Russia in the UK"
 }
 
-# Russian Events.London
-
 A website promoting Russian-language events in London.

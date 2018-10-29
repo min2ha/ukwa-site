@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: It’s like a bereavement’: how former MPs cope with a shock defeat
-
 None

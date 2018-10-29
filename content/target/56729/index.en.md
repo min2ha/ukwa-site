@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: UK to seek Irish border waivers on customs and food safety after Brexit
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nuffield Trust Facebook
-
 None

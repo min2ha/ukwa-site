@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May: Brexit allows more spending on NHS and schools
-
 A year before Britain left the EU, Theresa May said that Brexit meant there would be more money available to spend on the NHS and schools.
 

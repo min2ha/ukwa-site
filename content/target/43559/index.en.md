@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Sports Think Tank: Brexit and the Sporting Landscape
-
 Sports Think Tank blog post on the possible impact on sport of Brexit

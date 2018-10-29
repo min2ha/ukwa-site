@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# European Parties and Elections and Referendums Network: (EPERN): EPERN referendum briefings
-

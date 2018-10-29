@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Status-Q
-
 None

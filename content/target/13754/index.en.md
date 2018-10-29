@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Economy Watch: Independence
-
 <p>The website and blog of Brian Ashcroft, emeritus professor in economics in the Strathclyde Business School at the University of Strathclyde.</p>

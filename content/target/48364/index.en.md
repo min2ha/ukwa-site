@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 12th Jan. 2017:  Brexit: Trade Arrangements 
-
 The Lords debate transitional arrangements to prevent disruption of trade when Britain leaves the EU

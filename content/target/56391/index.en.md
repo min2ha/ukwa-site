@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# One Shot webcomics by Hellbound Media
-
 Standalone comics published by Hellbound Media. Content may not be suitable for all ages.

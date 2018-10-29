@@ -10,5 +10,3 @@
   "start_date": "2017-04-20T09:00:00Z"
 }
 
-# Ysgol Bae Baglan, Port Talbot 
-

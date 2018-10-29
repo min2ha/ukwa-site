@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Corstorphine Trust
-
 Hyper local community trust dedicated to the stimulation of public interest in the character and history of Corstorphine, West Edinburgh, and encouraging preservation, development and improvement of features of general public amenity or historic interest. Based in a local Museum.

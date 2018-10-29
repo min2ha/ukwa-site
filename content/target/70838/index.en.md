@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# The Old Mid-Whitgiftian Rugby Club on Pitchero
-
 The official website of the Old Mid-Whitgiftian Rugby Club.

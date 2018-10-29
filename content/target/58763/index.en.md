@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vale Life
-
 Vale Life is a lifestyle magazine for the Vale of Glamorgan. 

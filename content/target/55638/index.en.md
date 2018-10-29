@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: How Corbyn could be the surprise saviour of Brexit as he aims to get a 'good deal with Europe'
-
 Argues that, as some in the Tory party traitorously plot against a gravely weakened Theresa May amid irresponsible talk of possible successors and stalking-horses, the truth is that Corbyn could well make a vital and positive contribution to the Brexit negotiations.

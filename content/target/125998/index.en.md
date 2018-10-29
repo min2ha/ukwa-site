@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# zafusy - contemporary poetry journal
-
 Experimental poetry, prose and visual art journal

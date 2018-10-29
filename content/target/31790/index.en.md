@@ -10,5 +10,3 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Cymdeithas Gweithredwyr Hunan Ddarpar Cymru | Wales Association of Self Catering Operators, The
-

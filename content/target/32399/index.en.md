@@ -10,6 +10,4 @@
   "start_date": "2015-11-11T09:00:00Z"
 }
 
-# Dewch ar y Bwrdd | Come on Board Wales
-
 Come on Board’ aims to attract exceptional candidates to board member vacancies within the housing sector in Wales and is managed by Community Housing Cymru.

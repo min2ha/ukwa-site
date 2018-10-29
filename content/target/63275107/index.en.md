@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# UPS: Logistics of London 2012
-

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# The UK Swimming Forum
-
 An online enthusiast forum concerned with swimming. Discusses open water swimming, swimming competitions, equipment, coaching and courses, swimming news, water polo, diving and various other topics. Contains region specific posting areas for details regarding events and meet ups across the UK.

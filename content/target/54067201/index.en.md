@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Poland in Exile
-
 This website tells a story of the men and women who left Poland to fight against the Nazis and Russian Communism during World War 2. 

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Tim Thomas on Facebook (Plaid Cymru candidate for Ogmore and South Wales West)
-
 Tim Thomas is the Plaid Cymru candidate for Ogmore and South Wales West at the 2016 National Assembly Election. 

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:  The Guardian view on Brexit and the Irish border: Britain’s shameful dereliction
-

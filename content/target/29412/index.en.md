@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Chwarae Dysgu a Thyfu'n Iach | Play Learn and Grow Healthy
-
 The Carmarthenshire Play Learn and Grow Healthy project, (based in Ammanford/Carmarthen/Llanelli/Newcastle Emlyn), is a 3-year ‘Healthy Friends’ theme project, working primarily with children aged 7/8 and 10/11 through a ‘buddying’ project, and extending to reach younger children and their families from 2 upwards. The project is aimed at raising awareness of the value of physical activity/healthy eating and introduce ideas for ‘buddying’ in a traditionally non-educational environment.' - website.

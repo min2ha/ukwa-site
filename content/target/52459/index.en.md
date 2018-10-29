@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ebenezer Baptist Church, Abertillery
-

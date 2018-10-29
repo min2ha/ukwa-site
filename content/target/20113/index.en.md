@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Trident: Plaid draw 'ambitious' nuclear red line
-

@@ -10,6 +10,4 @@
   "start_date": "2015-04-16T09:00:00Z"
 }
 
-# Scottish Association of Moviemakers (SAM)
-
 The Scottish Association of Moviemakers (SAM) was founded in 1949 (under the name the Scottish Association of Amateur Cinematographers (SAAC)) by a group of cine enthusiasts mainly for the purpose of sharing experiences.

@@ -10,6 +10,4 @@
   "start_date": "2016-08-06T11:00:00Z"
 }
 
-# Elizabeth Baines
-
 Elizabeth Baines is listed in Welsh Literature's 'Writers of Wales Database'. She was born in Bridgend and is the author of short stories, novels and plays for radio and stage. 

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alderhey Children's NHS Foundation Trust
-
 None

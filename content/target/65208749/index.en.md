@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Natasha Jonas
-
 The website of boxer Natasha Jonas, member of Team England for the Glasgow 2014 Commonwealth Games.

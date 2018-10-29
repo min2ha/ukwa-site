@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband repeats Lord Fink tax claims outside Parliament but refuses to say he was 'dodgy'
-
 None

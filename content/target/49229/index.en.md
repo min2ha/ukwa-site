@@ -11,5 +11,3 @@
   "subject": "Jersey Collection"
 }
 
-# States of Jersey Digital Policy
-

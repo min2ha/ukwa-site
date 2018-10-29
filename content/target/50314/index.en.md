@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Comitatus
-
 Comitatus members present full living history interpretations from within an authentic tented encampment based on the craft skills of the legionaries and their families.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-08T10:00:00Z"
 }
 
-# Butterfly Conservation : East Scotland Branch 
-
 Site of a local branch of Butterfly Conservation, an organisation dedicated to conservation of butterflies, moths and their environments.

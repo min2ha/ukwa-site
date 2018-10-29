@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# UK Web Archive
-
 Website of the UK Web Archive at the British Library.

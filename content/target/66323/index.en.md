@@ -10,6 +10,4 @@
   "start_date": "2018-05-30T09:00:00Z"
 }
 
-# Cornerstone Ministries
-
 Site of an independent evangelical Christian church, with locations in Kilmarnock Ayrshire and East Kilbride, Lanarkshire.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Tescopoly
-
 The Tescopoly Alliance was launched in June 2005 to highlight and challenge the negative impacts of Tesco’s behaviour along its supply chains both in the UK and internationally, on small businesses, on communities and the environment. The campaign also advocates national and international legislation needed to curb the market power of all the major British supermarkets.

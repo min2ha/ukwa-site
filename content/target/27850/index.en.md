@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Department of Energy and Climate Change, The (DECC)
-
 The Department of Energy & Climate Change (DECC) works to make sure the UK has secure, clean, affordable energy supplies and promote international action to mitigate climate change.

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Green party held talks on alliance with SNP and Plaid Cymru - Caroline Lucas
-

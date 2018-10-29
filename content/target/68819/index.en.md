@@ -10,7 +10,5 @@
   "start_date": "2018-07-14T09:00:00Z"
 }
 
-# Cobra Martial Arts Association (CMAA)
-
 Established in 2002 the CMAA has grown to be a very large and well-respected National Supporting Body catering for 
 Instructors and Students of all styles around the United Kingdom and Eire. 

@@ -10,6 +10,4 @@
   "start_date": "2017-03-09T09:00:00Z"
 }
 
-# Community Transport Association UK
-
 The Community Transport Association (CTA) is a national charity that leads and supports thousands of other local charities and community groups across the UK that all provide transport services that fulfil a social purpose and community benefit.

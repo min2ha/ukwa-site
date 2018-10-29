@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Ryton RFC on Pitchero
-
 The official website of Ryton Rugby Club.

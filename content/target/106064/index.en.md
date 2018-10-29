@@ -11,6 +11,4 @@
   "subject": "UK General Election 2005"
 }
 
-# Countryside Alliance
-
 The Countryside Alliance is a politically non-aligned campaigning and membership organisation.

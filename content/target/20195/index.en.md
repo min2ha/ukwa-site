@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Bloody French
-
 Bloody French in a French restaurant in Notting Hill.

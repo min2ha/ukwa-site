@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Justice4Grenfell: a community website
-
 Website of Justice 4 Grenfell campaign, launched on 19 June 2017, as a community-led coalition established to obtain justice for all the residents of Grenfell Tower and the wider community. The survivors and bereaved families will be leading the campaign, supported by the local community and representative organisations working together in a multi-faceted approach. 

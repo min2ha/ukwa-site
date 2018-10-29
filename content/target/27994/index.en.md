@@ -10,6 +10,4 @@
   "start_date": "2015-06-15T08:00:00Z"
 }
 
-# Equity: Welcome to Equity's area for comedians
-
 The area on the website of the trade union Equity for comedians and those involved in comedy.

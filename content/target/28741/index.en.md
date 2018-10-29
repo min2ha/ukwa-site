@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Steve Smith (@stv_smth) on Twitter
-
 Twitter feed of Steve Smith, scientist at the CCC

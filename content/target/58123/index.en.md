@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scrum Magazine
-
 Site of a magazine / serial / periodical covering the sport of rugby union in Scotland.

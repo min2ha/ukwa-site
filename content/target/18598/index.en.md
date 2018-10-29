@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Selwyn Runnett - Liberal Democrat Parliamentary Candidate on Facebook
-
 Selwyn Runnett is the Liberal Democrat Parliamentary Candidate for Carmarthen West & South Pembrokeshire.

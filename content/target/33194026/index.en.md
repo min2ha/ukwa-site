@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Sir James Reckitt Charity
-

@@ -10,6 +10,4 @@
   "start_date": "2017-04-07T09:00:00Z"
 }
 
-# Heloise Godfrey-Talbot
-
 Heloise Godfrey-Talbot is a Cardiff based visual artist. 

@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Unilever plc
-
 Unilever plc is a Dutch-British transnational consumer goods company. Its products include food, beverages, cleaning agents and personal care products. 

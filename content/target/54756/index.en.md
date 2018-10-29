@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# Plant for Peace
-
 Plant for Peace is an initiative designed specifically to assist rural communities and smallholder farmers in conflict and post conflict territories around the world to achieve food security and sustainable economic development thereby contributing to stability by empowering communities to become self sufficient through sustainable agriculture and trade.

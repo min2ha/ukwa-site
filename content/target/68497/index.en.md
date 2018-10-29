@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# TransgenderTrend (@Transgendertrd) on Twitter
-
 Transgender Trend are a group of parents based in the UK, who are concerned about the diagnosis of ‘gender non-conforming’ children as transgender. This is their official Twitter account.

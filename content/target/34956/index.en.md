@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Kevin Stewart SNP on Facebook
-
 Kevin Stewart is Scottish National memeber of the Scottish Parliament for Aberdeen Central.

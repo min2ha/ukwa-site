@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Laxdale Ladies Choir / Còisir Mnathan Lacasdail on Facebook
-

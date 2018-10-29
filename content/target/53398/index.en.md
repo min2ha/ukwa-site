@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Redmandarin: The Olympic baby
-

@@ -10,5 +10,3 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# Huw's Views (Huw Irranca-Davies, Welsh Labour & Co-Operative Assembly Member for Ogmore Blog)
-

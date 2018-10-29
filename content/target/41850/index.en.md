@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Broxtowe District Council
-
 Website of Broxtowe District Council offers access to information on council activities, news and local events, consultations and local plans, and policy documents. You can also find committee papers and minutes, and information about council spending

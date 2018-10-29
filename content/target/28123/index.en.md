@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Kevin Anderson - Comment on Climate
-
 Personal website of Kevin Anderson, Profesor of Climate at the UNiversity of Manchester.

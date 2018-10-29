@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Cameron's taxes pledge: I'll outlaw any rise in VAT, income tax and national insurance for five years
-
 None

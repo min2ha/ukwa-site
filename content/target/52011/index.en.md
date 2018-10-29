@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peter's Church, Bayhall Road, Tunbridge Wells
-
 St Peter’s is an evangelical church and a member of the Church of England. It sits to the east of Tunbridge Wells town centre and enjoys a village feel being adjacent to St Peter’s Street and the former Windmill
 Fields area which includes St Peter’s Church of England Primary School. 

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Amity Underground (@AmityUground) on Twitter
-
 An online news site, this is their official Twitter account.

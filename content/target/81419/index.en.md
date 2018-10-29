@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bristol Harbour Festival
-
 Website for the Bristol Harbour Maratime Festival, 2018.

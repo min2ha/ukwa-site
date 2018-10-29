@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Department of Computer Science, University of Warwick
-
 Official website of the Department of Computer Science, University of Warwick.

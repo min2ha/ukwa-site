@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Galop (@GalopUK) on Twitter
-
 Twitter site of Galop - The LGBT+ anti-violence charity

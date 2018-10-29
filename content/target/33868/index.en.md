@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tybalt Peake
-
 Tybalt Peake is a fifteen-year-old adventurer who has become the youngest British person to sail the Northwest Passage. He is also crusader for Protect Our Winters. 

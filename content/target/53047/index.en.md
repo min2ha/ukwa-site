@@ -10,6 +10,4 @@
   "start_date": "2017-05-11T09:00:00Z"
 }
 
-# Jo Cox Loneliness: Start A Conversation
-
 The Jo Cox Commission on Loneliness is starting a national conversation about the scale and impact of loneliness in the UK.

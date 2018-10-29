@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The : John Whittingdale: The man now in charge of the BBC's future believes the licence fee is 'worse than a poll tax'
-
 None

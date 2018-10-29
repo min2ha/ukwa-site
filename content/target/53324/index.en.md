@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Vote The Bigots Out (@VoteBigotsOut) on Twitter
-
 This page is dedicated to encouraging those who normally do not vote to use their vote to rid Northern Ireland of politicians who are bigoted.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: What Role for the European Parliament under Article 50 TEU? 
-
 If a deal is reached on the UK's withdrawal from the EU, entry into force would be dependent upon a qualified majority vote in favour in the Council, but also, and crucially, prior to such a vote taking place, the consent of the European Parliament is first required. This raises two questions discussed in this blog post: first, how does the European Parliament give or withhold its consent? And second, what happens if that consent is not forthcoming?

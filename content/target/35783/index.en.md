@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Irish War Memorials 
-
 The Irish War Memorials Project is a developing inventory of war memorials in the Republic of Ireland and Northern Ireland. It includes photographs of each memorial, and details of the sites. 

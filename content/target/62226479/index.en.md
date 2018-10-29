@@ -10,5 +10,3 @@
   "start_date": "2012-03-01T00:00:00Z"
 }
 
-# Blog Llyfrgelloedd Cymru Alyson
-

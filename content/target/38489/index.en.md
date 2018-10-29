@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Danny Meikle (@VoteDannyMeikle) on Twitter
-
 Twitter profile of Danny Meikle, the independent candidate for Clydesdale constituency in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Caldy RUFC
-
 The highest ranked club in Wirral/Merseyside in National One with three adult senior sides and an excellent Minis and Juniors section from Under 6s to Under 18s.

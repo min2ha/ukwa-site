@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# The Centre for Strategic Research and Analysis (CESRAN)
-
 The Centre for Strategic Research and Analysis (CESRAN) was founded by a group of academics in 2008. CESRAN is a non-partisan, non-profit international think-tank committed itself to advancing academic research in the field of political science and international relations and providing expertise to decision-makers at public and private sectors. 

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bridlington Rugby Union Football Club
-
 Bridlington Rugby Union Football club is an amateur club whose future is in the hands of developing youngsters, including coaching at schools, particularly secondary schools.

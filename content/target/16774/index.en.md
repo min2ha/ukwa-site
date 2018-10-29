@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Class War (@Classwar2015) on Twitter
-
 Twitter account for Class War. Started in 1982 CLASS WAR was first a combative, funny, populist anarchist newspaper, then mutated into a similar political organisation. We organise actions against the rich parasites ruining our lives.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-20T09:00:00Z"
 }
 
-# Peake studies
-
 Website dedicated to Mervyn Laurence Peake, an English writer, artist, poet and illustrator.

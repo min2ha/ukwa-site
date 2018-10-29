@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Watford Rugby Club on Pitchero
-
 The official website of Watford Rugby Club

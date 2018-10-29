@@ -10,6 +10,4 @@
   "start_date": "2013-10-14T10:00:00Z"
 }
 
-# Wallingford Burh to Borough Research Project, The, University of Leicester
-
 None

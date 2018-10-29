@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Bushcraft UK
-
 An online enthusiast community concerned with bushcraft and survival skills.Discusses DIY & traditional crafts, flora & fauna, expeditions, courses, kits and tools and various other related topics.

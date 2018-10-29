@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# T in the Park
-
 Site of a music festival located in Scotland.

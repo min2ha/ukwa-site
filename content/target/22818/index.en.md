@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Darren Woodiwiss (Green candidate for Harborough)
-

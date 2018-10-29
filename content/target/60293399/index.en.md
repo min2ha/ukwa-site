@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hedon Blog, The
-
 <p>Blog and website relating to Hedon, East Yorkshire.</p>

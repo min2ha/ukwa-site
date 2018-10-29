@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cambridge University European Society (CUEUS)
-
 The Cambridge University European Society is a pro-European organisation and the Cambridge branch of the Young European Movement UK. 

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Côr Cilcain
-
 Côr Cilcain is a mixed voice choir based in the village of Cilcain in rural Flintshire and established in 1998. As of 2018, the site is no longer live.

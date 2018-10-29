@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sheffield Teaching Hospitals
-
 None

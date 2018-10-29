@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour set to overthrow Tories as new poll shows six point lead 
-
 None

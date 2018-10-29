@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS South Staffordshire
-
 None

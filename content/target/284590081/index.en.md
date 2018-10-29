@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Colwinston Community website
-
 <p>This is the community website for the village of Colwinston in the Vale of Glamorgan.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Funniest Twitter reactions to the live election debates 
-
 None

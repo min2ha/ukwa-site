@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# National Media Museum
-
 Official website of the National Media Museum situated in the city of Bradford.

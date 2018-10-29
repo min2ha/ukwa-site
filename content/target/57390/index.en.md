@@ -11,7 +11,5 @@
   "subject": "Political Action and Communication"
 }
 
-# AROUK - Justice for Rohingya!
-
 AROUK is a UK based national body, specialising in responding fast and effectively, to meet the needs of the Rohingya community worldwide.
 What we do: We provide specialist support to: individuals, communities and groups of people.

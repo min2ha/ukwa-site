@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Battleground Britain: Labour 'cannon fodder' desert to SNP in Glasgow East
-
 None

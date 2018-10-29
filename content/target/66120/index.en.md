@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Want a second Brexit referendum? Then stop talking about it
-

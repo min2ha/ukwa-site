@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: 'Dangerous cocktail' of Labour-SNP deal would hurt economy, says Osborne
-
 None

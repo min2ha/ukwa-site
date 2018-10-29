@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The:  Hold on a moment: the European corpse may be rising from the slab
-

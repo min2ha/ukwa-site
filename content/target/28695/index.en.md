@@ -10,6 +10,4 @@
   "start_date": "2015-07-03T10:00:00Z"
 }
 
-# Wales Press Photo
-
 Website for Jeff Morgan, former Wales Press photographer of the year.

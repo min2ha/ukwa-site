@@ -11,6 +11,4 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# The Compass
-
 Triannual online poetry magazine

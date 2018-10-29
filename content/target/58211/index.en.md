@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Irish News, The: Ask Fiona: Porn has ruined my ability to have a relationship
-
 Online news site offering advice to reader who has an addiction to online pornography 

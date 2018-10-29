@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Keith Dewhurst Cynon Valley Conservatives
-
 Keith Dewhurst is the Conservative candidate for the Cynon valley.

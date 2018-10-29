@@ -10,6 +10,4 @@
   "start_date": "2017-10-17T09:00:00Z"
 }
 
-# Cambridge Arts Theatre
-
 Cambridge Arts Theatre is a 666-seat theatre on Peas Hill and St Edward's Passage in central Cambridge, England. 

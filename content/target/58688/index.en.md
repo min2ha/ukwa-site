@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# IMAX Playhouse Perth
-
 Site of a cinema located in Perth.

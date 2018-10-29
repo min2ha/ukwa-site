@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Camden Fringe, The
-
 Website for the Camden Fringe, a performing arts festival which takes place in Camden during August.

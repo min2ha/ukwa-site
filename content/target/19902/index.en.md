@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Alasdair Ibbotson for Alyn & Deeside on Facebook
-
 Alasdair Ibbotson is running as the Green Party parliamentary candidate in the May 2015 election.

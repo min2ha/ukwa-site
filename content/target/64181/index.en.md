@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Inverness East Church
-

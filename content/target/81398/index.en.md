@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Derry Halloween
-
 Website for the Derry Halloween festival.

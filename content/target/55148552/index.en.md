@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# Debbi.L's 2012 Blog - culture, olympics, northwest
-

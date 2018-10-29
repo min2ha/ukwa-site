@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gloucester Gordon League RFC on Pitchero
-
 The official website of Gloucester Gordon League RFC.

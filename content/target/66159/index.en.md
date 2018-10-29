@@ -10,6 +10,4 @@
   "start_date": "2018-05-26T09:00:00Z"
 }
 
-# Lodge St. Barchan No. 156
-
 Site of a masonic lodge located in Kilbarchan, Renfrewshire and affiliated with the Grand Lodge of Scotland.

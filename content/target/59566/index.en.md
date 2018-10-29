@@ -10,6 +10,4 @@
   "start_date": "2017-12-08T09:00:00Z"
 }
 
-# Working Links - Progress Scotland
-
 Site of a voluntary programme in the Scottish Highlands aiming to help individuals out of work to find suitable and sustainable employment, working with individuals to identify strengths, skills and abilities, and to overcome personal challenges finding and staying in work.

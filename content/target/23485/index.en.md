@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter Bone (Conservative)
-
 Peter Bone stood as Conservative candidate for Wellingborough at the 2015 General Election. He was first elected to serve as MP for Wellingborough in 2005 and re-elected in 2015.

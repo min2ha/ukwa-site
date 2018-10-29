@@ -10,6 +10,4 @@
   "start_date": "2017-01-27T09:00:00Z"
 }
 
-# Swtan Heritage Museum
-
 Swtan is a fully restored example of a 17th century Welsh cottage with a thatched roof situated in the village of Church Bay (Porth Swtan), Anglesey. It is owned by the National Trust.

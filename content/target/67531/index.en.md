@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Beaconsfield Rugby Football Club
-
 Amateur Community Rugby Club

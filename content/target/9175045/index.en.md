@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Arts for Health Cornwall
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Cassiobury Court
-
 Cassiobury Court is a residential drug rehabilitation facility providing drug and alcohol detox programmes. They also help with other addictions and compulsions such as gambling.

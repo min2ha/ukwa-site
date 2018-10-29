@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Burstow (Liberal Democrats candidate for Sutton and Cheam) on Facebook
-
 Paul Burstow stood as Liberal Democrats candidate for Sutton and Cheam at the 2015 General Election but was not elected. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Five million votes, two seats: smaller parties demand a change in the rules
-
 None

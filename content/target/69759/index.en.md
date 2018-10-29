@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Cadoc's Catholic Church
-
 Site of a Scottish Roman Catholic parish church located in Newton Mearns, East Renfrewshire.

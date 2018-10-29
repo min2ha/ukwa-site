@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Battle for No 10: verdicts on the first of the leaders’ TV programmes
-
 None

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Golwg360: Chwech rheswm pam nad yw’r Blaid yn gwneud cystal â’r SNP
-

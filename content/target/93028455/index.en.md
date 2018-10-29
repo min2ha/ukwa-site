@@ -11,6 +11,4 @@
   "subject": "Mental Health"
 }
 
-# Iechyd Meddwl Cymru | Mental Health Wales
-
 Mental Health Wales is a information resource for mental health professionals, clinicians, individuals living with mental illness, families and carers. The site is managed by Hafal, Wales' leading charity for people with severe mental illness and their carers.

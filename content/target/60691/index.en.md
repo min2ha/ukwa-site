@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# North Wales Registered Social Landlord Equality Partnership | Partneriaeth Cydraddoldeb Land-lordiaid Cymdeithasol Cofrestredig Gogledd Cymru
-
 NWREP was established in 2001 and is a partnership between North Wales based Housing Associations and the North Wales Regional Equality Network (NWREN) to promote equality in housing in North Wales.

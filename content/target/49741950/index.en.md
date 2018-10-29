@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Global Warming Policy Foundation, The
-
 Think Tank concerned about the costs and other implications of many of the climate change mitigation policies being advocated. 

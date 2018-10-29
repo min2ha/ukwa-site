@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Visit Liverpool
-
 Website promoting Liverpool as a touristic destination with information about accommodation, what's on, places to visit, etc. 

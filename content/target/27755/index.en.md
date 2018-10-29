@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hemel Today: Historic gift to mark Magna Carter 800th
-

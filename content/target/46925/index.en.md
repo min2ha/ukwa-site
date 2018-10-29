@@ -10,6 +10,4 @@
   "start_date": "2016-11-10T09:00:00Z"
 }
 
-# Sheffield Political Economy Research Institute (SPERI): EU Referendum
-
 Articles and posts relating to the EU Referendum.

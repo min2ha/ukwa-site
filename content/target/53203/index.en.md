@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Relationships Alliance: Manifesto 2017
-
 Government should support healthy couple, co-parenting and family relationships. A robust agenda to do so will help resolve parental conflict, reduce health demand, improve children’s educational attainment, and ensure people can better protect themselves from shocks such as losing a job, debt, family breakdown, or long-term health conditions. 

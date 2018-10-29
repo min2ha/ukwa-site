@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Theresa May is closer to a transitional deal than you might think
-

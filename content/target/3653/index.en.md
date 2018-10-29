@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Deeside Piper and Herald
-
 None

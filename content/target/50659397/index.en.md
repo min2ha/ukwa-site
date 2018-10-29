@@ -10,5 +10,3 @@
   "start_date": "2017-10-26T09:00:00Z"
 }
 
-# Furtherfield
-

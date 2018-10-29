@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Valleys to Coast Housing
-
 Valleys to Coast Housing provide affordable homes to rent and buy across the County Borough of Bridgend.

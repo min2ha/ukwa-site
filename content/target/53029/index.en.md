@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Reading Liberal Democrats (@ReadingLibDems) on Twitter
-
 Twitter account of Reading Liberal Democrats, providing information on campaigns, events, representatives and candidates and local and national news updates.

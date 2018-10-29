@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Suffolk NHS Foundation Trust
-
 None

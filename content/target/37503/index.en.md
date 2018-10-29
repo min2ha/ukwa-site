@@ -10,6 +10,4 @@
   "start_date": "2016-03-15T09:00:00Z"
 }
 
-# ePlanning.scot
-
 The ePlanning.scot portal supports online submission of planning applications, notices of review and appeals in Scotland.

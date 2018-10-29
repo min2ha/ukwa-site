@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Jon-Allan Butterworth
-

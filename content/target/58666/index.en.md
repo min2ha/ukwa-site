@@ -10,6 +10,4 @@
   "start_date": "2017-11-10T09:00:00Z"
 }
 
-# YoungMinds
-
 YoungMinds is a UK charity committed to improving the well being and mental health of children and young people.

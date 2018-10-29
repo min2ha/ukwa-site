@@ -10,5 +10,3 @@
   "start_date": "2011-02-18T00:00:00Z"
 }
 
-# Welsh Ballads Website - Gwefan Baledi Cymru
-

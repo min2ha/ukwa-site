@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# BBC News: Qatar exhibition display for artist Jason Wilsher-Mills
-

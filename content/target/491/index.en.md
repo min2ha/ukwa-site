@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hammersmith and Fulham LINk
-
 None

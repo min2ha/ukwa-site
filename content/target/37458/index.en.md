@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# UCL European Institute: Empathy, belonging and the UK-EU questoin
-
 A cognitive neuroscience research suggests much on the fundamental processes that will make or break not only UK-EU relations but the entire European project.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# A.C. Grayling
-
 Anthony Clifford Grayling CBE, usually known as A. C. Grayling, is a British philosopher and author. 

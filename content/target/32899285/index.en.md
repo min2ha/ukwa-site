@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Shinkansen Collection, The: 1989-2004
-
 The shinkansen Collection promotes the unique artistic legacy of shinkansen, a collaborative unit renowned for its innovative and pioneering work in sound and movement research across 1989 - 2004. This Portal provides a co-ordinated web presence for different sites and cultural projects within the shinkansen Collection. 

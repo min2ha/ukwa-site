@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Lighthouse Baptist Church, Abergele
-

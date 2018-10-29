@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Library Carpentry: data lessons/library python intro on Github
-
 An introduction to Python for librarians.

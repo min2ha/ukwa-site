@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Queen Alexandra Hospital Home online archive of images
-
 Project to create a digital archive documenting our heritage, to share on and offline with the local and national community.

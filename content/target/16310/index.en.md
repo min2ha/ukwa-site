@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Co-operative Party, The (@CoopParty) on Twitter
-
 We believe that things work best when people have a voice, and when services are accountable to the people who use them. In partnership with @UKLabour

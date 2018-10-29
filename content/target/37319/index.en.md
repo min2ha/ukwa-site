@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# City A.M.: The seven types of EU referendum voter
-
 Slightly popularist article divides voters into seven types, determining their vote by their worldview and values relating to big issues like immigration and the Eurozone. 

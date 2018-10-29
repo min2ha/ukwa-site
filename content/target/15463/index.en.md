@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Muslim Engagement & Development
-
 <p>Muslim Engagement &amp; Development (MEND) is a not for profit company working towards enhancing the active engagement of British Muslim communities in national life, particularly in the fields of politics and the media.</p>

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Tommy Sheridan (Tommy4Glasgow) on Facebook
-
 Facebook page of Tommy Sheridan, Solidarity list candidate for Glasgow region in the 2016 Scottish Parliamentary election.

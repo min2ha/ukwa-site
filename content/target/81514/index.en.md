@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# TRFC Community (@TranmereFITC) on Twitter
-
 Tranmere Rovers In The Community.

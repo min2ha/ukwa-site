@@ -11,7 +11,5 @@
   "subject": "Sport: Football"
 }
 
-# Littlemore RFC (@Littlemorerfc) on Twitter
-
 The official Twitter account of Littlemore Rugby Football Club.
 Formed in 1976, Littlemore RFC sits proudly on the outskirts of the Oxford city centre.

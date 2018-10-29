@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# www.andrewbaggaley.com
-
 <p>The official website of table tennis player Andrew baggaley and member of Team England for the Glasgow 2014 Commonwealth Games.</p>

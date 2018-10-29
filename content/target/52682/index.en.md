@@ -10,5 +10,3 @@
   "start_date": "2017-05-03T09:00:00Z"
 }
 
-# St Richard Gwyn Catholic High School, Barry | Ysgol Uwchradd Gatholig Richard Gwyn Sant, Y Barri
-

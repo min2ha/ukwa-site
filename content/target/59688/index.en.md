@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Virtual therapy and stress-busting apps: can tech support mental health at work?
-
 News article about tech designed to help mental wellbeing is coming into the workplace, but experts warn that it shouldn’t be seen as a quick fix

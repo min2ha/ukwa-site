@@ -10,6 +10,4 @@
   "start_date": "2018-08-10T09:00:00Z"
 }
 
-# Spiritus
-
 A company which sells encrypted records management systems.

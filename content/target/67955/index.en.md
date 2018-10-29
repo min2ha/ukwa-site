@@ -10,6 +10,4 @@
   "start_date": "2018-06-22T09:00:00Z"
 }
 
-# Western Equestrian Society (WES)
-
 The Western Equestrian Society (WES) was formed in 1985 to promote the discipline of Western Riding to the standard as practised in the United States. 

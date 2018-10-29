@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Museum of English Rural Life
-

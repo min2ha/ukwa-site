@@ -11,5 +11,3 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# SOS Children's Village: News
-

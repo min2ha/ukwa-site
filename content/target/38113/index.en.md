@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angus MacLeod (@AonghasMacLeoid) on Twitter
-
 Twitter profile of Angus MacLeod, National Secretary of the Scottish National Party.

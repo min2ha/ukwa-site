@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Steffan Webb (@plaidystumtaf) on Twitter
-
 Steffan Webb is the Cardiff North Plaid Cymru candidate at the 2017 General Election.

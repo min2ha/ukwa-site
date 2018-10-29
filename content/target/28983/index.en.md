@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cambridge Labour Party
-
 Website of Cambridge Labour Party, providing information on MP, local councillors, Cambridge Manifesto and local and national news and opinion.

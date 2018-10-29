@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lib Dems would force Tories to water down welfare cuts as price for coalition
-
 None

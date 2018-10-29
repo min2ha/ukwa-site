@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Democracy Club: All Posts in Current Elections
-
 A list of candidates running in various elections around the UK.

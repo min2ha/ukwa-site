@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# National Centre for Circus Arts
-
 Website of national charity promoting and supporting the training of circus performers.

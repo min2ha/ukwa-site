@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Montgomery Canal, The
-

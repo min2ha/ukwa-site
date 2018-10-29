@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 21st June 2017: Queen's Speech debate
-
 Debate on the Queen's speech, including issues relating to the UK's withdrawal from the EU

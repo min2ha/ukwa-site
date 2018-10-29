@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Saint John Vianney's Roman Catholic Church
-
 Site of a Roman Catholic church in Scotland for the parish of Saint John Vianney, Alva, Clackmannanshire.

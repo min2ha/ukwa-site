@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Liverpool Theatres: Comedy and Stand Up in Liverpool, Merseyside, & Surrounding Area
-
 Stand Up and Comedy listings from the Liverpool Theatres website

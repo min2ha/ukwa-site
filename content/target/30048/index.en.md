@@ -10,6 +10,4 @@
   "start_date": "2015-08-27T10:00:00Z"
 }
 
-# ScottBouch.com - Technology, Engineering, Making, Fixing & Improving Things
-
 A Home-hosted website, demonstrating how things can be done independently of the internet giants, by people at home on a small budget. It's content is mainly about engineering projects, computing tips and guidance, historic technology reports, British vintage aviation events, and British science fiction culture.

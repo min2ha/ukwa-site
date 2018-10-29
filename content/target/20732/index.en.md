@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Finlay Carson on Facebook
-
 This is the Facebook page of Finlay Carson, the Conservative Party candidate for Dumfries and Galloway in the UK General Election on the 7th May 2015.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Minor parties hold the keys to power after 7 May
-
 None

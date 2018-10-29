@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# RELAYS - Regional Educational Legacy in Arts and Youth Sport
-
 <p>RELAYS (Regional Educational Legacy in Arts and Youth Sport) was led by Universities South West and delivered through 11 of the region's universities as well as external project partners. From 2008 to 2013, the project worked with nearly two-thirds of a million people across the South West of England.</p>

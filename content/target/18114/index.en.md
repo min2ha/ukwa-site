@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Emmeline Pankurst's great-grandaughter's plea: 'Make sure you don't waste your vote'  
-
 None

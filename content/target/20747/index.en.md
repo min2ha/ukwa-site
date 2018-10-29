@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Chris Law on Facebook
-
 The Facebook page of Chris Law, the Scottish National Party (SNP) candidate for Dundee West in the UK General Election on the 7th May 2015.

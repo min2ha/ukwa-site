@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Tesco Bank
-
 Tesco Bank is a retail bank which was formed in 1997 as part of a joint venture between Tesco plc and The Royal Bank of Scotland. Tesco acquired the Royal Bank of Scotland's stake in the company in 2008.

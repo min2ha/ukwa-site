@@ -10,6 +10,4 @@
   "start_date": "2016-11-05T09:00:00Z"
 }
 
-# Crofting Scotland on Twitter
-
 Crofting Scotland on Twitter

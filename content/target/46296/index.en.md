@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Lowland Football League
-
 WordPress of an organising body for the amateur Scottish football league in southern Scotland.

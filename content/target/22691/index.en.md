@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Common Weal on Facebook, The
-
 Facebook profile of the Common Weal Project, created by the Jimmy Reid Foundation.

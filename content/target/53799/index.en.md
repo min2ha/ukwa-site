@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# National Voices: General Election 2017: Manifesto analysis
-
 A series of member briefings from National Voices summarising the health and care aspects of political party manifestos in the build up to the 2017 General Election.
 

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Glassdoor
-
 Company reviews and ratings, posted anonymously byt employees.

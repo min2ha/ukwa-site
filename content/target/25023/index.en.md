@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Election 2015: Ukip leader Nigel Farage QUITS despite party winning 4 MILLION votes
-
 None

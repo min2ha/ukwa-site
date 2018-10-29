@@ -10,6 +10,4 @@
   "start_date": "2016-08-03T10:00:00Z"
 }
 
-# Dewsbury Arts Group
-
 Community arts centre in Dewsbury, UK, founded in 1963 and associated with the theatre and visual arts. 

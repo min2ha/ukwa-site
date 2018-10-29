@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum 2014"
 }
 
-# Stewart Hosie  Depute Leader of the SNP
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Scottish Amateur Football Association
-
 Site of the legislative and organising body for Scottish Amateur football.

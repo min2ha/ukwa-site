@@ -10,6 +10,4 @@
   "start_date": "2017-12-23T09:00:00Z"
 }
 
-# Ant Dickinson
-
 Ant Dickinson is a creative technologist and sound designer working with mixed media, computer control and programming operating from North Wales. He has lectured in Music and Music Technology education across the UK.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mabon ap Gwynfor on Facebook
-
 Mabon ap Gwynfor, Plaid Cymru candidate for Clwyd South.

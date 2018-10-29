@@ -11,6 +11,4 @@
   "subject": "History of Libraries Collection"
 }
 
-# Resource Description & Access (RDA)
-
 RDA Blog or Resource Description & Access Blog is a blog on Resource Description and Access (RDA), a library cataloging standard that provides instructions and guidelines on formulating data for resource description and discovery, organized based on the Functional Requirements for Bibliographic Records (FRBR), intended for use by libraries and other cultural organizations replacing Anglo-American Cataloguing Rules (AACR2). 

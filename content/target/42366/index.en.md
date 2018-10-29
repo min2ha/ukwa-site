@@ -10,6 +10,4 @@
   "start_date": "2016-06-03T10:00:00Z"
 }
 
-# Society for Research into Hydrocephalus and Spina Bifida (SRHSB)
-
 The Society for Research into Hydrocephalus and Spina Bifida (SRHSB) was founded in 1957 by a group of physicians and surgeons interested in developing treatments for the conditions. 

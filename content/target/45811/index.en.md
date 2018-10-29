@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Umbrella Gwent
-
 Umbrella Gwent was founded in 2015 and specialise in gender and sexual diversity and provide a range of support, signposting, advocacy, information and other services to people in Wales. 

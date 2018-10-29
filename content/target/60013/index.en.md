@@ -10,6 +10,4 @@
   "start_date": "2018-01-04T09:00:00Z"
 }
 
-# Barton Place
-
 Barton Place is a Care Home with Nursing Care registered with the Care Quality Commission specialising in the care of people suffering from Dementia, Alzheimer's disease and other dementia related illnesses. 

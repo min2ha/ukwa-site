@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: BBC refuses to reveal debate audience despite Ukip 'bias' claims
-
 None

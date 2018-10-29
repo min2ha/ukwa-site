@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Beyond parody: Tax-avoiding Amazon is killing the high street yet has the gall to deliver hysterical lectures on Brexit, writes ALEX BRUMMER
-
 Criticises the head of Amazon UK, who predicted that civil unrest would break out within two weeks of a "no deal" Brexit at a meeting with Dominic Raab

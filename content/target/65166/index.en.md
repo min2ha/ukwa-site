@@ -10,5 +10,3 @@
   "start_date": "2018-05-04T09:00:00Z"
 }
 
-# Dundee Review of the Arts (DURA)
-

@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Every Tory attack on the SNP is another blow to the union
-

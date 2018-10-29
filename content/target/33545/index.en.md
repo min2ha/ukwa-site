@@ -10,6 +10,4 @@
   "start_date": "2015-12-16T09:00:00Z"
 }
 
-# Scottish National War Memorial
-
 Site dedicated to the Scottish National War Memorial located in Edinburgh Castle and commemorating the dead of World War I and subsequent conflicts involving Scots.

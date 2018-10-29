@@ -10,5 +10,3 @@
   "start_date": "2015-07-14T00:00:00Z"
 }
 
-# Andes Patagonia 2015
-

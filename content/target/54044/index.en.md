@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Social Democrats, The (@TheSDPUK) on Twitter
-
 The official twitter feed of the UK Social Democratic Party.

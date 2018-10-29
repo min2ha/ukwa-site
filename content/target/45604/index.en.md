@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# South London radical history group
-
 South London radical history group existed in fits and starts, from 2003, when it was set up by several individuals who had been active mainly in anarchist politics in South London for many years, to 2009, when we wound it up. Past Tense and Past Tense blog pick up similar concerns after 2009.

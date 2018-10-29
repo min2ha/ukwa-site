@@ -10,6 +10,4 @@
   "start_date": "2017-10-28T09:00:00Z"
 }
 
-# Women's Support Project
-
 Site of a Scottish charity working to raise awareness of the extent, causes and effect of male violence against women, and for improved services for those affected by violence.

@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Rights of Women
-
 <p>Rights of Women is a voluntary organisation seeking to inform, educate and empower women concerning their legal rights.</p>

@@ -10,6 +10,4 @@
   "start_date": "2015-10-03T10:00:00Z"
 }
 
-# Alzheimer's & Dementia Support Services
-
 Alzheimer's & Dementia Support Services is an independent registered charity, which has developed a wide range of multicultural services to provide practical and emotional support to people with dementia, their carers, supporters and other relatives.

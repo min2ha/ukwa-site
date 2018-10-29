@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Law Man Brew Co.
-
 Site of a brewer and their microbrewery at Cumbernauld, Lanarkshire.

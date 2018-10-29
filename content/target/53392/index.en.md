@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Hollie Devanney (@holliedevanney  ) on Twitter (Labour Politician)
-
 Hollie Devanney stood as Labour Party candidate for Haltemprice and Howden at the 2017 general election but was not elected.

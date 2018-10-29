@@ -10,5 +10,3 @@
   "start_date": "2018-09-15T09:00:00Z"
 }
 
-# The Mach Loop
-

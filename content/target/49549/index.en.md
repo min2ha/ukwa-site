@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# United Jewish Israel Appeal (UJIA)
-
 UJIA is a registered charity in England, Wales and Scotland which invests in young people in Israel and in the Jewish community. In the Galil region they aim to create educational and employment opportunities through schools, colleges and community projects. In the UK they aim to support Jewish and Israel engagement, by supporting youth movements and organisations, schools and educational programmes in Israel.

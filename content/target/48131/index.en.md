@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Progressio
-
 Progressio is an international development charity supporting poor and marginalised people, especially women, to empower themselves.

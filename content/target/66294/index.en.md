@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Port Nazarene
-
 Site of a Church of the Nazarene Church and congregation in Port Glasgow, Inverclyde.

@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Scottish Renewables
-
 Site of an organisation representing the Scottish renewable energy industry, and aiming to lead and inform the debate on how the growth of renewable energy can help sustainably heat and power Scotland’s homes and businesses.

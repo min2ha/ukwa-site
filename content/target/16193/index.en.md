@@ -10,6 +10,4 @@
   "start_date": "2015-03-18T09:00:00Z"
 }
 
-# Next Generation Poets
-
 Website of the Next Generation Poets promotion by the Poetry Book Society and a selection of UK poetry publishers.

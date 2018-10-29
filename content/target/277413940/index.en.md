@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Radical Independence Campaign
-
 A grassroots Scottish Independence campaign now campaigning on anti-austerity, anti-war, environmental and republican platforms.

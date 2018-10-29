@@ -10,6 +10,4 @@
   "start_date": "2017-03-11T09:00:00Z"
 }
 
-# Floris Books
-
 Site of a commerical publisher based in Edinburgh, Scotland.

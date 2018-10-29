@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# HMS Tarlair Heritage Project
-
 Site of a local history project researching the activities of HMS Tarlair, a naval base at Aberdour, Fife researching methods for counter submarine warfare during World War I.

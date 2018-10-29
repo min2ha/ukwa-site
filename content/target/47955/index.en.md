@@ -10,6 +10,4 @@
   "start_date": "2017-08-18T09:00:00Z"
 }
 
-# 103 Squadron RAF
-
 This is a history of the 103 RAF Squadron from WW1 to its disbandment in 1975. This website and its content is copyright of David William Fell and/or the contributors.

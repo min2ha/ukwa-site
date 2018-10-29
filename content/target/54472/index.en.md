@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Brexit Facts4EU (@Facts4euOrg) on Twitter
-
 Twitter feed of pro-Brexit campaign group

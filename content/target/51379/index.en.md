@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# The LSE Brexit Collection: 2016 referendum
-

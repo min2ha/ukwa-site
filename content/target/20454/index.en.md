@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron's migration policy branded a mistake by former ministers 
-
 None

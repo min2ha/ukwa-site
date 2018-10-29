@@ -10,6 +10,4 @@
   "start_date": "2015-07-28T10:00:00Z"
 }
 
-# Arts Derbyshire
-
 Arts Derbyshire is the strategic arts organisation for the county; members include arts organisations, local authorities and public bodies with a remit for the arts.

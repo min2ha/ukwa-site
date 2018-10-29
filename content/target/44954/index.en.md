@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gweddi
-
 Online magazine for pupils CA3 studying Welsh First language in Wales. The site is sponsored by the Welsh Government.

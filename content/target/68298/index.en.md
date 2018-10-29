@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# The Rugby Football Club (@TheRugbyLions) on Twitter
-
 The official Twitter account of the Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: May to face pressure to ditch Chequers plan in cabinet showdown 
-
 Speculated that Theresa May would come under intense pressure from leading Brexiters on Monday September 24th to ditch her Chequers proposals and back a free trade deal with the EU instead as she faced a bruising cabinet showdown in the wake of the disastrous Salzburg summit.

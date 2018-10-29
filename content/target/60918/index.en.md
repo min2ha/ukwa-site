@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-#  Fulham Irish GAA Club 
-
 Fulham Irish GAA Club was officially formed in January 2006.
 John Doyle, a native of Carlow and Liam Barry, a Limerick man, decided it was time to form a new club that would serve the needs of the increasing professional population in Central London.
 This website is dedicated to Fulham Irish GAA Club.

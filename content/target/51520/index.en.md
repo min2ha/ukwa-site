@@ -10,6 +10,4 @@
   "start_date": "2017-03-30T09:00:00Z"
 }
 
-# Sonja Benskin Mesher
-
 Sonja Benskin Mesher is based in Wales and works in mixed media, fine Art, illustration & design.

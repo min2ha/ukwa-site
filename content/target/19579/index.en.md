@@ -10,6 +10,4 @@
   "start_date": "2015-03-26T09:00:00Z"
 }
 
-# Theodora Children’s Charity
-
 The mission of the Theodora Children’s Charity is to contribute to the wellbeing of children in hospitals, hospices and specialist care centres by providing visits from professional performers who have been trained to work in a medical environment.

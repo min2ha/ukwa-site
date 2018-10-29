@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Emina Ibrahim (@Emina_ibrahim)  on Twitter (Labour Party Politician)
-
 Emina Ibrahim stood as Labour Party candidate for Carshalton and Wallington in the 2017 General Election but was not elected.

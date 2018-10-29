@@ -10,6 +10,4 @@
   "start_date": "2006-01-18T00:00:00Z"
 }
 
-# Aphrodisias in Late Antiquity
-
 None

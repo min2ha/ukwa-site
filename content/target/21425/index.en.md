@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: David Cameron: Broadcasters 'cocked it up' over election debates
-
 None

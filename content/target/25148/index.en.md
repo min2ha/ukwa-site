@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Socialist Labour leader Arthur Scargill pledges to reopen pits and nationalise steelworks to end austerity
-
 None

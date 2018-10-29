@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Hereford Cathedral: Key Stage 3: History visits
-

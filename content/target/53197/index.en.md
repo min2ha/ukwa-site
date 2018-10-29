@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Freight Transport Association: A logistics agenda for a safer, greener and more prosperous Britain
-
 The FTA is calling for: free access for the UK freight and logistics industry to the EU market post-Brexit; government assistance in forging new trade deals with leading and emerging economic powers; increased investment in public infrastructure, both road and rail; and reduction of infrastructure costs associated with rail transport and protection for water freight access, to enable shippers to diversify their transport options.

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Islam 21C: Should Muslims care about the EU referendum?
-

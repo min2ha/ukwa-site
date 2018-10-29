@@ -10,6 +10,4 @@
   "start_date": "2016-04-19T10:00:00Z"
 }
 
-# Sustaining Dunbar
-
 Site of a local resources sustainability group, concerned with climate change, promoting less use of fossil fuels and advocating use of local produce and supply of resources. 

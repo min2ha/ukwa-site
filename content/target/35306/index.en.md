@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Jane Collins (UKIP MEP for Yorkshire and the Humber)
-
 Jane Collins stood as UKIP candidate for Yorkshire and the Humber at the 2014 European Parliament Election and was elected to serve as MEP

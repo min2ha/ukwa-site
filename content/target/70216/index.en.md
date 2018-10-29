@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Larne Football Club
-
 The official website of Larne Football Club.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband's NHS plans risk losing the election, say Blair supporters
-
 None

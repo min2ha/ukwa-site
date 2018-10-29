@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Edinburgh & Lothians Miniature Railway Club
-
 Site of a railway modelling club based in Edinburgh. 

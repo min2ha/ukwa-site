@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Another Angry Voice
-
 A blog set up in 2010 by Thomas G. Clark in order to express personal opinions about current political, social and economic issues.

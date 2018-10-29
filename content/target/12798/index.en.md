@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Commonwealth Games | Angus Council
-
 <p>Barry Budden Shooting Centre in Angus is the venue for shooting events that are part of the XX Commonwealth Games. These pages from the Angus Council website give practical information about the events and travel and transport.</p>

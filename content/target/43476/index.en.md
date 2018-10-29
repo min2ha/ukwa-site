@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Parliament: EU referendum: Energy and climate change implications
-
 Parliament website consering the impacts of EU referendum on energy and climate change

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Croydon Health Services NHS Trust
-
 None

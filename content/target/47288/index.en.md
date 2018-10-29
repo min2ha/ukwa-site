@@ -10,6 +10,4 @@
   "start_date": "2016-11-23T09:00:00Z"
 }
 
-# Capel y Porth, Porthmadog 
-
 Capel y Porth is a Presbyterian Church of Wales Church located in Porthmadog.

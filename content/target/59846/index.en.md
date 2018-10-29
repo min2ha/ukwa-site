@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UGM Bodybuilding, Training & Fitness Forum
-
 An online enthusiast community forum concerned with bodybuilding and general fitness. Discusses training, diet & nutrition, chemical enhancement, bodybuilding supplements and various other related topics.

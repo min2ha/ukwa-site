@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Scottish Food & Drink Fortnight
-
 Site of an annual event which supports and promotes Scotland’s produce, and the people who grow, make, cook and sell it.

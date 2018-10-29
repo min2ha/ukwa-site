@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# STEMNET - The Science, Technology, Engineering and Mathematics Network
-
 STEMNET (the Science, Technology, Engineering and Mathematics Network) creates opportunities to inspire young people in STEM. They work with schools, colleges and STEM employers, to enable young people of all backgrounds and abilities to meet inspiring role models, understand real world applications of STEM subjects and experience hands-on STEM activities that motivate, inspire and bring learning and career opportunities to life.

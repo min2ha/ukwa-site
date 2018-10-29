@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# theSpaceUK on Facebook
-
 theSpaceUK is a production company specialising in live theatre, music and event production. This is its official Facebook presence.

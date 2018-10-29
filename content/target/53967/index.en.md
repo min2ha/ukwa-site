@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Marc Tierney (@MarcTierney2017) on Twitter
-
 Marc Tierney is the Labour candidate for Carmarthen West & South Pembrokeshire at the 2017 General Election.

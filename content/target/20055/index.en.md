@@ -10,6 +10,4 @@
   "start_date": "2015-03-30T09:00:00Z"
 }
 
-# Plaid Cymru Gorllewin Clwyd | Party of Wales Clwyd West
-
 Blog for Plaid Cymru Clwyd West.

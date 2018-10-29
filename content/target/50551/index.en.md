@@ -10,6 +10,4 @@
   "start_date": "2017-03-16T09:00:00Z"
 }
 
-# APRIL UK
-
 APRIL UK - an award winning health insurance & protection provider.

@@ -10,6 +10,4 @@
   "start_date": "2015-04-24T09:00:00Z"
 }
 
-# St John’s House Trust
-
 St John’s House Trust is a registered charity formed by local Bridgend residents in 2012 with the aim of buying St Johns House, Newcastle Hill, Bridgend. The Trust's aim is to restore this Grade II* listed medieval townhouse.

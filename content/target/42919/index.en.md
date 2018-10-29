@@ -10,6 +10,4 @@
   "start_date": "2016-06-14T10:00:00Z"
 }
 
-# Waverley Excursions
-
 Site of an organisation running the paddle steamer 'Waverley' on excursions from Glasgow, and its associated charitable organisation, Friends of the Waverley.

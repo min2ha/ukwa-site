@@ -10,7 +10,5 @@
   "start_date": "2018-02-16T09:00:00Z"
 }
 
-# Dark Mountain Project, The
-
 The Dark Mountain Project is a network of writers, artists and thinkers who have stopped believing the stories civilisation tells itself. They see that the world is entering an age of ecological collapse, material contraction and social and political unravelling, and want cultural responses to reflect this reality rather than denying it.
 

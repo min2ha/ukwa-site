@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# R M Jones Bobi Jones
-
 <p>Site devoted to Bobi Jones: Welsh language poet, short story writer and novelist and R M Jones: literary critic and academic.</p>

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: General Election 2015: Tories grab six point lead over Labour in Lord Ashcroft poll
-
 None

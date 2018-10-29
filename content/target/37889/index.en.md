@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Christian Institute: Comment: The EU referendum on 23 June
-
 Encourages Christians to vote in the EU Referendum on June 23rd. Also urges them not to lose sight of the many other proposals put forward by government which could  have a lasting adverse effect on Christian freedoms

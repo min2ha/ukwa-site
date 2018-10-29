@@ -10,8 +10,6 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# Understanding Scotland Musically
-
 A blog where Simon McKerrell share ideas and information about the research project–Understanding Scotland Musically. He is a Lecturer in Music at the International Centre for Music Studies at Newcastle University where this fellowship is based: http://www.ncl.ac.uk/sacs/music/.
 
 This research aims to develop new understandings of how contemporary traditional music is used in the construction of Scottish identity both in performance and through the media.

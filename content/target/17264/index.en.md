@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Scotland's fast politics leave the parties in the slow lane
-

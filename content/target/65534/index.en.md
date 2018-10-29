@@ -10,6 +10,4 @@
   "start_date": "2018-05-14T09:00:00Z"
 }
 
-# Dumfries Historic Buildings Trust
-
 Site of a trust preserving historic buildings in Dumfries & Galloway.

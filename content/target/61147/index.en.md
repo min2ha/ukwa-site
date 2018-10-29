@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# National Audit Office: Implementing the UK’s Exit from the European Union: The Department for International Trade
-
 A briefing on how the Department for International Trade (DIT) is preparing for the EU Exit and the steps it has made, since its creation in 2016, to establish the best trading framework for the UK to maximise trade and investment after the UK leaves.

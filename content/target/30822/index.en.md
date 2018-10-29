@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Digital Bodleian
-
 Digital Bodleian is a digital initiative of the Bodleian Libraries bringing together digitised materials into one place.

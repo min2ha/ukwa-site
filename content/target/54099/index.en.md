@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dan Carden (@Dan4Walton) on Twitter (Labour Party Politician)
-
 Dan Carden stood as Labour candidate for Liverpool, Walton at the 2017 General Election and was elected to serve as MP.

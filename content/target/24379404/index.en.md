@@ -10,5 +10,3 @@
   "start_date": "2008-11-19T00:00:00Z"
 }
 
-# North Bucks Archaeological Society
-

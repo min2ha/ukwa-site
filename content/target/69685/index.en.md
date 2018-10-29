@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: This is project reality, not project fear, says Hunt
-
 Foreign Secretary Jeremy Hunt warned in August 2018 that the EU and the UK risked blundering into a "no deal" British exit by accident. This was in no-one's interests.

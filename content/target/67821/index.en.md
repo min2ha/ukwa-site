@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Harpenden Rugby Club (@HarpendenRUFC) on Twitter
-
 The official Twitter account of Harpenden Rugby Football Club.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Fifth English Magna Carta copy discovered in Kent council archives
-

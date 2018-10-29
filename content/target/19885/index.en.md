@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# UKIP Lambeth (@UKIPlambeth) on Twitter
-

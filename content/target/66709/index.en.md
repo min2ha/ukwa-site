@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Lodge St. Monan No. 1348
-
 Site of a masonic lodge located in St. Monans, Fife and affiliated with the Grand Lodge of Scotland.

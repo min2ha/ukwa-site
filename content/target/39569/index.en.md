@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Laura Mitchell for Highlands & Islands on Facebook
-
 Facebook page of Laura Mitchell, Scottish National party list candidate for Highlands and Islands region in the 2016 Scottish Parliamentary election.

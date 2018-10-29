@@ -10,6 +10,4 @@
   "start_date": "2018-06-19T09:00:00Z"
 }
 
-# Springfield Properties plc
-
 Springfield Properties plc is a housebuilding company based in Elgin, Scotland.

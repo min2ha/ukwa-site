@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cameron's warning on Labour's £3,000 'tax rise' is shot down by IFS
-
 None

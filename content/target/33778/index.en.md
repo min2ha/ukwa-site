@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Belfast Telegraph: IRA's numerous atrocities cast a long shadow over Rising centenary
-

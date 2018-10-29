@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# UK Export Finance (@UKEf) on Twitter
-
 The UK's export credit agency. We help UK companies of all sizes and in all sectors​ win, fulfil and get paid for export contracts.

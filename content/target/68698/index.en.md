@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Horwich Festival of Racing
-
 Website for the Horwich Festival of Racing

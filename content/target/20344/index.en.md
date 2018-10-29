@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Dulwich & West Norwood Conservatives on Facebook
-

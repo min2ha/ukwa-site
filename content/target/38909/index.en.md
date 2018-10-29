@@ -10,6 +10,4 @@
   "start_date": "2016-04-15T10:00:00Z"
 }
 
-# Peace & Justice Scotland
-
 Site of group established by the Catholic Church in Scotland to campaign for and promote peace and justice in Scotland and abroad.

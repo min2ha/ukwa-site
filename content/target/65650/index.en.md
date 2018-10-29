@@ -10,6 +10,4 @@
   "start_date": "2018-05-16T09:00:00Z"
 }
 
-# Stagecoach Group plc
-
 Stagecoach Group plc is an international transport group operating trains, trams, buses and express coaches.

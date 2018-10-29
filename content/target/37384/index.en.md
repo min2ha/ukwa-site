@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# openDemocracy: EU freedom of movement and Brexit
-
 How EU immigration influences Brexit

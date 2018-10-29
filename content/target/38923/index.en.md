@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Time for Inclusive Education (TIE)
-
 Time for Inclusion Education (TIE) is an organisation which campaigns to ensure that all schools in Scotland are offering an LGBTI+ inclusive education.

@@ -10,6 +10,4 @@
   "start_date": "2017-10-06T09:00:00Z"
 }
 
-# Taxi Drivers Cardiff (@CardiffDrivers) on Twitter
-
 A group trying to create unity and solidarity amongst Cardiff taxi drivers in their fight against the Licensing Authority and Company Owners.

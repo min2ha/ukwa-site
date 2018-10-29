@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Moving Here
-
 <p>The Moving Here partnership (2005-2007),led by the National Archives, was a consortium of 30 archives, libraries and museums who contributed material to the catalogue of 200,000 items related to migration.</p>

@@ -10,6 +10,4 @@
   "start_date": "2018-02-02T09:00:00Z"
 }
 
-# Peacock Theatre, The
-
 The Peacock Theatre is a theatre in the City of Westminster, located in Portugal Street, near Aldwych.

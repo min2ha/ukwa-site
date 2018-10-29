@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# University of York: Why wasn't the world prepared?
-
 University of York's political department's roundtable on the inadequacy of the international community's response to Ebola

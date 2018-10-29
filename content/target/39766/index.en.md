@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Helensburgh SNP (@HelensburghSNP) on Twitter
-
 Twitter profile of the Helensburgh branch of the Scottish National Party (SNP).

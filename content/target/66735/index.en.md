@@ -10,8 +10,6 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# British Association for Natural Swimming Pools (BANSP) 
-
 
 	 
 

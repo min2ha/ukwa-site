@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Luton Borough Council
-
 Website of Luton Borough Council offering information about services for residents and the activities of the council

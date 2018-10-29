@@ -10,6 +10,4 @@
   "start_date": "2016-08-13T10:00:00Z"
 }
 
-# Killearn Courier, The
-
 A community magazine for the Killearn area.

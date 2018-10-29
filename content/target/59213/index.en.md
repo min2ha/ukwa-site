@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Press Gazette: Head of of Sky News John Ryley tells NCTJ conference lack of diversity meant Brexit vote took media by surprise
-
 Head of Sky News John Ryley said that British journalists were taken by surprise by the outcome of the EU Referendum because of the lack of diversity in newsrooms.

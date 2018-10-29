@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: EU referendum could be DELAYED as British expats launch legal bid over decision to bar them from voting  
-

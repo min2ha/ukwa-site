@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Compassion in World Farming
-
 Compassion in World Farming campaign peacefully to end all factory farming practices. 

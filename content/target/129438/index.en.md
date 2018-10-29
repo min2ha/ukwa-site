@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Wrestling Association (BWA)
-
 None

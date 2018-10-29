@@ -10,5 +10,3 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Blog Archif Genedlaethol Sgrin a Sain Cymru | National Screen and Sound Archive of Wales Blog
-

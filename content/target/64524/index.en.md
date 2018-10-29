@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Yomi Ayeni: Creative, Writer, Producer
-
 Yomi Ayeni is a transmedia producer, author, film maker, and digital strategist. He specialises in crafting interactive and engaging narratives across multiple platforms.

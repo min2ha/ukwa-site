@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nick Miller (N666Miller) on Twitter
-
 The twitter profile of hammer thrower Nick Miller, member of Team England for the Glasgow 2014 Comonwealth Games.

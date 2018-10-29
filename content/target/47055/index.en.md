@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Taxpayers Against Poverty
-
 TAP is not a charity but has registered as a not for profit company so it is publically accountable for its income and expenditure. Not being a charity means they are free from the political restrictions of the Charity commission.  

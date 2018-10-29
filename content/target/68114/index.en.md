@@ -11,8 +11,6 @@
   "subject": "Sport: Football"
 }
 
-# Newport Salop RUFC (@NewportSalopRFC) on Twitter
-
 The official Twitter account of Newport Salop Rugby Football Club.
 
 Beautifully situated on the edge of Newport on the Shropshire/Staffordshire border we are one of the most senior clubs in the North Midlands region.

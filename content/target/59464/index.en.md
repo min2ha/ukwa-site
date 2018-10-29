@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Missional Links Wales
-
 Mission Link Wales is a collaboration between Welsh Churches and USA Churches who 'feel called by God to play a part in the spiritual transformation of the whole of Wales'.

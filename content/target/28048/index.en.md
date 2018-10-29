@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Manchester Comedy Guide
-
 Website for comedy shows in Manchester (including comedy clubs and comedy plays), with listings and venue information.

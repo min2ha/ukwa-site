@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# legislation.gov.uk - Health and Social Care Act 2012
-
 None

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Stop going on about the war! German ambassador claims Brexit was fuelled by Eurosceptics constantly retelling stories about Britain 'standing alone'   
-

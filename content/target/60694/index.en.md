@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Ministers reject calls to publish leaked Brexit study
-
 The government said it would not publish a report leaked to BuzzFeed predicting an economic hit from Brexit. Brexit Minister Steve Baker said the document was at a "preliminary" stage and releasing it in full could damage the UK's negotiations with the EU. 

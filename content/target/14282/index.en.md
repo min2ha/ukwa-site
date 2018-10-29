@@ -10,7 +10,5 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Contemporary British Painting
-
 <p>"contemporary british painting provides a new platform for some of the most exciting emerging and award winning painting happening in the UK today. Artists include European Sovereign Painters Prize winner Susan Gunn, Pollock-Krasner awardee Kelly Jayne, East London Painting Prize winner Nathan Eastwood, John Moores Prize winner Nicholas Middleton, British Academy awardee James Quin, Birtle Prize for Painting winner Simon Burton and Wyss Foundation prize winner Harvey Taylor.</p>
 <p>Featuring interviews, exhibitions and direct links to artists websites as well critical texts exploring current issues and ideas around contemporary painting practice." - from home page</p>

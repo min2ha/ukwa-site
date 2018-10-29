@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: Magna Carta barons set to lord it over Lincoln city centre
-

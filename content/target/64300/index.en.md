@@ -10,6 +10,4 @@
   "start_date": "2018-04-15T09:00:00Z"
 }
 
-# Lodge Newton Mearns No. 1706
-
 Site of a masonic lodge located in Newton Mearns, East Renfrewshire and affiliated with the Grand Lodge of Scotland.

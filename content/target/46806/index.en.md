@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Express: We face political crisis ENTIRELY of the Remainers' making, says Stephen Pollard
-
 Argues that the remainers will stop at nothing to prevent Brexit.

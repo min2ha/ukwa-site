@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Directory of Social Change - publisher & training provider 
-
 Publishers and training provider for the voluntary sector

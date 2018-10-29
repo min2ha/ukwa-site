@@ -11,6 +11,4 @@
   "subject": "Live Art"
 }
 
-# Curious
-
 They call their company "curious" because what drives them as artists is an intense curiosity about the world in which they live.

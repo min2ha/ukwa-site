@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# PSA Sport Politics (@PSAsportpol) on Twitter
-
 Official page for The Political Studies Association's Sport and Politics Study Group. 

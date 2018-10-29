@@ -10,6 +10,4 @@
   "start_date": "2018-03-13T09:00:00Z"
 }
 
-# John Ross Memorial Church for Deaf People 
-
 Site of a Church of Scotland church in Glasgow.

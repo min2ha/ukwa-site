@@ -10,6 +10,4 @@
   "start_date": "2018-02-06T09:00:00Z"
 }
 
-# Oban Times (@obantimes) on Twitter
-
 Twitter account for the Oban Times and West Highland Times.

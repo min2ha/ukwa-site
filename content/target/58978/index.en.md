@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Protect The Racecourse 
-
 This is a campaign to protect the oldest international football stadium in the world and the home of Wrexham Football Club. The blog was published between 2009 and 2011.

@@ -10,6 +10,4 @@
   "start_date": "2016-08-06T10:00:00Z"
 }
 
-# Globe Gallery
-
 Established in 1995 Globe Gallery is a Not for Proﬁt organisation. 

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Newport City Church 
-

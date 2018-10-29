@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Gil Patterson MSP
-
 Gil Paterson is Scottish National Party Member of the Scottish Parliament for Clydebank and Milngavie.

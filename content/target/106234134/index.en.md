@@ -11,5 +11,3 @@
   "subject": "Cambridge Network"
 }
 
-# Cambridge Centre for Sixth-form Studies (CCSS)
-

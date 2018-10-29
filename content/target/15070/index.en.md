@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hammerwich Wildlife
-
 Comments on the wildlife, biodiversity, history and the environment concerning Hammerwich, near Lichfield, Staffordshire, U.K.

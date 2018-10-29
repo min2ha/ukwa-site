@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Clare Adamson SNP (@ClareAtheSNP) on Twitter
-
 The Twitter profile of Clare Adamson, the Scottish National Party candidate for Motherwell and Wishaw in the 2016 Scottish Parliament election.

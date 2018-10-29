@@ -11,5 +11,3 @@
   "subject": "LGBTQ+"
 }
 
-# Gay and Lesbian Youth Information Centre (GALYIC)
-

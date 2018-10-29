@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# House of Commons Library
-
 Research and analysis from impartial experts

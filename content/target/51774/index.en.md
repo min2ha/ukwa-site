@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# All Saints' Church, Blackheath
-
 Blackheath, one of the five Church of England parish churches serving Blackheath and a member of the Churches Together in Blackheath.

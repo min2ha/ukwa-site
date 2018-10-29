@@ -10,6 +10,4 @@
   "start_date": "2017-11-07T09:00:00Z"
 }
 
-# Online Social Fundraising Donation Platform
-
 Givey is the online donations platform serving the forgotten 95% of small charities, levelling the playing field and using the opportunity of mobile / social to reach new audiences. We highlight good news stories of people doing great work on the ground which is often £1 for £1 more effective and productive than large charities with huge overheads.

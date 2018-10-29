@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Clare Bentley (@ClareBentley13) on Twitter (Liberal Democrat candidate for Neath)
-

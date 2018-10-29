@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Tasha Osben (Labour Party Parliamentary Candidate for Clacton)
-
 Clacton Labour Party website during the 2017 General Election campaign

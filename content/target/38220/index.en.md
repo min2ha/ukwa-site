@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Lynn Sheridan (@LynnMSheridan) on Twitter
-
 Twitter profile of Lynn Sheridan, the Solidarity list candidate for Glasgow region in the 2016 Scottish Parilaimentary election.

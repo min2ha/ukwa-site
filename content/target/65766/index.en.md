@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords Hansard: 16th May 2018: European Union (Withdrawal) Bill
-
 The Lords debate the European Union (Withdrawal) Bill on its third reading. In this debate, Peers voted by a majority of 50 to say the government should set up a body to maintain EU environmental standards.
 

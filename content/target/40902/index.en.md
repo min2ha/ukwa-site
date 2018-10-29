@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# String Circle Fiddle Workshops
-
 Site promoting fiddle playing and providing classes on traditional fiddle playing in Scotland.

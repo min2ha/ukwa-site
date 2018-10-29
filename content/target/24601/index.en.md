@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Labour will scrap non-dom tax status as business chiefs scramble to back Tories
-
 None

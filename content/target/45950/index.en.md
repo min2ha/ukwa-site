@@ -10,6 +10,4 @@
   "start_date": "2016-10-06T10:00:00Z"
 }
 
-# Shire Hall Monmouth
-
 Shire Hall is a former Court of Assizes and Quarter Sessions in Monmouth and is a Grade I listed building.

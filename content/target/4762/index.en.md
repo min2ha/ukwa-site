@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Rhodes Trust mourns the passing of Nelson Mandela
-
 None

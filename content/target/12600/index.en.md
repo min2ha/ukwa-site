@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Alex Johnstone (alexjohnstone61) on Twitter
-
 <p>The twitter profile of Alex Johnstone, Scottish Conservative and Unionist Party Member of the Scottish Parliament for North East Scotland and candidate for Angus North and Mearns in the 2016 Scottish Parliamentary election.</p>

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Humza Yousaf MSP
-
 Humza Yousaf is Scottish National Party Member of the Scottish Parliament for Glasgow Pollok.

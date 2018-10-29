@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sharon McGonigal (@Shazza1uk) on Twitter
-
 The Twitter profile of Sharon McGonigal, the UK Independence Party (UKIP) candidate for North Ayrshire and Arran in the UK General Election on the 7th May 2015 and list candidate for West Scotland region in the 2016 Scottish Parliamentary election.

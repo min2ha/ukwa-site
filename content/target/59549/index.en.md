@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News:  How does government get out of Brexit linguistic hole?
-
 Discusses the UK Government's options for resolving the question of avoiding a hard border between the Irish Republic and Northern Ireland.

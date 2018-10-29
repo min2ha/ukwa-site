@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Alasdair Allan for Na h-Eileanan an Iar on Facebook
-
 Facebook page of Alasdair Allan, Scottish National Party candidate for Na h-Eileanan an Iar in the 2016 Scottish Parliamentary election.

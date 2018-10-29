@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Labour Football 
-
 Grassroots group promoting Labour Party values within football.

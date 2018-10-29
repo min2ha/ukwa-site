@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Eastern Green Party
-
 Website of Eastern Green Part, providing information on campaigns, how to get involved, and local and national news updates.

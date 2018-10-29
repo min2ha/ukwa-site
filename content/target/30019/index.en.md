@@ -10,6 +10,4 @@
   "start_date": "2015-08-26T10:00:00Z"
 }
 
-# Screen South
-
 Screen South is a creative development agency delivering and supporting innovative projects across screen-based media and the wider cultural and creative industries. They support film and media in the South East of the UK.

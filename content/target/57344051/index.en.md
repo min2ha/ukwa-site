@@ -11,6 +11,4 @@
   "subject": "Genetics"
 }
 
-# DNA
-
 None

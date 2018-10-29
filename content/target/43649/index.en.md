@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Arts Fundraising and Philanthropy Programme: The EU Referendum and Us: No Man is an Island
-
 The Arts Fundraising and Philanthropy Programme was formed from an Arts Council England commissioned grant to provide a collaborative series of training, traineeships, coaching, digital skills and innovative practice, improving the perceptions of the arts as a charitable cause and enhancing fundraising practice within the sector.

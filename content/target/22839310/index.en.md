@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Home Insurance Guide
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-03-29T09:00:00Z"
 }
 
-# Scottish Pilgrim Routes Forum
-
 Site of a network of organisations and individuals committed to developing routes for off-road Christian religious pilgrimage travel across Scotland.

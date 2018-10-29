@@ -10,6 +10,4 @@
   "start_date": "2016-10-29T12:00:00Z"
 }
 
-# Am Baile on Facebook
-
 Am Baile Facebook

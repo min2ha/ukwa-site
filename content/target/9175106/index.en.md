@@ -11,6 +11,4 @@
   "subject": "Children's Websites"
 }
 
-# Paul Cookson - Poet Performer Book Editor
-
 None

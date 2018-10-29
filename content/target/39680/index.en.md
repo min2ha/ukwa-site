@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Respect: Where Do I Come From? Memories of World War One
-
 Project using existing materials - newspaper articles, diary extracts and photographs - as well as published works, to devise a Theatre in Education interactive performance for schools in Salford.

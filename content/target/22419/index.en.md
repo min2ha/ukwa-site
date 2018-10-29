@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Green leader Natalie Bennett suggests the monarchy should be abolished
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Europe Direct - Wrexham
-
 Europe Direct Wrexham is an information resource for the public on all matters relating to the European Union. It is based in Wrexham.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Kettillonia: New Scottish Writing
-
 Kettillonia is a publisher of pamphlets based in Angus, Scotland.

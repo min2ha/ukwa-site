@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Destiny Church Glasgow
-
 Site of a Christian church and congregation in Glasgow.

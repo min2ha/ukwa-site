@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# British Overseas NGOs for Development:  Bond - For International Development
-
 Bond is the UK membership body for organisations working in international development or supporting those that do through funding, research, training and other services.

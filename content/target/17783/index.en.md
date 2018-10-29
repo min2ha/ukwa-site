@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ant and Dec criticise Labour and Ed Miliband
-
 None

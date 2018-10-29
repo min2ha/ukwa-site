@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: http://www.express.co.uk/comment/columnists/leo-mckinstry/629233/Leo-McKinstry-comment-William-Hague
-
 Column by Leo McKinstry

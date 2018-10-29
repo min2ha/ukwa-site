@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Childminding Forum
-
 An online forum for Registered Childminders, providing help and advice on all aspects of childminding

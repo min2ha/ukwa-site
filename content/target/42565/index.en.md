@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: This is what the EU economy will look like in 30 years' time – and it's not a pretty picture
-

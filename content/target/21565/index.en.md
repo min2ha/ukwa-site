@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Was Cameron's third term answer 'disaster' or 'honest reply'
-
 None

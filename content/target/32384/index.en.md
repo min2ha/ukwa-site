@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Ensemble Cymru
-
 Ensemble in classical music is a group of musicians which is too small to be called an orchestra. Ensemble Cymru performs in groups numbering between one and twenty musicians.

@@ -11,6 +11,4 @@
   "subject": "Housing and Social Housing"
 }
 
-# Grenfell Legal Support : Fostering collaboration and community through access to justice.
-
 Grenfell Legal Support (GLS) are a voluntary liaison service between those affected by the Grenfell fire and legal representatives, ensuring they have proper access to justice. We are assisting those affected in terms of highlighting their rights and entitlements, we are observing the legal process and ensuring those affected are treated with respect. 

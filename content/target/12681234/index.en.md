@@ -11,6 +11,4 @@
   "subject": "Canada UK"
 }
 
-# British Association for Canadian Studies (BACS)
-
 None

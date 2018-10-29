@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# XS Malarkey Comedy Club
-
 Website for the XS Malarkey Comedy Club in Manchester.

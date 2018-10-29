@@ -10,6 +10,4 @@
   "start_date": "2016-05-20T10:00:00Z"
 }
 
-# Outer Hebrides Fauna
-
 Site documenting and describing the animal life of the Western Isles of Scotland

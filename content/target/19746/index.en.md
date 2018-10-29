@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Miller (@Paul_Miller268) on Twitter
-
 Labour Parliamentary Candidate for Preseli Pembrokeshire 2015.

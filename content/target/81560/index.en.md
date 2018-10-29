@@ -10,6 +10,4 @@
   "start_date": "2018-10-17T09:00:00Z"
 }
 
-# Andrew Lewis Composer
-
 Andrew Lewis is a composer of orchestral and chamber works based in North Wales. He is also a Professor of Compositions at Bangor University.

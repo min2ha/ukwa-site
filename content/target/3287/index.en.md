@@ -10,6 +10,4 @@
   "start_date": "2013-10-01T00:00:00Z"
 }
 
-# Faber Music: Digital 
-
 <p>Digital music section of Faber Music website</p>

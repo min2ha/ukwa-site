@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Clan Wood Society
-
 Site of a family society associated with the Scottish name Wood.

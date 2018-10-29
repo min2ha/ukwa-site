@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# IWRFC (@iwrfc) on Twitter
-
 The official Twitter account of Isle of Wight Rugby Club, established 1924.

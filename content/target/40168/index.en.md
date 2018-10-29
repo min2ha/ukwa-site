@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Oxford City Council
-
 The website of Oxford City District Council offers information on local services, news, consultations, committee meeting agendas and minutes, and budgets and spending

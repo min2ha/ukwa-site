@@ -10,6 +10,4 @@
   "start_date": "2016-01-13T09:00:00Z"
 }
 
-# Anglo-Ecuadorian Society, The
-
 The Society aims to promote close and friendly relations between Ecuador and the United Kingdom. 

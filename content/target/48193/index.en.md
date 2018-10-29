@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Access to single market 'not on sale'
-
 The UK will be unable to buy privileged access to the single market after it leaves the EU, says one of the top UK officials to have worked in Brussels.

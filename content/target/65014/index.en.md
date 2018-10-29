@@ -10,6 +10,4 @@
   "start_date": "2018-05-01T09:00:00Z"
 }
 
-# Knucklas Castle Community Land Project 
-
 Knucklas Castle Community Land Project is a mutual organisation, set up with community shareholding to conserve the local environment and preserve and promote the Knucklas Castle monument.

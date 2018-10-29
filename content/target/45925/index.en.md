@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Jews sans frontières: An Anti-Zionist blog - browsing the media
-
 Anti-zionist blog linked to Twitter account with profile statement: Palestine is the moral question of our time. Honesty is the best policy. Ethnic cleansing is the worst.

@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# Professional Publishers Association (PPA): General Election 2017: Why is it happening and what does it mean?
-
 Prime Minister Theresa May delivered a post-Easter shock on April 18 2017 when she announced she would be calling for a General Election on June 8 - just two years after Britain last went to the polls. Owen Meredith, PPA's Director of External Affairs, explains why it's happening and where the battle lines will be drawn.
 

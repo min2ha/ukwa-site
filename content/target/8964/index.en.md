@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Emily Sarsfield Ski Cross Athlete
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2016-12-30T09:00:00Z"
 }
 
-# Community Foundation for Northern Ireland
-
 Community Foundation for Northern Ireland has been connecting people who care to causes that matter for over 35 years. Their website showcases the important work taking place throughout Northern Ireland to reduce poverty and exclusion amongst the most disadvantaged in our society and to make our country a more inclusive, peaceful and equitable society.

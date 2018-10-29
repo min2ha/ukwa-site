@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: 'Reform? No, we've achieved NOTHING!' Iain Duncan Smith feels a sense of deja vu about this EU debate   
-

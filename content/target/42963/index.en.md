@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Scottish Association for Country Sports
-
 Site of an association working in the interests of its members, mainly participants in traditional country sports - shooting, fishing, hunting, stalking and working dogs.

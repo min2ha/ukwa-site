@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Fergus Ewing MSP (@FergusEwingSNP) on Twitter
-
 The Twitter profile of Fergus Ewing, the Scottish National Party candidate for Inverness and Nairn in the 2016 Scottish Parliament election.

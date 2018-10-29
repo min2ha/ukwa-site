@@ -10,6 +10,4 @@
   "start_date": "2018-10-03T09:00:00Z"
 }
 
-# James Roose-Evans
-
 James Roose-Evans is a theatre director. He founded the Hampstead Theatre in London, and the Bleddfa Centre for the Creative Spirit in Wales.

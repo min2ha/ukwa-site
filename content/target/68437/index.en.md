@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Conservative Home:  There is no point in stopping Brexit unless we also join the Euro
-
 Argues that the city of London cannot survive as a global financial centre outside of the EU. To maintain its dominance, Britain would need to remain in the EU and join the eurozone.

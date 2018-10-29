@@ -11,6 +11,4 @@
   "subject": "Queen's Diamond Jubilee, 2012"
 }
 
-# Royal Society of St. George, The
-
 The Royal Society of St. George is an association promoting English heritage, history and traditions.

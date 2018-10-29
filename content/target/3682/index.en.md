@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shetland News
-
 None

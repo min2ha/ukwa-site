@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Euros Lyn
-
 Euros Lyn is a Welsh Television Director.

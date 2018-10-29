@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Côr Seingar.
-
 Côr Seingar is a mixed choir based in Carmarthen.

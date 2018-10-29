@@ -10,6 +10,4 @@
   "start_date": "2014-08-01T08:00:00Z"
 }
 
-# Postal Voting
-
 None

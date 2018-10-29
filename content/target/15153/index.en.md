@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Mitcham Cricket Green Community and Heritage
-

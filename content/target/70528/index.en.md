@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Wibsey Rugby Union on Pitchero
-
 Founded 1932, Playing in Yorkshire 4NW and had a flourishing mini & junior section, occasional 2nd XV & Vets.

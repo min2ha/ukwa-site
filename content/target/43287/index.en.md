@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Worker's Liberty
-
 Blog of Trotskyist Party, Worker's Liberty

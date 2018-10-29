@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leyton Orient Supporters Club
-
 Website of a fanclub of Leyton Orient Supporters Club, a football club.

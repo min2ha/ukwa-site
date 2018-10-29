@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Rory Warlow Skeet Shooter
-

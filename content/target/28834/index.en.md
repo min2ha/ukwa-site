@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# Doug McNeall's Blog
-
 Doug McNeall is a climate scientist and statistician at the Met Office Hadley Centre, UK. 

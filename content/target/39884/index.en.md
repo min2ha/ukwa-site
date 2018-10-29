@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Michael Gove’s Brexit blackmail would fail - as soon as we left, the EU would unite against Britain
-

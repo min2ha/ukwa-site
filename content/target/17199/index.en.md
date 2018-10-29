@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Voice: Al Sharpton: 'Blacks not voting is lazy and ungrateful'
-
 None

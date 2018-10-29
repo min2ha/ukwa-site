@@ -10,6 +10,4 @@
   "start_date": "2015-10-10T10:00:00Z"
 }
 
-# Elvis Costello
-
 Elvis Costello is an English musician, singer-songwriter and record producer. 

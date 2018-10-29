@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rutherglen and Cambuslang SNP (@RutherglenSNP) on Twitter
-
 Twitter profile of the branch of the Scottish National party (SNP) covering Rutherglen, Cambuslang, Halfway and Blantyre.

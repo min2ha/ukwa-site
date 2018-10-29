@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Election TV debate: David Cameron vs Ed Miliband – who was the winner?
-
 None

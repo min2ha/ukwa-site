@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Presbytery of Shetland on Facebook
-
 Site of the Church of Scotland prebytery for Shetland.

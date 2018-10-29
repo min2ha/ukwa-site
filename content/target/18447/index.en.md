@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Hitting the streets of Cardiff in search of missing voters
-
 None

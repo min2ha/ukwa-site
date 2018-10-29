@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Nick Clegg given '2 out of 10' rating by his likely successor as Liberal Democrat leader 
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: David Cameron 'accepts single multi-party TV debate offer'
-
 None

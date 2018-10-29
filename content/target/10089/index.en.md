@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# YouGov: What the world thinks 
-
 <p>YouGov provides opinion polling and other survey data relating to consumer behaviour and public opinion. It's research is based on a panel of 400,000 volunteers. The website provides news, information on regsitering, and an archive of past polls.</p>

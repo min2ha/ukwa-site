@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Stephen Crabb (@crabb4PM) on Twitter (Conservative MP for Preseli Pembrokeshire)
-
 Campaign Twitter account promoting Stephen Crabb's bid to be elected as Conservative Party leader following the resignation of David Cameron as prime minister in June 2016.

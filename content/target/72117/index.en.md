@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Glan Clwyd Hossana-Link
-
 The Glan Clwyd-Hossana link (Ethiopia Link) is a partnership between Glan Clwyd hospital and Hossana hospital in Southern Ethiopia. An offshoot Eye link has been established, as well as a Primary Care link. 

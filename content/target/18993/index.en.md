@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Blackmore Vale Magazine: Salisbury in Lonely Planet's top 10 cities in the world
-

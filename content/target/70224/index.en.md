@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# UUJ FC Jordanstown (@UUJ_FC) on Twitter
-
 The official Twitter account of University of Ulster Jordanstown FC. UUJ FC play in the Northern Amateur Football League in Northern Ireland.

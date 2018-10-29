@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Official website of the British Monarchy: Statement following the death of Nelson Mandela
-
 <p>Text of the statement issued by the press secretary to the Queen following the death of Nelson Mandela.</p>

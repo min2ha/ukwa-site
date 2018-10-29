@@ -10,6 +10,4 @@
   "start_date": "2017-01-25T09:00:00Z"
 }
 
-# Rock Choir
-
 Rock Choir was started in Farnham, Surrey in 2005 by musician and singer, Caroline Redman Lusher. 

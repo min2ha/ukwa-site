@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband rejects Phillip Schofield's 'Mr Bean' analogy
-
 None

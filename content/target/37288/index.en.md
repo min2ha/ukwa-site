@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: EU referendum: Watchdog urges changes to question
-
 Website of the BBC News Service

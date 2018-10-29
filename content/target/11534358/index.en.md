@@ -11,6 +11,4 @@
   "subject": "Northern Ireland"
 }
 
-# Sion Mills Buildings Preservation Trust
-
 None

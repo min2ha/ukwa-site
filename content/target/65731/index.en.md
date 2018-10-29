@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Denholm Wilhelmsen Limited
-
 Denholm Wilhelmsen Limited is a provider of port and marine services. Denholm Wilhelmsen Limited operates as a subsidiary of Denholm Global Logistics Limited, part of the Denholm Group.

@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# Bws Arfordir Llŷn | Llŷn Coastal Bus
-
 Bus service of the Llyn Peninsula in Gwynedd.

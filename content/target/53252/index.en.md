@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Royal Society for the Protection of Birds (RSPB), The: The General Election: what nature needs
-
 This blog post summarises the issues the RSPB would like to see featured in party manifestos for the 2017 general election.

@@ -10,6 +10,4 @@
   "start_date": "2016-05-27T10:00:00Z"
 }
 
-# Remade in Edinburgh
-
 Site of a social enterprise based in Edinburgh teaching repair skills campaigning for goods to be built to last. 

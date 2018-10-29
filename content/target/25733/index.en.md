@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Women and ethnic minority voters power Labour's lead in London
-
 None

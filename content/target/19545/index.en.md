@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Western Gazette: Magna Carta on the move at Salisbury Cathedral
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kensington and Chelsea Health and Wellbeing Board
-
 None

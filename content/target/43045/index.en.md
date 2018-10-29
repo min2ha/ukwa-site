@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Praying it will work? Chancellor plotting 'punishment' Budget with THREAT 'to add 2p to income tax' and increase death duty, booze and fuel costs    
-

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Sir John Major attacks Johnson and Gove’s ‘squalid’ campaign as Cameron joins Harman onstage for Remain
-

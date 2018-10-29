@@ -10,6 +10,4 @@
   "start_date": "2018-09-25T09:00:00Z"
 }
 
-# Royal Irish Academy, The (RIA)
-
 The royal irish academy is ireland's leading body of experts in the sciences and humanities.

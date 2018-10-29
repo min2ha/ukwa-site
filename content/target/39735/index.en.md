@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# United Kingdom Independence Party (UKIP) Scotland on Facebook
-

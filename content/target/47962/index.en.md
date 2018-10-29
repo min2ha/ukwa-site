@@ -10,6 +10,4 @@
   "start_date": "2016-12-28T09:00:00Z"
 }
 
-# Mind in Flux: disability and mental health
-
 This site is an attempt to keep on top of the many changes happening to welfare and services, and how they are affecting people with disabilities and mental health problems.

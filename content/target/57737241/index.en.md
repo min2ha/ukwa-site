@@ -11,5 +11,3 @@
   "subject": "Children's Websites"
 }
 
-# BBC Cymru - Addysg - Y Goeden Greu
-

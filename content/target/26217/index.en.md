@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Centre for Local Economic Strategies: CLES Manifesto for Local Economies charts a more socially just future
-
 Centre for Local Economic Strategies (CLES) is an independent charitable research and member organisation, with a focus on economic development, regeneration and place-making.

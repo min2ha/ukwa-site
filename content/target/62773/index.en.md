@@ -10,6 +10,4 @@
   "start_date": "2018-03-17T09:00:00Z"
 }
 
-# Berkmann Wine Cellars
-
 Berkmann Wine Cellars is an independent agent/wholesaler. We supply the country's restaurants and retailers with an unbeatable range, from household names like Duboeuf and Antinori to the most recherché small producers.

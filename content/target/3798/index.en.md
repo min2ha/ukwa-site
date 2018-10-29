@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Weston Mercury, The
-
 None

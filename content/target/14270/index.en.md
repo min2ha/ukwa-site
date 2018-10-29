@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Pride's Purge: an irreverent look at UK politics
-
 UK politics and UK media blog

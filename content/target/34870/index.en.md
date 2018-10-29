@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Churchill Archive
-
 Published in October 2012 by Bloomsbury Publishing in collaboration with the Churchill Archives Centre, the Churchill Archive is a digital library of modern international history. It includes more than 800,000 pages of original documents, produced between 1874 and 1965, ranging from Winston S. Churchill’s personal correspondence to his official exchanges with kings, presidents, politicians, and military leaders. 

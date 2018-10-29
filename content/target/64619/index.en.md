@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Robert Pugh Antiques
-
 Robert Pugh is a collector of Welsh Pottery, particularly Llanelly Pottery, and a well known authority, publishing two books, on the subject. He is also an antique dealer of Welsh interest, Wales pottery and other ceramics, decorative objects, pictures, occasional furniture and quirky, unusual artefacts.

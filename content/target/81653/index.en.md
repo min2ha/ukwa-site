@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: PETER OBORNE: He's calling for a mutiny but if former Brexit Secretary David Davis had done his job we might not be in this mess
-
 David Davis has called for a revolt against Theresa May. As we reach the Brexit negotiations endgame, she  – and, more importantly, the British people – deserve better than to be subjected to the flouncing egotism of David Davis who palpably failed in his job to secure us an orderly and proper break from the European Union.
 

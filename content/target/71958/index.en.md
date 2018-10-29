@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# See Me: Everything you need to tackle mental health stigma
-
 Mental health campaign resource pack for information and participation in online campaigns launched by See Me, a national project in Scotland.

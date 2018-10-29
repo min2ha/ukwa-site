@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Trinity Mirror's regional papers launch My Manifesto election project
-
 None

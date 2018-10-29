@@ -10,6 +10,4 @@
   "start_date": "2017-03-22T00:00:00Z"
 }
 
-# Muddle Families, The
-
 A family history website that was developed by Derek Miller. He passed away in 2016 and the website will no longer be updated.

@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Independent, The: From regal Runnymede you'll find more majesty along the Thames
-

@@ -11,6 +11,4 @@
   "subject": "Grenfell Tower Fire"
 }
 
-# Open Letter: Cancel KPMG Appointment as Advisors to Grenfell Tower Inquiry
-
 Research for Action is a workers’ co-operative producing research to support social, economic and environmental justice; this webpage is an open letter calling for the cancellation of the KPMG appointment as Advisors to the Grenfell Tower Inquiry.

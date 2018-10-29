@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Citywire
-
 A business news site for industry specialists in banking.

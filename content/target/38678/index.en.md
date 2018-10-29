@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Angela Boyd Moohan | 4 Linlithgow
-
 Angela Boyd Moohan is the Scottish Labour candidate for Linlithgow in the 2016 Scottish Parliamentary election.

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Allen&Overy: What are the potential legal consequences of Brexit? 
-
 Legal news published by  Allen  & Overy, a British legal firm. Contains links to papers written by the firm on the legal impact of the EU referendum.

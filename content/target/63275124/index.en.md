@@ -11,5 +11,3 @@
   "subject": "Hampshire Collection"
 }
 
-# History In Portsmouth
-

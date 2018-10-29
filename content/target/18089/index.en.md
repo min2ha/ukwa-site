@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Blair gives £106k for Ed's poll battle
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leatherhead Football Club
-
 Leatherhead Football Club, member of the Bostik League Premier Division.

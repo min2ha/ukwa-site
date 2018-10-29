@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory housing association right-to-buy policy attacked by big business
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Religion in Numbers (BRIN)
-
 None

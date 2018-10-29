@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# International Association for Fire Safety Science (IAFSS), The
-
 The International Association for Fire Safety Science (IAFSS) was founded with the primary objective of encouraging research into the science of preventing and mitigating the adverse effects of fires and of providing a forum for presenting the results of such research.

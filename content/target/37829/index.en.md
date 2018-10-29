@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: Brussels attacks: Would the UK really be safer outside the EU?
-

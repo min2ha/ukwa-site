@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Hodges' Model: Welcome to the QUAD
-
 <p>This blog is associated with Hodges' model a generic conceptual framework developed in the NW England, originally at Manchester Metropolitan University.</p>

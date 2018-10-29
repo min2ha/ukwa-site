@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Heythrop College, University of London
-
 Official website of the Heythrop College, University of London.

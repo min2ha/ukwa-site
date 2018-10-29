@@ -10,6 +10,4 @@
   "start_date": "2015-07-25T10:00:00Z"
 }
 
-# International Clematis Society
-
 The mission of the Society is to stimulate international cooperation and understanding of the cultivation of the genus clematis for the education of the members and the world-wide gardening community. The Society was formed in 1984 by Raymond Evison.

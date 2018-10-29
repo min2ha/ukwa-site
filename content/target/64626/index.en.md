@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# Kogan Page Ltd. (Publisher's Website)
-
 Website of the business and professional publishers Kogan Page

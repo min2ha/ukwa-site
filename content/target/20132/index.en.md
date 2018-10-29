@@ -10,6 +10,4 @@
   "start_date": "2015-03-31T09:00:00Z"
 }
 
-# International Association of the Engineering Modelling, Analysis and Simulation Community (NAFEMS)
-
 The International Association for the Engineering Modelling, Analysis and Simulation Community (NAFEMS) is a not-for-profit organisation which was established in 1983. Their principal aim is to improve the professional status of all persons engaged in the use of engineering simulation.

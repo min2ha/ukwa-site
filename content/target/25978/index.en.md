@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour will take Britain back to 'nasty 1970s', says Boris Johnson
-
 None

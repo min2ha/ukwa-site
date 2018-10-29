@@ -11,8 +11,6 @@
   "subject": "Food Archive"
 }
 
-# Food Active
-
 FOOD ACTIVE is a collaborative programme launched by the North West Directors of Public Health in November 2013 to tackle increasing levels of obesity.
 
 They are a formal NW task force that has been established with aims to:

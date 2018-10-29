@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Uddingston Rugby Football Club
-
 Site of a Scottish rugby union football club based in Uddingston, South Lanarkshire.

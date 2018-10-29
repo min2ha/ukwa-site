@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Anne’s Parish Church, St. Anne’s on Sea
-
 The parish of St Anne, Heyhouses on Sea, was formed out of the ancient parish of St Cuthbert, Lytham in the 1870s. The daughter church of St Anne was given that part of the St Cuthbert's parish north and west of Smithy Lane and North Houses Lane.

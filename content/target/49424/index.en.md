@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Guilsfield FC | CPD Cegidfa
-

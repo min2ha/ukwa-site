@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Birchgrove WI
-
 Birchgrove WI, an energetic multigenerational Women's Institute in north Cardiff.

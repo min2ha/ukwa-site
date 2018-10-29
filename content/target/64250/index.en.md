@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Richie Allen: Brexit - Remoaners Launch New Million Pound Campaign to Keep the UK in the EU
-
 Argues that hat the establishment and its puppet media have worked relentlessly to undermine the result of the vote to leave the EU

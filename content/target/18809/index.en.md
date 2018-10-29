@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Kent Online: Half term school holiday events in Kent, February 2015
-

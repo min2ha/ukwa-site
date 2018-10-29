@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: This is the speech Theresa May should have the courage to give
-

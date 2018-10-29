@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# London Stock Exchange Group plc
-
 The London Stock Exchange Group plc is a British-based stock exchange and financial information company. It owns the Borsa Italiana, MillenniumIT, Russell Investments, FTSE International, Exactpro, majority stake in LCH, majority stake in MTS and the London Stock Exchange.

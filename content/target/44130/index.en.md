@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# LACA statement on the EU Referendum result
-
 Libraries and Archives Copyright Alliance (LACA) statement on EU Referendum result published on the CILIP website.

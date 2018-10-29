@@ -10,6 +10,4 @@
   "start_date": "2017-02-11T09:00:00Z"
 }
 
-# Cowbridge Physic Garden
-
 During the latter part of the twentieth century, Cowbridge Physic Garden had  become badly overgrown. In 2004, with a group of volunteers the Physic Garden has been re-developed.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Ebenezer Evangelical Church, Pontnewydd
-

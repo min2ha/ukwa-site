@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Agriculture & Horticulture Development Board (AHDB): Brexit  
-

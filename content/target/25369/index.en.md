@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ben Jennings on the Tory inheritance tax plan – cartoon
-
 None

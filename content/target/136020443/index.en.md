@@ -11,5 +11,3 @@
   "subject": "Blogs"
 }
 
-# British Library Blogs: UK Web Archive
-

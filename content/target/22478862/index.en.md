@@ -11,6 +11,4 @@
   "subject": "English Language"
 }
 
-# David Crystal
-
 None

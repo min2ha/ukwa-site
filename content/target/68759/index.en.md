@@ -10,8 +10,6 @@
   "start_date": "2018-07-12T09:00:00Z"
 }
 
-# Homerton 250
-
 Celebrating 250 years of free-thinking education
 
 Cambridge is a fabulous place to be, with eight major arts festivals, a diverse population, some of the most gorgeous buildings in the world, a massive tech sector, and two big universities.

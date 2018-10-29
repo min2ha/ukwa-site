@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Welsh boxers
-
 The site celebrates Wales' boxing greats - past, present and future and is written by Sean Davies, former BBC boxing correspondent.

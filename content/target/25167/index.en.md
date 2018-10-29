@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Farage is feeling 'bouncy like Tigger' and ready for big General Election push
-
 None

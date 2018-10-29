@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Bedford Architectural, Archaeological and History Society  
-
 Bedford Architectural, Archaeological and History Society are a group of local people, from a wide variety of backgrounds, who share a common interest in the history and archaeology of Bedford and its neighbourhood. We are also actively involved in trying to ensure that Bedford's buildings of special architectural and historic interest are protected and to increase public awareness of their importance.

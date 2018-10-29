@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Yes, rightwing newspaper coverage did cause Ed Miliband's downfall
-
 None

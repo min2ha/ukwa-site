@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Bassetlaw4Europe (@bassetlaw4) on Twitter
-
 Part of the local campaign for the UK to stay in the EU

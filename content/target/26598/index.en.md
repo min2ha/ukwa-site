@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: If you want more accurate polls, stop shaming shy Tories
-
 None

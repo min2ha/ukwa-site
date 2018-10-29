@@ -10,6 +10,4 @@
   "start_date": "2015-10-16T10:00:00Z"
 }
 
-# Cymru Gynnes | Warm Wales
-
 Warm Wales is a Community Interest Companies (CIC) work closely with the public and private sectors to maximise funding opportunities which enable individual and area wide energy efficiency schemes.

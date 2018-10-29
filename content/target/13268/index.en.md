@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Walsall Advertiser: Silence will fall as Walsall commemorates First World War centenary 
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2015-12-17T09:00:00Z"
 }
 
-# Orkney Communities
-
 Portal for information about community interest groups in Orkney

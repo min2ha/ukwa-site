@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Neil Rosser
-
 Neil Rosser is from the Swansea Valley. His songs are rather unique in the world of Welsh language rock in that they almost invariably reflect the life and people of Swansea.

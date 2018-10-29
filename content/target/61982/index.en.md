@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Birmingham City L.F.C.
-
 Birmingham City Ladies F.C. is an English women's football club affiliated with Birmingham City F.C.. As founding members of the FA Women's Super League in 2011.

@@ -10,5 +10,3 @@
   "start_date": "2008-07-29T00:00:00Z"
 }
 
-# British Empire & Commonwealth Museum, The
-

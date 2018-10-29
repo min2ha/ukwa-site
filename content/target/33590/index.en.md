@@ -10,5 +10,3 @@
   "start_date": "2015-12-21T09:00:00Z"
 }
 
-# Andy Hayler's Restaurant Guide
-

@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# In Facts (@InFactsOrg) on Twitter
-
 Campaigning for the UK to stay in the EU

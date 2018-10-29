@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# EU Law Analysis: A Renaissance of the Brexit talks? Theresa May’s Florence speech
-
 Argues that the Prime Minister's Florence speech delivered in September 2017 makes it somewhat more likely – but still far from certain – that there will be a conclusion to the Brexit talks, with no immediate ‘cliff edge’ for either side on Brexit Day

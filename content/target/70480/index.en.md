@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# ISKCON Aberdeen on Facebook
-
 Facebook page of the Aberdeen branch of the International Society for Krishna Consciousness (ISKCON), related to the Hindu faith. 

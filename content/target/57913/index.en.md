@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# #Mod2017 on Twitter
-

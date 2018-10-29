@@ -11,5 +11,3 @@
   "subject": "19th Century English Literature"
 }
 
-# Corvey Women Writers on the Web (CW3)
-

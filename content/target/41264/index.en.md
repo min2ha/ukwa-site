@@ -10,5 +10,3 @@
   "start_date": "2016-05-19T10:00:00Z"
 }
 
-# Draethen, Waterloo & Rudry Community Council
-

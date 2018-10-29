@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Mike MacKenzie MSP (MMacKenzieMSP) on Twitter
-
 <p>The twitter profile of Mike MacKenzie, the Scottish National Party Member of the Scottish Parliament for the Highlands and Islands.</p>

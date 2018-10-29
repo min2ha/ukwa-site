@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff City Community & Education Foundation (The Foundation) 
-
 Cardiff City Community & Education Foundation (The Foundation) are an independent charity aligned to Cardiff City Football Club. They play a central role in improving lives and providing sport and educational opportunities, irrespective of age, ability or gender.

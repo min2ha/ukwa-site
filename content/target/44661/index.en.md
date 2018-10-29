@@ -10,6 +10,4 @@
   "start_date": "2016-07-28T10:00:00Z"
 }
 
-# CILIP in Wales
-
 Blog from CILIP Wales written between 2012 and 2014.

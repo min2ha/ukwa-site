@@ -10,6 +10,4 @@
   "start_date": "2018-02-14T09:00:00Z"
 }
 
-# One You Haringey
-
 One You Haringey is a health and lifestyle advice provider that run by REED Momenta and funded by Haringey Council.

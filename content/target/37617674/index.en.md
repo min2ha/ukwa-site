@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Witney Conservatives and Rt.Hon. David Cameron
-
 Website of Witney Conservatives and Rt.Hon. David Cameron, providing information on association officers and staff, county and county councillors and MPs, events, and local news, national news and opinion.

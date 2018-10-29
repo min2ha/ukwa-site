@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# UK Wallball (@ukwallball) on Twitter
-
 UK Wallball is the national governing body for wallball in the UK. 

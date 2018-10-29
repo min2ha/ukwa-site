@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Baillieston St. Andrew's
-
 Site of a Church of Scotland parish church at Ballieston, Glasgow.

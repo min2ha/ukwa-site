@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Huffington Post, The: Britain Heading Towards ‘Hard Brexit’ With Theresa May’s Curbs On EU Migrants, New Report Predicts
-
 A think tank resleased a report predicting how Thresa May will lead the Brexit negotiations. 

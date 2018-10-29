@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Oxford Student, The: EU
-
 Articles in the Oxford Student, a newspaper published by Oxford University Student Union, on the EU.

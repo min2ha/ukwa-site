@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-#  Business Services Association: General Election 2017 Manifesto
-
 The Business Services Association urges that the new government invests in upgrading the UK’s digital infrastructure. Better Wi-Fi and high-speed broadband coverage would lead to immediate economic gains for UK plc. Improvements to local transport infrastructure will enable key cities to function as interlinked economies, pooling labour and expertise and opening up opportunities. Targeting journeys of less than 30 minutes will make the biggest gains.

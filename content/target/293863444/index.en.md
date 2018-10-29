@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# St Fagans Community Council
-
 <p>The community council website for St Fagan's near Cardiff.</p>

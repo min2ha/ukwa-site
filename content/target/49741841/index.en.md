@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Fabulous Dirt Sisters, The
-
 None

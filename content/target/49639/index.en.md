@@ -10,6 +10,4 @@
   "start_date": "2017-02-22T09:00:00Z"
 }
 
-# Woodknowledge Wales
-
 Woodknowledge Wales champion the development of wood-based industries in Wales to benefit the economy, the environment and the people of Wales.

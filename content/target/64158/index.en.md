@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Feminist Fightback (@femfight)  on Twitter
-
 Anti-capitalist feminist collective.

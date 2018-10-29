@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Exeter Working Papers in Book History
-
 The earlier Exeter Working Papers originally appeared as limited issue publications from the 1970s to the 1990s. In a revised form they were subsequently included on the website of Devon Library Services. They were migrated to the present website in 2005 where the information is constantly being updated and extended. 

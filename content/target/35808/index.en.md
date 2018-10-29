@@ -10,6 +10,4 @@
   "start_date": "2016-02-23T09:00:00Z"
 }
 
-# ManKind Initiative
-
 The ManKind Initiative is a national charity (registered in 2001) providing help and support for male victims of domestic abuse and domestic violence. We employ two members of part-time staff to operate the help-line and rely on a small team of volunteers to run the charity. 

@@ -10,6 +10,4 @@
   "start_date": "2017-05-04T09:00:00Z"
 }
 
-# Classical Music Artists (CMA)
-
 Classical Music Artists aims to be the most reliable and up-to-date source of representational and management information for classical musicians around the world.

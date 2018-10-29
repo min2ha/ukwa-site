@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T11:00:00Z"
 }
 
-# Cambrian Medieval Celtic Studies (CMCS) Publications
-
 Cambrian Medieval Celtic Studies (CMCS) Publications specialises in works related to the discipline of Celtic Studies and publish Cambrian Medieval Celtic Studies (CMCS), a bi-annual, peer-reviewed academic journal.

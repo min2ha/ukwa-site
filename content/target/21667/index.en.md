@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Farage 'deeply shocked' over expenses fraud claim involving Ukip MEP
-
 None

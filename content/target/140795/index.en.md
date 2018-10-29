@@ -10,5 +10,3 @@
   "start_date": "2016-09-15T11:00:00Z"
 }
 
-# Cruise Wales
-

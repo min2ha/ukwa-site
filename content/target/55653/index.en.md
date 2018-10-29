@@ -10,6 +10,4 @@
   "start_date": "2017-07-12T09:00:00Z"
 }
 
-# Slow Food Scotland
-
 A Scottish charity, part of the international Slow Food movement.

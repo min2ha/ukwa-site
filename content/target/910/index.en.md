@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wirral Community NHS Trust
-
 None

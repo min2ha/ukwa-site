@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Dan Atkinson
-
 Website for Dan Atkinson, comedian and writer.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Manchester City (@ManCity) on Twitter
-
 The official Manchester City Twitter account.

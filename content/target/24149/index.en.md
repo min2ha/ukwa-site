@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Liam Byrne admits being 'burnt with shame' at 'no money' letter
-
 None

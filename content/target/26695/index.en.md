@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Whatever impact the election has on hunger, for foodbanks it is a time for hope
-
 None

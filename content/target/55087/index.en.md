@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Umbrella Cymru
-
 Umbrella Cymru aim is to advance gender and sexual diversity, equality and inclusion across Wales. 

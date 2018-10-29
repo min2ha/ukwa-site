@@ -11,6 +11,4 @@
   "subject": "Zines and Fanzines"
 }
 
-# The Oatcake Archives: the Oatcake - Stoke City FC Fanzine
-
 Archive of selected articles from The Oatcake - Stoke City FC fanzine

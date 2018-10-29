@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Yes Scotland shared a link: 'Yes landslide' if Westminster breaks powers vow
-
 <p>Yes Scotland post link to The Scotsman article: "‘Yes landslide’ if Westminster breaks powers vow" at 4.30pm on 22nd of September, 2014.</p>

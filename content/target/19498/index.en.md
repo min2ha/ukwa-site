@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Institute of Continuing Education, University of Cambridge: King John and Magna Carta
-

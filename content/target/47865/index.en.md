@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Village of Stock in Essex, The 
-
 The website was created in 1997 by a group of local volunteers. It includes local historical information, parishioners memories, records of local activities for Stock village, Essex. 

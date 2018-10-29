@@ -10,6 +10,4 @@
   "start_date": "2007-04-26T00:00:00Z"
 }
 
-# SNP: It's time
-
 None

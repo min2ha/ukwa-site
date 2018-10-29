@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Aberdeen Labour
-
 The Aberdeen local branch of the Scottish Labour Party

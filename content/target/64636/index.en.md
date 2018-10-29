@@ -10,6 +10,4 @@
   "start_date": "2018-04-20T09:00:00Z"
 }
 
-# International Craft and Hoppy Fair Ltd. (ICHF Events)
-
 Organisers of Sewing, Hobby, Craft , Gift and Cake Shows

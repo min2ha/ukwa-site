@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Jacob Rees-Mogg launches astonishing attack on May accusing her of betraying the trust of Brexit voters as Boris Johnson prepares to make bombshell resignation speech
-

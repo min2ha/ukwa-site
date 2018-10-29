@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Generation Yes
-
 None

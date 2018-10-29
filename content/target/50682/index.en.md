@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Discover Newcastleton
-
 Site providing community and tourist information for the village of Newcastleton in the Scottish Borders [Roxburghshire].

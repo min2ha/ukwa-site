@@ -10,6 +10,4 @@
   "start_date": "2017-02-04T09:00:00Z"
 }
 
-# Kirkcudbright Gallery
-
 Site of a commerical art gallery loacted in Kirkcudbright, Dumfries and Galloway, Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2015-06-03T09:00:00Z"
 }
 
-# Regent's University London
-
 Regent's University London official website.

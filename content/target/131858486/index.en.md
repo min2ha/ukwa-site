@@ -10,5 +10,3 @@
   "start_date": "2014-09-08T00:00:00Z"
 }
 
-# Anglesey Mining
-

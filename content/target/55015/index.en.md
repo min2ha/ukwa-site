@@ -10,6 +10,4 @@
   "start_date": "2017-06-23T09:00:00Z"
 }
 
-# Colston Hall
-
 Colston Hall is Bristol’s largest concert hall, presenting concerts and entertainment by major names in rock, pop, jazz, folk, world and classical music, stand up comedy and light entertainment, as well as local choirs, orchestras and schools.

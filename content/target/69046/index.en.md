@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Premier League (@premierleague) on Twitter
-
 Official Twitter account of the English Premier League. 

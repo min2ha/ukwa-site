@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Association of Renal Industries
-
 The ARI is an industry group representing the interests of companies supplying goods and services to the renal community. 

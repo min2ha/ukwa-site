@@ -10,5 +10,3 @@
   "start_date": "2006-03-24T00:00:00Z"
 }
 
-# Department for Employment and Learning (Northern Ireland)
-

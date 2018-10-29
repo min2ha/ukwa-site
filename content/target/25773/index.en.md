@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband says Labour's £2.5bn NHS pledge is 'downpayment'
-
 None

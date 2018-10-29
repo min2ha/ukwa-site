@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Cymdeithas Treftadaeth Eglwyswrw a'r Fro | Eglwyswrw and District Heritage Society
-

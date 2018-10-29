@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# International Friendship League 
-
 The International Friendship League is a voluntary, not-for-profit organisation  which aims to enhance understanding and friendship between people of all nations

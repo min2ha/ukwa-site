@@ -10,6 +10,4 @@
   "start_date": "2016-05-10T10:00:00Z"
 }
 
-# Tipton Civic Society 
-
 The Tipton Civic Society was formed in 1988 to promote interest in the history, heritage and identity of Tipton and to campaign for higher standards of environmental quality and awareness. 

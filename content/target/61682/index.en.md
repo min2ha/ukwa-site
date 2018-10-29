@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# GAGB.org.uk
-
 The Geocaching Association of Great Britain (GAGB) is an online enthusiast community concerned with Geocaching. The website contains a forum for users to discuss the hobby and links to other social media platforms.

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Rachael Hamilton (@hotelierswife) on Twitter
-
 The Twitter profile of Rachel Hamilton, Scottish Conservative and Unionist candidate for East Lothian in the 2016 Scottish Parliament election.

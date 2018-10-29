@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Yarn Loop, The
-
 Online version of the knitting magazines: Knit Today, Simply Knitting and The Knitter.

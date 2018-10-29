@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Nigel Farage’s victory speech was a triumph of poor taste and ugliness
-

@@ -10,5 +10,3 @@
   "start_date": "2013-04-08T00:00:00Z"
 }
 
-# Victoria Welsh Society
-

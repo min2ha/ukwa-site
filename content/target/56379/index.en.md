@@ -10,6 +10,4 @@
   "start_date": "2017-08-03T09:00:00Z"
 }
 
-# My Death, My Decision
-
 My Death, My Decision is a right-to-die campaign organisation that wants to see a more compassionate approach to dying in the UK, including giving people the opportunity to have a medically assisted death if that is their considered choice (assisted dying).

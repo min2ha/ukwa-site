@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Small Motorhome Camping Forum
-
 An online enthusiast community forum concerned with Motor-home camping. Discusses campsite reviews, equipment, motor-home brands and various other related topics.,

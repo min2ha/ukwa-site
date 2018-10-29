@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# H & I Voices on Twitter
-
 A "rotational twitter" posted by people from or in the Highlands and Islands of Scotland.

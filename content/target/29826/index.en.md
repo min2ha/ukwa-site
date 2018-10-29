@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# ARfringe (@ARfringe) on Twitter
-
 Twitter account of the Assembly Rooms Fringe Festival venues in 2015.

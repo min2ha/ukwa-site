@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Appin Parish Church Facebook Page
-
 Facebook Page for a Church of Scotland parish church in Appin, Argyll and Bute.

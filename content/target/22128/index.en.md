@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Jonathan Bishop Dzon (Pluralist Party)
-
 Jonathan Bishop Dzon stood as Pluralist Party candidate for Liverpool Walton at the 2015 General Election but was not elected

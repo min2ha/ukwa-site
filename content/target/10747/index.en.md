@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Dave Nellist Socialist Party on Facebook
-
 None

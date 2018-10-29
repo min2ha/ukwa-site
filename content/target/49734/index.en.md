@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Glenaray and Inveraray Parish
-
 Website of WestLochfyneside Parish. The parish consists of two linked Parishes, Glenaray and Inveraray with Cumlodden, Lochfyneside and Lochgair. 

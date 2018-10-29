@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Taynuilt Gaelic Choir
-
 Site of a Gaelic choir based in Taynuilt, Argyll & Bute.

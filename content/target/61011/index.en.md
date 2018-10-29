@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Financial Conduct Authority: The future of the City
-
 In a speech, Chief Executive Andrew Bailey describes how the Financial Conduct Authority is preparing for Brexit

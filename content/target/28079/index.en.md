@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Frog and Bucket Comedy Club
-
 Website for the Frog and Bucket Comedy Club, a comedy venue in Manchester established in 1994.

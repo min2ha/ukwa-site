@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Labour Leave Campaign on Facebook
-
 Labour Leave Campaign's Facebook page

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Edinburgh Hindu Mandir and Cultural Centre
-
 Site of a Hindu temple and cultural centre located in Edinburgh.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Royal Albert Football Club Facebook Page
-
 Facebook page for a Scottish junior football club based in Larkhall, Lanarkshire, Scotland.

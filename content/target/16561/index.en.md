@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Tory candidate accused of dirty tricks over mansion tax letter
-
 None

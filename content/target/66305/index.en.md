@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Liberty
-
 Liberty campaigns for civil liberties and human rights in the UK

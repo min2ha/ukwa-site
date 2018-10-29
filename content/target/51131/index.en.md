@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Provident Financial plc
-
 Provident Financial plc is a British sub-prime lender, it specialises in credit cards, Home Collected Credit, online loans and consumer car finance.

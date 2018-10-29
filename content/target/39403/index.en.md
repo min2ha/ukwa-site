@@ -11,5 +11,3 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# David Meechan for Kilmarnock and Irvine Valley on Facebook
-

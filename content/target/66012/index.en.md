@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bob's Football Programmes
-
 Bob's Football Programmes is a dealer in football memorabilia.

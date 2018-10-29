@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The:  David Cameron vows to 'govern in the interests of all people' as SNP dialogue begins
-
 None

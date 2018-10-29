@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Welsh Affairs Committee (@CommonsWelshAff) on Twitter
-
 The Welsh Affairs Committee are a cross-party committee of MPs appointed by House of Commons to scrutinise the Wales Office and its relations with the Welsh Government.

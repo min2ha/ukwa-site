@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Legislating for Brexit: Directly applicable EU law
-
 Some 5,000 EU regulations apply in the UK, They largely concern technical details required by other EU legislation and are 'directly applicable' in all EU Member States - they don't (generally) need further implementation. What are these laws and what will Brexit mean for them? This Briefing Paper explains what ‘directly applicable’ EU law is, how it applies in the UK, and estimates how many EU regulations are in force. It is one of a series of Library briefings on different elements of the EU acquis and Brexit.

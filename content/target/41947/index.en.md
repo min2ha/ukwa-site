@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Hug a Brit (@pleasedontgouk) on Twitter
-
 Grassroots movement of EU citizens living in the UK and campaigning for a remain vote at the June 23rd referendum. Publishes photographs of EU citizens hugging their British friends

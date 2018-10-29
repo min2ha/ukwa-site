@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Isle of Wight RFC
-
 The official website of Isle of Wight Rugby Football Club, established 1924.

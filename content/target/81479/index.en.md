@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Glasgow HopeNotHate (@GlasgowHnH) on Twitter
-
 Official Twitter account of the HOPE not Hate Greater Glasgow group.

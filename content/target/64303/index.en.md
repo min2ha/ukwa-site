@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Parish Church of Auchtermuchty and Dunshalt
-
 Site of a Church of Scotland parish church at Auchtermuchty, Fife also covering the village of Dunshalt.

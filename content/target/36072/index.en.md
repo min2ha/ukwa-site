@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Dennis Robertson (@DRobertsonSNP) on Twitter
-
 Twitter profile of Dennis Robertson, Scottish National Party member of the Scottish Parliament for Aberdeenshire West and candidate for Aberdeenshire West in the 2016 Scottish Parliamentary election.

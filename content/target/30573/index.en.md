@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Institute of Classical Studies: School of Advanced Studies, University of London
-
 Official website of the Institute of Classical Studies, a part of the School of Advanced Study, University of London.

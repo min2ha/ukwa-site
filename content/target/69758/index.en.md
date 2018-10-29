@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexiteers lash 'deeply irresponsible' Bank of England Governor for being the 'high priest of project fear' after he sinks the pound with warning about 'uncomfortably high' risk of no deal
-

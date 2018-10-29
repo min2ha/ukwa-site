@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Wales Council for Voluntary Action (WCVA): Your resource for the 2016 Assembly Elections.
-

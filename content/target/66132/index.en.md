@@ -10,6 +10,4 @@
   "start_date": "2018-05-25T09:00:00Z"
 }
 
-# The Bhavan
-
 The Bhavan aims to preserve, encourage and propagate the teaching and understanding of Indian art and culture as an integral part of the culture of the United Kingdom.

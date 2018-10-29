@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Hay Castle Trust
-
 <p>Hay Castle is near Hay-on-Wye. The trist was formed in 2011 to preserve and develop the historic site.</p>

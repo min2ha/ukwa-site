@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# AOL (America Online) UK: Bookies expect £20m to be staked on EU referendum outcome
-
 An article discussing how the EU Referendum is creaitng an increase in betting.

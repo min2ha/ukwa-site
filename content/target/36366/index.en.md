@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: NIGEL FARAGE: It costs £55 MILLION a day to be an EU member – and for what?
-
 Comment by Nigel Farage

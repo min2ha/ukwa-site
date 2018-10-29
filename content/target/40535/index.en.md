@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Cityread London 2014
-
 Project that enables Cityread London, an annual London-wide reading campaign that aims to unite the capital over a single book every April, to campaign the WW1 book 'My Dear, I Wanted To Tell You'.

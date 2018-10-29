@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron quitting BEFORE the election could be a huge own goal for the Tories 
-
 None

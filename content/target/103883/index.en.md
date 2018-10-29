@@ -11,6 +11,4 @@
   "subject": "100 Best Sites"
 }
 
-# Institute of Welsh Affairs
-
 <p>The Institute of Welsh Affairs is an independent, membership-based think tank, dedicated to promoting the economic, social, environmental and cultural well-being of Wales.</p>

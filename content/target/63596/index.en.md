@@ -11,6 +11,4 @@
   "subject": "Stephen Hawking"
 }
 
-# Express, The : Stephen Hawking
-
 Subsection on Stephen Hawking 

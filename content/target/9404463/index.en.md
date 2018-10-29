@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Chris Joseph
-
 None

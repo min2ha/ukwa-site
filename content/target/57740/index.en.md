@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Gardeners Corner Forum
-
 An online enthusiast community concerned with gardening. Discusses tips for new gardeners, specialist gardening techniques, planting discussions, and various other topics.

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Claire Thomas (@clairepthomas) Cyclist on Twitter
-

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Spirit of Revolt: Archives of dissent, Glasgow, Scotland, elsewhere
-
 The Archive collects, manages and preserves multi-media records from Glasgow’s and Clydeside’s anarchist and libertarian-socialist past and present.

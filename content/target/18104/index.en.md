@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: David Cameron wants to overturn hunting ban if Tories win General Election
-
 None

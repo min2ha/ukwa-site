@@ -10,5 +10,3 @@
   "start_date": "2015-10-29T09:00:00Z"
 }
 
-# Out of the Blue : OOTB Arts & Education Trust
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: Missing candidate and HUNDREDS unable to vote: Is this the most shambolic election ever? 
-
 None

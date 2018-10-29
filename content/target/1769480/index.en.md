@@ -10,5 +10,3 @@
   "start_date": "2008-03-18T00:00:00Z"
 }
 
-# Ed Gold Photography
-

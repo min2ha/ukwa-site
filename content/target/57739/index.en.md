@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Coffee Forums UK
-
 An online enthusiast community comprised of coffee lovers. Discusses beans, barrista skills, coffee shops, coffee grinders, coffee machines, the coffee industry, tea and various other related topics.

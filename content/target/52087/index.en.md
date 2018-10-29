@@ -10,6 +10,4 @@
   "start_date": "2017-04-20T09:00:00Z"
 }
 
-# Codds 'n' Odds
-
 Collecting antique bottles has been a passion of Keith Morris from Caernarfon since 1975. A selection of his bottles can be found on his website.

@@ -11,6 +11,4 @@
   "subject": "Climate Change Debates"
 }
 
-# World Nuclear Association (WNA)
-
 The World Nuclear Association is the international organization that promotes nuclear energy and supports the many companies that comprise the global nuclear industry.

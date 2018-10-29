@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Helensburgh Beer & Gin Festival
-
 Site of an alcoholic beverage festival at Helensburgh, Argyll & Bute

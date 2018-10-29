@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Unfashionably Internationalist: Brexitology and campaigning from Wales
-
 'Unfashionably Internationalist: Brexitology and campaigning from Wales' is a blog by Phil Doré, a nurse working in the NHS and campaigner with Wales for Europe and European Movement Wales. The blog began in 2018.

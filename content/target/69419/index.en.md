@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Newcastle Mela
-
 Website for the Newcastle Mela, which celebrates cultural diversity. 

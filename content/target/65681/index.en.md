@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Scottish Parliament: Official Report: 15th May 2018
-
 Includes debate on the EU Withdrawal Bill leading to a vote to refuse consent to it.

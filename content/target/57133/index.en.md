@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# UK Black Asian Minority Ethnic
-
 The United Kingdom Black, Asian & Minority Ethnic (UK-BAME), currently operates an online umbrella organisation, supporting UK-BAME individuals and groups that provide networking opportunities for all… “We aspire to inspire – working together as one”.

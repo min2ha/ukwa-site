@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Bookmarks Bookshop (@Bookmarks_books) on Twitter
-
 The official Twitter account of Bookmarks Bookshop, a bookshop that specialises in socialist material. 

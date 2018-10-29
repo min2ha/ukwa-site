@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Social History Hub, The
-
 Set up Lainy Malkani and Raj Malkani, the Social History Hub is a social enterprise set up to bring different generations together to celebrate the success of ordinary people from artists, entrepreneurs, academics and writers. They share their stories and relive the moments and events that inspired them.

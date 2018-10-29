@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Clydebank & Milngavie Scottish National Party (SNP).
-
 The Clydebank & Milngavie branch of the Scottish National Party (SNP).

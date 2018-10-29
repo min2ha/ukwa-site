@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Royal Pigeon Racing Association (RPRA)
-
 Royal Pigeon Racing Association is an organisation for pigeon racing in the UK.

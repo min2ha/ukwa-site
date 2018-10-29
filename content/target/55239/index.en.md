@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Wycombe Islamic Society
-
 WISE is an organisation serving the community to promote the progress and prosperity of mankind in this life and the next by calling to the true teachings of Islam and the worship of one God (Allah). It aims to empower Muslims with the tools and confidence to live Islam, face the challenges of the modern world and make a positive, meaningful contribution to society. It provides a centre that will serve as a community hub and strives to build bridges with the wider community, promoting and strengthening social cohesion.

@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Evening Harold
-
 A satirical online news site.  

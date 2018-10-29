@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nile Wilson (@NileMW) on Twitter
-
 The twitter profile of gymnast Nile Watson, member of England's Men's Artistic team competing in the Glasgow 2014 Commonwealth Games.

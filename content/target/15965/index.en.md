@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Better Off Out 
-
 <p>Better Off Out is a cross-party campaign, putting the positive case for the United Kingdom leaving the European Union (EU). It was founded in 2006 by The Freedom Association as a response to the proposed Constitutional Treaty (reborn as the Lisbon Treaty).</p>

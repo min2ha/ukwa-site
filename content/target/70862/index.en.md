@@ -10,6 +10,4 @@
   "start_date": "2018-09-06T09:00:00Z"
 }
 
-# Teddington Rugby Club on Pitchero
-
 The official website of Teddington Rugby Club.

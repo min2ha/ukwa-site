@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: One month on, what has been the impact of the Brexit vote so far?
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Castlemilk Parish Church
-
 Site of a Church of Scotland parish church at Castlemilk, Glasgow.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK BioIndustry Association: UK Life Sciences Manifesto 2015-20
-
 The UK BioIndustry Association, the BIA, is the trade association for innovative enterprises involved in UK bioscience. Members include start-up, emerging and more established bioscience companies; pharmaceutical companies; academic, research and philanthropic organisations; and service providers to the bioscience sector.

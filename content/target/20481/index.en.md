@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Passport to post-election comedy: five days of political paralysis isn't enough 
-
 None

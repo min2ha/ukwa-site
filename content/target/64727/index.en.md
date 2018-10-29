@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# furtherfield (@furtherfield) on Twitter
-
 Furtherfield.org is an artist-led online community, arts organization and online magazine. This is their official Twitter account.

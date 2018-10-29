@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Justice for Men & Boys: 2015 General Election Manifesto
-
 Justice for Men and Boys (and the Women Who Love Them) - J4MB - is a British political party which advocates for men's and boys' rights and opposes feminism. The party was founded in 2013 and is led by retired businessman, and former Conservative Party consultant, Mike Buchanan.

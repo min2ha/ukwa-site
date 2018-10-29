@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Allan Smith (Allansmith_245) on Twitter
-
 The twitter profile of althete Allan Smith, high jumper and member of Team Scotland for the Glasgow 2014 Commonwealth Games.

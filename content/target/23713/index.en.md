@@ -10,6 +10,4 @@
   "start_date": "2015-05-12T09:00:00Z"
 }
 
-# Hafod Estate, The
-
 Hafod Uchtryd is 12 miles south-east of Aberystwyth. It was the home of Thomas Johnes (1748-1816).

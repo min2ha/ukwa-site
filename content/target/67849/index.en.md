@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Blackburn RUFC
-
 Rugby club with variety of senior, junior and mini teams. Fabulous function rooms for any occasion, with superb in-house catering.

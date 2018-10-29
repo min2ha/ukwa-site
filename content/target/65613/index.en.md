@@ -10,6 +10,4 @@
   "start_date": "2018-07-06T09:00:00Z"
 }
 
-# Cirrus Logic International (UK) Limited
-
 Cirrus Logic International (UK) Limited is a supplier of mixed signal integrated circuits. 

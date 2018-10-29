@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Nick Clegg's battle bus has trouble turning left at campaign launch
-
 None

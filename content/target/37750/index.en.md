@@ -10,6 +10,4 @@
   "start_date": "2016-03-21T09:00:00Z"
 }
 
-# VISION 2020 UK
-
 VISION 2020 UK is the umbrella organisation which leads collaboration and co-operation between organisations within the UK, which focus on vision impairment and operate on a national, regional or international basis.

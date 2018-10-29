@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Tenby Caldey Swim: Swim Open Water Sea Swim from Caldey Island to Tenby
-
 The Tenby Caldey Swim is hosted by Tenby’s Sea Swimming Association (TSSA) and is an swim that tests swimmers endurance across the Caldey Straights.

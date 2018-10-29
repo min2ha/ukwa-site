@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU Law Analysis: Brexit and EU-UK trade relations with third states 
-
 Following Brexit, the continuation of bilateral trade deals would depend on both EU and the third country trading partner and not the UK interest alone, so the position is quite the opposite of “trade relations with the rest of the world remain unchanged”.  

@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Spòrs Gàidhlig
-
 Spòrs Gàidhlig run events and activities in Gaelic for young people.

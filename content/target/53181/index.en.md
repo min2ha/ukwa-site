@@ -10,6 +10,4 @@
   "start_date": "2017-05-13T09:00:00Z"
 }
 
-# Just Giving
-
 An online fundraising platform based in the UK with campaigns from all around the world.

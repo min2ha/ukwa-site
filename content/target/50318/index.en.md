@@ -10,6 +10,4 @@
   "start_date": "2017-03-10T09:00:00Z"
 }
 
-# Dig It 2017
-
 Site of a year-long celebration of Scottish archaeology in 2017 with a programme of events from organisations across the Scotland; focusing on Scotland’s past, present and future stories.

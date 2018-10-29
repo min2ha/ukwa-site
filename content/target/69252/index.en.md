@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady of the Assumption Parish, St. Mary's, Portree and St. Maolrubha's, Broadford
-
 Site of group of Roman Catholic churches in Scotland located on Skye, Highland, namely Our Lady of the Assumption, Portree, St. Mary's Portree and St. Maolrubha's, Broadford with St. Duthac's, Dornie

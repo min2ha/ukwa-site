@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Muslim Charities Forum
-
 The Muslim Charities Forum is an umbrella organisation for Muslim-led international NGOs, based in the UK. Since its inception in 2007 we have promoted collaborative working and knowledge sharing while supporting our member organisations through advocacy, training and research.

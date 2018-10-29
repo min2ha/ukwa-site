@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# Muslim Council of Britain: Fairness not favours: British Muslim perspectives on the 2015 General Election
-

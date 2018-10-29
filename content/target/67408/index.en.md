@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Designed for Life : Building for Wales | Cynllun Oes : Adeiladu ar gyfer Cymru
-
 'Designed for Life : Building for Wales' are the NHS in Wales’s construction procurement and delivery frameworks for major capital projects with construction costs in excess of £4 million. The frameworks are managed by the NHS Wales Shared Services Partnership.

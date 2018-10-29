@@ -10,6 +10,4 @@
   "start_date": "2018-04-24T09:00:00Z"
 }
 
-# Outer Hebrides
-
 Official tourist website for the Outer Hebrides providing visitor information about sites, activities and accommodation on the islands.

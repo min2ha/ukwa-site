@@ -10,6 +10,4 @@
   "start_date": "2016-06-20T10:00:00Z"
 }
 
-# Kingsley Napley: EU Referendum Blog
-
 A blog hosted by a law firm's website providing various views on the 'Brexit' debate and discussing the effect 'Brexit' will have on Britain's legal system.

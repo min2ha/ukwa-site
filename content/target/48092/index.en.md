@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Antony, Forest Gate
-
 Official website of St. Antony, Forest Gate.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Iain 4 Inverclyde on Facebook
-
 The Facebook page of Iain McKenzie, Labour candidate for INverclyde in the UK General Election 7th May, 2015.

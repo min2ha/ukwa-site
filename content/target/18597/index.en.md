@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Gary Tapley on Facebook (Green Party candidate for Carmarthen West & South Pembrokeshire)
-
 Green Party Candidate for Carmarthen West & South Pembrokeshire Gary Tapley.

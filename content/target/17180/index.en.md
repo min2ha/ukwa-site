@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror:  David Cameron slammed after claiming he will slash £30 billion without inflicting pain
-
 None

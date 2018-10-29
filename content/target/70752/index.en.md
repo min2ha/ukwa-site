@@ -10,6 +10,4 @@
   "start_date": "2018-09-04T09:00:00Z"
 }
 
-# Tales From Wales Newsletter
-
 TalesFromWales.net is a digital magazine and a platform for self published and Indie Welsh or Wales based authors.

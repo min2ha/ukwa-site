@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# The Mix: Mental Health
-
 Sub section of a UK based site aimed at helping people under 25 understand mental health

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Asian Lite
-
 Asian Lite is a newspaper for the British Asians.

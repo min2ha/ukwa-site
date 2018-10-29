@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Charles Tannock (@CharlesTannock) on Twitter (Conservative MEP for London)
-
 Charles Tannock was elected as Conservative MEP for London in 1999. He was re-elected in 2004, 2009 and 2014. He is in favour of remaining in the EU, regarding Brexit as selfish and destructive

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Reel Politik (@ReelPolitcast) on Twitter
-
 Left-wing Twitter account supporting Jeremy Corbyn as Prime Minister

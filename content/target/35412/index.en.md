@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# London and Partners: London's Tech Scene
-
 A document presenting tech and business opportunities in London.

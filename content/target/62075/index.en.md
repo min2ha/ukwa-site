@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Macron Stadium
-
 Macron Stadium (formerly Reebok Stadium) is the home stadium of English Championship club Bolton Wanderers, and is located on the Middlebrook Retail Park, Horwich in the Metropolitan Borough of Bolton, Greater Manchester

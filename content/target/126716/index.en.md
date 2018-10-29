@@ -11,5 +11,3 @@
   "subject": "Climate Change Debates"
 }
 
-# Energy Saving Trust
-

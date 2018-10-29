@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Historic England: The Struggle for Suffrage
-
 A website that explores the histories and places that tell the story of women's suffrage and gender equality.

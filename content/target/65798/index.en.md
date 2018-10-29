@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexiteer fury as Theresa May's 'War Cabinet' agrees that Britain COULD stay in EU customs union after 2020 to avoid hard Irish border   
-

@@ -11,5 +11,3 @@
   "subject": "Live Art"
 }
 
-# Novel of Nonel and Vovel, The
-

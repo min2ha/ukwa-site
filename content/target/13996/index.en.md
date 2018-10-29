@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# conservativehome: Posts tagged: Scottish Referendum
-
 <p>Blog posts associated with the Scottish Independence referendum from ConservativeHome, the web blog of Conservative party members and supporters.</p>

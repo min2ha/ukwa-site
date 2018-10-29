@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Matt Sisson (@MattJSisson) on Twitter (Green Party candidate for Loughborough)
-

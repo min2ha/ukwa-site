@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Steeple Church, The
-
 The Steeple Church is a bible-based Church of Scotland parish located in Dundee, Scotland. 

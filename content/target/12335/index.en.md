@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Communist Party (communist_party) on Twitter
-
 The twitter profile of the Scottish Committee of the Communist Party of Britain.

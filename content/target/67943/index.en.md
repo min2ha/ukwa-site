@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Siol nan Gaidheal
-
 Site of a Scottish nationalist cultural organisation and their forum.

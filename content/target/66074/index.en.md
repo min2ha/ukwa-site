@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Abernethy Highland Games on Facebook
-
 Site of a highland games at Nethy Bridge, Highland.

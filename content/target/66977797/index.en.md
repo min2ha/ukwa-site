@@ -10,6 +10,4 @@
   "start_date": "2015-09-18T10:00:00Z"
 }
 
-# Colin Wilson World
-
 A website dedicated to Colin Wilson (1931-2013) - philosopher, critic and novelist.

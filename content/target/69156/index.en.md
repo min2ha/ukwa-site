@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 18th July 2018: Future Relationship Between the UK and the EU
-
 General debate on the White Paper on the UK's future relationship with the EU after Brexit, including the proposed facilitated customs arrangement and preparations for "no deal".

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Centre for Constitutional Law at the University of Edinburgh
-

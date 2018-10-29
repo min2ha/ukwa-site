@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# InterMediaUK
-
 InterMediaUK was set up by Creative Skillset’s LGBT employee group and Stonewall in 2012. It is an LGBT network group for people working across the media spectrum. Currently there are members from TV, film, publishing, advertising and computing. 

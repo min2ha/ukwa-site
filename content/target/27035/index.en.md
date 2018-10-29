@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# St Clair Sinclair
-
 Detailed historical and genealogical information about Sinclair families in England, Ireland, Scotland, Normandy from eleventh to twentieth centuries which is unlikely to appear in printed documentation.

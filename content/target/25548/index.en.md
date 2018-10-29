@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Clegg to lose seat and Tories to beat Farage, Ashcroft poll suggests
-
 None

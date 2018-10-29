@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ayesha Saleem on Facebook
-
 This is the Facebook page of Ayesha Saleem, the Trade Unionist and Socialist Coalition candidate for Edinburgh East in the UK General Election on the 7th May 2015.

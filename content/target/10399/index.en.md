@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Farah Nazeer, Labour on Twitter
-

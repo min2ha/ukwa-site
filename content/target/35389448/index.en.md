@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Help! I Need a Publisher!
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Cylchgronau Cymru (@welshjournals) on Twitter 
-
 Welsh Journals provides access to journals relating to Wales published between 1735-2007. This is their twitter feed.

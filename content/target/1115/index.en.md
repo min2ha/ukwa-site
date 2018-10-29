@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Independent Expert Group on Mobile Phones (IEGMP)
-
 None

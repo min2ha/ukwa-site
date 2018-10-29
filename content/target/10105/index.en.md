@@ -11,5 +11,3 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Ivana Bartoletti Labour on Twitter
-

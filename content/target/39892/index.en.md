@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-#  North East Scotland LibDems (@NEScotLibDems) on Twitter
-
 Twitter profile of the North East Scotland branch of the Scottish Liberal Democrats.

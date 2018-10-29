@@ -10,6 +10,4 @@
   "start_date": "2016-09-16T10:00:00Z"
 }
 
-# CSAD Illustration: An online hub for illustration students at Cardiff School of Art & Design
-
 This is an online hub for illustration students at Cardiff School of Art & Design at Cardiff Metropolitan University.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Kevin Brennan MP for Cardiff West
-
 MP for Cardiff West

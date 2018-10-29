@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Silver & Black UK
-
 A community for UK based Oakland Raider Fans. Setup in 2013 in readiness for the fixture at Wembley Stadium in 2014 against the Miami Dolphins. We aim to provide a long term community of fans within the United Kingdom beyond the 2014 game. The site offers membership packages to bring together the Raider Nation in the UK.

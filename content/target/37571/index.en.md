@@ -10,6 +10,4 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Western Power Distribution
-
 Western Power Distribution is an 'electricity distribution network operator for the Midlands, South West and Wales'.

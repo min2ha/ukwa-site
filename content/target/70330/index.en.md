@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# High Fell: The Cumbria Landscape Story
-
 An oral history project undertaken by Cumbria Wildlife Trust that has collected local people’s memories of Cumbria's fell landscape and its wildlife before and after WWII.

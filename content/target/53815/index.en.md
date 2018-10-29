@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Trevor Bisdee (@tbisdee) on Twitter (Green Party Politician)
-
 Trevor Bisdee stood as Green party candidate for Tunbridge Wells at the 2017 General Election but was not elected.

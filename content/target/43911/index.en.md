@@ -10,6 +10,4 @@
   "start_date": "2016-06-28T10:00:00Z"
 }
 
-# You've Been Trumped
-
 Site of a documentary film examining the development of the Trump International Golf Links at Balmedie, Aberdeenshire.

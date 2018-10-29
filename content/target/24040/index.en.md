@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election results: Clegg admits 'cruel night' for Lib Dems
-
 None

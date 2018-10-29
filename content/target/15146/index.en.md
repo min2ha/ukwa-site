@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Manchester MULE
-
 <p>MULE is a Manchester based non-profit independent media project, looking to promote social justice by getting out the news and views it is difficult to find elsewhere. Local and national coverage.</p>

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Lords European Union Committee: Brexit: Common Security and Defence Policy missions and operations
-
 The UK’s departure from the EU places a question mark over its future participation in Common Security and Defence Policy (CSDP) missions and operations. As an EU Member State, the UK has influenced the development and planning of all missions and operations, and has led the EU’s flagship anti-piracy operation, EU NAVFOR Somalia (Operation Atalanta). After Brexit, the framework for the UK to participate in these missions and operations is unclear, and subject to negotiation.
 

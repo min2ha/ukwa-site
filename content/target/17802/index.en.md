@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron: Jobless teenagers must carry out community work to get benefits
-
 None

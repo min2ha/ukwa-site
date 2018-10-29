@@ -10,6 +10,4 @@
   "start_date": "2018-06-26T09:00:00Z"
 }
 
-# Plastics Historical Society, The
-
 PHS was formed in 1986 and was first to draw attention to the heritage of the plastics industry and to celebrate all things plastic.

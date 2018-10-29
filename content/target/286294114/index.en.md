@@ -11,6 +11,4 @@
   "subject": "Scottish Government"
 }
 
-# Scottish Government Blogs
-
 None

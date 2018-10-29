@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Will David Cameron's inheritance tax move dent Labour's London lead?
-
 None

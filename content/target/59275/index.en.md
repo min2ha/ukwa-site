@@ -10,6 +10,4 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# Supreme Grand Chapter Royal Arch Chapter Scotland
-
 Site of a the head quartres of the Royal Arch brancg of freemasonary in Scotland.

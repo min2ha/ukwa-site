@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# An Cridhe, Coll
-
 Site of a community hub at Arinagour, on the Isle of Coll, Argyll & Bute.

@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# NET Academies Trust
-
 NET stands for the National Education Trust. The NET Academies Trust is the multi-academy trust set up by the National Education Trust. They are a charity set up to support the process of schools becoming academies.

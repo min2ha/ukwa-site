@@ -10,6 +10,4 @@
   "start_date": "2017-11-08T09:00:00Z"
 }
 
-# Welsh Arthritis Research Network (WARN) | Rhwydwaith Ymchwil Gwynegon Cymru
-
 Welsh Arthritis Research Network (WARN) has been established by the National Institute for Social Care and Health Research and the Welsh Government in order to raise the profile of arthritis and musculoskeletal research and improve the quality of life and care of people living with arthritis in Wales. The Network is base in Swansea.

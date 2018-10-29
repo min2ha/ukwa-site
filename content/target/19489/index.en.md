@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Thames Alive: Magna Carta 800th The River Relay
-

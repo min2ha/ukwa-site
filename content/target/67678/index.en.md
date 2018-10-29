@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Longlevens Rugby (@LonglevensRugby) on Twitter
-
 The official Twitter account of Longlevens Rugby Club.

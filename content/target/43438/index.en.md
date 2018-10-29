@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Woodland Trust: EU Referendum: Our stance
-
 Blog by Woodland Trust considering both sides of the debate and the effect on environemental legislation

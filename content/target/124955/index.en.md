@@ -11,6 +11,4 @@
   "subject": "Personal Experiences of Illness"
 }
 
-# Julie Dennison - Living with epilepsy
-
 I have suffered with epilepsy all of my life. To help others understand this condition, I give talks on living with epilepsy to schools, companies and social organisations within 100km of my home in Welwyn Garden City, Herts, UK.

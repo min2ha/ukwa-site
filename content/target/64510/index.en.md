@@ -10,6 +10,4 @@
   "start_date": "2018-04-18T09:00:00Z"
 }
 
-# Luna & Curious 
-
 Shoreditch-based retailers of craft clothing, jewellery and homewares.

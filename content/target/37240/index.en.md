@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Spectator, The: Meet the British Poles who back Brexit
-
 Spectator article on British Poles in favour of Brexit

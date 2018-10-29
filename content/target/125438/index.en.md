@@ -10,6 +10,4 @@
   "start_date": "2015-06-18T09:00:00Z"
 }
 
-# Syllabary, The
-
 Poems by Paul McCarey

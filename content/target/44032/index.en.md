@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# @robfahey - Politics in the UK and Japan Blog
-
 Blog by Rob Fahey, including a series of posts on the EU Referendum

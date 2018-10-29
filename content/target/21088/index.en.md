@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Michelle Ballantyne on Facebook
-
 This is the Facebook page of Michelle Ballantyne, the Conservative Party candidate for Midlothian in the UK General Election on the 7th May 2015.

@@ -11,7 +11,5 @@
   "subject": "SmashFest UK"
 }
 
-# Friv Games - Only The Best Free Online Games At Friv!
-
 A safe place to play the very best free games! Free online games, puzzle games, girls games, car games, dress up games and more. 
 Nominated by a Smashfest 2015 visitor.

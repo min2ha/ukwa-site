@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Theresa May says 'good progress' made on Brexit
-
 Mrs May appeared in Prime Minister's Questions on December 6th 2017 after a phone call with DUP leader Arlene Foster, who had refused to support draft plans for the border. Theresa May insisted "very good progress" was being made in Brexit negotiations - as the DUP said there was "more work to be done".

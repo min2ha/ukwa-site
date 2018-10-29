@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Ceramic Confederation: The Future of UK Trade Remedies - Position Statement for the General Election
-
 As the UK leaves the European Union, it will need to develop its own independent trade policy that fits with a wider industrial strategy. This includes developing a system of trade remedies, the instruments that are used to combat market distortions (such as dumping and subsidised exports) that disrupt genuine free trade and that are economically devastating

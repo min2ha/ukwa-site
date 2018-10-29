@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Moon Queen and the Bee
-
 A dual language (English and Italian) webcomic by Chris Reynolds of Mauretania comics.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Citizens UK rally: Cameron ducks out of meeting voters at the sharp end
-
 None

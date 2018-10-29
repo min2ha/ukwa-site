@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: If Labour is serious about power it must back a people’s vote on Brexit
-

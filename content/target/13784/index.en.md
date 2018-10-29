@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# What Scotland Thinks: Survation Show Drop in Yes Support Following Leaders' Debate
-
 None

@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Keir Starmer: second Brexit referendum should be kept on table
-
 Shadow Brexit secretary says another public vote should be an option if MPs reject the Government's Brexit deal
 

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# News Watch: The BBC and 'Europe
-
 After the referendum on British membership of the EU, the BBC posted a number of Radio 4 programmes in a dedicated part of their iPlayer website designated as The Brexit Collection. It was updated periodically afterwards. This analysis is of all the programmes and extracts that were posted on the site between 11 July and 23 August 2016. The full transcripts are included in this document. 

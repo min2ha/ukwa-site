@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Eastern Western Motor Group
-
 Eastern Western Motor Group, a subsidiary of Eastern Holdings Limited, is a new and used auto dealership based in Broxburn, Scotland. The company also provides body shop services and fleet vehicle services (Eastern Western Fleet Services).

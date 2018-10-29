@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Nicola Sturgeon: I'm a Europhile, not a Unionist
-

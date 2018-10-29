@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Penny Coomes & Nick Buckland Official Website
-
 None

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Muslim News, The: Eu Referendum
-

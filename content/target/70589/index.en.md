@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leicester City Women (@LCWFC_official) on Twitter
-
 The Official #LCWFC Club Twitter Account

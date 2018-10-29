@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# George Galloway (@georgegalloway) on Twitter
-

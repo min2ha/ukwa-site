@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Danny Bamping (Independent Politician)
-
 Danny Bamping  stood as an Independent candidate for Sutton & Devonport at the 2017 General Election but was not elected.

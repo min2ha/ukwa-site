@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Carrick Rugby
-
 Site of a Scottish rugby union football club based at Maybole, Ayrshire.

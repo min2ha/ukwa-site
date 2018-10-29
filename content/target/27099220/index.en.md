@@ -11,5 +11,3 @@
   "subject": "Cornwall"
 }
 
-# St. Austell, Cornwall - genealogy and history
-

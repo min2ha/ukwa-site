@@ -10,6 +10,4 @@
   "start_date": "2016-01-29T09:00:00Z"
 }
 
-# Boost Cymru
-
 Boost Cymru is the new Life Sciences competition for Wales.

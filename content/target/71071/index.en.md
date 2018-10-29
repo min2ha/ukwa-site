@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# The British Association of Gender Identity Specialists (BAGIS) 
-
 The British Association of Gender Identity Specialists (BAGIS) was founded in 2014 for the purpose of promoting clinical research and exchange of knowledge of gender dysphoria and transgender health. It is an association of healthcare professionals, from a wide range of disciplines, committed to promoting excellence in clinical practice, clinical research, training and education in the field of healthcare for transgender and gender non-conforming people

@@ -10,6 +10,4 @@
   "start_date": "2017-04-11T09:00:00Z"
 }
 
-# GlobalEdinburgh
-
 Politics, news, and nooks of Edinburgh. 

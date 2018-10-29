@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Otley Rugby Club on Pitchero
-
 The official website of Otley Rugby Union Football Club.

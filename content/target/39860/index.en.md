@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Prof. Nigel Copner on Facebook (Plaid Cymru candidate for Blaenau Gwent)
-
 Prof. Nigel Copner is the Plaid Cymru candidate for Blaenau Gwent at the 2016 National Assembly Election. 

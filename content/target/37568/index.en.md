@@ -10,6 +10,4 @@
   "start_date": "2016-03-16T09:00:00Z"
 }
 
-# Mynydd Gwefru | Electric Mountain
-
 Electric Mountain is pumped-storage hydroelectric scheme, near Llanberis in Snowdonia. The power station was constucted inside the mountain Elidir Fawr and has become a major tourist attraction for the area.

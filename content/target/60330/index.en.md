@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BoBfm: Welwyn Hatfield MP calls for more pro-active approach to suicide prevention
-
 News article about a new report into how the internet could be facilitating suicide. It suggests the Government needs to take a more pro-active approach to tackle the issue.

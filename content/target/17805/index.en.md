@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ed Miliband: All large companies hiring non-EU workers must offer apprenticeships
-
 None

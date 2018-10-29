@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Iranian Festival
-
 Site of an annual festival taking place in Edinburgh, aiming to increase understanding of Iranian culture, history and people over and above politics.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: Election results: Were you still up when Ed Balls, Vince Cable and Jim Murphy lost?
-
 None

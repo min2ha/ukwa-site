@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Paul Martin MSP – MSP for Glasgow Provan
-
 <p>The website of Paul Martin, Scottish Labour Member of the Scottish Parliament for Glasgow Provan.</p>

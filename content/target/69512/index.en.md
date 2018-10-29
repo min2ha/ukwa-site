@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# British Retail Consortium: There will be food supply issues in the event of a cliff edge Brexit
-
 The British Retail Consortium has written to UK Prime Minister Theresa May and the European Union’s Chief Brexit Negotiator Michel Barnier to highlight the potential for damaging consequences for millions of UK consumers and tens of thousands of EU-based producers if an agreement in the Brexit negotiations is not reached that protects the free flow of goods between the EU and UK from 29 March 2019.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Election 2015: Sir John Major warns of Labour-SNP deal
-
 None

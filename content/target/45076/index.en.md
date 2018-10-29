@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Pro and anti-Brexit newspapers reflected leave vote shock, says study
-

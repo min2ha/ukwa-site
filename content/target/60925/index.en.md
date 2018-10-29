@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: 'I was sick and shameful': Author, 35, details her decades-long struggle with pornography addiction and how she managed to break it with the help of her husband's love, therapy and yoga 
-
 News article about Erica Garza and her addiction to internet porn.

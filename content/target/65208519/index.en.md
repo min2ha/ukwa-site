@@ -10,6 +10,4 @@
   "start_date": "2012-04-27T00:00:00Z"
 }
 
-# M4 CEM Consultation
-
 M4 Corridor Enhancement Measures Programme

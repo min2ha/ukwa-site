@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# The Jackie Clarke Collection
-
 This is the website of the Jackie Clarke Collection, a private collection in public hands comprising over 100,000 items spanning 400 years, including personal items of leaders of the Easter Rising, 1916.

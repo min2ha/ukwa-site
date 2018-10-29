@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cowdenbeath Football Club
-
 Site of a senior association football club based in Cowdenbeath, Fife, Scotland

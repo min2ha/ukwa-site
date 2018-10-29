@@ -10,6 +10,4 @@
   "start_date": "2017-01-19T09:00:00Z"
 }
 
-# South Wales Hunt Saboteurs
-
 South Wales Hunt Saboteurs is a non-violent direct action group that directly interferes with hunting and saves wildlife from those who persecute them.

@@ -10,5 +10,3 @@
   "start_date": "2014-12-15T00:00:00Z"
 }
 
-# Taunton and District Welsh Society
-

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Belfast Nashville Songwriters' Festival and Convertion
-
 Site of an organisation formed to create and deliver arts programmes in Northern Ireland and abroad, its annual songwriters' festival and its programme of outreach.

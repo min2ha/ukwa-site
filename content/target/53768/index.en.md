@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Peter Mcilvenna (@PeterMcilvenna) on Twitter (UKIP Politician)
-
 Peter McIlvenna stood as UK Independence Party (UKIP) candidate in the constituency of Ealing North in the 2017 General Election but was not elected.

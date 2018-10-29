@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Gartcairn Football Academy
-
 Site of a football academy for all ages and incorporating the Scottish junior football club, Gartcairn, located in Airdrie, Lanarkshire.

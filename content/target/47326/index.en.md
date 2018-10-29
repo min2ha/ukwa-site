@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh's Hogmanay
-
 Site of the festivities in Edinburgh set around the Christmas and New Year period.

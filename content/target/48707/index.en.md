@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Choir of New College, Oxford
-
 New College Choir comprises of around thirty voices, including boy choristers. It has been around since the late 14th century, when William of Wykeham set up a choral foundation within his ‘New’ College. Since then it has regularly sung chapel services, and continues to do so during the University terms.

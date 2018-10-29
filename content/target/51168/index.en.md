@@ -10,6 +10,4 @@
   "start_date": "2017-03-24T09:00:00Z"
 }
 
-# Forth Ports
-
 Site of a Scottish organisation based in Edinburgh that owns and runs strategically positioned ports serving as logistical gateways across the UK - Tilbury (London), Grangemouth, Dundee, Leith (Edinburgh), Rosyth, Methil, Burntisland and Kirkcaldy.

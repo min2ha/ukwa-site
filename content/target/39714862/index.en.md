@@ -10,5 +10,3 @@
   "start_date": "2010-03-31T00:00:00Z"
 }
 
-# Ann Cryer MP
-

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Lanark Rugby Club
-
 Site of a Scottish rugby union football club located in Lanark, Lanarkshire.

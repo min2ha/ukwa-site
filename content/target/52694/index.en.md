@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Edward Davey (@EdwardJDavey) on Twitter (Liberal Democrats Politician)
-
 Edward Davey stood as Liberal Democrat candidate for Kingston & Surbiton at the 2017 General Election and was successful. He was first elected to serve as the MP for Kingston & Surbiton in 1997 and has held the seat ever since.

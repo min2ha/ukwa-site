@@ -10,6 +10,4 @@
   "start_date": "2018-04-25T09:00:00Z"
 }
 
-# Castle Cinema, The (Hackney)
-
 Small independent cinema in Homerton, Hackney, London

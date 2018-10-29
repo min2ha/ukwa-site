@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Liverpool County FA
-
 Liverpool County FA is the governing body for soccer in Merseyside. It is responsible for setting standards and values to apply throughout the game at every level. They are responsible for providing the structure and support that enables our players, coaches, volunteers and referees to develop. 

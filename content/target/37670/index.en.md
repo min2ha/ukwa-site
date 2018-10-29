@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Operation Black Vote: The EU and race equality: we're stronger together
-
 The concerns of the 6m BME British citizens have been largely ignored in the Brexit debate.

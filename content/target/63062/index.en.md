@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Munda's Church
-
 Site of a Church of Scotland parish church seriving Glencoe and Ballachuilish and lined to Duror Church, Argyll and Bute.

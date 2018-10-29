@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Catherine McKinnell on Facebook (Labour candidate for Newcastle upon Tyne North)
-

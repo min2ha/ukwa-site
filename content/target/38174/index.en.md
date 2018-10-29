@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Vote Leave Ulster (@VoteLeaveUlster) on Twitter
-
 Campaign at Ulster University for the UK to leave the EU

@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: You must Vote to leave the EU or wake up with the worst hangover in history
-

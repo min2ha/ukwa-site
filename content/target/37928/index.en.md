@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Aussies for Britain (@Aussies4Britain) on Twitter 
-
 Aussies supporting Britain leaving the European Union

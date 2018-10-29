@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Get Surrey: Magna Carta original copies on display in British Library
-

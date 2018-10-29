@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Ymddiriedolaeth y Pentre Byw | Village Alive Trust
-
 Monmouthshire-based buildings preservation charity.

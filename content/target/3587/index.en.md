@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Manchester Evening News
-
 The Manchester Evening News (MEN) is a regional daily newspaper covering the Manchester area of the United Kingdom. It is published every day except Sunday and is owned by Trinity Mirror plc following its sale by Guardian Media Group in early 2010. 

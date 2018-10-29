@@ -11,6 +11,4 @@
   "subject": "London French Special Collection"
 }
 
-# Spatial.ly: Mapped: Twitter Languages in London
-
 <p>An article on the website spatial.ly (<a href="http://spatial.ly/">http://spatial.ly/</a>), which specialises in mapping data. It is run by Dr James Cheshire, geographer and lecturer at University College London.</p>

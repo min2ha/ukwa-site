@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ruth Davidson MSP on Facebook
-
 Ruth Davidson is member of the Scottish Parliament for Glasgow, leader of the Scottish Conservative and Unionist Party. 

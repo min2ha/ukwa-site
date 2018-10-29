@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Multimedia Information Technology Group
-
 The Multimedia Information and Technology Group is a Chartered Institute of Library and Information Professionals (CILIP) group.

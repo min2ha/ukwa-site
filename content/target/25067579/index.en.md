@@ -11,5 +11,3 @@
   "subject": "Credit Crunch"
 }
 
-# Vedanta Resources
-

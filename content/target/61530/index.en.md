@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Toryglen Parish Church on Facebook
-
 Facebook page for a Church of Scotland parish church in Glasgow.

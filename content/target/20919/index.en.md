@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Chartered Institute of Environmental Health: CIEH Election Manifesto: Health for our future 
-
 The Chartered Institute of Environmental Health (CIEH) is a registered charity and the professional voice for environmental health.  We set standards, accredit courses and qualifications for the education of members and EHPs.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# UK Independence Party (@UKIP) on Twitter
-
 A Eurosceptic and right-wing populist political party in the United Kingdom. It is headquartered in Newton Abbot, Devon, and currently led by acting leader Steve Crowther. At Westminster, UKIP has no Members of Parliament (MPs) in the House of Commons and three representatives in the House of Lords. It has 20 Members of the European Parliament (MEPs), making it jointly the largest UK party in that Parliament. It has five Assembly Members (AMs) in the National Assembly for Wales and 346 councillors in UK local government.

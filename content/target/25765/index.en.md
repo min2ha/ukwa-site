@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Do Labour claims about the Tories and the NHS stand up?
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Birmingham Inclusive Sports Fest (BISF)
-
 Website advertising the Birmingham Inclusive Sports Fest

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Danielle Stirrat (daniellestirrat) on Twitter
-
 <p>The twitter profile of swimmer Danielle Stirrat, competing in the 100 metre relay for Team Wales at the Glasgow 2014 Commonwealth Games.</p>

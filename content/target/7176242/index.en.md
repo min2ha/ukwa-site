@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Methodist Church by Barnes Pond
-

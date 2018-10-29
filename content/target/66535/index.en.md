@@ -10,6 +10,4 @@
   "start_date": "2018-06-02T09:00:00Z"
 }
 
-# Johnston Fuels Limited
-
 The website of Johnston Fuels Limited, a Scotland-based gas and oil provider.

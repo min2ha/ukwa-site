@@ -10,6 +10,4 @@
   "start_date": "2017-03-21T09:00:00Z"
 }
 
-# Gilmerton Cove
-
 Site of a group that markets and provides access to a series of hand carved passageways and chambers that lie below ground at Gilmerton, south Edinburgh.

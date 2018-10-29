@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  Oxford Harlequins RFC on Pitchero
-
 The official website of Oxford Harlequins Rugby Football Club.

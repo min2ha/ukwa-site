@@ -10,6 +10,4 @@
   "start_date": "2016-09-14T11:00:00Z"
 }
 
-# Emito.net - Polski Portal w Wielkiej Brytanii
-
 A Polish language information and social networking site.

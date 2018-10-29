@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Eric Holford on Facebook
-
 This is the Facebook page of Eric Holford, the Conservative Party candidate for Airdrie and Shotts in the UK General Election on the 7th May 2015 and the 2016 Scottish Parliamentary election.

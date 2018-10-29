@@ -10,6 +10,4 @@
   "start_date": "2018-07-20T09:00:00Z"
 }
 
-# Mary Rose
-
 Mary Rose was a successful warship for Henry VIII  for 34 years: almost the entire duration of his reign.

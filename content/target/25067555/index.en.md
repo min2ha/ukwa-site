@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Legal & General Group plc
-
 Legal & General Group plc is a British multinational financial services company. Its products include life insurance, general insurance, pensions and investments. It has operations in the United Kingdom, Egypt, France, Germany, the Gulf, India, the Netherlands and the United States.

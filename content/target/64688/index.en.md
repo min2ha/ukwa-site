@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 17th April 2018: Leaving the EU: Future trade remedies
-
 Discusses the need for effective anti-dumping measures after Brexit which ensure that there is a level and fair playing field on which free trade can be played out.  We need the same level and fair playing field globally that we pushed for on the regional stage of the single market as a member of the European Union.

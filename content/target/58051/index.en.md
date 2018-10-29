@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guardian, The: Children waiting up to 18 months for mental health treatment – CQC
-
 News article discussing a report from the Care Quality Commission a NHS watchdog detailing that children with mental health wait up to 18 months to be treated

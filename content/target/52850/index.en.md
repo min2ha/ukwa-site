@@ -11,8 +11,6 @@
   "subject": "UK General Election 2017"
 }
 
-# Creative Industries Federation: A general election manifesto for the creative industries
-
 With the right vision, leadership and policies in place, the creative industries can help secure an economy and society that works for all. But if government fails to deliver, this vision is at risk. The Creative Industries Federation has identified 10 priority recommendations that will enable the creative industries, arts and cultural education - and therefore the nation - to thrive:
  
 

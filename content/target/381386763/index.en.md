@@ -10,5 +10,3 @@
   "start_date": "2016-08-03T12:00:00Z"
 }
 
-# Gwlad (Gwybodaeth Amaethyddiaeth a Materion Gwledig gan Llywodraeth Cymru | Agricultural and Rural Affairs Information from the Welsh Government)
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Market Oracle, The: Bank of England panic! Scottish independence bank run already underway!
-
 None

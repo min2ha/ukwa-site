@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bedlam Fringe (@bedlamfringe) on Twitter
-
 Bedlam is the University of Edinburgh's student theatre company; this is the Twitter for its Edinburgh Fringe Festival venue, Bedlam Theatre. 

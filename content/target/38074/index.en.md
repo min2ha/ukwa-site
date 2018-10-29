@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# S Yorks Stronger In (@SouthYorks4EU) on Twitter
-
 South Yorkshire local campaign for the |UK to stay in the EU.

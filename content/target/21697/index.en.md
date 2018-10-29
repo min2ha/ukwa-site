@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour pledges to end dependency on food banks with welfare reforms
-
 None

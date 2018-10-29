@@ -11,5 +11,3 @@
   "subject": "Magic"
 }
 
-# Daily Express: Voldemort: Origins of the Heir movie trailer
-

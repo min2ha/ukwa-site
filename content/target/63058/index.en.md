@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Margaret's Parish Church Dalry
-
 Site of a Church of Scotland parish church Dalry, Ayrshire.

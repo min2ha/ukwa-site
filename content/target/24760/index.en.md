@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Paul Scully (Conservative)
-
 Paul Scully stood as Conservative candidate for Sutton and Cheam at the 2015 General Election and was elected to serve as MP.

@@ -10,6 +10,4 @@
   "start_date": "2015-01-21T00:00:00Z"
 }
 
-# Kate in Palestine
-
 <p>Blog of Quaker Peace Worker Kate Cargin.</p>

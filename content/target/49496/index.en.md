@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Stoke-on-Trent Central by-election: The candidates and the issues
-
 The vote - along with another by-election in Copeland taking place the same day - was seen as a key electoral test for Labour leader Jeremy Corbyn, whose party is defending both seats. It was triggered by the resignation of former Labour MP Tristram Hunt, who left Parliament to become the director of the Victoria and Albert Museum in London.

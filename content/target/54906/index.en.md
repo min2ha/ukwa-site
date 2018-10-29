@@ -10,6 +10,4 @@
   "start_date": "2017-06-20T09:00:00Z"
 }
 
-# Alliance for Choice
-
 Alliance for Choice is an organisation that campaigns for the extension of the 1967 Abortion Act to Northern Ireland. It is made up of women and men, from both Catholic and Protestant communities in the North of Ireland, who want to see equality and self-determination for women here. Alliance for Choice was set up in 1996, emerging from the Women’s Right to Choose Group, to encourage the incoming Labour government to implement Labour Party policy to extend the Act.

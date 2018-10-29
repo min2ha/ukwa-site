@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Rumours of a plot to oust Cameron are overblown
-
 None

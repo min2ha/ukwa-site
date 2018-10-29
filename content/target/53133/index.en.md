@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# British Humanist Association: BHA responds to Archbishops’ general election letter
-
 The British Humanist Association attacks the Archbishop of Canterbury's call in his 2017 general election letter to the churches for faith to continue to play a central role in politics,.

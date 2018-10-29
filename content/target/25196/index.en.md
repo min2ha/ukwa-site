@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mirror: Labour manifesto: Recap of updates as Ed Miliband unveiled party's 2015 election pledges in Manchester
-
 None

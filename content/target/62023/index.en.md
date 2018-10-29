@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# The Elfrida Society
-
 Charity working with people who have learning disabilities to connect people, make lives happier, healthier and fun-filled.

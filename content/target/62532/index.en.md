@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Gairbraid Parish Church Glasgow on Facebook
-
 Facebook page of a Church od Scotland parish church in Glasgow.

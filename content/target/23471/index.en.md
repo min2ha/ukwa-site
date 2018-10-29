@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Graham Lee (@grahaminruislip) on Twitter (Green Party candidate for Uxbridge and South Ruislip)
-

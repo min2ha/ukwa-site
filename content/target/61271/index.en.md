@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Nat. Football Museum (@FootballMuseum) on Twitter
-
 The official Twitter account of the National Football Museum, Manchester. 

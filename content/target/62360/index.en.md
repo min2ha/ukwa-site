@@ -10,5 +10,3 @@
   "start_date": "2018-03-08T09:00:00Z"
 }
 
-# Grangetown Branch Labour Party
-

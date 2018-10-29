@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# Gaystar News: Brexit: The LGBT Impact Assessment
-
 This report charts how the UK Government, European Union and the separate European Court of Human Rights have advanced LGBT rights, and how 
  progress in this country has been dependent on our relationship with Europe, in particular the EU. In part two, it examines the rights LGBT Britain currently enjoys which Brexit may jeopardise, particularly in the areas of free movement, trans rights, employment rights, relationship rights, asylum and rights guaranteed by the EU Charter.

@@ -10,6 +10,4 @@
   "start_date": "2015-07-16T11:00:00Z"
 }
 
-# Bristol University
-
 Official website of Bristol University.

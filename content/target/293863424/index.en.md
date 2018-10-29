@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Away with the Birds
-

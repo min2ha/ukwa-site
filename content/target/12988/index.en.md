@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Nicola Benedetti
-
 <p>Website of violinist Nicola Benedetti. Nicola Benedetti performed at the Opening Ceremony of the Glasgow 2014 Commonwealth Games as well as appearing at other events in the city.</p>

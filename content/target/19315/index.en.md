@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Regent's University London: Magna Carta Symposium
-

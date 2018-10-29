@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Cambridge City Conservatives
-
 Website of Cambridge City Conservatives, providing information on local councillors, MEPs and local and national news updates.

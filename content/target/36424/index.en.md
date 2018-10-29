@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: A terrible week for Cameron and the remain campaign, says ROSS CLARK
-
 Comment by Ross Clark

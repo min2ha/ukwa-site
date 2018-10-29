@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Rosina Robson, Liberal Democrats on Twitter 
-
 None

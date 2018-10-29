@@ -11,6 +11,4 @@
   "subject": "British Stand-up Comedy Archive"
 }
 
-# Knock2bag Comedy Night
-
 Website for Knock2bag Comedy Night in Shoreditch and Shepherd's Bush, London.

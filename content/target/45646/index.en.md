@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A hard future awaits for Theresa May without a vision for soft Brexit
-

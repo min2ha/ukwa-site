@@ -10,5 +10,3 @@
   "start_date": "2016-12-23T09:00:00Z"
 }
 
-# Edinburgh City of Literature on Facebook
-

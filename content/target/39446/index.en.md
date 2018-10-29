@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T11:00:00Z"
 }
 
-# Art in Ireland TV
-
 A news channel reflecting contemporary arts and culture in Ireland.

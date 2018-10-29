@@ -10,6 +10,4 @@
   "start_date": "2017-11-15T09:00:00Z"
 }
 
-# Camanachd Dhùn-Èideann / Edinburgh Shinty
-
 Site of a youth shinty club based in Edinburgh.

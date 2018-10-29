@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# OneKind: the OneKind manifesto
-
 OneKind exists to end cruelty to Scotland’s wildlife, pets and other animals through campaigns, research and education. Based in Edinburgh, they also work across the UK and internationally in partnership with other animal welfare organisations.

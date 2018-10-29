@@ -198,8 +198,6 @@
   "endDateText": ""
 }
 
-# Live Art
-
 The Live Art Collection was initiated in late 2008 and is maintained by the British Library in collaboration with the Live Art Development Agency, London. Live Art is an innovative exploratory approach to contemporary performance practices. The range of websites in this collection includes organizations supporting, promoting and curating Live Art; artists websites; sites that are artistic or project-driven by their nature; blogsites and online spaces engaging in critical reviews; through to online archival sites relating to Live Art. This collection represents the diverse practices and approaches of artists today and the support and critical frameworks that exist to support, promote and comment upon Live Art and the ephemeral nature of this area of practice.
 
 This project was revisited in 2017 with new websites added to the collection.

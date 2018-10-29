@@ -10,6 +10,4 @@
   "start_date": "2016-10-15T10:00:00Z"
 }
 
-# The British Classic Yacht Club
-
 The British Classic Yacht Club was formed in 2001. 

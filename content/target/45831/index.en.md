@@ -10,6 +10,4 @@
   "start_date": "2016-10-01T10:00:00Z"
 }
 
-# Hawk Conservancy Trust
-
 The Hawk Conservancy Trust are a conservation charity and visitor centre that has for many years worked in the fields of conservation, education, rehabilitation and the research of birds of prey.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hedleyhope Community Association on Facebook
-
 Community News from Hedleyhope Community Association including social activities and what's happening on the Nature Reserve.

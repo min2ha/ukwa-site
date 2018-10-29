@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Jubilee Debt Campaign: Election 2015: How to avert a new debt crisis
-
 None

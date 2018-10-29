@@ -10,6 +10,4 @@
   "start_date": "2017-01-20T09:00:00Z"
 }
 
-# Glorious Gardens of Argyll
-
 Site of a eighteen gardens open to the public throughout Argyll & Bute, Scotland.

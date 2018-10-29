@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Denholm Global Logistics Limited
-
 Denholm Global Logistics Limited is a company providing multi-mode logistics services, including freight management, industrial removals and installations, supply chain logistics, customs and duty, project forwarding, and freight tracking. Denholm Global Logistics Limited operates as a subsidiary of Denholm Group.

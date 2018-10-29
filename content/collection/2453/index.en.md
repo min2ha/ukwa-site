@@ -170,6 +170,4 @@
   "endDateText": "27-03-2006"
 }
 
-# UK General Election 2005
-
 Collection of websites, curated by staff at the Legal Deposit Libraries, archived during and immediately after the UK general election campaign of 2005. The collection comprises a sample of candidates campaign sites and weblogs, local and national party sites, opinion polls, news and commentary, and the manifestos of a range of interest groups.

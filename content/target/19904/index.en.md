@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Laura Knightly for Alyn & Deeside on Facebook
-
 Facebook page of Conservative Parliamentary Candidate for Alyn & Deeside, Laura Knightly.

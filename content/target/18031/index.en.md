@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Matthew Dorrance
-
 Matthew Dorrance is the Labour prospective parliamentary candidate for Brecon and Radnorshire.

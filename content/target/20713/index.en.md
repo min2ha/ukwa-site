@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Calum Kerr (@calumrkerr) on Twitter
-
 The twitter profile of Calum Kerr, Scottish National Party Parliamentary Candidate for Berwickshire, Roxburgh & Selkirk in the 2015 UK General Election.

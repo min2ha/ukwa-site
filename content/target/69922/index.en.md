@@ -10,6 +10,4 @@
   "start_date": "2018-08-14T09:00:00Z"
 }
 
-# UK Sartre Society
-
 The UK Sartre Society is a place for anyone with an interest in Sartre’s work and life. The society aims to enable discussion and debate around Sartre’s oeuvre. We hold an annual conference in September in London. We edit one issue per year of the journal Sartre Studies International.

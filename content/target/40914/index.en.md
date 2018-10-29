@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Wycombe Today
-
 News, views, reviews and sport for High Wycombe, Marlow and South Bucks.

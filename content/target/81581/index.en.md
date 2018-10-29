@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Marching Out Together
-
 As proud Leeds United supporters we are excited to establish a new group that will welcome fellow LGBT+ fans and their friends

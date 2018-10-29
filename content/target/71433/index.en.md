@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Whitehaven Rugby League Football Club
-
 The official website of Whitehaven Rugby League Football Club. Whitehaven RLFC was formed in 1948.

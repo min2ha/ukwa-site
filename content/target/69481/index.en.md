@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Cosplay Island
-
 A news and portfolio site for cosplayers and costumers living in the UK and Ireland

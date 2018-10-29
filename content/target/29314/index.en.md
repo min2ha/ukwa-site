@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Back-Roads Touring: The 1916 Easter Rising
-
 Back-Roads Touring provide small group and tailormade touring holidays. They offer a range of unusual and leisurely regional tours throughout the UK and Europe. 

@@ -10,5 +10,3 @@
   "start_date": "2015-01-14T00:00:00Z"
 }
 
-# Woking Welsh Society
-

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Caroline Jones (@carolineUKIP) on Twitter (UKIP candidate for Bridgend and South Wales West)
-
 Caroline Jones is the UKIP candidate for Bridgend and South Wales West at the 2016 National Assembly Elections and Aberavon at the 2017 General Election.

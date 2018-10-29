@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: The budget yellow box: Lib Dems lay out alternative fiscal plan in Commons
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-11-21T09:00:00Z"
 }
 
-# Dunfermline Central Mosque & Islamic Centre
-
 Site of an Islamic place of worship and education centre located in Dunfermline, Fife.

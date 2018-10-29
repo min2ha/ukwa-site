@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# James Bloodworth (J_Bloodworth) on Twitter
-

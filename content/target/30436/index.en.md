@@ -10,6 +10,4 @@
   "start_date": "2015-09-15T10:00:00Z"
 }
 
-# Thomas Forester Pottery
-
 This website has been created as a tool to enhance the knowledge and interest in the pottery made mainly at the Phoenix Works by Thomas Forester between 1877 to 1959. 

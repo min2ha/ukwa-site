@@ -10,6 +10,4 @@
   "start_date": "2018-02-17T09:00:00Z"
 }
 
-# Chirk and the Ceiriog Valley
-
 This is a tourist information guide to the Chirk and the Ceiriog Valley and is provided by Chirk and the Ceiriog Valley Partnership.

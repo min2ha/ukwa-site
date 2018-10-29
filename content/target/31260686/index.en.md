@@ -10,6 +10,4 @@
   "start_date": "2009-06-30T00:00:00Z"
 }
 
-# Pelvic Partnership
-
 We aim to pass on information based on research evidence and on other womens experience, which we would have liked to have received ourselves, in order to support you in making informed choices about your care. 

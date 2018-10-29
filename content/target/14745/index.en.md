@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# International Research Network / International SOS: Ebola & Pandemic Risk Management Workshop
-
 None

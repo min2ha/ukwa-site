@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Cambridge Literary Festival
-

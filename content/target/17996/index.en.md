@@ -10,6 +10,4 @@
   "start_date": "2015-03-14T09:00:00Z"
 }
 
-# Men Who Danced
-
 Men Who Danced website gathers details of men who were dancers when young, who continued to dance, who moved into other careers, and who died - with a long 'in memoriam' list that includes many who died of HIV/AIDS.

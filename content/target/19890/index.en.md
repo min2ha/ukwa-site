@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Lambeth Green Party on Facebook
-

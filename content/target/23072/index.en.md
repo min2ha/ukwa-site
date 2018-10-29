@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Hannah Patton on Facebook (Green Party candidate for Maidstone and the Weald)
-

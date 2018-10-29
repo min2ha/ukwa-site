@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# SAFC TV (@SAFC_TV) on Twitter 
-
 Official Twitter account for the YouTube channel of Scarborough Athletic FC.

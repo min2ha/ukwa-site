@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Hospice UK: General Election 2015
-
 Hospice UK is the national charity for hospice care. They champion and support the work of more than 200 member organisations, which provide hospice care across the UK, so that they can deliver the highest quality of care to people with terminal or life-limiting conditions, and support their families.

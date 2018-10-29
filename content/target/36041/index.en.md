@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Mike Hedges AM (@MikeHedgesAM) on Twitter 
-
 Mike Hedges is the Labour candidate for Swansea East at the 2016 National Assembly for Wales election. 

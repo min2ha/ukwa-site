@@ -11,5 +11,3 @@
   "subject": "100 Best Sites"
 }
 
-# Guido Fawkes Blog
-

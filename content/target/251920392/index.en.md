@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Richard Baker MSP
-
 <p>The website of Richard Baker, Scottish Labour Member of the Scottish Parliament for North East Scotland.</p>

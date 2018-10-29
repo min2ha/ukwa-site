@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Mary Galbraith (@Mary_Galbraith) on Twitter
-
 The twitter profile of Mary Galbraith, Labour parliamentary candidate for Argyll & Bute in the 2015 UK General Election.

@@ -10,5 +10,3 @@
   "start_date": "2015-05-01T09:00:00Z"
 }
 
-# Nigel Farage (UKIP candidate for South Thanet)
-

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Kilbowie St Andrews Parish Church on Facebook
-
 Facebook page of a Church of Scotland parish church at Clydebank, Dunbartonshire.

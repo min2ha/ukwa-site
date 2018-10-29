@@ -10,5 +10,3 @@
   "start_date": "2015-12-12T09:00:00Z"
 }
 
-# Association for Welsh Writing in English, The
-

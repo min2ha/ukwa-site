@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Justice for Men & Boys (J4M&B)
-
 Justice for Men &amp; Boys (and the women who love them) is a UK political party led by Mike Buchanan.

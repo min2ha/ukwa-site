@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Tanworth-in-Arden Parish remembers World War 1
-
 Programme of events connected with Tanworth-in-Arden Parish remembers World War 1

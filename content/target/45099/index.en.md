@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# 'He got robbed': boxer Gary Russell's father claims Olympic bout was rigged
-
 An American fighter loses on split decision in quarter-finals and an Irish boxer accuses boxing’s ruling body of being cheats.

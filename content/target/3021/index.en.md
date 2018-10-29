@@ -10,6 +10,4 @@
   "start_date": "2015-05-21T08:00:00Z"
 }
 
-# Business Gateway
-
 Business Gateway is a publicly funded service contributing to the economic well being of Scotland by providing access to free business support services.  They give assistance and impartial advice to people starting or growing their business by a combination of online support, a programme of free local workshops and events held throughout Scotland, advice to suit specific business needs through a network of experienced business advisers and business information.

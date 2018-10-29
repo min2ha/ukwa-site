@@ -11,5 +11,3 @@
   "subject": "Festivals"
 }
 
-# Edinburgh International Film Festival on Flickr
-

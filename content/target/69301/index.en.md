@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Women’s Football Online
-
 A football website that focuses on women's football from around the world. 

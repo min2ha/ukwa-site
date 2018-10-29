@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Dawn Barnes (@dawn_barnes) on Twitter (Liberal Democrats Politician)
-
 Dawn Barnes stood as Liberal Democrat candidate for Hornsey and Wood Green at the 2017 General Election but was not elected.

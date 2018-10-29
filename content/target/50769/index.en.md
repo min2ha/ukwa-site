@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# House of Commons Hansard: 14th March 2017: European Council
-
 Statement by Theresa May on the deliberations at the March 2017 European Council meeting, covering migration, free trade and Britain's withdrawal from the EU.

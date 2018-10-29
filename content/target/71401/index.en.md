@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Anna Hursey
-
 Anna Hursey is a 11-year-old table tennis player. Anna became the youngest ever athlete to participate in The Commonwealth Games in any sport, at the Gold coast, Australia. 

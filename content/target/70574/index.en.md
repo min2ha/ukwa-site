@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Brighton & Hove Albion  (@OfficialBHAFC) on Twitter
-
 Twitter account for Brighton and Hove

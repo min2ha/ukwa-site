@@ -10,6 +10,4 @@
   "start_date": "2015-12-01T09:00:00Z"
 }
 
-# David Ponsford
-
 David Posford is an organist, harpsichordist and musicologist acknowledged and an authority on the keyboard music of the seventeenth and eighteenth centuries.

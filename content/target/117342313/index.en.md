@@ -10,5 +10,3 @@
   "start_date": "2013-02-14T00:00:00Z"
 }
 
-# Scientific Computing World
-

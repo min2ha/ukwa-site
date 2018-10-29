@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# This Is Not A Gateway (TINAG)
-
 None

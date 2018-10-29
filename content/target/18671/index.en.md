@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Daily Express: TV round-up: Mr Selfridge, Midsomer Murders, Magna Carta and Fortitude reviews
-

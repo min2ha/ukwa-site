@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# The Voice: Could home of the Windrush turn UKIP?
-
 None

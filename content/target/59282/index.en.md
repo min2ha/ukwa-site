@@ -10,5 +10,3 @@
   "start_date": "2017-11-29T09:00:00Z"
 }
 
-# South & Mid Wales Cave Rescue Team
-

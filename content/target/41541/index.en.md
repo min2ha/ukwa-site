@@ -10,6 +10,4 @@
   "start_date": "2016-05-24T10:00:00Z"
 }
 
-# Community Energy Scotland
-
 Site of a Scottish charity that provides practical help for communities on green energy development and energy conservation.

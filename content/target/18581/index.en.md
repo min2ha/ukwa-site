@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ethan R Wilkinson on Facebook
-
 The official Facebook page for Ethan R Wilkinson the UKIP Parliamentary Candidate for Cardiff North.

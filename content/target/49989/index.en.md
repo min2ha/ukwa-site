@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# CILIP Ireland: Open Letter - NI Assembly Election 2017
-
 An open letter from the Irish section of CILIP outlining their position on the 2017 Assembly election.

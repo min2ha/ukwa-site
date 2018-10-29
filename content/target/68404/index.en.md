@@ -10,6 +10,4 @@
   "start_date": "2018-06-30T09:00:00Z"
 }
 
-# Allanwater Brewhouse
-
 Site of a brewer and public house at Bridge of Allan, Stirlingshire.

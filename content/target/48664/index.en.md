@@ -11,5 +11,3 @@
   "subject": "Local History Societies "
 }
 
-# Abersychan and Garndiffaith Local History Group
-

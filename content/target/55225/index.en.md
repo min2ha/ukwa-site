@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Aldershot History Society
-
 The Aldershot History Society was originally formed in 1980 with the aims of promoting interest in historical matters relating to the parish of Aldershot and adjoining locality and to encourage members to take part in research to support this.

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Thatcherism is finished – declares Church of England
-
 None

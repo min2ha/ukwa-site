@@ -11,5 +11,3 @@
   "subject": "Celtic Studies"
 }
 
-# Chelmsford & District Welsh Society
-

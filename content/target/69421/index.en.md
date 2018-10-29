@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Tewkesbury Classic Vehicle Festival
-
 Website for the Tewkesbury Classic Vehicle Festival. 

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour must understand the scale of its defeat. But we can and will rebuild
-
 None

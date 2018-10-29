@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Hand Dryers of Great Britain,The 
-
 A blog for hand dryer enthusiasts to submit pictures of hand dryers. 

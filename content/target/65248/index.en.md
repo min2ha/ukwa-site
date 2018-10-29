@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: A UK-EU customs union?
-
 This briefing paper was prepared in advance of the debate on customs and borders held in the House of Commons on Thursday 26 April 2018. This followed a defeat for the Government on the customs union in the House of Lords on the European Union (Withdrawal) Bill.
 

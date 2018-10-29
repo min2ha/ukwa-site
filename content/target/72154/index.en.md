@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Saviour, Bridge of Allan
-
 Site of a Christian church and its congregation belonging to the Scottish Episcopal denomination and located in Bridge of Allan, Stirling.

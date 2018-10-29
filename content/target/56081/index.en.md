@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Bethel Elim Church Neath
-

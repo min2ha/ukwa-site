@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Wilfried Martens Centre for European Studies
-
 The Wilfried Martens Centre for European Studies (previously the Centre for European Studies) was established in 2007 as the political foundation and official think tank of the European People’s Party (EPP). It embodies a pan-European mind-set based on centre-right, Christian Democrat, conservative and like-minded political values and research. 

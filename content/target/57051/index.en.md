@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The:Stupid or duplicitous, this ‘leak’ tells EU nationals their status in Britain is perilous 
-

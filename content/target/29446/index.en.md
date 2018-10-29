@@ -10,6 +10,4 @@
   "start_date": "2015-08-28T10:00:00Z"
 }
 
-# Latitude Festival
-
 Latitude Festival Literary & Poetry Stream

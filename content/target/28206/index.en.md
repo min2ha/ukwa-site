@@ -10,6 +10,4 @@
   "start_date": "2015-06-20T09:00:00Z"
 }
 
-# Wild Rye
-
 Wild Rye - Discover Our Wetlands is a website about a nature reserve in East Sussex. 

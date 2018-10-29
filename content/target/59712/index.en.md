@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: How can they leave the single market AND keep an open border in Ireland? Brussels casts doubt on May’s Brexit divorce deal  
-

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexit deal might NOT be done: EU chief Tusk says he is not sure all member states will welcome transition breakthrough at summit   
-

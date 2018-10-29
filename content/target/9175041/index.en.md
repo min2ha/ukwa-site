@@ -11,6 +11,4 @@
   "subject": "Cornwall"
 }
 
-# Cornwall International Male Voice Choral Festival
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Clwyd Welsh Pony & Cob Association | Cymdeithas Merlod a Chobiau Cymreig Clwyd
-

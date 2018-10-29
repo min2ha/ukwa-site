@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: George Osborne invited Michael Gove for weekend away after Justice Secretary backed Brexit
-

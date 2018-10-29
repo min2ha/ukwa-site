@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# England Netball Association
-
 None

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Laurence's Church, Greenock on Facebook
-
 Site of a Roman Catholic church in Scotland for the parish of St. Laurence's, Gourock, Inverclyde.

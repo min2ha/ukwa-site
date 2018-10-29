@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Muscular Dystrophy UK: Manifesto for Muscle
-

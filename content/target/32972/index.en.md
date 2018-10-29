@@ -10,6 +10,4 @@
   "start_date": "2015-11-28T09:00:00Z"
 }
 
-# Wales Mental Health in Primary Care (WaMH in PC)
-
 Wales Mental Health in Primary Care (WaMH in PC) aim is promote primary mental health care and improve mental health services across Wales.

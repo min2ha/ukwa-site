@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Ken Gowans on Facebook
-
 Facebook profile of Ken Gowans, Scottish National party list candidate for Highlands and Islands region in the 2016 Scottish Parliamentary election.

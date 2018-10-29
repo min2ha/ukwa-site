@@ -11,6 +11,4 @@
   "subject": "Oral History in the UK"
 }
 
-# Rainbow Jews
-
 Rainbow Jews is a pioneering oral history project showcasing the lives of Jewish Lesbian, Gay, Bisexual and Transgender (LGBT) people in the UK from the 1950s to today. 

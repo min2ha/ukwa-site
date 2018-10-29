@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Committee on Medical Aspects of Radiation in the Environment
-
 None

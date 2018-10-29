@@ -11,6 +11,4 @@
   "subject": "Governing the Police"
 }
 
-# Staffordshire Police Authority
-
 None

@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Sajjad H Karim (Conservative) on Facebook
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Hidden London
-
 None

@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Sam Owen - Relationships Coach UK
-
 Sam Owen is a relationships coach, psychologist and author, and a relationship expert for TV and big brands, based in Cheshire, UK.

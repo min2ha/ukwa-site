@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Gender Action for Peace and Security (GAPS)
-
 Gender Action for Peace and Security (GAPS) is the UK’s only Women, Peace and Security civil society network. We are a membership organisation of 17 NGOs and experts in the field of development, human rights, humanitarian and peacebuilding.

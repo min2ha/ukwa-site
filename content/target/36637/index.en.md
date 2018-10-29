@@ -10,6 +10,4 @@
   "start_date": "2016-03-04T09:00:00Z"
 }
 
-# Jon Pountney
-
 Jon Pountney is a Cardiff based photographer.

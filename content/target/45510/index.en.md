@@ -10,6 +10,4 @@
   "start_date": "2016-09-22T10:00:00Z"
 }
 
-# Martin Daws
-
 Martin Daws combines modern poetry with hip hop lyricism, free jazz and fiction and is the Young People's Laureate for Wales, 2013-2015.

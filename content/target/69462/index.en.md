@@ -11,7 +11,5 @@
   "subject": "Religion/Theology"
 }
 
-# Parishes of St. Andrew's Dumfries and St. Columba's, Annan
-
 Site of two Scottish Roman Catholic parish churches located in Dumfries & Galloway, incorporating the parishes of Saint Francis of Assisi, Langholm and 
 Saint Mary, New Abbey, as well as St. Ninian's, Gretna.

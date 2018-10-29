@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Carlisle Labour Party
-
 Website of Carlisle Labour Party, providing information on city and county councillors, party officers, representatives and candidates, campaigns, events, and local and national news.

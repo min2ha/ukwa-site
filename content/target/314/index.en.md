@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS South Cheshire CCG
-
 None

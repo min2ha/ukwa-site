@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Desiderata: Election 2017 – a Digital Manifesto
-
 Proposes measures to improve the safety of children online.

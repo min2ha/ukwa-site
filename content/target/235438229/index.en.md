@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Autobiography in Random Chapters, An
-
 A blog presenting autobiographical articles and opinions.

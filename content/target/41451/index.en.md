@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Shirwell
-
 Shirwell is an ancient village in North Devon

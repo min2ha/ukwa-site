@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Muslims4Choice (@Muslims4Choice) on Twitter
-
 A pro choice collective of active Muslims who are committed to women's reproductive rights by supporting their right to choose.

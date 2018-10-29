@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# City of London : Speech by Mark Boleat, Chairman, City of London Policy and Resources Committee, on EU Referendum at Court of Common Council
-

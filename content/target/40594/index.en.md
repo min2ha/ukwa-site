@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Daily Mail, The: Brexit would cause a 'major hit' to house prices and hike up mortgages for first-time buyers, George Osborne warns as he exchanges blows with Michael Gove    
-

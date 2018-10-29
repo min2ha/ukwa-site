@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Gordon Munro for N&L (@GJMunro26) on Twitter
-
 Twitter profile of Gordon Munro, Scottish Labour candidate for Edinburgh North and Leith in the 2017 general election.

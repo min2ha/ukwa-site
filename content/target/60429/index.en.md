@@ -10,6 +10,4 @@
   "start_date": "2018-01-19T09:00:00Z"
 }
 
-# Networked Care: A toolkit for sustainable single speciality services
-
 This toolkit is the culmination of the first year of Moorfields’ vanguard programme, one of 50 vanguard programmes in England chosen to design new models of care addressing the long-term sustainability of the NHS.

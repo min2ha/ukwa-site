@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Owen Thompson
-
 This is the website of Owen Thompson, the Scottish National Party (SNP) candidate for Midlothian in the UK General Election on the 7th May 2015.

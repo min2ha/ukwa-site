@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Lewis Sturrock (@VoteAmazing) on Twitter
-
 Twitter profile of Lewis Sturrock, Something New candidate for Ross, Skye and Lochaber in the 2017 general election.

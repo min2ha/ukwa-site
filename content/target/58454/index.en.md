@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# BBC Русская служба / BBC Russkaia sluzhba (BBC Russian Service)
-
 BBC Russian-language news platform.

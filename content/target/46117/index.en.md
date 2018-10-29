@@ -11,5 +11,3 @@
   "subject": "Poetry Zines and Journals"
 }
 
-# Tartantight's Blog: The Thoughts Of A Talkative Trans Woman
-

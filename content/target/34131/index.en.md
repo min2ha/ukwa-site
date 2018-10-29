@@ -10,6 +10,4 @@
   "start_date": "2016-01-19T09:00:00Z"
 }
 
-# Cymru a'r Byd | Wales International
-
 Wales International was founded in 1948 to establish, foster and maintain links between Wales and people of Welsh descent throughout the world.

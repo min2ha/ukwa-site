@@ -10,6 +10,4 @@
   "start_date": "2017-06-09T09:00:00Z"
 }
 
-# Oriel Brandanw
-
 Oriel Brandanw is an Art Gallery in Penrhyndeudraeth, Gwynedd.

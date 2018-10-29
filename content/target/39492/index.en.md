@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Children of The Great War
-
 A major London wide project aimed at enabling young and old to create heritage outcomes inspired by the untold stories of their family and community histories.

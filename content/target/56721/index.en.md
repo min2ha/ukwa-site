@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: A new British identity is key to Brexit’s success. So who do we want to be?
-

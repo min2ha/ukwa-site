@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# British Election Study
-
 None

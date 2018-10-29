@@ -10,6 +10,4 @@
   "start_date": "2017-06-07T09:00:00Z"
 }
 
-# Heating Centre
-
 Based in Lincolnshire, Heating Centre has an extensive product range covering all aspects of gas, wood burning, multi fuel, and electric fires and stoves. Along with an extensive product range, we offer boiler upgrades, servicing and quality central heating installations.

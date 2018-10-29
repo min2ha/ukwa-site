@@ -10,6 +10,4 @@
   "start_date": "2018-10-04T09:00:00Z"
 }
 
-# Gorilla Group Ltd.
-
 Gorilla is a Cardiff based full service post production house specialising in broadcast media and film.

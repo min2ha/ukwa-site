@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Vale of Glamorgan For Europe #FBPE (@ValeforEurope) on Twitter
-
 Vale of Glamorgan For Europe is a Pro-EU grassroots campaign group based in The Vale of Glamorgan.

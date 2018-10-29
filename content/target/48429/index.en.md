@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Ciwdod
-
 Ciwdod is a branch of Community Music Wales. The aim is to develop and nurture Welsh language music and bands.

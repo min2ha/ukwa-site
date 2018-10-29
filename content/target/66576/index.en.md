@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# BSSH (@BritSportHisSoc) on Twitter
-
 British Society of Sports History promotes the study of sport history and physical recreation.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: UK's Brexit transition plans released
-
 Details of the UK's plans for a transition period of "around two years" immediately after Brexit were revealed in a leaked document.

@@ -10,6 +10,4 @@
   "start_date": "2015-11-12T09:00:00Z"
 }
 
-# Neyland News
-
 The site is by Simon Hancock and showcases his work as a Pembrokeshire County Councillor, Town Councillor and share news for the town of Neyland. 

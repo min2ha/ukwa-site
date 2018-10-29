@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# Conservative Muslim Forum
-
 The Conservative Muslim Forum (CMF) is part of the Conservative Party with all members being full members of the Party. It aims to encourage British Muslims to play their full part in the political life of the country, and in particular to support the Conservative Party, join the Conservative Party and stand as Conservative Party candidates.

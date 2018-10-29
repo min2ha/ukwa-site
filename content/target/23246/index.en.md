@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ann Griffith (@AnnGriffPlaid) on Twitter (Plaid Cymru candidate for Montgomeryshire) 
-
 Ann Griffith is the Plaid Cymru candidate for North Wales at the 2016 National Assembly Election and Montgomery for the 2015 General Election.

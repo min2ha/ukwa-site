@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# HCA Librarian: Why football banned women
-
 The University of Edinburgh library blog for the School of History, Classics and Archaeology. This blog post was on the English FA ban of women's football in 1921. 

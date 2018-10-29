@@ -10,5 +10,3 @@
   "start_date": "2012-07-12T00:00:00Z"
 }
 
-# Biodiversity Information Service for Powys and Brecon Beacons National Park (BIS)
-

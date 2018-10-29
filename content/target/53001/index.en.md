@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Specialist Engineering Contractors' Group (SEC): Manifesto for the Built Environment supply chain
-
 The manifesto calls for: payment security for SMEs; smarter procurement of publicly funded infrastructure works; and s statutory licensing scheme for contracting companies.

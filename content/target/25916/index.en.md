@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Cavaliers v Roundheads is great telly but bad politics
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Brexit bill on the brink: Labour, Scots and Welsh gang up to DERAIL the plan amid warnings May will be forced out of her job
-
 Labour, Nicola Sturgeon and the Welsh government threatened to band together to derail the Repeal Bill that ends the EU’s power over Britain.

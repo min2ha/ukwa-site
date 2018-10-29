@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-#  Pwerdy-Powerhouse
-
 Pwerdy - Powerhouse is an arts and community centre located in Llandysul.

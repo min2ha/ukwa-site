@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Labour demands changes to Brexit repeal bill
-
 Labour would back Conservative rebels over Brexit unless the prime minister accepted changes to its repeal bill, the party's shadow Brexit secretary said..

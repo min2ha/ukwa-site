@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Porthcawl Elvis Festival
-
 Thousands of people descend on the festival every september and the festival is by now the largest Elvis event in the World. This is the offical website for the festival.

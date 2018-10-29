@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent Age
-
 Independent Age - Advice and Support for Older Age is a registered charity in England, which provides the elderly with free services.

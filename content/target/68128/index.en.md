@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: Three 'simple' requirements for EU citizens to stay in UK
-
 Outlines the procedure for EU citizens to apply for settled status in the UK after Brexit.

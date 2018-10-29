@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# NHS South Eastern Hampshire CCG
-
 None

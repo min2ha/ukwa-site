@@ -10,6 +10,4 @@
   "start_date": "2016-06-08T10:00:00Z"
 }
 
-# Dumbarton Road Corridor Environment Trust
-
 Site of a community group in West Glasgow aiming to protect and enhance the local environment and to increase the wellbeing and resilience of local people in the communities of Yoker, Scotstoun and Whiteinch.

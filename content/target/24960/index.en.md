@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: This was YOUR victory: How Middle England rose up to humiliate pollsters and save the nation from Red Ed
-
 None

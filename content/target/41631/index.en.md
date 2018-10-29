@@ -10,6 +10,4 @@
   "start_date": "2016-05-25T10:00:00Z"
 }
 
-# Royal Society of Edinburgh
-
 Site of an educational charity based in Edinburgh and supporting work science & technology, arts, humanities, social science, business and public service through its fellows and funding.

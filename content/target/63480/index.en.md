@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Scottish Unitarian Association
-
 Site of Unitarianism in Scotland, aiming to create a network of mutual support amongst our Scottish congregations in order to assist their development and to promote the spread of Unitarian principles and ideas ideas in Scotland.

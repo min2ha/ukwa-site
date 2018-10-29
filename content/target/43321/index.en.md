@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# a-n: EU referendum
-
 The opinions of artists on the EU referendum and its impact upon the arts

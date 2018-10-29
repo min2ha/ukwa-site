@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Corinthian Lodge No.4917
-
 Corinthian Lodge No. 4917 was founded in 1927 and meet in the Swansea Masonic Hall. 

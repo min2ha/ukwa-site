@@ -11,5 +11,3 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Cae'r Gors Canolfan Dreftadaeth Kate Roberts
-

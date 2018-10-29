@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Ian Stotesbury (@IanStotesbury) on Twitter (Liberal Democrats Politician)
-
 Ian Stotesbury stood as Liberal Democrats candidate for Watford at the 2017 General Election but was not elected.

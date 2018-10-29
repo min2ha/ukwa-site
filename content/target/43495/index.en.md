@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Libertarian Home
-
 Libertarian news and commentary aggregator

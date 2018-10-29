@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour did not lose election because it was too leftwing, says Unite chief
-
 None

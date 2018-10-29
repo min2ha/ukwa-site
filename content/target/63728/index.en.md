@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Troon Old Parish Church
-
 The website of Troon Old Parish Church.

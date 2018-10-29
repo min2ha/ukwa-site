@@ -10,6 +10,4 @@
   "start_date": "2016-05-13T10:00:00Z"
 }
 
-# Traditional Music and Song Association of Scotland
-
 Site of an association promoting, preserving and organising events in Scottish traditonal music in particular and traditional music in general. 

@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Friends of Lebanon
-
 Friends of Lebanon has been created to provide a worldwide community to celebrate and support Lebanon. We would like not only to help rebuild Lebanon, but also to provide the education and understanding needed to prevent the reoccurrence of such mindless acts of violence. Together we can and will build a better and more peaceful Lebanon.

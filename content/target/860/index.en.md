@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Leeds and York Partnership NHS
-
 None

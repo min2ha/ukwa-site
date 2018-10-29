@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# BBC News: Chris Grayling says Cameron's EU deal 'may make things worse'
-
 BBC News: Chris Grayling says Cameron's EU deal 'may make things worse'

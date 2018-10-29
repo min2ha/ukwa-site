@@ -10,6 +10,4 @@
   "start_date": "2017-03-18T09:00:00Z"
 }
 
-# Association of Scottish Stillwater Fisheries
-
 The place to find quality assured fishing in Scotland. Our members are all commercially run fisheries that vary from small, intimate waters, to some of the largest stocked stillwaters in the country. 

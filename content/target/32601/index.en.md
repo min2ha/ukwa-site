@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Cyber Security Oxford, University of Oxford
-
 Cyber Security Oxford is a network which aims to support all of the researchers and experts working on Cyber Security at the University of Oxford. This website (and the network in general) provide access to the wide variety of research and education activities going on across the University.

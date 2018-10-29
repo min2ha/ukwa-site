@@ -10,6 +10,4 @@
   "start_date": "2018-09-28T09:00:00Z"
 }
 
-# Welsh Economic Challenge
-
 The main objective of the 'Welsh Economic Challenge' project is to identify the best measures and policy options for triggering transformational change in the Welsh economy. The reports was published by the Creative Leadership and Enterprise Centre, Cardiff School of Management. The Project investigates the development of the Welsh economy, and engages with others to discuss answers to these questions.

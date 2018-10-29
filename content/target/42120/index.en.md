@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# It's happening in Heeley!
-

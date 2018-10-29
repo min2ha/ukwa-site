@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Supreme Court: The Supreme Court: Guardian of the Constitution?
-
 Lady Hale presents arguments for and against the government being able to use the royal prerogative to trigger Brexit negotiations without an Act of Parliament.

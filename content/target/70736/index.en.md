@@ -11,8 +11,6 @@
   "subject": "Religion/Theology"
 }
 
-# Catholic Faith Exploration (CaFE)
-
 Since 1996, with encouragement from the Vatican, we at CaFE have been producing a wide variety of modern and attractive DVD resources for Catholics.
 A growing number of Anglican parishes are also successfully using CaFE.
 

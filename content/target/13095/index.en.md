@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Wimbledon
-
 Official website of The Championships, Wimbledon.

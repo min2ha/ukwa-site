@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Le Tour de France Fan Park
-
 Official UK fan entertainment zones for the Tour de France

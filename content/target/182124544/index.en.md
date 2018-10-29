@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# MADE in Europe - Muslim Agency for Development Education
-
 MADE in Europe is a Muslim-led movement of young people who want to see our community leading the fight against global poverty and injustice.

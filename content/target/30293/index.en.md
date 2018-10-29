@@ -11,5 +11,3 @@
   "subject": "Forth Bridge 125th Anniversary"
 }
 
-# University of Glasgow :: Story :: Biography of Kaichi Watanabe
-

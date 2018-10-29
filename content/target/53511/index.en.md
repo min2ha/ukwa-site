@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Mathew Maxwell Scott (@mmaxwellscott ) on Twitter (Conservative Politician)
-
 Matthew Maxwell Scott stood as Conservative candidate for Carshalton and Wallington at the 2017 General Election but was not elected,

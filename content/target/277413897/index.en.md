@@ -10,6 +10,4 @@
   "start_date": "2014-11-20T10:00:00Z"
 }
 
-# British Library Press and Policy Centre
-
 None

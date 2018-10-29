@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Cardiff Hurricanes (@CardiffCanes) on Twitter
-
 Cardiff's premier flag football team competing in the @BAFAOfficial SWC Premier Division. 2014 BAFFL Champions.

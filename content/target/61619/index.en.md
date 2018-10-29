@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Embracing soft Brexit would be risky for Corbyn. But it’s still the smart move
-

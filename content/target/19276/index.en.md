@@ -11,6 +11,4 @@
   "subject": "Magna Carta 2015"
 }
 
-# Magna Carta Trails
-
 Website inviting to visit England and commemorate, along with the ten Charter towns and the many towns and villages connected with this period of history, the 800th anniversary of Magna Carta.

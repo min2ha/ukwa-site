@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: It's in here! Ed-stone made for No 10 tracked down to bleak London warehouse and boss of stonemasons who carved it reveals he's a 'true-blue' Tory
-
 None

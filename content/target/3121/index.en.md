@@ -10,6 +10,4 @@
   "start_date": "2015-07-21T10:00:00Z"
 }
 
-# Polish Institute and Sikorski Museum
-
 The Polish Institute and Sikorski Museum, commonly known as Sikorski Institute, is a London-based non-governmental organization of the Polish minority in United Kingdom. It was created after the Second World War to preserve the memory of Polish armed forces in the West and their contribution to World War II.

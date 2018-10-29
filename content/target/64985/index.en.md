@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Men For Yes
-
 Men For Yes campaigns to encourage men to engage with and vote Yes in the referendum to repeal the 8th amendment in the Republic of Ireland on the 25th May 2018.

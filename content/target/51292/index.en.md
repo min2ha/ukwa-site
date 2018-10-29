@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Can England avoid a meltdown of national identity?
-

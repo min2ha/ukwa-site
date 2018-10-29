@@ -10,6 +10,4 @@
   "start_date": "2015-09-05T10:00:00Z"
 }
 
-# Business in Focus
-
 Welsh Government funded business start up advice and support organisation that operate throughout Bridgend, Caerphilly, Cardiff, Rhondda Cynon Taf, Swansea, and the Vale of Glamorgan.

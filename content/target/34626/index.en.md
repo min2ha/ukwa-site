@@ -10,6 +10,4 @@
   "start_date": "2016-01-27T09:00:00Z"
 }
 
-# Action on Sugar
-
 Action on Sugar is a group of specialists concerned with sugar and its effects on health. It is successfully working to reach a consensus with the food industry and Government over the harmful effects of a high sugar diet, and bring about a reduction in the amount of sugar in processed foods.

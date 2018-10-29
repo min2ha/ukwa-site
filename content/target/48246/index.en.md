@@ -10,6 +10,4 @@
   "start_date": "2017-01-13T09:00:00Z"
 }
 
-# Dylan Cernyw
-
 Dylan Cernyw is an International Harpist has won at the National Eisteddfod in 1989, 1991 and 1994 and was also a winner at the Cerdd Dant Festival in 1992.

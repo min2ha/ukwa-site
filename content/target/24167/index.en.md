@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: David Cameron launches charm offensive to head off Right-wing rebel Tory MPs
-
 None

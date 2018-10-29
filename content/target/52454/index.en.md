@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# King's Fund: Assessing the credibility of election manifesto promises on health and social care
-
 Ahead of publication of the parties’ 2017 election manifestos, this post sets out  five tests for assessing the credibility of their commitments on health and social care. It also highlights the importance of choices the next government makes on tax and public spending, and its willingness to lead a grown-up debate about the balance between public and private responsibilities.

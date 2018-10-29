@@ -11,5 +11,3 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# NHS Greater Glasgow and Clyde: Ebola / Viral Haemorrhagic Fever Staff Portal
-

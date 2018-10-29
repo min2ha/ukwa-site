@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Bath Taps into Science
-
 Science festival focussed on exciting and enthusing young children and families with engineering.

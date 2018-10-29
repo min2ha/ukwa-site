@@ -11,8 +11,6 @@
   "subject": null
 }
 
-# Daily Mail: Facebook and Twitter could lead to a mental health timebomb: Experts warn social media leaves addicts 'trapped in an endless cycle of depression'  
-
 News article: Daily Mail social media leaves addicts 'trapped in an endless cycle of depression'
 
 Read more: http://www.dailymail.co.uk/sciencetech/article-3508630/Facebook-Twitter-lead-mental-health-timebomb-Experts-warn-social-media-leaves-addicts-trapped-endless-cycle-depression.html#ixzz4jnLbBprP 

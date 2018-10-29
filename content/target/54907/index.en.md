@@ -11,6 +11,4 @@
   "subject": "Magic"
 }
 
-# White Goddess, The: Pagan Portal and Forums
-
 The White Goddess Pagan Portal, is an online resource for Pagans, Wiccans and Witches, providing in depth information on a varied range of areas, including, Moon Phases, The Sabbats, Book of Shadows and a Forum for the serious discussion of Pagan topics.

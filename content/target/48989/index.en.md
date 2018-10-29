@@ -10,6 +10,4 @@
   "start_date": "2017-02-02T09:00:00Z"
 }
 
-# 6 Degrees West Artists Collective
-
 Site of a blog for an artists collective working and exhibiting in and about Scotland.

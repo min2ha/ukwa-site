@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# ROCK&BIKEFEST
-
 Website for the ROCK&BIKEFEST Festival

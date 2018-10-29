@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Kingussie Food on Film Festival
-
 Site of a film festival focusing on food on film, with associated creative and other events featuring food.

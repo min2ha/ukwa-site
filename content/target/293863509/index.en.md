@@ -11,5 +11,3 @@
   "subject": "UK General Election 2015"
 }
 
-# David Jones (Conservative MP for Clwyd West)
-

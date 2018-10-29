@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Guy Chester Centre
-
 None

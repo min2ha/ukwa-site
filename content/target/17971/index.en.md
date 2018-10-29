@@ -10,6 +10,4 @@
   "start_date": "2015-03-14T09:00:00Z"
 }
 
-# Recycling Factory, The
-
 The Recycling Factory is a division of Dynamic Cassette International (DCi) based in Boston, Lincolnshire, with additional offices and collection centres in Germany. The Recycling Factory collects and recycles over 8 million inkjet & toner cartridges a year.

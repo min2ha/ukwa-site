@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Tandragee Remembers
-
 Project to visit the known Graves and Memorials of all those named on the Tandragee War Memorial and to produce four fixed information boards in close proximity to the Memorial giving much more details of those named on it.

@@ -10,6 +10,4 @@
   "start_date": "2016-04-27T10:00:00Z"
 }
 
-# Rod MacDonald : Shipwrecks of Scotland
-
 The website of shipwreck explorer Rod MacDonald which includes extensive information on the shipwrecks of Scotland.

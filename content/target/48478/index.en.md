@@ -11,5 +11,3 @@
   "subject": "British Overseas Territories"
 }
 
-# Gibraltar Local Disability Movement  
-

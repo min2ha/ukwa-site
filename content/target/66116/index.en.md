@@ -10,6 +10,4 @@
   "start_date": "2018-05-24T09:00:00Z"
 }
 
-# DSAG (@DSAGUoL) on Twitter
-
 Digital Student Ambassador Group from University of Lincoln seeking to engage, network & progress the use of digital technology 

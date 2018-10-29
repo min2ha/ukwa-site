@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Non League Crowds (@NonLeagueCrowd) on Twitter
-
 A non league football fan site for English clubs.

@@ -11,6 +11,4 @@
   "subject": "Black and Asian Britain"
 }
 
-# Al-Hasaniya Moroccan Women’s Centre
-
 Founded in 1985, Al-Hasaniya Moroccan Women’s Centre seeks to serve the health, welfare, educational and cultural needs of Moroccan and Arabic-speaking women and their families resident in the Royal Borough of Kensington & Chelsea and London-wide.

@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Bargoed Rugby Football Club
-

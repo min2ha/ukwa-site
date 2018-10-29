@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Wensleydale and Swaledale Quakers
-

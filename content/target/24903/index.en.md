@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Clive Peedell, National Health Party  for Witney 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# puddletownrfc (@puddletownrfc) on Twitter
-
 The official Twitter account of Puddletown Rugby Football Club.

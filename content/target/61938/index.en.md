@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Leicester City F.C.
-
 Leicester City Football Club is an English professional football club based at the King Power Stadium in Leicester.

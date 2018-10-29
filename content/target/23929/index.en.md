@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Lord Mandelson's firm suggests Labour will do a deal with SNP
-
 None

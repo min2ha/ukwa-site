@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Get Surrey: Queen's statue may mark Magna Carta anniversary in Egham
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Berwick Green Party
-
 The Green Party have announced the selection of Thomas Stewart as prospective candidate for the Berwick constituency.

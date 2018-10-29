@@ -10,6 +10,4 @@
   "start_date": "2018-06-07T09:00:00Z"
 }
 
-# Meallmore Limited
-
 The website of Meallmore Limited, a nursing home operator based in Inverness, Scotland.

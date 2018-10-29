@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# EU referendum chat forum on Singletrackworld.com
-
 EU referendum chat forum on Singletrackworld.com

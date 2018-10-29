@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# History Today.com: Magna Carta: A Bitter Indictment of King John's Rule?
-

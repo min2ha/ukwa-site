@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ceann an Tuirc on Facebook
-
 Ceann an Tuirc are a male voice Gaelic choir, formed by members from across Argyll.

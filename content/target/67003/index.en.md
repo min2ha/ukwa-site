@@ -10,6 +10,4 @@
   "start_date": "2018-06-08T09:00:00Z"
 }
 
-# Charles Rennie Macintosh House - 78 Derngate
-
 Site of a museum, venue and shop located in a house designed by Charles Rennie Macintosh, and located in Northampton.

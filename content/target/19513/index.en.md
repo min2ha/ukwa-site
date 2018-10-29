@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Unlock Democracy: About our Magna Carta Project
-

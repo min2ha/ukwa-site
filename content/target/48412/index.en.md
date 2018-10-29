@@ -10,5 +10,3 @@
   "start_date": "2017-01-18T09:00:00Z"
 }
 
-# Mountain Ash and District Choral Society
-

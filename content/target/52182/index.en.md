@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Anne’s Sale, St. Francis, Sale Moor
-
 St Anne’s is a Christian community and it is part of the Church of England.

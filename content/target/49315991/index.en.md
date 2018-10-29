@@ -11,5 +11,3 @@
   "subject": "Italy UK"
 }
 
-# Italian, Faculty of Medieval and Modern Languages, University of Oxford
-

@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Carol Mochan (@CMochan) on Twitter
-
 Twitter profile of Carol Mochan, Scottish Labour candidate for Ayr, Carrick and Cumnock in the 2017 general election.

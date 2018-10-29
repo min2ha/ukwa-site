@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Guardian, The: Hard or soft Brexit? Theresa May can have both
-

@@ -10,6 +10,4 @@
   "start_date": "2015-02-07T00:00:00Z"
 }
 
-# Asylum Aid
-
 Asylum Aid is an independent, national charity working to secure protection for people seeking refuge in the UK from persecution and human rights abuses abroad. They provide free legal advice and representation to the most vulnerable and excluded asylum seekers, and lobby and campaign for an asylum system based on inviolable human rights principles.

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Constitutional Reform Group (CRG)
-
 The Constitution Reform Group, convened by former Conservative cabinet minister Lord Salisbury, supports a need for radical constitutional change in the UK and that the existing union should be replaced with fully devolved government in each part of the UK, with each given full sovereignty over its own affairs. 

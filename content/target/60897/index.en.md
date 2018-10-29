@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# digital director video forum
-
 An online enthusiast community concerned with filming and video editing. Discusses filming and editing advice and ideas through a number of sub-forums.

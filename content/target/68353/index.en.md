@@ -10,6 +10,4 @@
   "start_date": "2018-06-28T09:00:00Z"
 }
 
-# Tenement Trail Festival
-
 Website of an annual multi-venue festival in Glasgow, Scotland. 

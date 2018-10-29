@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: No-deal Brexit myths debunked - ROSS CLARK explains why we WON'T starve and planes WILL take off
-
 Article argues against some of the more lurid scare stories about the impact of a "no deal" Brexit.

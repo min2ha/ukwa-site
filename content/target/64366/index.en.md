@@ -10,6 +10,4 @@
   "start_date": "2018-04-17T09:00:00Z"
 }
 
-# Griff Rhys-Jones Fansite
-
 Griffith Rhys Jones is a Welsh comedian, writer, actor and television presenter known for his performances on 'Not the Nine O'Clock News' and 'Alas Smith and Jones'. He is also an author. 

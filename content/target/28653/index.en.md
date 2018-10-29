@@ -10,6 +10,4 @@
   "start_date": "2015-07-03T10:00:00Z"
 }
 
-# British Goat Society
-
 British Goat Society aims to circulate knowledge and general information upon goats; to extend and encourage the keeping of goats, so as to increase the production and use of their products and to improve the various breeds of goats.

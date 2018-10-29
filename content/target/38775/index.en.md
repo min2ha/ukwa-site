@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# David Cameron gambles on the status quo in EU referendum 
-
 Guardian, The

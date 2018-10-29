@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# Derry Pro Life (@DerryProLife) on Twitter
-
 Focus of this account is to raise awareness of the #savethe8th campaign in Derry City and signpost activists and supporters to established groups.

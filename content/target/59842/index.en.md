@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Facebook: Post more to feel better about yourself
-
 News article about facebook and the effect it has on the mental health of its users. Facebook has defended itself against claims that using the site can damage wellbeing and mental health. In a blogpost, it said while there was evidence it could negatively affect mood, the way it affected people was determined by how they used it

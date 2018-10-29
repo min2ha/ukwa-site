@@ -10,6 +10,4 @@
   "start_date": "2018-05-12T09:00:00Z"
 }
 
-# Kilbarchan Warp & Weft, Story & Song
-
 Site of an online project and blog to collect stories and songs about the village and parish of Kilbarchan, Renfrewshire.

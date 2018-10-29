@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Supreme Court, The
-
 The Supreme Court is the final court of appeal in the UK for civil cases, and for criminal cases from England, Wales and Northern Ireland. It hears cases of the greatest public or constitutional importance affecting the whole population.

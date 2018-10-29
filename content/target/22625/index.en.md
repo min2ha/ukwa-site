@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: How election result could send financial markets into a tailspin and send the pound and shares crashing
-
 None

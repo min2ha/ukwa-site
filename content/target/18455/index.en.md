@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: Scottish Labour conference: Ed Miliband says vote SNP and risk Tory rule
-
 None

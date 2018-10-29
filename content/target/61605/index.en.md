@@ -11,7 +11,5 @@
   "subject": "Brexit"
 }
 
-# House of Commons Library: Brexit: Council Directives for Negotiations on Transition
-
 This Commons Library briefing paper looks at the January 2018 negotiating directives drawn up by the Council of Ministers, in light of the guidelines established by the European Council in December 2017. Their content sheds light on any ‘red lines’ the EU might have in place for Phase 2 of the negotiations with the UK regarding withdrawal from the European Union.
 

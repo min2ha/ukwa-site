@@ -10,6 +10,4 @@
   "start_date": "2017-05-26T09:00:00Z"
 }
 
-# Development Coll
-
 Site of a community company set up to promote the sustainable development of the Isle of Coll for the benefit of residents, visitors, groups and businesses.

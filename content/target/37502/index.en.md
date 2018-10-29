@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Arts Professional: The European Perspective 
-
 Arts Professional: The European Perspective 

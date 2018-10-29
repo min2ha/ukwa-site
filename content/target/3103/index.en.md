@@ -10,6 +10,4 @@
   "start_date": "2015-07-18T10:00:00Z"
 }
 
-# National Trust for Scotland, The
-
 The National Trust for Scotland for Places of Historic Interest or Natural Beauty is a charity registered in Scotland.

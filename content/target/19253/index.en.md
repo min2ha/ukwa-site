@@ -11,5 +11,3 @@
   "subject": "Magna Carta 2015"
 }
 
-# Lincolnshire Echo: The Mayor of Lincoln sheds light on the Magna Carta
-

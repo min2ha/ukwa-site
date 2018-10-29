@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Dafydd Elis-Thomas (@ElisThomasD) on Twitter (Plaid Cymru candidate for Dwyfor Meirionedd)
-
 Dafydd Ellis Thomas is the Plaid Cymru candidate for Dwyfor Meirionedd at the 2016 National Assembly Elections.

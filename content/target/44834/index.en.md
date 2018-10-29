@@ -11,6 +11,4 @@
   "subject": "Sports Collection"
 }
 
-# Canolfan Cadwraeth a Gwarchodfa Natur Pensychnant | Pensychant Conservation and Centre and Nature Reserve
-
 Pensychnant is 2½ miles from Conwy or Penmaenmawr on the North Wales coast. The Pensychnant Foundation was established in 1989 to protect the history and natural history of Sychnant. 

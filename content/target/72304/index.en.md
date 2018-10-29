@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Fraserburgh Community Church
-
 Site of an Elim Pentecostal church (Christian) located in Fraserburgh, Aberdeenshire.

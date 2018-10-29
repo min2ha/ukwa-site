@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Welsh Labour Grassroots : The Home for Momentum in Wales
-

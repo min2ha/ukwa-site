@@ -10,6 +10,4 @@
   "start_date": "2018-09-11T09:00:00Z"
 }
 
-# Walking in North Wales
-
 Walking in North Wales is a Tourism Partnership North Wales website and provides details of walks across north Wales.

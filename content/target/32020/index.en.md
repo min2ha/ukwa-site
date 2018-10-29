@@ -10,6 +10,4 @@
   "start_date": "2015-11-02T09:00:00Z"
 }
 
-# Europe Direct Llangollen
-
 EUROPE DIRECT Information Centre - Llangollen is based within ECTARC, the European Centre for Training and Regional Co-operation, and is part of the network of 500 Europe Direct Information Centres across the EU.

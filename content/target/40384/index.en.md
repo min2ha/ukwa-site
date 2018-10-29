@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Brexit will cost 100,000 jobs, Cabinet minister warns
-

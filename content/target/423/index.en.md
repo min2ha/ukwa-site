@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# St Helens Health and Wellbeing Board
-
 None

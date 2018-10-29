@@ -10,6 +10,4 @@
   "start_date": "2016-02-01T09:00:00Z"
 }
 
-# Blue Sky Trust
-
 Blue Sky Trust supports people affected by HIV.

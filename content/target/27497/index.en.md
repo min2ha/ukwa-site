@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: Nicola Sturgeon says UK is 'hungry and restless' for a party like the SNP
-
 None

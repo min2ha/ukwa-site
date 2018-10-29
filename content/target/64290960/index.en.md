@@ -10,6 +10,4 @@
   "start_date": "2012-02-16T00:00:00Z"
 }
 
-# Ty Cerdd - Music Centre Wales
-
 Music Centre

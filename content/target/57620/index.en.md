@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# TZ-UK Forums
-
 An online enthusiast community concerned with collecting watches. Discusses general watch talk, watch straps, reviews, British Military Watches and various other topics.

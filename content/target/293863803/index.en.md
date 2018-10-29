@@ -11,6 +11,4 @@
   "subject": "Blogs"
 }
 
-# Left Unity Wales | Chwith Unedig Cymru
-
 Website of Left Unity party in Wales, providing statements and minutes of meetings and a blog on local, national and party issues.

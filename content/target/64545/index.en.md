@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Third Age Trust, The - University of the Third Age (U3A) - Sources Pages
-
 Sources pages for the University of the Third Age (Third Age Trust)

@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Poetic Places
-
 Poetic Places is a free app for iOS and Android devices and the main outcome of a collaboration between Sarah Cole of TIME/IMAGE and the British Library.

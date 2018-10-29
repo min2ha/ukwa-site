@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Embassy of the Republic of Bulgaria, London
-
 The Bulgarian Embassy presents the country to the British public by providing information on Bulgaria in general, dwelling briefly on aspects of Bulgarian life, supplying up-to-date information on topics of interest of Bulgarian activities in the United Kingdom and the activities of this Embassy in particular, and spelling out details on visa requirements.

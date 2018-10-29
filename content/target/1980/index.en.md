@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# NHS Choices (@nhschoices) on Twitter
-

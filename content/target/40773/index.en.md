@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: Government treating UK public 'like fools' in Brexit debate, says Thatcher's economic adviser
-

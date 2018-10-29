@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Zoe Hennessy (@Zoe_H90) on Twitter
-
 The Twitter profile of Zoe Hennessy, the Communist Party of Britain candidate for Glasgow North West in the UK General Election on the 7th May 2015.

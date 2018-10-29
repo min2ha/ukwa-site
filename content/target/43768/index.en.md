@@ -10,6 +10,4 @@
   "start_date": "2016-06-24T10:00:00Z"
 }
 
-# Relationships Scotland
-
 Site of an organisation providing relationship counselling, family mediation, child contact centres and other family support services across all of mainland and island Scotland.

@@ -10,5 +10,3 @@
   "start_date": "2013-02-01T00:00:00Z"
 }
 
-# mwd-hosting Web Design
-

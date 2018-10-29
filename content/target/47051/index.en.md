@@ -10,6 +10,4 @@
   "start_date": "2016-11-16T09:00:00Z"
 }
 
-# Howardian Local Nature Reserve
-
 Howardian Local Nature Reserve is in the lower Rhymney valley, Penylan, Cardiff.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pool, The: Sexist reporting on the Olympics needs to stop
-
 An article about the women  who are doing amazing things in sports, but the headlines focus on the men in their personal lives and their skirt length.

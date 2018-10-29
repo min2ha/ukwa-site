@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Lisa Cameron on Facebook
-
 This is the Facebook page of Lisa Cameron, the Scottish National Party (SNP) candidate for East Kilbride, Strathaven and Lesmahagow in the UK General Election on the 7th May 2015.

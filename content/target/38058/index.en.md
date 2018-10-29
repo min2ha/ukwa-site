@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# StrongerINChelt (@SrongerINChelt) on Twitter
-
 Cheltenham local campaign for the UK to stay in the EU

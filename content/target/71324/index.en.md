@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-#  BHarlequins RFC (@BHarlequinsRFC) on Twitter
-
 Belfast's Premier Amateur Rugby Club

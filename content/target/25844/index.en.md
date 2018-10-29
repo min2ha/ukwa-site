@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Renters, first-time buyers and owners – how will the election affect you?
-
 None

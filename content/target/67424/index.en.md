@@ -10,6 +10,4 @@
   "start_date": "2018-06-15T09:00:00Z"
 }
 
-# Born in the Borders
-
 Site of a brewer and restaurant located in Jedburgh.

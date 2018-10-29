@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Guardian, The: What's the best Brexit Theresa May could get for Britain?
-
 Guardian, The

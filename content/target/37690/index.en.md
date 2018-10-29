@@ -10,6 +10,4 @@
   "start_date": "2016-03-18T09:00:00Z"
 }
 
-# RSC Wales
-
 RCS was established 2007 as Rhyl City Strategy, a Department for Work and Pensions programme providing services to the 15 most disadvantaged areas of the UK. RCS Wales is continuation of this work when DWP involvement ended in 2011 and covers the Rhyl area of north Wales.

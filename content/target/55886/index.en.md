@@ -10,5 +10,3 @@
   "start_date": "2017-07-19T09:00:00Z"
 }
 
-# Gild Gwehyddion, Nyddwyr A Lliwyddion Ceredigion | Ceredigion Guild of Weavers, Spinners and Dyers
-

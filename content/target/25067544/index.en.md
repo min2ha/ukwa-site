@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# G4S plc
-
 G4S plc is a British multinational security services company, they offer a range of services, including the supply of security personnel, monitoring equipment, response units and secure prisoner transportation.

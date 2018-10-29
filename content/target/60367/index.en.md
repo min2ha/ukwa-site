@@ -10,6 +10,4 @@
   "start_date": "2018-01-17T09:00:00Z"
 }
 
-# BEAR Scotland
-
 A company which provides roads maintenance services in Scotland.

@@ -10,6 +10,4 @@
   "start_date": "2018-06-05T09:00:00Z"
 }
 
-# New Local Government Network
-
 The New Local Government Network (NLGN) is an independent think tank focused on local government reform. It was founded in 1996, and is currently based in Victoria, London. Its research and thought leadership programme seeks both practical impact for local government and partners, and to influence national policy priorities as they relate to places and public services.

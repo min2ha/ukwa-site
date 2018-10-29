@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ecclesiastical Law
-
 None

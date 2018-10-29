@@ -11,6 +11,4 @@
   "subject": "Local History Societies "
 }
 
-# Billingshurst Local History Society
-
 The Billingshurst Local History Society was founded more than 35 years ago. Its purpose is to promote an understanding and interest in the history of Billingshurst and its environs.

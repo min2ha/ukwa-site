@@ -11,5 +11,3 @@
   "subject": "Sport: Football"
 }
 
-# Cambridge University Rugby Union Football Club
-

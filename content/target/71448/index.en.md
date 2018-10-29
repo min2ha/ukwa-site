@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Radio Cam - Hafan i Gerddoriaeth a Ffilmiau Arbrofol | A Website for Music and Experimental Films
-
 CAM is a multi-media platform that is a hub for experimental music and film-making from Wales, as well as showcasing artists from around the world. CAM operates as a radio show, innovative film and documentary curators, a digital magazine and a series of live events – a haven for alternative thinking. The creation of CAM’s various media platforms was funded by CAM and the Welsh Government's Welsh Language and Digital Media grant.

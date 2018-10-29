@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# The National Student (@NationalStudent) on Twitter
-
 The National Student is the free, independent national student publication

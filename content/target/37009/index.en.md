@@ -10,6 +10,4 @@
   "start_date": "2016-03-11T09:00:00Z"
 }
 
-# Plants of Skye Raasay and the Small Isles 
-
 Word Press based natural history site providing reports on plants and animal life in the islands of Skye and Raasay, and others, in the Western Isles of Scotland

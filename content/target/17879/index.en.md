@@ -10,6 +10,4 @@
   "start_date": "2015-03-11T09:00:00Z"
 }
 
-# International Fertiliser Society (IFS)
-
 The International Fertiliser Society was founded in 1947 for individuals who have a professional interest in any aspect of fertiliser production, marketing and use. 

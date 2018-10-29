@@ -10,6 +10,4 @@
   "start_date": "2016-10-11T10:00:00Z"
 }
 
-# Institute of Hospitality
-
 The Institute of Hospitality are an international hospitality professional membership body for managers and aspiring managers who work and study in the hospitality, leisure and tourism industries.

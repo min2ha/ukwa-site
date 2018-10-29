@@ -10,6 +10,4 @@
   "start_date": "2018-03-06T09:00:00Z"
 }
 
-# Hilltop Theatre Company
-
 Hilltop Theatre Company is based in Pentyrch.

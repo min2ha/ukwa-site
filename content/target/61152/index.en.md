@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chartered Institute of Patent Attorneys
-
 The Chartered Institute of Patent Attorneys (CIPA) is the professional and examining body for patent attorneys in the United Kingdom. The Institute was founded in 1882 and was incorporated by Royal Charter in 1891. It represents over 2000 chartered patent attorneys, whether they practise in industry or in private practice. Total membership is over 3500 and includes trainee patent attorneys and other professionals with an interest in intellectual property matters.

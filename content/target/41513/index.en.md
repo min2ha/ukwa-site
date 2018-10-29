@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Telegraph, The: EU Facts: Would a vote to leave the EU really plunge Britain into a terrifying recession? 
-

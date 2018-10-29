@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Board of Deputies of British Jews (@BoardofDeputies) on Twitter
-
 An advocacy group for British Jewish people established in 1760.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# West Middlesex University Hospital
-
 None

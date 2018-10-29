@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Bernard Gilpin- Forgive but never forget
-
 Project to explore the lives of the 236 local men whose names are on the Houghton-le-Spring Cenotaph which is adjacent to the school.

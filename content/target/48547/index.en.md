@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Montserrat Reporter, The  
-
 Weekly newspaper with local and regional news, archive and business directory.

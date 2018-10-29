@@ -10,5 +10,3 @@
   "start_date": "2015-10-28T09:00:00Z"
 }
 
-# Rhwydwaith Iechyd Cyhoeddus Cymru | Physical Activity And Nutrition Wales
-

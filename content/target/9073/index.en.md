@@ -1,16 +1,14 @@
 {
-  "date": "2018-10-29T12:55:11.121446", 
+  "date": "2018-10-29T13:22:18.037846", 
   "open_access": false, 
   "target_url": "http://www.mwib.org.uk/", 
   "description": null, 
   "end_date": null, 
   "title": "Methodist Women in Britain", 
-  "record_id": "20181029T125511/EssiXE1VCVoc3VYB4RhHNw==", 
+  "record_id": "20181029T132218/EssiXE1VCVoc3VYB4RhHNw==", 
   "publisher": "mwib.org.uk", 
   "start_date": null, 
   "subject": "Religion/Theology"
 }
-
-# Methodist Women in Britain
 
 None

@@ -10,6 +10,4 @@
   "start_date": "2017-04-01T09:00:00Z"
 }
 
-# One World Centre
-
 Site of an organisation located in Dundee, which promotes global justice and equality through education by supporting schools and community groups in Dundee, Angus, Fife, Perth and Kinross to engage in global citizenship through active learning.

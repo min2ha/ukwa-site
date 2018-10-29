@@ -10,6 +10,4 @@
   "start_date": "2018-07-26T09:00:00Z"
 }
 
-# Boiler House Graffiti
-
 The Boiler House was established in 2015 and is a not for profit Graffiti Art Gallery space and promotes Graffiti Art as a positive art form. It is based in Cardiff.

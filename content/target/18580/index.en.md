@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elin Walker Jones (@elinmwj) on Twitter (Plaid Cymru candidate for Cardiff North)
-
 Elin Walker Jones is Plaid Cymru candidate for Cardiff North.

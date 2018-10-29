@@ -10,6 +10,4 @@
   "start_date": "2017-01-04T09:00:00Z"
 }
 
-# MOROL: Institute of Welsh Maritime Historical Studies | Sefydliad Astudiaeth Hanes Milwrol Cymru
-
 MOROL was established in 2005 in order to raise awareness of all aspects of Welsh maritime history. 

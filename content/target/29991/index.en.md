@@ -10,5 +10,3 @@
   "start_date": "2015-08-25T10:00:00Z"
 }
 
-# Cymdeithas Pysgotwyr Cymru | Welsh Fishermens Association 
-

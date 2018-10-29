@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Forth Bridges Festival
-
 <p>The website of the new Forth Bridges Festival; festival will celebrate the iconic bridges and mark the 50th anniversary of the Forth Road Bridge. The Forth Bridges Festival is a Scotland Homecoming 2014 Signature Event.</p>

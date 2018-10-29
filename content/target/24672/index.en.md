@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Peter Reeve (UKIP)
-
 Peter Reeve stood as UKIP candidate for Cambridgeshire North West at the 2015 General Election but was not elected.

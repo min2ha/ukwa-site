@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Conservatism has gone rogue and lost touch with the rest of us
-
 None

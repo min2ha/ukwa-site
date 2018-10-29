@@ -10,6 +10,4 @@
   "start_date": "2018-01-18T09:00:00Z"
 }
 
-# Elin Meredydd
-
 Elin Meredydd's practice has 'primarily been focused on text and performance. [Her] most recent works, predominantly performed in Wales and specifically developed whist undertaking the UNIT(e) residency at G39, have been observations on the ‘art world’ while transitioning from being a student to working independently'.

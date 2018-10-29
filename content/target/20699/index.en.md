@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Unite Scotland on Facebook
-
 Facebook account for Unite, the Unite Kingdom's largest union, with members in many different workplaces. Scotland branch news, campaigns and policy developments. 

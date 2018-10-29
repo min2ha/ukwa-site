@@ -10,6 +10,4 @@
   "start_date": "2015-10-08T10:00:00Z"
 }
 
-# Fatboy Slim
-
 Official website of Fatboy Slim (Norman Cook), English DJ, musician and producer.

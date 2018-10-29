@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Brain Tumour Research: General Election 2017: What do the Party manifestos say that might help brain tumour research?
-
 The post compares the pledges in the political parties' 2017 election manifestos with what Brain Tumour Research needs.

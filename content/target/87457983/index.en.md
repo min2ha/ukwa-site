@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Campaign for the Defence of British Universities
-
 None

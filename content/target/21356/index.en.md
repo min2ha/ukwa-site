@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Vote Jason Rose, Scottish Greens
-
 Website for Jason Rose, Scottish Green Party candidate for East Lothian in the 7th May 2015 UK General Elections.

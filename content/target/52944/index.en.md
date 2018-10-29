@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Andrew Bennison (@bennison_andrew) on Twitter
-
 Andrew Bennison is the Plaid Cymru candidate for Aberavon at the 2017 General Election.

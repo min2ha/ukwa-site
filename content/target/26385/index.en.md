@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Ed Miliband interview: the Labour leader talks junk food, his brother and Westminster arrogance – video
-
 None

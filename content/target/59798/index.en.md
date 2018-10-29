@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Britain must 'face the consequences' of Brexit, EU negotiator Michel Barnier warns as he rules out striking a unique deal in the trade talks  
-

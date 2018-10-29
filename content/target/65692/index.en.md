@@ -10,6 +10,4 @@
   "start_date": "2018-05-17T09:00:00Z"
 }
 
-# Rhysipedia
-
 Rhys Hughes is a fantasy/horror writer and essayist from Cardiff. This is his blog.

@@ -10,6 +10,4 @@
   "start_date": "2017-01-11T09:00:00Z"
 }
 
-# National Library of Wales: Y Brython (1858-1863)
-
 This is the digitised copy of the Welsh-language magazine, Y Brython (1858-1863) undertaken by the National Library of Wales.

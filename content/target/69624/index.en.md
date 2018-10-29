@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Peters R.C. Church
-
 Site of a Scottish Roman Catholic parish church located in Hamilton, Lanarkshire.

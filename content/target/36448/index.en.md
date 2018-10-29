@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Daily Express, The: EXCLUSIVE: How Tory MPs are being 'gagged' for campaigning over Brexit
-
 Article by Marco Giannangeli

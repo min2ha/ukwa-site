@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Rushcliffe and West Bridgford Green Party
-
 None

@@ -10,5 +10,3 @@
   "start_date": "2016-03-30T10:00:00Z"
 }
 
-# Courts and Tribunals Judiciary
-

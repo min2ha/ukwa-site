@@ -10,7 +10,5 @@
   "start_date": "2017-08-19T09:00:00Z"
 }
 
-#  Annie Grove-White 
-
 
 Annie Grove-White is a photographic and visual artist based in Cardiff.

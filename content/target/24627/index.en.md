@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip candidate investigated for election corruption after distributing sausage rolls at Jimmy White event
-
 None

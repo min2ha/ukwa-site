@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Mannofield Parish Church
-
 Mannofield Church of Scotland is situated in the West End of Aberdeen in the North East of Scotland. It is part of the Church of Scotland and Presbytery of Aberdeen. 

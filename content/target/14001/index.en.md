@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Scottish Liberal Democrats: Federalism: the best future for Scotland 
-
 <p>The report of the Home Rule and Community Rule Commission of the Scottish Liberal Democrats, chaired by Sir Menzies Campbell and published in October 2012.</p>

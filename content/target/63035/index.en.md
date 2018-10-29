@@ -10,6 +10,4 @@
   "start_date": "2018-03-24T09:00:00Z"
 }
 
-# Trinity Buoy Wharf
-
 Trinity Buoy Wharf - arts centre based around training lighthouse

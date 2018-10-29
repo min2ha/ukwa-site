@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's, Grangemouth and St. Catharine's, Bo'ness Episcopal Churches
-
 Site of two Christian churches and their congregations belonging to the Scottish Episcopal denomination and located in the Falkirk council area.

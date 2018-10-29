@@ -10,6 +10,4 @@
   "start_date": "2017-08-01T09:00:00Z"
 }
 
-# Trystan Owain Hughes 
-
 Trystan Owain Hughes is a a Christian theologian, historian and author. He is currently a Chaplain at Cardiff University.

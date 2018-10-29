@@ -10,6 +10,4 @@
   "start_date": "2016-04-21T10:00:00Z"
 }
 
-# Loftsman, The
-
 The Loftsman provides a history of the ships built at the Henry Robb Shipyard in Leith, Scotland including the four previous shipyards that all became the Henry Robb shipyards.

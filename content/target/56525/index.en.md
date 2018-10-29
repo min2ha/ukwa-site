@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dunfermline Abbey
-
 Worship at Dunfermline Abbey follows a traditional Church of Scotland pattern with the Word of God taking central place.

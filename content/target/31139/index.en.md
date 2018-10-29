@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# RWAP Software
-
 RWAP Software was set up in 1986 to help develop and improve the range of software being developed at the time for the Sinclair QL home computer.

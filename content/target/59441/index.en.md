@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Rectorial benefice of Eglwysilan & Caerphilly, The
-

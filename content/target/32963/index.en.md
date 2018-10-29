@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Glasnevin Trust
-
 The Glasnevin Trust is the largest provider of funeral services in Ireland. It contains a republican plot where members of various republican organisations are buried. 

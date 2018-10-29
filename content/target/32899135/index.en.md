@@ -10,6 +10,4 @@
   "start_date": "2017-10-01T09:00:00Z"
 }
 
-# Bail for Immigration Detainees (BiD)
-
 Bail for Immigration Detainees is an independent charity that exists to challenge immigration detention in the UK. We provide legal advice and representation to migrants detained in removal centres and prisons to secure their release alongside research and policy advocacy to effect change.

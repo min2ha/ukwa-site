@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Our Lady, Saint Matthew and Saint Margaret
-
 Site of a Roman Catholic parish church in Scotland, covering Rosewell, Bonnyrigg and Gorebridge, Midlothian.

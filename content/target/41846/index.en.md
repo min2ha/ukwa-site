@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Conversation, The: EU referendum
-
 Accessible articles on all aspects of Brexit wriien by members of the academic and research community for the public.

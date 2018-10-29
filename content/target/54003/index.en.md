@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# David Ian Hollas (@HollasDavid) on Twitter (UKIP Politician)
-
 David Hollas stood as UK Independence Party (UKIP) candidate for  Nottingham South in the 2017 General Election but was not elected.

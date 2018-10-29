@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: #GE0215: it's Titus Flavius v Caracalla as people tweet wrong hashtag
-
 None

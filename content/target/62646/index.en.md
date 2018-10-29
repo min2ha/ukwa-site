@@ -10,6 +10,4 @@
   "start_date": "2018-03-14T09:00:00Z"
 }
 
-# Boathouse Gallery, The
-
 The Boathouse Gallery is located in Little Haven in Pembrokeshire. 

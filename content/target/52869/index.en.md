@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Will Macron mean blues or a boost for Britain?
-
 The received wisdom is that the election of Emmanuel Macron as president of France is bad for Britain's Brexit negotiations. Like much received wisdom, it may just be wrong. For the arrival of this young financier-turned politician in the Elysee could actually make a deal between Britain and the European Union easier. 

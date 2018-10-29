@@ -11,6 +11,4 @@
   "subject": "European Parliament Elections 2014"
 }
 
-# Independent: Cameron, Miliband and Clegg all have reason to breathe a sigh of relief. But the real winner in 2014 could well be the man below
-
 None

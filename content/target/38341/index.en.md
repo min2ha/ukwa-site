@@ -11,6 +11,4 @@
   "subject": "Easter Rising "
 }
 
-# Paul Flynn MP: No S4C without Easter Rising
-
 Blog post by Paul Flynn MP (Labour Party) about the legacy of the Easter Rising for Wales and Welsh language

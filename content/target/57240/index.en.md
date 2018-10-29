@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# Kustom Forums
-
 The Kustom Forums are an online enthusiast community concerned with building custom personal computers for a variety of purposes. The forum covers: build logs, cases and modding discussions, small form factor PCs, home theatre computing, cooling / overclocking, silent pcs and various other topics.

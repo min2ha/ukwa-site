@@ -10,6 +10,4 @@
   "start_date": "2011-06-28T00:00:00Z"
 }
 
-# British Society for Mental Health and Deafness
-
 Society for the promotion of positive mental health of deaf people, including healthy, emotional, psychological and social development, the prevention and treatment of mental illess and other disorders.

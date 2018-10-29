@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# The Rugby Football Club
-
 The official website of the Rugby Football Club.

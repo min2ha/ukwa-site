@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: UK will not cut taxes, says Philip Hammond
-
 he UK will not cut tax and regulations after Brexit in a bid to undercut EU rivals, Philip Hammond suggested.

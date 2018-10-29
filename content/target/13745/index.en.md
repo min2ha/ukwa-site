@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Pinterest: Politics Scotland
-
 <p>The Pinterest of Peter A Bell, freelance writer and campaigner for Yes Scotland.</p>

@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Migration Observatory, The: Citizenship, Borders and Migration in an Independent Scotland
-

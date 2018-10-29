@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: MPs must declare their second jobs before the election so voters know if they are getting a part-time politician
-
 None

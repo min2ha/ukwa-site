@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Central Banking: Mervyn King on Brexit, crisis supervision, economic rebalancing and reforming the IMF
-
 The former Bank of England governor Lord King discusses Brexit, radical regulatory reform, the difficulties rebalancing the European and global economies and an overhaul of the International Monetary Fund.

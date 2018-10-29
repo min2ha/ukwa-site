@@ -11,5 +11,3 @@
   "subject": "Women's Issues"
 }
 
-# Society for Promoting the Training of Women (SPTW)
-

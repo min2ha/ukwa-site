@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# CS Stags 1863 (@stags1863) on Twitter
-
 The official Twitter account of Civil Service Rugby Football Club. Formed in 1863.

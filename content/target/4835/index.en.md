@@ -11,6 +11,4 @@
   "subject": "Nelson Mandela"
 }
 
-# Voice Online, The: Obituary: Nelson Mandela (1918- 2013)
-
 <p>Article by former Voice journalist Joseph Harker, recalling his meeting and interview with Nelson Mandela in May 1990.</p>

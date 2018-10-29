@@ -10,5 +10,3 @@
   "start_date": "2016-03-08T09:00:00Z"
 }
 
-# Prosiect Sain Dylan Thomas, Y | Dylan Thomas sound project, The
-

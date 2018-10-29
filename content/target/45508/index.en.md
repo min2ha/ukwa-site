@@ -10,6 +10,4 @@
   "start_date": "2016-09-22T10:00:00Z"
 }
 
-# WVHigham Trust
-
 Vernon Higham was pastor of Heath Evangelical Church, Cardiff for 40 years and an author of a number of books, pamphlets, tracts an hymns. He is presently Pastor Emeritus at Tabernacle Cardiff. 

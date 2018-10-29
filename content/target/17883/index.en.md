@@ -10,6 +10,4 @@
   "start_date": "2015-03-11T09:00:00Z"
 }
 
-# Handmade Alliance
-
 Handmade Alliance provides a learning programme in textiles, merchandising and retail for prisoners during imprisonment, and a period of work experience/employment on release.

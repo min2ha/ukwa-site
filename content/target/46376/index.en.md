@@ -10,6 +10,4 @@
   "start_date": "2016-10-21T11:00:00Z"
 }
 
-# Francesca Jones Photography
-
 Francesca Jones is a Cardiff based Photographer and member of Welsh collective A fine beginning.

@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Dunkeld Youth Service
-
 Site of a Roman Catholic youth service and group run by the Roman Catholic diocese of Dunkeld.

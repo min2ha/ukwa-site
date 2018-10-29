@@ -10,6 +10,4 @@
   "start_date": "2018-01-30T09:00:00Z"
 }
 
-# Mick Brown - Contemporary Artist
-
 Mick Brown was elected a member of the Royal Cambrian Academy (RCA) in 2016. According to his website. his paintings are 'expressive works in which he is in dialogue with the world both material and spiritual [and] have a narrative element that may evolve during the ‘conversation’ which is the process of the painting.'

@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Welsh NHS Confederation
-
 The Welsh NHS Confederation brings together the full range of organizations that are part of the NHS in Wales and act as an independent voice for better healthcare.

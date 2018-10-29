@@ -10,6 +10,4 @@
   "start_date": "2017-11-14T09:00:00Z"
 }
 
-# Congress Youth Theatre, The
-
 The Congress Youth Theatre is theatre company based in Cwmbran.

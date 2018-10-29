@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBCNews: Election 2015: Will new debate offer clinch the deal?
-
 None

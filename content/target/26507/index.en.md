@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Who says Labour doesn't have friends in banking? Here are two, both candidates
-
 None

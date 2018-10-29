@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Environmentalists for Europe
-
 In the run-up to the EU referendum, Environmentalists for Europe (E4E) aims to work with a broad spectrum of organisations and individuals, in the hope and expectation that the importance of the UK’s contribution to European environmental policy, as well as the contribution EU environmental policy has made to the achievement of the UK’s national goals and objectives, will be fully recognised.

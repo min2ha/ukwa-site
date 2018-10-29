@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Severn Trent plc
-
 Severn Trent plc is a UK water company. Severn Trent plc has built a portfolio of companies, known as Severn Trent Business Services, providing water and waste water treatment and operating services to utilities, municipalities and commercial customers.

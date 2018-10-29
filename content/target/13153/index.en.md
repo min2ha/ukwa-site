@@ -10,6 +10,4 @@
   "start_date": "2015-01-13T00:00:00Z"
 }
 
-# Eden Project, The
-
 <p>The Eden Project is a charity and social enterprise and focuses on ecology, sustainability and green projects such as creating gardens, running arts and music events, running transformational social and environmental projects, creating learning experiences for students, doing research into plants and conservation.</p>

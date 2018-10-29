@@ -11,6 +11,4 @@
   "subject": "Food Archive"
 }
 
-# Vauxhall City Farm
-
 Vauxhall City Farm is the most centrally located farm in London. They specialise in educational, recreational and therapeutic services and activities ranging from school trips, workshops, gardening projects and birthday parties to Riding for the Disabled.

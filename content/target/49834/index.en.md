@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Mediclinic International plc
-
 Mediclinic International Plc is an international private hospital group with operations in South Africa, Namibia, Switzerland and the United Arab Emirates.

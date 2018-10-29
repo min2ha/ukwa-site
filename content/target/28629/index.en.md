@@ -10,6 +10,4 @@
   "start_date": "2015-07-02T10:00:00Z"
 }
 
-# Polish Squadrons Remembered
-
 Polish Squadrons Remembered is a cluster of the Internet sites commemorating Polish Air Force units in World War Two, particularly the ones fighting in the UK.

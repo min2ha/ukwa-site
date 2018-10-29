@@ -10,6 +10,4 @@
   "start_date": "2017-06-13T09:00:00Z"
 }
 
-# Save the Rhino International
-
 Save the Rhino International’s vision is for all five rhino species to thrive in the wild for future generations. 

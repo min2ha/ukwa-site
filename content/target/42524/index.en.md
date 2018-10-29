@@ -10,5 +10,3 @@
   "start_date": "2016-06-07T13:00:00Z"
 }
 
-# Ruthin Town Council | Cyngor Tref Rhuthun
-

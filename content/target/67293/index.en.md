@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Olney RFC (@olneyrfc) on Twitter
-
 The official Twitter account of Olney Rugby Football Club.

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# BBC News: Schools 'should help children with social media risk'
-
 News article about the views of England's children commissioner Anne Longfield who beileves that schools need to do more to help students prepare for the demands of social media after completing a study into the issue

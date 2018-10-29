@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: David Cameron would serve 'essentially a full term', says Iain Duncan Smith
-
 None

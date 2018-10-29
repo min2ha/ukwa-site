@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# New Scientist
-
 Science news and science articles from New Scientist

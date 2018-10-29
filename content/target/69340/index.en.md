@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. John Ogilvie
-
 Site of a Scottish Roman Catholic parish church located in Blantyre, Lanarkshire.

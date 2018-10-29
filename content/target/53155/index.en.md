@@ -11,5 +11,3 @@
   "subject": "UK General Election 2017"
 }
 
-# British Furniture Confederation: Manifesto 2017
-

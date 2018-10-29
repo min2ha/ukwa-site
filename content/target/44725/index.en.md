@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Allen and Overy: Potential mechanisms for a UK exit from the European Union and what follows next
-
 While the EU Treaties expressly anticipate “ever closer union” between Member States, they do also contemplate a Member State leaving. However, as the first Member State to take the first step down that process, the process and mechanisms are untested and in many cases, far from clear. This specialist paper analyses four aspects of the potential mechanisms for a UK exit from the European Union and what follows next.

@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Knightswood St. Margaret's Church
-

@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Ian Murray, Labour Candidate for Edinburgh South
-

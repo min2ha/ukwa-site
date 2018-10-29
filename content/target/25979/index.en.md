@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour's election hopes raised by four-point lead over Tories
-
 None

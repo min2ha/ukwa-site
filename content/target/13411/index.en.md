@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Stewart Maxwell (Maxwellsnp) on Twitter
-
 Twitter profile of Stewart Maxwell, Scottish National Party member of the Scottish Parliament for West Scotland.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Chatham House: The World Today: Brace yourself for the future
-
 Predicts 2017 to be a very difficult year for many households and businesses in Britain, but in a longer-term perspective but expects that sharp slump to appear more as a pause before something close to normal service resumes.

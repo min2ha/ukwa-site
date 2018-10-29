@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Eventbrite: A new deal for working people - Participate with Prospect
-
 Prospect will be participating in the TUC’s march and rally for ‘A new deal for working people’, to be held in London on Saturday 12 May 2018.

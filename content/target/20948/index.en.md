@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sean Templeton (@lexsum1) on Twitter
-
 The Twitter profile of Sean Templeton, Scottish Green Party candidate for Glasgow in the 2016 Scottish Parliament election.

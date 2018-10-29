@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: 'Breakthrough' deal paves way for future trade talks
-
 Reports on how Theresa May struck a last minute deal with the EU in a bid to enable the Brexit process to move on to trade talks. It was agreed that there would be no hard border with the Irish Republic, that the rights of EU citizens in the UK would be protected, and that the UK would pay a "divorce bill" of  £35-£39bn.

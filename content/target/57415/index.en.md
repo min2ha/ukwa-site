@@ -10,6 +10,4 @@
   "start_date": "2017-09-26T09:00:00Z"
 }
 
-# Kevin Dyer
-
 Kevin Dyer is a writer, director and dramaturg. Kevin is funded by Wales Arts International.

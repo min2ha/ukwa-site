@@ -11,7 +11,5 @@
   "subject": "UK General Election 2017"
 }
 
-# LGiU: GE17 : Looking for new ideas on localism? Don’t look in party manifestos then
-
 Post laments the lack of vision for local government in any of the general election 2017 party manifestos.
 

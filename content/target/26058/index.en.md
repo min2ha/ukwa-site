@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Labour and Lib Dems to hit joint total of 339 seats, study predicts
-
 None

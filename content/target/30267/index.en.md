@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Literary Dundee (@literarydundee) on Twitter
-
 Twitter profile of Literary Dundee, a literature festival in Dundee, featuring the Dundee International Book Prize.

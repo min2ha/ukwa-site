@@ -10,5 +10,3 @@
   "start_date": "2011-05-25T00:00:00Z"
 }
 
-# Venture Wales
-

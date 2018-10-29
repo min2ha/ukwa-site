@@ -10,5 +10,3 @@
   "start_date": "2013-08-05T10:00:00Z"
 }
 
-# Society of Antiquaries of Scotland
-

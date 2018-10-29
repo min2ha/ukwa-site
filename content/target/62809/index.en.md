@@ -11,8 +11,6 @@
   "subject": "Brexit"
 }
 
-# BBC News: Brexit: PM accused of plan to 'throw open' borders
-
 Theresa May was accused of planning to "throw open" Britain's borders after Brexit, by a cross-party group of pro-European MPs. It came after Transport Secretary Chris Grayling said there would not be any border checks at Dover when Britain leaves the EU in March 2019. He said it would be "utterly unrealistic" to have checks and trade would be managed electronically.
 
 .

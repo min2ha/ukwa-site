@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# Conservative Education Society (CES) 
-
 The Conservative Education Society (CES) exists to promote an education system based on Conservative values.

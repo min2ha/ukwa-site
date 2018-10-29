@@ -11,6 +11,4 @@
   "subject": "Hampshire Collection"
 }
 
-# Enham Alamein Community Heritage (EACH) Project
-
 None

@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# On Our Radar: Ebola
-
 <p>On Our Radar: Ebola website gives accounts submitted by trained and supported citizen reporters from isolated and excluded communities in the world to share news and influence policy.</p>

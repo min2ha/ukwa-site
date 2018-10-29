@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pete for Perth News
-
 Pete Wishart's blog as Scottish National Party (SNP) candidate for Perthshire in the UK General Election 7th May 2015.

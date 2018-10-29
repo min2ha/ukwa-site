@@ -10,6 +10,4 @@
   "start_date": "2015-09-03T10:00:00Z"
 }
 
-# NLS blogs: Family and local history
-
 Family and local history at the National Library of Scotland.

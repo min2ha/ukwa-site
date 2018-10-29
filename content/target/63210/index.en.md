@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Save Knock Iveagh (@saveknockiveagh) on Twitter
-
 A community based campaign to protect one of Ireland's Royal hills from development. Knock Iveagh is in Co. Down, Northern Ireland.

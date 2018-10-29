@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Hibernian Football Club 
-
 Site of a senior Scottish professional football club based in Edinburgh.

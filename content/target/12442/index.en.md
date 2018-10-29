@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Sam Harrison (@_SamHarrison_) on Twitter
-
 The twitter profile of cyclist Sam Harrison, competing in track and road events for Team Wales for the Glasgow 2014 Commonwealth games.

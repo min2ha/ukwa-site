@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: Every ethnic group in Britain wants a cut in immigration
-
 None

@@ -11,6 +11,4 @@
   "subject": "Brexit : Impact on Wales"
 }
 
-# Wales For Europe | Cymru Dros Ewrop (@WalesForEurope) on Twitter
-
 Wales For Europe is a grassroots, cross-party and no-party organisation, determined to secure the best deal for Wales with the UK, Europe and the rest of the world. Wales For Europe is a partner organisation to Open Britain, a movement made up of a diverse range of groups and individuals, across the United Kingdom. 

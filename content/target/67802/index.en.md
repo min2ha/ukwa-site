@@ -10,6 +10,4 @@
   "start_date": "2018-06-21T09:00:00Z"
 }
 
-# National Association of Educators in Practice (NAEP)
-
 The National Association of Educators in Practice (NAEP) aims to have a health and social care workforce in which individual practitioners fully understand the value of education for learners, patients, carers and other healthcare practitioners.

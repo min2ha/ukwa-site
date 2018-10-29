@@ -10,8 +10,6 @@
   "start_date": "2015-03-12T09:00:00Z"
 }
 
-# Relatives & Residents Association (R&RA), The
-
 The Relatives & Residents Association is a national charity which exists for the benefit of older people in residential care, as well as their families and friends left behind at home.
 
 We support people by giving them the information they need to make confident and informed choices – whether about selecting a care home, paying for care, adjusting to being in care, or complaining about the quality of care they, or a relative or friend, are receiving.

@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: EU workers will get a visa ONLY if they have a skilled job: Post-Brexit regime would slash net migration by 100,000
-
 European Union workers face having to secure a skilled job before they are allowed into Britain. The post-Brexit visa regime agreed by ministers would restore border controls and slash net migration by up to 100,000. EU tourists and students will continue to have free access in a bid to help smooth the passage of a trade deal with Brussels.

@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# TakingTheWick
-
 An online community for candle makers 

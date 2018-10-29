@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Mail: PM warns there are just 10 days left to save the Union from the SNP
-
 None

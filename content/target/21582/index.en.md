@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BBC News: General Election 2015: SNP 'could block Tory government'
-
 None

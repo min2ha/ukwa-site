@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Iaith - Golwg 360
-
 This is part of the Golwg 360 website that focus specifically on issues relating to the Welsh language.

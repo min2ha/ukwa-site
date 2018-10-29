@@ -11,6 +11,4 @@
   "subject": "Online Enthusiast Communities in the UK"
 }
 
-# UK Video Arcade Collectors Forum
-
 An online enthusiast forum concerned with video arcade collecting. Discusses meetings and events, maintenance and repairs, items for sale and various other topics.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Campaign for Real Farming and the College for Enlightened Agricluture, The
-

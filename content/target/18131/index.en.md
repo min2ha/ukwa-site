@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Selaine Saxby
-
 Selaine Saxby, Conservative candidate for Llanelli.

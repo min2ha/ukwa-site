@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Scientists for EU
-
 Scientists for EU is a campaign by UK scientists to keep the UK in the EU. Science is vital for the UK's economy and quality of life. Science is also at the heart of global, social challenges that face us all. The group believes that we can achieve so much more good for the UK and the world from within the EU

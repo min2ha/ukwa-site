@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Liberal Leave`
-
 Liberal Democrat splinter group campaigning to leave the EU

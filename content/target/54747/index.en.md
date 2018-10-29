@@ -10,6 +10,4 @@
   "start_date": "2017-06-16T09:00:00Z"
 }
 
-# St. Monans
-
 Community website for the village of St. Monans in Fife.

@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Department for Exiting the European Union: David Davis’ Teesport Speech: Implementation Period – A bridge to the future partnership between the UK & EU
-

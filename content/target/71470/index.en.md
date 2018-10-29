@@ -10,6 +10,4 @@
   "start_date": "2018-09-21T09:00:00Z"
 }
 
-# Drilseach
-
 Timothy Armstrong's blog; a writer of Gaelic science fiction.

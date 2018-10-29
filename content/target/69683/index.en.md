@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Scottish Traditional Boat Festival
-
 Festival celebrating boats, music, crafts, food and drink

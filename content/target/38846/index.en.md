@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Charity Pierce (@CharityPierce92) on Twitter
-
 Twitter profile of Charity Pierce, the Scottish Liberal Democrat candidate for Cunninghame North in the 2016 Scottish Parliamentary election.

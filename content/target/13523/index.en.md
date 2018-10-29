@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Conversation, The: Glasgow 2014 could provide a springboard for Scotland to host Euro 2024 football tournament
-
 <p>Article by John Williams about Glasgow’s successful hosting of the XX Commonwealth Games and the potential for hosting similar events such as the Euro 2024 football tournament. From “The Conversation” an independent source of news and views, sourced from the academic and research community.</p>

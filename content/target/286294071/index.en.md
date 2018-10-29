@@ -10,6 +10,4 @@
   "start_date": "2015-01-10T00:00:00Z"
 }
 
-# University of Bath Blogs
-
 <p>University of Bath Blogs website lists all blogs created by the University of Bath.</p>

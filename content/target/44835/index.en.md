@@ -10,6 +10,4 @@
   "start_date": "2016-08-04T10:00:00Z"
 }
 
-# Ymddiriedolaeth y Goedwig Dragwyddol | Eternal Forest Trust, The
-
 The Eternal Forest Trust is in Boduan, Pwllheli. The Eternal Forest Trust provides green, natural burials in North Wales woodland for people, pets and ashes.

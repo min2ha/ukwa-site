@@ -11,5 +11,3 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# MTU Borders (MTU_Borders) on Twitter
-

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# David Weir calls for tougher measures to rid disability sport of drug cheats
-
 British Paralympian says testing needs to be ‘more thorough’ 

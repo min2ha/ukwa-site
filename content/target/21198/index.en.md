@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Northern Ireland Conservatives
-
 Northern Ireland Conservatives is a section of the United Kingdom's Conservative Party that operates in Northern Ireland.

@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# BallGirls (@BallGirls18) on Twitter
-
 A Twitter account dedicated to women's sport.

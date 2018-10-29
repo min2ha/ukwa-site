@@ -10,6 +10,4 @@
   "start_date": "2017-06-06T09:00:00Z"
 }
 
-# Michael Sheppard (@shepbucksgreens ) on Twitter (Green Party candidate for Buckingham)
-
 Campaign website of Michael Sheppard, Green Party candidate for Buckingham at the 2017 General Election

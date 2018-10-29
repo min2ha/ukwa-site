@@ -11,6 +11,4 @@
   "subject": "LGBTQ+"
 }
 
-# Stonewall Cymru
-
 To empower individuals Individuals make change happen. We will support individuals to work out how they can make a difference for LGBT people at work.

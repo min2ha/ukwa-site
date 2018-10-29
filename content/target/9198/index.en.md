@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Elise Christie (@Elise_Christie) on Twitter
-
 A short track speed skater that represents Team GB in the Winter Olympics. 

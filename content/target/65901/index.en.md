@@ -10,6 +10,4 @@
   "start_date": "2018-05-19T09:00:00Z"
 }
 
-# BCS in Scotland
-
 British Computer Society (BCS) is the UK's chartered body for Information and Computing Technology professionals.

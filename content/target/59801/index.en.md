@@ -10,5 +10,3 @@
   "start_date": "2017-12-19T09:00:00Z"
 }
 
-# District Grand Council of Royal and Select Masters of South Wales
-

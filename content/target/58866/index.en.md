@@ -11,5 +11,3 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: Could the UK be split up after Brexit? EU demands to keep Northern Ireland in single market and customs union   
-

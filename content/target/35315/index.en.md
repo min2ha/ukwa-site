@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# David Rees (@DavidReesAM) on Twitter (Labour AM for Aberavon)
-

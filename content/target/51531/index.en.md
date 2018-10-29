@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Invesco Perpetual: Brexit news and insights
-
 Large investment manager

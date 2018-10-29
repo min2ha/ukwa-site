@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Daily Mail, The: With hotels all over Europe you might expect him to be a Remainer but SIR ROCCO FORTE thunders... why the prophets of doom have got it so wrong
-
 International hotelier Sir Rocco Forte argues in favour of a clean break from the European Union

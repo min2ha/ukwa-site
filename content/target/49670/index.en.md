@@ -10,6 +10,4 @@
   "start_date": "2017-02-23T09:00:00Z"
 }
 
-# Theatre Royal Glasgow
-
 Site of a Victorian theatre located in Cowcaddens, Glasgow and home of Scottish Opera and Scottish Ballet.

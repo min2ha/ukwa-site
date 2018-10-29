@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# LegalFutures: Brexit would hit legal services harder than most, Law Society research predicts 
-
 Legal news site 

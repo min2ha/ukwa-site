@@ -10,6 +10,4 @@
   "start_date": "2016-09-29T10:00:00Z"
 }
 
-# History of the League of Nations 
-
 This website is a virtual representation of a network of scholars that emerged during the last decade.

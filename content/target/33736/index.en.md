@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Sun, The: Be careful what you’re wishing for on EU exit
-

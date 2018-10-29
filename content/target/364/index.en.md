@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Ealing Health and Wellbeing Board
-
 None

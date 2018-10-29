@@ -11,5 +11,3 @@
   "subject": "Religion/Theology"
 }
 
-# Saline and Blairingone Parish Church
-

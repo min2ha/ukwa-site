@@ -10,5 +10,3 @@
   "start_date": "2008-06-03T00:00:00Z"
 }
 
-# Models of Democracy
-

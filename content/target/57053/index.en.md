@@ -10,6 +10,4 @@
   "start_date": "2017-09-07T09:00:00Z"
 }
 
-# Swansea 2021 | Abertawe 2021
-
 Swansea 2021 is the city of Swansea's campaign to be UK City of Culture in 2021.

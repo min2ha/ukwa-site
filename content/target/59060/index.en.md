@@ -11,6 +11,4 @@
   "subject": "UK Legal Deposit Libraries Websites"
 }
 
-# Malini Roy (@BL_VisualArts) on Twitter
-
 Curator of Prints, Drawings & Photos of South Asia @britishlibrary. Co-author Mughal India: Art, Culture & Empire (2012) with @jplosty

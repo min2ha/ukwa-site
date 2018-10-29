@@ -11,5 +11,3 @@
   "subject": "Easter Rising "
 }
 
-# Law Society Gazette: Easter Rising still unsettles
-

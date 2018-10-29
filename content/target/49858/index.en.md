@@ -11,6 +11,4 @@
   "subject": "News Sites"
 }
 
-# Northern Slant
-
 This shared blog is about encouraging positive change in attitudes in Northern Ireland.

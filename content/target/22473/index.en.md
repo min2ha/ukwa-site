@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# bbc News: Election 2015: UKIP Wales appoints new national organiser
-
 None

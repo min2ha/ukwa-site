@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Cambridge Brexit Campaign on facebook
-
 A student-run Cambridge campaign in favour of Brexit

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Telegraph, The: Ukip says BBC 'exposed' over left-wing debate audience 
-
 None

@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Edinburgh Greek Festival
-
 Site of a film festival in Edinburgh concentrating on films from Greece.

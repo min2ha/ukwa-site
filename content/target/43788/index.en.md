@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Second EU Referendum Petition Crashes Government Website As Remain Supporters Reject Brexit
-
 A petition for the government to hold a second referendum on Brexit has proved so popular it temporarily crashed the parliament website.

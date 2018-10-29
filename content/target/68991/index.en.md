@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# On The Ball (@OnTheBaw) on Twitter
-
 Campaign for free period products at football stadiums. The Twitter account was set up in June 2018.

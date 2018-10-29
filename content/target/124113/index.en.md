@@ -10,5 +10,3 @@
   "start_date": "2005-12-20T00:00:00Z"
 }
 
-# Walesinabottle.com
-

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Natalie Bennett debunks myths about Green policy - video
-
 None

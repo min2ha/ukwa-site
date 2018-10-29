@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Plymouth Argyle Football Club
-
 Plymouth Argyle Football Club is a professional football club based in the city of Plymouth, Devon, England. 

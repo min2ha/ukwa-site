@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office: Joint Ministerial Committee communiqué: 24 October 2016
-
 The Joint Ministerial Committee (JMC), chaired by the Prime Minister, brings together the leaders of the devolved administrations of Scotland, Wales and Northern Ireland. This communiqué gives a summary of the outcomes from the plenary meeting. It provides the terms of reference for the new Joint Ministerial Committee on EU Negotiations

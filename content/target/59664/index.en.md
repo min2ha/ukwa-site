@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Daily Mail: Addiction to smartphones in teenagers can lead to an imbalance in brain chemistry that triggers depression and anxiety
-
 News article discussing the recent findings of a study by researchers at Korea University into the impact of internet and smartphone addiction on the brain and mental health

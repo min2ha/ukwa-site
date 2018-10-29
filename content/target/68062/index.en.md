@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Bicester RUFC
-
 Bicester Rugby Club came into being towards the end of 1947. 

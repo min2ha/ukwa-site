@@ -10,6 +10,4 @@
   "start_date": "2017-12-01T09:00:00Z"
 }
 
-# Tramshed
-
 The Tramshed is live music, club music and entertainment venue located in a Grade II-listed building that was once the old tram depot for west Cardiff.

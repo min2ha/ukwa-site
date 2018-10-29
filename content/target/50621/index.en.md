@@ -11,6 +11,4 @@
   "subject": "Sport: Football"
 }
 
-# Glasgow Girls Football Club
-
 Site of a girls and womens football club based in Glasgow.

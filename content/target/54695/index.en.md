@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# University of Cambridge/Research/News: Facebook updates could provide a window to understanding – and treating – mental health disorders
-
 University of Cambridge news article: Facebook and mental health

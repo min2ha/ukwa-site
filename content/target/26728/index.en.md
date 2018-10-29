@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# BCC News : No Sikhs in new Parliament
-
 None

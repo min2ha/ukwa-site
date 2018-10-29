@@ -10,7 +10,5 @@
   "start_date": "2018-04-14T09:00:00Z"
 }
 
-# Centre for Women's Justice
-
 Holding the state to account on violence against women and girls. 
 The Centre for Women’s Justice is a new charity, founded in 2016. We aim to bring together specialist lawyers, academics and other experts in the field of violence against women, with those working on the frontline as activists, survivors and service providers to bring strategic law challenges and ensure access to justice for victims of male violence.

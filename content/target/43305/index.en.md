@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Constitution Unit Blog, The
-
 The Constitution Unit in the Department of Political Science at University College London is the UK's leading research body on constitutional change.

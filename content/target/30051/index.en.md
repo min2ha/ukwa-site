@@ -10,6 +10,4 @@
   "start_date": "2015-08-27T10:00:00Z"
 }
 
-# Celfyddydau Span Arts
-
 Span Arts are a community arts charity engaged in the provision of an inclusive programme of live arts events and arts-based activities for people in Pembrokeshire.

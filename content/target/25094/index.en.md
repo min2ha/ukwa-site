@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Daily Express: EXCLUSIVE: Nicola Sturgeon linked to IT fraud probe
-
 None

@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Family Room manifesto
-
 Family and Childcare Trust aims to make the UK a better place for families, through research, campaigning and information provision, and working with government, employers and parents to reduce pressures on family life.

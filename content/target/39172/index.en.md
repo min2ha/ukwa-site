@@ -11,6 +11,4 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# Alan Butterworth (@alan_2526) on Twitter (Green party candidate for Wrexham) 
-
 Alan Butterworth is the Green Party candidate for Wrexham at the 2016 National Assembly Election. 

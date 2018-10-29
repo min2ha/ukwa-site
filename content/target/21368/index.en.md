@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Pramod Subbaraman for Edinburgh South
-
 This is the website for Pramod Subbaraman, Liberal Democrat candidate for Edinburgh South in the 17th May 2015 UK General Elections.

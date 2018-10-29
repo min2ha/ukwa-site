@@ -11,6 +11,4 @@
   "subject": "Ebola Outbreak, West Africa 2014"
 }
 
-# Disasters Emergency Committee: Ebola Crisis Appeal
-
 None

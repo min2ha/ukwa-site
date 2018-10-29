@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# St. Mary's Cathedral, Aberdeen
-
 Site of a Scottish Roman Catholic parish and cathedral church in Aberdeen.

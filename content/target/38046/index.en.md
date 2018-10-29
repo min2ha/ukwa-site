@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# West Oxfordshire IN (@WestOxonIN) on Twitter
-
 West Oxfordshire local campaign for Britain to remain in Europe

@@ -10,6 +10,4 @@
   "start_date": "2017-12-13T09:00:00Z"
 }
 
-# An Seotal (@anseotal) on Twitter
-
 An Seotal on Twitter. From the main website: "‘An Seotal’ is an on-line terminology database, particularly aimed at Gaelic-medium subject teaching in the secondary school."

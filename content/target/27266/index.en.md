@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# #VOTESELFISH
-
 #VOTESELFISH is a campaign to encourage young people to vote for issues they care about.

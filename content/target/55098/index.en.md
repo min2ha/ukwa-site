@@ -10,6 +10,4 @@
   "start_date": "2017-06-27T09:00:00Z"
 }
 
-# Cyrenians
-
 Site of a Scottish charity working with the homeless and vulnerable to transform their lives by beginning with their story, helping them believe that they can change their lives, and walking with them as they lead their own transformation. 

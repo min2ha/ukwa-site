@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Independent, The: General Election 2015: A guide to the smaller parties, from the National Health Action Party to the Church of the Militant Elvis Party
-
 None

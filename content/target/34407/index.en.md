@@ -11,6 +11,4 @@
   "subject": "Scottish Parliament Election 2016"
 }
 
-# Liam McArthur
-
 Liam McArthur is Liberal Democrat member of the Scottish Parliament for Orkney.

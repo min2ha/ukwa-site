@@ -428,8 +428,6 @@
   "endDateText": ""
 }
 
-# Muslims, Trust and Cultural Dialogue
-
 Muslims, Trust and Cultural Dialogue is an RCUK-funded international research project that explores trust between Muslims and non-Muslims in Britain, Europe and North America. 
 
 The project analyses the conditions of trust and mistrust in three overlapping areas of modern life: politics and society; business and finance; and art and culture. It is an international multidisciplinary network of scholars, practitioners and stakeholders exploring questions of trust in the relationship between Muslim diaspora populations in the West and the societies around them. The project is committed to understanding how existing practices in these three arenas enact dialogue and negotiation between groups in ways that can be mutually informative, and which help us move beyond misunderstanding and negative stereotyping.

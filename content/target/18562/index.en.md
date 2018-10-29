@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Freddy Greaves (@FreddyGreaves) on Twitter
-
 Freddy Greaves is the Candidate for Plaid Cymru - Brecon & Radnorshire at the 2015 General Election and 2016 National Assembly Election.

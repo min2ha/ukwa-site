@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: What Britain thinks: politics, the election, David Cameron and Ukip
-
 None

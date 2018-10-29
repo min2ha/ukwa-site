@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: General election: Forget neck and neck, this was a terrible trouncing
-
 None

@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Oliver Corbishley (@ojcorbs) on Twitter
-
 Twitter profile of Oliver Corbishley, UK Independence Party (UKIP) candidate for Edinburgh East in the 2015 UK General Election.

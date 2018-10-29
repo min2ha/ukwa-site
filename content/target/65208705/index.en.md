@@ -11,5 +11,3 @@
   "subject": null
 }
 
-# Olympic Defence: the Unofficial London 2012 Security Game
-

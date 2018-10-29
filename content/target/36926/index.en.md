@@ -11,6 +11,4 @@
   "subject": "District Councils"
 }
 
-# Suffolk Coastal District Council
-
 Suffolk Coastal District Council website provides news, information on council activities and services, access to planning, policy and financial information, and full text of committee papers.

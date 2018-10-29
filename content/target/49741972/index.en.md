@@ -11,5 +11,3 @@
   "subject": "British Countryside"
 }
 
-# Cambrian Mountains - Mynyddoedd Cambrian
-

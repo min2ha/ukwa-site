@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Partick Folk Club
-
 Site of a folk club located in Partick, Glasgow, and specialising in traditional, folk, acoustic, Americana and blues music genres.

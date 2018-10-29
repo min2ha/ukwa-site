@@ -11,6 +11,4 @@
   "subject": "Gender Equality"
 }
 
-# British Library: The anti-suffrage movement
-
 An article about the early 20th century support for anti-suffragism. Dr Julia Bush looks at the people and organisations campaigning against the suffragists and suffragettes, and the arguments they used to advance their cause.

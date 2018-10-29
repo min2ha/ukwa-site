@@ -11,6 +11,4 @@
   "subject": "EU Referendum"
 }
 
-# Stevehynd.com : Do you know what The Green Party position is on an EU referendum?
-
 Stevehynd.com : Do you know what The Green Party position is on an EU referendum?

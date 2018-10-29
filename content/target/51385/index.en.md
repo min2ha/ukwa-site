@@ -11,6 +11,4 @@
   "subject": "FTSE 100"
 }
 
-# Sage
-
 The Sage Group plc is a British multinational enterprise software company. Sage is the world's third-largest supplier of enterprise resource planning software, the largest supplier to small businesses, and has 6.1 million customers worldwide with offices in 24 countries.

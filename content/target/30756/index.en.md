@@ -10,6 +10,4 @@
   "start_date": "2015-09-22T10:00:00Z"
 }
 
-# Orkney College
-
 Official website of the Orkney College, a part of the University of the Highlands and Islands.

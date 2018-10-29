@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# Sow Music (SOW)
-
 <p>Sound of Wales (SOW) are a collective of musicians based in Wales 'who love Jesus and above all want to be a part of revealing his glory to the Earth.'</p>

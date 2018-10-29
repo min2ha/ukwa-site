@@ -10,6 +10,4 @@
   "start_date": "2017-02-10T09:00:00Z"
 }
 
-# Max Charles Davies
-
 Max Charles Davies is a Welsh composer and head of publishing at Arcomis (Arts Commissioning).

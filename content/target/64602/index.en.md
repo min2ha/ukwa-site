@@ -10,6 +10,4 @@
   "start_date": "2018-04-19T09:00:00Z"
 }
 
-# Burwash Common and Weald Residents Association
-
 The Association began in July 2010 as a forum for the residents of Burwash Common and Burwash Weald where they can raise and discuss local issues and arrange social events. 

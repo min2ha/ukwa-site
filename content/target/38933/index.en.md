@@ -11,5 +11,3 @@
   "subject": "National Assembly for Wales Election, 2016 "
 }
 
-# United Kingdom Homecare Association (UKHCA): National Assembly for Wales Elections  Manifesto 2016
-

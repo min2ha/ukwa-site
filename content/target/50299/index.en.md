@@ -11,6 +11,4 @@
   "subject": "Political Action and Communication"
 }
 
-# Emergency Rally for Aleppo
-
 Emergency Rally for Aleppo was held on the Wednesday, 14 December 2016 at 18:00 in the Cardiff Castle Grounds.

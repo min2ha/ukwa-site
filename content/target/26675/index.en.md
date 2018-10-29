@@ -11,6 +11,4 @@
   "subject": "UK General Election 2015"
 }
 
-# Guardian, The: Think you’ve never kissed a shy Tory? You’re almost certainly wron
-
 None

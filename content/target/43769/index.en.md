@@ -10,6 +10,4 @@
   "start_date": "2016-06-24T10:00:00Z"
 }
 
-# Inspiring Scotland
-
 Site of an organisation promoting 'venture philanthropy' by raising and investing funds in charities, building strategic partnerships and helping transform charities.

@@ -10,6 +10,4 @@
   "start_date": "2013-04-06T01:00:00Z"
 }
 
-# New Welsh Review
-
 <p>New Welsh Review is a monthly magazine that covers contemporary Welsh literature.</p>

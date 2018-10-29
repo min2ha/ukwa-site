@@ -11,6 +11,4 @@
   "subject": "Parliamentary Archives"
 }
 
-# UK House of Commons (@HouseofCommons) on Twitter
-
 Checking and challenging government’s work, making laws, debating. Follow daily business and find out how to take part with this official feed.

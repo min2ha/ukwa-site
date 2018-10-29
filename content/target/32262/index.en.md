@@ -10,6 +10,4 @@
   "start_date": "2015-11-07T09:00:00Z"
 }
 
-# Churches of Llansantffraid & Llanfechain
-
 The website for the churches of St Ffraid, Llansantffraid and St Garmon, Llanfechain. 

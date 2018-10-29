@@ -10,6 +10,4 @@
   "start_date": "2018-07-05T09:00:00Z"
 }
 
-# Chronotopic Cartography
-
 AHRC-funded Chronotopic Cartography project. As our research develops, content and information will be added here, until our literary corpus is fully constructed and ready for public release when a more permanent home will be created, filled with interesting visualisation, mapping, and search options.

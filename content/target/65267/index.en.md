@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Paisley Martyrs’ Sandyford Church
-
 Site of a Church of Scotland parish church at Paisley, Renfreshire.

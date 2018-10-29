@@ -10,6 +10,4 @@
   "start_date": "2017-12-21T09:00:00Z"
 }
 
-# Am Faclair Beag
-
 Site of an English-Scottish Gaelic dictionary incorporating the work of Edward Dwelly.

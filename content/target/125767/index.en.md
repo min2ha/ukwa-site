@@ -11,6 +11,4 @@
   "subject": "British Countryside"
 }
 
-# Buglife - The Invertebrate Conservation Trust
-
 None

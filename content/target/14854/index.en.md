@@ -11,6 +11,4 @@
   "subject": "Scottish Independence Referendum"
 }
 
-# Facebook: Yes Scotland - Timeline Photos: Radical Independence Conference
-
 <p>Yes Scotland post an image promoting the Radical Independence Conference held in Glasgow, on the 22nd November at 3.47pm on the 23rd September, 2014.</p>

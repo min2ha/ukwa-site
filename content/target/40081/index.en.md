@@ -10,6 +10,4 @@
   "start_date": "2016-04-28T10:00:00Z"
 }
 
-# Cyngor Cymuned Blaenhonddan | Blaenhonddan Community Council
-
 providing you with information about the Council, local government services, and other activities which take place in the area.

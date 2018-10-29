@@ -11,6 +11,4 @@
   "subject": "Festivals"
 }
 
-# Summer Sessions
-
 Site of Summer Sessions, a series of concerts held in Glasgow and Edinburgh. 

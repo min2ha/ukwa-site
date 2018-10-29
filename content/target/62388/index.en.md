@@ -11,6 +11,4 @@
   "subject": "Brexit"
 }
 
-# Prime Minister's Office:  PM meeting with Guy Verhofstadt: 6 March
-
 The Prime Minister and Guy Verhofstadt  discussed citizens' rights after Brexit and the importance of avoiding a hard border between Northern Ireland and the Irish Republic.

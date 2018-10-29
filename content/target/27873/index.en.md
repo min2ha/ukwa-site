@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Malton History 
-
 The site aims to build and share a picture of the heritage of Malton, particularly in the Victorian era. It investigates how the town evolved, what have been the key events, who lived there, and where its’ users can you find out more information. 

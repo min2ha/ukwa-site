@@ -10,6 +10,4 @@
   "start_date": "2018-06-06T09:00:00Z"
 }
 
-# Alexander Dennis Limited
-
 Alexander Dennis Limited is a bus building company based in Scotland.

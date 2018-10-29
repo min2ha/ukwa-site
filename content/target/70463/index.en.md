@@ -11,6 +11,4 @@
   "subject": "Religion/Theology"
 }
 
-# Carluke United Reformed Church
-
 Site of a Scottish United Reformed church located in Carluke, Lamarkshire.

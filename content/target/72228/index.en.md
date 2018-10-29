@@ -11,6 +11,4 @@
   "subject": "Web Comic Archive"
 }
 
-# Comichaus.com
-
 Comichaus.com is an online platform to buy and sell digital comics either through their website or their mobile app.

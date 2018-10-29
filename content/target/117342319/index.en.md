@@ -10,6 +10,4 @@
   "start_date": "2016-03-07T09:00:00Z"
 }
 
-# Open Spaces Society
-
 The Open Spaces Society is a campaign group that works to protect public rights of way and open spaces in the United Kingdom, such as common land and village greens. It is Britain's oldest national conservation body and a registered charity.

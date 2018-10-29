@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Spiked: Usain is right: these games are ‘a bit shit’
-
 <p>Article by Shingi Mararike on Usain Bolt’s alleged remarks about the XX Commonwealth Games. From “spiked” an online-only current-affairs magazine.</p>

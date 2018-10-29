@@ -11,6 +11,4 @@
   "subject": "Women's Issues"
 }
 
-# Women's Art Library, The (MAKE), University of London
-
 None

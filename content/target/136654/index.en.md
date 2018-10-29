@@ -11,6 +11,4 @@
   "subject": "History of the Book"
 }
 
-# David Shaw's Homepage
-
 None

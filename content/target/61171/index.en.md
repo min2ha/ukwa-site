@@ -10,6 +10,4 @@
   "start_date": "2018-02-10T09:00:00Z"
 }
 
-# Cowal Masonic Lodges
-
 Site of a group of masonic lodges located in the Cowal area of Argyll & Bute, and affiliated with the Grand Lodge of Scotland.

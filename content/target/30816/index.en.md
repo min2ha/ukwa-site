@@ -11,6 +11,4 @@
   "subject": "IT Collection"
 }
 
-# Eurographics
-
 Eurographics is the Europe-wide professional Computer Graphics association. The association supports its members in advancing the state of the art in computer graphics and related fields such as multimedia, scientific visualization and human computer interfaces. 

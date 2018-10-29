@@ -10,5 +10,3 @@
   "start_date": "2015-05-20T09:00:00Z"
 }
 
-# Llafur : Cymdeithas Hanes Pobl Cymru | Llafur : Welsh People's History Society
-

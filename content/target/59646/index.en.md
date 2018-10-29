@@ -11,6 +11,4 @@
   "subject": "Jersey Collection"
 }
 
-# National Trust Jersey
-
 Website of The National Trust for Jersey

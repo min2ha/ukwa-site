@@ -11,6 +11,4 @@
   "subject": "Family History"
 }
 
-# Channel Islands Family History Society, The (CIFHS)
-
 Organisation dedicated to the study and tracing of the family histories of Channel Islanders. It was established in 1978. 

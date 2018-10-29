@@ -11,6 +11,4 @@
   "subject": null
 }
 
-# Camden Health and Wellbeing Board
-
 None

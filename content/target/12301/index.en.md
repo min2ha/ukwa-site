@@ -11,6 +11,4 @@
   "subject": "First World War Centenary, 2014-18"
 }
 
-# Western Front Association: Centenary of the First World War
-
 <p>A website provided by The Western Front Association to focus on the many and varied events, news items and matters of interest during the commemorations for the First World War Centenary.</p>

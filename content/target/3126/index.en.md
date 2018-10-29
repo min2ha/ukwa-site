@@ -10,6 +10,4 @@
   "start_date": "2015-11-09T09:00:00Z"
 }
 
-# Red Kite Animation
-
 Red Kite Animation is a production company that specialises in the development and production of children’s animated content for international television broadcast.  

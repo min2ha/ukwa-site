@@ -10,6 +10,4 @@
   "start_date": "2016-05-26T10:00:00Z"
 }
 
-# Hope Amplified
-
 Site of a Scottish charity working with supporting vulnerable and disadvantaged families, young people and children helping them fulfil their potential and participate in society.

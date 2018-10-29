@@ -11,6 +11,4 @@
   "subject": "UK General Election 2017"
 }
 
-# Sunday Sport (@thesundaysport) on Twitter: Jeremy Corbyn killed my sister's baby rabbit! Only in @thesundaysport tomorrow
-
 A fake news article about an incident that supposedly happened in 1962 between Jeremy Corbyn and a former neighbour. 

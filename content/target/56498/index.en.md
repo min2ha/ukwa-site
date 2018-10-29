@@ -10,6 +10,4 @@
   "start_date": "2017-08-09T09:00:00Z"
 }
 
-# CAPITALS: Curvature Asymetry and Patterning Through All Length Scales
-
 The CAPITALS Programme is a large-scale collaboration between leading groups at Imperial College London, Durham University, the University of Leeds and the University of Cambridge. The programme brings together the ideal team to work at the forefront of the emerging field of molecular membrane engineering to design and construct new biologically-inspired devices and systems based on lipid bilayer structures

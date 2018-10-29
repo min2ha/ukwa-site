@@ -10,6 +10,4 @@
   "start_date": "2016-05-04T10:00:00Z"
 }
 
-# Gary Griffiths
-
 Welsh Opera Singer who represented Wales in the 2013 BBC Cardiff Singer of the World. 

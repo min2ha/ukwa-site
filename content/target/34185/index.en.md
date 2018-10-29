@@ -11,5 +11,3 @@
   "subject": "EU Referendum"
 }
 
-# Independent: 'Brexit' campaign groups clash over call to become single 'unstoppable force'
-

@@ -11,6 +11,4 @@
   "subject": "Muslims, Trust and Cultural Dialogue"
 }
 
-# The Muslim Lifestyle Expo 2018
-
 Website for the the Muslim Lifestyle Expo 2018.

@@ -10,6 +10,4 @@
   "start_date": "2018-03-27T09:00:00Z"
 }
 
-# Route:Wild
-
 Two-week adventure trips through Africa's spectacular wildlife country and most welcoming communities - Tanzania through the eyes of local people

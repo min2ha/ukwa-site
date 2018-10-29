@@ -10,7 +10,5 @@
   "start_date": "2015-09-17T10:00:00Z"
 }
 
-# BPP University
-
 Official website of the BPP University with locations in Abingdon, Birmingham, Bristol, Cambridge, Leeds Park Row,
 Leeds Whitehall Quay, Liverpool, London City, London Holborn, London Shepherd's Bush, London Waterloo and Manchester.

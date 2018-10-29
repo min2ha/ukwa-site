@@ -10,6 +10,4 @@
   "start_date": "2015-03-10T09:00:00Z"
 }
 
-# Volkswagen Type Two Owners Club (VWT2OC)
-
 The club purpose is to support owners of all transporters and campers based on the Type 2 Volkswagen van chassis, helping them to keep their vans on the road. 

@@ -10,5 +10,3 @@
   "start_date": "2015-03-25T00:00:00Z"
 }
 
-# Cyngor Cymuned Ysceifiog Community Council
-

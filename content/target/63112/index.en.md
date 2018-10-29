@@ -11,6 +11,4 @@
   "subject": "Welsh Language/ Iaith Gymraeg"
 }
 
-# Gwerddon
-
 Gwerddon is a Welsh academic journal funded by Coleg Cymraeg Cenedlaethol. Gwerddon was established in 2007 and is published twice a year. The site is also an online archive to past issues.
